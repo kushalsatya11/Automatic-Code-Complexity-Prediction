@@ -1,0 +1,129 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+42469170,89,1536082362,2147483647,B,2200,dp-expression parsing-graphs-implementation,KulikAlex,Java 8,280,0
+39417699,89,1529428336,2147483647,A,1800,greedy,KulikAlex,Java 8,140,0
+25378853,89,1489147930,2147483647,A,1800,greedy,Omar_Morsi,Java 8,124,20582400
+25330863,89,1488926523,2147483647,A,1800,greedy,pitfall,Java 8,124,20582400
+20628254,89,1473892931,2147483647,B,2200,dp-expression parsing-graphs-implementation,Ahmad_Elsagheer,Java 8,280,0
+20627813,89,1473889360,2147483647,C,2100,brute force-data structures-implementation,Ahmad_Elsagheer,Java 8,1090,0
+20627304,89,1473886136,2147483647,A,1800,greedy,Ahmad_Elsagheer,Java 8,140,0
+20291681,89,1472601156,2147483647,E,2900,greedy,AlexFetisov,Java 8,140,0
+20220317,89,1472426500,2147483647,D,2400,geometry,AlexFetisov,Java 8,280,0
+16270089,89,1456107683,2147483647,A,1800,greedy,xiaowuc1,Java 7,278,0
+12407387,89,1438990123,2147483647,A,1800,greedy,Abkreno94,Java 8,218,0
+11814271,89,1435467318,2147483647,C,2100,brute force-data structures-implementation,AlexFetisov,Java 8,1434,0
+10958690,89,1430450866,2147483647,A,1800,greedy,poikniok,Java 8,248,28569600
+9406874,89,1421051466,2147483647,A,1800,greedy,dened,Java 8,248,0
+9356530,89,1420326410,2147483647,A,1800,greedy,mkirsche,Java 7,248,0
+9356524,89,1420326333,2147483647,A,1800,greedy,mkirsche,Java 7,248,0
+8868263,89,1417084400,2147483647,A,1800,greedy,alibaba,Java 7,186,0
+7305837,89,1406882745,2147483647,A,1800,greedy,owenomar,Java 7,218,102400
+6784852,89,1401767708,2147483647,A,1800,greedy,0p9o8i,Java 7,248,0
+5776840,89,1390477739,2147483647,B,2200,dp-expression parsing-graphs-implementation,alibaba,Java 6,186,102400
+5739459,89,1390126931,2147483647,C,2100,brute force-data structures-implementation,hama-du,Java 7,2496,0
+5739015,89,1390121906,2147483647,A,1800,greedy,hama-du,Java 7,218,102400
+4591834,89,1380313566,2147483647,A,1800,greedy,tylerbrazill,Java 6,248,102400
+4591770,89,1380313063,2147483647,A,1800,greedy,edorundo,Java 7,248,102400
+4591762,89,1380312993,2147483647,A,1800,greedy,Zyflair,Java 7,248,102400
+4354359,89,1377570100,2147483647,A,1800,greedy,santjuan,Java 7,156,0
+4306886,89,1376806278,2147483647,A,1800,greedy,nickbuelich,Java 7,156,0
+3402271,89,1364183168,2147483647,B,2200,dp-expression parsing-graphs-implementation,xiaowuc1,Java 6,93,2252800
+3294896,89,1363095807,2147483647,A,1800,greedy,ixxa,Java 7,156,102400
+2885071,89,1357646875,3955,C,2100,brute force-data structures-implementation,niyaznigmatul,Java 7,2031,307200
+2885038,89,1357645357,2437,B,2200,dp-expression parsing-graphs-implementation,niyaznigmatul,Java 7,78,0
+2884998,89,1357644242,1321,A,1800,greedy,niyaznigmatul,Java 7,93,0
+1822165,89,1340395436,2147483647,A,1800,greedy,Ahmed_Salama,Java 6,200,43315200
+1813672,89,1340368645,2147483647,A,1800,greedy,elizavetta,Java 6,160,43520000
+1292795,89,1330999581,2147483647,A,1800,greedy,FatSheep,Java 6,170,45056000
+1074945,89,1326873363,2147483647,D,2400,geometry,Navigabimus,Java 6,200,43622400
+956022,89,1323932545,2147483647,A,1800,greedy,mostafa_fahim,Java 6,190,43212800
+885474,89,1321951843,13715443,C,2100,brute force-data structures-implementation,wangyongliang,Java 6,1000,35328000
+885466,89,1321951483,13715083,C,2100,brute force-data structures-implementation,wangyongliang,Java 6,970,35328000
+885450,89,1321950851,13714451,C,2100,brute force-data structures-implementation,wangyongliang,Java 6,1550,35635200
+794730,89,1319529291,11292891,A,1800,greedy,travm12,Java 6,170,43212800
+706503,89,1316260232,8023832,B,2200,dp-expression parsing-graphs-implementation,mostafa_fahim,Java 6,110,35225600
+575774,89,1312265179,4028779,A,1800,greedy,JoKe,Java 6,170,43212800
+573925,89,1312122092,3885692,C,2100,brute force-data structures-implementation,dalex,Java 6,1640,43008000
+553294,89,1311255688,3019288,A,1800,greedy,Spacejoker,Java 6,110,43110400
+525596,89,1309581289,1344889,C,2100,brute force-data structures-implementation,tunyash,Java 6,1230,43315200
+511576,89,1309108442,872042,C,2100,brute force-data structures-implementation,sayuan,Java 6,1940,43315200
+509401,89,1308896503,660103,A,1800,greedy,DoublePointer,Java 6,170,35225600
+498924,89,1308578423,342023,A,1800,greedy,yasu0207,Java 6,170,43110400
+498230,89,1308521603,285203,A,1800,greedy,Sammarize,Java 6,90,43212800
+496951,89,1308390340,153940,C,2100,brute force-data structures-implementation,anhdt,Java 6,840,43212800
+496779,89,1308373665,137265,C,2100,brute force-data structures-implementation,S.Yesipenko,Java 6,670,35225600
+496770,89,1308372351,135951,C,2100,brute force-data structures-implementation,S.Yesipenko,Java 6,720,35328000
+496768,89,1308372037,135637,C,2100,brute force-data structures-implementation,S.Yesipenko,Java 6,720,43212800
+496763,89,1308371687,135287,C,2100,brute force-data structures-implementation,S.Yesipenko,Java 6,1030,43008000
+496372,89,1308330453,94053,A,1800,greedy,sroyal,Java 6,170,43110400
+496357,89,1308329532,93132,A,1800,greedy,psucoder,Java 6,110,43008000
+496276,89,1308323574,87174,A,1800,greedy,kiko91_7,Java 6,170,43110400
+496056,89,1308314087,77687,D,2400,geometry,S.Yesipenko,Java 6,110,43417600
+495792,89,1308304208,67808,C,2100,brute force-data structures-implementation,islam-al-aarag,Java 6,1690,43212800
+495748,89,1308302490,66090,A,1800,greedy,islam-al-aarag,Java 6,90,43110400
+495645,89,1308299034,62634,C,2100,brute force-data structures-implementation,R_R_,Java 6,810,43110400
+495560,89,1308297134,60734,C,2100,brute force-data structures-implementation,R_R_,Java 6,2500,43212800
+494805,89,1308257669,21269,C,2100,brute force-data structures-implementation,yaro,Java 6,590,43520000
+494780,89,1308256861,20461,C,2100,brute force-data structures-implementation,yaro,Java 6,3520,43622400
+494775,89,1308256558,20158,C,2100,brute force-data structures-implementation,yaro,Java 6,3630,43520000
+494744,89,1308255131,18731,A,1800,greedy,SergeyLazarev,Java 6,90,43110400
+494724,89,1308254309,17909,B,2200,dp-expression parsing-graphs-implementation,ahmad_mamdouh,Java 6,90,43008000
+494695,89,1308253466,17066,A,1800,greedy,Slamur,Java 6,90,43110400
+494611,89,1308250095,13695,D,2400,geometry,yaro,Java 6,90,43315200
+494595,89,1308249736,13336,B,2200,dp-expression parsing-graphs-implementation,rizar,Java 6,130,43110400
+494593,89,1308249709,13309,D,2400,geometry,yaro,Java 6,110,43315200
+494583,89,1308249533,13133,B,2200,dp-expression parsing-graphs-implementation,R_R_,Java 6,90,43110400
+494571,89,1308249358,12958,A,1800,greedy,svm11,Java 6,110,43008000
+494550,89,1308249054,12654,A,1800,greedy,borisgrubic,Java 6,170,43110400
+494418,89,1308247398,10998,C,2100,brute force-data structures-implementation,uwi,Java 6,2890,43724800
+494363,89,1308246994,10594,C,2100,brute force-data structures-implementation,uwi,Java 6,2910,43520000
+494342,89,1308246806,10406,B,2200,dp-expression parsing-graphs-implementation,dened,Java 6,90,43008000
+494302,89,1308246549,10149,A,1800,greedy,anhdt,Java 6,90,43110400
+494177,89,1308245997,9597,B,2200,dp-expression parsing-graphs-implementation,uwi,Java 6,110,43110400
+494142,89,1308245864,9464,A,1800,greedy,rajatag12,Java 6,90,43110400
+494130,89,1308245828,9428,C,2100,brute force-data structures-implementation,rajatag12,Java 6,3160,43008000
+494121,89,1308245810,9410,A,1800,greedy,pius_88,Java 6,80,43008000
+494032,89,1308245403,9003,A,1800,greedy,Egor,Java 6,110,43008000
+494001,89,1308245342,8942,A,1800,greedy,dalex,Java 6,110,43008000
+493963,89,1308245249,8849,B,2200,dp-expression parsing-graphs-implementation,Narg,Java 6,90,35328000
+493954,89,1308245223,8823,B,2200,dp-expression parsing-graphs-implementation,sayuan,Java 6,110,43110400
+493807,89,1308244913,8513,B,2200,dp-expression parsing-graphs-implementation,islam-al-aarag,Java 6,110,43008000
+493785,89,1308244883,8483,B,2200,dp-expression parsing-graphs-implementation,pyshnograev,Java 6,110,43008000
+493751,89,1308244836,8436,B,2200,dp-expression parsing-graphs-implementation,S.Yesipenko,Java 6,90,43008000
+493692,89,1308244743,8343,C,2100,brute force-data structures-implementation,yiuyuho,Java 6,2390,43212800
+493682,89,1308244720,8320,A,1800,greedy,pyshnograev,Java 6,110,43212800
+493548,89,1308243500,7100,A,1800,greedy,Omar.Darwish,Java 6,140,43110400
+493516,89,1308243460,7060,C,2100,brute force-data structures-implementation,shevchen,Java 6,3890,43212800
+493412,89,1308243333,6933,D,2400,geometry,uwi,Java 6,140,43110400
+493370,89,1308243283,6883,A,1800,greedy,tehqin,Java 6,90,43008000
+493341,89,1308243250,6850,A,1800,greedy,S.Yesipenko,Java 6,110,43110400
+493296,89,1308243176,6776,A,1800,greedy,dened,Java 6,130,43110400
+493293,89,1308243168,6768,D,2400,geometry,Sergey.Bankevich,Java 6,200,43622400
+493229,89,1308243080,6680,B,2200,dp-expression parsing-graphs-implementation,tehqin,Java 6,90,43008000
+493158,89,1308242964,6564,B,2200,dp-expression parsing-graphs-implementation,Bugman,Java 6,110,43110400
+492956,89,1308242604,6204,A,1800,greedy,Xazker,Java 6,90,43622400
+492579,89,1308241811,5411,B,2200,dp-expression parsing-graphs-implementation,SergeyLazarev,Java 6,90,43008000
+492451,89,1308241557,5157,B,2200,dp-expression parsing-graphs-implementation,Sergey.Bankevich,Java 6,130,43315200
+492441,89,1308241531,5131,D,2400,geometry,R_R_,Java 6,230,43212800
+492359,89,1308241367,4967,B,2200,dp-expression parsing-graphs-implementation,MAK,Java 6,110,43110400
+492283,89,1308241198,4798,B,2200,dp-expression parsing-graphs-implementation,Xazker,Java 6,90,43520000
+492111,89,1308240786,4386,B,2200,dp-expression parsing-graphs-implementation,Egor,Java 6,90,43008000
+492107,89,1308240776,4376,A,1800,greedy,Narg,Java 6,110,43110400
+492077,89,1308240699,4299,C,2100,brute force-data structures-implementation,pt1989,Java 6,2190,43008000
+491901,89,1308240318,3918,C,2100,brute force-data structures-implementation,alexey.enkov,Java 6,3080,43724800
+491842,89,1308240219,3819,A,1800,greedy,mmaxio,Java 6,110,43110400
+491816,89,1308240175,3775,B,2200,dp-expression parsing-graphs-implementation,yiuyuho,Java 6,80,43008000
+491631,89,1308239839,3439,C,2100,brute force-data structures-implementation,zibada,Java 6,890,43212800
+491609,89,1308239790,3390,A,1800,greedy,lordklotski,Java 6,170,43110400
+491589,89,1308239744,3344,D,2400,geometry,Egor,Java 6,110,43008000
+491242,89,1308239162,2762,A,1800,greedy,UESTC_Defense,Java 6,160,43110400
+491107,89,1308238955,2555,C,2100,brute force-data structures-implementation,dened,Java 6,2590,43212800
+490898,89,1308238674,2274,C,2100,brute force-data structures-implementation,Egor,Java 6,970,43110400
+490777,89,1308238511,2111,A,1800,greedy,shevchen,Java 6,170,43110400
+490776,89,1308238510,2110,A,1800,greedy,sayuan,Java 6,160,43110400
+490720,89,1308238436,2036,A,1800,greedy,dalex,Java 6,110,43008000
+490371,89,1308238000,1600,A,1800,greedy,Sergey.Bankevich,Java 6,160,43315200
+490149,89,1308237760,1360,A,1800,greedy,yiuyuho,Java 6,160,43110400
+490072,89,1308237699,1299,A,1800,greedy,yaro,Java 6,110,43212800
+489668,89,1308237357,957,A,1800,greedy,uwi,Java 6,160,43110400
+489363,89,1308237084,684,A,1800,greedy,OgieKako,Java 6,90,43008000
+489177,89,1308236902,502,A,1800,greedy,alexey.enkov,Java 6,130,43622400

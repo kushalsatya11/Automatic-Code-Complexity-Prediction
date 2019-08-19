@@ -1,0 +1,1557 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57858803,1091,1564245033,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,insane_28,Java 8,124,0,OK
+57466508,1091,1563724130,2147483647,G,3100,interactive-math-number theory,MilutinovicM,Java 8,280,0,OK
+57454173,1091,1563706502,2147483647,A,900,brute force-implementation-math,Rohinee136,Java 8,140,0,OK
+57423130,1091,1563649897,2147483647,A,900,brute force-implementation-math,vvenkai,Java 8,124,0,OK
+57380283,1091,1563632323,2147483647,C,1400,math-number theory,goalboy,Java 8,186,0,OK
+57364355,1091,1563612286,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,vjudge5,Java 8,202,0,OK
+57351082,1091,1563593737,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,vjudge5,Java 8,140,0,OK
+57350943,1091,1563593348,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,vjudge5,Java 8,155,0,OK
+57350229,1091,1563591514,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,vjudge4,Java 8,155,0,OK
+57349189,1091,1563589042,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,vjudge4,Java 8,155,0,OK
+57203623,1091,1563374228,2147483647,C,1400,math-number theory,gaurav___kumar,Java 8,124,0,OK
+56808510,1091,1562770653,2147483647,A,900,brute force-implementation-math,JhansiVasa,Java 8,124,0,OK
+56768901,1091,1562702823,2147483647,C,1400,math-number theory,ashcodish,Java 8,140,6758400,OK
+56768593,1091,1562702107,2147483647,C,1400,math-number theory,ashcodish,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56513197,1091,1562239726,2147483647,A,900,brute force-implementation-math,deepaktiwari9898,Java 8,139,0,OK
+56397802,1091,1561994698,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,beykus,Java 8,155,0,OK
+56068461,1091,1561540183,2147483647,A,900,brute force-implementation-math,tobitherobot,Java 8,139,0,OK
+55827067,1091,1561029882,2147483647,C,1400,math-number theory,shinghalrishabh,Java 8,124,0,OK
+55596008,1091,1560611126,2147483647,A,900,brute force-implementation-math,beykus,Java 8,140,0,OK
+55522990,1091,1560418517,2147483647,A,900,brute force-implementation-math,mahmoudhamdyae,Java 8,140,0,OK
+55408553,1091,1560189948,2147483647,A,900,brute force-implementation-math,hardikkumar.katakiya,Java 8,140,0,OK
+55117622,1091,1559726715,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,GreatWhite,Java 8,342,0,OK
+54993874,1091,1559508659,2147483647,A,900,brute force-implementation-math,DLucky,Java 8,140,0,OK
+54871638,1091,1559295265,2147483647,A,900,brute force-implementation-math,hctep,Java 8,140,0,OK
+54693526,1091,1558893648,2147483647,A,900,brute force-implementation-math,bashar99,Java 8,187,0,OK
+54463224,1091,1558470313,2147483647,A,900,brute force-implementation-math,insane_28,Java 8,109,0,OK
+54443355,1091,1558432546,2147483647,A,900,brute force-implementation-math,sahib_navlani,Java 8,140,0,OK
+54249242,1091,1558023712,2147483647,D,1700,combinatorics-dp-math,benpr99,Java 8,514,76185600,OK
+53825526,1091,1557157804,2147483647,C,1400,math-number theory,Ikari_stream,Java 8,109,0,OK
+53682983,1091,1556829980,2147483647,D,1700,combinatorics-dp-math,woidjoe,Java 8,170,16076800,OK
+53191610,1091,1556024912,2147483647,C,1400,math-number theory,maheshwari29,Java 8,140,0,OK
+53165648,1091,1555955754,2147483647,A,900,brute force-implementation-math,murhaf,Java 8,140,0,OK
+53056247,1091,1555781911,2147483647,C,1400,math-number theory,Gundaswami,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+53028287,1091,1555706618,2147483647,C,1400,math-number theory,stolis,Java 8,140,0,OK
+52935460,1091,1555567624,2147483647,A,900,brute force-implementation-math,SJ_1397,Java 8,124,0,OK
+52612546,1091,1555001096,2147483647,A,900,brute force-implementation-math,Jetch,Java 8,124,0,OK
+52509347,1091,1554757185,1785,A,900,brute force-implementation-math,khiladir,Java 8,124,0,OK
+52298059,1091,1554362599,2147483647,A,900,brute force-implementation-math,jijiamingxiangshanghong,Java 8,124,0,OK
+51954450,1091,1553818389,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,tqsx,Java 8,1231,121856000,OK
+51953808,1091,1553814722,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,tqsx,Java 8,1500,121958400,TIME_LIMIT_EXCEEDED
+51950067,1091,1553801355,2147483647,A,900,brute force-implementation-math,tqsx,Java 8,139,0,OK
+51884367,1091,1553663652,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,goalboy,Java 8,233,0,OK
+51682896,1091,1553261082,2147483647,D,1700,combinatorics-dp-math,AWCXV,Java 8,187,15360000,OK
+51682792,1091,1553260944,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,stolis,Java 8,732,52940800,OK
+51674992,1091,1553248841,2147483647,A,900,brute force-implementation-math,Suprodip,Java 8,140,0,OK
+51458275,1091,1552932558,2147483647,A,900,brute force-implementation-math,stolis,Java 8,155,0,OK
+51427553,1091,1552853999,2147483647,A,900,brute force-implementation-math,yhsharaf,Java 8,170,0,OK
+51426423,1091,1552851075,2147483647,D,1700,combinatorics-dp-math,tsumit023,Java 8,124,0,OK
+51248993,1091,1552461677,2147483647,A,900,brute force-implementation-math,codingwithspeed,Java 8,139,0,OK
+51221337,1091,1552394053,2147483647,A,900,brute force-implementation-math,batkhuyag,Java 8,139,0,OK
+51167094,1091,1552315405,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,vjudge1,Java 8,514,0,OK
+50881233,1091,1551862734,2147483647,F,2600,constructive algorithms-greedy,Morgan_Y,Java 8,171,7168000,OK
+50813371,1091,1551780607,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,Morgan_Y,Java 8,1622,19968000,OK
+50809456,1091,1551772070,2147483647,D,1700,combinatorics-dp-math,Morgan_Y,Java 8,170,15462400,OK
+50809152,1091,1551771315,2147483647,A,900,brute force-implementation-math,vjudge5,Java 8,155,0,OK
+50636595,1091,1551441913,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Negm777,Java 8,155,0,OK
+50623609,1091,1551413488,2147483647,C,1400,math-number theory,pabbared,Java 8,140,0,OK
+50623458,1091,1551413040,2147483647,C,1400,math-number theory,pabbared,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50586135,1091,1551325950,2147483647,C,1400,math-number theory,pabbared,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50530699,1091,1551187934,2147483647,C,1400,math-number theory,Morgan_Y,Java 8,109,0,OK
+50529823,1091,1551186787,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Morgan_Y,Java 8,109,0,OK
+50528577,1091,1551185186,2147483647,A,900,brute force-implementation-math,Morgan_Y,Java 8,109,0,OK
+50477345,1091,1551077478,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,donli,Java 8,420,14540800,OK
+50427703,1091,1551011072,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Jarik,Java 8,155,0,OK
+50407670,1091,1550960341,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Jarik,Java 8,155,0,OK
+50407593,1091,1550960022,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Jarik,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+50394573,1091,1550935211,2147483647,C,1400,math-number theory,Jarik,Java 8,124,0,OK
+50392530,1091,1550932146,2147483647,A,900,brute force-implementation-math,Jarik,Java 8,109,0,OK
+50302646,1091,1550806788,2147483647,D,1700,combinatorics-dp-math,donli,Java 8,186,22528000,OK
+50289505,1091,1550767326,2147483647,A,900,brute force-implementation-math,vjudge2,Java 8,109,0,OK
+50241051,1091,1550667393,2147483647,A,900,brute force-implementation-math,swapnil96,Java 8,139,0,OK
+50227666,1091,1550648729,2147483647,D,1700,combinatorics-dp-math,donli,Java 8,218,22528000,OK
+50213937,1091,1550630979,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,donli,Java 8,124,0,OK
+50162096,1091,1550581318,2147483647,A,900,brute force-implementation-math,newheathen,Java 8,124,0,OK
+50154883,1091,1550568445,2147483647,C,1400,math-number theory,donli,Java 8,109,0,OK
+50149548,1091,1550558480,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,donli,Java 8,202,0,OK
+50148923,1091,1550557209,2147483647,A,900,brute force-implementation-math,donli,Java 8,124,0,OK
+50145759,1091,1550548284,2147483647,A,900,brute force-implementation-math,vjudge5,Java 8,139,0,OK
+50142722,1091,1550534457,2147483647,A,900,brute force-implementation-math,vjudge4,Java 8,109,0,OK
+50142714,1091,1550534420,2147483647,A,900,brute force-implementation-math,casalazara,Java 8,124,0,OK
+50090921,1091,1550485122,2147483647,A,900,brute force-implementation-math,vjudge2,Java 8,139,0,OK
+50090832,1091,1550484946,2147483647,A,900,brute force-implementation-math,vjudge1,Java 8,140,0,OK
+50087097,1091,1550477297,2147483647,A,900,brute force-implementation-math,hareesh.veligeti,Java 8,155,0,OK
+50084165,1091,1550471276,2147483647,D,1700,combinatorics-dp-math,happybelly,Java 8,295,0,OK
+49998918,1091,1550334387,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,StarLord_07,Java 8,155,0,OK
+49994555,1091,1550326746,2147483647,A,900,brute force-implementation-math,viratK,Java 8,140,0,OK
+49932806,1091,1550209511,2147483647,A,900,brute force-implementation-math,vjudge2,Java 8,140,0,OK
+49907307,1091,1550147815,2147483647,D,1700,combinatorics-dp-math,zhongzh13,Java 8,217,16076800,OK
+49904346,1091,1550142716,2147483647,C,1400,math-number theory,zhongzh13,Java 8,124,0,OK
+49902829,1091,1550139524,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,zhongzh13,Java 8,421,0,OK
+49902240,1091,1550138432,2147483647,A,900,brute force-implementation-math,zhongzh13,Java 8,124,0,OK
+49817191,1091,1549953655,2147483647,D,1700,combinatorics-dp-math,happybelly,Java 8,202,15360000,OK
+49769701,1091,1549890545,2147483647,D,1700,combinatorics-dp-math,zqert,Java 8,187,23040000,OK
+49768787,1091,1549889262,2147483647,D,1700,combinatorics-dp-math,zqert,Java 8,2000,15974400,TIME_LIMIT_EXCEEDED
+49765889,1091,1549885134,2147483647,C,1400,math-number theory,Behnam1999,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49726458,1091,1549813495,2147483647,A,900,brute force-implementation-math,KaungKhantThar,Java 8,140,0,OK
+49618595,1091,1549612399,2147483647,C,1400,math-number theory,ADJA,Java 8,124,0,OK
+49617670,1091,1549610036,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,ADJA,Java 8,124,0,OK
+49617484,1091,1549609593,2147483647,A,900,brute force-implementation-math,ADJA,Java 8,109,0,OK
+49528496,1091,1549456987,2147483647,C,1400,math-number theory,i_am_not_real,Java 8,155,0,OK
+49523652,1091,1549446767,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,i_am_not_real,Java 8,140,0,OK
+49520764,1091,1549439112,2147483647,C,1400,math-number theory,happybelly,Java 8,109,0,OK
+49520520,1091,1549438381,2147483647,C,1400,math-number theory,happybelly,Java 8,109,0,OK
+49519580,1091,1549435810,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Rushi5032,Java 8,155,0,OK
+49518945,1091,1549434127,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,happybelly,Java 8,124,0,OK
+49518832,1091,1549433784,2147483647,A,900,brute force-implementation-math,happybelly,Java 8,109,0,OK
+49506015,1091,1549387939,2147483647,A,900,brute force-implementation-math,arahman1214,Java 8,139,0,OK
+49490760,1091,1549359540,2147483647,A,900,brute force-implementation-math,i_am_not_real,Java 8,140,0,OK
+49488000,1091,1549352079,2147483647,A,900,brute force-implementation-math,Rushi5032,Java 8,155,0,OK
+49474575,1091,1549305854,2147483647,A,900,brute force-implementation-math,Nonnna,Java 8,109,0,OK
+49442415,1091,1549232080,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,bodziozet,Java 8,343,0,OK
+49434139,1091,1549215546,2147483647,A,900,brute force-implementation-math,bodziozet,Java 8,140,0,OK
+49400501,1091,1549204292,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,apurvaj,Java 8,374,0,OK
+49396907,1091,1549198108,2147483647,A,900,brute force-implementation-math,DavidVictor2004,Java 8,140,0,OK
+49365994,1091,1549119839,2147483647,A,900,brute force-implementation-math,sabehahshaik,Java 8,140,0,OK
+49365972,1091,1549119796,196,A,900,brute force-implementation-math,PotatoKiller,Java 8,139,0,OK
+49362991,1091,1549115085,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,sabehahshaik,Java 8,140,0,OK
+49349982,1091,1549094108,2147483647,D,1700,combinatorics-dp-math,sumit3,Java 8,155,0,OK
+49241844,1091,1548931375,2147483647,A,900,brute force-implementation-math,EmilSilva,Java 8,109,0,OK
+49208467,1091,1548859337,2147483647,A,900,brute force-implementation-math,Vishal_dhanani,Java 8,140,0,OK
+49191561,1091,1548836838,4038,C,1400,math-number theory,zqert,Java 8,155,0,OK
+49190330,1091,1548835131,2331,B,1200,brute force-constructive algorithms-greedy-implementation,zqert,Java 8,140,0,OK
+49188955,1091,1548833081,280,A,900,brute force-implementation-math,zqert,Java 8,139,0,OK
+49184900,1091,1548825577,2147483647,A,900,brute force-implementation-math,goalboy,Java 8,140,0,OK
+49173426,1091,1548788977,2147483647,A,900,brute force-implementation-math,Ziax,Java 8,109,0,OK
+49149897,1091,1548764077,2147483647,A,900,brute force-implementation-math,Hazard10,Java 8,109,0,OK
+49139477,1091,1548753987,2147483647,A,900,brute force-implementation-math,ahmedayman96,Java 8,109,0,OK
+49136909,1091,1548749367,2147483647,A,900,brute force-implementation-math,pihugupta,Java 8,140,0,OK
+49118176,1091,1548698103,2147483647,A,900,brute force-implementation-math,tkech17,Java 8,124,0,OK
+49106618,1091,1548681746,2147483647,D,1700,combinatorics-dp-math,revanthreddy85,Java 8,171,16486400,OK
+49106542,1091,1548681635,2147483647,D,1700,combinatorics-dp-math,revanthreddy85,Java 8,187,16588800,OK
+49088016,1091,1548662285,4385,C,1400,math-number theory,revanthreddy85,Java 8,124,0,OK
+49085943,1091,1548660409,2509,B,1200,brute force-constructive algorithms-greedy-implementation,revanthreddy85,Java 8,124,0,OK
+49084468,1091,1548659096,1196,A,900,brute force-implementation-math,revanthreddy85,Java 8,124,0,OK
+49066248,1091,1548611581,2147483647,A,900,brute force-implementation-math,ridamnagar11,Java 8,140,0,OK
+49034864,1091,1548555901,2147483647,A,900,brute force-implementation-math,WeedWizard,Java 8,155,0,OK
+48992103,1091,1548514311,2147483647,A,900,brute force-implementation-math,Rhythmic_Violence,Java 8,139,0,OK
+48961263,1091,1548483856,2147483647,A,900,brute force-implementation-math,sandhya507,Java 8,140,0,OK
+48943727,1091,1548439033,2147483647,C,1400,math-number theory,younesbmz,Java 8,109,0,OK
+48943051,1091,1548437844,2147483647,C,1400,math-number theory,younesbmz,Java 8,109,0,OK
+48942524,1091,1548436693,2147483647,C,1400,math-number theory,younesbmz,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48895033,1091,1548343982,2147483647,D,1700,combinatorics-dp-math,KamelSamara,Java 8,155,16076800,OK
+48894694,1091,1548343479,2147483647,A,900,brute force-implementation-math,haritwalsiddhant,Java 8,140,0,OK
+48894171,1091,1548342695,2147483647,C,1400,math-number theory,YamaKasa,Java 8,140,0,OK
+48855645,1091,1548269202,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,qqanyjuan,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+48786469,1091,1548234744,2147483647,A,900,brute force-implementation-math,vjudge1,Java 8,124,0,OK
+48777837,1091,1548220889,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,qqanyjuan,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+48777265,1091,1548219566,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,qqanyjuan,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+48776172,1091,1548216550,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,qqanyjuan,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+48770541,1091,1548199161,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,SelenaZ,Java 8,171,0,OK
+48722939,1091,1548166792,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,YamaKasa,Java 8,171,0,OK
+48719170,1091,1548161170,2147483647,A,900,brute force-implementation-math,Shivam_72,Java 8,109,0,OK
+48711097,1091,1548146040,2147483647,A,900,brute force-implementation-math,YamaKasa,Java 8,140,0,OK
+48645479,1091,1548004561,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,KamelSamara,Java 8,140,0,OK
+48565936,1091,1547890402,2147483647,A,900,brute force-implementation-math,captin_price_627,Java 8,139,0,OK
+48547451,1091,1547844092,2147483647,D,1700,combinatorics-dp-math,Pratik_Rajani,Java 8,124,0,OK
+48547419,1091,1547843953,2147483647,D,1700,combinatorics-dp-math,Pratik_Rajani,Java 8,155,0,OK
+48513715,1091,1547775247,2147483647,A,900,brute force-implementation-math,harshilpatel4603,Java 8,140,0,OK
+48496268,1091,1547730414,2147483647,C,1400,math-number theory,xodiac,Java 8,124,0,OK
+48456876,1091,1547643584,2147483647,A,900,brute force-implementation-math,sankcan55,Java 8,140,0,OK
+48455358,1091,1547641630,1330,B,1200,brute force-constructive algorithms-greedy-implementation,xodiac,Java 8,795,0,OK
+48454518,1091,1547640478,178,A,900,brute force-implementation-math,xodiac,Java 8,124,0,OK
+48434634,1091,1547580676,2147483647,D,1700,combinatorics-dp-math,alibaba,Java 8,186,15360000,OK
+48432374,1091,1547575773,2147483647,C,1400,math-number theory,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48431430,1091,1547574000,2147483647,C,1400,math-number theory,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48430067,1091,1547571199,1099,A,900,brute force-implementation-math,mannshah27,Java 8,140,0,OK
+48429714,1091,1547570520,2147483647,C,1400,math-number theory,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48428812,1091,1547568888,2147483647,C,1400,math-number theory,gaurav.gk5826,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48428715,1091,1547568729,2147483647,C,1400,math-number theory,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48425912,1091,1547564065,2147483647,A,900,brute force-implementation-math,jatin.jain9414,Java 8,140,0,OK
+48415585,1091,1547547192,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Latency,Java 8,233,0,OK
+48405765,1091,1547522927,2147483647,A,900,brute force-implementation-math,UNDEFINED987,Java 8,124,0,OK
+48384337,1091,1547467810,2147483647,A,900,brute force-implementation-math,danny2019,Java 8,155,0,OK
+48379096,1091,1547458033,2147483647,C,1400,math-number theory,archit1jain,Java 8,155,0,OK
+48378103,1091,1547455729,2147483647,C,1400,math-number theory,archit1jain,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48321265,1091,1547371512,2147483647,F,2600,constructive algorithms-greedy,wolfib,Java 8,155,2048000,OK
+48311876,1091,1547348371,2147483647,A,900,brute force-implementation-math,YakovPolykovsky,Java 8,155,0,OK
+48309258,1091,1547333424,2147483647,C,1400,math-number theory,bking11,Java 8,124,0,OK
+48308655,1091,1547330936,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,gaurav.gk5826,Java 8,171,0,OK
+48308206,1091,1547329123,2147483647,A,900,brute force-implementation-math,gaurav.gk5826,Java 8,124,0,OK
+48304176,1091,1547318413,1213,B,1200,brute force-constructive algorithms-greedy-implementation,bking11,Java 8,124,0,OK
+48303662,1091,1547317394,194,A,900,brute force-implementation-math,bking11,Java 8,124,0,OK
+48301097,1091,1547312292,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,juanto121,Java 8,109,0,OK
+48198384,1091,1547173318,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,subashmisra,Java 8,140,0,OK
+48190583,1091,1547141964,2147483647,C,1400,math-number theory,Pratik_Rajani,Java 8,124,0,OK
+48178718,1091,1547118899,2147483647,A,900,brute force-implementation-math,NassimaBt,Java 8,140,0,OK
+48177731,1091,1547116725,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Pratik_Rajani,Java 8,1372,122163200,OK
+48177336,1091,1547115794,2147483647,A,900,brute force-implementation-math,Pratik_Rajani,Java 8,124,0,OK
+48175184,1091,1547111396,2147483647,D,1700,combinatorics-dp-math,tusharjape007,Java 8,2000,15360000,TIME_LIMIT_EXCEEDED
+48155476,1091,1547053476,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Harbin,Java 8,124,0,OK
+48143413,1091,1547049304,2147483647,A,900,brute force-implementation-math,mabubeih,Java 8,124,0,OK
+48118009,1091,1547042472,2147483647,A,900,brute force-implementation-math,ruchit_22,Java 8,139,0,OK
+48117096,1091,1547040572,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Anonymous9,Java 8,155,0,OK
+48115428,1091,1547036649,2147483647,A,900,brute force-implementation-math,ceren,Java 8,139,0,OK
+48114162,1091,1547033740,2147483647,A,900,brute force-implementation-math,no_1999,Java 8,124,0,OK
+48113484,1091,1547032053,2147483647,G,3100,interactive-math-number theory,tmwilliamlin168,Java 8,202,0,OK
+48106617,1091,1547013116,2147483647,A,900,brute force-implementation-math,archit1jain,Java 8,140,0,OK
+48103307,1091,1546993672,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,zhadyrassyn,Java 8,156,0,OK
+48103039,1091,1546991715,2147483647,A,900,brute force-implementation-math,zhadyrassyn,Java 8,139,0,OK
+48101296,1091,1546981185,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,IBatJ,Java 8,155,0,OK
+48098448,1091,1546972374,2147483647,A,900,brute force-implementation-math,vjudge2,Java 8,139,0,OK
+48091698,1091,1546956670,2147483647,C,1400,math-number theory,ariel.nowik,Java 8,155,0,OK
+48091164,1091,1546955666,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,tusharjape007,Java 8,155,0,OK
+48091074,1091,1546955486,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,YousseF_Diaa,Java 8,155,0,OK
+48090278,1091,1546953919,2147483647,A,900,brute force-implementation-math,tusharjape007,Java 8,124,0,OK
+48088888,1091,1546951412,2147483647,A,900,brute force-implementation-math,YousseF_Diaa,Java 8,140,0,OK
+48083063,1091,1546939145,2147483647,G,3100,interactive-math-number theory,Prakash_Gatiyala,Java 8,171,0,OK
+48072744,1091,1546915335,735,A,900,brute force-implementation-math,subashmisra,Java 8,124,0,OK
+48067980,1091,1546889250,2147483647,A,900,brute force-implementation-math,vjudge3,Java 8,155,0,OK
+48066330,1091,1546885361,2147483647,C,1400,math-number theory,sungodavi,Java 8,140,0,OK
+48065359,1091,1546883268,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,sungodavi,Java 8,171,0,OK
+48065050,1091,1546882606,2147483647,A,900,brute force-implementation-math,sungodavi,Java 8,139,0,OK
+48041993,1091,1546806070,2147483647,A,900,brute force-implementation-math,amanjn38,Java 8,140,0,OK
+48041298,1091,1546803272,2147483647,A,900,brute force-implementation-math,CharlesDai,Java 8,124,0,OK
+48039038,1091,1546796592,2147483647,A,900,brute force-implementation-math,ayushkesarwani1000,Java 8,140,0,OK
+48037818,1091,1546793441,2147483647,C,1400,math-number theory,hardrug,Java 8,155,0,OK
+48032838,1091,1546781516,2147483647,A,900,brute force-implementation-math,StarLord_07,Java 8,155,0,OK
+48023061,1091,1546758674,2147483647,A,900,brute force-implementation-math,I.A.K.O.V,Java 8,124,0,OK
+48015212,1091,1546725478,6178,B,1200,brute force-constructive algorithms-greedy-implementation,hardrug,Java 8,1357,141312000,OK
+48015204,1091,1546725457,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,goldcode8,Java 8,124,0,OK
+48015096,1091,1546725094,5794,B,1200,brute force-constructive algorithms-greedy-implementation,hardrug,Java 8,1500,259379200,TIME_LIMIT_EXCEEDED
+48013509,1091,1546721000,1700,A,900,brute force-implementation-math,hardrug,Java 8,124,0,OK
+47970668,1091,1546698682,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,soumyab,Java 8,155,0,OK
+47968477,1091,1546694413,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,rickychandra,Java 8,155,0,OK
+47963318,1091,1546685004,2147483647,D,1700,combinatorics-dp-math,kusomushi,Java 8,155,0,OK
+47962630,1091,1546683472,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,K_B_C_S,Java 8,1544,5529600,OK
+47962176,1091,1546682332,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,K_B_C_S,Java 8,2000,19763200,TIME_LIMIT_EXCEEDED
+47961500,1091,1546680910,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,K_B_C_S,Java 8,2000,20275200,TIME_LIMIT_EXCEEDED
+47958956,1091,1546675989,2147483647,A,900,brute force-implementation-math,aminul,Java 8,140,0,OK
+47950752,1091,1546648453,2147483647,A,900,brute force-implementation-math,Illusions,Java 8,124,0,OK
+47937409,1091,1546620689,2147483647,C,1400,math-number theory,archit1jain,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47936970,1091,1546620498,2147483647,D,1700,combinatorics-dp-math,AnshDivya,Java 8,140,5734400,OK
+47935699,1091,1546619917,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,housni,Java 8,124,0,OK
+47935352,1091,1546619766,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,housni,Java 8,124,0,OK
+47934582,1091,1546619404,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,housni,Java 8,155,0,OK
+47932594,1091,1546618608,2147483647,C,1400,math-number theory,archit1jain,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47931838,1091,1546618327,2147483647,A,900,brute force-implementation-math,dmd161100,Java 8,124,0,OK
+47910421,1091,1546613774,2147483647,A,900,brute force-implementation-math,housni,Java 8,140,0,OK
+47901537,1091,1546612259,2147483647,C,1400,math-number theory,Code_AViCii,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47901516,1091,1546612209,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Code_AViCii,Java 8,202,0,OK
+47901491,1091,1546612167,2147483647,A,900,brute force-implementation-math,Code_AViCii,Java 8,155,0,OK
+47900922,1091,1546610687,2147483647,A,900,brute force-implementation-math,Mackenzie,Java 8,139,0,OK
+47900866,1091,1546610523,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,moc,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47898379,1091,1546604718,2147483647,A,900,brute force-implementation-math,w_2019,Java 8,140,0,OK
+47897997,1091,1546603578,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Zeina_Kandil,Java 8,156,0,OK
+47897220,1091,1546601354,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,bilotiavaibhav,Java 8,155,0,OK
+47897181,1091,1546601254,2147483647,C,1400,math-number theory,bigsec,Java 8,155,0,OK
+47896527,1091,1546599411,2147483647,A,900,brute force-implementation-math,bilotiavaibhav,Java 8,140,0,OK
+47895369,1091,1546595947,2147483647,A,900,brute force-implementation-math,moc,Java 8,140,0,OK
+47892600,1091,1546588390,2147483647,A,900,brute force-implementation-math,ashutoshg,Java 8,140,0,OK
+47891344,1091,1546584614,2147483647,A,900,brute force-implementation-math,ashwin9686,Java 8,140,0,OK
+47891227,1091,1546584254,2147483647,A,900,brute force-implementation-math,QBnewb,Java 8,140,0,OK
+47891166,1091,1546584034,2147483647,A,900,brute force-implementation-math,QBnewb,Java 8,140,0,OK
+47890571,1091,1546582025,2147483647,C,1400,math-number theory,Umangpatel,Java 8,1000,259276800,TIME_LIMIT_EXCEEDED
+47889530,1091,1546577794,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,da_grt_aru,Java 8,155,0,OK
+47888233,1091,1546571267,2147483647,C,1400,math-number theory,Ondassyn,Java 8,139,0,OK
+47888123,1091,1546570618,8758,G,3100,interactive-math-number theory,dragonslayerintraining,Java 8,233,0,OK
+47887510,1091,1546567156,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,iamavalon,Java 8,561,32768000,OK
+47885421,1091,1546552859,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,I_love_sqrtdecompton,Java 8,124,0,OK
+47885365,1091,1546552571,2147483647,A,900,brute force-implementation-math,I_love_sqrtdecompton,Java 8,109,0,OK
+47885292,1091,1546552200,2400,B,1200,brute force-constructive algorithms-greedy-implementation,Instynkt,Java 8,186,0,OK
+47885134,1091,1546551438,1278,A,900,brute force-implementation-math,Maxym_Ko,Java 8,139,0,OK
+47884841,1091,1546550227,427,A,900,brute force-implementation-math,Instynkt,Java 8,109,0,OK
+47884834,1091,1546550201,401,A,900,brute force-implementation-math,Instynkt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47884234,1091,1546547705,2147483647,C,1400,math-number theory,Rohan088,Java 8,124,0,OK
+47883406,1091,1546545203,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,iamavalon,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47881113,1091,1546539871,2147483647,C,1400,math-number theory,alibaba,Java 8,826,0,OK
+47879770,1091,1546537013,2147483647,C,1400,math-number theory,alibaba,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47878331,1091,1546533948,2147483647,C,1400,math-number theory,Behnam1999,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47877856,1091,1546532964,2147483647,A,900,brute force-implementation-math,qwerty1996,Java 8,139,0,OK
+47877349,1091,1546531940,2147483647,A,900,brute force-implementation-math,rickychandra,Java 8,139,0,OK
+47876478,1091,1546530142,2147483647,A,900,brute force-implementation-math,MAEEN,Java 8,140,0,OK
+47875097,1091,1546527370,2147483647,C,1400,math-number theory,remyels,Java 8,186,0,OK
+47875011,1091,1546527212,812,A,900,brute force-implementation-math,da_grt_aru,Java 8,139,0,OK
+47874015,1091,1546525299,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,remyels,Java 8,951,87244800,OK
+47873888,1091,1546525056,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,MikeFaraday,Java 8,124,0,OK
+47873421,1091,1546524215,2147483647,A,900,brute force-implementation-math,shahnirmit2503,Java 8,140,0,OK
+47869717,1091,1546517258,2147483647,C,1400,math-number theory,daljitsingh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47868234,1091,1546514089,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Mared_Coder,Java 8,1419,103116800,OK
+47868109,1091,1546513820,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Mared_Coder,Java 8,1500,66662400,TIME_LIMIT_EXCEEDED
+47867933,1091,1546513428,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Mared_Coder,Java 8,1500,121753600,TIME_LIMIT_EXCEEDED
+47867795,1091,1546513098,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Mared_Coder,Java 8,1500,67788800,TIME_LIMIT_EXCEEDED
+47867776,1091,1546513039,2147483647,C,1400,math-number theory,rahsutamrev,Java 8,109,0,OK
+47867477,1091,1546512253,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Mared_Coder,Java 8,1500,123904000,TIME_LIMIT_EXCEEDED
+47867408,1091,1546512093,2147483647,A,900,brute force-implementation-math,remyels,Java 8,124,0,OK
+47867318,1091,1546511865,2147483647,A,900,brute force-implementation-math,RomaniaRoyality,Java 8,140,0,OK
+47866904,1091,1546510925,2147483647,A,900,brute force-implementation-math,daljitsingh,Java 8,139,0,OK
+47866845,1091,1546510786,2147483647,C,1400,math-number theory,CodePal,Java 8,140,0,OK
+47866063,1091,1546508869,2269,B,1200,brute force-constructive algorithms-greedy-implementation,anubhav_deshwal,Java 8,951,16486400,OK
+47865285,1091,1546507032,432,A,900,brute force-implementation-math,anubhav_deshwal,Java 8,140,0,OK
+47864766,1091,1546505805,2147483647,A,900,brute force-implementation-math,noblade908,Java 8,140,0,OK
+47863866,1091,1546503481,2147483647,A,900,brute force-implementation-math,Eraky,Java 8,124,0,OK
+47863701,1091,1546503002,2147483647,A,900,brute force-implementation-math,sdCoder08,Java 8,139,0,OK
+47863543,1091,1546502563,2147483647,A,900,brute force-implementation-math,Ondassyn,Java 8,124,0,OK
+47863035,1091,1546501283,2147483647,A,900,brute force-implementation-math,aswals8991,Java 8,109,0,OK
+47862640,1091,1546500163,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Juniper,Java 8,156,0,OK
+47862535,1091,1546499893,2147483647,D,1700,combinatorics-dp-math,gamesterrex,Java 8,218,38195200,OK
+47862137,1091,1546498656,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Naman_123,Java 8,124,0,OK
+47861816,1091,1546497588,2147483647,C,1400,math-number theory,CodePal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47861622,1091,1546497012,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Juniper,Java 8,1500,16076800,TIME_LIMIT_EXCEEDED
+47860224,1091,1546493048,2147483647,D,1700,combinatorics-dp-math,bazinga84,Java 8,124,0,OK
+47859108,1091,1546488138,2147483647,C,1400,math-number theory,gamesterrex,Java 8,139,0,OK
+47859053,1091,1546487846,2147483647,C,1400,math-number theory,gamesterrex,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47859036,1091,1546487771,2147483647,C,1400,math-number theory,gamesterrex,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47858879,1091,1546486753,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,gamesterrex,Java 8,826,53248000,OK
+47858123,1091,1546482489,2147483647,A,900,brute force-implementation-math,gamesterrex,Java 8,139,0,OK
+47857969,1091,1546481328,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,enricogi,Java 8,171,0,OK
+47855824,1091,1546466376,2147483647,H,3100,games,tri,Java 8,3416,0,OK
+47854586,1091,1546460656,2147483647,C,1400,math-number theory,TaplierShiru,Java 8,155,0,OK
+47852509,1091,1546454879,2147483647,C,1400,math-number theory,adivannik,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47851424,1091,1546452229,529,A,900,brute force-implementation-math,Andres1,Java 8,109,0,OK
+47850858,1091,1546450929,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,gaurav12,Java 8,155,0,OK
+47849835,1091,1546448438,2147483647,D,1700,combinatorics-dp-math,iamavalon,Java 8,467,0,OK
+47848745,1091,1546446117,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,polyakoff,Java 8,389,14438400,OK
+47848663,1091,1546445944,2147483647,A,900,brute force-implementation-math,sarahajibrahim,Java 8,139,0,OK
+47848657,1091,1546445934,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,rahsutamrev,Java 8,109,0,OK
+47848536,1091,1546445688,2147483647,A,900,brute force-implementation-math,Ahmed_Abdou,Java 8,124,0,OK
+47848368,1091,1546445280,2147483647,A,900,brute force-implementation-math,rahsutamrev,Java 8,109,0,OK
+47848026,1091,1546444529,2147483647,C,1400,math-number theory,Ziklon,Java 8,109,0,OK
+47846653,1091,1546441477,2147483647,A,900,brute force-implementation-math,Ziklon,Java 8,124,0,OK
+47845533,1091,1546439166,6666,C,1400,math-number theory,bazinga84,Java 8,108,0,OK
+47844801,1091,1546437945,2147483647,A,900,brute force-implementation-math,Barryonnix,Java 8,124,0,OK
+47844590,1091,1546437559,2147483647,C,1400,math-number theory,pidan,Java 8,140,0,OK
+47844461,1091,1546437318,2147483647,A,900,brute force-implementation-math,Barryonnix,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47844170,1091,1546436830,2147483647,G,3100,interactive-math-number theory,calabash_boy_love_15,Java 8,171,0,OK
+47843485,1091,1546435608,2147483647,C,1400,math-number theory,pidan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47843424,1091,1546435502,3002,B,1200,brute force-constructive algorithms-greedy-implementation,bazinga84,Java 8,202,0,OK
+47843215,1091,1546435150,8950,B,1200,brute force-constructive algorithms-greedy-implementation,v.saikiransantosh,Java 8,265,0,OK
+47843020,1091,1546434713,2147483647,C,1400,math-number theory,norty,Java 8,124,0,OK
+47842231,1091,1546432919,419,A,900,brute force-implementation-math,bazinga84,Java 8,124,0,OK
+47841701,1091,1546431777,2147483647,A,900,brute force-implementation-math,RabihJJ,Java 8,139,0,OK
+47839725,1091,1546427102,2147483647,A,900,brute force-implementation-math,Choker001,Java 8,124,0,OK
+47839271,1091,1546425971,2147483647,A,900,brute force-implementation-math,swapnil9090,Java 8,124,0,OK
+47839211,1091,1546425825,2147483647,A,900,brute force-implementation-math,swapnil9090,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47835851,1091,1546423857,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Behnam1999,Java 8,155,0,OK
+47835298,1091,1546422597,2147483647,A,900,brute force-implementation-math,bill1328136585,Java 8,124,0,OK
+47834858,1091,1546421600,2147483647,A,900,brute force-implementation-math,Behnam1999,Java 8,139,0,OK
+47834563,1091,1546420843,2147483647,A,900,brute force-implementation-math,vjudge5,Java 8,139,0,OK
+47834478,1091,1546420661,2147483647,A,900,brute force-implementation-math,2018030801054,Java 8,140,0,OK
+47833988,1091,1546419496,2147483647,C,1400,math-number theory,Nitesh1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47833686,1091,1546418856,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,nextcoder,Java 8,124,0,OK
+47832571,1091,1546416097,2147483647,A,900,brute force-implementation-math,nextcoder,Java 8,109,0,OK
+47831307,1091,1546412270,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Nitesh1,Java 8,140,0,OK
+47831286,1091,1546412187,2147483647,A,900,brute force-implementation-math,Sparsh,Java 8,140,0,OK
+47830970,1091,1546411326,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,arry_stark,Java 8,171,0,OK
+47830617,1091,1546410101,2147483647,A,900,brute force-implementation-math,mathor,Java 8,124,0,OK
+47830561,1091,1546409888,2147483647,A,900,brute force-implementation-math,arry_stark,Java 8,140,0,OK
+47829410,1091,1546405804,1984,B,1200,brute force-constructive algorithms-greedy-implementation,danwang,Java 8,748,52940800,OK
+47829092,1091,1546404259,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,coderbond007,Java 8,109,0,OK
+47829082,1091,1546404231,411,A,900,brute force-implementation-math,danwang,Java 8,140,0,OK
+47827698,1091,1546396282,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,Intrincantation,Java 8,1356,43827200,OK
+47827479,1091,1546394887,2147483647,A,900,brute force-implementation-math,Why_Need_Name,Java 8,140,0,OK
+47827464,1091,1546394802,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,ariel.nowik,Java 8,249,0,OK
+47827416,1091,1546394532,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,ariel.nowik,Java 8,374,0,OK
+47827248,1091,1546393405,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,0rnag,Java 8,1029,142950400,OK
+47826077,1091,1546384344,2147483647,C,1400,math-number theory,aakashjaiswal,Java 8,124,0,OK
+47825734,1091,1546382001,2147483647,A,900,brute force-implementation-math,mDziewanowski,Java 8,140,0,OK
+47824129,1091,1546374203,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,poikniok,Java 8,124,0,OK
+47824128,1091,1546374190,2147483647,C,1400,math-number theory,iamavalon,Java 8,124,0,OK
+47823781,1091,1546373023,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,iamavalon,Java 8,124,0,OK
+47823637,1091,1546372511,2147483647,A,900,brute force-implementation-math,iamavalon,Java 8,124,0,OK
+47823512,1091,1546372061,761,A,900,brute force-implementation-math,ariel.nowik,Java 8,139,0,OK
+47823361,1091,1546371533,2147483647,H,3100,games,mbrc,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47822800,1091,1546369564,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Tardimgg,Java 8,124,0,OK
+47822367,1091,1546368187,2147483647,A,900,brute force-implementation-math,apollo,Java 8,140,0,OK
+47822277,1091,1546367947,2147483647,H,3100,games,mbrc,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47821203,1091,1546365036,4836,B,1200,brute force-constructive algorithms-greedy-implementation,ashcodish,Java 8,155,0,OK
+47820940,1091,1546364387,4187,A,900,brute force-implementation-math,ashcodish,Java 8,140,0,OK
+47819653,1091,1546361301,2147483647,A,900,brute force-implementation-math,hharish723,Java 8,124,0,OK
+47817984,1091,1546357267,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,darkqueen,Java 8,140,0,OK
+47817561,1091,1546356435,2147483647,C,1400,math-number theory,mib.2ojmp8,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47815830,1091,1546352449,3349,A,900,brute force-implementation-math,karanm97,Java 8,124,0,OK
+47815612,1091,1546351935,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,pidan,Java 8,155,0,OK
+47815325,1091,1546351318,2147483647,A,900,brute force-implementation-math,saifulislamtarek,Java 8,140,0,OK
+47815292,1091,1546351253,2147483647,A,900,brute force-implementation-math,Keep_distance,Java 8,139,0,OK
+47815253,1091,1546351191,2091,A,900,brute force-implementation-math,karanm97,Java 8,109,0,OK
+47815153,1091,1546350993,2147483647,A,900,brute force-implementation-math,skylerdj,Java 8,140,0,OK
+47814686,1091,1546349946,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,aman28rwt,Java 8,873,3584000,OK
+47814619,1091,1546349785,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,aman28rwt,Java 8,920,3584000,OK
+47814616,1091,1546349782,2147483647,C,1400,math-number theory,simenl,Java 8,171,0,OK
+47814442,1091,1546349427,2147483647,C,1400,math-number theory,arvind_rvs,Java 8,139,0,OK
+47813909,1091,1546348242,2147483647,G,3100,interactive-math-number theory,akaMagdyaka,Java 8,171,0,OK
+47813636,1091,1546347605,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,aman28rwt,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47813603,1091,1546347525,2147483647,A,900,brute force-implementation-math,pidan,Java 8,139,0,OK
+47812139,1091,1546344282,2147483647,A,900,brute force-implementation-math,manikasharma09,Java 8,155,0,OK
+47811722,1091,1546343343,2147483647,C,1400,math-number theory,Ajay33.nits,Java 8,140,0,OK
+47810646,1091,1546340648,2147483647,C,1400,math-number theory,arnab_ghosh_bppimt,Java 8,982,0,OK
+47810124,1091,1546339239,2147483647,G,3100,interactive-math-number theory,mbrc,Java 8,218,0,OK
+47809952,1091,1546338732,2147483647,D,1700,combinatorics-dp-math,spar5h,Java 8,1528,15564800,OK
+47809902,1091,1546338590,2147483647,D,1700,combinatorics-dp-math,poikniok,Java 8,155,5734400,OK
+47809883,1091,1546338548,2147483647,A,900,brute force-implementation-math,Varada9100,Java 8,139,0,OK
+47809014,1091,1546335803,2147483647,C,1400,math-number theory,arnab_ghosh_bppimt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47808885,1091,1546335345,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,shanky_ty,Java 8,156,0,OK
+47808723,1091,1546334912,2147483647,A,900,brute force-implementation-math,shanky_ty,Java 8,124,0,OK
+47808717,1091,1546334879,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,mib.2ojmp8,Java 8,842,41267200,OK
+47808668,1091,1546334758,2458,C,1400,math-number theory,zeyad_khattab,Java 8,109,0,OK
+47808607,1091,1546334589,2147483647,A,900,brute force-implementation-math,shanky_ty,Java 8,140,0,OK
+47808129,1091,1546333053,753,B,1200,brute force-constructive algorithms-greedy-implementation,zeyad_khattab,Java 8,436,0,OK
+47807937,1091,1546332469,169,A,900,brute force-implementation-math,zeyad_khattab,Java 8,124,0,OK
+47807344,1091,1546331251,2147483647,C,1400,math-number theory,arnab_ghosh_bppimt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47807272,1091,1546331017,2147483647,A,900,brute force-implementation-math,Harisshanto,Java 8,124,0,OK
+47806573,1091,1546328824,2147483647,C,1400,math-number theory,abhinavsharma629,Java 8,140,0,OK
+47806290,1091,1546327985,2147483647,A,900,brute force-implementation-math,umeshkumar,Java 8,124,0,OK
+47806277,1091,1546327969,2147483647,A,900,brute force-implementation-math,anoosha187,Java 8,139,0,OK
+47806061,1091,1546327255,2147483647,C,1400,math-number theory,abhinavsharma629,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47805935,1091,1546326754,2147483647,A,900,brute force-implementation-math,mib.2ojmp8,Java 8,124,0,OK
+47805372,1091,1546324747,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,BaaaaaaanTedGuYYYYYYY,Java 8,109,0,OK
+47805121,1091,1546323693,2147483647,A,900,brute force-implementation-math,BaaaaaaanTedGuYYYYYYY,Java 8,124,0,OK
+47804623,1091,1546321733,2147483647,C,1400,math-number theory,Kavi.Prajapati,Java 8,108,0,OK
+47804166,1091,1546319568,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Kavi.Prajapati,Java 8,171,0,OK
+47804140,1091,1546319474,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Kavi.Prajapati,Java 8,1500,80076800,TIME_LIMIT_EXCEEDED
+47804055,1091,1546319011,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Kavi.Prajapati,Java 8,1500,75571200,TIME_LIMIT_EXCEEDED
+47803827,1091,1546317566,2147483647,A,900,brute force-implementation-math,Kavi.Prajapati,Java 8,109,0,OK
+47803061,1091,1546312857,2147483647,C,1400,math-number theory,poikniok,Java 8,109,0,OK
+47802933,1091,1546312049,2147483647,A,900,brute force-implementation-math,GudSp31ing,Java 8,124,0,OK
+47802492,1091,1546308964,2147483647,A,900,brute force-implementation-math,poikniok,Java 8,124,0,OK
+47802307,1091,1546307399,2147483647,G,3100,interactive-math-number theory,FlappyFish,Java 8,264,0,OK
+47802035,1091,1546305205,2605,B,1200,brute force-constructive algorithms-greedy-implementation,norty,Java 8,951,87449600,OK
+47801951,1091,1546304238,1638,A,900,brute force-implementation-math,norty,Java 8,109,0,OK
+47801655,1091,1546301606,8006,B,1200,brute force-constructive algorithms-greedy-implementation,arvind_rvs,Java 8,155,0,OK
+47801465,1091,1546299821,2147483647,D,1700,combinatorics-dp-math,llaki,Java 8,155,0,OK
+47800698,1091,1546294988,1388,A,900,brute force-implementation-math,arvind_rvs,Java 8,140,0,OK
+47799874,1091,1546290370,2147483647,C,1400,math-number theory,MagentaCobra,Java 8,109,0,OK
+47798915,1091,1546285847,2147483647,A,900,brute force-implementation-math,Askander,Java 8,139,0,OK
+47798634,1091,1546284761,2147483647,C,1400,math-number theory,Akash_UR,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47798617,1091,1546284709,2147483647,A,900,brute force-implementation-math,abhinavsharma629,Java 8,140,0,OK
+47798570,1091,1546284504,2147483647,C,1400,math-number theory,arnab_ghosh_bppimt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47798103,1091,1546282808,2147483647,F,2600,constructive algorithms-greedy,PrakharJain,Java 8,155,0,OK
+47798065,1091,1546282675,2147483647,C,1400,math-number theory,Akash_UR,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47797786,1091,1546281690,2147483647,C,1400,math-number theory,Akash_UR,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47797140,1091,1546279538,5198,C,1400,math-number theory,ShowStopper728,Java 8,124,0,OK
+47796910,1091,1546278730,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Umangpatel,Java 8,155,0,OK
+47796866,1091,1546278542,4202,C,1400,math-number theory,ShowStopper728,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47796775,1091,1546278271,3931,C,1400,math-number theory,ShowStopper728,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47796531,1091,1546277507,2147483647,A,900,brute force-implementation-math,Mohamed.Sapry,Java 8,155,0,OK
+47796457,1091,1546277290,2147483647,C,1400,math-number theory,YahiaBadr,Java 8,109,0,OK
+47796451,1091,1546277255,2915,B,1200,brute force-constructive algorithms-greedy-implementation,ShowStopper728,Java 8,139,0,OK
+47796367,1091,1546276945,2147483647,D,1700,combinatorics-dp-math,flyman3046,Java 8,171,22220800,OK
+47796332,1091,1546276827,2147483647,A,900,brute force-implementation-math,CSProdigy,Java 8,124,0,OK
+47796297,1091,1546276719,2147483647,A,900,brute force-implementation-math,Tardimgg,Java 8,155,0,OK
+47796139,1091,1546276195,2147483647,C,1400,math-number theory,AnshDivya,Java 8,124,0,OK
+47795793,1091,1546275060,2147483647,C,1400,math-number theory,flyman3046,Java 8,108,0,OK
+47795639,1091,1546274596,256,A,900,brute force-implementation-math,ShowStopper728,Java 8,109,0,OK
+47795621,1091,1546274551,2147483647,C,1400,math-number theory,YahiaBadr,Java 8,124,0,OK
+47794892,1091,1546272366,2147483647,A,900,brute force-implementation-math,Saurabh318,Java 8,140,0,OK
+47794526,1091,1546271287,2147483647,F,2600,constructive algorithms-greedy,Dukkha,Java 8,156,0,OK
+47794213,1091,1546270415,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,arnab_ghosh_bppimt,Java 8,155,0,OK
+47794166,1091,1546270295,2147483647,C,1400,math-number theory,MoeAdel,Java 8,124,0,OK
+47794108,1091,1546270122,2147483647,A,900,brute force-implementation-math,clintlyj,Java 8,156,0,OK
+47794041,1091,1546269934,2147483647,C,1400,math-number theory,MoeAdel,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47793526,1091,1546268609,2147483647,C,1400,math-number theory,asinkevich,Java 8,124,0,OK
+47792872,1091,1546267030,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,AnshDivya,Java 8,124,0,OK
+47792448,1091,1546266024,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,asinkevich,Java 8,124,0,OK
+47792129,1091,1546265245,2147483647,A,900,brute force-implementation-math,Jason_Jo,Java 8,140,0,OK
+47791960,1091,1546264875,2147483647,A,900,brute force-implementation-math,Jason_Jo,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47791829,1091,1546264579,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,O_E,Java 8,1481,76288000,OK
+47791746,1091,1546264397,2147483647,C,1400,math-number theory,saisagar07121998,Java 8,140,0,OK
+47791413,1091,1546263669,2147483647,A,900,brute force-implementation-math,Mackenzie,Java 8,124,0,OK
+47790774,1091,1546262170,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,abhi2601,Java 8,124,0,OK
+47790480,1091,1546261460,2147483647,A,900,brute force-implementation-math,hmp43,Java 8,139,0,OK
+47789577,1091,1546259904,2147483647,C,1400,math-number theory,thesparkboy,Java 8,124,0,OK
+47788876,1091,1546258523,2147483647,A,900,brute force-implementation-math,falken_great,Java 8,109,0,OK
+47788785,1091,1546258343,2147483647,A,900,brute force-implementation-math,arcus,Java 8,140,0,OK
+47788751,1091,1546258275,2147483647,A,900,brute force-implementation-math,Nodare,Java 8,124,0,OK
+47788494,1091,1546257811,2147483647,C,1400,math-number theory,0shine0,Java 8,124,0,OK
+47788406,1091,1546257649,2147483647,A,900,brute force-implementation-math,O_E,Java 8,109,0,OK
+47788252,1091,1546257326,2147483647,C,1400,math-number theory,0shine0,Java 8,140,0,OK
+47788026,1091,1546256895,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Leks360,Java 8,156,0,OK
+47788013,1091,1546256873,2147483647,C,1400,math-number theory,Deimos,Java 8,109,0,OK
+47787530,1091,1546256010,2147483647,A,900,brute force-implementation-math,hayderr,Java 8,140,0,OK
+47786533,1091,1546254123,2147483647,A,900,brute force-implementation-math,corechirag,Java 8,124,0,OK
+47786304,1091,1546253676,2856,C,1400,math-number theory,morr,Java 8,140,0,OK
+47786177,1091,1546253444,2147483647,A,900,brute force-implementation-math,abhi2601,Java 8,109,0,OK
+47785906,1091,1546252888,2147483647,C,1400,math-number theory,0shine0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47785706,1091,1546252476,2147483647,A,900,brute force-implementation-math,sudhan499,Java 8,124,0,OK
+47785664,1091,1546252397,2147483647,A,900,brute force-implementation-math,sooraj10,Java 8,124,0,OK
+47785639,1091,1546252337,1517,B,1200,brute force-constructive algorithms-greedy-implementation,morr,Java 8,155,0,OK
+47785589,1091,1546252259,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,sooraj10,Java 8,124,0,OK
+47785564,1091,1546252213,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,technocrat11,Java 8,140,0,OK
+47785526,1091,1546252143,2943,B,1200,brute force-constructive algorithms-greedy-implementation,AnshDivya,Java 8,1500,219033600,TIME_LIMIT_EXCEEDED
+47785121,1091,1546251309,489,A,900,brute force-implementation-math,morr,Java 8,140,0,OK
+47785108,1091,1546251290,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,limn2o4,Java 8,1075,121958400,OK
+47784946,1091,1546250979,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,srinathtang,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47784893,1091,1546250865,2147483647,C,1400,math-number theory,sooraj10,Java 8,124,0,OK
+47784849,1091,1546250790,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,limn2o4,Java 8,1500,248422400,TIME_LIMIT_EXCEEDED
+47784787,1091,1546250673,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,limn2o4,Java 8,1500,258969600,TIME_LIMIT_EXCEEDED
+47784750,1091,1546250607,2147483647,C,1400,math-number theory,up10101,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47784452,1091,1546250049,849,A,900,brute force-implementation-math,AnshDivya,Java 8,109,0,OK
+47784175,1091,1546249540,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,niketan,Java 8,155,0,OK
+47784120,1091,1546249466,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,nesdi,Java 8,124,0,OK
+47783511,1091,1546248359,2147483647,A,900,brute force-implementation-math,asinkevich,Java 8,109,0,OK
+47783433,1091,1546248233,2147483647,D,1700,combinatorics-dp-math,KharYusuf,Java 8,171,16281600,OK
+47783357,1091,1546248097,2147483647,A,900,brute force-implementation-math,limn2o4,Java 8,109,0,OK
+47783129,1091,1546247658,2147483647,D,1700,combinatorics-dp-math,Juniper,Java 8,171,6451200,OK
+47783072,1091,1546247565,2147483647,A,900,brute force-implementation-math,TaplierShiru,Java 8,109,0,OK
+47782983,1091,1546247415,2147483647,D,1700,combinatorics-dp-math,Juniper,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47782299,1091,1546246185,2147483647,C,1400,math-number theory,saurabh0611,Java 8,140,0,OK
+47782294,1091,1546246174,2147483647,C,1400,math-number theory,Juniper,Java 8,140,0,OK
+47782273,1091,1546246133,2147483647,C,1400,math-number theory,wadissimo,Java 8,124,0,OK
+47782189,1091,1546245991,2147483647,A,900,brute force-implementation-math,niketan,Java 8,124,0,OK
+47781821,1091,1546245281,2147483647,A,900,brute force-implementation-math,Juniper,Java 8,124,0,OK
+47781544,1091,1546244784,2147483647,A,900,brute force-implementation-math,TaplierShiru,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47781155,1091,1546244011,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,TaplierShiru,Java 8,124,0,OK
+47780954,1091,1546243635,2147483647,C,1400,math-number theory,mdazmat9,Java 8,109,0,OK
+47780419,1091,1546242282,2147483647,C,1400,math-number theory,mdazmat9,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47780308,1091,1546242009,2147483647,A,900,brute force-implementation-math,Tushar__2018,Java 8,109,0,OK
+47780106,1091,1546241463,2147483647,A,900,brute force-implementation-math,aman_29,Java 8,109,0,OK
+47779664,1091,1546240316,2147483647,A,900,brute force-implementation-math,pxloco,Java 8,140,0,OK
+47779490,1091,1546239897,2147483647,C,1400,math-number theory,bdomokos,Java 8,186,0,OK
+47779357,1091,1546239544,2147483647,A,900,brute force-implementation-math,amolpratap007,Java 8,124,0,OK
+47779245,1091,1546239261,2147483647,G,3100,interactive-math-number theory,Gengar,Java 8,4398,0,OK
+47779165,1091,1546239042,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,amolpratap007,Java 8,436,0,OK
+47779122,1091,1546238942,2147483647,C,1400,math-number theory,polyakoff,Java 8,108,0,OK
+47779092,1091,1546238841,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,mdazmat9,Java 8,1248,123801600,OK
+47778823,1091,1546238072,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,polyakoff,Java 8,124,0,OK
+47778548,1091,1546237280,2147483647,C,1400,math-number theory,amolpratap007,Java 8,124,0,OK
+47777754,1091,1546234950,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,ashubeckham,Java 8,1496,178892800,OK
+47777722,1091,1546234821,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Guru_Randhawa,Java 8,155,0,OK
+47777685,1091,1546234713,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Sasuke-u,Java 8,140,0,OK
+47777593,1091,1546234417,2147483647,A,900,brute force-implementation-math,offbeat,Java 8,140,0,OK
+47777394,1091,1546233721,2147483647,C,1400,math-number theory,Infidelis,Java 8,140,0,OK
+47777350,1091,1546233587,2147483647,D,1700,combinatorics-dp-math,rishz,Java 8,171,15360000,OK
+47777243,1091,1546233212,2147483647,A,900,brute force-implementation-math,jain.charitra24,Java 8,109,0,OK
+47777106,1091,1546232680,2147483647,C,1400,math-number theory,rishz,Java 8,124,0,OK
+47777018,1091,1546232303,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,0rnag,Java 8,1500,139980800,TIME_LIMIT_EXCEEDED
+47776976,1091,1546232142,2147483647,A,900,brute force-implementation-math,gaurav12,Java 8,140,0,OK
+47776864,1091,1546231783,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,1029,125952000,OK
+47776691,1091,1546231026,2147483647,C,1400,math-number theory,Pulkit_noob,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47776513,1091,1546230367,2147483647,C,1400,math-number theory,LM.10,Java 8,140,0,OK
+47776472,1091,1546230198,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,717,52224000,OK
+47776450,1091,1546230120,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,flyman3046,Java 8,140,0,OK
+47776419,1091,1546229992,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,1500,52224000,TIME_LIMIT_EXCEEDED
+47776406,1091,1546229947,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,1263,52224000,OK
+47776341,1091,1546229713,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,639,52224000,OK
+47776320,1091,1546229619,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,670,52224000,OK
+47776265,1091,1546229422,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,1500,52121600,TIME_LIMIT_EXCEEDED
+47776243,1091,1546229324,2147483647,A,900,brute force-implementation-math,flyman3046,Java 8,109,0,OK
+47776188,1091,1546229134,2147483647,A,900,brute force-implementation-math,Krukrukruzhka,Java 8,156,0,OK
+47776099,1091,1546228817,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,701,52224000,OK
+47776091,1091,1546228788,2147483647,A,900,brute force-implementation-math,riyasnh,Java 8,109,0,OK
+47776027,1091,1546228537,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,686,52224000,OK
+47776004,1091,1546228432,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,ampathak,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47775984,1091,1546228368,2147483647,C,1400,math-number theory,msvas,Java 8,124,0,OK
+47775969,1091,1546228319,2147483647,A,900,brute force-implementation-math,PercySpecter,Java 8,109,0,OK
+47775788,1091,1546227619,2147483647,D,1700,combinatorics-dp-math,EricK0504,Java 8,171,6451200,OK
+47775785,1091,1546227601,2147483647,A,900,brute force-implementation-math,Manav1308,Java 8,140,0,OK
+47775692,1091,1546227272,2147483647,C,1400,math-number theory,Hapsidra,Java 8,124,0,OK
+47775587,1091,1546226864,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,msvas,Java 8,155,0,OK
+47775401,1091,1546226166,2147483647,A,900,brute force-implementation-math,Sasuke-u,Java 8,109,0,OK
+47775137,1091,1546225185,2147483647,C,1400,math-number theory,Hapsidra,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47775098,1091,1546225008,2147483647,D,1700,combinatorics-dp-math,fnozoszzt,Java 8,202,16076800,OK
+47774823,1091,1546224056,1556,A,900,brute force-implementation-math,garzuzo,Java 8,109,0,OK
+47774375,1091,1546222307,2147483647,D,1700,combinatorics-dp-math,WillyDolphin,Java 8,186,0,OK
+47774089,1091,1546220810,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,dyominov,Java 8,124,0,OK
+47774071,1091,1546220726,2147483647,A,900,brute force-implementation-math,ampathak,Java 8,124,0,OK
+47774053,1091,1546220631,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,jzy_204,Java 8,155,0,OK
+47774000,1091,1546220400,2147483647,D,1700,combinatorics-dp-math,jeoj,Java 8,186,53555200,OK
+47773968,1091,1546220243,2147483647,C,1400,math-number theory,EricK0504,Java 8,140,0,OK
+47773962,1091,1546220229,2147483647,C,1400,math-number theory,kevinson1,Java 8,124,0,OK
+47773836,1091,1546219671,2147483647,C,1400,math-number theory,EricK0504,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773804,1091,1546219558,2147483647,C,1400,math-number theory,EricK0504,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773796,1091,1546219537,2147483647,C,1400,math-number theory,kevinson1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773742,1091,1546219298,2147483647,C,1400,math-number theory,kevinson1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773707,1091,1546219075,2147483647,C,1400,math-number theory,kevinson1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773663,1091,1546218858,2147483647,C,1400,math-number theory,kevinson1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773611,1091,1546218600,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,satya26,Java 8,967,0,OK
+47773585,1091,1546218452,2147483647,C,1400,math-number theory,kevinson1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773580,1091,1546218423,2147483647,C,1400,math-number theory,EricK0504,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47773574,1091,1546218375,2147483647,C,1400,math-number theory,sam1301,Java 8,140,0,OK
+47773551,1091,1546218254,2147483647,A,900,brute force-implementation-math,mustafausama,Java 8,140,0,OK
+47773539,1091,1546218223,2147483647,C,1400,math-number theory,sam1301,Java 8,139,0,OK
+47773530,1091,1546218177,2147483647,C,1400,math-number theory,NatInTheHat,Java 8,109,0,OK
+47773398,1091,1546217437,2147483647,A,900,brute force-implementation-math,kevinson1,Java 8,109,0,OK
+47773384,1091,1546217371,2147483647,A,900,brute force-implementation-math,EricK0504,Java 8,140,0,OK
+47773016,1091,1546214933,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,Dukkha,Java 8,390,11366400,OK
+47772852,1091,1546213678,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Mohamed_Saad62,Java 8,1356,0,OK
+47772410,1091,1546211027,2147483647,D,1700,combinatorics-dp-math,chojh1222,Java 8,170,15360000,OK
+47772330,1091,1546210567,4867,C,1400,math-number theory,houssemeddine.benhmida,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47772229,1091,1546209991,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,MovingBit,Java 8,155,0,OK
+47772187,1091,1546209760,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,MovingBit,Java 8,155,0,OK
+47772083,1091,1546209206,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,jenish9599,Java 8,170,0,OK
+47772042,1091,1546209012,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,jenish9599,Java 8,140,0,OK
+47771823,1091,1546207969,2269,B,1200,brute force-constructive algorithms-greedy-implementation,yashk,Java 8,109,0,OK
+47771524,1091,1546206470,770,A,900,brute force-implementation-math,yashk,Java 8,109,0,OK
+47771457,1091,1546206206,2147483647,G,3100,interactive-math-number theory,collares,Java 8,233,0,OK
+47771413,1091,1546206042,2147483647,A,900,brute force-implementation-math,gtgstg,Java 8,109,0,OK
+47771358,1091,1546205725,25,A,900,brute force-implementation-math,houssemeddine.benhmida,Java 8,155,0,OK
+47771085,1091,1546204526,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,TaplierShiru,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47770923,1091,1546203894,2147483647,A,900,brute force-implementation-math,dyominov,Java 8,109,0,OK
+47770892,1091,1546203801,1341,B,1200,brute force-constructive algorithms-greedy-implementation,ScreaMood,Java 8,187,0,OK
+47770869,1091,1546203717,2147483647,G,3100,interactive-math-number theory,MZuenni,Java 8,248,0,OK
+47770816,1091,1546203538,2147483647,D,1700,combinatorics-dp-math,ravi416,Java 8,171,6451200,OK
+47770721,1091,1546203191,2147483647,A,900,brute force-implementation-math,dead_loser,Java 8,155,0,OK
+47770658,1091,1546202982,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,dead_loser,Java 8,155,0,OK
+47770642,1091,1546202941,481,A,900,brute force-implementation-math,ScreaMood,Java 8,124,0,OK
+47770607,1091,1546202804,2147483647,G,3100,interactive-math-number theory,skywalkert,Java 8,295,0,OK
+47770540,1091,1546202546,2147483647,D,1700,combinatorics-dp-math,jenish9599,Java 8,904,5734400,OK
+47770472,1091,1546202340,2147483647,C,1400,math-number theory,Anvit,Java 8,139,0,OK
+47770392,1091,1546202054,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,mbrc,Java 8,608,68198400,OK
+47770369,1091,1546201978,2147483647,C,1400,math-number theory,dmytro.prytula,Java 8,124,0,OK
+47770293,1091,1546201680,2147483647,A,900,brute force-implementation-math,Augment,Java 8,155,0,OK
+47770274,1091,1546201608,2147483647,A,900,brute force-implementation-math,klinl,Java 8,109,0,OK
+47770265,1091,1546201564,2147483647,F,2600,constructive algorithms-greedy,Intrincantation,Java 8,217,5939200,OK
+47770259,1091,1546201551,2147483647,C,1400,math-number theory,sumit3,Java 8,140,0,OK
+47770236,1091,1546201472,2147483647,A,900,brute force-implementation-math,technocrat11,Java 8,140,0,OK
+47770198,1091,1546201377,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,mbrc,Java 8,951,95641600,OK
+47770160,1091,1546201262,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,mbrc,Java 8,982,95744000,OK
+47770107,1091,1546201081,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,mbrc,Java 8,967,95744000,OK
+47770063,1091,1546200971,2147483647,A,900,brute force-implementation-math,arnab_ghosh_bppimt,Java 8,140,0,OK
+47770000,1091,1546200766,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,xXAyushiXx,Java 8,140,0,OK
+47769889,1091,1546200439,2147483647,C,1400,math-number theory,Anvit,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47769865,1091,1546200386,2147483647,C,1400,math-number theory,Anvit,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47769826,1091,1546200267,2147483647,C,1400,math-number theory,Anvit,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47769767,1091,1546200113,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,mareshkau,Java 8,109,0,OK
+47769744,1091,1546200045,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,saint1729,Java 8,171,0,OK
+47769605,1091,1546199647,2147483647,C,1400,math-number theory,deep319,Java 8,155,0,OK
+47769570,1091,1546199574,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Menna_ibrahim,Java 8,124,0,OK
+47769561,1091,1546199549,2147483647,A,900,brute force-implementation-math,still_the_big_bang,Java 8,140,0,OK
+47769449,1091,1546199264,2147483647,C,1400,math-number theory,deep319,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47769318,1091,1546198958,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,deep319,Java 8,155,0,OK
+47769288,1091,1546198886,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,wadissimo,Java 8,124,0,OK
+47769211,1091,1546198687,2147483647,D,1700,combinatorics-dp-math,amolpratap007,Java 8,217,22528000,OK
+47769166,1091,1546198587,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Amr_Geneidy,Java 8,140,0,OK
+47769163,1091,1546198582,2147483647,D,1700,combinatorics-dp-math,benpr99,Java 8,358,22118400,OK
+47769127,1091,1546198475,2147483647,A,900,brute force-implementation-math,Amr_Geneidy,Java 8,124,0,OK
+47769008,1091,1546198185,2147483647,D,1700,combinatorics-dp-math,benpr99,Java 8,1887,22118400,OK
+47768925,1091,1546198012,2147483647,A,900,brute force-implementation-math,wadissimo,Java 8,187,0,OK
+47768906,1091,1546197964,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,aman_jag,Java 8,124,0,OK
+47768871,1091,1546197891,2147483647,C,1400,math-number theory,mareshkau,Java 8,140,0,OK
+47768852,1091,1546197857,2147483647,C,1400,math-number theory,PersonOfInterest,Java 8,140,0,OK
+47768841,1091,1546197830,2147483647,A,900,brute force-implementation-math,tejas10p,Java 8,140,0,OK
+47768731,1091,1546197626,2147483647,A,900,brute force-implementation-math,o-0,Java 8,140,0,OK
+47768713,1091,1546197598,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Ahmed_Diab,Java 8,124,0,OK
+47768604,1091,1546197404,2147483647,A,900,brute force-implementation-math,Harbin,Java 8,124,0,OK
+47768563,1091,1546197328,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,chugh,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47768539,1091,1546197276,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,o-0,Java 8,155,0,OK
+47768420,1091,1546197025,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,chugh,Java 8,296,0,OK
+47768399,1091,1546196989,2147483647,G,3100,interactive-math-number theory,ecnerwala,Java 8,171,0,OK
+47768290,1091,1546196810,2147483647,A,900,brute force-implementation-math,shubham1556,Java 8,109,0,OK
+47768247,1091,1546196750,2147483647,A,900,brute force-implementation-math,shubham1556,Java 8,124,0,OK
+47768077,1091,1546196484,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Mackenzie,Java 8,155,0,OK
+47767900,1091,1546196229,2147483647,C,1400,math-number theory,o-0,Java 8,155,0,OK
+47767798,1091,1546196077,2147483647,C,1400,math-number theory,PersonOfInterest,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47767779,1091,1546196042,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,bdomokos,Java 8,187,0,OK
+47767768,1091,1546196025,2147483647,A,900,brute force-implementation-math,Naman_123,Java 8,124,0,OK
+47767720,1091,1546195956,2147483647,C,1400,math-number theory,MovingBit,Java 8,140,0,OK
+47767713,1091,1546195952,2147483647,D,1700,combinatorics-dp-math,anmolsngh576,Java 8,140,6451200,OK
+47767699,1091,1546195922,2147483647,C,1400,math-number theory,Ahmed_Diab,Java 8,140,0,OK
+47767665,1091,1546195861,2147483647,G,3100,interactive-math-number theory,Benq,Java 8,249,0,OK
+47767640,1091,1546195824,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,egg,Java 8,1138,0,OK
+47767621,1091,1546195788,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,llamaoo7,Java 8,748,0,OK
+47767512,1091,1546195644,2147483647,D,1700,combinatorics-dp-math,jwk,Java 8,202,16076800,OK
+47767482,1091,1546195603,2147483647,A,900,brute force-implementation-math,bdomokos,Java 8,124,0,OK
+47767452,1091,1546195565,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,mbrc,Java 8,1731,176435200,OK
+47767447,1091,1546195563,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,MoeAdel,Java 8,124,0,OK
+47767434,1091,1546195548,2147483647,C,1400,math-number theory,YahiaBadr,Java 8,109,0,OK
+47767401,1091,1546195512,2147483647,A,900,brute force-implementation-math,bdomokos,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47767306,1091,1546195392,2147483647,D,1700,combinatorics-dp-math,mbrc,Java 8,873,5734400,OK
+47767289,1091,1546195375,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,hemasushmitha16,Java 8,124,0,OK
+47767217,1091,1546195299,2147483647,C,1400,math-number theory,anony9906,Java 8,109,0,OK
+47767205,1091,1546195287,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,Gundaswami,Java 8,140,0,OK
+47767138,1091,1546195218,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,di_halt,Java 8,795,60108800,OK
+47767098,1091,1546195182,2147483647,G,3100,interactive-math-number theory,uwi,Java 8,249,0,OK
+47766908,1091,1546195018,2147483647,G,3100,interactive-math-number theory,collares,Java 8,233,0,OK
+47766902,1091,1546195015,2147483647,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,dusty.and.rusty,Java 8,608,49971200,OK
+47766897,1091,1546195010,2147483647,C,1400,math-number theory,mbrc,Java 8,171,0,OK
+47766854,1091,1546194980,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,di_halt,Java 8,1500,76288000,TIME_LIMIT_EXCEEDED
+47766846,1091,1546194976,2147483647,D,1700,combinatorics-dp-math,Mohammad_Af,Java 8,171,6451200,OK
+47766840,1091,1546194972,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,mbrc,Java 8,124,0,OK
+47766834,1091,1546194969,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,__Paladin__,Java 8,156,0,OK
+47766767,1091,1546194930,2147483647,A,900,brute force-implementation-math,mbrc,Java 8,124,0,OK
+47766752,1091,1546194919,2147483647,A,900,brute force-implementation-math,di_halt,Java 8,124,0,OK
+47766710,1091,1546194891,2147483647,D,1700,combinatorics-dp-math,mirak94,Java 8,202,22528000,OK
+47766670,1091,1546194871,2147483647,D,1700,combinatorics-dp-math,polyakoff,Java 8,187,0,OK
+47766637,1091,1546194853,2147483647,B,1200,brute force-constructive algorithms-greedy-implementation,__Paladin__,Java 8,155,0,OK
+47766633,1091,1546194851,2147483647,D,1700,combinatorics-dp-math,james222424,Java 8,140,0,OK
+47765823,1091,1546190097,9597,C,1400,math-number theory,0shine0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47765729,1091,1546190082,9582,C,1400,math-number theory,Guru_Randhawa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47765714,1091,1546190079,9579,B,1200,brute force-constructive algorithms-greedy-implementation,srimouli1998,Java 8,311,0,OK
+47765703,1091,1546190077,9577,H,3100,games,Petr,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47765649,1091,1546190068,9568,C,1400,math-number theory,bracts00,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47765504,1091,1546190026,9526,H,3100,games,Petr,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47765477,1091,1546190017,9517,B,1200,brute force-constructive algorithms-greedy-implementation,__Paladin__,Java 8,1500,168755200,TIME_LIMIT_EXCEEDED
+47765391,1091,1546189994,9494,C,1400,math-number theory,Hapsidra,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47765385,1091,1546189992,9492,C,1400,math-number theory,Guru_Randhawa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47765348,1091,1546189982,9482,C,1400,math-number theory,fc-lib_xyz,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47765343,1091,1546189981,9481,D,1700,combinatorics-dp-math,abacabadabacaba,Java 8,171,2150400,OK
+47765331,1091,1546189977,9477,D,1700,combinatorics-dp-math,Kharouba,Java 8,2000,22220800,TIME_LIMIT_EXCEEDED
+47765282,1091,1546189961,9461,B,1200,brute force-constructive algorithms-greedy-implementation,spandand515,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47765128,1091,1546189910,9410,D,1700,combinatorics-dp-math,NatInTheHat,Java 8,811,6451200,OK
+47765117,1091,1546189906,9406,C,1400,math-number theory,Guru_Randhawa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47764999,1091,1546189866,9366,D,1700,combinatorics-dp-math,vatsalsonigara,Java 8,171,6451200,OK
+47764887,1091,1546189821,9321,H,3100,games,Petr,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47764828,1091,1546189797,9297,C,1400,math-number theory,Guru_Randhawa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47764800,1091,1546189787,9287,D,1700,combinatorics-dp-math,NatInTheHat,Java 8,2000,8294400,TIME_LIMIT_EXCEEDED
+47764785,1091,1546189783,9283,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,timbyxt,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47764697,1091,1546189753,9253,C,1400,math-number theory,hagar_yasser,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47764690,1091,1546189750,9250,C,1400,math-number theory,Guru_Randhawa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47764653,1091,1546189736,9236,D,1700,combinatorics-dp-math,Kharouba,Java 8,2000,22323200,TIME_LIMIT_EXCEEDED
+47764503,1091,1546189669,9169,B,1200,brute force-constructive algorithms-greedy-implementation,__Paladin__,Java 8,1500,184729600,TIME_LIMIT_EXCEEDED
+47764398,1091,1546189626,9126,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,iakovlev.zakhar,Java 8,358,22937600,OK
+47764338,1091,1546189603,9103,C,1400,math-number theory,mustafausama,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47764307,1091,1546189590,9090,B,1200,brute force-constructive algorithms-greedy-implementation,mustafausama,Java 8,155,0,OK
+47764305,1091,1546189590,9090,C,1400,math-number theory,Mooncrater,Java 8,124,0,OK
+47764272,1091,1546189577,9077,B,1200,brute force-constructive algorithms-greedy-implementation,Mantawy,Java 8,467,0,OK
+47764114,1091,1546189508,9008,B,1200,brute force-constructive algorithms-greedy-implementation,mdazmat9,Java 8,1500,177152000,TIME_LIMIT_EXCEEDED
+47764088,1091,1546189499,8999,C,1400,math-number theory,polyakoff,Java 8,140,0,OK
+47764017,1091,1546189476,8976,C,1400,math-number theory,sumit3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47763988,1091,1546189462,8962,B,1200,brute force-constructive algorithms-greedy-implementation,bhavyashah9873,Java 8,795,66355200,OK
+47763850,1091,1546189419,8919,C,1400,math-number theory,yellowjian,Java 8,124,6246400,OK
+47763846,1091,1546189415,8915,D,1700,combinatorics-dp-math,poketred12,Java 8,936,62054400,OK
+47763762,1091,1546189383,8883,A,900,brute force-implementation-math,Anonymous9,Java 8,139,0,OK
+47763692,1091,1546189359,8859,D,1700,combinatorics-dp-math,jjluczyn,Java 8,155,0,OK
+47763673,1091,1546189351,8851,C,1400,math-number theory,Guru_Randhawa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47763668,1091,1546189348,8848,B,1200,brute force-constructive algorithms-greedy-implementation,caoash,Java 8,1500,133222400,TIME_LIMIT_EXCEEDED
+47763664,1091,1546189347,8847,D,1700,combinatorics-dp-math,jenish9599,Java 8,2000,7475200,TIME_LIMIT_EXCEEDED
+47763632,1091,1546189336,8836,G,3100,interactive-math-number theory,collares,Java 8,295,0,OK
+47763337,1091,1546189227,8727,B,1200,brute force-constructive algorithms-greedy-implementation,bharath17035,Java 8,171,0,OK
+47763318,1091,1546189220,8720,C,1400,math-number theory,anony9906,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47763260,1091,1546189200,8700,F,2600,constructive algorithms-greedy,abacabadabacaba,Java 8,171,2048000,OK
+47763231,1091,1546189192,8692,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,timbyxt,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47763207,1091,1546189185,8685,D,1700,combinatorics-dp-math,jenish9599,Java 8,2000,7475200,TIME_LIMIT_EXCEEDED
+47763205,1091,1546189185,8685,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,iakovlev.zakhar,Java 8,2000,20889600,TIME_LIMIT_EXCEEDED
+47763165,1091,1546189162,8662,D,1700,combinatorics-dp-math,msagimbekov,Java 8,1231,15360000,OK
+47763145,1091,1546189156,8656,F,2600,constructive algorithms-greedy,SaveVMK,Java 8,342,6348800,OK
+47763080,1091,1546189130,8630,D,1700,combinatorics-dp-math,utsav_deep,Java 8,1699,15462400,OK
+47763037,1091,1546189111,8611,C,1400,math-number theory,Latency,Java 8,1000,259379200,TIME_LIMIT_EXCEEDED
+47762836,1091,1546189035,8535,A,900,brute force-implementation-math,IBatJ,Java 8,140,0,OK
+47762823,1091,1546189031,8531,D,1700,combinatorics-dp-math,LM.10,Java 8,139,15360000,OK
+47762815,1091,1546189028,8528,C,1400,math-number theory,bracts00,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47762782,1091,1546189018,8518,C,1400,math-number theory,codeforcessup,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47762627,1091,1546188937,8437,B,1200,brute force-constructive algorithms-greedy-implementation,caoash,Java 8,1500,133324800,TIME_LIMIT_EXCEEDED
+47762511,1091,1546188895,8395,B,1200,brute force-constructive algorithms-greedy-implementation,kola99,Java 8,218,0,OK
+47762460,1091,1546188875,8375,B,1200,brute force-constructive algorithms-greedy-implementation,caoash,Java 8,1500,133222400,TIME_LIMIT_EXCEEDED
+47762404,1091,1546188855,8355,B,1200,brute force-constructive algorithms-greedy-implementation,almas.shaikh,Java 8,716,53452800,OK
+47762403,1091,1546188854,8354,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,timbyxt,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47762317,1091,1546188825,8325,C,1400,math-number theory,plmokn,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47762287,1091,1546188814,8314,C,1400,math-number theory,Infidelis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47762195,1091,1546188782,8282,C,1400,math-number theory,mdazmat9,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47762143,1091,1546188763,8263,B,1200,brute force-constructive algorithms-greedy-implementation,harramkhor,Java 8,1153,123187200,OK
+47762073,1091,1546188735,8235,B,1200,brute force-constructive algorithms-greedy-implementation,almas.shaikh,Java 8,1500,259686400,TIME_LIMIT_EXCEEDED
+47762063,1091,1546188734,8234,B,1200,brute force-constructive algorithms-greedy-implementation,sridhar2007,Java 8,280,0,OK
+47762021,1091,1546188714,8214,B,1200,brute force-constructive algorithms-greedy-implementation,kira24,Java 8,233,0,OK
+47761993,1091,1546188706,8206,H,3100,games,Petr,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47761950,1091,1546188687,8187,B,1200,brute force-constructive algorithms-greedy-implementation,d_smorodinnikov,Java 8,1500,246681600,TIME_LIMIT_EXCEEDED
+47761909,1091,1546188674,8173,C,1400,math-number theory,prakhar897,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47761876,1091,1546188662,8162,C,1400,math-number theory,Mohammad_Af,Java 8,576,0,OK
+47761806,1091,1546188634,8134,D,1700,combinatorics-dp-math,msagimbekov,Java 8,2000,17100800,TIME_LIMIT_EXCEEDED
+47761570,1091,1546188538,8038,B,1200,brute force-constructive algorithms-greedy-implementation,ajand2003,Java 8,1325,122060800,OK
+47761534,1091,1546188522,8022,C,1400,math-number theory,Java,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47761504,1091,1546188511,8011,C,1400,math-number theory,goyalakash1997,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47761452,1091,1546188487,7987,G,3100,interactive-math-number theory,InuyamaAoi,Java 8,264,0,OK
+47761428,1091,1546188479,7979,B,1200,brute force-constructive algorithms-greedy-implementation,caoash,Java 8,1500,133222400,TIME_LIMIT_EXCEEDED
+47761329,1091,1546188437,7937,C,1400,math-number theory,Infidelis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47761264,1091,1546188407,7907,C,1400,math-number theory,MangoPeel,Java 8,156,0,OK
+47761202,1091,1546188388,7888,D,1700,combinatorics-dp-math,msagimbekov,Java 8,2000,7475200,TIME_LIMIT_EXCEEDED
+47761119,1091,1546188353,7853,C,1400,math-number theory,ijshj10,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47761102,1091,1546188343,7843,C,1400,math-number theory,premnathcs,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47761101,1091,1546188342,7842,C,1400,math-number theory,long_wave,Java 8,124,0,OK
+47761099,1091,1546188341,7841,C,1400,math-number theory,aakashjaiswal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47761015,1091,1546188305,7805,B,1200,brute force-constructive algorithms-greedy-implementation,Rohan088,Java 8,1500,82739200,TIME_LIMIT_EXCEEDED
+47761006,1091,1546188304,7804,A,900,brute force-implementation-math,spandand515,Java 8,140,0,OK
+47760961,1091,1546188279,7779,D,1700,combinatorics-dp-math,IDzekh,Java 8,155,5734400,OK
+47760953,1091,1546188275,7775,C,1400,math-number theory,Mohammad_Af,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47760761,1091,1546188198,7698,C,1400,math-number theory,rainier,Java 8,155,0,OK
+47760741,1091,1546188192,7692,C,1400,math-number theory,mareshkau,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47760701,1091,1546188175,7675,D,1700,combinatorics-dp-math,jdurie,Java 8,170,0,OK
+47760685,1091,1546188171,7671,C,1400,math-number theory,Infidelis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47760465,1091,1546188072,7572,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,abacabadabacaba,Java 8,311,0,OK
+47760449,1091,1546188066,7566,G,3100,interactive-math-number theory,Petr,Java 8,5101,0,OK
+47760445,1091,1546188064,7564,C,1400,math-number theory,Infidelis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47760264,1091,1546187986,7486,B,1200,brute force-constructive algorithms-greedy-implementation,almas.shaikh,Java 8,1500,259788800,TIME_LIMIT_EXCEEDED
+47760241,1091,1546187977,7477,C,1400,math-number theory,o-0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47760201,1091,1546187965,7465,C,1400,math-number theory,prakhar897,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47760143,1091,1546187938,7438,D,1700,combinatorics-dp-math,boltUsain,Java 8,187,15360000,OK
+47760010,1091,1546187886,7385,C,1400,math-number theory,keshav.garg04,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759992,1091,1546187877,7377,C,1400,math-number theory,tony_stark_100,Java 8,155,0,OK
+47759897,1091,1546187841,7341,D,1700,combinatorics-dp-math,simenl,Java 8,170,15360000,OK
+47759833,1091,1546187821,7321,A,900,brute force-implementation-math,16B01A1201,Java 8,140,0,OK
+47759820,1091,1546187816,7316,B,1200,brute force-constructive algorithms-greedy-implementation,bhavyashah9873,Java 8,1500,259072000,TIME_LIMIT_EXCEEDED
+47759802,1091,1546187812,7312,C,1400,math-number theory,elizarv,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759683,1091,1546187781,7281,A,900,brute force-implementation-math,Mostafa_Abdelghafar,Java 8,140,0,OK
+47759591,1091,1546187695,7194,C,1400,math-number theory,aakashjaiswal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759576,1091,1546187687,7187,B,1200,brute force-constructive algorithms-greedy-implementation,Klnsyf_Ego,Java 8,155,0,OK
+47759550,1091,1546187677,7177,D,1700,combinatorics-dp-math,shikharid,Java 8,171,5734400,OK
+47759403,1091,1546187612,7112,C,1400,math-number theory,aakashjaiswal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759351,1091,1546187592,7092,C,1400,math-number theory,goldcode8,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759321,1091,1546187583,7083,D,1700,combinatorics-dp-math,llamaoo7,Java 8,170,15360000,OK
+47759278,1091,1546187569,7069,C,1400,math-number theory,Vjan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759266,1091,1546187566,7066,C,1400,math-number theory,aakashjaiswal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759261,1091,1546187564,7064,C,1400,math-number theory,o-0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759256,1091,1546187562,7062,C,1400,math-number theory,chojh1222,Java 8,109,0,OK
+47759212,1091,1546187544,7044,D,1700,combinatorics-dp-math,killamocingbird,Java 8,186,6348800,OK
+47759173,1091,1546187525,7025,D,1700,combinatorics-dp-math,Mooncrater,Java 8,155,0,OK
+47759165,1091,1546187523,7023,B,1200,brute force-constructive algorithms-greedy-implementation,kola99,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47759164,1091,1546187522,7022,B,1200,brute force-constructive algorithms-greedy-implementation,sushant_verma,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47759111,1091,1546187502,7002,C,1400,math-number theory,elizarv,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47759001,1091,1546187456,6956,C,1400,math-number theory,tony_stark_100,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758600,1091,1546187298,6798,C,1400,math-number theory,dmytro.prytula,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758453,1091,1546187235,6735,C,1400,math-number theory,Juniper,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758443,1091,1546187231,6731,C,1400,math-number theory,Pz99,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758437,1091,1546187228,6728,B,1200,brute force-constructive algorithms-greedy-implementation,YahiaBadr,Java 8,124,0,OK
+47758410,1091,1546187219,6719,C,1400,math-number theory,hrustim25,Java 8,124,0,OK
+47758396,1091,1546187211,6711,C,1400,math-number theory,plmokn,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758385,1091,1546187207,6707,D,1700,combinatorics-dp-math,finnlidbetter,Java 8,717,16998400,OK
+47758355,1091,1546187197,6697,D,1700,combinatorics-dp-math,golions,Java 8,170,15462400,OK
+47758342,1091,1546187190,6690,D,1700,combinatorics-dp-math,llamaoo7,Java 8,2000,15360000,TIME_LIMIT_EXCEEDED
+47758328,1091,1546187184,6684,B,1200,brute force-constructive algorithms-greedy-implementation,kola99,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47758315,1091,1546187178,6678,A,900,brute force-implementation-math,IBatJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758301,1091,1546187171,6671,A,900,brute force-implementation-math,mubeena535,Java 8,140,0,OK
+47758210,1091,1546187129,6629,C,1400,math-number theory,Vjan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758206,1091,1546187128,6628,C,1400,math-number theory,vayunandhan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758156,1091,1546187110,6610,C,1400,math-number theory,goldcode8,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758154,1091,1546187109,6609,C,1400,math-number theory,DeCapBarsoom,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47758010,1091,1546187049,6549,C,1400,math-number theory,arch_abs,Java 8,124,0,OK
+47757932,1091,1546187020,6520,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,ilyakor,Java 8,2000,87449600,TIME_LIMIT_EXCEEDED
+47757925,1091,1546187016,6516,C,1400,math-number theory,dmytro.prytula,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757898,1091,1546187003,6503,C,1400,math-number theory,iamyashh,Java 8,124,0,OK
+47757890,1091,1546187001,6501,C,1400,math-number theory,mammedbrk,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757886,1091,1546187000,6500,D,1700,combinatorics-dp-math,Klnsyf_Ego,Java 8,186,15974400,OK
+47757849,1091,1546186984,6484,B,1200,brute force-constructive algorithms-greedy-implementation,kola99,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47757836,1091,1546186980,6480,G,3100,interactive-math-number theory,collares,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+47757791,1091,1546186956,6456,C,1400,math-number theory,SpArkKnight59,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757699,1091,1546186909,6409,B,1200,brute force-constructive algorithms-greedy-implementation,yovrerr,Java 8,1045,70656000,OK
+47757645,1091,1546186890,6390,C,1400,math-number theory,aishu_8333,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757625,1091,1546186883,6383,C,1400,math-number theory,ijshj10,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757608,1091,1546186873,6373,C,1400,math-number theory,keshav.garg04,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757572,1091,1546186858,6358,C,1400,math-number theory,Infidelis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757517,1091,1546186834,6334,B,1200,brute force-constructive algorithms-greedy-implementation,gnad,Java 8,124,0,OK
+47757511,1091,1546186832,6332,D,1700,combinatorics-dp-math,bhavyashah9873,Java 8,171,6041600,OK
+47757501,1091,1546186827,6327,D,1700,combinatorics-dp-math,wolfib,Java 8,155,0,OK
+47757479,1091,1546186819,6319,C,1400,math-number theory,niteshgowda,Java 8,124,0,OK
+47757395,1091,1546186785,6285,D,1700,combinatorics-dp-math,_R_peggy,Java 8,202,16076800,OK
+47757392,1091,1546186783,6283,D,1700,combinatorics-dp-math,---,Java 8,140,0,OK
+47757216,1091,1546186699,6199,C,1400,math-number theory,o-0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757205,1091,1546186694,6194,B,1200,brute force-constructive algorithms-greedy-implementation,anony9906,Java 8,420,0,OK
+47757092,1091,1546186649,6149,C,1400,math-number theory,msvas,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47757059,1091,1546186637,6137,D,1700,combinatorics-dp-math,Asgar,Java 8,187,15360000,OK
+47757040,1091,1546186632,6132,C,1400,math-number theory,rahulkhairwar,Java 8,109,0,OK
+47757035,1091,1546186632,6132,B,1200,brute force-constructive algorithms-greedy-implementation,Akash_UR,Java 8,1279,0,OK
+47756954,1091,1546186597,6097,C,1400,math-number theory,dmytro.prytula,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47756894,1091,1546186578,6078,C,1400,math-number theory,codeforcessup,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47756890,1091,1546186577,6077,C,1400,math-number theory,LM.10,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47756881,1091,1546186573,6073,D,1700,combinatorics-dp-math,Vladimirr.Petrunko,Java 8,155,0,OK
+47756777,1091,1546186537,6037,D,1700,combinatorics-dp-math,PrakharJain,Java 8,1653,15360000,OK
+47756732,1091,1546186523,6023,H,3100,games,abacabadabacaba,Java 8,1653,0,OK
+47756490,1091,1546186428,5928,C,1400,math-number theory,dhoni072,Java 8,124,0,OK
+47756488,1091,1546186426,5926,B,1200,brute force-constructive algorithms-greedy-implementation,Hapsidra,Java 8,202,0,OK
+47756432,1091,1546186404,5904,B,1200,brute force-constructive algorithms-greedy-implementation,bracts00,Java 8,1028,0,OK
+47756417,1091,1546186399,5899,C,1400,math-number theory,soumyab,Java 8,187,0,OK
+47756377,1091,1546186380,5880,A,900,brute force-implementation-math,saikrishna2605,Java 8,155,0,OK
+47756336,1091,1546186362,5862,C,1400,math-number theory,Witless_Deer,Java 8,140,0,OK
+47756288,1091,1546186338,5838,A,900,brute force-implementation-math,16wh1a0516,Java 8,140,0,OK
+47756255,1091,1546186325,5825,A,900,brute force-implementation-math,FirstSintax,Java 8,140,0,OK
+47756219,1091,1546186312,5812,C,1400,math-number theory,rishabh101,Java 8,155,0,OK
+47756198,1091,1546186304,5804,D,1700,combinatorics-dp-math,KulikAlex,Java 8,202,53555200,OK
+47756197,1091,1546186304,5804,B,1200,brute force-constructive algorithms-greedy-implementation,kshitiz1007,Java 8,155,0,OK
+47756123,1091,1546186280,5780,C,1400,math-number theory,elizarv,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47756115,1091,1546186277,5776,B,1200,brute force-constructive algorithms-greedy-implementation,2020akadaver,Java 8,124,0,OK
+47756097,1091,1546186270,5770,A,900,brute force-implementation-math,srinathtang,Java 8,140,0,OK
+47756039,1091,1546186249,5749,F,2600,constructive algorithms-greedy,uwi,Java 8,140,0,OK
+47755915,1091,1546186204,5704,A,900,brute force-implementation-math,heidijk,Java 8,140,0,OK
+47755897,1091,1546186198,5698,A,900,brute force-implementation-math,dinesh_raj7,Java 8,109,0,OK
+47755841,1091,1546186177,5677,D,1700,combinatorics-dp-math,BaZ_,Java 8,280,22323200,OK
+47755806,1091,1546186165,5665,G,3100,interactive-math-number theory,collares,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+47755779,1091,1546186155,5655,C,1400,math-number theory,holyfuck,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755769,1091,1546186150,5650,C,1400,math-number theory,QuinnG,Java 8,639,0,OK
+47755745,1091,1546186142,5642,C,1400,math-number theory,goldcode8,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755728,1091,1546186134,5634,C,1400,math-number theory,Washoum,Java 8,124,0,OK
+47755727,1091,1546186134,5634,C,1400,math-number theory,ijshj10,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755721,1091,1546186129,5629,D,1700,combinatorics-dp-math,Baelish,Java 8,1418,15360000,OK
+47755627,1091,1546186093,5593,D,1700,combinatorics-dp-math,GiGlema,Java 8,186,6451200,OK
+47755621,1091,1546186090,5590,C,1400,math-number theory,bit_masker,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755615,1091,1546186086,5586,C,1400,math-number theory,cyfun,Java 8,139,0,OK
+47755341,1091,1546185977,5477,C,1400,math-number theory,solbread,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755282,1091,1546185952,5452,B,1200,brute force-constructive algorithms-greedy-implementation,ijshj10,Java 8,1122,0,OK
+47755271,1091,1546185949,5449,G,3100,interactive-math-number theory,collares,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+47755252,1091,1546185942,5442,C,1400,math-number theory,codeforcessup,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755227,1091,1546185935,5435,C,1400,math-number theory,Anonymous,Java 8,109,0,OK
+47755203,1091,1546185926,5426,C,1400,math-number theory,bit_masker,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755153,1091,1546185907,5407,C,1400,math-number theory,sumit3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47755151,1091,1546185906,5406,C,1400,math-number theory,piyushgoel997,Java 8,155,0,OK
+47755044,1091,1546185859,5359,B,1200,brute force-constructive algorithms-greedy-implementation,LemonPudding,Java 8,561,23040000,OK
+47754996,1091,1546185835,5335,G,3100,interactive-math-number theory,collares,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+47754971,1091,1546185825,5325,C,1400,math-number theory,KharYusuf,Java 8,155,0,OK
+47754946,1091,1546185816,5316,D,1700,combinatorics-dp-math,alexyz,Java 8,155,15360000,OK
+47754935,1091,1546185811,5311,C,1400,math-number theory,SpArkKnight59,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754869,1091,1546185791,5291,D,1700,combinatorics-dp-math,kshitiz1007,Java 8,202,6451200,OK
+47754851,1091,1546185784,5284,C,1400,math-number theory,keshav.garg04,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754846,1091,1546185782,5282,C,1400,math-number theory,Ahmed_Diab,Java 8,109,0,OK
+47754697,1091,1546185728,5228,B,1200,brute force-constructive algorithms-greedy-implementation,chugh,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47754676,1091,1546185723,5223,A,900,brute force-implementation-math,saint1729,Java 8,155,0,OK
+47754653,1091,1546185718,5218,C,1400,math-number theory,SpArkKnight59,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754651,1091,1546185718,5218,C,1400,math-number theory,codeforcessup,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754645,1091,1546185716,5216,C,1400,math-number theory,goldcode8,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754607,1091,1546185699,5199,C,1400,math-number theory,prakhar897,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754572,1091,1546185688,5188,C,1400,math-number theory,hrustim25,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754496,1091,1546185664,5164,D,1700,combinatorics-dp-math,Musin,Java 8,1559,0,OK
+47754476,1091,1546185655,5155,G,3100,interactive-math-number theory,collares,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+47754433,1091,1546185641,5141,C,1400,math-number theory,shikharid,Java 8,155,0,OK
+47754370,1091,1546185621,5121,C,1400,math-number theory,QuinnG,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754299,1091,1546185593,5093,C,1400,math-number theory,avijit_agarwal,Java 8,109,0,OK
+47754234,1091,1546185575,5075,C,1400,math-number theory,Happy_Stove,Java 8,155,0,OK
+47754159,1091,1546185552,5052,C,1400,math-number theory,agnyaathavaasi,Java 8,124,0,OK
+47754116,1091,1546185539,5039,D,1700,combinatorics-dp-math,rr459595,Java 8,1060,16076800,OK
+47754022,1091,1546185508,5008,C,1400,math-number theory,goldcode8,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47754013,1091,1546185506,5006,C,1400,math-number theory,slava812,Java 8,124,0,OK
+47754011,1091,1546185505,5005,B,1200,brute force-constructive algorithms-greedy-implementation,Pz99,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47753942,1091,1546185484,4984,D,1700,combinatorics-dp-math,Shaykhutdinov-T-I,Java 8,124,0,OK
+47753885,1091,1546185465,4965,C,1400,math-number theory,msagimbekov,Java 8,124,0,OK
+47753877,1091,1546185463,4963,D,1700,combinatorics-dp-math,Yugioh,Java 8,170,15360000,OK
+47753872,1091,1546185461,4961,A,900,brute force-implementation-math,Amena,Java 8,155,0,OK
+47753829,1091,1546185444,4944,C,1400,math-number theory,QuinnG,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753792,1091,1546185430,4930,B,1200,brute force-constructive algorithms-greedy-implementation,Mazen_Ashraf,Java 8,795,159641600,OK
+47753762,1091,1546185422,4922,C,1400,math-number theory,Rwolfx,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753735,1091,1546185415,4915,C,1400,math-number theory,timbyxt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753730,1091,1546185414,4914,C,1400,math-number theory,MovingBit,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753726,1091,1546185412,4912,D,1700,combinatorics-dp-math,khokharnikunj8,Java 8,155,5939200,OK
+47753643,1091,1546185379,4879,C,1400,math-number theory,Mohammad_Af,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753596,1091,1546185363,4863,C,1400,math-number theory,timbyxt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753582,1091,1546185355,4855,A,900,brute force-implementation-math,alecs6k,Java 8,155,0,OK
+47753572,1091,1546185352,4852,A,900,brute force-implementation-math,Sudeshna_bondada,Java 8,155,0,OK
+47753529,1091,1546185340,4840,C,1400,math-number theory,DCerberus,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753526,1091,1546185339,4839,G,3100,interactive-math-number theory,tourist,Java 8,171,0,OK
+47753523,1091,1546185338,4838,D,1700,combinatorics-dp-math,fnch,Java 8,171,15360000,OK
+47753474,1091,1546185327,4827,C,1400,math-number theory,sumit3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47753456,1091,1546185319,4819,D,1700,combinatorics-dp-math,aman28rwt,Java 8,139,15564800,OK
+47753150,1091,1546185221,4721,A,900,brute force-implementation-math,anubhav11march,Java 8,140,0,OK
+47753112,1091,1546185209,4709,C,1400,math-number theory,MagentaCobra,Java 8,124,0,OK
+47753110,1091,1546185208,4708,D,1700,combinatorics-dp-math,nchn27,Java 8,155,15462400,OK
+47753104,1091,1546185206,4706,G,3100,interactive-math-number theory,collares,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+47753098,1091,1546185204,4704,B,1200,brute force-constructive algorithms-greedy-implementation,Pz99,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47753025,1091,1546185183,4683,D,1700,combinatorics-dp-math,batony4,Java 8,155,0,OK
+47753020,1091,1546185182,4682,B,1200,brute force-constructive algorithms-greedy-implementation,DeCapBarsoom,Java 8,124,0,OK
+47752974,1091,1546185169,4669,A,900,brute force-implementation-math,yovrerr,Java 8,140,0,OK
+47752956,1091,1546185163,4663,C,1400,math-number theory,aakashjaiswal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47752950,1091,1546185160,4660,C,1400,math-number theory,jenish9599,Java 8,124,0,OK
+47752903,1091,1546185141,4641,C,1400,math-number theory,SpArkKnight59,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47752891,1091,1546185139,4639,D,1700,combinatorics-dp-math,2020akadaver,Java 8,155,15257600,OK
+47752875,1091,1546185134,4634,C,1400,math-number theory,timbyxt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47752870,1091,1546185133,4633,C,1400,math-number theory,muregad99,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47752838,1091,1546185122,4622,D,1700,combinatorics-dp-math,gnad,Java 8,202,5734400,OK
+47752793,1091,1546185107,4607,D,1700,combinatorics-dp-math,wery0,Java 8,156,5734400,OK
+47752771,1091,1546185101,4601,D,1700,combinatorics-dp-math,Intrincantation,Java 8,186,6451200,OK
+47752757,1091,1546185096,4596,C,1400,math-number theory,simenl,Java 8,171,0,OK
+47752720,1091,1546185088,4588,A,900,brute force-implementation-math,Guru_Randhawa,Java 8,140,0,OK
+47752636,1091,1546185058,4558,C,1400,math-number theory,muregad99,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47752604,1091,1546185047,4547,D,1700,combinatorics-dp-math,mikit,Java 8,171,5734400,OK
+47752602,1091,1546185047,4546,C,1400,math-number theory,rr459595,Java 8,171,0,OK
+47752575,1091,1546185036,4536,B,1200,brute force-constructive algorithms-greedy-implementation,mareshkau,Java 8,1356,248012800,OK
+47752539,1091,1546185028,4528,D,1700,combinatorics-dp-math,shubhch32,Java 8,1949,6451200,OK
+47752519,1091,1546185020,4520,C,1400,math-number theory,jeoj,Java 8,109,0,OK
+47752511,1091,1546185017,4517,C,1400,math-number theory,ISSAM_LAKOUAM,Java 8,155,0,OK
+47752510,1091,1546185017,4517,C,1400,math-number theory,LAKOUAM_IMAD,Java 8,155,0,OK
+47752419,1091,1546184990,4490,C,1400,math-number theory,SpArkKnight59,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47752418,1091,1546184990,4490,A,900,brute force-implementation-math,premnathcs,Java 8,140,0,OK
+47752354,1091,1546184971,4471,C,1400,math-number theory,KharYusuf,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47752304,1091,1546184954,4454,B,1200,brute force-constructive algorithms-greedy-implementation,chafi,Java 8,124,0,OK
+47752211,1091,1546184928,4428,C,1400,math-number theory,james222424,Java 8,124,0,OK
+47751981,1091,1546184855,4355,C,1400,math-number theory,utsav_deep,Java 8,124,0,OK
+47751950,1091,1546184846,4346,C,1400,math-number theory,rohan03,Java 8,140,0,OK
+47751856,1091,1546184819,4319,C,1400,math-number theory,vatsalsonigara,Java 8,140,0,OK
+47751800,1091,1546184800,4300,B,1200,brute force-constructive algorithms-greedy-implementation,nesdi,Java 8,1500,104652800,TIME_LIMIT_EXCEEDED
+47751778,1091,1546184790,4290,C,1400,math-number theory,SevenDeadlySins,Java 8,139,0,OK
+47751720,1091,1546184771,4271,C,1400,math-number theory,sameep17264,Java 8,124,0,OK
+47751519,1091,1546184709,4209,C,1400,math-number theory,Anonymous,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47751512,1091,1546184708,4208,C,1400,math-number theory,Jay_13,Java 8,124,0,OK
+47751498,1091,1546184704,4203,B,1200,brute force-constructive algorithms-greedy-implementation,zidan241,Java 8,124,0,OK
+47751444,1091,1546184686,4186,C,1400,math-number theory,Latency,Java 8,1000,259379200,TIME_LIMIT_EXCEEDED
+47751438,1091,1546184684,4184,C,1400,math-number theory,muregad99,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47751322,1091,1546184654,4154,C,1400,math-number theory,Mohammad_Af,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47751319,1091,1546184653,4153,B,1200,brute force-constructive algorithms-greedy-implementation,solbread,Java 8,1357,115097600,OK
+47751181,1091,1546184615,4115,B,1200,brute force-constructive algorithms-greedy-implementation,Whiplash99,Java 8,124,0,OK
+47751107,1091,1546184592,4092,C,1400,math-number theory,a.sinkevich,Java 8,124,0,OK
+47751081,1091,1546184587,4087,A,900,brute force-implementation-math,islamsao50,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47751058,1091,1546184580,4080,B,1200,brute force-constructive algorithms-greedy-implementation,holyfuck,Java 8,1497,0,OK
+47750950,1091,1546184546,4046,C,1400,math-number theory,alina_bulkina,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750935,1091,1546184543,4043,A,900,brute force-implementation-math,ravii_1996,Java 8,140,0,OK
+47750906,1091,1546184534,4034,A,900,brute force-implementation-math,mammedbrk,Java 8,124,0,OK
+47750861,1091,1546184521,4021,C,1400,math-number theory,elizarv,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750778,1091,1546184500,4000,B,1200,brute force-constructive algorithms-greedy-implementation,SchrodZzz,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47750757,1091,1546184496,3996,C,1400,math-number theory,jdurie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750751,1091,1546184494,3994,B,1200,brute force-constructive algorithms-greedy-implementation,nesdi,Java 8,1500,179200000,TIME_LIMIT_EXCEEDED
+47750714,1091,1546184486,3986,C,1400,math-number theory,jenish9599,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750667,1091,1546184472,3972,B,1200,brute force-constructive algorithms-greedy-implementation,o-0,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47750633,1091,1546184460,3960,A,900,brute force-implementation-math,sbk,Java 8,155,0,OK
+47750575,1091,1546184445,3945,C,1400,math-number theory,prat.bphc,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750569,1091,1546184444,3944,C,1400,math-number theory,rr459595,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750546,1091,1546184437,3937,A,900,brute force-implementation-math,JayPandey,Java 8,124,0,OK
+47750512,1091,1546184428,3928,B,1200,brute force-constructive algorithms-greedy-implementation,sam1301,Java 8,311,0,OK
+47750492,1091,1546184423,3923,B,1200,brute force-constructive algorithms-greedy-implementation,richardwsong,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47750489,1091,1546184423,3923,A,900,brute force-implementation-math,vinay_vk31,Java 8,124,0,OK
+47750473,1091,1546184419,3919,B,1200,brute force-constructive algorithms-greedy-implementation,Filo13199,Java 8,140,0,OK
+47750389,1091,1546184397,3897,D,1700,combinatorics-dp-math,Dukkha,Java 8,124,0,OK
+47750364,1091,1546184391,3891,G,3100,interactive-math-number theory,ecnerwala,Java 8,187,0,OK
+47750355,1091,1546184388,3888,A,900,brute force-implementation-math,islamsao50,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750339,1091,1546184382,3882,B,1200,brute force-constructive algorithms-greedy-implementation,SpArkKnight59,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47750305,1091,1546184371,3871,B,1200,brute force-constructive algorithms-greedy-implementation,Danielto2000,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47750289,1091,1546184368,3868,B,1200,brute force-constructive algorithms-greedy-implementation,prakhar897,Java 8,733,60108800,OK
+47750286,1091,1546184368,3868,B,1200,brute force-constructive algorithms-greedy-implementation,Anvit,Java 8,156,0,OK
+47750222,1091,1546184347,3847,B,1200,brute force-constructive algorithms-greedy-implementation,bit_masker,Java 8,296,0,OK
+47750155,1091,1546184332,3832,C,1400,math-number theory,rr459595,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47750127,1091,1546184321,3821,C,1400,math-number theory,wolfib,Java 8,124,0,OK
+47750033,1091,1546184295,3795,B,1200,brute force-constructive algorithms-greedy-implementation,mdazmat9,Java 8,1500,177049600,TIME_LIMIT_EXCEEDED
+47750016,1091,1546184293,3793,B,1200,brute force-constructive algorithms-greedy-implementation,forsenE,Java 8,1091,129228800,OK
+47749973,1091,1546184279,3779,B,1200,brute force-constructive algorithms-greedy-implementation,Vjan,Java 8,1263,121958400,OK
+47749969,1091,1546184278,3778,B,1200,brute force-constructive algorithms-greedy-implementation,makarfi,Java 8,155,0,OK
+47749864,1091,1546184247,3747,A,900,brute force-implementation-math,matratze,Java 8,140,0,OK
+47749821,1091,1546184236,3736,C,1400,math-number theory,rr459595,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47749769,1091,1546184219,3719,C,1400,math-number theory,bobbilyking,Java 8,1000,259276800,TIME_LIMIT_EXCEEDED
+47749753,1091,1546184214,3714,A,900,brute force-implementation-math,islamsao50,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47749751,1091,1546184214,3714,C,1400,math-number theory,_R_peggy,Java 8,139,0,OK
+47749632,1091,1546184180,3680,C,1400,math-number theory,a.sinkevich,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47749599,1091,1546184171,3671,D,1700,combinatorics-dp-math,AuroraGarden,Java 8,187,53555200,OK
+47749535,1091,1546184153,3653,C,1400,math-number theory,mirak94,Java 8,124,0,OK
+47749513,1091,1546184148,3648,B,1200,brute force-constructive algorithms-greedy-implementation,Danielto2000,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47749447,1091,1546184127,3627,C,1400,math-number theory,kshitiz1007,Java 8,140,0,OK
+47749440,1091,1546184124,3624,C,1400,math-number theory,timbyxt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47749348,1091,1546184097,3597,B,1200,brute force-constructive algorithms-greedy-implementation,mareshkau,Java 8,1500,258764800,TIME_LIMIT_EXCEEDED
+47749323,1091,1546184090,3590,C,1400,math-number theory,jjluczyn,Java 8,171,0,OK
+47749306,1091,1546184085,3585,C,1400,math-number theory,piyushgoel997,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47749293,1091,1546184081,3581,B,1200,brute force-constructive algorithms-greedy-implementation,trungvthe130284,Java 8,1500,225894400,TIME_LIMIT_EXCEEDED
+47749273,1091,1546184076,3576,A,900,brute force-implementation-math,kira24,Java 8,140,0,OK
+47749239,1091,1546184064,3564,C,1400,math-number theory,poketred12,Java 8,124,0,OK
+47749213,1091,1546184056,3556,B,1200,brute force-constructive algorithms-greedy-implementation,SnowGoose,Java 8,233,0,OK
+47749188,1091,1546184048,3548,A,900,brute force-implementation-math,juanto121,Java 8,156,0,OK
+47749180,1091,1546184047,3547,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,Petr,Java 8,311,24780800,OK
+47749170,1091,1546184043,3543,C,1400,math-number theory,---,Java 8,124,0,OK
+47749122,1091,1546184029,3529,B,1200,brute force-constructive algorithms-greedy-implementation,sumit3,Java 8,358,0,OK
+47749085,1091,1546184020,3519,B,1200,brute force-constructive algorithms-greedy-implementation,Java,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47749053,1091,1546184012,3512,C,1400,math-number theory,killamocingbird,Java 8,171,0,OK
+47748985,1091,1546183993,3493,C,1400,math-number theory,yuanfei_1984,Java 8,421,0,OK
+47748949,1091,1546183985,3485,C,1400,math-number theory,mostafa.elhaiany,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47748930,1091,1546183980,3480,C,1400,math-number theory,timbyxt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47748895,1091,1546183967,3467,A,900,brute force-implementation-math,madhus1025,Java 8,155,0,OK
+47748874,1091,1546183962,3461,C,1400,math-number theory,yAsH.jBp,Java 8,109,0,OK
+47748817,1091,1546183945,3445,A,900,brute force-implementation-math,carlosgonzalezufps,Java 8,124,0,OK
+47748816,1091,1546183945,3445,A,900,brute force-implementation-math,OmarSaber,Java 8,171,0,OK
+47748806,1091,1546183943,3443,B,1200,brute force-constructive algorithms-greedy-implementation,LemonPudding,Java 8,1500,32972800,TIME_LIMIT_EXCEEDED
+47748739,1091,1546183922,3422,A,900,brute force-implementation-math,freaking2012,Java 8,124,0,OK
+47748691,1091,1546183909,3409,B,1200,brute force-constructive algorithms-greedy-implementation,semantyc,Java 8,1500,99225600,TIME_LIMIT_EXCEEDED
+47748685,1091,1546183908,3408,C,1400,math-number theory,jdurie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47748681,1091,1546183907,3407,D,1700,combinatorics-dp-math,dusty.and.rusty,Java 8,233,16691200,OK
+47748656,1091,1546183902,3402,D,1700,combinatorics-dp-math,jebaited,Java 8,139,0,OK
+47748584,1091,1546183882,3382,B,1200,brute force-constructive algorithms-greedy-implementation,Abdullah_Abu_Alrish,Java 8,1263,259276800,OK
+47748523,1091,1546183864,3364,B,1200,brute force-constructive algorithms-greedy-implementation,ramez,Java 8,139,0,OK
+47748479,1091,1546183851,3351,B,1200,brute force-constructive algorithms-greedy-implementation,MangoPeel,Java 8,296,0,OK
+47748463,1091,1546183844,3344,B,1200,brute force-constructive algorithms-greedy-implementation,mareshkau,Java 8,1500,246681600,TIME_LIMIT_EXCEEDED
+47748384,1091,1546183827,3327,C,1400,math-number theory,jwk,Java 8,140,0,OK
+47748381,1091,1546183826,3326,B,1200,brute force-constructive algorithms-greedy-implementation,Happy_Stove,Java 8,576,30208000,OK
+47748335,1091,1546183813,3313,B,1200,brute force-constructive algorithms-greedy-implementation,nesdi,Java 8,1500,177868800,TIME_LIMIT_EXCEEDED
+47748314,1091,1546183807,3307,A,900,brute force-implementation-math,DeCapBarsoom,Java 8,124,0,OK
+47748243,1091,1546183790,3290,C,1400,math-number theory,Mohammad_Af,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47748227,1091,1546183785,3284,C,1400,math-number theory,piyushgoel997,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47748214,1091,1546183781,3281,B,1200,brute force-constructive algorithms-greedy-implementation,Latency,Java 8,1500,221286400,TIME_LIMIT_EXCEEDED
+47748196,1091,1546183777,3277,B,1200,brute force-constructive algorithms-greedy-implementation,yellowjian,Java 8,140,0,OK
+47748168,1091,1546183768,3268,C,1400,math-number theory,Klnsyf_Ego,Java 8,140,0,OK
+47748138,1091,1546183760,3260,B,1200,brute force-constructive algorithms-greedy-implementation,Infidelis,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47748128,1091,1546183757,3257,C,1400,math-number theory,Rawhi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47748056,1091,1546183742,3242,B,1200,brute force-constructive algorithms-greedy-implementation,gamezovladislav,Java 8,514,0,OK
+47748021,1091,1546183735,3235,C,1400,math-number theory,khokharnikunj8,Java 8,124,0,OK
+47747986,1091,1546183724,3224,B,1200,brute force-constructive algorithms-greedy-implementation,trungvthe130284,Java 8,1500,225894400,TIME_LIMIT_EXCEEDED
+47747972,1091,1546183720,3220,B,1200,brute force-constructive algorithms-greedy-implementation,ISSAM_LAKOUAM,Java 8,264,0,OK
+47747945,1091,1546183714,3214,E,2400,binary search-data structures-graphs-greedy-implementation-math-sortings,uwi,Java 8,389,3072000,OK
+47747932,1091,1546183712,3212,B,1200,brute force-constructive algorithms-greedy-implementation,DCerberus,Java 8,1154,100249600,OK
+47747885,1091,1546183696,3196,B,1200,brute force-constructive algorithms-greedy-implementation,Infidelis,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47747771,1091,1546183665,3165,B,1200,brute force-constructive algorithms-greedy-implementation,slava812,Java 8,171,0,OK
+47747726,1091,1546183652,3152,D,1700,combinatorics-dp-math,tanzaku,Java 8,202,22220800,OK
+47747703,1091,1546183646,3146,B,1200,brute force-constructive algorithms-greedy-implementation,d_smorodinnikov,Java 8,1500,191590400,TIME_LIMIT_EXCEEDED
+47747674,1091,1546183640,3140,C,1400,math-number theory,Lanirina,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47747624,1091,1546183626,3126,C,1400,math-number theory,jdurie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47747600,1091,1546183618,3118,C,1400,math-number theory,bhavyashah9873,Java 8,140,0,OK
+47747560,1091,1546183608,3108,C,1400,math-number theory,robslutsky,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47747409,1091,1546183573,3073,B,1200,brute force-constructive algorithms-greedy-implementation,LM.10,Java 8,1123,125952000,OK
+47747274,1091,1546183540,3040,B,1200,brute force-constructive algorithms-greedy-implementation,hagar_yasser,Java 8,124,0,OK
+47747215,1091,1546183523,3023,B,1200,brute force-constructive algorithms-greedy-implementation,MikeFaraday,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47747037,1091,1546183478,2978,A,900,brute force-implementation-math,sahithpaidi,Java 8,156,0,OK
+47747015,1091,1546183472,2972,C,1400,math-number theory,alexyz,Java 8,124,0,OK
+47746916,1091,1546183442,2942,C,1400,math-number theory,yuanfei_1984,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47746873,1091,1546183428,2928,B,1200,brute force-constructive algorithms-greedy-implementation,vatsalsonigara,Java 8,623,0,OK
+47746862,1091,1546183425,2925,C,1400,math-number theory,AJ47,Java 8,124,0,OK
+47746825,1091,1546183416,2916,C,1400,math-number theory,shoko93,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47746735,1091,1546183393,2893,A,900,brute force-implementation-math,aishu_8333,Java 8,124,0,OK
+47746723,1091,1546183389,2889,B,1200,brute force-constructive algorithms-greedy-implementation,Abdullah_Abu_Alrish,Java 8,1500,217395200,TIME_LIMIT_EXCEEDED
+47746703,1091,1546183385,2885,A,900,brute force-implementation-math,hemasushmitha16,Java 8,124,0,OK
+47746664,1091,1546183376,2876,C,1400,math-number theory,finnlidbetter,Java 8,124,0,OK
+47746588,1091,1546183359,2859,C,1400,math-number theory,Shaykhutdinov-T-I,Java 8,109,0,OK
+47746497,1091,1546183334,2834,B,1200,brute force-constructive algorithms-greedy-implementation,Ajay33.nits,Java 8,171,0,OK
+47746492,1091,1546183333,2833,B,1200,brute force-constructive algorithms-greedy-implementation,d_smorodinnikov,Java 8,1500,246374400,TIME_LIMIT_EXCEEDED
+47746454,1091,1546183325,2825,B,1200,brute force-constructive algorithms-greedy-implementation,LAKOUAM_IMAD,Java 8,233,0,OK
+47746449,1091,1546183324,2824,C,1400,math-number theory,yoichidon,Java 8,155,0,OK
+47746309,1091,1546183293,2793,A,900,brute force-implementation-math,dhakaji,Java 8,171,0,OK
+47746271,1091,1546183283,2783,A,900,brute force-implementation-math,pvsharshith,Java 8,140,0,OK
+47746270,1091,1546183283,2783,C,1400,math-number theory,boltUsain,Java 8,109,0,OK
+47746207,1091,1546183267,2767,C,1400,math-number theory,_R_peggy,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47746204,1091,1546183266,2766,A,900,brute force-implementation-math,shankha123,Java 8,140,0,OK
+47746201,1091,1546183265,2765,C,1400,math-number theory,jwk,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47746193,1091,1546183263,2763,B,1200,brute force-constructive algorithms-greedy-implementation,yongkiattay,Java 8,1500,240332800,TIME_LIMIT_EXCEEDED
+47746146,1091,1546183254,2753,C,1400,math-number theory,golions,Java 8,124,0,OK
+47746108,1091,1546183245,2745,B,1200,brute force-constructive algorithms-greedy-implementation,semantyc,Java 8,1500,99532800,TIME_LIMIT_EXCEEDED
+47746075,1091,1546183237,2737,C,1400,math-number theory,llamaoo7,Java 8,124,0,OK
+47746025,1091,1546183224,2724,C,1400,math-number theory,poketred12,Java 8,1000,258662400,TIME_LIMIT_EXCEEDED
+47746009,1091,1546183222,2722,B,1200,brute force-constructive algorithms-greedy-implementation,keshav.garg04,Java 8,1185,126873600,OK
+47746008,1091,1546183222,2722,C,1400,math-number theory,SrapZark,Java 8,124,0,OK
+47745994,1091,1546183217,2717,B,1200,brute force-constructive algorithms-greedy-implementation,raceldog,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47745930,1091,1546183196,2696,C,1400,math-number theory,Lanirina,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47745921,1091,1546183193,2693,C,1400,math-number theory,shoko93,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47745892,1091,1546183188,2688,B,1200,brute force-constructive algorithms-greedy-implementation,tony_stark_100,Java 8,155,0,OK
+47745843,1091,1546183175,2675,B,1200,brute force-constructive algorithms-greedy-implementation,blackrise,Java 8,155,0,OK
+47745797,1091,1546183163,2663,C,1400,math-number theory,Deimos,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47745745,1091,1546183151,2651,C,1400,math-number theory,KulikAlex,Java 8,155,0,OK
+47745701,1091,1546183139,2639,D,1700,combinatorics-dp-math,Tlatoani,Java 8,155,0,OK
+47745688,1091,1546183136,2636,D,1700,combinatorics-dp-math,AkshajK,Java 8,1528,0,OK
+47745515,1091,1546183091,2591,B,1200,brute force-constructive algorithms-greedy-implementation,utsav_deep,Java 8,358,0,OK
+47745500,1091,1546183088,2588,B,1200,brute force-constructive algorithms-greedy-implementation,new_start1,Java 8,140,0,OK
+47745392,1091,1546183060,2560,C,1400,math-number theory,gamezovladislav,Java 8,109,0,OK
+47745344,1091,1546183050,2550,A,900,brute force-implementation-math,tmak_54,Java 8,156,0,OK
+47745272,1091,1546183036,2536,A,900,brute force-implementation-math,rmadhavg,Java 8,109,0,OK
+47745240,1091,1546183027,2527,A,900,brute force-implementation-math,Kaiwan,Java 8,155,0,OK
+47745105,1091,1546182997,2497,A,900,brute force-implementation-math,sam1301,Java 8,140,0,OK
+47745098,1091,1546182995,2495,B,1200,brute force-constructive algorithms-greedy-implementation,KharYusuf,Java 8,342,0,OK
+47745080,1091,1546182991,2491,A,900,brute force-implementation-math,holyfuck,Java 8,140,0,OK
+47745062,1091,1546182986,2486,A,900,brute force-implementation-math,Mackenzie,Java 8,140,0,OK
+47745030,1091,1546182978,2478,C,1400,math-number theory,GiGlema,Java 8,155,0,OK
+47745010,1091,1546182974,2474,C,1400,math-number theory,dusty.and.rusty,Java 8,202,0,OK
+47744983,1091,1546182968,2468,A,900,brute force-implementation-math,Nitesh1,Java 8,124,0,OK
+47744952,1091,1546182962,2462,C,1400,math-number theory,Lanirina,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47744897,1091,1546182950,2450,A,900,brute force-implementation-math,kola99,Java 8,140,0,OK
+47744864,1091,1546182946,2446,C,1400,math-number theory,K_B_C_S,Java 8,124,0,OK
+47744803,1091,1546182932,2432,A,900,brute force-implementation-math,bobbilyking,Java 8,140,0,OK
+47744630,1091,1546182893,2393,C,1400,math-number theory,golions,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47744458,1091,1546182854,2354,B,1200,brute force-constructive algorithms-greedy-implementation,alina_bulkina,Java 8,155,0,OK
+47744443,1091,1546182852,2352,A,900,brute force-implementation-math,bracts00,Java 8,155,0,OK
+47744414,1091,1546182844,2344,A,900,brute force-implementation-math,agnyaathavaasi,Java 8,155,0,OK
+47744375,1091,1546182835,2335,D,1700,combinatorics-dp-math,SaveVMK,Java 8,156,15974400,OK
+47744339,1091,1546182828,2328,A,900,brute force-implementation-math,vaibhavsingh100070,Java 8,140,0,OK
+47744320,1091,1546182824,2324,B,1200,brute force-constructive algorithms-greedy-implementation,goyalakash1997,Java 8,1500,102400000,TIME_LIMIT_EXCEEDED
+47744313,1091,1546182823,2323,C,1400,math-number theory,batony4,Java 8,155,0,OK
+47744267,1091,1546182815,2315,B,1200,brute force-constructive algorithms-greedy-implementation,niteshgowda,Java 8,109,0,OK
+47744263,1091,1546182814,2314,C,1400,math-number theory,Intrincantation,Java 8,140,0,OK
+47744248,1091,1546182809,2309,C,1400,math-number theory,richardwsong,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47744228,1091,1546182804,2304,B,1200,brute force-constructive algorithms-greedy-implementation,Ahmed_Diab,Java 8,124,0,OK
+47744221,1091,1546182804,2304,B,1200,brute force-constructive algorithms-greedy-implementation,timbyxt,Java 8,1075,111001600,OK
+47744210,1091,1546182802,2302,A,900,brute force-implementation-math,o-0,Java 8,155,0,OK
+47744169,1091,1546182793,2293,C,1400,math-number theory,NatInTheHat,Java 8,155,0,OK
+47744095,1091,1546182776,2276,C,1400,math-number theory,Baelish,Java 8,202,0,OK
+47744055,1091,1546182767,2267,B,1200,brute force-constructive algorithms-greedy-implementation,Washoum,Java 8,171,0,OK
+47743996,1091,1546182751,2251,C,1400,math-number theory,golions,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47743966,1091,1546182744,2244,A,900,brute force-implementation-math,ankitsingh334,Java 8,140,0,OK
+47743954,1091,1546182743,2243,B,1200,brute force-constructive algorithms-greedy-implementation,avijit_agarwal,Java 8,202,0,OK
+47743946,1091,1546182741,2241,C,1400,math-number theory,shubhch32,Java 8,140,0,OK
+47743931,1091,1546182737,2237,B,1200,brute force-constructive algorithms-greedy-implementation,jeoj,Java 8,218,0,OK
+47743927,1091,1546182737,2237,A,900,brute force-implementation-math,enricogi,Java 8,155,0,OK
+47743883,1091,1546182725,2225,B,1200,brute force-constructive algorithms-greedy-implementation,Mhmmd.itani,Java 8,155,0,OK
+47743808,1091,1546182707,2207,C,1400,math-number theory,benpr99,Java 8,124,0,OK
+47743693,1091,1546182686,2186,C,1400,math-number theory,Dukkha,Java 8,124,0,OK
+47743616,1091,1546182670,2170,B,1200,brute force-constructive algorithms-greedy-implementation,K_B_C_S,Java 8,124,0,OK
+47743593,1091,1546182666,2166,C,1400,math-number theory,shoko93,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47743563,1091,1546182662,2162,B,1200,brute force-constructive algorithms-greedy-implementation,Incepti0n,Java 8,233,0,OK
+47743524,1091,1546182655,2155,B,1200,brute force-constructive algorithms-greedy-implementation,Happy_Stove,Java 8,1500,76288000,TIME_LIMIT_EXCEEDED
+47743517,1091,1546182653,2153,A,900,brute force-implementation-math,Jay16299,Java 8,140,0,OK
+47743513,1091,1546182653,2153,B,1200,brute force-constructive algorithms-greedy-implementation,yan_lazy,Java 8,109,0,OK
+47743503,1091,1546182651,2151,A,900,brute force-implementation-math,santosh_gvgk,Java 8,155,0,OK
+47743496,1091,1546182648,2148,B,1200,brute force-constructive algorithms-greedy-implementation,aakashjaiswal,Java 8,1450,0,OK
+47743457,1091,1546182641,2141,B,1200,brute force-constructive algorithms-greedy-implementation,Witless_Deer,Java 8,545,28364800,OK
+47743362,1091,1546182624,2124,C,1400,math-number theory,typedef_2000,Java 8,124,0,OK
+47743281,1091,1546182609,2109,C,1400,math-number theory,Asgar,Java 8,140,0,OK
+47743269,1091,1546182607,2107,B,1200,brute force-constructive algorithms-greedy-implementation,plmokn,Java 8,124,0,OK
+47743138,1091,1546182585,2085,B,1200,brute force-constructive algorithms-greedy-implementation,dhoni072,Java 8,1500,259072000,TIME_LIMIT_EXCEEDED
+47743050,1091,1546182568,2068,D,1700,combinatorics-dp-math,iakovlev.zakhar,Java 8,171,5734400,OK
+47743017,1091,1546182561,2061,C,1400,math-number theory,IDzekh,Java 8,139,0,OK
+47742960,1091,1546182551,2051,C,1400,math-number theory,fnch,Java 8,124,0,OK
+47742954,1091,1546182550,2050,B,1200,brute force-constructive algorithms-greedy-implementation,Amr_Geneidy,Java 8,124,0,OK
+47742918,1091,1546182543,2043,B,1200,brute force-constructive algorithms-greedy-implementation,wolfib,Java 8,140,0,OK
+47742709,1091,1546182500,2000,B,1200,brute force-constructive algorithms-greedy-implementation,pandusonu,Java 8,140,0,OK
+47742693,1091,1546182498,1998,B,1200,brute force-constructive algorithms-greedy-implementation,Dhairya472,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47742691,1091,1546182497,1997,A,900,brute force-implementation-math,0rnag,Java 8,140,0,OK
+47742678,1091,1546182496,1996,C,1400,math-number theory,PrakharJain,Java 8,109,0,OK
+47742596,1091,1546182481,1981,A,900,brute force-implementation-math,anony9906,Java 8,124,0,OK
+47742581,1091,1546182478,1978,A,900,brute force-implementation-math,sushant_verma,Java 8,124,0,OK
+47742562,1091,1546182473,1973,B,1200,brute force-constructive algorithms-greedy-implementation,Mooncrater,Java 8,623,61030400,OK
+47742559,1091,1546182472,1972,B,1200,brute force-constructive algorithms-greedy-implementation,long_wave,Java 8,124,0,OK
+47742533,1091,1546182468,1968,A,900,brute force-implementation-math,MHariri,Java 8,140,0,OK
+47742474,1091,1546182456,1956,B,1200,brute force-constructive algorithms-greedy-implementation,mirak94,Java 8,920,87552000,OK
+47742262,1091,1546182419,1919,C,1400,math-number theory,jebaited,Java 8,187,0,OK
+47742007,1091,1546182365,1865,A,900,brute force-implementation-math,Umangpatel,Java 8,140,0,OK
+47741922,1091,1546182349,1849,C,1400,math-number theory,Kharouba,Java 8,109,0,OK
+47741921,1091,1546182349,1849,C,1400,math-number theory,Vladimirr.Petrunko,Java 8,170,0,OK
+47741815,1091,1546182331,1831,G,3100,interactive-math-number theory,abacabadabacaba,Java 8,264,0,OK
+47741757,1091,1546182320,1820,B,1200,brute force-constructive algorithms-greedy-implementation,chojh1222,Java 8,124,0,OK
+47741665,1091,1546182306,1806,C,1400,math-number theory,reborn.chris,Java 8,124,0,OK
+47741616,1091,1546182299,1799,C,1400,math-number theory,Asgar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47741583,1091,1546182294,1794,C,1400,math-number theory,Musin,Java 8,124,0,OK
+47741516,1091,1546182282,1782,A,900,brute force-implementation-math,jzy_204,Java 8,139,0,OK
+47741515,1091,1546182282,1782,B,1200,brute force-constructive algorithms-greedy-implementation,yAsH.jBp,Java 8,1500,257126400,TIME_LIMIT_EXCEEDED
+47741477,1091,1546182275,1775,B,1200,brute force-constructive algorithms-greedy-implementation,GiGlema,Java 8,155,0,OK
+47741462,1091,1546182273,1773,B,1200,brute force-constructive algorithms-greedy-implementation,anmolsngh576,Java 8,155,0,OK
+47741412,1091,1546182263,1763,C,1400,math-number theory,gnad,Java 8,109,0,OK
+47741398,1091,1546182262,1762,B,1200,brute force-constructive algorithms-greedy-implementation,wolfib,Java 8,1500,258969600,TIME_LIMIT_EXCEEDED
+47741356,1091,1546182254,1754,A,900,brute force-implementation-math,etienne.guillou1,Java 8,140,0,OK
+47741341,1091,1546182253,1753,B,1200,brute force-constructive algorithms-greedy-implementation,Witless_Deer,Java 8,1500,143667200,TIME_LIMIT_EXCEEDED
+47741296,1091,1546182244,1744,C,1400,math-number theory,Petr,Java 8,124,0,OK
+47741255,1091,1546182237,1737,A,900,brute force-implementation-math,azooz97,Java 8,140,0,OK
+47741208,1091,1546182231,1731,C,1400,math-number theory,Tlatoani,Java 8,156,0,OK
+47741202,1091,1546182230,1730,C,1400,math-number theory,elizarv,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47741080,1091,1546182209,1709,B,1200,brute force-constructive algorithms-greedy-implementation,arch_abs,Java 8,140,0,OK
+47741067,1091,1546182208,1708,B,1200,brute force-constructive algorithms-greedy-implementation,Lanirina,Java 8,327,0,OK
+47741039,1091,1546182203,1703,B,1200,brute force-constructive algorithms-greedy-implementation,prat.bphc,Java 8,217,0,OK
+47741000,1091,1546182199,1699,A,900,brute force-implementation-math,k_chandrahas,Java 8,124,0,OK
+47740899,1091,1546182180,1680,B,1200,brute force-constructive algorithms-greedy-implementation,CodePal,Java 8,170,0,OK
+47740897,1091,1546182180,1680,A,900,brute force-implementation-math,sridhar2007,Java 8,140,0,OK
+47740866,1091,1546182175,1675,B,1200,brute force-constructive algorithms-greedy-implementation,MagentaCobra,Java 8,124,0,OK
+47740830,1091,1546182168,1668,A,900,brute force-implementation-math,Akash_UR,Java 8,124,0,OK
+47740724,1091,1546182151,1651,B,1200,brute force-constructive algorithms-greedy-implementation,Witless_Deer,Java 8,1500,144793600,TIME_LIMIT_EXCEEDED
+47740672,1091,1546182140,1640,C,1400,math-number theory,BaZ_,Java 8,109,0,OK
+47740626,1091,1546182132,1632,A,900,brute force-implementation-math,prakhar897,Java 8,124,0,OK
+47740625,1091,1546182132,1632,C,1400,math-number theory,nchn27,Java 8,139,0,OK
+47740583,1091,1546182126,1626,B,1200,brute force-constructive algorithms-greedy-implementation,Happy_Stove,Java 8,1500,77414400,TIME_LIMIT_EXCEEDED
+47740566,1091,1546182122,1622,A,900,brute force-implementation-math,Noora.Sweis,Java 8,140,0,OK
+47740549,1091,1546182119,1619,C,1400,math-number theory,pandusonu,Java 8,124,0,OK
+47740422,1091,1546182096,1596,C,1400,math-number theory,tanzaku,Java 8,124,0,OK
+47740365,1091,1546182087,1587,B,1200,brute force-constructive algorithms-greedy-implementation,vaibhav310,Java 8,1500,258867200,TIME_LIMIT_EXCEEDED
+47740363,1091,1546182087,1587,B,1200,brute force-constructive algorithms-greedy-implementation,Latency,Java 8,1500,126566400,TIME_LIMIT_EXCEEDED
+47740306,1091,1546182079,1579,A,900,brute force-implementation-math,harramkhor,Java 8,109,0,OK
+47740277,1091,1546182075,1575,B,1200,brute force-constructive algorithms-greedy-implementation,---,Java 8,124,0,OK
+47740248,1091,1546182071,1571,A,900,brute force-implementation-math,brotherofbillgates,Java 8,140,0,OK
+47740166,1091,1546182057,1557,A,900,brute force-implementation-math,younesbmz,Java 8,124,0,OK
+47740145,1091,1546182053,1553,C,1400,math-number theory,mikit,Java 8,186,0,OK
+47740141,1091,1546182053,1553,B,1200,brute force-constructive algorithms-greedy-implementation,agnyaathavaasi,Java 8,156,0,OK
+47740135,1091,1546182052,1552,B,1200,brute force-constructive algorithms-greedy-implementation,SaveVMK,Java 8,155,0,OK
+47740059,1091,1546182042,1542,B,1200,brute force-constructive algorithms-greedy-implementation,sameep17264,Java 8,140,0,OK
+47739978,1091,1546182029,1529,A,900,brute force-implementation-math,bashetti,Java 8,140,0,OK
+47739886,1091,1546182014,1514,D,1700,combinatorics-dp-math,ilyakor,Java 8,124,0,OK
+47739851,1091,1546182009,1509,B,1200,brute force-constructive algorithms-greedy-implementation,polyakoff,Java 8,139,0,OK
+47739841,1091,1546182008,1508,A,900,brute force-implementation-math,code_sms,Java 8,140,0,OK
+47739822,1091,1546182004,1504,D,1700,combinatorics-dp-math,Petr,Java 8,140,5734400,OK
+47739802,1091,1546182002,1502,C,1400,math-number theory,Musin,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47739785,1091,1546181999,1499,B,1200,brute force-constructive algorithms-greedy-implementation,dmytro.prytula,Java 8,967,83865600,OK
+47739743,1091,1546181992,1492,B,1200,brute force-constructive algorithms-greedy-implementation,yuanfei_1984,Java 8,155,0,OK
+47739725,1091,1546181990,1490,A,900,brute force-implementation-math,Espartacus,Java 8,124,0,OK
+47739672,1091,1546181982,1482,A,900,brute force-implementation-math,Pz99,Java 8,140,0,OK
+47739669,1091,1546181980,1480,B,1200,brute force-constructive algorithms-greedy-implementation,jjluczyn,Java 8,732,76390400,OK
+47739656,1091,1546181978,1478,B,1200,brute force-constructive algorithms-greedy-implementation,vaibhav310,Java 8,1500,258867200,TIME_LIMIT_EXCEEDED
+47739651,1091,1546181977,1477,A,900,brute force-implementation-math,ahmedTuring1,Java 8,109,0,OK
+47739559,1091,1546181963,1463,B,1200,brute force-constructive algorithms-greedy-implementation,Baelish,Java 8,124,0,OK
+47739461,1091,1546181947,1447,A,900,brute force-implementation-math,__Paladin__,Java 8,140,0,OK
+47739383,1091,1546181935,1435,A,900,brute force-implementation-math,Washoum,Java 8,109,0,OK
+47739382,1091,1546181935,1435,A,900,brute force-implementation-math,S.LeBlanc,Java 8,140,0,OK
+47739194,1091,1546181905,1405,B,1200,brute force-constructive algorithms-greedy-implementation,jenish9599,Java 8,155,0,OK
+47739193,1091,1546181905,1405,A,900,brute force-implementation-math,xXAyushiXx,Java 8,140,0,OK
+47739177,1091,1546181902,1402,B,1200,brute force-constructive algorithms-greedy-implementation,dusty.and.rusty,Java 8,733,0,OK
+47739082,1091,1546181886,1386,B,1200,brute force-constructive algorithms-greedy-implementation,nandathant,Java 8,155,0,OK
+47739066,1091,1546181883,1383,B,1200,brute force-constructive algorithms-greedy-implementation,nm21,Java 8,187,0,OK
+47739003,1091,1546181874,1374,B,1200,brute force-constructive algorithms-greedy-implementation,PersonOfInterest,Java 8,171,0,OK
+47738978,1091,1546181870,1370,B,1200,brute force-constructive algorithms-greedy-implementation,robslutsky,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47738951,1091,1546181866,1366,A,900,brute force-implementation-math,samasnabith,Java 8,109,0,OK
+47738945,1091,1546181866,1366,A,900,brute force-implementation-math,Ajay33.nits,Java 8,217,0,OK
+47738937,1091,1546181865,1365,A,900,brute force-implementation-math,alina_bulkina,Java 8,139,0,OK
+47738908,1091,1546181860,1360,B,1200,brute force-constructive algorithms-greedy-implementation,james222424,Java 8,124,0,OK
+47738903,1091,1546181859,1359,A,900,brute force-implementation-math,Gundaswami,Java 8,171,0,OK
+47738829,1091,1546181847,1347,A,900,brute force-implementation-math,srimouli1998,Java 8,140,0,OK
+47738764,1091,1546181838,1338,B,1200,brute force-constructive algorithms-greedy-implementation,khokharnikunj8,Java 8,170,0,OK
+47738729,1091,1546181832,1332,A,900,brute force-implementation-math,TNTea,Java 8,140,0,OK
+47738708,1091,1546181830,1330,A,900,brute force-implementation-math,Vjan,Java 8,140,0,OK
+47738698,1091,1546181829,1329,A,900,brute force-implementation-math,almas.shaikh,Java 8,124,0,OK
+47738691,1091,1546181828,1328,C,1400,math-number theory,WillyDolphin,Java 8,140,0,OK
+47738687,1091,1546181828,1328,A,900,brute force-implementation-math,Filo13199,Java 8,124,0,OK
+47738676,1091,1546181826,1326,B,1200,brute force-constructive algorithms-greedy-implementation,aman28rwt,Java 8,171,0,OK
+47738513,1091,1546181801,1301,A,900,brute force-implementation-math,fjvbn2003,Java 8,186,0,OK
+47738494,1091,1546181797,1297,C,1400,math-number theory,Yugioh,Java 8,109,0,OK
+47738481,1091,1546181796,1296,B,1200,brute force-constructive algorithms-greedy-implementation,rishabh101,Java 8,155,0,OK
+47738475,1091,1546181796,1296,A,900,brute force-implementation-math,GurtAlex,Java 8,140,0,OK
+47738390,1091,1546181781,1281,B,1200,brute force-constructive algorithms-greedy-implementation,shikharid,Java 8,373,0,OK
+47738353,1091,1546181777,1277,A,900,brute force-implementation-math,bharath17035,Java 8,140,0,OK
+47738339,1091,1546181774,1274,B,1200,brute force-constructive algorithms-greedy-implementation,SrapZark,Java 8,171,0,OK
+47738323,1091,1546181773,1273,B,1200,brute force-constructive algorithms-greedy-implementation,IDzekh,Java 8,124,0,OK
+47738318,1091,1546181772,1272,B,1200,brute force-constructive algorithms-greedy-implementation,boltUsain,Java 8,218,0,OK
+47738194,1091,1546181753,1253,A,900,brute force-implementation-math,Menna_ibrahim,Java 8,124,0,OK
+47738155,1091,1546181748,1248,A,900,brute force-implementation-math,nikhil97agra,Java 8,109,0,OK
+47738135,1091,1546181747,1247,C,1400,math-number theory,wery0,Java 8,156,0,OK
+47738131,1091,1546181747,1247,A,900,brute force-implementation-math,chiragkaushik1,Java 8,124,0,OK
+47738127,1091,1546181746,1246,A,900,brute force-implementation-math,grand0,Java 8,140,0,OK
+47738062,1091,1546181736,1236,C,1400,math-number theory,AuroraGarden,Java 8,124,0,OK
+47738022,1091,1546181730,1230,A,900,brute force-implementation-math,deep319,Java 8,140,0,OK
+47738011,1091,1546181730,1230,A,900,brute force-implementation-math,shahdhairya678,Java 8,140,0,OK
+47737899,1091,1546181716,1216,A,900,brute force-implementation-math,dip1810,Java 8,109,0,OK
+47737879,1091,1546181713,1213,B,1200,brute force-constructive algorithms-greedy-implementation,golions,Java 8,482,0,OK
+47737855,1091,1546181709,1209,B,1200,brute force-constructive algorithms-greedy-implementation,rishz,Java 8,124,0,OK
+47737798,1091,1546181703,1203,C,1400,math-number theory,iakovlev.zakhar,Java 8,124,0,OK
+47737747,1091,1546181695,1195,B,1200,brute force-constructive algorithms-greedy-implementation,jebaited,Java 8,124,0,OK
+47737675,1091,1546181684,1183,B,1200,brute force-constructive algorithms-greedy-implementation,Shaykhutdinov-T-I,Java 8,701,60108800,OK
+47737625,1091,1546181675,1175,A,900,brute force-implementation-math,prat.bphc,Java 8,140,0,OK
+47737473,1091,1546181652,1152,A,900,brute force-implementation-math,krishnachachidak,Java 8,124,0,OK
+47737424,1091,1546181649,1149,B,1200,brute force-constructive algorithms-greedy-implementation,_R_peggy,Java 8,170,0,OK
+47737292,1091,1546181635,1135,A,900,brute force-implementation-math,pradeep574,Java 8,140,0,OK
+47737259,1091,1546181627,1127,B,1200,brute force-constructive algorithms-greedy-implementation,Psp_98,Java 8,186,0,OK
+47737245,1091,1546181624,1124,B,1200,brute force-constructive algorithms-greedy-implementation,jdurie,Java 8,265,0,OK
+47737053,1091,1546181595,1095,F,2600,constructive algorithms-greedy,Petr,Java 8,156,2048000,OK
+47737039,1091,1546181593,1093,B,1200,brute force-constructive algorithms-greedy-implementation,a.sinkevich,Java 8,1185,124620800,OK
+47736921,1091,1546181576,1076,B,1200,brute force-constructive algorithms-greedy-implementation,QuinnG,Java 8,1107,83558400,OK
+47736841,1091,1546181564,1064,B,1200,brute force-constructive algorithms-greedy-implementation,Jay_13,Java 8,109,0,OK
+47736810,1091,1546181561,1061,A,900,brute force-implementation-math,goyalakash1997,Java 8,140,0,OK
+47736800,1091,1546181559,1059,B,1200,brute force-constructive algorithms-greedy-implementation,typedef_2000,Java 8,124,0,OK
+47736765,1091,1546181554,1054,A,900,brute force-implementation-math,sumit3,Java 8,155,0,OK
+47736736,1091,1546181550,1050,C,1400,math-number theory,AkshajK,Java 8,140,0,OK
+47736730,1091,1546181550,1050,A,900,brute force-implementation-math,SpArkKnight59,Java 8,155,0,OK
+47736705,1091,1546181546,1046,B,1200,brute force-constructive algorithms-greedy-implementation,jwk,Java 8,170,0,OK
+47736672,1091,1546181543,1043,B,1200,brute force-constructive algorithms-greedy-implementation,killamocingbird,Java 8,1106,83558400,OK
+47736668,1091,1546181543,1043,A,900,brute force-implementation-math,zidan241,Java 8,124,0,OK
+47736657,1091,1546181542,1042,B,1200,brute force-constructive algorithms-greedy-implementation,gamezovladislav,Java 8,1500,76595200,TIME_LIMIT_EXCEEDED
+47736617,1091,1546181536,1036,B,1200,brute force-constructive algorithms-greedy-implementation,Shaykhutdinov-T-I,Java 8,1500,73216000,TIME_LIMIT_EXCEEDED
+47736612,1091,1546181536,1036,A,900,brute force-implementation-math,yellowjian,Java 8,124,0,OK
+47736586,1091,1546181532,1032,A,900,brute force-implementation-math,rr459595,Java 8,155,0,OK
+47736511,1091,1546181521,1021,A,900,brute force-implementation-math,williamherr2001,Java 8,140,0,OK
+47736502,1091,1546181520,1020,B,1200,brute force-constructive algorithms-greedy-implementation,poketred12,Java 8,124,0,OK
+47736463,1091,1546181515,1015,A,900,brute force-implementation-math,Mhmmd.itani,Java 8,140,0,OK
+47736458,1091,1546181514,1014,A,900,brute force-implementation-math,blackrise,Java 8,140,0,OK
+47736419,1091,1546181510,1010,B,1200,brute force-constructive algorithms-greedy-implementation,alexyz,Java 8,202,0,OK
+47736390,1091,1546181507,1007,A,900,brute force-implementation-math,niteshgowda,Java 8,109,0,OK
+47736371,1091,1546181506,1006,B,1200,brute force-constructive algorithms-greedy-implementation,Rwolfx,Java 8,1500,0,TIME_LIMIT_EXCEEDED
+47736243,1091,1546181492,992,A,900,brute force-implementation-math,Mantawy,Java 8,124,0,OK
+47736231,1091,1546181491,991,A,900,brute force-implementation-math,aman28rwt,Java 8,124,0,OK
+47736206,1091,1546181488,988,A,900,brute force-implementation-math,SchrodZzz,Java 8,124,0,OK
+47736191,1091,1546181487,987,B,1200,brute force-constructive algorithms-greedy-implementation,SevenDeadlySins,Java 8,982,83148800,OK
+47736186,1091,1546181487,987,A,900,brute force-implementation-math,vayunandhan,Java 8,124,0,OK
+47736057,1091,1546181476,976,B,1200,brute force-constructive algorithms-greedy-implementation,PrakharJain,Java 8,405,0,OK
+47736024,1091,1546181474,974,D,1700,combinatorics-dp-math,uwi,Java 8,155,0,OK
+47735977,1091,1546181471,971,A,900,brute force-implementation-math,MovingBit,Java 8,140,0,OK
+47735918,1091,1546181466,965,A,900,brute force-implementation-math,richardwsong,Java 8,140,0,OK
+47735826,1091,1546181459,959,A,900,brute force-implementation-math,mareshkau,Java 8,140,0,OK
+47735799,1091,1546181456,956,B,1200,brute force-constructive algorithms-greedy-implementation,fnch,Java 8,124,0,OK
+47735727,1091,1546181433,933,A,900,brute force-implementation-math,William_Blood,Java 8,124,0,OK
+47735711,1091,1546181424,924,A,900,brute force-implementation-math,AkashGupta,Java 8,140,0,OK
+47735698,1091,1546181421,921,A,900,brute force-implementation-math,GiGlema,Java 8,155,0,OK
+47735652,1091,1546181415,915,A,900,brute force-implementation-math,anmolsngh576,Java 8,140,0,OK
+47735647,1091,1546181414,914,A,900,brute force-implementation-math,new_start1,Java 8,109,0,OK
+47735646,1091,1546181414,914,A,900,brute force-implementation-math,solbread,Java 8,140,0,OK
+47735637,1091,1546181413,913,B,1200,brute force-constructive algorithms-greedy-implementation,NatInTheHat,Java 8,171,0,OK
+47735605,1091,1546181409,909,B,1200,brute force-constructive algorithms-greedy-implementation,shubhch32,Java 8,155,0,OK
+47735590,1091,1546181407,907,A,900,brute force-implementation-math,SaveVMK,Java 8,155,0,OK
+47735531,1091,1546181399,899,B,1200,brute force-constructive algorithms-greedy-implementation,simenl,Java 8,124,0,OK
+47735508,1091,1546181396,896,A,900,brute force-implementation-math,SnowGoose,Java 8,109,0,OK
+47735453,1091,1546181391,891,B,1200,brute force-constructive algorithms-greedy-implementation,batony4,Java 8,170,0,OK
+47735414,1091,1546181386,886,B,1200,brute force-constructive algorithms-greedy-implementation,finnlidbetter,Java 8,139,0,OK
+47735400,1091,1546181385,884,A,900,brute force-implementation-math,yuanfei_1984,Java 8,140,0,OK
+47735341,1091,1546181377,877,A,900,brute force-implementation-math,Anvit,Java 8,140,0,OK
+47735287,1091,1546181371,871,A,900,brute force-implementation-math,Amr_Geneidy,Java 8,124,0,OK
+47735124,1091,1546181353,853,A,900,brute force-implementation-math,raceldog,Java 8,140,0,OK
+47735117,1091,1546181352,852,B,1200,brute force-constructive algorithms-greedy-implementation,BaZ_,Java 8,1372,16588800,OK
+47734999,1091,1546181339,839,A,900,brute force-implementation-math,Dmitry99,Java 8,140,0,OK
+47734998,1091,1546181338,838,A,900,brute force-implementation-math,satya26,Java 8,124,0,OK
+47734997,1091,1546181338,838,A,900,brute force-implementation-math,egg,Java 8,140,0,OK
+47734954,1091,1546181334,834,A,900,brute force-implementation-math,darkqueen,Java 8,140,0,OK
+47734928,1091,1546181332,832,A,900,brute force-implementation-math,adarsh107,Java 8,140,0,OK
+47734913,1091,1546181330,830,A,900,brute force-implementation-math,Lanirina,Java 8,140,0,OK
+47734856,1091,1546181324,824,A,900,brute force-implementation-math,yoichidon,Java 8,140,0,OK
+47734730,1091,1546181311,811,B,1200,brute force-constructive algorithms-greedy-implementation,rahulkhairwar,Java 8,124,0,OK
+47734721,1091,1546181309,809,B,1200,brute force-constructive algorithms-greedy-implementation,tanzaku,Java 8,234,6348800,OK
+47734637,1091,1546181298,798,A,900,brute force-implementation-math,Mazen_Ashraf,Java 8,109,0,OK
+47734550,1091,1546181287,787,B,1200,brute force-constructive algorithms-greedy-implementation,msagimbekov,Java 8,1294,122368000,OK
+47734533,1091,1546181285,785,B,1200,brute force-constructive algorithms-greedy-implementation,AJ47,Java 8,187,0,OK
+47734480,1091,1546181279,779,A,900,brute force-implementation-math,kshitiz1007,Java 8,140,0,OK
+47734460,1091,1546181278,778,A,900,brute force-implementation-math,ajitraj88,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47734455,1091,1546181277,777,A,900,brute force-implementation-math,dhoni072,Java 8,124,0,OK
+47734412,1091,1546181272,772,A,900,brute force-implementation-math,Leks360,Java 8,140,0,OK
+47734407,1091,1546181271,771,B,1200,brute force-constructive algorithms-greedy-implementation,Kharouba,Java 8,124,0,OK
+47734317,1091,1546181261,761,B,1200,brute force-constructive algorithms-greedy-implementation,nchn27,Java 8,155,0,OK
+47734301,1091,1546181259,759,B,1200,brute force-constructive algorithms-greedy-implementation,Asgar,Java 8,124,0,OK
+47734286,1091,1546181257,757,A,900,brute force-implementation-math,MagentaCobra,Java 8,124,0,OK
+47734282,1091,1546181257,757,B,1200,brute force-constructive algorithms-greedy-implementation,Anonymous,Java 8,124,0,OK
+47734261,1091,1546181255,755,C,1400,math-number theory,aman28rwt,Java 8,109,0,OK
+47734244,1091,1546181252,752,A,900,brute force-implementation-math,reborn.chris,Java 8,124,0,OK
+47734242,1091,1546181252,752,A,900,brute force-implementation-math,semantyc,Java 8,124,0,OK
+47734183,1091,1546181246,746,C,1400,math-number theory,SaveVMK,Java 8,140,0,OK
+47734099,1091,1546181235,735,A,900,brute force-implementation-math,SnitPls,Java 8,140,0,OK
+47733977,1091,1546181221,721,B,1200,brute force-constructive algorithms-greedy-implementation,Dukkha,Java 8,124,0,OK
+47733974,1091,1546181221,721,A,900,brute force-implementation-math,winterflame,Java 8,140,0,OK
+47733941,1091,1546181218,718,A,900,brute force-implementation-math,PersonOfInterest,Java 8,140,0,OK
+47733937,1091,1546181217,717,A,900,brute force-implementation-math,arch_abs,Java 8,124,0,OK
+47733804,1091,1546181201,701,B,1200,brute force-constructive algorithms-greedy-implementation,wery0,Java 8,139,0,OK
+47733714,1091,1546181191,691,B,1200,brute force-constructive algorithms-greedy-implementation,benpr99,Java 8,936,87347200,OK
+47733710,1091,1546181190,690,B,1200,brute force-constructive algorithms-greedy-implementation,yoichidon,Java 8,155,0,OK
+47733648,1091,1546181184,684,A,900,brute force-implementation-math,jaswanth_sai,Java 8,140,0,OK
+47733643,1091,1546181184,684,B,1200,brute force-constructive algorithms-greedy-implementation,KulikAlex,Java 8,998,87552000,OK
+47733634,1091,1546181183,683,A,900,brute force-implementation-math,yAsH.jBp,Java 8,124,0,OK
+47733578,1091,1546181176,676,A,900,brute force-implementation-math,jzy_204,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47733535,1091,1546181173,673,B,1200,brute force-constructive algorithms-greedy-implementation,AkshajK,Java 8,982,87449600,OK
+47733468,1091,1546181166,666,A,900,brute force-implementation-math,slava812,Java 8,124,0,OK
+47733419,1091,1546181160,660,B,1200,brute force-constructive algorithms-greedy-implementation,iakovlev.zakhar,Java 8,358,0,OK
+47733380,1091,1546181157,657,C,1400,math-number theory,ilyakor,Java 8,140,0,OK
+47733214,1091,1546181140,640,B,1200,brute force-constructive algorithms-greedy-implementation,Tlatoani,Java 8,1122,62668800,OK
+47733206,1091,1546181139,639,A,900,brute force-implementation-math,long_wave,Java 8,139,0,OK
+47733175,1091,1546181136,636,B,1200,brute force-constructive algorithms-greedy-implementation,Musin,Java 8,701,53555200,OK
+47733131,1091,1546181132,632,A,900,brute force-implementation-math,Mohamed_Saad62,Java 8,124,0,OK
+47733060,1091,1546181125,625,A,900,brute force-implementation-math,d_smorodinnikov,Java 8,140,0,OK
+47733042,1091,1546181123,623,A,900,brute force-implementation-math,ramez,Java 8,109,0,OK
+47733017,1091,1546181121,621,A,900,brute force-implementation-math,iamyashh,Java 8,124,0,OK
+47732999,1091,1546181119,619,A,900,brute force-implementation-math,hagar_yasser,Java 8,155,0,OK
+47732957,1091,1546181115,615,A,900,brute force-implementation-math,fc-lib_xyz,Java 8,155,0,OK
+47732932,1091,1546181113,613,A,900,brute force-implementation-math,Witless_Deer,Java 8,140,0,OK
+47732917,1091,1546181111,611,A,900,brute force-implementation-math,yan_lazy,Java 8,140,0,OK
+47732914,1091,1546181111,611,A,900,brute force-implementation-math,mdazmat9,Java 8,124,0,OK
+47732829,1091,1546181104,604,A,900,brute force-implementation-math,vatsalsonigara,Java 8,140,0,OK
+47732791,1091,1546181100,600,A,900,brute force-implementation-math,Danielto2000,Java 8,140,0,OK
+47732735,1091,1546181094,594,A,900,brute force-implementation-math,codeforcessup,Java 8,155,0,OK
+47732721,1091,1546181092,592,A,900,brute force-implementation-math,DCerberus,Java 8,170,0,OK
+47732709,1091,1546181091,591,A,900,brute force-implementation-math,Infidelis,Java 8,140,0,OK
+47732694,1091,1546181090,590,A,900,brute force-implementation-math,mirak94,Java 8,124,0,OK
+47732637,1091,1546181083,583,B,1200,brute force-constructive algorithms-greedy-implementation,Yugioh,Java 8,124,0,OK
+47732622,1091,1546181082,582,A,900,brute force-implementation-math,nesdi,Java 8,124,0,OK
+47732620,1091,1546181081,581,B,1200,brute force-constructive algorithms-greedy-implementation,AuroraGarden,Java 8,171,0,OK
+47732593,1091,1546181079,579,A,900,brute force-implementation-math,Whiplash99,Java 8,109,0,OK
+47732575,1091,1546181077,577,A,900,brute force-implementation-math,bytesandbots,Java 8,139,0,OK
+47732556,1091,1546181076,576,B,1200,brute force-constructive algorithms-greedy-implementation,Intrincantation,Java 8,155,0,OK
+47732518,1091,1546181072,572,A,900,brute force-implementation-math,_R_peggy,Java 8,140,0,OK
+47732432,1091,1546181063,563,A,900,brute force-implementation-math,jwk,Java 8,140,0,OK
+47732429,1091,1546181062,562,C,1400,math-number theory,abacabadabacaba,Java 8,124,0,OK
+47732428,1091,1546181062,562,A,900,brute force-implementation-math,meiniak,Java 8,140,0,OK
+47732409,1091,1546181061,561,A,900,brute force-implementation-math,vaibhav310,Java 8,170,0,OK
+47732327,1091,1546181052,552,A,900,brute force-implementation-math,timbyxt,Java 8,140,0,OK
+47732315,1091,1546181051,551,A,900,brute force-implementation-math,rishabh101,Java 8,171,0,OK
+47732294,1091,1546181049,549,C,1400,math-number theory,uwi,Java 8,124,0,OK
+47732205,1091,1546181041,541,A,900,brute force-implementation-math,makarfi,Java 8,140,0,OK
+47732188,1091,1546181039,539,A,900,brute force-implementation-math,rainier,Java 8,140,0,OK
+47731977,1091,1546181016,516,A,900,brute force-implementation-math,LM.10,Java 8,124,0,OK
+47731942,1091,1546181013,513,A,900,brute force-implementation-math,vahid.gh,Java 8,140,0,OK
+47731932,1091,1546181012,512,A,900,brute force-implementation-math,dusty.and.rusty,Java 8,171,0,OK
+47731898,1091,1546181008,508,A,900,brute force-implementation-math,ajax145,Java 8,139,0,OK
+47731893,1091,1546181008,508,A,900,brute force-implementation-math,aman_jag,Java 8,124,0,OK
+47731777,1091,1546180997,497,A,900,brute force-implementation-math,chojh1222,Java 8,124,0,OK
+47731763,1091,1546180996,496,A,900,brute force-implementation-math,anand_prakash_yadav,Java 8,140,0,OK
+47731760,1091,1546180996,496,A,900,brute force-implementation-math,rohanmukhija10,Java 8,140,0,OK
+47731722,1091,1546180992,492,A,900,brute force-implementation-math,KharYusuf,Java 8,140,0,OK
+47731685,1091,1546180988,488,A,900,brute force-implementation-math,Dhairya472,Java 8,124,0,OK
+47731683,1091,1546180988,488,A,900,brute force-implementation-math,polyakoff,Java 8,140,0,OK
+47731672,1091,1546180987,487,B,1200,brute force-constructive algorithms-greedy-implementation,mikit,Java 8,171,0,OK
+47731612,1091,1546180980,480,A,900,brute force-implementation-math,CodePal,Java 8,140,0,OK
+47731607,1091,1546180980,480,A,900,brute force-implementation-math,MikeFaraday,Java 8,109,0,OK
+47731603,1091,1546180980,480,A,900,brute force-implementation-math,lc6,Java 8,140,0,OK
+47731599,1091,1546180979,479,A,900,brute force-implementation-math,Java,Java 8,124,0,OK
+47731583,1091,1546180978,478,A,900,brute force-implementation-math,msvas,Java 8,140,0,OK
+47731491,1091,1546180969,469,A,900,brute force-implementation-math,shubhch32,Java 8,140,0,OK
+47731465,1091,1546180967,467,A,900,brute force-implementation-math,Mooncrater,Java 8,124,0,OK
+47731445,1091,1546180966,466,A,900,brute force-implementation-math,grindthecode,Java 8,140,0,OK
+47731421,1091,1546180963,463,A,900,brute force-implementation-math,forsenE,Java 8,124,0,OK
+47731393,1091,1546180959,459,A,900,brute force-implementation-math,soumyab,Java 8,140,0,OK
+47731377,1091,1546180958,458,B,1200,brute force-constructive algorithms-greedy-implementation,WillyDolphin,Java 8,156,0,OK
+47731368,1091,1546180958,458,A,900,brute force-implementation-math,LemonPudding,Java 8,124,0,OK
+47731290,1091,1546180951,451,A,900,brute force-implementation-math,LAKOUAM_IMAD,Java 8,140,0,OK
+47731262,1091,1546180947,447,A,900,brute force-implementation-math,ildar.olimpiads,Java 8,171,0,OK
+47731207,1091,1546180941,441,A,900,brute force-implementation-math,AJ47,Java 8,124,0,OK
+47731158,1091,1546180934,434,A,900,brute force-implementation-math,avijit_agarwal,Java 8,124,0,OK
+47731145,1091,1546180933,433,A,900,brute force-implementation-math,Musin,Java 8,124,0,OK
+47731117,1091,1546180931,431,B,1200,brute force-constructive algorithms-greedy-implementation,Deimos,Java 8,124,0,OK
+47731098,1091,1546180928,428,A,900,brute force-implementation-math,Latency,Java 8,140,0,OK
+47731030,1091,1546180923,423,A,900,brute force-implementation-math,aakashjaiswal,Java 8,109,0,OK
+47730992,1091,1546180920,420,A,900,brute force-implementation-math,a.sinkevich,Java 8,124,0,OK
+47730905,1091,1546180911,411,A,900,brute force-implementation-math,rishz,Java 8,124,0,OK
+47730870,1091,1546180907,407,A,900,brute force-implementation-math,0shine0,Java 8,155,0,OK
+47730864,1091,1546180907,407,A,900,brute force-implementation-math,Happy_Stove,Java 8,139,0,OK
+47730859,1091,1546180906,406,A,900,brute force-implementation-math,Kharouba,Java 8,124,0,OK
+47730818,1091,1546180902,402,A,900,brute force-implementation-math,Hapsidra,Java 8,124,0,OK
+47730784,1091,1546180899,399,A,900,brute force-implementation-math,MoeAdel,Java 8,124,0,OK
+47730775,1091,1546180898,398,A,900,brute force-implementation-math,ay839065,Java 8,109,0,OK
+47730684,1091,1546180887,387,A,900,brute force-implementation-math,james222424,Java 8,109,0,OK
+47730677,1091,1546180886,386,A,900,brute force-implementation-math,typedef_2000,Java 8,124,0,OK
+47730668,1091,1546180885,385,A,900,brute force-implementation-math,mohan_bera,Java 8,140,0,OK
+47730667,1091,1546180885,385,A,900,brute force-implementation-math,boltUsain,Java 8,109,0,OK
+47730653,1091,1546180884,384,A,900,brute force-implementation-math,tony_stark_100,Java 8,140,0,OK
+47730596,1091,1546180877,377,A,900,brute force-implementation-math,dmytro.prytula,Java 8,124,0,OK
+47730589,1091,1546180877,377,A,900,brute force-implementation-math,QuinnG,Java 8,155,0,OK
+47730588,1091,1546180877,377,A,900,brute force-implementation-math,utsav_deep,Java 8,124,0,OK
+47730502,1091,1546180868,368,A,900,brute force-implementation-math,Psp_98,Java 8,124,0,OK
+47730326,1091,1546180851,351,A,900,brute force-implementation-math,cmplx-xyttmt,Java 8,124,0,OK
+47730315,1091,1546180851,351,A,900,brute force-implementation-math,yongkiattay,Java 8,140,0,OK
+47730222,1091,1546180843,343,A,900,brute force-implementation-math,Nutella3000,Java 8,109,0,OK
+47730182,1091,1546180839,339,B,1200,brute force-constructive algorithms-greedy-implementation,ilyakor,Java 8,139,0,OK
+47730143,1091,1546180835,335,A,900,brute force-implementation-math,Endercraft,Java 8,124,0,OK
+47730132,1091,1546180834,334,A,900,brute force-implementation-math,Baelish,Java 8,124,0,OK
+47730118,1091,1546180833,333,B,1200,brute force-constructive algorithms-greedy-implementation,uwi,Java 8,124,0,OK
+47730095,1091,1546180830,330,A,900,brute force-implementation-math,bit_masker,Java 8,155,0,OK
+47730029,1091,1546180824,324,A,900,brute force-implementation-math,Jay_13,Java 8,109,0,OK
+47729920,1091,1546180817,317,A,900,brute force-implementation-math,---,Java 8,109,0,OK
+47729889,1091,1546180814,314,A,900,brute force-implementation-math,Abdullah_Abu_Alrish,Java 8,124,0,OK
+47729856,1091,1546180810,310,A,900,brute force-implementation-math,jeoj,Java 8,109,0,OK
+47729854,1091,1546180810,310,A,900,brute force-implementation-math,rahulkhairwar,Java 8,109,0,OK
+47729844,1091,1546180809,309,A,900,brute force-implementation-math,YahiaBadr,Java 8,124,0,OK
+47729813,1091,1546180807,307,A,900,brute force-implementation-math,sameep17264,Java 8,109,0,OK
+47729805,1091,1546180807,307,A,900,brute force-implementation-math,Mohammad_Af,Java 8,140,0,OK
+47729766,1091,1546180804,304,A,900,brute force-implementation-math,rohan03,Java 8,124,0,OK
+47729757,1091,1546180803,303,A,900,brute force-implementation-math,fnch,Java 8,124,0,OK
+47729753,1091,1546180803,303,A,900,brute force-implementation-math,MangoPeel,Java 8,140,0,OK
+47729702,1091,1546180799,299,A,900,brute force-implementation-math,ISSAM_LAKOUAM,Java 8,140,0,OK
+47729596,1091,1546180792,292,A,900,brute force-implementation-math,wolfib,Java 8,124,0,OK
+47729572,1091,1546180790,290,A,900,brute force-implementation-math,Incepti0n,Java 8,155,0,OK
+47729565,1091,1546180790,290,A,900,brute force-implementation-math,plmokn,Java 8,124,0,OK
+47729562,1091,1546180789,289,A,900,brute force-implementation-math,AkshajK,Java 8,109,0,OK
+47729558,1091,1546180789,289,A,900,brute force-implementation-math,Shaykhutdinov-T-I,Java 8,124,0,OK
+47729482,1091,1546180784,284,A,900,brute force-implementation-math,piyushgoel997,Java 8,140,0,OK
+47729426,1091,1546180780,280,A,900,brute force-implementation-math,2020akadaver,Java 8,124,0,OK
+47729401,1091,1546180779,279,A,900,brute force-implementation-math,nm21,Java 8,109,0,OK
+47729376,1091,1546180777,277,A,900,brute force-implementation-math,bhavyashah9873,Java 8,342,65945600,OK
+47729359,1091,1546180776,276,A,900,brute force-implementation-math,alexyz,Java 8,124,0,OK
+47729343,1091,1546180775,275,A,900,brute force-implementation-math,ilgimdar,Java 8,171,0,OK
+47729285,1091,1546180770,270,A,900,brute force-implementation-math,Ahmed_Diab,Java 8,155,0,OK
+47729268,1091,1546180769,269,B,1200,brute force-constructive algorithms-greedy-implementation,abacabadabacaba,Java 8,124,0,OK
+47729198,1091,1546180764,264,A,900,brute force-implementation-math,SevenDeadlySins,Java 8,124,0,OK
+47729195,1091,1546180764,264,A,900,brute force-implementation-math,Vladimirr.Petrunko,Java 8,140,0,OK
+47729031,1091,1546180756,256,A,900,brute force-implementation-math,shikharid,Java 8,109,0,OK
+47729008,1091,1546180755,255,A,900,brute force-implementation-math,killamocingbird,Java 8,140,0,OK
+47728927,1091,1546180751,251,A,900,brute force-implementation-math,finnlidbetter,Java 8,124,0,OK
+47728890,1091,1546180749,249,A,900,brute force-implementation-math,simenl,Java 8,109,0,OK
+47728888,1091,1546180749,249,A,900,brute force-implementation-math,batony4,Java 8,140,0,OK
+47728879,1091,1546180749,249,A,900,brute force-implementation-math,jebaited,Java 8,124,0,OK
+47728863,1091,1546180744,244,A,900,brute force-implementation-math,NatInTheHat,Java 8,140,0,OK
+47728854,1091,1546180743,243,A,900,brute force-implementation-math,nandathant,Java 8,140,0,OK
+47728750,1091,1546180737,237,A,900,brute force-implementation-math,goldcode8,Java 8,140,0,OK
+47728688,1091,1546180733,233,A,900,brute force-implementation-math,Anonymous,Java 8,124,0,OK
+47728564,1091,1546180724,224,A,900,brute force-implementation-math,muregad99,Java 8,124,0,OK
+47728481,1091,1546180720,220,A,900,brute force-implementation-math,tanzaku,Java 8,124,0,OK
+47728402,1091,1546180715,215,A,900,brute force-implementation-math,jjluczyn,Java 8,140,0,OK
+47728398,1091,1546180715,215,A,900,brute force-implementation-math,robslutsky,Java 8,109,0,OK
+47728393,1091,1546180715,215,A,900,brute force-implementation-math,nchn27,Java 8,109,0,OK
+47728375,1091,1546180714,214,A,900,brute force-implementation-math,AuroraGarden,Java 8,139,0,OK
+47728281,1091,1546180707,207,A,900,brute force-implementation-math,K_B_C_S,Java 8,124,0,OK
+47728261,1091,1546180706,206,A,900,brute force-implementation-math,Asgar,Java 8,124,0,OK
+47728255,1091,1546180705,205,A,900,brute force-implementation-math,msagimbekov,Java 8,171,0,OK
+47728113,1091,1546180698,198,A,900,brute force-implementation-math,Rwolfx,Java 8,155,0,OK
+47728083,1091,1546180696,196,A,900,brute force-implementation-math,pandusonu,Java 8,124,0,OK
+47728050,1091,1546180694,194,A,900,brute force-implementation-math,benpr99,Java 8,124,0,OK
+47728042,1091,1546180694,194,A,900,brute force-implementation-math,Dukkha,Java 8,124,0,OK
+47727974,1091,1546180690,190,A,900,brute force-implementation-math,IDzekh,Java 8,124,0,OK
+47727966,1091,1546180690,190,A,900,brute force-implementation-math,gamezovladislav,Java 8,109,0,OK
+47727884,1091,1546180687,187,A,900,brute force-implementation-math,KulikAlex,Java 8,170,0,OK
+47727883,1091,1546180687,187,A,900,brute force-implementation-math,jenish9599,Java 8,124,0,OK
+47727860,1091,1546180685,185,A,900,brute force-implementation-math,Tlatoani,Java 8,140,0,OK
+47727831,1091,1546180684,184,A,900,brute force-implementation-math,Yugioh,Java 8,140,0,OK
+47727752,1091,1546180678,178,A,900,brute force-implementation-math,mikit,Java 8,170,0,OK
+47727700,1091,1546180676,176,A,900,brute force-implementation-math,golions,Java 8,155,0,OK
+47727698,1091,1546180676,176,A,900,brute force-implementation-math,PrakharJain,Java 8,124,0,OK
+47727653,1091,1546180674,174,A,900,brute force-implementation-math,llamaoo7,Java 8,124,0,OK
+47727633,1091,1546180672,172,A,900,brute force-implementation-math,Deimos,Java 8,124,0,OK
+47727503,1091,1546180665,165,A,900,brute force-implementation-math,BaZ_,Java 8,140,0,OK
+47727438,1091,1546180661,161,A,900,brute force-implementation-math,SrapZark,Java 8,124,0,OK
+47727428,1091,1546180660,160,A,900,brute force-implementation-math,WillyDolphin,Java 8,155,0,OK
+47727403,1091,1546180659,159,A,900,brute force-implementation-math,Intrincantation,Java 8,140,0,OK
+47727312,1091,1546180655,155,A,900,brute force-implementation-math,iakovlev.zakhar,Java 8,124,0,OK
+47727302,1091,1546180654,154,A,900,brute force-implementation-math,ilyakor,Java 8,139,0,OK
+47727291,1091,1546180653,153,A,900,brute force-implementation-math,Klnsyf_Ego,Java 8,140,0,OK
+47727226,1091,1546180649,149,A,900,brute force-implementation-math,wery0,Java 8,124,0,OK
+47727156,1091,1546180645,145,A,900,brute force-implementation-math,abacabadabacaba,Java 8,140,0,OK
+47727147,1091,1546180644,144,A,900,brute force-implementation-math,poketred12,Java 8,124,0,OK
+47727128,1091,1546180643,143,A,900,brute force-implementation-math,jdurie,Java 8,140,0,OK
+47727088,1091,1546180640,140,A,900,brute force-implementation-math,khokharnikunj8,Java 8,124,0,OK
+47726827,1091,1546180616,116,A,900,brute force-implementation-math,uwi,Java 8,124,0,OK
+47726620,1091,1546180583,83,A,900,brute force-implementation-math,gnad,Java 8,124,0,OK

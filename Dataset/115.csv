@@ -1,0 +1,1060 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57793917,115,1564137668,2147483647,A,1300,dfs and similar-graphs-trees,offvivek524,Java 8,248,0
+57672486,115,1563982170,2147483647,A,1300,dfs and similar-graphs-trees,diptanshu_mittal,Java 8,280,0
+57558896,115,1563833091,2147483647,A,1300,dfs and similar-graphs-trees,newheathen,Java 8,340,0
+57356358,115,1563604068,2147483647,A,1300,dfs and similar-graphs-trees,Rohinee136,Java 8,310,0
+57138251,115,1563270515,2147483647,A,1300,dfs and similar-graphs-trees,gapusta,Java 8,342,0
+57119614,115,1563233581,2147483647,A,1300,dfs and similar-graphs-trees,david_varela,Java 8,312,0
+57112667,115,1563214456,2147483647,B,1600,greedy-sortings,smiley3angel,Java 8,140,0
+57064430,115,1563135041,2147483647,A,1300,dfs and similar-graphs-trees,MaryCherry,Java 8,312,0
+57060468,115,1563126042,2147483647,A,1300,dfs and similar-graphs-trees,Connector,Java 8,278,0
+56889577,115,1562941394,2147483647,A,1300,dfs and similar-graphs-trees,yorky,Java 8,248,0
+56786043,115,1562747417,2147483647,A,1300,dfs and similar-graphs-trees,MikaMee,Java 8,374,0
+56779983,115,1562737393,2147483647,A,1300,dfs and similar-graphs-trees,vidhansharma01,Java 8,278,0
+56768889,115,1562702801,2147483647,A,1300,dfs and similar-graphs-trees,Dijon,Java 8,312,0
+56686345,115,1562540702,2147483647,A,1300,dfs and similar-graphs-trees,Jay_Chen,Java 8,342,0
+56663016,115,1562495261,2147483647,A,1300,dfs and similar-graphs-trees,waleed_reda,Java 8,342,0
+56527209,115,1562262202,2147483647,A,1300,dfs and similar-graphs-trees,luisligunas,Java 8,312,0
+56497703,115,1562213995,2147483647,A,1300,dfs and similar-graphs-trees,snake_123,Java 8,310,0
+56473585,115,1562156012,2147483647,A,1300,dfs and similar-graphs-trees,bhaweshgupta,Java 8,342,0
+56455051,115,1562123244,2147483647,A,1300,dfs and similar-graphs-trees,salmaelmahy,Java 8,498,0
+56397124,115,1561993588,2147483647,A,1300,dfs and similar-graphs-trees,abdullah_emad12,Java 8,280,0
+56278362,115,1561822018,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Tarek,Java 8,310,0
+56269308,115,1561807597,2147483647,A,1300,dfs and similar-graphs-trees,kuxha,Java 8,280,0
+56224720,115,1561721818,2147483647,A,1300,dfs and similar-graphs-trees,kritika_29,Java 8,312,0
+56166959,115,1561646466,2147483647,A,1300,dfs and similar-graphs-trees,Dushyant1999,Java 8,312,0
+56164974,115,1561643717,2147483647,A,1300,dfs and similar-graphs-trees,MohamedK,Java 8,280,0
+56157592,115,1561633010,2147483647,A,1300,dfs and similar-graphs-trees,teenvan,Java 8,310,0
+56147949,115,1561619252,2147483647,A,1300,dfs and similar-graphs-trees,saad_ahmad,Java 8,280,0
+56137004,115,1561591071,2147483647,A,1300,dfs and similar-graphs-trees,hritik9873,Java 8,498,18329600
+56134144,115,1561581005,2147483647,A,1300,dfs and similar-graphs-trees,saumya13,Java 8,248,0
+56051103,115,1561489772,2147483647,A,1300,dfs and similar-graphs-trees,ung2018,Java 8,342,0
+56042666,115,1561474972,2147483647,A,1300,dfs and similar-graphs-trees,TheSawan,Java 8,280,0
+56040158,115,1561471021,2147483647,A,1300,dfs and similar-graphs-trees,tobitherobot,Java 8,2774,259379200
+56006956,115,1561392212,2147483647,A,1300,dfs and similar-graphs-trees,pradhumnpanchal,Java 8,310,0
+56004761,115,1561388113,2147483647,A,1300,dfs and similar-graphs-trees,mabubeih,Java 8,310,0
+56004636,115,1561387875,2147483647,A,1300,dfs and similar-graphs-trees,mabubeih,Java 8,278,0
+56000814,115,1561380954,2147483647,A,1300,dfs and similar-graphs-trees,mr_jt,Java 8,310,0
+55993642,115,1561367064,2147483647,A,1300,dfs and similar-graphs-trees,codegeekabhi,Java 8,374,0
+55987729,115,1561354309,2147483647,A,1300,dfs and similar-graphs-trees,Ahmed_Abdou,Java 8,310,0
+55980615,115,1561322348,2147483647,A,1300,dfs and similar-graphs-trees,Zeina_Kandil,Java 8,310,0
+55949617,115,1561247539,2147483647,A,1300,dfs and similar-graphs-trees,YahiaSherif,Java 8,310,0
+55946717,115,1561234872,2147483647,A,1300,dfs and similar-graphs-trees,kareem_fathy,Java 8,248,0
+55720887,115,1560870824,2147483647,A,1300,dfs and similar-graphs-trees,cheekypopcorn,Java 8,310,0
+55625294,115,1560679043,2147483647,A,1300,dfs and similar-graphs-trees,TheBusDriver,Java 8,340,0
+55616909,115,1560677655,2147483647,A,1300,dfs and similar-graphs-trees,TheBusDriver,Java 8,342,0
+55590963,115,1560601315,2147483647,A,1300,dfs and similar-graphs-trees,beykus,Java 8,312,0
+55234407,115,1559892943,2147483647,A,1300,dfs and similar-graphs-trees,ojasiiitd,Java 8,310,0
+55193700,115,1559806425,2147483647,A,1300,dfs and similar-graphs-trees,atanaghedifar,Java 8,310,0
+55115478,115,1559723245,2147483647,A,1300,dfs and similar-graphs-trees,abhineshprajapati2,Java 8,218,0
+55112771,115,1559718714,2147483647,A,1300,dfs and similar-graphs-trees,abhineshprajapati2,Java 8,248,0
+55112656,115,1559718472,2147483647,A,1300,dfs and similar-graphs-trees,abhineshprajapati2,Java 8,310,0
+55087269,115,1559653378,2147483647,A,1300,dfs and similar-graphs-trees,Maanas0411,Java 8,310,0
+55080057,115,1559643658,2147483647,A,1300,dfs and similar-graphs-trees,pushpraj17307,Java 8,404,0
+55006335,115,1559547874,2147483647,A,1300,dfs and similar-graphs-trees,Nothing199,Java 8,310,0
+54973323,115,1559468064,2147483647,A,1300,dfs and similar-graphs-trees,sanketmakani,Java 8,248,0
+54955130,115,1559426586,2147483647,A,1300,dfs and similar-graphs-trees,strider29,Java 8,312,0
+54904461,115,1559376635,2147483647,A,1300,dfs and similar-graphs-trees,arch_abs,Java 8,248,0
+54734549,115,1559015653,2147483647,A,1300,dfs and similar-graphs-trees,alphacarrot,Java 8,312,0
+54454516,115,1558451151,2147483647,A,1300,dfs and similar-graphs-trees,KharYusuf,Java 8,248,0
+54352433,115,1558193893,2147483647,A,1300,dfs and similar-graphs-trees,Martin_Faulther,Java 8,374,0
+54069724,115,1557761395,2147483647,A,1300,dfs and similar-graphs-trees,insane_28,Java 8,248,0
+54021664,115,1557655610,2147483647,A,1300,dfs and similar-graphs-trees,pranjal6645,Java 8,312,0
+53808153,115,1557113983,2147483647,A,1300,dfs and similar-graphs-trees,gouh9qn,Java 8,342,0
+53732089,115,1556955758,2147483647,A,1300,dfs and similar-graphs-trees,dmey,Java 8,312,0
+53658985,115,1556779101,2147483647,A,1300,dfs and similar-graphs-trees,sonusingh.nitaa,Java 8,248,0
+53658929,115,1556778997,2147483647,A,1300,dfs and similar-graphs-trees,sonusingh.nitaa,Java 8,248,0
+53468654,115,1556451352,2147483647,A,1300,dfs and similar-graphs-trees,MuhamedX,Java 8,842,54476800
+53391624,115,1556348992,2147483647,A,1300,dfs and similar-graphs-trees,shaurya024,Java 8,342,0
+53295099,115,1556212554,2147483647,A,1300,dfs and similar-graphs-trees,Punit_sharma,Java 8,248,0
+53187394,115,1556017693,2147483647,A,1300,dfs and similar-graphs-trees,madhugupta7979,Java 8,248,0
+53179058,115,1556000810,2147483647,A,1300,dfs and similar-graphs-trees,madhugupta7979,Java 8,248,0
+52997906,115,1555651208,2147483647,A,1300,dfs and similar-graphs-trees,nitish2910,Java 8,404,0
+52942001,115,1555580596,2147483647,A,1300,dfs and similar-graphs-trees,maheshwari29,Java 8,248,0
+52792956,115,1555353226,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Tarek,Java 8,342,0
+52762333,115,1555279724,2147483647,A,1300,dfs and similar-graphs-trees,mabubeih,Java 8,310,0
+52759482,115,1555270000,2147483647,A,1300,dfs and similar-graphs-trees,mabubeih,Java 8,310,0
+52748491,115,1555246311,2147483647,A,1300,dfs and similar-graphs-trees,keval_morabia,Java 8,278,0
+52743906,115,1555238237,2147483647,A,1300,dfs and similar-graphs-trees,georgevidalakis,Java 8,310,0
+52743076,115,1555236727,2147483647,A,1300,dfs and similar-graphs-trees,YahiaSherif,Java 8,342,0
+52679102,115,1555154469,2147483647,A,1300,dfs and similar-graphs-trees,keval_morabia,Java 8,248,0
+52647139,115,1555081362,2147483647,A,1300,dfs and similar-graphs-trees,El-Bishoy,Java 8,248,0
+52646823,115,1555080833,2147483647,A,1300,dfs and similar-graphs-trees,El-Bishoy,Java 8,248,0
+52645395,115,1555078535,2147483647,A,1300,dfs and similar-graphs-trees,El-Bishoy,Java 8,312,0
+52579840,115,1554920707,2147483647,A,1300,dfs and similar-graphs-trees,samer_ghaly,Java 8,248,0
+52578861,115,1554918643,2147483647,A,1300,dfs and similar-graphs-trees,samer_ghaly,Java 8,248,0
+52578801,115,1554918523,2147483647,A,1300,dfs and similar-graphs-trees,samer_ghaly,Java 8,248,0
+52474853,115,1554672527,2147483647,A,1300,dfs and similar-graphs-trees,amitt_yadav_,Java 8,310,0
+52357870,115,1554486686,2147483647,A,1300,dfs and similar-graphs-trees,Ikari_stream,Java 8,248,0
+52280111,115,1554309268,2147483647,A,1300,dfs and similar-graphs-trees,Neeerja,Java 8,310,0
+52275753,115,1554302577,2147483647,A,1300,dfs and similar-graphs-trees,darkqueen,Java 8,496,0
+52133585,115,1554074833,2147483647,A,1300,dfs and similar-graphs-trees,Ziklon,Java 8,248,0
+52133442,115,1554074054,2147483647,A,1300,dfs and similar-graphs-trees,Ziklon,Java 8,248,0
+52058962,115,1553983262,2147483647,A,1300,dfs and similar-graphs-trees,vjudge1,Java 8,312,0
+52052465,115,1553972335,2147483647,A,1300,dfs and similar-graphs-trees,vjudge5,Java 8,312,0
+51952519,115,1553809053,2147483647,A,1300,dfs and similar-graphs-trees,umang696,Java 8,248,0
+51875390,115,1553627135,2147483647,A,1300,dfs and similar-graphs-trees,_oshhh_,Java 8,248,0
+51854970,115,1553596154,2147483647,A,1300,dfs and similar-graphs-trees,mohbansa,Java 8,310,0
+51609438,115,1553160394,2147483647,A,1300,dfs and similar-graphs-trees,Muhamed_Srouji,Java 8,278,0
+51483571,115,1552999124,2147483647,B,1600,greedy-sortings,jessicatrana,Java 8,140,0
+51479621,115,1552993239,2147483647,A,1300,dfs and similar-graphs-trees,GiantTornado,Java 8,372,0
+51471978,115,1552979184,2147483647,A,1300,dfs and similar-graphs-trees,BaaaaaaanTedGuYYYYYYY,Java 8,248,0
+51279846,115,1552531111,2147483647,A,1300,dfs and similar-graphs-trees,Harbin,Java 8,248,0
+51276235,115,1552513196,2147483647,A,1300,dfs and similar-graphs-trees,intelligence,Java 8,248,0
+51235888,115,1552415069,2147483647,A,1300,dfs and similar-graphs-trees,chaudhary__jr,Java 8,312,0
+51151417,115,1552291205,2147483647,A,1300,dfs and similar-graphs-trees,NAbdulla,Java 8,342,0
+51062689,115,1552104594,2147483647,A,1300,dfs and similar-graphs-trees,9184supriya,Java 8,248,0
+50563438,115,1551269270,2147483647,A,1300,dfs and similar-graphs-trees,leela,Java 8,248,0
+50495466,115,1551106711,2147483647,A,1300,dfs and similar-graphs-trees,Vinamer,Java 8,310,0
+50332065,115,1550861946,2147483647,A,1300,dfs and similar-graphs-trees,sooraj10,Java 8,280,0
+50306112,115,1550816209,2147483647,A,1300,dfs and similar-graphs-trees,behdad.a.moghadam,Java 8,248,0
+49837907,115,1549990848,2147483647,A,1300,dfs and similar-graphs-trees,saisagar07121998,Java 8,312,0
+49344752,115,1549082182,2147483647,A,1300,dfs and similar-graphs-trees,PandiKnight,Java 8,342,0
+49079858,115,1548654199,2147483647,A,1300,dfs and similar-graphs-trees,goalboy,Java 8,310,0
+48784188,115,1548231064,2147483647,A,1300,dfs and similar-graphs-trees,vjudge3,Java 8,310,0
+48767723,115,1548188492,2147483647,A,1300,dfs and similar-graphs-trees,tkech17,Java 8,280,0
+48561481,115,1547883194,2147483647,A,1300,dfs and similar-graphs-trees,pj21,Java 8,248,0
+48430866,115,1547572838,2147483647,A,1300,dfs and similar-graphs-trees,Kello,Java 8,248,0
+48254605,115,1547224294,2147483647,A,1300,dfs and similar-graphs-trees,paliyastrot,Java 8,342,0
+47950025,115,1546643575,2147483647,A,1300,dfs and similar-graphs-trees,Gr8tor,Java 8,248,0
+47736211,115,1546181489,2147483647,A,1300,dfs and similar-graphs-trees,agarwal19,Java 8,436,0
+47723678,115,1546174658,2147483647,A,1300,dfs and similar-graphs-trees,zxzxzx0119,Java 8,310,0
+47717722,115,1546160568,2147483647,A,1300,dfs and similar-graphs-trees,zxzxzx0119,Java 8,342,0
+47716928,115,1546158484,2147483647,A,1300,dfs and similar-graphs-trees,zxzxzx0119,Java 8,340,0
+47665675,115,1546040615,2147483647,A,1300,dfs and similar-graphs-trees,_R_peggy,Java 8,312,0
+47609277,115,1545981075,2147483647,A,1300,dfs and similar-graphs-trees,anony9906,Java 8,312,0
+47466706,115,1545676570,2147483647,A,1300,dfs and similar-graphs-trees,Glaurung,Java 8,280,0
+47358527,115,1545463777,2147483647,A,1300,dfs and similar-graphs-trees,Mooncrater,Java 8,278,0
+47275735,115,1545246745,2147483647,A,1300,dfs and similar-graphs-trees,msagimbekov,Java 8,248,0
+47257229,115,1545216981,2147483647,A,1300,dfs and similar-graphs-trees,hitoshishinso,Java 8,342,0
+46988590,115,1544744682,2147483647,A,1300,dfs and similar-graphs-trees,viratK,Java 8,248,0
+46965411,115,1544698985,2147483647,A,1300,dfs and similar-graphs-trees,zahra.t,Java 8,312,0
+46963852,115,1544695428,2147483647,A,1300,dfs and similar-graphs-trees,zahra.t,Java 8,310,0
+46907289,115,1544540136,2147483647,A,1300,dfs and similar-graphs-trees,viratK,Java 8,248,0
+46788284,115,1544341377,2147483647,A,1300,dfs and similar-graphs-trees,Shady51,Java 8,248,0
+46759911,115,1544273675,2147483647,A,1300,dfs and similar-graphs-trees,asparsa2,Java 8,310,0
+46727966,115,1544198269,2147483647,A,1300,dfs and similar-graphs-trees,asparsa2,Java 8,310,0
+46716064,115,1544181405,2147483647,A,1300,dfs and similar-graphs-trees,9897534873,Java 8,312,0
+46687863,115,1544107875,2147483647,A,1300,dfs and similar-graphs-trees,niteshgowda,Java 8,310,0
+46665688,115,1544059971,2147483647,A,1300,dfs and similar-graphs-trees,quackity,Java 8,310,0
+46540292,115,1543837004,2147483647,A,1300,dfs and similar-graphs-trees,dk_beeta,Java 8,312,0
+46508502,115,1543752601,2147483647,A,1300,dfs and similar-graphs-trees,roninlaw,Java 8,280,0
+46433629,115,1543649245,2147483647,A,1300,dfs and similar-graphs-trees,rairay,Java 8,342,0
+46198822,115,1543140212,2147483647,A,1300,dfs and similar-graphs-trees,NoneCares,Java 8,374,16281600
+46194614,115,1543131401,2147483647,A,1300,dfs and similar-graphs-trees,HappierThanYou,Java 8,310,0
+46192859,115,1543127547,2147483647,A,1300,dfs and similar-graphs-trees,rogernadal,Java 8,248,0
+46192417,115,1543126525,2147483647,A,1300,dfs and similar-graphs-trees,rogernadal,Java 8,248,0
+46114066,115,1542978508,2147483647,A,1300,dfs and similar-graphs-trees,kriti_20,Java 8,312,0
+45566817,115,1541948685,2147483647,A,1300,dfs and similar-graphs-trees,SevenDeadlySins,Java 8,280,0
+45485634,115,1541783125,2147483647,A,1300,dfs and similar-graphs-trees,Md_Nishat,Java 8,310,0
+45464913,115,1541741278,2147483647,A,1300,dfs and similar-graphs-trees,MubtasimShahriar,Java 8,280,0
+45462426,115,1541729524,2147483647,A,1300,dfs and similar-graphs-trees,speedious,Java 8,312,0
+45433046,115,1541656450,2147483647,A,1300,dfs and similar-graphs-trees,BugsBunnyO1,Java 8,310,0
+45433028,115,1541656410,2147483647,A,1300,dfs and similar-graphs-trees,AKJJYGLC1,Java 8,310,0
+45286556,115,1541351010,2147483647,A,1300,dfs and similar-graphs-trees,_olOlo_,Java 8,248,0
+45285813,115,1541349251,2147483647,A,1300,dfs and similar-graphs-trees,rohan03,Java 8,248,0
+45135997,115,1540988544,2147483647,A,1300,dfs and similar-graphs-trees,arcus,Java 8,280,0
+44978913,115,1540712041,2147483647,A,1300,dfs and similar-graphs-trees,uc11,Java 8,248,0
+44606852,115,1540055981,2147483647,A,1300,dfs and similar-graphs-trees,octopusPrime,Java 8,248,0
+44606794,115,1540055862,2147483647,A,1300,dfs and similar-graphs-trees,octopusPrime,Java 8,248,0
+44463511,115,1539816699,2147483647,B,1600,greedy-sortings,ViciousCoder,Java 8,124,0
+44427569,115,1539754783,2147483647,A,1300,dfs and similar-graphs-trees,kuuhaku,Java 8,248,0
+43468224,115,1537991915,2147483647,A,1300,dfs and similar-graphs-trees,rajat121292,Java 8,404,0
+43152469,115,1537466695,2147483647,A,1300,dfs and similar-graphs-trees,_Sergey_,Java 8,310,0
+43094448,115,1537392748,2147483647,A,1300,dfs and similar-graphs-trees,Mohd.,Java 8,436,0
+43048545,115,1537299182,2147483647,A,1300,dfs and similar-graphs-trees,golions,Java 8,280,0
+42904467,115,1537050999,2147483647,A,1300,dfs and similar-graphs-trees,S010M,Java 8,310,0
+42777400,115,1536690086,2147483647,B,1600,greedy-sortings,KulikAlex,Java 8,155,0
+42340711,115,1535821067,2147483647,A,1300,dfs and similar-graphs-trees,omar.elbaroudy,Java 8,310,0
+42130383,115,1535306779,2147483647,A,1300,dfs and similar-graphs-trees,armking,Java 8,404,0
+42102210,115,1535227928,2147483647,A,1300,dfs and similar-graphs-trees,hAtchiko,Java 8,342,0
+42002737,115,1535041116,2147483647,A,1300,dfs and similar-graphs-trees,drabishop,Java 8,374,0
+41971387,115,1534951187,2147483647,A,1300,dfs and similar-graphs-trees,PercySpecter,Java 8,372,0
+41732099,115,1534547810,2147483647,A,1300,dfs and similar-graphs-trees,kareem_fathy,Java 8,310,0
+41727942,115,1534535682,2147483647,B,1600,greedy-sortings,sundarcj,Java 8,187,0
+41652076,115,1534422323,2147483647,A,1300,dfs and similar-graphs-trees,Mazen_Ashraf,Java 8,280,0
+41652059,115,1534422290,2147483647,A,1300,dfs and similar-graphs-trees,Mared_Coder,Java 8,280,0
+41651785,115,1534421808,2147483647,A,1300,dfs and similar-graphs-trees,marknageb,Java 8,310,0
+41651549,115,1534421341,2147483647,A,1300,dfs and similar-graphs-trees,Akmal111,Java 8,310,0
+41650634,115,1534419405,2147483647,A,1300,dfs and similar-graphs-trees,Darknight98,Java 8,312,0
+41650294,115,1534418730,2147483647,A,1300,dfs and similar-graphs-trees,leqaajamal,Java 8,310,0
+41649801,115,1534417670,2147483647,A,1300,dfs and similar-graphs-trees,EiadEssam99,Java 8,342,0
+41635497,115,1534374544,2147483647,A,1300,dfs and similar-graphs-trees,El_Bhiry,Java 8,404,0
+41631390,115,1534357470,2147483647,A,1300,dfs and similar-graphs-trees,just_denis,Java 8,498,0
+41629320,115,1534351876,2147483647,A,1300,dfs and similar-graphs-trees,LemonPudding,Java 8,374,0
+41625275,115,1534341713,2147483647,A,1300,dfs and similar-graphs-trees,hagar_yasser,Java 8,280,0
+41603917,115,1534289785,2147483647,A,1300,dfs and similar-graphs-trees,Hemose,Java 8,404,0
+41603906,115,1534289718,2147483647,A,1300,dfs and similar-graphs-trees,NiceTryMan,Java 8,404,0
+41571980,115,1534202098,2147483647,A,1300,dfs and similar-graphs-trees,O_E,Java 8,342,0
+41554633,115,1534156169,2147483647,A,1300,dfs and similar-graphs-trees,daniddelrio,Java 8,342,0
+41425662,115,1533892160,2147483647,A,1300,dfs and similar-graphs-trees,Anonymous,Java 8,374,0
+41303746,115,1533642814,2147483647,A,1300,dfs and similar-graphs-trees,kuku123,Java 8,280,0
+41256269,115,1533501117,2147483647,B,1600,greedy-sortings,parth_15,Java 8,139,0
+41248443,115,1533479540,2147483647,A,1300,dfs and similar-graphs-trees,GreatWhite,Java 8,342,0
+41199358,115,1533355484,2147483647,A,1300,dfs and similar-graphs-trees,vjudge5,Java 8,342,0
+41188272,115,1533317946,2147483647,A,1300,dfs and similar-graphs-trees,rajatjain,Java 8,342,0
+41130175,115,1533228604,2147483647,A,1300,dfs and similar-graphs-trees,f2015332,Java 8,342,0
+41024062,115,1533045061,2147483647,A,1300,dfs and similar-graphs-trees,MoeAdel,Java 8,280,0
+41001990,115,1533022663,2147483647,A,1300,dfs and similar-graphs-trees,techie_kotn,Java 8,374,0
+40989888,115,1532993006,2147483647,A,1300,dfs and similar-graphs-trees,yogesh912,Java 8,374,0
+40771259,115,1532594455,2147483647,A,1300,dfs and similar-graphs-trees,CharlesDai,Java 8,404,0
+40755863,115,1532557173,2147483647,A,1300,dfs and similar-graphs-trees,chriss,Java 8,374,0
+40732456,115,1532506509,2147483647,A,1300,dfs and similar-graphs-trees,adarsh.n21,Java 8,622,0
+40652428,115,1532306155,2147483647,A,1300,dfs and similar-graphs-trees,Volkovskyi,Java 8,778,0
+40633655,115,1532257505,2147483647,A,1300,dfs and similar-graphs-trees,Onkar_p,Java 8,248,0
+40595931,115,1532151075,2147483647,A,1300,dfs and similar-graphs-trees,cpcp1898,Java 8,404,0
+40483409,115,1531840524,2147483647,A,1300,dfs and similar-graphs-trees,java_geek,Java 8,280,0
+40449326,115,1531763072,2147483647,A,1300,dfs and similar-graphs-trees,mustafa11,Java 8,342,0
+40448596,115,1531761986,2147483647,A,1300,dfs and similar-graphs-trees,mesmail,Java 8,374,0
+40297154,115,1531516629,2147483647,A,1300,dfs and similar-graphs-trees,Nirmit,Java 8,248,0
+40235112,115,1531405233,2147483647,A,1300,dfs and similar-graphs-trees,I_love_Emma_Watson_,Java 8,436,0
+40105016,115,1531123195,2147483647,A,1300,dfs and similar-graphs-trees,Aniket144,Java 8,310,0
+40023178,115,1530864019,2147483647,A,1300,dfs and similar-graphs-trees,kunal725725,Java 8,342,0
+39865566,115,1530528976,2147483647,A,1300,dfs and similar-graphs-trees,its_ulure,Java 8,310,0
+39769360,115,1530278687,2147483647,A,1300,dfs and similar-graphs-trees,ghostaBg,Java 8,404,0
+39751881,115,1530213511,2147483647,A,1300,dfs and similar-graphs-trees,NeutronStar,Java 8,310,0
+39734750,115,1530168806,2147483647,A,1300,dfs and similar-graphs-trees,ViciousCoder,Java 8,280,0
+39691579,115,1530076783,2147483647,A,1300,dfs and similar-graphs-trees,siddharthp538,Java 8,374,0
+39673132,115,1530010306,2147483647,A,1300,dfs and similar-graphs-trees,octopusPrime,Java 8,280,0
+39673062,115,1530010130,2147483647,A,1300,dfs and similar-graphs-trees,octopusPrime,Java 8,280,0
+39662464,115,1529975883,2147483647,A,1300,dfs and similar-graphs-trees,supergoa,Java 8,466,0
+39590578,115,1529818423,2147483647,A,1300,dfs and similar-graphs-trees,amolpratap007,Java 8,310,2355200
+39536468,115,1529743795,2147483647,A,1300,dfs and similar-graphs-trees,Vaibhav96,Java 8,280,0
+39508111,115,1529650453,2147483647,A,1300,dfs and similar-graphs-trees,YahiaBadr,Java 8,404,0
+39498979,115,1529608755,2147483647,A,1300,dfs and similar-graphs-trees,KulikAlex,Java 8,280,0
+39209863,115,1528877346,2147483647,A,1300,dfs and similar-graphs-trees,Michael_Hany,Java 8,248,0
+39138213,115,1528698245,2147483647,A,1300,dfs and similar-graphs-trees,myob-_-,Java 8,278,0
+39076061,115,1528568311,2147483647,A,1300,dfs and similar-graphs-trees,wanderer163,Java 8,374,0
+39050534,115,1528474018,2147483647,A,1300,dfs and similar-graphs-trees,zeyad_khattab,Java 8,310,0
+39040255,115,1528447313,2147483647,A,1300,dfs and similar-graphs-trees,bhavikmehta98,Java 8,280,0
+38888674,115,1527939242,2147483647,A,1300,dfs and similar-graphs-trees,adi.sing32,Java 8,404,21094400
+38768915,115,1527676173,2147483647,A,1300,dfs and similar-graphs-trees,bhautik_77,Java 8,310,20377600
+38719848,115,1527600635,2147483647,A,1300,dfs and similar-graphs-trees,Owwee,Java 8,280,0
+38624616,115,1527314763,2147483647,A,1300,dfs and similar-graphs-trees,hiren_oded,Java 8,466,0
+38614524,115,1527266632,2147483647,A,1300,dfs and similar-graphs-trees,programbhavan,Java 8,248,0
+38606230,115,1527244538,2147483647,A,1300,dfs and similar-graphs-trees,akshat2017014,Java 8,280,0
+38553484,115,1527058442,2147483647,A,1300,dfs and similar-graphs-trees,Tarun,Java 8,342,0
+38484867,115,1526910093,2147483647,A,1300,dfs and similar-graphs-trees,mehrabhamidi,Java 8,404,39219200
+38237781,115,1526313625,2147483647,A,1300,dfs and similar-graphs-trees,jhill.ucf,Java 8,404,21094400
+38201154,115,1526245500,2147483647,A,1300,dfs and similar-graphs-trees,CannotCodeWell,Java 8,342,20787200
+38128600,115,1526103031,2147483647,A,1300,dfs and similar-graphs-trees,armedbeast,Java 8,342,20787200
+38084919,115,1525927691,2147483647,A,1300,dfs and similar-graphs-trees,vaibhavbhardwaj1987,Java 8,374,21094400
+37839452,115,1525263448,2147483647,A,1300,dfs and similar-graphs-trees,the_errorist,Java 8,342,20684800
+37837972,115,1525260642,2147483647,A,1300,dfs and similar-graphs-trees,karanjobanputra,Java 8,310,20787200
+37789446,115,1525154342,2147483647,A,1300,dfs and similar-graphs-trees,wolf3001,Java 8,280,20787200
+37750248,115,1525098146,2147483647,A,1300,dfs and similar-graphs-trees,elvin.yang9,Java 8,310,20787200
+37594629,115,1524654906,2147483647,A,1300,dfs and similar-graphs-trees,romka828,Java 8,468,21094400
+37566262,115,1524555939,2147483647,A,1300,dfs and similar-graphs-trees,analog,Java 8,280,20684800
+37118640,115,1523269947,2147483647,A,1300,dfs and similar-graphs-trees,YasmineMustafa,Java 8,280,20684800
+36784414,115,1522533464,2147483647,A,1300,dfs and similar-graphs-trees,Thinker150485,Java 8,342,21196800
+36683788,115,1522215748,2147483647,A,1300,dfs and similar-graphs-trees,ghangh,Java 8,342,21094400
+36662907,115,1522142080,2147483647,A,1300,dfs and similar-graphs-trees,Ruku99,Java 8,372,21094400
+36653557,115,1522097200,2147483647,B,1600,greedy-sortings,cmjohnson1,Java 8,171,21094400
+36653543,115,1522097153,2147483647,B,1600,greedy-sortings,cmjohnson1,Java 8,186,21094400
+36624572,115,1522001681,2147483647,A,1300,dfs and similar-graphs-trees,Siddhraj,Java 8,280,20684800
+36529777,115,1521807266,2147483647,A,1300,dfs and similar-graphs-trees,heyyeyaaeyaaaeyaeyaa,Java 8,310,20787200
+36507129,115,1521730784,2147483647,B,1600,greedy-sortings,Mattt27,Java 8,171,21094400
+36502748,115,1521723260,2147483647,A,1300,dfs and similar-graphs-trees,cmplx-xyttmt,Java 8,280,20787200
+36463953,115,1521663329,2147483647,A,1300,dfs and similar-graphs-trees,mennafadali,Java 8,280,20684800
+36398644,115,1521404688,2147483647,A,1300,dfs and similar-graphs-trees,Mohd.,Java 8,404,20787200
+36396172,115,1521394472,2147483647,A,1300,dfs and similar-graphs-trees,Sarah_Abdelkhalek,Java 8,374,21094400
+36264627,115,1521001872,2147483647,A,1300,dfs and similar-graphs-trees,TechSupport,Java 8,278,20684800
+36255256,115,1520957978,2147483647,A,1300,dfs and similar-graphs-trees,AhmedGhazaly,Java 8,278,20684800
+36238581,115,1520914315,2147483647,A,1300,dfs and similar-graphs-trees,jwiroj,Java 8,342,21094400
+36193395,115,1520759102,2147483647,A,1300,dfs and similar-graphs-trees,dima997,Java 8,278,20889600
+36085443,115,1520562952,2147483647,A,1300,dfs and similar-graphs-trees,jacobdavis,Java 8,466,21196800
+36068542,115,1520508112,2147483647,A,1300,dfs and similar-graphs-trees,kanak893,Java 8,278,20684800
+36053713,115,1520447364,2147483647,A,1300,dfs and similar-graphs-trees,harshpatel,Java 8,278,21196800
+35998657,115,1520349105,2147483647,A,1300,dfs and similar-graphs-trees,Ulyrssef,Java 8,280,20787200
+35948904,115,1520192863,2147483647,A,1300,dfs and similar-graphs-trees,YahiaBadr,Java 8,404,20787200
+35896096,115,1520096497,2147483647,A,1300,dfs and similar-graphs-trees,YasmineMaheeb,Java 8,278,20684800
+35864262,115,1520031938,2147483647,A,1300,dfs and similar-graphs-trees,1_2345432_1,Java 8,374,20787200
+35831950,115,1519984913,2147483647,A,1300,dfs and similar-graphs-trees,PolaMawaad,Java 8,372,20684800
+35831817,115,1519984676,2147483647,A,1300,dfs and similar-graphs-trees,Ahmed_Diab,Java 8,280,20684800
+35831355,115,1519983842,2147483647,A,1300,dfs and similar-graphs-trees,KBMOS,Java 8,374,21094400
+35803723,115,1519886057,2147483647,A,1300,dfs and similar-graphs-trees,Ziax,Java 8,342,21196800
+35424493,115,1518885015,2147483647,A,1300,dfs and similar-graphs-trees,nipandas122,Java 8,342,21094400
+35229260,115,1518607894,2147483647,A,1300,dfs and similar-graphs-trees,jack.cf,Java 8,342,21094400
+35220951,115,1518567651,2147483647,A,1300,dfs and similar-graphs-trees,error_4,Java 8,278,20684800
+35162623,115,1518378828,2147483647,A,1300,dfs and similar-graphs-trees,iamnair,Java 8,342,21094400
+35126510,115,1518270694,2147483647,A,1300,dfs and similar-graphs-trees,K.Mostafa,Java 8,342,21094400
+35126185,115,1518270119,2147483647,A,1300,dfs and similar-graphs-trees,K.Mostafa,Java 8,342,21094400
+35125464,115,1518268843,2147483647,A,1300,dfs and similar-graphs-trees,K.Mostafa,Java 8,374,21094400
+35106269,115,1518212593,2147483647,A,1300,dfs and similar-graphs-trees,Kepter,Java 8,342,21094400
+35101758,115,1518200046,2147483647,A,1300,dfs and similar-graphs-trees,chava.jauregui,Java 8,404,21094400
+35101288,115,1518199001,2147483647,A,1300,dfs and similar-graphs-trees,chava.jauregui,Java 8,342,21094400
+35062077,115,1518100025,2147483647,A,1300,dfs and similar-graphs-trees,isofew,Java 8,342,21094400
+34835963,115,1517571751,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Emad,Java 8,404,21094400
+34652204,115,1517207387,2147483647,A,1300,dfs and similar-graphs-trees,vjudge1,Java 8,372,21094400
+34558627,115,1516916270,2147483647,A,1300,dfs and similar-graphs-trees,Chino8,Java 8,342,21094400
+34492717,115,1516732170,2147483647,A,1300,dfs and similar-graphs-trees,aman28rwt,Java 8,280,20787200
+34488775,115,1516724667,2147483647,A,1300,dfs and similar-graphs-trees,jonsnow7,Java 8,342,20787200
+34332804,115,1516403055,2147483647,A,1300,dfs and similar-graphs-trees,medhat.hani,Java 8,342,21094400
+34259043,115,1516212180,2147483647,A,1300,dfs and similar-graphs-trees,mu.shakhawat.hossain,Java 8,248,20684800
+34251428,115,1516191955,2147483647,A,1300,dfs and similar-graphs-trees,Zamzoum94,Java 8,278,20684800
+34222457,115,1516107933,2147483647,A,1300,dfs and similar-graphs-trees,Benjo,Java 8,248,20684800
+34180304,115,1515947224,2147483647,A,1300,dfs and similar-graphs-trees,Olga123,Java 8,374,21094400
+34110584,115,1515774122,2147483647,A,1300,dfs and similar-graphs-trees,umang._.panchal,Java 8,248,20684800
+34085027,115,1515664086,2147483647,A,1300,dfs and similar-graphs-trees,Caucasian_Shepherd,Java 8,404,21196800
+34085011,115,1515664002,2147483647,A,1300,dfs and similar-graphs-trees,Caucasian_Shepherd,Java 8,404,21196800
+34037802,115,1515458031,2147483647,A,1300,dfs and similar-graphs-trees,NatInTheHat,Java 8,434,21094400
+33761333,115,1514555532,2147483647,A,1300,dfs and similar-graphs-trees,ahoho,Java 8,342,21094400
+33635173,115,1514256981,2147483647,A,1300,dfs and similar-graphs-trees,ezzou.1996,Java 8,374,21094400
+33635061,115,1514256079,2147483647,A,1300,dfs and similar-graphs-trees,ezzou.1996,Java 8,342,21094400
+33465324,115,1513799887,2147483647,A,1300,dfs and similar-graphs-trees,jbenemourad,Java 8,404,21196800
+33360235,115,1513535406,2147483647,A,1300,dfs and similar-graphs-trees,catforce,Java 8,278,20684800
+33256579,115,1513320608,2147483647,A,1300,dfs and similar-graphs-trees,hareesh.veligeti,Java 8,342,21094400
+32984797,115,1512585490,2147483647,A,1300,dfs and similar-graphs-trees,soumyamandi,Java 8,342,21094400
+32831655,115,1512136589,2147483647,A,1300,dfs and similar-graphs-trees,tungtinhoctre126,Java 8,342,21094400
+32825602,115,1512120128,2147483647,A,1300,dfs and similar-graphs-trees,shubham_1992,Java 8,374,21094400
+32768430,115,1511938129,2147483647,A,1300,dfs and similar-graphs-trees,Heshamovic,Java 8,342,21094400
+32719622,115,1511797831,2147483647,A,1300,dfs and similar-graphs-trees,Mumuksh_Bhargava,Java 8,342,21299200
+32657320,115,1511645410,2147483647,A,1300,dfs and similar-graphs-trees,MuhammedMokbelQ_Q,Java 8,436,39014400
+32422663,115,1510987712,2147483647,A,1300,dfs and similar-graphs-trees,SkAR,Java 8,404,0
+32135723,115,1510133077,2147483647,A,1300,dfs and similar-graphs-trees,parth_15,Java 8,372,0
+31950540,115,1509541147,2147483647,A,1300,dfs and similar-graphs-trees,pms1908,Java 8,342,0
+31949814,115,1509539844,2147483647,A,1300,dfs and similar-graphs-trees,K_B_C_S,Java 8,248,0
+31949740,115,1509539721,2147483647,A,1300,dfs and similar-graphs-trees,krishna_at,Java 8,248,0
+31941525,115,1509522332,2147483647,A,1300,dfs and similar-graphs-trees,aezakmiripazha,Java 8,466,0
+31907971,115,1509408778,2147483647,A,1300,dfs and similar-graphs-trees,andreasw,Java 8,248,0
+31880550,115,1509334173,2147483647,A,1300,dfs and similar-graphs-trees,amasadpanda,Java 8,312,0
+31650149,115,1508777841,2147483647,A,1300,dfs and similar-graphs-trees,onetwothree,Java 8,374,20992000
+31388009,115,1508150130,2147483647,A,1300,dfs and similar-graphs-trees,alyssacuan,Java 8,310,20889600
+31319905,115,1508003212,2147483647,A,1300,dfs and similar-graphs-trees,CoderUSA,Java 8,342,0
+31242021,115,1507814733,2147483647,A,1300,dfs and similar-graphs-trees,bborecki,Java 8,312,0
+31221337,115,1507737496,2147483647,A,1300,dfs and similar-graphs-trees,ntdang,Java 8,560,0
+31163467,115,1507541423,2147483647,A,1300,dfs and similar-graphs-trees,di_halt,Java 8,280,0
+31163227,115,1507540497,2147483647,B,1600,greedy-sortings,iLoveIOI,Java 8,124,0
+31163156,115,1507540251,2147483647,B,1600,greedy-sortings,di_halt,Java 8,124,0
+30961799,115,1507018464,2147483647,A,1300,dfs and similar-graphs-trees,agnyaathavaasi,Java 8,342,0
+30950341,115,1506967298,2147483647,A,1300,dfs and similar-graphs-trees,prabhat236218,Java 8,248,0
+30950290,115,1506967132,2147483647,A,1300,dfs and similar-graphs-trees,prabhat236218,Java 8,248,0
+30906902,115,1506856862,2147483647,A,1300,dfs and similar-graphs-trees,davidonsy,Java 8,404,0
+30892209,115,1506816622,2147483647,A,1300,dfs and similar-graphs-trees,vjudge3,Java 8,248,0
+30764197,115,1506464146,2147483647,A,1300,dfs and similar-graphs-trees,assali,Java 8,248,0
+30691844,115,1506293119,2147483647,A,1300,dfs and similar-graphs-trees,navpun31,Java 8,312,0
+30633918,115,1506150679,2147483647,A,1300,dfs and similar-graphs-trees,ram66,Java 8,340,0
+30329670,115,1505395966,2147483647,A,1300,dfs and similar-graphs-trees,kamesh.joshi,Java 8,342,0
+30319517,115,1505359520,2147483647,A,1300,dfs and similar-graphs-trees,Mantawy,Java 8,498,0
+30317192,115,1505340791,2147483647,A,1300,dfs and similar-graphs-trees,Yazeed96,Java 8,248,0
+30313983,115,1505326444,2147483647,A,1300,dfs and similar-graphs-trees,A.Shams,Java 8,248,0
+30098493,115,1504612749,2147483647,A,1300,dfs and similar-graphs-trees,deepshine,Java 8,218,0
+30086892,115,1504571058,2147483647,A,1300,dfs and similar-graphs-trees,tranlong204,Java 8,934,0
+29956133,115,1504201720,2147483647,A,1300,dfs and similar-graphs-trees,1damketthuc,Java 8,374,0
+29908065,115,1504068938,2147483647,A,1300,dfs and similar-graphs-trees,Maza_R,Java 8,404,16281600
+29798773,115,1503729352,2147483647,A,1300,dfs and similar-graphs-trees,vaibhav28,Java 8,280,0
+29730344,115,1503575765,2147483647,A,1300,dfs and similar-graphs-trees,mahestynasser,Java 8,248,0
+29726998,115,1503566028,2147483647,A,1300,dfs and similar-graphs-trees,zeyad_khattab,Java 8,280,0
+29726946,115,1503565855,2147483647,A,1300,dfs and similar-graphs-trees,zeyad_khattab,Java 8,218,0
+29713454,115,1503508149,2147483647,A,1300,dfs and similar-graphs-trees,puru072,Java 8,342,0
+29704055,115,1503483692,2147483647,A,1300,dfs and similar-graphs-trees,ghazalhp,Java 8,310,0
+29670049,115,1503358224,2147483647,A,1300,dfs and similar-graphs-trees,vuthuy.uet,Java 8,342,0
+29613465,115,1503207099,2147483647,A,1300,dfs and similar-graphs-trees,hacker45,Java 8,404,0
+29611765,115,1503197779,2147483647,A,1300,dfs and similar-graphs-trees,lm010,Java 8,248,0
+29611727,115,1503197541,2147483647,A,1300,dfs and similar-graphs-trees,lm010,Java 8,590,0
+29544212,115,1503036551,2147483647,A,1300,dfs and similar-graphs-trees,shikhar.00778,Java 8,310,0
+29527933,115,1502978976,2147483647,A,1300,dfs and similar-graphs-trees,Sharon,Java 8,436,0
+29457934,115,1502715260,2147483647,A,1300,dfs and similar-graphs-trees,eriksuenderhauf,Java 8,218,20582400
+29375923,115,1502537134,2147483647,A,1300,dfs and similar-graphs-trees,abhi9810,Java 8,374,21094400
+29037822,115,1501481713,2147483647,A,1300,dfs and similar-graphs-trees,homoeconomicus,Java 8,248,20377600
+28974152,115,1501344993,2147483647,A,1300,dfs and similar-graphs-trees,ferchufz,Java 8,342,20992000
+28944403,115,1501223122,2147483647,A,1300,dfs and similar-graphs-trees,prakhar28,Java 8,342,20992000
+28914709,115,1501102326,2147483647,A,1300,dfs and similar-graphs-trees,Omegaxis213,Java 8,248,20582400
+28901911,115,1501067139,2147483647,A,1300,dfs and similar-graphs-trees,ankurdua15,Java 8,248,20582400
+28858063,115,1500929748,2147483647,A,1300,dfs and similar-graphs-trees,accessdog,Java 8,342,20684800
+28730791,115,1500572164,2147483647,A,1300,dfs and similar-graphs-trees,Key_J,Java 8,342,20582400
+28645484,115,1500312822,2147483647,A,1300,dfs and similar-graphs-trees,yashwanthbetha,Java 8,1466,22220800
+28645458,115,1500312713,2147483647,A,1300,dfs and similar-graphs-trees,yashwanthbetha,Java 8,1496,22220800
+28572378,115,1500119557,2147483647,A,1300,dfs and similar-graphs-trees,Lord_ozb,Java 8,280,20582400
+28529972,115,1499976983,2147483647,A,1300,dfs and similar-graphs-trees,salim.chouai,Java 8,436,20992000
+28421411,115,1499754623,2147483647,B,1600,greedy-sortings,tomdmitriev,Java 8,124,20582400
+28416731,115,1499731624,2147483647,A,1300,dfs and similar-graphs-trees,AbdoSamii,Java 8,372,20992000
+28409608,115,1499696486,2147483647,A,1300,dfs and similar-graphs-trees,bhavyashah9873,Java 8,404,20787200
+28330453,115,1499353827,2147483647,A,1300,dfs and similar-graphs-trees,ayasaberosman,Java 8,374,20992000
+28329999,115,1499353452,2147483647,A,1300,dfs and similar-graphs-trees,sarah_eldafrawy,Java 8,372,20992000
+28321054,115,1499330241,2147483647,A,1300,dfs and similar-graphs-trees,vjudge4,Java 8,404,20992000
+28303295,115,1499256352,2147483647,A,1300,dfs and similar-graphs-trees,paras2411,Java 8,248,20582400
+28292080,115,1499219735,2147483647,A,1300,dfs and similar-graphs-trees,karim.mohamed,Java 8,372,20992000
+28287636,115,1499193974,2147483647,A,1300,dfs and similar-graphs-trees,Abdelra7man007,Java 8,374,20992000
+28287594,115,1499193820,2147483647,A,1300,dfs and similar-graphs-trees,mostafalabib65,Java 8,342,20992000
+28286919,115,1499191422,2147483647,A,1300,dfs and similar-graphs-trees,BassamMattar1996,Java 8,404,20992000
+28284535,115,1499183651,2147483647,A,1300,dfs and similar-graphs-trees,SajedHassan,Java 8,312,20992000
+28278769,115,1499167607,2147483647,A,1300,dfs and similar-graphs-trees,mahmoudg0,Java 8,372,20992000
+28266590,115,1499127600,2147483647,A,1300,dfs and similar-graphs-trees,Sharaf47,Java 8,342,20992000
+28265780,115,1499121156,2147483647,A,1300,dfs and similar-graphs-trees,mostafayousry8,Java 8,372,20992000
+28261650,115,1499103357,2147483647,A,1300,dfs and similar-graphs-trees,helmy,Java 8,372,20992000
+28257353,115,1499090052,2147483647,A,1300,dfs and similar-graphs-trees,programajor,Java 8,248,20582400
+28197859,115,1498938996,2147483647,A,1300,dfs and similar-graphs-trees,homoeconomicus,Java 8,280,20480000
+28175701,115,1498835660,2147483647,A,1300,dfs and similar-graphs-trees,Hamada_,Java 8,248,20582400
+27952588,115,1498077304,2147483647,A,1300,dfs and similar-graphs-trees,psylord,Java 8,530,20992000
+27952577,115,1498077225,2147483647,A,1300,dfs and similar-graphs-trees,psylord,Java 8,466,20992000
+27918524,115,1497940135,2147483647,A,1300,dfs and similar-graphs-trees,bhishma,Java 8,248,0
+27824463,115,1497615030,2147483647,A,1300,dfs and similar-graphs-trees,LeMotherfuckerEAbdel69,Java 8,342,0
+27818897,115,1497596387,2147483647,A,1300,dfs and similar-graphs-trees,shahsaurabh0605,Java 8,372,0
+27767325,115,1497415524,2147483647,A,1300,dfs and similar-graphs-trees,nthoangcute,Java 8,466,0
+27737370,115,1497268913,2147483647,A,1300,dfs and similar-graphs-trees,I_love_AuroraGarden,Java 8,310,0
+27606953,115,1496732131,2147483647,B,1600,greedy-sortings,da_201501181,Java 8,124,6348800
+27529387,115,1496426213,2147483647,A,1300,dfs and similar-graphs-trees,ashcodish,Java 8,310,0
+27523350,115,1496406129,2147483647,A,1300,dfs and similar-graphs-trees,sanketmakani,Java 8,218,0
+27485184,115,1496322434,2147483647,A,1300,dfs and similar-graphs-trees,feeler21,Java 8,340,0
+27458100,115,1496197769,2147483647,A,1300,dfs and similar-graphs-trees,SysOut,Java 8,248,0
+27422337,115,1496026660,2147483647,A,1300,dfs and similar-graphs-trees,prasoonbatham,Java 8,218,0
+27381188,115,1495881372,2147483647,A,1300,dfs and similar-graphs-trees,hardik1997,Java 8,248,0
+27358579,115,1495811452,2147483647,A,1300,dfs and similar-graphs-trees,TheRenaissance,Java 8,248,0
+27356238,115,1495804772,2147483647,A,1300,dfs and similar-graphs-trees,vikashkumarbissu,Java 8,280,0
+27306512,115,1495562193,2147483647,A,1300,dfs and similar-graphs-trees,Kammola,Java 8,248,0
+27214615,115,1495198028,2147483647,A,1300,dfs and similar-graphs-trees,danuwfna,Java 8,342,0
+27204909,115,1495143674,2147483647,A,1300,dfs and similar-graphs-trees,Aemon,Java 8,248,0
+27120540,115,1494848818,2147483647,A,1300,dfs and similar-graphs-trees,prashanthv,Java 8,434,0
+27120352,115,1494848169,2147483647,A,1300,dfs and similar-graphs-trees,prashanthv,Java 8,404,0
+27040026,115,1494529910,2147483647,A,1300,dfs and similar-graphs-trees,MaxHeap,Java 8,498,0
+26998102,115,1494426562,2147483647,A,1300,dfs and similar-graphs-trees,Wakaba,Java 8,248,0
+26996934,115,1494422435,2147483647,A,1300,dfs and similar-graphs-trees,ksceriath,Java 8,218,0
+26991547,115,1494401625,2147483647,A,1300,dfs and similar-graphs-trees,aabdelzaher,Java 8,248,0
+26981773,115,1494354893,2147483647,A,1300,dfs and similar-graphs-trees,OmarRadwan,Java 8,248,0
+26907321,115,1494093246,2147483647,A,1300,dfs and similar-graphs-trees,dwoolley3,Java 8,248,0
+26907054,115,1494092228,2147483647,A,1300,dfs and similar-graphs-trees,dwoolley3,Java 8,218,0
+26884296,115,1493999084,2147483647,A,1300,dfs and similar-graphs-trees,adzo261,Java 8,248,0
+26834578,115,1493901815,2147483647,A,1300,dfs and similar-graphs-trees,abhi1agarwal,Java 8,342,0
+26736727,115,1493422562,2147483647,A,1300,dfs and similar-graphs-trees,aliiitarek,Java 8,248,20582400
+26732586,115,1493401902,2147483647,A,1300,dfs and similar-graphs-trees,-AKram-,Java 8,310,20582400
+26694565,115,1493257564,2147483647,A,1300,dfs and similar-graphs-trees,Bibhuti,Java 8,248,20582400
+26523994,115,1492712342,2147483647,A,1300,dfs and similar-graphs-trees,olya-chuchuk,Java 8,310,20992000
+26511091,115,1492677435,2147483647,A,1300,dfs and similar-graphs-trees,onkarN,Java 8,312,20992000
+26381229,115,1492265513,2147483647,A,1300,dfs and similar-graphs-trees,_bacali,Java 8,310,20992000
+26356102,115,1492171932,2147483647,A,1300,dfs and similar-graphs-trees,chucha,Java 8,248,20582400
+26307659,115,1491944519,2147483647,A,1300,dfs and similar-graphs-trees,kuluso97,Java 8,248,20582400
+26301146,115,1491920417,2147483647,A,1300,dfs and similar-graphs-trees,venky1001,Java 8,280,20582400
+26283412,115,1491856474,2147483647,B,1600,greedy-sortings,roudies,Java 8,124,20582400
+26205537,115,1491607083,2147483647,B,1600,greedy-sortings,faisal_f6,Java 8,202,20992000
+26109541,115,1491257524,2147483647,A,1300,dfs and similar-graphs-trees,spar5h,Java 8,248,20787200
+26058099,115,1491061132,2147483647,A,1300,dfs and similar-graphs-trees,parth_1,Java 8,248,20582400
+26041491,115,1491017171,2147483647,B,1600,greedy-sortings,hemouz,Java 8,171,20582400
+26041438,115,1491016950,2147483647,B,1600,greedy-sortings,TammaTic,Java 8,171,20582400
+25980864,115,1490969682,2147483647,A,1300,dfs and similar-graphs-trees,DemonSong,Java 8,310,20992000
+25979877,115,1490966743,2147483647,A,1300,dfs and similar-graphs-trees,Carson,Java 8,374,20480000
+25965690,115,1490919808,2147483647,A,1300,dfs and similar-graphs-trees,BiIIy,Java 8,340,20992000
+25965649,115,1490919477,2147483647,A,1300,dfs and similar-graphs-trees,BiIIy,Java 8,342,20992000
+25962266,115,1490901519,2147483647,A,1300,dfs and similar-graphs-trees,rd8844,Java 8,404,20992000
+25944659,115,1490860633,2147483647,A,1300,dfs and similar-graphs-trees,Amore_coder,Java 8,280,20582400
+25771686,115,1490356880,2147483647,A,1300,dfs and similar-graphs-trees,shadofren,Java 8,310,20992000
+25688432,115,1490100325,2147483647,A,1300,dfs and similar-graphs-trees,ala99,Java 8,248,20582400
+25668435,115,1490020000,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Morsi,Java 8,310,20582400
+25631201,115,1489877301,2147483647,A,1300,dfs and similar-graphs-trees,Grand,Java 8,248,20582400
+25583572,115,1489781521,2147483647,A,1300,dfs and similar-graphs-trees,noobSaibot,Java 8,374,38809600
+25579405,115,1489771152,2147483647,A,1300,dfs and similar-graphs-trees,chariot,Java 8,248,20377600
+25552778,115,1489676491,2147483647,A,1300,dfs and similar-graphs-trees,Stebaev,Java 8,342,21094400
+25453462,115,1489407774,2147483647,A,1300,dfs and similar-graphs-trees,coderbond007,Java 8,372,22016000
+25453446,115,1489407724,2147483647,A,1300,dfs and similar-graphs-trees,blitu12345,Java 8,372,22016000
+25385734,115,1489168153,2147483647,A,1300,dfs and similar-graphs-trees,r.emp,Java 8,312,20992000
+25198722,115,1488589277,2147483647,A,1300,dfs and similar-graphs-trees,batkhuyag,Java 8,310,20992000
+25180510,115,1488556431,2147483647,A,1300,dfs and similar-graphs-trees,nightcoder_98,Java 8,374,20684800
+25157010,115,1488481232,2147483647,A,1300,dfs and similar-graphs-trees,raiders57,Java 8,248,20582400
+25140252,115,1488431339,2147483647,A,1300,dfs and similar-graphs-trees,JxCode,Java 8,248,20582400
+25071862,115,1488184415,2147483647,A,1300,dfs and similar-graphs-trees,khwajamoiz,Java 8,374,38809600
+25070213,115,1488176703,2147483647,A,1300,dfs and similar-graphs-trees,khwajamoiz,Java 8,342,38912000
+25015862,115,1488034784,2147483647,A,1300,dfs and similar-graphs-trees,mostafa_thabet,Java 8,310,20992000
+24897459,115,1487780066,2147483647,A,1300,dfs and similar-graphs-trees,Arsanuos,Java 8,436,21094400
+24690062,115,1487148335,2147483647,A,1300,dfs and similar-graphs-trees,Abdo_bqt,Java 8,466,21094400
+24670515,115,1487077048,2147483647,A,1300,dfs and similar-graphs-trees,Maulik_Patel,Java 8,312,20582400
+24640144,115,1487035915,2147483647,A,1300,dfs and similar-graphs-trees,Ismail_Ferhi,Java 8,404,20992000
+24640141,115,1487035908,2147483647,A,1300,dfs and similar-graphs-trees,Ismail_Ferhi,Java 8,372,20992000
+24632594,115,1487005009,2147483647,A,1300,dfs and similar-graphs-trees,pihsofnii,Java 8,372,21094400
+24630850,115,1486999619,2147483647,A,1300,dfs and similar-graphs-trees,DavidVictor2004,Java 8,310,20992000
+24619054,115,1486947573,2147483647,A,1300,dfs and similar-graphs-trees,salim.chouai,Java 8,374,20992000
+24618637,115,1486943328,2147483647,A,1300,dfs and similar-graphs-trees,Abdo_bqt,Java 8,310,20992000
+24615988,115,1486928762,2147483647,A,1300,dfs and similar-graphs-trees,s__r,Java 8,374,21094400
+24597322,115,1486846270,2147483647,A,1300,dfs and similar-graphs-trees,bryang0398,Java 8,404,20992000
+24592117,115,1486825111,2147483647,A,1300,dfs and similar-graphs-trees,ayoublabibi,Java 8,716,21196800
+24570557,115,1486733920,2147483647,A,1300,dfs and similar-graphs-trees,ahmedahmed,Java 8,466,20684800
+24556100,115,1486665494,2147483647,A,1300,dfs and similar-graphs-trees,kp_2141,Java 8,342,20992000
+24448173,115,1486287635,2147483647,A,1300,dfs and similar-graphs-trees,soumiaMoufid,Java 8,372,20992000
+24340991,115,1485946254,2147483647,A,1300,dfs and similar-graphs-trees,Prakhar3,Java 8,468,20992000
+24287430,115,1485859246,2147483647,A,1300,dfs and similar-graphs-trees,kunal05,Java 8,374,20787200
+24258657,115,1485743659,2147483647,A,1300,dfs and similar-graphs-trees,ekaanshkhosla,Java 8,280,20377600
+24224152,115,1485604723,2147483647,A,1300,dfs and similar-graphs-trees,Mahakarma,Java 8,404,20582400
+24211846,115,1485556930,2147483647,A,1300,dfs and similar-graphs-trees,MostafaAbdullah,Java 8,372,20582400
+24099924,115,1485289783,2147483647,B,1600,greedy-sortings,pitfall,Java 8,140,20582400
+24072766,115,1485181066,2147483647,A,1300,dfs and similar-graphs-trees,Dawn_Smith,Java 8,374,20582400
+24032375,115,1485095735,2147483647,A,1300,dfs and similar-graphs-trees,AhmedGhazey,Java 8,374,21094400
+23940902,115,1484817120,2147483647,A,1300,dfs and similar-graphs-trees,TheRedLegend,Java 8,404,20684800
+23676835,115,1484034950,2147483647,A,1300,dfs and similar-graphs-trees,Kishan_25,Java 8,436,21196800
+23642784,115,1483864533,2147483647,A,1300,dfs and similar-graphs-trees,naveenkakani,Java 8,340,20684800
+23528049,115,1483505489,2147483647,A,1300,dfs and similar-graphs-trees,bakirov.jaloliddin,Java 8,342,20992000
+23504779,115,1483382493,2147483647,A,1300,dfs and similar-graphs-trees,Hazard10,Java 8,342,21299200
+23347682,115,1482782061,2147483647,A,1300,dfs and similar-graphs-trees,Junorai,Java 8,342,20992000
+23275529,115,1482596628,2147483647,A,1300,dfs and similar-graphs-trees,tabgok44,Java 8,466,20992000
+23272717,115,1482587064,2147483647,A,1300,dfs and similar-graphs-trees,ashwin9686,Java 8,436,20684800
+23229518,115,1482423467,2147483647,A,1300,dfs and similar-graphs-trees,joey161,Java 8,498,21094400
+23206620,115,1482344785,2147483647,A,1300,dfs and similar-graphs-trees,namangkabra,Java 8,436,20992000
+23205250,115,1482339915,2147483647,A,1300,dfs and similar-graphs-trees,ppppppppppppppp,Java 8,372,20582400
+23187830,115,1482269837,2147483647,A,1300,dfs and similar-graphs-trees,G.Mohamed,Java 8,498,20992000
+22890430,115,1481477654,2147483647,A,1300,dfs and similar-graphs-trees,keep.deep,Java 8,248,0
+22864661,115,1481399171,2147483647,A,1300,dfs and similar-graphs-trees,prashanth_rebala,Java 8,312,0
+22832542,115,1481284742,2147483647,A,1300,dfs and similar-graphs-trees,ahmedayman96,Java 8,374,0
+22822340,115,1481235217,2147483647,A,1300,dfs and similar-graphs-trees,aznswimmerboi,Java 8,404,0
+22679676,115,1480777461,2147483647,A,1300,dfs and similar-graphs-trees,aladdin3,Java 8,310,0
+22583710,115,1480360118,2147483647,A,1300,dfs and similar-graphs-trees,odinsonThorin,Java 8,436,0
+22519489,115,1480216216,2147483647,A,1300,dfs and similar-graphs-trees,ForceM,Java 8,404,0
+22501773,115,1480140507,2147483647,A,1300,dfs and similar-graphs-trees,Ferrumit,Java 8,496,0
+22501524,115,1480139197,2147483647,A,1300,dfs and similar-graphs-trees,Ferrumit,Java 8,342,0
+22496030,115,1480100046,2147483647,A,1300,dfs and similar-graphs-trees,Ferrumit,Java 8,560,0
+22379383,115,1479717714,2147483647,B,1600,greedy-sortings,OmarRadwan,Java 8,155,0
+22372295,115,1479671848,2147483647,A,1300,dfs and similar-graphs-trees,akshay.sharma09695,Java 8,342,0
+22323486,115,1479550807,2147483647,A,1300,dfs and similar-graphs-trees,HIT_MAN,Java 8,374,0
+22322678,115,1479548492,2147483647,A,1300,dfs and similar-graphs-trees,HIT_MAN,Java 8,466,16281600
+22317086,115,1479520266,2147483647,A,1300,dfs and similar-graphs-trees,arnavbansal,Java 8,278,0
+22145341,115,1478770334,2147483647,A,1300,dfs and similar-graphs-trees,JavaKurious,Java 8,310,0
+22135883,115,1478712115,2147483647,A,1300,dfs and similar-graphs-trees,LHB92,Java 8,404,0
+22121981,115,1478650466,2147483647,A,1300,dfs and similar-graphs-trees,mug,Java 8,374,0
+22090694,115,1478507594,2147483647,A,1300,dfs and similar-graphs-trees,nowismytime,Java 8,374,0
+22086311,115,1478475267,2147483647,A,1300,dfs and similar-graphs-trees,Dekacc,Java 8,310,0
+22033511,115,1478261081,2147483647,A,1300,dfs and similar-graphs-trees,Carlson,Java 8,280,0
+21891877,115,1477829380,2147483647,A,1300,dfs and similar-graphs-trees,sammina,Java 8,404,0
+21891325,115,1477827261,2147483647,A,1300,dfs and similar-graphs-trees,vvenkai,Java 8,280,0
+21863819,115,1477717727,2147483647,A,1300,dfs and similar-graphs-trees,Smit14,Java 8,404,0
+21863767,115,1477717549,2147483647,A,1300,dfs and similar-graphs-trees,Smit14,Java 8,436,0
+21850076,115,1477665912,2147483647,A,1300,dfs and similar-graphs-trees,iBaskati,Java 8,466,0
+21724755,115,1477253833,2147483647,A,1300,dfs and similar-graphs-trees,pvasilyev,Java 8,404,0
+21696943,115,1477190638,2147483647,A,1300,dfs and similar-graphs-trees,01SDante,Java 8,374,0
+21635454,115,1477035675,2147483647,A,1300,dfs and similar-graphs-trees,pandeyvibhu,Java 8,404,0
+21623374,115,1476981990,2147483647,A,1300,dfs and similar-graphs-trees,GregoDadone,Java 8,404,0
+21582933,115,1476855368,2147483647,A,1300,dfs and similar-graphs-trees,GregoDadone,Java 8,374,20889600
+21582156,115,1476851619,2147483647,A,1300,dfs and similar-graphs-trees,GregoDadone,Java 8,374,20889600
+21520624,115,1476712004,2147483647,A,1300,dfs and similar-graphs-trees,nmc,Java 8,310,20480000
+21412816,115,1476393519,2147483647,A,1300,dfs and similar-graphs-trees,agustincasiva,Java 8,466,20889600
+21392464,115,1476308218,2147483647,A,1300,dfs and similar-graphs-trees,redjohn,Java 8,310,20480000
+21389338,115,1476296087,2147483647,A,1300,dfs and similar-graphs-trees,kovtun_m,Java 8,902,20889600
+21110959,115,1475401692,2147483647,A,1300,dfs and similar-graphs-trees,Gujjar95,Java 8,280,0
+21050496,115,1475267408,2147483647,A,1300,dfs and similar-graphs-trees,MDL,Java 8,342,0
+21006453,115,1475207465,2147483647,A,1300,dfs and similar-graphs-trees,taquila,Java 8,436,16281600
+20978199,115,1475092661,2147483647,A,1300,dfs and similar-graphs-trees,_bibhuty_,Java 8,278,0
+20961874,115,1475047821,2147483647,A,1300,dfs and similar-graphs-trees,ragad_ag,Java 8,374,0
+20940942,115,1474966409,2147483647,A,1300,dfs and similar-graphs-trees,Corvus,Java 8,404,0
+20940864,115,1474966131,2147483647,A,1300,dfs and similar-graphs-trees,Abdullah_Abu_Alrish,Java 8,342,0
+20940774,115,1474965812,2147483647,A,1300,dfs and similar-graphs-trees,Corvus,Java 8,342,0
+20740995,115,1474221038,2147483647,A,1300,dfs and similar-graphs-trees,da_201501181,Java 8,840,0
+20681805,115,1474115255,2147483647,A,1300,dfs and similar-graphs-trees,ic97usop,Java 8,372,0
+20546716,115,1473675224,2147483647,A,1300,dfs and similar-graphs-trees,aboushawareb,Java 8,248,0
+20385901,115,1473005860,2147483647,A,1300,dfs and similar-graphs-trees,91330198,Java 8,404,0
+20343612,115,1472829907,2147483647,A,1300,dfs and similar-graphs-trees,omartarek32,Java 8,592,0
+20278903,115,1472559901,2147483647,A,1300,dfs and similar-graphs-trees,drd93,Java 8,310,0
+20257727,115,1472487354,2147483647,A,1300,dfs and similar-graphs-trees,iamkartik,Java 8,280,0
+20255342,115,1472479656,2147483647,A,1300,dfs and similar-graphs-trees,Calith,Java 8,342,0
+20255244,115,1472479489,2147483647,A,1300,dfs and similar-graphs-trees,Calith,Java 8,280,0
+20212989,115,1472393057,2147483647,A,1300,dfs and similar-graphs-trees,alyonavityuk,Java 8,312,20889600
+20177816,115,1472223420,2147483647,A,1300,dfs and similar-graphs-trees,alexrcoleman,Java 8,280,20582400
+20159511,115,1472143357,2147483647,A,1300,dfs and similar-graphs-trees,TVH,Java 8,340,20889600
+20045334,115,1471867230,2147483647,A,1300,dfs and similar-graphs-trees,Youmna_Elghandoor,Java 8,278,20480000
+20036565,115,1471826406,2147483647,A,1300,dfs and similar-graphs-trees,Kharouba,Java 8,248,20480000
+20036099,115,1471821975,2147483647,A,1300,dfs and similar-graphs-trees,Minaa,Java 8,374,20480000
+19969978,115,1471633785,2147483647,A,1300,dfs and similar-graphs-trees,hossamfawzy96,Java 8,342,21196800
+19924325,115,1471428147,2147483647,A,1300,dfs and similar-graphs-trees,arvindnitb,Java 8,374,38707200
+19914675,115,1471376716,2147483647,A,1300,dfs and similar-graphs-trees,Minaa,Java 8,404,20480000
+19875479,115,1471205250,2147483647,A,1300,dfs and similar-graphs-trees,ankurverma1994,Java 8,218,20787200
+19873714,115,1471197950,2147483647,A,1300,dfs and similar-graphs-trees,karamkontar,Java 8,342,20992000
+19873159,115,1471195842,2147483647,A,1300,dfs and similar-graphs-trees,fraj,Java 8,280,20480000
+19873140,115,1471195751,2147483647,A,1300,dfs and similar-graphs-trees,fraj,Java 8,278,20480000
+19867663,115,1471174968,2147483647,A,1300,dfs and similar-graphs-trees,srinu37,Java 8,312,20889600
+19786589,115,1470927854,2147483647,A,1300,dfs and similar-graphs-trees,joker_22,Java 8,248,20480000
+19766687,115,1470836587,2147483647,A,1300,dfs and similar-graphs-trees,nourhan.gheith,Java 8,248,20480000
+19766357,115,1470835460,2147483647,A,1300,dfs and similar-graphs-trees,finnishfox,Java 8,342,20889600
+19765477,115,1470832572,2147483647,A,1300,dfs and similar-graphs-trees,Youmna_Elghandoor,Java 8,248,20480000
+19765352,115,1470832127,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Morsi,Java 8,342,20889600
+19765141,115,1470831349,2147483647,A,1300,dfs and similar-graphs-trees,Ahmed.Shawky,Java 8,280,20480000
+19765136,115,1470831330,2147483647,A,1300,dfs and similar-graphs-trees,shorim,Java 8,248,20480000
+19760890,115,1470815242,2147483647,A,1300,dfs and similar-graphs-trees,Kharouba,Java 8,310,20480000
+19748463,115,1470751057,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Morsi,Java 8,434,20889600
+19748407,115,1470750871,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Morsi,Java 8,312,20889600
+19572728,115,1470116523,2147483647,A,1300,dfs and similar-graphs-trees,Dr.J,Java 8,560,0
+19481449,115,1469801477,2147483647,A,1300,dfs and similar-graphs-trees,data2792,Java 8,342,0
+19448051,115,1469647678,2147483647,A,1300,dfs and similar-graphs-trees,arrrhh,Java 8,278,0
+19435015,115,1469602078,2147483647,A,1300,dfs and similar-graphs-trees,dwkang,Java 7,280,0
+19428928,115,1469562513,2147483647,A,1300,dfs and similar-graphs-trees,ababababab,Java 8,312,0
+19428919,115,1469562470,2147483647,A,1300,dfs and similar-graphs-trees,ababababab,Java 8,310,0
+19384214,115,1469365332,2147483647,A,1300,dfs and similar-graphs-trees,adel.ensi.2,Java 8,498,0
+19380975,115,1469352524,2147483647,A,1300,dfs and similar-graphs-trees,Ahmad,Java 8,374,0
+19214655,115,1468852366,2147483647,A,1300,dfs and similar-graphs-trees,manikmanshu,Java 7,248,0
+19195456,115,1468783434,2147483647,A,1300,dfs and similar-graphs-trees,slicedclementines,Java 8,310,0
+18989266,115,1468082659,2147483647,A,1300,dfs and similar-graphs-trees,AMNaggar,Java 8,310,0
+18973893,115,1467999819,2147483647,A,1300,dfs and similar-graphs-trees,YNB,Java 8,372,0
+18973825,115,1467999379,2147483647,A,1300,dfs and similar-graphs-trees,YNB,Java 8,374,0
+18968722,115,1467978645,2147483647,A,1300,dfs and similar-graphs-trees,Ron_M,Java 8,436,0
+18903986,115,1467734550,2147483647,B,1600,greedy-sortings,osama.alb96,Java 8,140,0
+18902998,115,1467730556,2147483647,A,1300,dfs and similar-graphs-trees,osama.alb96,Java 8,280,0
+18890689,115,1467676455,2147483647,A,1300,dfs and similar-graphs-trees,dflorezpineda1,Java 7,404,16691200
+18889499,115,1467666818,2147483647,A,1300,dfs and similar-graphs-trees,Meriollina_jucy,Java 8,404,0
+18871568,115,1467570683,2147483647,A,1300,dfs and similar-graphs-trees,bhishma,Java 8,248,0
+18871548,115,1467570594,2147483647,A,1300,dfs and similar-graphs-trees,bhishma,Java 8,404,0
+18641354,115,1466577681,2147483647,A,1300,dfs and similar-graphs-trees,Chitpep,Java 8,372,0
+18639314,115,1466562789,2147483647,A,1300,dfs and similar-graphs-trees,love11mishra,Java 8,280,0
+18636908,115,1466543884,2147483647,A,1300,dfs and similar-graphs-trees,Corvus,Java 8,278,0
+18623319,115,1466475849,2147483647,A,1300,dfs and similar-graphs-trees,dtkmn,Java 8,280,0
+18602236,115,1466356083,2147483647,A,1300,dfs and similar-graphs-trees,raunaak,Java 8,434,0
+18447687,115,1465896734,2147483647,A,1300,dfs and similar-graphs-trees,demonKing,Java 8,248,20582400
+18388333,115,1465727265,2147483647,A,1300,dfs and similar-graphs-trees,vjudge2,Java 7,340,39424000
+18383126,115,1465694337,2147483647,A,1300,dfs and similar-graphs-trees,CLion,Java 8,278,20787200
+18250174,115,1465086553,2147483647,A,1300,dfs and similar-graphs-trees,bertolo,Java 8,498,21913600
+18250161,115,1465086371,2147483647,A,1300,dfs and similar-graphs-trees,bertolo,Java 8,466,21913600
+18250148,115,1465086140,2147483647,A,1300,dfs and similar-graphs-trees,bertolo,Java 8,498,21913600
+18118194,115,1464352642,2147483647,A,1300,dfs and similar-graphs-trees,maratonando2,Java 8,374,20992000
+18110878,115,1464304957,2147483647,A,1300,dfs and similar-graphs-trees,frktry,Java 7,436,39731200
+18038618,115,1463974357,2147483647,A,1300,dfs and similar-graphs-trees,WiNDWAY,Java 8,280,20684800
+18010776,115,1463776459,2147483647,A,1300,dfs and similar-graphs-trees,aste,Java 7,342,39424000
+17949295,115,1463421030,2147483647,A,1300,dfs and similar-graphs-trees,mikcorer,Java 8,310,20582400
+17557983,115,1461874200,2147483647,A,1300,dfs and similar-graphs-trees,sfmunera,Java 7,248,39321600
+17556709,115,1461866242,2147483647,A,1300,dfs and similar-graphs-trees,sfmunera,Java 7,248,39321600
+17556650,115,1461865889,2147483647,A,1300,dfs and similar-graphs-trees,sfmunera,Java 7,280,39321600
+17554884,115,1461858195,2147483647,A,1300,dfs and similar-graphs-trees,vjudge3,Java 8,342,20992000
+17536193,115,1461764384,2147483647,A,1300,dfs and similar-graphs-trees,danuwfna,Java 8,280,20684800
+17521869,115,1461676110,2147483647,A,1300,dfs and similar-graphs-trees,vjudge4,Java 8,622,21606400
+17517237,115,1461646712,2147483647,A,1300,dfs and similar-graphs-trees,vjudge1,Java 8,372,20992000
+17510900,115,1461596007,2147483647,A,1300,dfs and similar-graphs-trees,vjudge5,Java 8,436,20992000
+17506372,115,1461577608,2147483647,A,1300,dfs and similar-graphs-trees,AndreyL,Java 8,312,20992000
+17362281,115,1460889140,2147483647,A,1300,dfs and similar-graphs-trees,deepanshu13,Java 8,248,20684800
+17354456,115,1460840995,2147483647,A,1300,dfs and similar-graphs-trees,meenal5gupta,Java 7,248,0
+17283216,115,1460405724,2147483647,A,1300,dfs and similar-graphs-trees,lebaur,Java 7,310,0
+17256918,115,1460233206,2147483647,A,1300,dfs and similar-graphs-trees,HarshGaglani,Java 7,342,49152000
+17164866,115,1459812840,2147483647,A,1300,dfs and similar-graphs-trees,Calith,Java 7,374,39219200
+17143984,115,1459682073,2147483647,A,1300,dfs and similar-graphs-trees,Parikh,Java 7,248,39116800
+16993943,115,1459184303,2147483647,A,1300,dfs and similar-graphs-trees,ankeshgupta007,Java 7,218,49254400
+16905257,115,1458819945,2147483647,A,1300,dfs and similar-graphs-trees,KOPOBA,Java 8,278,20684800
+16784347,115,1458313837,2147483647,A,1300,dfs and similar-graphs-trees,abdo_shabrawy,Java 8,372,0
+16784260,115,1458313455,2147483647,A,1300,dfs and similar-graphs-trees,abdo_shabrawy,Java 8,404,0
+16749501,115,1458145684,2147483647,A,1300,dfs and similar-graphs-trees,I_Need_Alex_R_Coleman,Java 8,342,0
+16711593,115,1457951301,2147483647,A,1300,dfs and similar-graphs-trees,captainsudoku,Java 8,342,0
+16703432,115,1457897578,2147483647,A,1300,dfs and similar-graphs-trees,flyman3046,Java 8,342,0
+16662309,115,1457735695,2147483647,A,1300,dfs and similar-graphs-trees,MGriisser,Java 8,374,0
+16604373,115,1457452683,2147483647,A,1300,dfs and similar-graphs-trees,zodiacleo,Java 7,248,0
+16604081,115,1457451478,2147483647,A,1300,dfs and similar-graphs-trees,zodiacleo,Java 7,280,0
+16589296,115,1457372372,2147483647,A,1300,dfs and similar-graphs-trees,anuj64,Java 7,280,0
+16518674,115,1457107623,2147483647,A,1300,dfs and similar-graphs-trees,jwozniak,Java 8,372,0
+16324529,115,1456395471,2147483647,A,1300,dfs and similar-graphs-trees,DukeOfYork,Java 7,218,0
+16312765,115,1456331790,2147483647,A,1300,dfs and similar-graphs-trees,stacy992,Java 8,248,0
+16299176,115,1456257377,2147483647,A,1300,dfs and similar-graphs-trees,kubusgol,Java 8,280,0
+16217366,115,1455920298,2147483647,A,1300,dfs and similar-graphs-trees,radwasherif3,Java 8,278,0
+16186805,115,1455828790,2147483647,B,1600,greedy-sortings,tarek.nawara,Java 8,109,0
+16082525,115,1455727325,2147483647,A,1300,dfs and similar-graphs-trees,mariem_kandil,Java 8,218,0
+16067583,115,1455696516,2147483647,A,1300,dfs and similar-graphs-trees,NR_1995,Java 8,280,0
+15904639,115,1454985033,2147483647,A,1300,dfs and similar-graphs-trees,biba96,Java 8,248,0
+15901343,115,1454959111,2147483647,C,2400,math,mkirsche,Java 7,530,10035200
+15899834,115,1454952271,2147483647,A,1300,dfs and similar-graphs-trees,ameniawy,Java 7,218,0
+15822267,115,1454664787,2147483647,A,1300,dfs and similar-graphs-trees,yasmineamr,Java 8,280,0
+15780139,115,1454552521,2147483647,A,1300,dfs and similar-graphs-trees,phillipp,Java 7,280,0
+15778678,115,1454540885,2147483647,A,1300,dfs and similar-graphs-trees,hady1100,Java 8,372,0
+15759884,115,1454457224,2147483647,A,1300,dfs and similar-graphs-trees,mohamedazab,Java 8,342,0
+15642686,115,1454059542,2147483647,A,1300,dfs and similar-graphs-trees,akarthik,Java 7,310,0
+15638857,115,1454038720,2147483647,A,1300,dfs and similar-graphs-trees,alaa_megahed,Java 8,248,0
+15635423,115,1454009785,2147483647,A,1300,dfs and similar-graphs-trees,Omar_Kojak,Java 8,280,0
+15617439,115,1453919083,2147483647,A,1300,dfs and similar-graphs-trees,Hoda_Hisham,Java 8,280,0
+15593053,115,1453811907,2147483647,A,1300,dfs and similar-graphs-trees,vjudge2,Java 8,342,0
+15589838,115,1453799333,2147483647,A,1300,dfs and similar-graphs-trees,vjudge5,Java 7,218,0
+15589566,115,1453798161,2147483647,A,1300,dfs and similar-graphs-trees,vjudge1,Java 7,280,0
+15589543,115,1453798079,2147483647,A,1300,dfs and similar-graphs-trees,Airwaves,Java 8,372,0
+15588785,115,1453794812,2147483647,A,1300,dfs and similar-graphs-trees,vjudge4,Java 8,278,0
+15584443,115,1453769594,2147483647,A,1300,dfs and similar-graphs-trees,user__name,Java 8,310,0
+15583837,115,1453763885,2147483647,A,1300,dfs and similar-graphs-trees,william7hsu,Java 8,248,0
+15583746,115,1453763072,2147483647,A,1300,dfs and similar-graphs-trees,mjung43,Java 8,280,0
+15583686,115,1453762602,2147483647,A,1300,dfs and similar-graphs-trees,zbolmb,Java 8,218,0
+15564159,115,1453675489,2147483647,A,1300,dfs and similar-graphs-trees,KEMDAK,Java 8,248,0
+15556721,115,1453643227,2147483647,A,1300,dfs and similar-graphs-trees,prateek1985,Java 8,404,0
+15541300,115,1453578024,2147483647,A,1300,dfs and similar-graphs-trees,mona_hashem,Java 8,248,0
+15466326,115,1453369763,2147483647,A,1300,dfs and similar-graphs-trees,safarisoul,Java 8,310,0
+15458631,115,1453319431,2147483647,A,1300,dfs and similar-graphs-trees,Imaginary,Java 8,468,0
+15458577,115,1453319120,2147483647,A,1300,dfs and similar-graphs-trees,Imaginary,Java 8,466,0
+15456218,115,1453306872,2147483647,A,1300,dfs and similar-graphs-trees,AhmedSoliman,Java 8,436,0
+15428071,115,1453125905,2147483647,A,1300,dfs and similar-graphs-trees,RAMBO_tejasv,Java 8,248,0
+15409695,115,1452991156,2147483647,A,1300,dfs and similar-graphs-trees,leduck,Java 8,404,0
+15408897,115,1452978506,2147483647,A,1300,dfs and similar-graphs-trees,AhmedSoliman,Java 8,372,0
+15310908,115,1452594664,2147483647,A,1300,dfs and similar-graphs-trees,samizzy,Java 8,340,0
+15310738,115,1452593866,2147483647,A,1300,dfs and similar-graphs-trees,samizzy,Java 8,310,0
+15286190,115,1452506429,2147483647,A,1300,dfs and similar-graphs-trees,kocko,Java 8,342,0
+15189093,115,1451983253,2147483647,A,1300,dfs and similar-graphs-trees,vjudge3,Java 7,592,0
+15164392,115,1451793482,2147483647,A,1300,dfs and similar-graphs-trees,i_Love_Jaiman,Java 8,372,0
+15147469,115,1451648027,2147483647,A,1300,dfs and similar-graphs-trees,shahsaurabh0605,Java 8,248,0
+15145906,115,1451634658,2147483647,A,1300,dfs and similar-graphs-trees,aaditya_thakkar,Java 8,310,0
+14859901,115,1450438584,2147483647,A,1300,dfs and similar-graphs-trees,Aaska,Java 8,280,0
+14629466,115,1449124748,2147483647,A,1300,dfs and similar-graphs-trees,kokadva,Java 8,310,0
+14572289,115,1448895365,2147483647,A,1300,dfs and similar-graphs-trees,omarfarhat97,Java 8,466,0
+14562059,115,1448823331,31,A,1300,dfs and similar-graphs-trees,Bishwas,Java 7,218,0
+14487139,115,1448508955,2147483647,A,1300,dfs and similar-graphs-trees,vjudge2,Java 8,342,0
+14487135,115,1448508919,2147483647,A,1300,dfs and similar-graphs-trees,vjudge3,Java 8,374,0
+14487125,115,1448508778,2147483647,A,1300,dfs and similar-graphs-trees,tobbhuang,Java 8,466,0
+14359154,115,1448023897,2147483647,A,1300,dfs and similar-graphs-trees,manc,Java 7,310,0
+14185442,115,1447164687,2147483647,A,1300,dfs and similar-graphs-trees,anandpatel9998,Java 7,218,9523200
+14184838,115,1447161938,2147483647,A,1300,dfs and similar-graphs-trees,anandpatel9998,Java 7,216,9523200
+13886709,115,1445932374,2147483647,A,1300,dfs and similar-graphs-trees,YounisSalim,Java 7,280,0
+13780779,115,1445458793,2147483647,A,1300,dfs and similar-graphs-trees,analog,Java 8,278,0
+13491183,115,1444299882,2147483647,A,1300,dfs and similar-graphs-trees,AJ_Coder,Java 8,310,0
+13283549,115,1443458171,2147483647,A,1300,dfs and similar-graphs-trees,suggi_d_luffy,Java 7,218,0
+13283469,115,1443457930,2147483647,A,1300,dfs and similar-graphs-trees,suggi_d_luffy,Java 7,248,0
+13237342,115,1443276637,2147483647,A,1300,dfs and similar-graphs-trees,abhishek125,Java 7,248,0
+13194951,115,1443039566,2147483647,A,1300,dfs and similar-graphs-trees,lydxlx,Java 8,248,0
+12954276,115,1441955933,2147483647,A,1300,dfs and similar-graphs-trees,raiym,Java 7,278,0
+12908190,115,1441795819,2147483647,A,1300,dfs and similar-graphs-trees,dpk7jn,Java 7,342,0
+12859658,115,1441504528,2147483647,A,1300,dfs and similar-graphs-trees,thein.khawarzmy,Java 8,372,0
+12829137,115,1441287769,2147483647,A,1300,dfs and similar-graphs-trees,Axe__,Java 8,218,0
+12829037,115,1441287330,2147483647,A,1300,dfs and similar-graphs-trees,Axe__,Java 8,342,0
+12818115,115,1441211792,2147483647,A,1300,dfs and similar-graphs-trees,turingcomplete,Java 7,156,0
+12806073,115,1441129272,2147483647,A,1300,dfs and similar-graphs-trees,mariusz89016,Java 7,218,0
+12735753,115,1440792468,2147483647,A,1300,dfs and similar-graphs-trees,IsAmAre,Java 7,156,0
+12733822,115,1440781231,2147483647,A,1300,dfs and similar-graphs-trees,send_nodes,Java 8,342,0
+12728736,115,1440750675,2147483647,A,1300,dfs and similar-graphs-trees,SleeepWalker,Java 8,248,0
+12686738,115,1440434741,2147483647,A,1300,dfs and similar-graphs-trees,iron-man,Java 7,280,0
+12678536,115,1440376739,2147483647,A,1300,dfs and similar-graphs-trees,AL_DEEB,Java 7,374,13926400
+12677478,115,1440363657,2147483647,A,1300,dfs and similar-graphs-trees,m.khooryani,Java 7,218,0
+12576967,115,1439824002,2147483647,A,1300,dfs and similar-graphs-trees,NikitaMikhaylov,Java 8,248,0
+12576238,115,1439820183,2147483647,A,1300,dfs and similar-graphs-trees,NikitaMikhaylov,Java 8,248,0
+12548445,115,1439646552,2147483647,A,1300,dfs and similar-graphs-trees,issahaddar5,Java 7,184,0
+12466514,115,1439297792,2147483647,A,1300,dfs and similar-graphs-trees,Ahmad_Elsagheer,Java 8,342,0
+12343124,115,1438720825,2147483647,A,1300,dfs and similar-graphs-trees,osvi95,Java 8,312,0
+12343019,115,1438719845,2147483647,A,1300,dfs and similar-graphs-trees,escobardie,Java 8,342,0
+12342909,115,1438718947,2147483647,A,1300,dfs and similar-graphs-trees,SkinHB,Java 8,312,0
+12339779,115,1438699179,2147483647,A,1300,dfs and similar-graphs-trees,SkinHB,Java 8,310,0
+12333141,115,1438663336,2147483647,A,1300,dfs and similar-graphs-trees,ambar003,Java 8,248,0
+12301914,115,1438422723,2147483647,A,1300,dfs and similar-graphs-trees,vaan252,Java 8,340,0
+12301853,115,1438422419,2147483647,A,1300,dfs and similar-graphs-trees,ALoremia,Java 7,218,0
+12301657,115,1438421429,2147483647,A,1300,dfs and similar-graphs-trees,hadrianang,Java 7,156,0
+12291956,115,1438348309,2147483647,A,1300,dfs and similar-graphs-trees,dTanMAn,Java 7,186,0
+12289629,115,1438335129,2147483647,A,1300,dfs and similar-graphs-trees,miguel_palma,Java 8,248,0
+12286033,115,1438315384,2147483647,A,1300,dfs and similar-graphs-trees,Trasier,Java 7,186,0
+12260886,115,1438154321,2147483647,A,1300,dfs and similar-graphs-trees,apdoo,Java 8,342,0
+12026639,115,1436774898,2147483647,A,1300,dfs and similar-graphs-trees,vjudge3,Java 8,312,0
+12026426,115,1436773616,2147483647,A,1300,dfs and similar-graphs-trees,vjudge2,Java 7,186,0
+12026399,115,1436773371,2147483647,A,1300,dfs and similar-graphs-trees,zater,Java 7,184,0
+11686743,115,1434833859,2147483647,A,1300,dfs and similar-graphs-trees,Hartha,Java 7,186,0
+11686585,115,1434832389,2147483647,A,1300,dfs and similar-graphs-trees,Hartha,Java 7,186,0
+11494867,115,1433748304,2147483647,A,1300,dfs and similar-graphs-trees,ankitstone,Java 7,186,0
+11245086,115,1432434336,2147483647,A,1300,dfs and similar-graphs-trees,MedoN11,Java 8,248,0
+11194972,115,1432238449,2147483647,A,1300,dfs and similar-graphs-trees,anushb,Java 8,248,0
+11194933,115,1432238159,2147483647,A,1300,dfs and similar-graphs-trees,pitfall,Java 7,186,204800
+11194866,115,1432237615,2147483647,A,1300,dfs and similar-graphs-trees,anushb,Java 8,248,0
+11171160,115,1432084934,2147483647,A,1300,dfs and similar-graphs-trees,MOrGaaN,Java 8,342,0
+11137482,115,1431968835,2147483647,A,1300,dfs and similar-graphs-trees,Sumeet.Varma,Java 7,186,0
+11082066,115,1431468023,2147483647,A,1300,dfs and similar-graphs-trees,enzo,Java 7,218,0
+11051388,115,1431142266,2147483647,A,1300,dfs and similar-graphs-trees,nguyenmanhphuc,Java 8,342,0
+11006512,115,1430837964,2147483647,A,1300,dfs and similar-graphs-trees,BlueHassan,Java 8,372,0
+10642955,115,1428603333,2147483647,A,1300,dfs and similar-graphs-trees,travm12,Java 8,248,0
+10405286,115,1427065224,2147483647,E,2400,data structures-dp,A.Elahi,Java 8,966,8908800
+10404149,115,1427052796,2147483647,A,1300,dfs and similar-graphs-trees,georgy.ivanov,Java 8,248,0
+10398606,115,1427024760,2147483647,C,2400,math,A.Elahi,Java 8,466,7782400
+10332106,115,1426650733,2147483647,A,1300,dfs and similar-graphs-trees,turmoil,Java 8,248,0
+10301896,115,1426522479,2147483647,A,1300,dfs and similar-graphs-trees,giorgiarchva,Java 8,372,21094400
+10253840,115,1426224949,2147483647,A,1300,dfs and similar-graphs-trees,Bat-Orgil,Java 8,404,0
+10242055,115,1426111624,2147483647,A,1300,dfs and similar-graphs-trees,FARAD,Java 8,312,0
+10228607,115,1426004797,2147483647,A,1300,dfs and similar-graphs-trees,Musin,Java 8,340,0
+10210422,115,1425834441,2147483647,A,1300,dfs and similar-graphs-trees,dr_lev,Java 8,404,0
+10192664,115,1425743814,2147483647,A,1300,dfs and similar-graphs-trees,bero,Java 7,186,0
+10192056,115,1425742250,2147483647,C,2400,math,sweiss,Java 7,280,0
+10191087,115,1425738450,2147483647,B,1600,greedy-sortings,sweiss,Java 7,92,0
+10190139,115,1425733093,2147483647,A,1300,dfs and similar-graphs-trees,sweiss,Java 7,186,0
+10184747,115,1425691836,2147483647,A,1300,dfs and similar-graphs-trees,MariaR,Java 7,248,0
+10053518,115,1425049887,2147483647,A,1300,dfs and similar-graphs-trees,Musin,Java 8,404,0
+10053370,115,1425049176,2147483647,A,1300,dfs and similar-graphs-trees,Musin,Java 8,372,0
+9971235,115,1424708656,2147483647,A,1300,dfs and similar-graphs-trees,shereifhawary,Java 7,2432,189030400
+9960874,115,1424620194,2147483647,A,1300,dfs and similar-graphs-trees,cormacpayne,Java 7,248,0
+9940270,115,1424452763,2147483647,A,1300,dfs and similar-graphs-trees,dthreatz,Java 7,248,0
+9921991,115,1424322623,2147483647,A,1300,dfs and similar-graphs-trees,parse,Java 7,218,0
+9920006,115,1424294063,2147483647,A,1300,dfs and similar-graphs-trees,snow3,Java 7,156,0
+9873627,115,1424105452,2147483647,A,1300,dfs and similar-graphs-trees,stolis,Java 7,218,0
+9867452,115,1424073774,2147483647,A,1300,dfs and similar-graphs-trees,FoxMcWeezer,Java 7,218,0
+9602747,115,1422450894,2147483647,A,1300,dfs and similar-graphs-trees,fnch,Java 8,218,0
+9451988,115,1421518375,2147483647,A,1300,dfs and similar-graphs-trees,AIDOS,Java 7,186,0
+9400604,115,1420941827,2147483647,A,1300,dfs and similar-graphs-trees,Le4o,Java 8,342,0
+9399998,115,1420925542,2147483647,A,1300,dfs and similar-graphs-trees,AStepanov,Java 8,248,0
+9399989,115,1420925281,2147483647,A,1300,dfs and similar-graphs-trees,playfox,Java 8,248,0
+9384022,115,1420700324,2147483647,A,1300,dfs and similar-graphs-trees,AbdelrahmanAsal,Java 6,156,0
+9367128,115,1420475383,2147483647,A,1300,dfs and similar-graphs-trees,samyak.choudhary,Java 8,278,0
+9356787,115,1420332439,2147483647,A,1300,dfs and similar-graphs-trees,.tx,Java 8,312,0
+9349864,115,1420258979,2147483647,A,1300,dfs and similar-graphs-trees,abear888,Java 7,156,0
+9334247,115,1420042115,2147483647,A,1300,dfs and similar-graphs-trees,proahmed,Java 7,248,0
+9334196,115,1420041606,2147483647,A,1300,dfs and similar-graphs-trees,mohamed265,Java 7,218,0
+9160285,115,1418812029,2147483647,A,1300,dfs and similar-graphs-trees,lostintime,Java 7,248,0
+9079296,115,1418286532,2147483647,A,1300,dfs and similar-graphs-trees,M_W,Java 7,278,0
+9022059,115,1418070693,2147483647,A,1300,dfs and similar-graphs-trees,tomash_em,Java 7,186,0
+8996512,115,1417839629,2147483647,A,1300,dfs and similar-graphs-trees,poikniok,Java 8,342,0
+8996506,115,1417839522,2147483647,A,1300,dfs and similar-graphs-trees,poikniok,Java 8,310,0
+8969947,115,1417627604,2147483647,A,1300,dfs and similar-graphs-trees,lucag,Java 7,280,102400
+8953789,115,1417617062,2147483647,A,1300,dfs and similar-graphs-trees,escobardie,Java 7,218,0
+8948033,115,1417577706,2147483647,A,1300,dfs and similar-graphs-trees,SkinHB,Java 8,528,2764800
+8900818,115,1417379959,2147483647,E,2400,data structures-dp,AlexFetisov,Java 8,1840,3174400
+8900544,115,1417375851,3291,C,2400,math,AlexFetisov,Java 8,716,819200
+8900423,115,1417374118,2147483647,A,1300,dfs and similar-graphs-trees,araruna,Java 7,278,0
+8900410,115,1417373981,1421,B,1600,greedy-sortings,AlexFetisov,Java 8,171,0
+8900295,115,1417372800,240,A,1300,dfs and similar-graphs-trees,AlexFetisov,Java 8,342,0
+8885637,115,1417244553,2147483647,A,1300,dfs and similar-graphs-trees,mircea.dobreanu,Java 8,530,2150400
+8885635,115,1417244512,2147483647,A,1300,dfs and similar-graphs-trees,marcose18,Java 6,280,102400
+8884098,115,1417221279,2147483647,A,1300,dfs and similar-graphs-trees,justomiguel,Java 8,592,2867200
+8884019,115,1417219398,2147483647,A,1300,dfs and similar-graphs-trees,justomiguel,Java 8,592,2867200
+8865102,115,1417049031,2147483647,A,1300,dfs and similar-graphs-trees,anderson_lemos,Java 7,278,0
+8857712,115,1416993680,2147483647,A,1300,dfs and similar-graphs-trees,Creator_1493,Java 6,218,0
+8832900,115,1416823047,2147483647,A,1300,dfs and similar-graphs-trees,Letsifer,Java 7,216,0
+8809118,115,1416724292,2147483647,B,1600,greedy-sortings,marcose18,Java 6,93,0
+8804497,115,1416673897,2147483647,A,1300,dfs and similar-graphs-trees,Tahmid_Nips,Java 8,280,0
+8762803,115,1416478517,2147483647,A,1300,dfs and similar-graphs-trees,dremok,Java 8,404,0
+8478420,115,1414666213,2147483647,A,1300,dfs and similar-graphs-trees,dr.madis,Java 6,186,0
+8465369,115,1414555067,2147483647,B,1600,greedy-sortings,alibaba,Java 8,171,0
+8351604,115,1413981009,2147483647,A,1300,dfs and similar-graphs-trees,Fritz_97,Java 8,528,2150400
+8242435,115,1413428250,2147483647,A,1300,dfs and similar-graphs-trees,jeffrey.xiao,Java 6,156,0
+8130357,115,1412684657,2147483647,A,1300,dfs and similar-graphs-trees,VictorMMorant,Java 7,310,307200
+8030107,115,1412023333,2147483647,A,1300,dfs and similar-graphs-trees,dheeraj1995,Java 7,216,0
+7938060,115,1411572915,2147483647,A,1300,dfs and similar-graphs-trees,Success,Java 7,156,0
+7846989,115,1411090252,2147483647,A,1300,dfs and similar-graphs-trees,N1amr,Java 7,218,102400
+7846970,115,1411090062,2147483647,A,1300,dfs and similar-graphs-trees,N1amr,Java 7,248,102400
+7425793,115,1407750859,2147483647,A,1300,dfs and similar-graphs-trees,DeJw,Java 7,218,102400
+7403009,115,1407571395,2147483647,B,1600,greedy-sortings,skyrim,Java 7,93,204800
+7109169,115,1405429092,2147483647,A,1300,dfs and similar-graphs-trees,monsterspy,Java 7,248,0
+7094363,115,1405282255,2147483647,A,1300,dfs and similar-graphs-trees,stevegregg,Java 6,218,0
+7009993,115,1404471735,2147483647,B,1600,greedy-sortings,owenomar,Java 7,77,0
+6986390,115,1404134933,2147483647,A,1300,dfs and similar-graphs-trees,owenomar,Java 7,248,14336000
+6972343,115,1403909950,2147483647,B,1600,greedy-sortings,vanessi,Java 7,109,0
+6957251,115,1403691693,2147483647,A,1300,dfs and similar-graphs-trees,ihkus,Java 7,216,0
+6942797,115,1403447770,2147483647,C,2400,math,Zzyzx,Java 7,310,204800
+6927537,115,1403266952,2147483647,A,1300,dfs and similar-graphs-trees,Satayev,Java 8,622,2457600
+6824174,115,1402028808,2147483647,A,1300,dfs and similar-graphs-trees,mdyan,Java 7,592,102400
+6795558,115,1401875620,2147483647,A,1300,dfs and similar-graphs-trees,cmouli,Java 6,404,102400
+6582684,115,1399726602,2147483647,B,1600,greedy-sortings,rjjfdn,Java 6,93,102400
+6580675,115,1399697643,2147483647,B,1600,greedy-sortings,miguel_palma,Java 7,78,0
+6580667,115,1399697508,2147483647,B,1600,greedy-sortings,Kezeile,Java 7,78,0
+6580560,115,1399694797,2147483647,B,1600,greedy-sortings,yona,Java 7,78,0
+6580352,115,1399688363,2147483647,B,1600,greedy-sortings,Amijan920,Java 7,93,0
+6507081,115,1398790339,2147483647,A,1300,dfs and similar-graphs-trees,ykcland,Java 7,186,0
+6448025,115,1398188470,2147483647,B,1600,greedy-sortings,Arjun_Sub,Java 7,93,102400
+6437996,115,1398140125,2147483647,B,1600,greedy-sortings,ykcland,Java 7,77,0
+5687527,115,1389660310,2147483647,A,1300,dfs and similar-graphs-trees,bli0042,Java 6,186,102400
+5411954,115,1386801554,2147483647,A,1300,dfs and similar-graphs-trees,shuto4ka,Java 7,186,204800
+5180601,115,1384978731,2147483647,B,1600,greedy-sortings,Gaetan,Java 6,248,1126400
+5126796,115,1384620216,2147483647,A,1300,dfs and similar-graphs-trees,Pshenichnoe,Java 7,186,14643200
+5022079,115,1383822386,2147483647,A,1300,dfs and similar-graphs-trees,alibaba,Java 6,248,2048000
+4826974,115,1382210219,2147483647,A,1300,dfs and similar-graphs-trees,iBlackShadow,Java 7,124,0
+4720654,115,1381349901,2147483647,A,1300,dfs and similar-graphs-trees,miguelmaurizio,Java 7,156,0
+4479876,115,1379275301,2147483647,A,1300,dfs and similar-graphs-trees,impiry,Java 6,218,102400
+4402081,115,1378223280,2147483647,A,1300,dfs and similar-graphs-trees,0p9o8i,Java 7,186,0
+4401897,115,1378220435,2147483647,A,1300,dfs and similar-graphs-trees,0p9o8i,Java 7,342,0
+4219386,115,1375503835,2147483647,A,1300,dfs and similar-graphs-trees,Dylan,Java 7,248,204800
+4215875,115,1375426167,4167,A,1300,dfs and similar-graphs-trees,ralekseenkov,Java 7,186,204800
+4215667,115,1375423490,1490,B,1600,greedy-sortings,ralekseenkov,Java 7,186,204800
+4144829,115,1374646961,2147483647,A,1300,dfs and similar-graphs-trees,Quvondiq_Otajonov,Java 7,171,14848000
+4100773,115,1374174020,2147483647,B,1600,greedy-sortings,mkirsche,Java 6,93,0
+4100581,115,1374170602,2147483647,B,1600,greedy-sortings,Kentauros,Java 6,93,0
+4100339,115,1374166783,2147483647,A,1300,dfs and similar-graphs-trees,Kentauros,Java 6,125,102400
+4060006,115,1373725561,2147483647,A,1300,dfs and similar-graphs-trees,akashm,Java 6,358,2457600
+3956246,115,1372088401,2147483647,A,1300,dfs and similar-graphs-trees,MOSJAVA,Java 7,109,0
+3953838,115,1372049423,2147483647,A,1300,dfs and similar-graphs-trees,mkirsche,Java 6,109,102400
+3812010,115,1370104330,2147483647,A,1300,dfs and similar-graphs-trees,luonghoaixuan,Java 7,156,307200
+3767607,115,1369440432,2147483647,A,1300,dfs and similar-graphs-trees,voxl,Java 6,234,102400
+3731479,115,1368820367,2147483647,A,1300,dfs and similar-graphs-trees,HAPKOMAH,Java 7,109,0
+3688877,115,1367890795,2147483647,A,1300,dfs and similar-graphs-trees,santjuan,Java 6,109,102400
+3688864,115,1367890506,2147483647,A,1300,dfs and similar-graphs-trees,DiegoAE,Java 6,140,0
+3656046,115,1367367199,2147483647,B,1600,greedy-sortings,santjuan,Java 6,109,0
+3503025,115,1365677564,2147483647,D,2600,dp-expression parsing,edified,Java 6,1500,0
+3354824,115,1363669347,2147483647,A,1300,dfs and similar-graphs-trees,gkuzler,Java 7,156,204800
+3354267,115,1363648427,2147483647,A,1300,dfs and similar-graphs-trees,coder245,Java 6,93,0
+3316797,115,1363272102,2147483647,A,1300,dfs and similar-graphs-trees,edorundo,Java 7,140,204800
+3229275,115,1362217103,2147483647,A,1300,dfs and similar-graphs-trees,vjudge1,Java 7,156,204800
+3228602,115,1362208429,2147483647,A,1300,dfs and similar-graphs-trees,vjudge2,Java 7,140,102400
+3228455,115,1362205998,2147483647,A,1300,dfs and similar-graphs-trees,vjudge4,Java 7,187,14438400
+3228417,115,1362205353,2147483647,A,1300,dfs and similar-graphs-trees,vjudge3,Java 7,140,0
+3148815,115,1361326480,2147483647,A,1300,dfs and similar-graphs-trees,bagedan,Java 6,156,2457600
+3083973,115,1360334675,2147483647,A,1300,dfs and similar-graphs-trees,Tin_Tin,Java 6,187,102400
+3044995,115,1359726756,2147483647,A,1300,dfs and similar-graphs-trees,mbassem91,Java 6,156,2457600
+3033913,115,1359470362,2147483647,A,1300,dfs and similar-graphs-trees,MiroO,Java 6,93,0
+2679585,115,1354269250,2147483647,A,1300,dfs and similar-graphs-trees,Acket_74,Java 6,187,14950400
+2679558,115,1354268323,2147483647,A,1300,dfs and similar-graphs-trees,Acket_74,Java 6,187,14745600
+2660946,115,1353942150,2147483647,B,1600,greedy-sortings,todo,Java 6,109,0
+2660942,115,1353942146,2147483647,A,1300,dfs and similar-graphs-trees,todo,Java 6,140,102400
+2585677,115,1353250794,2147483647,A,1300,dfs and similar-graphs-trees,xamxam23,Java 6,140,102400
+2528225,115,1352480267,2147483647,A,1300,dfs and similar-graphs-trees,N0D1R,Java 6,156,102400
+2490921,115,1351857790,2147483647,A,1300,dfs and similar-graphs-trees,originalFussywheat,Java 7,140,15155200
+2490023,115,1351847516,1916,A,1300,dfs and similar-graphs-trees,harsh19,Java 7,140,14848000
+2266877,115,1348846617,2147483647,B,1600,greedy-sortings,Azat_Yusupov,Java 6,109,0
+2266872,115,1348846581,2147483647,A,1300,dfs and similar-graphs-trees,Azat_Yusupov,Java 6,218,0
+2212606,115,1348062770,2147483647,B,1600,greedy-sortings,jiangzhijie,Java 7,109,45670400
+2100817,115,1346948360,2147483647,A,1300,dfs and similar-graphs-trees,Rodge,Java 6,140,45260800
+1811823,115,1340245797,2147483647,A,1300,dfs and similar-graphs-trees,goodsky,Java 6,200,43315200
+1644777,115,1335725998,2147483647,A,1300,dfs and similar-graphs-trees,SharpBlade,Java 6,140,43212800
+1633621,115,1335608321,2147483647,B,1600,greedy-sortings,dolphinigle,Java 7,90,44851200
+1400000,115,1332541255,2147483647,A,1300,dfs and similar-graphs-trees,a_bekzat,Java 6,130,43315200
+1235850,115,1330237122,2147483647,B,1600,greedy-sortings,peking2,Java 6,110,45056000
+1235797,115,1330234579,2147483647,A,1300,dfs and similar-graphs-trees,peking2,Java 6,140,45056000
+1183940,115,1329391325,2147483647,C,2400,math,mostafa_fahim,Java 6,860,53760000
+1098085,115,1327085643,2147483647,C,2400,math,fayyaz,Java 6,580,97484800
+1097945,115,1327081336,2147483647,C,2400,math,Ahmed_Salama,Java 6,830,53760000
+997798,115,1325667502,2147483647,B,1600,greedy-sortings,mukku,Java 6,130,43315200
+993573,115,1325402363,2147483647,A,1300,dfs and similar-graphs-trees,upsolving,Java 6,90,43110400
+989276,115,1325049119,2147483647,A,1300,dfs and similar-graphs-trees,ilovepink,Java 6,140,43315200
+971469,115,1324547246,2147483647,C,2400,math,islam-al-aarag,Java 6,520,70246400
+970103,115,1324448656,2147483647,B,1600,greedy-sortings,Navigabimus,Java 6,140,45363200
+970077,115,1324447357,2147483647,A,1300,dfs and similar-graphs-trees,Navigabimus,Java 6,250,58163200
+955758,115,1323909086,2147483647,A,1300,dfs and similar-graphs-trees,stevenkplus,Java 6,170,43212800
+951440,115,1323601226,7502426,C,2400,math,hama-du,Java 6,1910,103424000
+951397,115,1323597802,7499002,B,1600,greedy-sortings,hama-du,Java 6,160,43212800
+951396,115,1323597763,7498963,A,1300,dfs and similar-graphs-trees,hama-du,Java 6,220,58163200
+934024,115,1323245507,7146707,A,1300,dfs and similar-graphs-trees,devilofaboy,Java 6,200,35328000
+906891,115,1322329777,6230977,B,1600,greedy-sortings,Ahmed.Ibrahem,Java 6,140,43212800
+906884,115,1322329620,6230820,A,1300,dfs and similar-graphs-trees,Ahmed.Ibrahem,Java 6,170,43212800
+890045,115,1322163589,6064789,E,2400,data structures-dp,OgieKako,Java 6,1000,58060800
+889730,115,1322152149,6053349,A,1300,dfs and similar-graphs-trees,spark_coder,Java 6,190,43315200
+889625,115,1316100846,2046,C,2400,math,OgieKako,Java 6,500,53452800
+889597,115,1316099982,1182,B,1600,greedy-sortings,OgieKako,Java 6,130,43212800
+889566,115,1316099211,411,A,1300,dfs and similar-graphs-trees,OgieKako,Java 6,130,43212800
+887500,115,1322049085,5950285,B,1600,greedy-sortings,nativea,Java 6,130,35225600
+886938,115,1322031491,5932691,B,1600,greedy-sortings,erreze,Java 6,110,43110400
+884036,115,1321870020,5771220,A,1300,dfs and similar-graphs-trees,nativea,Java 6,280,35328000
+875001,115,1321492072,5393272,A,1300,dfs and similar-graphs-trees,akarin64,Java 6,170,43212800
+864292,115,1321318712,5219912,B,1600,greedy-sortings,islam-al-aarag,Java 6,160,43212800
+864228,115,1321312470,5213670,A,1300,dfs and similar-graphs-trees,islam-al-aarag,Java 6,190,43212800
+838418,115,1320606084,4507284,A,1300,dfs and similar-graphs-trees,Wahba,Java 6,140,43110400
+835374,115,1320446215,4347415,A,1300,dfs and similar-graphs-trees,khanhptnk,Java 6,160,43110400
+835248,115,1320437945,4339145,C,2400,math,DoublePointer,Java 6,780,43212800
+835230,115,1320437052,4338252,B,1600,greedy-sortings,DoublePointer,Java 6,190,43212800
+833693,115,1320385782,4286982,A,1300,dfs and similar-graphs-trees,nickbuelich,Java 6,170,43212800
+833095,115,1320359610,4260810,B,1600,greedy-sortings,Izot_NNSTU,Java 6,160,43212800
+826484,115,1320327045,4228245,A,1300,dfs and similar-graphs-trees,merdin,Java 6,200,43315200
+826362,115,1320323035,4224235,A,1300,dfs and similar-graphs-trees,epizend,Java 6,190,43212800
+824530,115,1320229258,4130458,A,1300,dfs and similar-graphs-trees,wackloner,Java 6,140,43110400
+821642,115,1320058240,3959440,A,1300,dfs and similar-graphs-trees,phantom11,Java 6,220,35430400
+820174,115,1320001754,3902954,A,1300,dfs and similar-graphs-trees,Izot_NNSTU,Java 6,170,35328000
+813833,115,1319867040,3768240,A,1300,dfs and similar-graphs-trees,mancgupta,Java 6,130,35225600
+813392,115,1319837962,3739162,A,1300,dfs and similar-graphs-trees,tux1986,Java 6,160,35328000
+795908,115,1319581240,3482440,A,1300,dfs and similar-graphs-trees,DoublePointer,Java 6,160,43212800
+771857,115,1318916541,2817741,E,2400,data structures-dp,uwi,Java 6,1200,63078400
+769108,115,1316102422,3622,C,2400,math,Sammarize,Java 6,300,36966400
+769097,115,1316099977,1177,B,1600,greedy-sortings,Sammarize,Java 6,140,35328000
+769088,115,1316099052,252,A,1300,dfs and similar-graphs-trees,Sammarize,Java 6,170,35430400
+756064,115,1318363283,2264483,A,1300,dfs and similar-graphs-trees,jorge_aravn,Java 6,170,35430400
+754084,115,1318246485,2147685,A,1300,dfs and similar-graphs-trees,Sinner,Java 6,130,35225600
+752823,115,1318163628,2064828,A,1300,dfs and similar-graphs-trees,b.ars,Java 6,160,35328000
+740310,115,1317976267,1877467,A,1300,dfs and similar-graphs-trees,rysiek,Java 6,170,35430400
+737915,115,1317793486,1694686,C,2400,math,clingsz,Java 6,890,45772800
+737876,115,1317790651,1691851,B,1600,greedy-sortings,clingsz,Java 6,140,35328000
+737778,115,1316099420,620,A,1300,dfs and similar-graphs-trees,clingsz,Java 6,160,35430400
+736401,115,1317679425,1580625,A,1300,dfs and similar-graphs-trees,-messi-,Java 6,130,35635200
+734982,115,1317584431,1485631,C,2400,math,Vareni4,Java 6,1690,66355200
+734810,115,1317573912,1475112,B,1600,greedy-sortings,Vareni4,Java 6,140,35328000
+734800,115,1317573336,1474536,A,1300,dfs and similar-graphs-trees,Vareni4,Java 6,160,35328000
+734742,115,1317570095,1471295,B,1600,greedy-sortings,I-juice,Java 6,110,35225600
+733897,115,1317507682,1408882,A,1300,dfs and similar-graphs-trees,lightning_31,Java 6,160,35328000
+732583,115,1317446415,1347615,A,1300,dfs and similar-graphs-trees,DayMusicDies,Java 6,230,35328000
+731471,115,1317377700,1278900,A,1300,dfs and similar-graphs-trees,rudolf,Java 6,190,35328000
+729056,115,1317229297,1130497,A,1300,dfs and similar-graphs-trees,zulkan,Java 6,130,35225600
+728974,115,1317226550,1127750,A,1300,dfs and similar-graphs-trees,zulkan,Java 6,160,35328000
+726778,115,1317113844,1015044,C,2400,math,lijunle,Java 6,780,35328000
+724777,115,1316996862,898062,B,1600,greedy-sortings,kiko91_7,Java 6,110,35225600
+723627,115,1316938064,839264,A,1300,dfs and similar-graphs-trees,Andreos,Java 6,190,35430400
+723624,115,1316937932,839132,B,1600,greedy-sortings,Andreos,Java 6,130,35328000
+722413,115,1316867839,769039,A,1300,dfs and similar-graphs-trees,lyc90,Java 6,170,35328000
+722412,115,1316867818,769018,A,1300,dfs and similar-graphs-trees,vjudge1,Java 6,160,35328000
+722410,115,1316867721,768921,A,1300,dfs and similar-graphs-trees,vjudge1,Java 6,170,35328000
+721463,115,1316843554,744754,A,1300,dfs and similar-graphs-trees,leafpicker,Java 6,160,35328000
+713447,115,1316778489,679689,B,1600,greedy-sortings,caustique,Java 6,130,35225600
+711581,115,1316677103,578303,A,1300,dfs and similar-graphs-trees,altais,Java 6,130,35328000
+709044,115,1316464363,365563,A,1300,dfs and similar-graphs-trees,Matumba,Java 6,160,35328000
+708454,115,1316430438,331638,A,1300,dfs and similar-graphs-trees,kiko91_7,Java 6,170,35328000
+707726,115,1316099123,323,A,1300,dfs and similar-graphs-trees,chavit,Java 6,130,35225600
+706681,115,1316280801,182001,A,1300,dfs and similar-graphs-trees,ulugbek89s,Java 6,170,35328000
+706064,115,1316243886,145086,A,1300,dfs and similar-graphs-trees,mukku,Java 6,170,35328000
+705926,115,1316231756,132956,C,2400,math,anhdt,Java 6,310,35328000
+705747,115,1316205112,106312,C,2400,math,pius_88,Java 6,340,50483200
+705691,115,1316199649,100849,B,1600,greedy-sortings,calculus.saransh,Java 6,130,35328000
+705683,115,1316199364,100564,B,1600,greedy-sortings,calculus.saransh,Java 6,140,35328000
+705669,115,1316198725,99925,B,1600,greedy-sortings,taras.klaskovsky,Java 6,130,35737600
+705661,115,1316198111,99311,C,2400,math,piotr.kukla,Java 6,230,35225600
+705650,115,1316197522,98722,A,1300,dfs and similar-graphs-trees,taras.klaskovsky,Java 6,160,35840000
+704858,115,1316176415,77615,C,2400,math,dimka,Java 6,1700,66252800
+704772,115,1316174509,75709,A,1300,dfs and similar-graphs-trees,ahmad_mamdouh,Java 6,130,35225600
+704771,115,1316174490,75690,B,1600,greedy-sortings,ahmad_mamdouh,Java 6,110,35225600
+704724,115,1316173734,74934,B,1600,greedy-sortings,piotr.kukla,Java 6,130,35225600
+704722,115,1316173699,74899,A,1300,dfs and similar-graphs-trees,piotr.kukla,Java 6,130,35225600
+704573,115,1316099482,682,B,1600,greedy-sortings,shevchen,Java 6,140,35328000
+704548,115,1316098972,172,A,1300,dfs and similar-graphs-trees,shevchen,Java 6,170,35328000
+704526,115,1316169285,70485,B,1600,greedy-sortings,cyon,Java 6,140,35328000
+704513,115,1316101422,2622,B,1600,greedy-sortings,piotr.kukla,Java 6,130,35225600
+704442,115,1316099622,822,A,1300,dfs and similar-graphs-trees,piotr.kukla,Java 6,130,35225600
+704389,115,1316165294,66494,A,1300,dfs and similar-graphs-trees,cyon,Java 6,160,35328000
+704273,115,1316160168,61368,B,1600,greedy-sortings,dimka,Java 6,160,35328000
+704132,115,1316154566,55766,A,1300,dfs and similar-graphs-trees,Eugene_nik,Java 6,130,35635200
+703880,115,1316144958,46158,B,1600,greedy-sortings,mostafa_fahim,Java 6,110,35225600
+703841,115,1316143479,44679,C,2400,math,Omar.Darwish,Java 6,340,45568000
+703836,115,1316143328,44528,A,1300,dfs and similar-graphs-trees,mostafa_fahim,Java 6,170,35430400
+703513,115,1316103934,5134,B,1600,greedy-sortings,TheRaven,Java 6,160,35532800
+703425,115,1316100136,1336,A,1300,dfs and similar-graphs-trees,TheRaven,Java 6,170,35430400
+703382,115,1316125906,27106,B,1600,greedy-sortings,uwi,Java 6,160,35328000
+703144,115,1316118030,19230,B,1600,greedy-sortings,Nox,Java 6,130,36249600
+703143,115,1316118012,19212,A,1300,dfs and similar-graphs-trees,Nox,Java 6,130,35328000
+703117,115,1316117371,18571,A,1300,dfs and similar-graphs-trees,Aydar,Java 6,110,35840000
+703036,115,1316115592,16792,C,2400,math,uwi,Java 6,230,35328000
+703026,115,1316115399,16599,C,2400,math,uwi,Java 6,280,35328000
+703018,115,1316115335,16535,C,2400,math,uwi,Java 6,300,35328000
+703015,115,1316115179,16379,C,2400,math,uwi,Java 6,310,35328000
+703005,115,1316114883,16083,C,2400,math,uwi,Java 6,310,35328000
+702721,115,1316112019,13219,A,1300,dfs and similar-graphs-trees,calculus.saransh,Java 6,110,35430400
+702662,115,1316111753,12953,C,2400,math,S.Yesipenko,Java 6,560,90828800
+702625,115,1316111536,12736,B,1600,greedy-sortings,calculus.saransh,Java 6,130,35430400
+702547,115,1316111233,12433,A,1300,dfs and similar-graphs-trees,dalex,Java 6,140,35840000
+702476,115,1316110722,11922,A,1300,dfs and similar-graphs-trees,Omar.Darwish,Java 6,130,35225600
+702441,115,1316110617,11817,C,2400,math,Di735,Java 6,470,72089600
+702249,115,1316105934,7134,E,2400,data structures-dp,Egor,Java 6,950,68505600
+701538,115,1316104835,6035,B,1600,greedy-sortings,_jte_,Java 6,130,35430400
+701337,115,1316104486,5686,C,2400,math,Petr,Java 6,420,71884800
+701331,115,1316104470,5670,C,2400,math,SergeyLazarev,Java 6,440,35430400
+701057,115,1316104039,5239,D,2600,dp-expression parsing,Egor,Java 6,1230,35328000
+700986,115,1316103917,5117,A,1300,dfs and similar-graphs-trees,golyj_na_stole,Java 6,130,35328000
+700824,115,1316103657,4857,E,2400,data structures-dp,Petr,Java 6,970,49152000
+700777,115,1316103578,4778,A,1300,dfs and similar-graphs-trees,ferr,Java 6,140,35532800
+700734,115,1316103510,4710,D,2600,dp-expression parsing,ivan.popelyshev,Java 6,160,49664000
+700708,115,1316103461,4661,E,2400,data structures-dp,ivan.metelsky,Java 6,950,90828800
+700631,115,1316103348,4548,B,1600,greedy-sortings,hua,Java 6,160,35532800
+700460,115,1316103097,4297,B,1600,greedy-sortings,todo,Java 6,160,35328000
+700127,115,1316102598,3798,D,2600,dp-expression parsing,Petr,Java 6,1450,35328000
+700070,115,1316102512,3712,B,1600,greedy-sortings,Darko,Java 6,140,35328000
+699795,115,1316102136,3336,A,1300,dfs and similar-graphs-trees,wistful23,Java 6,130,35225600
+699539,115,1316101838,3038,B,1600,greedy-sortings,pius_88,Java 6,130,35225600
+699388,115,1316101673,2873,A,1300,dfs and similar-graphs-trees,hua,Java 6,190,35430400
+699265,115,1316101526,2726,A,1300,dfs and similar-graphs-trees,xiaowuc1,Java 6,140,35225600
+699111,115,1316101383,2583,B,1600,greedy-sortings,anhdt,Java 6,130,35328000
+699078,115,1316101344,2544,B,1600,greedy-sortings,uwi,Java 6,170,35430400
+699020,115,1316101282,2482,B,1600,greedy-sortings,Hadi_Asiaie,Java 6,140,35225600
+699012,115,1316101267,2467,C,2400,math,I-juice,Java 6,360,35328000
+698994,115,1316101256,2456,B,1600,greedy-sortings,wistful23,Java 6,130,35328000
+698957,115,1316101213,2413,B,1600,greedy-sortings,Ahmed_Salama,Java 6,160,35328000
+698821,115,1316101081,2281,B,1600,greedy-sortings,S.Yesipenko,Java 6,130,35328000
+698645,115,1316100915,2115,C,2400,math,ivan.metelsky,Java 6,270,35328000
+698586,115,1316100866,2066,B,1600,greedy-sortings,shilov,Java 6,110,35225600
+698445,115,1316100736,1936,B,1600,greedy-sortings,sayuan,Java 6,140,35328000
+698121,115,1316100466,1666,B,1600,greedy-sortings,Jokser,Java 6,130,35328000
+698006,115,1316100371,1571,B,1600,greedy-sortings,Sergey.Bankevich,Java 6,140,35532800
+697998,115,1316100364,1564,C,2400,math,ivan.popelyshev,Java 6,330,35430400
+697917,115,1316100294,1494,B,1600,greedy-sortings,I-juice,Java 6,130,35328000
+697842,115,1316100231,1431,A,1300,dfs and similar-graphs-trees,_jte_,Java 6,130,35430400
+697798,115,1316100197,1397,C,2400,math,Egor,Java 6,170,35225600
+697716,115,1316100140,1340,B,1600,greedy-sortings,yarrr,Java 6,130,35225600
+697256,115,1316099785,985,B,1600,greedy-sortings,ivan.metelsky,Java 6,160,35328000
+697229,115,1316099759,959,A,1300,dfs and similar-graphs-trees,uwi,Java 6,170,35430400
+697214,115,1316099746,946,B,1600,greedy-sortings,niyaznigmatul,Java 6,130,35328000
+697206,115,1316099739,939,B,1600,greedy-sortings,Egor,Java 6,110,35225600
+697184,115,1316099725,925,A,1300,dfs and similar-graphs-trees,Hadi_Asiaie,Java 6,130,35225600
+697170,115,1316099713,913,A,1300,dfs and similar-graphs-trees,pius_88,Java 6,130,35225600
+696991,115,1316099577,777,A,1300,dfs and similar-graphs-trees,Ahmed_Salama,Java 6,160,35430400
+696867,115,1316099498,698,A,1300,dfs and similar-graphs-trees,SergeyLazarev,Java 6,130,35225600
+696848,115,1316099482,682,A,1300,dfs and similar-graphs-trees,Darko,Java 6,220,35430400
+696827,115,1316099465,665,A,1300,dfs and similar-graphs-trees,dimka,Java 6,160,35430400
+696820,115,1316099459,659,A,1300,dfs and similar-graphs-trees,dmitry.uvarov,Java 6,130,35430400
+696786,115,1316099439,639,A,1300,dfs and similar-graphs-trees,dalex,Java 6,140,35840000
+696762,115,1316099426,626,A,1300,dfs and similar-graphs-trees,anhdt,Java 6,130,35328000
+696760,115,1316099425,625,A,1300,dfs and similar-graphs-trees,todo,Java 6,170,35430400
+696661,115,1316099359,559,B,1600,greedy-sortings,Petr,Java 6,130,35225600
+696579,115,1316099318,518,A,1300,dfs and similar-graphs-trees,Jokser,Java 6,130,35430400
+696493,115,1316099281,481,A,1300,dfs and similar-graphs-trees,S.Yesipenko,Java 6,130,35430400
+696486,115,1316099278,478,A,1300,dfs and similar-graphs-trees,sayuan,Java 6,160,35430400
+696439,115,1316099250,450,A,1300,dfs and similar-graphs-trees,yarrr,Java 6,160,35328000
+696338,115,1316099207,407,A,1300,dfs and similar-graphs-trees,Di735,Java 6,130,35225600
+696334,115,1316099206,406,A,1300,dfs and similar-graphs-trees,Egor,Java 6,130,35225600
+696323,115,1316099202,402,A,1300,dfs and similar-graphs-trees,shilov,Java 6,130,35328000
+696297,115,1316099190,390,A,1300,dfs and similar-graphs-trees,I-juice,Java 6,130,35225600
+696290,115,1316099188,388,A,1300,dfs and similar-graphs-trees,sroyal,Java 6,170,35430400
+696067,115,1316099099,299,A,1300,dfs and similar-graphs-trees,ivan.popelyshev,Java 6,170,35430400
+696058,115,1316099094,294,A,1300,dfs and similar-graphs-trees,Sergey.Bankevich,Java 6,170,35635200
+695898,115,1316099032,232,A,1300,dfs and similar-graphs-trees,ivan.metelsky,Java 6,170,35430400
+695878,115,1316099023,223,A,1300,dfs and similar-graphs-trees,Petr,Java 6,130,35328000
+695866,115,1316099019,219,A,1300,dfs and similar-graphs-trees,niyaznigmatul,Java 6,270,35328000

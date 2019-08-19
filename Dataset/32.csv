@@ -1,0 +1,1075 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57839169,32,1564216840,2147483647,B,900,expression parsing-implementation,Avi_2506,Java 8,218,0
+57804383,32,1564151630,2147483647,B,900,expression parsing-implementation,mudra0103,Java 8,280,0
+57475621,32,1563743853,2147483647,B,900,expression parsing-implementation,adhammorsy1,Java 8,280,0
+57469607,32,1563729943,2147483647,B,900,expression parsing-implementation,darwin0,Java 8,218,0
+57173520,32,1563337901,2147483647,A,800,brute force,AllenYe,Java 8,560,10035200
+56867679,32,1562905431,2147483647,A,800,brute force,S_Adik_K,Java 8,280,0
+56782900,32,1562742268,2147483647,B,900,expression parsing-implementation,captain_slow07,Java 8,310,0
+56718758,32,1562600678,2147483647,B,900,expression parsing-implementation,insane_28,Java 8,218,0
+56489084,32,1562184826,2147483647,B,900,expression parsing-implementation,Joao_Ribeiro,Java 8,310,0
+56430780,32,1562068616,2147483647,B,900,expression parsing-implementation,Munnu,Java 8,280,0
+56357431,32,1561916439,2147483647,B,900,expression parsing-implementation,beykus,Java 8,248,0
+56356835,32,1561915394,2147483647,B,900,expression parsing-implementation,mennafadali,Java 8,248,0
+56233493,32,1561734644,2147483647,B,900,expression parsing-implementation,vedantdalal,Java 8,248,0
+56002468,32,1561383726,2147483647,B,900,expression parsing-implementation,rairay,Java 8,280,0
+55799242,32,1560969158,2147483647,A,800,brute force,eslam.221,Java 8,310,0
+55691200,32,1560795492,2147483647,B,900,expression parsing-implementation,rizoo1999,Java 8,248,0
+55672082,32,1560759217,2147483647,B,900,expression parsing-implementation,Mario007,Java 8,248,0
+55592383,32,1560604115,2147483647,B,900,expression parsing-implementation,adeepgarg13,Java 8,248,0
+55582673,32,1560584380,2147483647,B,900,expression parsing-implementation,white_negro,Java 8,248,0
+55503748,32,1560357276,2147483647,B,900,expression parsing-implementation,mukkuu,Java 8,248,0
+55379873,32,1560109423,2147483647,B,900,expression parsing-implementation,OmarOsaleh,Java 8,278,0
+55329387,32,1560074611,2147483647,A,800,brute force,faishaltareque,Java 8,310,0
+55329370,32,1560074572,2147483647,A,800,brute force,faishalshohan,Java 8,310,0
+55118190,32,1559727758,2147483647,B,900,expression parsing-implementation,GreatWhite,Java 8,248,0
+55089314,32,1559656276,2147483647,B,900,expression parsing-implementation,Hadeerelashhab,Java 8,218,0
+54957469,32,1559437801,2147483647,C,1700,math,nullptr2,Java 8,248,0
+54897096,32,1559360651,2147483647,B,900,expression parsing-implementation,hctep,Java 8,280,0
+54755143,32,1559054339,2147483647,A,800,brute force,hctep,Java 8,310,0
+54733857,32,1559013485,2147483647,B,900,expression parsing-implementation,kuxha,Java 8,218,0
+54661085,32,1558867920,2147483647,B,900,expression parsing-implementation,MoHaMe_KhaLed,Java 8,248,0
+54633487,32,1558798864,2147483647,A,800,brute force,valealiaga2121,Java 8,310,0
+54632460,32,1558796926,2147483647,A,800,brute force,alejandra_chirinos,Java 8,310,0
+54632408,32,1558796831,2147483647,A,800,brute force,kevin.to,Java 8,312,0
+54632250,32,1558796517,2147483647,A,800,brute force,NachinV,Java 8,310,0
+54632220,32,1558796468,2147483647,A,800,brute force,Qwerty4321,Java 8,310,0
+54631159,32,1558794677,2147483647,A,800,brute force,arceus6666,Java 8,310,0
+54630958,32,1558794335,2147483647,A,800,brute force,SamuelHC,Java 8,280,0
+54630289,32,1558793207,2147483647,A,800,brute force,Rodriviladegut,Java 8,310,0
+54629946,32,1558792677,2147483647,A,800,brute force,Andre2,Java 8,310,0
+54537905,32,1558645871,2147483647,B,900,expression parsing-implementation,Shuvo1997,Java 8,280,0
+54531826,32,1558632506,2147483647,B,900,expression parsing-implementation,KingAdam,Java 8,218,0
+54465929,32,1558482071,2147483647,B,900,expression parsing-implementation,Noora.Sweis,Java 8,248,0
+54418153,32,1558360272,2147483647,B,900,expression parsing-implementation,raopriyankasingh94,Java 8,280,0
+54265464,32,1558071521,2147483647,B,900,expression parsing-implementation,vjudge3,Java 8,280,0
+54265416,32,1558071393,2147483647,B,900,expression parsing-implementation,vjudge4,Java 8,280,0
+54084278,32,1557814718,2147483647,B,900,expression parsing-implementation,pulkitaggarwal65,Java 8,280,0
+53868645,32,1557297305,2147483647,B,900,expression parsing-implementation,dhaval7,Java 8,278,0
+53860860,32,1557259165,2147483647,A,800,brute force,minhajcse,Java 8,280,0
+53795987,32,1557069612,2147483647,B,900,expression parsing-implementation,osama.bmaq,Java 8,278,0
+53792251,32,1557063021,2147483647,B,900,expression parsing-implementation,Ikari_stream,Java 8,218,0
+53731814,32,1556955367,2147483647,B,900,expression parsing-implementation,minhajcse,Java 8,248,0
+53704019,32,1556885734,2147483647,B,900,expression parsing-implementation,amitujha101,Java 8,248,0
+53542053,32,1556609252,2147483647,B,900,expression parsing-implementation,Lovinix,Java 8,218,0
+53368085,32,1556297910,2147483647,B,900,expression parsing-implementation,sameer17,Java 8,218,0
+53323426,32,1556287680,2147483647,B,900,expression parsing-implementation,rami_s,Java 8,248,0
+53290169,32,1556205647,2147483647,B,900,expression parsing-implementation,alivcor,Java 8,248,0
+53070862,32,1555789186,2147483647,B,900,expression parsing-implementation,Mahmoud.Osama,Java 8,248,0
+53054530,32,1555777804,2147483647,C,1700,math,Verdusk,Java 8,248,0
+53026679,32,1555702662,2147483647,B,900,expression parsing-implementation,aman.it.kiet,Java 8,248,0
+53025912,32,1555700958,2147483647,A,800,brute force,MikeFaraday,Java 8,248,0
+52625064,32,1555036498,2147483647,B,900,expression parsing-implementation,goalboy,Java 8,248,0
+52619684,32,1555015086,2147483647,B,900,expression parsing-implementation,candy154,Java 8,218,0
+52517861,32,1554792769,2147483647,B,900,expression parsing-implementation,Ahmed_Abdou,Java 8,278,0
+52484530,32,1554710815,2147483647,B,900,expression parsing-implementation,vijay_99,Java 8,248,0
+52445603,32,1554623661,2147483647,B,900,expression parsing-implementation,Zeroxite,Java 8,280,0
+52294149,32,1554354031,2147483647,B,900,expression parsing-implementation,NomadicCrumpet,Java 8,248,0
+52277008,32,1554304325,2147483647,B,900,expression parsing-implementation,Muhamed_Srouji,Java 8,218,0
+52132930,32,1554071366,2147483647,B,900,expression parsing-implementation,0Maher0,Java 8,280,0
+52132922,32,1554071320,2147483647,B,900,expression parsing-implementation,qweqwe12356,Java 8,280,0
+52065768,32,1554009513,2147483647,B,900,expression parsing-implementation,sreeprasad,Java 8,248,0
+51980831,32,1553876089,2147483647,C,1700,math,MinosTheKing,Java 8,280,0
+51979714,32,1553874403,2147483647,B,900,expression parsing-implementation,MinosTheKing,Java 8,280,0
+51979368,32,1553873895,2147483647,A,800,brute force,MinosTheKing,Java 8,310,0
+51880765,32,1553645175,2147483647,B,900,expression parsing-implementation,Sshovon,Java 8,280,0
+51880603,32,1553644207,2147483647,B,900,expression parsing-implementation,Atharvar,Java 8,280,0
+51844667,32,1553570065,2147483647,C,1700,math,emmajs16,Java 8,280,0
+51836548,32,1553539208,2147483647,C,1700,math,jlewis6,Java 8,218,0
+51672583,32,1553244922,2147483647,B,900,expression parsing-implementation,Tejanya,Java 8,280,0
+51572555,32,1553083410,2147483647,B,900,expression parsing-implementation,deepz,Java 8,248,0
+51423365,32,1552844815,2147483647,B,900,expression parsing-implementation,Yahia_mostafa,Java 8,310,0
+51232307,32,1552409656,2147483647,B,900,expression parsing-implementation,Pradeep_123,Java 8,280,6451200
+51143744,32,1552252888,2147483647,B,900,expression parsing-implementation,BerserkVl,Java 8,278,0
+51116797,32,1552202535,2147483647,B,900,expression parsing-implementation,javatwoblog,Java 8,218,0
+51092621,32,1552143384,2147483647,B,900,expression parsing-implementation,abhi.raj21jan,Java 8,218,0
+50998395,32,1552023023,2147483647,B,900,expression parsing-implementation,khiladir,Java 8,280,0
+50981257,32,1551981407,2147483647,B,900,expression parsing-implementation,satyamsammi,Java 8,280,0
+50931411,32,1551967624,2147483647,B,900,expression parsing-implementation,vjudge1,Java 8,248,0
+50576485,32,1551291744,2147483647,B,900,expression parsing-implementation,guntasss,Java 8,280,0
+50576436,32,1551291676,2147483647,B,900,expression parsing-implementation,guntasss,Java 8,248,0
+50576386,32,1551291570,2147483647,B,900,expression parsing-implementation,guntasss,Java 8,280,0
+50501814,32,1551116140,2147483647,B,900,expression parsing-implementation,amankhanna,Java 8,280,0
+50477408,32,1551077613,2147483647,B,900,expression parsing-implementation,GiantTornado,Java 8,248,0
+50477319,32,1551077421,2147483647,B,900,expression parsing-implementation,GiantTornado,Java 8,248,0
+50430353,32,1551015761,2147483647,B,900,expression parsing-implementation,rupeshrastogi594,Java 8,216,0
+50422355,32,1551001452,2147483647,B,900,expression parsing-implementation,OswaldM,Java 8,280,0
+50305506,32,1550814798,2147483647,B,900,expression parsing-implementation,darshansampathkumar,Java 8,310,0
+50282011,32,1550754480,2147483647,B,900,expression parsing-implementation,newheathen,Java 8,278,0
+50216066,32,1550637609,2147483647,A,800,brute force,newheathen,Java 8,340,0
+50091267,32,1550485851,2147483647,A,800,brute force,ShadowGirl,Java 8,342,0
+49993396,32,1550324968,2147483647,A,800,brute force,viratK,Java 8,280,0
+49929194,32,1550199255,2147483647,B,900,expression parsing-implementation,Quan2202,Java 8,280,0
+49885276,32,1550090703,2147483647,B,900,expression parsing-implementation,kryptonite93,Java 8,218,0
+49876081,32,1550073369,2147483647,B,900,expression parsing-implementation,darshan287,Java 8,248,0
+49839593,32,1549993476,2147483647,B,900,expression parsing-implementation,maxanuj24,Java 8,280,0
+49544864,32,1549487379,2147483647,B,900,expression parsing-implementation,ExusN,Java 8,248,0
+49539642,32,1549475135,2147483647,B,900,expression parsing-implementation,41ic3,Java 8,278,0
+49466249,32,1549293095,2147483647,B,900,expression parsing-implementation,pranaymalhan,Java 8,248,0
+49434703,32,1549217916,2147483647,A,800,brute force,Keti13,Java 8,280,0
+49386264,32,1549177484,2147483647,B,900,expression parsing-implementation,Isha999,Java 8,248,0
+49281589,32,1548951945,2147483647,A,800,brute force,Mohammad_Hasan,Java 8,342,21094400
+49197884,32,1548846990,2147483647,B,900,expression parsing-implementation,ridamnagar11,Java 8,280,0
+49111282,32,1548687771,2147483647,B,900,expression parsing-implementation,AkashGupta,Java 8,280,0
+48721718,32,1548164967,2147483647,B,900,expression parsing-implementation,Sherif.Shahin35,Java 8,248,0
+48692398,32,1548095793,2147483647,A,800,brute force,kamalalochini,Java 8,280,0
+48545314,32,1547838323,2147483647,B,900,expression parsing-implementation,9412446617526244,Java 8,218,0
+48457247,32,1547644055,2147483647,B,900,expression parsing-implementation,Matija,Java 8,248,0
+48180457,32,1547122376,2147483647,B,900,expression parsing-implementation,saransh_jain,Java 8,248,0
+48155888,32,1547053908,2147483647,B,900,expression parsing-implementation,Baxtiyorbek1992,Java 8,248,0
+48155645,32,1547053659,2147483647,B,900,expression parsing-implementation,Baxtiyorbek1992,Java 8,248,0
+48115462,32,1547036754,2147483647,B,900,expression parsing-implementation,aniruddhadave,Java 8,218,0
+48102065,32,1546985139,2147483647,B,900,expression parsing-implementation,hkhitesh25,Java 8,218,0
+48085826,32,1546946262,2147483647,B,900,expression parsing-implementation,dtrifonov32,Java 8,280,0
+48075424,32,1546920604,2147483647,B,900,expression parsing-implementation,Dhiru634,Java 8,280,0
+48031499,32,1546778510,2147483647,A,800,brute force,ayushkesarwani1000,Java 8,310,0
+48031475,32,1546778462,2147483647,A,800,brute force,ayushkesarwani1000,Java 8,280,0
+48026667,32,1546767122,2147483647,B,900,expression parsing-implementation,vjudge5,Java 8,280,0
+47954423,32,1546664041,2147483647,A,800,brute force,grindthecode,Java 8,310,0
+47890111,32,1546580153,2147483647,B,900,expression parsing-implementation,khiladir,Java 8,280,0
+47890076,32,1546580016,2147483647,B,900,expression parsing-implementation,khiladir,Java 8,278,0
+47859973,32,1546492138,2147483647,B,900,expression parsing-implementation,Sandy_Hacktivist,Java 8,278,0
+47827145,32,1546392629,2147483647,B,900,expression parsing-implementation,MHariri,Java 8,280,0
+47824795,32,1546376834,2147483647,B,900,expression parsing-implementation,fc-lib_xyz,Java 8,280,0
+47805527,32,1546325311,2147483647,B,900,expression parsing-implementation,vamk_18,Java 8,280,0
+47724286,32,1546176033,2147483647,B,900,expression parsing-implementation,CharlesDai,Java 8,218,0
+47612887,32,1545987739,2147483647,B,900,expression parsing-implementation,rishabh101,Java 8,248,0
+47609338,32,1545981196,2147483647,B,900,expression parsing-implementation,viratK,Java 8,218,0
+47449643,32,1545641124,2147483647,B,900,expression parsing-implementation,mu.shakhawat.hossain,Java 8,218,0
+47379924,32,1545509356,2147483647,B,900,expression parsing-implementation,deepak4669,Java 8,218,0
+47363120,32,1545472465,2147483647,B,900,expression parsing-implementation,vbvsharma,Java 8,280,0
+47353877,32,1545454987,2147483647,B,900,expression parsing-implementation,amanjn38,Java 8,280,0
+47347156,32,1545425596,2147483647,B,900,expression parsing-implementation,farahTome,Java 8,280,0
+47178541,32,1545073140,2147483647,A,800,brute force,fc-lib_xyz,Java 8,310,0
+46945516,32,1544643711,2147483647,B,900,expression parsing-implementation,alecs6k,Java 8,248,0
+46938661,32,1544627685,2147483647,B,900,expression parsing-implementation,khiladir,Java 8,280,0
+46741590,32,1544238711,2147483647,A,800,brute force,dyominov,Java 8,248,0
+46688554,32,1544109062,2147483647,B,900,expression parsing-implementation,Cyberjunkie,Java 8,248,0
+46531714,32,1543817168,2147483647,B,900,expression parsing-implementation,snandkule,Java 8,280,0
+46462951,32,1543701892,2147483647,A,800,brute force,ghangh,Java 8,280,0
+46439035,32,1543661723,2147483647,B,900,expression parsing-implementation,zeyadosama,Java 8,248,0
+46010814,32,1542744818,2147483647,B,900,expression parsing-implementation,daynis,Java 8,280,0
+45974722,32,1542649887,2147483647,B,900,expression parsing-implementation,RaZaR,Java 8,280,0
+45759839,32,1542270271,2147483647,B,900,expression parsing-implementation,Mohsin,Java 8,248,0
+45555475,32,1541924249,2147483647,A,800,brute force,DavidVictor2004,Java 8,280,0
+45339389,32,1541446649,2147483647,B,900,expression parsing-implementation,surfer007,Java 8,218,0
+45255225,32,1541272519,2147483647,B,900,expression parsing-implementation,UnderCoverOrspy,Java 8,248,0
+45220503,32,1541191248,2147483647,B,900,expression parsing-implementation,itsmeomc,Java 8,248,0
+45219147,32,1541188000,2147483647,B,900,expression parsing-implementation,stolis,Java 8,248,0
+45218609,32,1541186797,2147483647,A,800,brute force,stolis,Java 8,310,0
+45198626,32,1541148206,2147483647,B,900,expression parsing-implementation,I.A.K.O.V,Java 8,218,0
+45197181,32,1541145058,2147483647,A,800,brute force,I.A.K.O.V,Java 8,218,0
+45141958,32,1540997829,2147483647,B,900,expression parsing-implementation,Juuzo,Java 8,218,0
+45085974,32,1540884214,2147483647,B,900,expression parsing-implementation,cortona,Java 8,310,0
+45061458,32,1540825344,2147483647,B,900,expression parsing-implementation,_olOlo_,Java 8,280,0
+45029399,32,1540778870,2147483647,B,900,expression parsing-implementation,rogernadal,Java 8,248,0
+44709135,32,1540231522,2147483647,B,900,expression parsing-implementation,vjudge5,Java 8,278,0
+44678977,32,1540183033,2147483647,B,900,expression parsing-implementation,95adityajain,Java 8,218,0
+44671810,32,1540159482,2147483647,B,900,expression parsing-implementation,eyeam_kd,Java 8,280,0
+44612027,32,1540067814,2147483647,B,900,expression parsing-implementation,lav_joshi,Java 8,310,0
+44512940,32,1539885285,2147483647,B,900,expression parsing-implementation,zodiacleo,Java 8,218,0
+44090700,32,1539198472,2147483647,B,900,expression parsing-implementation,codeslayer1992,Java 8,312,0
+44046462,32,1539105918,2147483647,A,800,brute force,barricade,Java 8,342,0
+44046016,32,1539105227,2147483647,B,900,expression parsing-implementation,barricade,Java 8,310,0
+43674371,32,1538462351,2147483647,B,900,expression parsing-implementation,Aw___,Java 8,342,0
+43661780,32,1538422550,2147483647,B,900,expression parsing-implementation,Jasperr,Java 8,280,0
+43600596,32,1538301295,2147483647,B,900,expression parsing-implementation,NI_MAS,Java 8,342,0
+43600515,32,1538301156,2147483647,B,900,expression parsing-implementation,NI_MAS,Java 8,312,0
+43585318,32,1538249878,2147483647,B,900,expression parsing-implementation,almuzaini,Java 8,310,0
+43571662,32,1538226842,2147483647,B,900,expression parsing-implementation,pythox,Java 8,310,0
+43466977,32,1537989331,2147483647,B,900,expression parsing-implementation,Abdelfattah_Mohamed,Java 8,310,0
+43105445,32,1537431586,2147483647,B,900,expression parsing-implementation,nityaarora,Java 8,310,0
+43065044,32,1537331538,2147483647,B,900,expression parsing-implementation,Mohammad_Hasan,Java 8,340,0
+42959176,32,1537120908,2147483647,A,800,brute force,sancho20021,Java 8,342,0
+42860636,32,1536928761,2147483647,C,1700,math,Anonymous,Java 8,310,0
+42858588,32,1536924247,2147483647,B,900,expression parsing-implementation,Anonymous,Java 8,310,0
+42858453,32,1536923968,2147483647,A,800,brute force,Anonymous,Java 8,342,0
+42726660,32,1536567736,2147483647,A,800,brute force,Hamzeh1996,Java 8,278,0
+42601164,32,1536295790,2147483647,B,900,expression parsing-implementation,muryannye,Java 8,312,0
+42270275,32,1535616001,2147483647,B,900,expression parsing-implementation,abdo.elbeltagy,Java 8,248,0
+42245516,32,1535555032,2147483647,B,900,expression parsing-implementation,Ahmed.soror66,Java 8,248,0
+42221051,32,1535488658,2147483647,B,900,expression parsing-implementation,gaurav1510,Java 8,248,0
+42107099,32,1535249320,2147483647,A,800,brute force,mantis_0604,Java 8,372,0
+42107041,32,1535249116,2147483647,B,900,expression parsing-implementation,mantis_0604,Java 8,310,0
+42068925,32,1535147026,2147483647,B,900,expression parsing-implementation,Chino8,Java 8,310,0
+42007370,32,1535052896,2147483647,A,800,brute force,dmytro.prytula,Java 8,404,0
+41806809,32,1534631460,2147483647,B,900,expression parsing-implementation,daljitsingh,Java 8,280,0
+41728706,32,1534537216,2147483647,B,900,expression parsing-implementation,ajit.yadav15,Java 8,310,0
+41677619,32,1534496164,2147483647,B,900,expression parsing-implementation,namanparashar91,Java 8,278,0
+41664026,32,1534451414,2147483647,B,900,expression parsing-implementation,shruts_g,Java 8,372,0
+41596935,32,1534267286,2147483647,B,900,expression parsing-implementation,hassanessam,Java 8,310,0
+41566728,32,1534183076,2147483647,B,900,expression parsing-implementation,MRIGALI,Java 8,340,0
+41519462,32,1534061102,2147483647,B,900,expression parsing-implementation,tahahussam,Java 8,342,0
+40895653,32,1532806410,2147483647,B,900,expression parsing-implementation,osamaa.nadeer,Java 8,312,0
+40748437,32,1532534805,2147483647,B,900,expression parsing-implementation,deepaknayanpro,Java 8,310,0
+40632562,32,1532254232,2147483647,B,900,expression parsing-implementation,A.G.Maruf,Java 8,310,0
+40631634,32,1532251663,2147483647,A,800,brute force,A.G.Maruf,Java 8,342,0
+40617001,32,1532201077,2147483647,B,900,expression parsing-implementation,EmilSilva,Java 8,248,0
+40493516,32,1531872284,2147483647,B,900,expression parsing-implementation,syned13,Java 8,310,0
+40295390,32,1531511271,2147483647,B,900,expression parsing-implementation,ahmeddeda,Java 8,310,0
+40196327,32,1531301118,2147483647,B,900,expression parsing-implementation,Pratik_Rajani,Java 8,310,0
+40042425,32,1530905247,2147483647,B,900,expression parsing-implementation,oraby.elgen,Java 8,312,0
+39872090,32,1530544084,2147483647,B,900,expression parsing-implementation,krast_98,Java 8,248,0
+39870787,32,1530540816,2147483647,B,900,expression parsing-implementation,kritika_1001,Java 8,310,0
+39813406,32,1530426314,2147483647,B,900,expression parsing-implementation,puskardeb4,Java 8,278,0
+39768281,32,1530275882,2147483647,B,900,expression parsing-implementation,ritik027,Java 8,280,0
+39766738,32,1530272091,2147483647,B,900,expression parsing-implementation,nesdi,Java 8,278,0
+39765169,32,1530267916,2147483647,B,900,expression parsing-implementation,mikagoi,Java 8,310,0
+39760404,32,1530254335,2147483647,B,900,expression parsing-implementation,TaglasovEd,Java 8,310,21094400
+39760249,32,1530253905,2147483647,B,900,expression parsing-implementation,TaglasovEd,Java 8,280,21094400
+39543183,32,1529762376,2147483647,B,900,expression parsing-implementation,sinchan12,Java 8,312,0
+39486278,32,1529596780,2147483647,B,900,expression parsing-implementation,abhinav_b,Java 8,280,0
+39440102,32,1529508728,2147483647,B,900,expression parsing-implementation,abhinavsharma629,Java 8,280,0
+39431362,32,1529486329,2147483647,A,800,brute force,satvik007,Java 8,278,0
+39422849,32,1529446898,2147483647,B,900,expression parsing-implementation,med_k,Java 8,280,0
+39421233,32,1529438924,2147483647,B,900,expression parsing-implementation,timmyjose,Java 8,342,0
+39403550,32,1529396963,2147483647,A,800,brute force,adibbatous,Java 8,342,0
+39198893,32,1528827825,2147483647,A,800,brute force,Sharon,Java 8,372,0
+39126300,32,1528647133,2147483647,B,900,expression parsing-implementation,66rajat66,Java 8,280,0
+39049853,32,1528471702,2147483647,D,1700,implementation,rahulDugar,Java 8,310,0
+38952136,32,1528134802,2147483647,B,900,expression parsing-implementation,dhaval7,Java 8,280,20992000
+38795182,32,1527756203,2147483647,B,900,expression parsing-implementation,masterbios,Java 8,280,20275200
+38786289,32,1527720353,2147483647,B,900,expression parsing-implementation,pkiulian,Java 8,310,20992000
+38699164,32,1527523665,2147483647,A,800,brute force,ViciousCoder,Java 8,280,0
+38699083,32,1527523420,2147483647,B,900,expression parsing-implementation,ViciousCoder,Java 8,248,0
+38616392,32,1527274207,2147483647,B,900,expression parsing-implementation,V_GA,Java 8,310,0
+38538926,32,1526999901,2147483647,B,900,expression parsing-implementation,sark_01,Java 8,248,0
+38520109,32,1526946943,2147483647,A,800,brute force,flyman3046,Java 8,278,0
+38458388,32,1526817050,2147483647,B,900,expression parsing-implementation,anto777,Java 8,248,0
+38451367,32,1526802575,2147483647,B,900,expression parsing-implementation,shereifhawary,Java 8,280,0
+38263855,32,1526379250,2147483647,B,900,expression parsing-implementation,rational_fool,Java 8,248,20684800
+38081206,32,1525900732,2147483647,C,1700,math,unicorn20141,Java 8,280,20684800
+38054962,32,1525812300,2147483647,B,900,expression parsing-implementation,Askander,Java 8,280,20992000
+37895362,32,1525492400,2147483647,B,900,expression parsing-implementation,jameslol,Java 8,310,21094400
+37871761,32,1525382105,2147483647,B,900,expression parsing-implementation,ahmadcode,Java 8,342,20992000
+37821074,32,1525194247,2147483647,B,900,expression parsing-implementation,rising_titan,Java 8,248,20684800
+37748273,32,1525092272,2147483647,A,800,brute force,KulikAlex,Java 8,248,20684800
+37554336,32,1524499157,2147483647,B,900,expression parsing-implementation,VBT,Java 8,248,20684800
+37541613,32,1524435551,2147483647,B,900,expression parsing-implementation,makarfi,Java 8,310,21094400
+37540783,32,1524430306,2147483647,B,900,expression parsing-implementation,ghangh,Java 8,310,20992000
+37384006,32,1523920216,2147483647,A,800,brute force,amribrahim333,Java 8,340,21094400
+37352328,32,1523793177,2147483647,A,800,brute force,Hasib_Ullah,Java 8,342,21094400
+37352083,32,1523792509,2147483647,B,900,expression parsing-implementation,Hasib_Ullah,Java 8,310,20992000
+37252186,32,1523541159,2147483647,B,900,expression parsing-implementation,namrathaps97,Java 8,280,20992000
+37138850,32,1523347831,2147483647,B,900,expression parsing-implementation,rajat188,Java 8,248,20684800
+37089490,32,1523170070,2147483647,B,900,expression parsing-implementation,mav_avi,Java 8,310,20992000
+37053507,32,1523112336,2147483647,B,900,expression parsing-implementation,Ahmed_mi,Java 8,312,20992000
+36883940,32,1522686860,2147483647,C,1700,math,mrydson,Java 8,280,20684800
+36882265,32,1522682208,2147483647,C,1700,math,modern_lovelace,Java 8,312,20992000
+36866283,32,1522633101,2147483647,C,1700,math,noorshaffaq,Java 8,310,21094400
+36784518,32,1522533839,2147483647,C,1700,math,peTar3121,Java 8,248,20684800
+36773025,32,1522497575,2147483647,B,900,expression parsing-implementation,mramadan__,Java 8,280,20992000
+36760945,32,1522456749,2147483647,A,800,brute force,totallynotan,Java 8,278,20684800
+36723910,32,1522334612,2147483647,C,1700,math,callejaspa,Java 8,280,20992000
+36705813,32,1522278254,2147483647,C,1700,math,mcabezas26,Java 8,280,21196800
+36705333,32,1522275488,2147483647,C,1700,math,Mattt27,Java 8,374,20992000
+36626132,32,1522006334,2147483647,B,900,expression parsing-implementation,Lazy_Cat,Java 8,310,20992000
+36604819,32,1521927152,2147483647,B,900,expression parsing-implementation,zouzankou,Java 8,280,20992000
+36462893,32,1521659442,2147483647,B,900,expression parsing-implementation,purple_haze1,Java 8,342,20992000
+36437151,32,1521560905,2147483647,A,800,brute force,Noureldin,Java 8,310,20684800
+36398425,32,1521403867,2147483647,B,900,expression parsing-implementation,Ahmed_Diab,Java 8,248,20684800
+36304620,32,1521124336,2147483647,B,900,expression parsing-implementation,v1sha1,Java 8,310,20992000
+36289089,32,1521079969,2147483647,B,900,expression parsing-implementation,kavyams,Java 8,342,20992000
+36260808,32,1520973957,2147483647,B,900,expression parsing-implementation,tdeskins,Java 8,280,20992000
+36256572,32,1520960954,2147483647,B,900,expression parsing-implementation,kak4rot7,Java 8,342,20992000
+36214115,32,1520824140,2147483647,B,900,expression parsing-implementation,slow.coder,Java 8,248,20684800
+36015227,32,1520353055,2147483647,B,900,expression parsing-implementation,gehadk.bakry,Java 8,310,20992000
+35968349,32,1520259355,2147483647,B,900,expression parsing-implementation,MariamHaitham,Java 8,280,20992000
+35961279,32,1520244306,2147483647,C,1700,math,parth_15,Java 8,310,20684800
+35886204,32,1520084557,2147483647,A,800,brute force,ahmed.hasanat,Java 8,248,20684800
+35884731,32,1520082961,2147483647,B,900,expression parsing-implementation,ahmed.hasanat,Java 8,278,20684800
+35806339,32,1519893904,2147483647,C,1700,math,lehar_11,Java 8,310,20992000
+35806145,32,1519893345,2147483647,B,900,expression parsing-implementation,harpreetmehra,Java 8,278,20684800
+35805256,32,1519890722,2147483647,B,900,expression parsing-implementation,lehar_11,Java 8,248,20684800
+35805175,32,1519890508,2147483647,A,800,brute force,lehar_11,Java 8,248,20787200
+35794019,32,1519843648,2147483647,B,900,expression parsing-implementation,I_Need_Alex_R_Coleman,Java 8,310,20992000
+35790866,32,1519834869,2147483647,C,1700,math,coly,Java 8,340,20992000
+35780837,32,1519812630,2147483647,B,900,expression parsing-implementation,uddeshkatyayan,Java 8,310,20992000
+35769636,32,1519750284,2147483647,B,900,expression parsing-implementation,salhad,Java 8,248,20684800
+35693273,32,1519576405,2147483647,B,900,expression parsing-implementation,m7mdfa5er,Java 8,248,20684800
+35574695,32,1519307327,2147483647,B,900,expression parsing-implementation,s0rav,Java 8,280,20684800
+35524558,32,1519137612,2147483647,B,900,expression parsing-implementation,manparvesh,Java 8,248,20684800
+35454303,32,1518978791,2147483647,B,900,expression parsing-implementation,FatemeHajizade,Java 8,280,20992000
+35445067,32,1518955351,2147483647,A,800,brute force,sebe97,Java 8,312,21094400
+35436925,32,1518931986,2147483647,B,900,expression parsing-implementation,arcus,Java 8,280,20992000
+35406219,32,1518865998,2147483647,B,900,expression parsing-implementation,neildcruze,Java 8,280,20992000
+35377883,32,1518818835,2147483647,B,900,expression parsing-implementation,JaAlSaDev,Java 8,280,20992000
+35356384,32,1518796707,2147483647,B,900,expression parsing-implementation,faezehashemi.7678,Java 8,310,20992000
+35355168,32,1518796323,2147483647,B,900,expression parsing-implementation,mahsaasghari33,Java 8,280,20992000
+35354145,32,1518796011,2147483647,B,900,expression parsing-implementation,maryamsajedi7798,Java 8,278,20992000
+35341745,32,1518793565,2147483647,B,900,expression parsing-implementation,sachinmukherjee,Java 8,280,21094400
+35335926,32,1518782183,2147483647,B,900,expression parsing-implementation,fatemeh.asayesh77,Java 8,280,20992000
+35321891,32,1518731150,2147483647,B,900,expression parsing-implementation,iamnair,Java 8,248,20684800
+35266448,32,1518621888,2147483647,B,900,expression parsing-implementation,SabaBL,Java 8,280,20992000
+35265446,32,1518621015,2147483647,B,900,expression parsing-implementation,ArashY,Java 8,312,20992000
+35226318,32,1518597854,2147483647,B,900,expression parsing-implementation,necsup,Java 8,280,20992000
+35216463,32,1518549201,2147483647,D,1700,implementation,Dimon566,Java 8,374,21196800
+35142852,32,1518325968,2147483647,B,900,expression parsing-implementation,jenil1999,Java 8,280,20889600
+34940628,32,1517825895,2147483647,B,900,expression parsing-implementation,ddefender,Java 8,278,20992000
+34779723,32,1517427714,2147483647,B,900,expression parsing-implementation,Nourashmeel,Java 8,278,20992000
+34737145,32,1517402288,2147483647,D,1700,implementation,Zer0Point,Java 8,686,20684800
+34722795,32,1517353385,2147483647,B,900,expression parsing-implementation,YosraSkhiri,Java 8,280,20992000
+34717031,32,1517333279,2147483647,B,900,expression parsing-implementation,nickneo,Java 8,280,20992000
+34632431,32,1517141836,2147483647,B,900,expression parsing-implementation,medhat.hani,Java 8,310,20992000
+34625894,32,1517122918,2147483647,B,900,expression parsing-implementation,BeardAspirant,Java 8,218,20684800
+34609183,32,1517064937,2147483647,C,1700,math,Zer0Point,Java 8,248,20684800
+34609130,32,1517064813,2147483647,C,1700,math,Zer0Point,Java 8,218,20684800
+34606455,32,1517058621,2147483647,B,900,expression parsing-implementation,Med_Seddik,Java 8,374,21811200
+34551522,32,1516896364,2147483647,B,900,expression parsing-implementation,TemirshotAssiya,Java 8,280,20992000
+34474811,32,1516697076,2147483647,B,900,expression parsing-implementation,houssemeddine.benhmida,Java 8,280,21094400
+34469872,32,1516688122,2147483647,B,900,expression parsing-implementation,MitAk,Java 8,312,20992000
+34416018,32,1516542754,2147483647,B,900,expression parsing-implementation,cadyemad,Java 8,310,20992000
+34232241,32,1516134239,2147483647,A,800,brute force,Aya_Mohammed,Java 8,312,21299200
+34230939,32,1516130664,2147483647,B,900,expression parsing-implementation,Omar_Emad,Java 8,278,20992000
+34191923,32,1516005073,2147483647,B,900,expression parsing-implementation,ShowStopper728,Java 8,218,20684800
+34102346,32,1515747964,2147483647,B,900,expression parsing-implementation,toufiqul97,Java 8,248,20684800
+34082012,32,1515651232,2147483647,A,800,brute force,harpreetmehra,Java 8,280,21094400
+34055671,32,1515521656,2147483647,B,900,expression parsing-implementation,Omar.Handouk,Java 8,248,20684800
+33981619,32,1515324169,2147483647,B,900,expression parsing-implementation,Onkar_p,Java 8,310,21094400
+33973522,32,1515277355,2147483647,B,900,expression parsing-implementation,myob-_-,Java 8,248,20684800
+33958163,32,1515224401,2147483647,B,900,expression parsing-implementation,_bacali,Java 8,248,20684800
+33887099,32,1514990695,2147483647,A,800,brute force,CharlesDai,Java 8,248,20787200
+33867231,32,1514908965,2147483647,B,900,expression parsing-implementation,LeMotherfuckerEAbdel69,Java 8,248,20684800
+33834650,32,1514735090,2147483647,A,800,brute force,Espartacus,Java 8,248,20684800
+33834596,32,1514734890,2147483647,A,800,brute force,Espartacus,Java 8,248,20787200
+33834168,32,1514733239,2147483647,B,900,expression parsing-implementation,Espartacus,Java 8,218,20684800
+33832716,32,1514728033,2147483647,B,900,expression parsing-implementation,EAbdel,Java 8,248,20684800
+33626251,32,1514225189,2147483647,B,900,expression parsing-implementation,ampathak,Java 8,280,20992000
+33397349,32,1513659180,2147483647,B,900,expression parsing-implementation,Abhishek_113,Java 8,310,20992000
+33087358,32,1512951214,2147483647,B,900,expression parsing-implementation,reeddhy,Java 8,278,20992000
+32977763,32,1512568545,2147483647,B,900,expression parsing-implementation,DavidVictor2004,Java 8,280,20992000
+32796451,32,1512021906,2147483647,B,900,expression parsing-implementation,darthvadar,Java 8,280,20992000
+32306965,32,1510649026,2147483647,B,900,expression parsing-implementation,Ashik53,Java 8,372,0
+32095097,32,1509970406,2147483647,B,900,expression parsing-implementation,Sephiroth616,Java 8,248,0
+31913505,32,1509436096,2147483647,B,900,expression parsing-implementation,dbq2914,Java 8,280,0
+31913481,32,1509436004,2147483647,B,900,expression parsing-implementation,vjudge1,Java 8,280,0
+31870945,32,1509291208,2147483647,B,900,expression parsing-implementation,eslam,Java 8,280,0
+31734457,32,1509012342,2147483647,B,900,expression parsing-implementation,youssefkhaled2019,Java 8,280,0
+31700363,32,1508912253,2147483647,B,900,expression parsing-implementation,ashcodish,Java 8,280,0
+31682896,32,1508851413,2147483647,D,1700,implementation,zodiacleo,Java 8,1652,166912000
+31682874,32,1508851383,2147483647,D,1700,implementation,zodiacleo,Java 8,1714,166912000
+31682515,32,1508850742,2147483647,D,1700,implementation,zodiacleo,Java 8,1684,167219200
+31529562,32,1508495439,2147483647,B,900,expression parsing-implementation,dormitantis,Java 8,278,20992000
+31529050,32,1508493925,2147483647,B,900,expression parsing-implementation,dormitantis,Java 8,278,20889600
+31519723,32,1508452679,2147483647,A,800,brute force,ashcodish,Java 8,342,20992000
+31290142,32,1507959015,2147483647,B,900,expression parsing-implementation,Montasser.Al-Aqrbawi,Java 8,218,0
+31267319,32,1507878971,2147483647,B,900,expression parsing-implementation,AAshour,Java 8,310,0
+31153478,32,1507492120,2147483647,B,900,expression parsing-implementation,AhmadDarweesh,Java 8,218,0
+31144999,32,1507468301,2147483647,B,900,expression parsing-implementation,sfmunera,Java 8,248,0
+30857355,32,1506755461,2147483647,B,900,expression parsing-implementation,amr_123,Java 8,248,0
+30750198,32,1506428629,2147483647,B,900,expression parsing-implementation,System_test_failed,Java 8,218,0
+30698043,32,1506326148,2147483647,B,900,expression parsing-implementation,A.Mokhtar,Java 8,280,0
+30687489,32,1506276971,2147483647,B,900,expression parsing-implementation,hacker45,Java 8,218,0
+30546460,32,1505913355,2147483647,B,900,expression parsing-implementation,iahmed16,Java 8,280,0
+30488091,32,1505796123,2147483647,A,800,brute force,praveenkulkarni,Java 8,340,0
+30445133,32,1505661700,2147483647,B,900,expression parsing-implementation,noura.hesham60,Java 8,248,20889600
+30338449,32,1505422432,2147483647,B,900,expression parsing-implementation,A-Khaled,Java 8,280,0
+30324025,32,1505381492,2147483647,B,900,expression parsing-implementation,praveenkulkarni,Java 8,280,0
+30312087,32,1505321030,2147483647,B,900,expression parsing-implementation,GeniusPramod,Java 8,280,0
+30195251,32,1504848067,2147483647,B,900,expression parsing-implementation,khalilshahin01,Java 8,278,0
+30171984,32,1504759545,2147483647,A,800,brute force,Psp_98,Java 8,248,0
+30171828,32,1504758753,2147483647,B,900,expression parsing-implementation,Psp_98,Java 8,216,0
+30127968,32,1504691824,2147483647,A,800,brute force,MQstafa,Java 8,310,0
+30017547,32,1504372006,2147483647,B,900,expression parsing-implementation,Karim_Abdelhameed,Java 8,310,0
+30014872,32,1504362689,2147483647,B,900,expression parsing-implementation,hawkeye04,Java 8,280,0
+29931609,32,1504124170,2147483647,B,900,expression parsing-implementation,S010M,Java 8,280,0
+29844248,32,1503920189,2147483647,B,900,expression parsing-implementation,TRR,Java 8,280,0
+29844071,32,1503919576,2147483647,A,800,brute force,TRR,Java 8,310,0
+29671027,32,1503365058,2147483647,B,900,expression parsing-implementation,jacobdavis,Java 8,342,0
+29532969,32,1502995547,2147483647,B,900,expression parsing-implementation,Omegaxis213,Java 8,248,0
+29455488,32,1502705673,2147483647,B,900,expression parsing-implementation,omzer,Java 8,248,20889600
+29392553,32,1502550867,2147483647,B,900,expression parsing-implementation,Yehia_Ezzat,Java 8,280,20889600
+29369750,32,1502518029,2147483647,A,800,brute force,Zacle07,Java 8,310,20992000
+29369278,32,1502516553,2147483647,A,800,brute force,mohan01,Java 8,310,20992000
+29369057,32,1502515723,2147483647,A,800,brute force,Aya_Mohammed,Java 8,312,21094400
+29368997,32,1502515492,2147483647,A,800,brute force,moemen.alawad,Java 8,340,20992000
+29353306,32,1502456013,2147483647,B,900,expression parsing-implementation,RahiJain,Java 8,248,20889600
+29353184,32,1502455722,2147483647,B,900,expression parsing-implementation,RahiJain,Java 8,218,20480000
+29349310,32,1502443718,2147483647,B,900,expression parsing-implementation,skywalker1995,Java 8,280,20889600
+29323318,32,1502359559,2147483647,B,900,expression parsing-implementation,Deepak010,Java 8,248,20889600
+29320096,32,1502349761,2147483647,B,900,expression parsing-implementation,haudai0224,Java 8,248,20889600
+29273561,32,1502143176,2147483647,B,900,expression parsing-implementation,PerplexingPegasus,Java 8,310,20889600
+29231349,32,1501986084,2147483647,B,900,expression parsing-implementation,JeyJey,Java 8,310,20889600
+29218965,32,1501937528,2147483647,B,900,expression parsing-implementation,ahmednawar,Java 8,278,20889600
+29109901,32,1501614976,2147483647,B,900,expression parsing-implementation,jport,Java 8,248,20582400
+29106925,32,1501605388,2147483647,B,900,expression parsing-implementation,davidonsy,Java 8,218,20582400
+29103582,32,1501597537,2147483647,B,900,expression parsing-implementation,vjudge4,Java 8,248,20889600
+29078297,32,1501525075,2147483647,B,900,expression parsing-implementation,born2build,Java 8,342,20889600
+29048674,32,1501504984,2147483647,B,900,expression parsing-implementation,anshularya2019,Java 8,248,20889600
+29042993,32,1501490942,2147483647,B,900,expression parsing-implementation,Airmaha,Java 8,248,20889600
+29021068,32,1501434915,2147483647,B,900,expression parsing-implementation,Airmaha,Java 8,310,20889600
+28954808,32,1501248106,2147483647,B,900,expression parsing-implementation,cmplx-xyttmt,Java 8,280,20889600
+28937903,32,1501188084,2147483647,B,900,expression parsing-implementation,GJA,Java 8,280,20889600
+28900417,32,1501062349,2147483647,B,900,expression parsing-implementation,TahaniQadi,Java 8,280,20889600
+28866359,32,1500960976,2147483647,B,900,expression parsing-implementation,beLikeCompiler,Java 8,248,20889600
+28820821,32,1500889132,2147483647,B,900,expression parsing-implementation,Zamzoum94,Java 8,248,20889600
+28816589,32,1500878625,2147483647,C,1700,math,RelyOnTheTruth,Java 8,374,20889600
+28796950,32,1500801705,2147483647,A,800,brute force,mostafayousry8,Java 8,310,20992000
+28670106,32,1500385682,2147483647,B,900,expression parsing-implementation,Ahmad-Abusbeih,Java 8,248,20889600
+28580215,32,1500143705,2147483647,B,900,expression parsing-implementation,AmeeraMilibari,Java 8,248,20582400
+28578164,32,1500136091,2147483647,B,900,expression parsing-implementation,Mohamed-Hashem,Java 8,218,20582400
+28326897,32,1499344583,2147483647,B,900,expression parsing-implementation,o.radwan,Java 8,280,20889600
+28313601,32,1499299917,2147483647,B,900,expression parsing-implementation,aditya123garg,Java 8,404,20889600
+28284829,32,1499184548,2147483647,B,900,expression parsing-implementation,drjaat,Java 8,248,20889600
+28182527,32,1498875442,2147483647,B,900,expression parsing-implementation,Migi,Java 8,248,20582400
+28182074,32,1498872503,2147483647,B,900,expression parsing-implementation,alvaro777,Java 8,372,20889600
+28143611,32,1498749490,2147483647,C,1700,math,Petruchcho,Java 8,218,20480000
+28115330,32,1498652259,2147483647,B,900,expression parsing-implementation,Ouda98,Java 8,278,20889600
+27998492,32,1498285156,2147483647,B,900,expression parsing-implementation,batkhuyag,Java 8,280,20992000
+27992132,32,1498248832,2147483647,B,900,expression parsing-implementation,saadnoor,Java 8,248,20480000
+27976275,32,1498189491,2147483647,B,900,expression parsing-implementation,betterself,Java 8,280,20582400
+27940011,32,1498031406,2147483647,B,900,expression parsing-implementation,tomdmitriev,Java 8,218,20480000
+27931056,32,1497985911,2147483647,B,900,expression parsing-implementation,amr.ramadan,Java 8,310,20889600
+27930710,32,1497984279,2147483647,B,900,expression parsing-implementation,srisiro,Java 8,404,20480000
+27875858,32,1497757726,2147483647,B,900,expression parsing-implementation,saksham2801,Java 8,280,0
+27872091,32,1497737728,2147483647,B,900,expression parsing-implementation,crew,Java 8,218,0
+27823966,32,1497613578,2147483647,B,900,expression parsing-implementation,the_red_owl,Java 8,248,0
+27712806,32,1497140106,2147483647,B,900,expression parsing-implementation,harshkothari,Java 8,248,0
+27692195,32,1497022640,2147483647,B,900,expression parsing-implementation,Bahaa129,Java 8,248,0
+27692019,32,1497021994,2147483647,B,900,expression parsing-implementation,jackie_006,Java 8,248,0
+27578022,32,1496648603,2147483647,B,900,expression parsing-implementation,karanjobanputra,Java 8,218,0
+27554934,32,1496548129,2147483647,B,900,expression parsing-implementation,andrewduffey,Java 8,218,0
+27553681,32,1496539987,2147483647,B,900,expression parsing-implementation,hananahmad114,Java 8,216,0
+27518384,32,1496390457,2147483647,B,900,expression parsing-implementation,drpuig,Java 8,248,0
+27458177,32,1496198653,2147483647,B,900,expression parsing-implementation,r19,Java 8,218,0
+27458162,32,1496198517,2147483647,B,900,expression parsing-implementation,r19,Java 8,218,0
+27395411,32,1495909443,2147483647,B,900,expression parsing-implementation,Ocykat,Java 8,248,0
+27363545,32,1495830814,2147483647,C,1700,math,karamkontar,Java 8,278,0
+27360188,32,1495816625,2147483647,B,900,expression parsing-implementation,Muataz,Java 8,248,0
+27276812,32,1495426185,2147483647,B,900,expression parsing-implementation,varun.u28,Java 8,218,0
+27112949,32,1494797311,2147483647,B,900,expression parsing-implementation,justcode99,Java 8,218,0
+26886370,32,1494006626,2147483647,B,900,expression parsing-implementation,kocko,Java 8,248,0
+26884228,32,1493998872,2147483647,B,900,expression parsing-implementation,Sherif_mostafa,Java 8,186,0
+26772596,32,1493573381,2147483647,B,900,expression parsing-implementation,mouath.saadah,Java 8,218,20480000
+26651926,32,1493087806,2147483647,B,900,expression parsing-implementation,moh_yehia,Java 8,248,20480000
+26599392,32,1492937575,2147483647,B,900,expression parsing-implementation,heskey1,Java 8,248,20889600
+26400412,32,1492301819,2147483647,B,900,expression parsing-implementation,hmshreyas7,Java 8,248,20889600
+26368840,32,1492221848,2147483647,C,1700,math,faisal_f6,Java 8,248,20889600
+26357215,32,1492175275,2147483647,B,900,expression parsing-implementation,MernaRezk,Java 8,248,20889600
+26342237,32,1492095595,2147483647,C,1700,math,iblucaz,Java 8,280,20889600
+26342071,32,1492095000,2147483647,C,1700,math,jcazalas,Java 8,278,20889600
+26338205,32,1492090140,2147483647,C,1700,math,yousefBaj,Java 8,310,20992000
+26335037,32,1492080738,2147483647,C,1700,math,hemouz,Java 8,248,20480000
+26296815,32,1491909776,2147483647,B,900,expression parsing-implementation,ShashankKalangi,Java 8,248,20889600
+26248752,32,1491809771,2147483647,B,900,expression parsing-implementation,ksamykandil,Java 8,280,20889600
+26225785,32,1491681417,2147483647,B,900,expression parsing-implementation,Saghari97,Java 8,248,20889600
+26222958,32,1491668205,2147483647,B,900,expression parsing-implementation,asal97,Java 8,248,20889600
+26215436,32,1491644778,2147483647,B,900,expression parsing-implementation,Arman76,Java 8,248,20889600
+26208970,32,1491628814,2147483647,B,900,expression parsing-implementation,pooya9877,Java 8,280,20889600
+26093175,32,1491204178,2147483647,B,900,expression parsing-implementation,singhlaanshul,Java 8,280,20889600
+26037826,32,1490999874,2147483647,B,900,expression parsing-implementation,emanhesham,Java 8,248,20889600
+25883385,32,1490733674,2147483647,B,900,expression parsing-implementation,Amirmorcos123,Java 8,280,20889600
+25828995,32,1490570154,2147483647,B,900,expression parsing-implementation,lu1sd4,Java 8,218,20480000
+25629725,32,1489870963,2147483647,B,900,expression parsing-implementation,nonis,Java 8,218,20480000
+25545425,32,1489661246,2147483647,B,900,expression parsing-implementation,sn1per,Java 8,248,20889600
+25488660,32,1489546298,2147483647,B,900,expression parsing-implementation,jeoj,Java 8,218,20480000
+25441456,32,1489344462,2147483647,B,900,expression parsing-implementation,abdo_harby,Java 8,248,20889600
+25395266,32,1489214512,2147483647,A,800,brute force,brijeshpanara24,Java 8,310,21094400
+25297500,32,1488818090,2147483647,B,900,expression parsing-implementation,rootv29,Java 8,248,20889600
+25125544,32,1488377718,2147483647,B,900,expression parsing-implementation,Dijkstra.,Java 8,248,20889600
+25125527,32,1488377685,2147483647,B,900,expression parsing-implementation,omarsayedx,Java 8,248,20889600
+25103040,32,1488291980,2147483647,B,900,expression parsing-implementation,elliot_alderson,Java 8,218,20480000
+24994124,32,1487965639,2147483647,B,900,expression parsing-implementation,tonysta,Java 8,186,20172800
+24815453,32,1487567681,2147483647,B,900,expression parsing-implementation,safarisoul,Java 8,280,20582400
+24727720,32,1487284126,2147483647,A,800,brute force,Walid_Awny,Java 8,372,20992000
+24676386,32,1487091267,2147483647,B,900,expression parsing-implementation,Walid_Awny,Java 8,248,20480000
+24637940,32,1487019879,2147483647,B,900,expression parsing-implementation,Amman20,Java 8,218,20480000
+24477428,32,1486419497,2147483647,B,900,expression parsing-implementation,WalkBack,Java 8,342,20787200
+24477423,32,1486419414,2147483647,B,900,expression parsing-implementation,WalkBack,Java 8,312,20787200
+24475472,32,1486410857,2147483647,A,800,brute force,WalkBack,Java 8,312,20787200
+24457350,32,1486319510,2147483647,B,900,expression parsing-implementation,amro_walid,Java 8,310,20889600
+24457133,32,1486318593,2147483647,A,800,brute force,amro_walid,Java 8,374,20992000
+24422699,32,1486170041,2147483647,B,900,expression parsing-implementation,fathyshawat,Java 8,310,20787200
+24356071,32,1485990787,2147483647,B,900,expression parsing-implementation,Zalat,Java 8,340,20889600
+24321974,32,1485884559,2147483647,A,800,brute force,Sanjay_14BIT009,Java 8,372,20582400
+24244410,32,1485685031,2147483647,B,900,expression parsing-implementation,ahmadelmalah,Java 8,280,20889600
+24240493,32,1485669018,2147483647,B,900,expression parsing-implementation,ferbncode,Java 8,342,20889600
+24234017,32,1485633183,2147483647,B,900,expression parsing-implementation,jakloove,Java 8,310,20889600
+24199611,32,1485544806,2147483647,B,900,expression parsing-implementation,akshay.sharma09695,Java 8,404,20889600
+24076513,32,1485191968,2147483647,B,900,expression parsing-implementation,pranjl,Java 8,310,20889600
+23999187,32,1484949069,2147483647,B,900,expression parsing-implementation,KruppInTheSky,Java 8,278,21196800
+23998873,32,1484947149,2147483647,B,900,expression parsing-implementation,pitfall,Java 8,372,21196800
+23976091,32,1484870748,2147483647,B,900,expression parsing-implementation,Sharon,Java 8,342,20889600
+23907305,32,1484673516,2147483647,B,900,expression parsing-implementation,Sanjay_14BIT009,Java 8,342,20889600
+23879014,32,1484561305,2147483647,B,900,expression parsing-implementation,PK_PRANTO,Java 8,310,20889600
+23837512,32,1484484778,2147483647,B,900,expression parsing-implementation,thewhitereaper,Java 8,280,20992000
+23835760,32,1484478687,2147483647,B,900,expression parsing-implementation,bryantt23,Java 8,248,20582400
+23812964,32,1484421068,2147483647,B,900,expression parsing-implementation,akanksha.dwivedi93,Java 8,280,20889600
+23812376,32,1484418338,2147483647,B,900,expression parsing-implementation,ankit6193,Java 8,280,20992000
+23545820,32,1483576830,2147483647,B,900,expression parsing-implementation,eslamelkhafagy,Java 8,310,20275200
+23545272,32,1483571769,2147483647,B,900,expression parsing-implementation,samuel9406,Java 8,218,20582400
+23544977,32,1483569592,2147483647,B,900,expression parsing-implementation,AhmedSoliman,Java 8,280,20992000
+23534284,32,1483529662,2147483647,B,900,expression parsing-implementation,Omar_Morsi,Java 8,248,20582400
+23523347,32,1483471972,2147483647,B,900,expression parsing-implementation,mohamed.alattal,Java 8,218,20582400
+23466260,32,1483174478,2147483647,B,900,expression parsing-implementation,Lord_ozb,Java 8,342,20992000
+23383602,32,1482947362,2147483647,A,800,brute force,shivak,Java 8,342,21196800
+23226346,32,1482414804,2147483647,B,900,expression parsing-implementation,Arceen01,Java 8,434,20992000
+22936888,32,1481673260,2147483647,B,900,expression parsing-implementation,Kharouba,Java 8,216,0
+22822701,32,1481237305,2147483647,B,900,expression parsing-implementation,MariamElbarbary,Java 8,218,0
+22804915,32,1481185855,2147483647,B,900,expression parsing-implementation,Naick,Java 8,248,20480000
+22801806,32,1481173233,2147483647,B,900,expression parsing-implementation,zodiacleo,Java 8,218,20582400
+22689528,32,1480833223,2147483647,B,900,expression parsing-implementation,womendezuguo,Java 8,310,0
+22612229,32,1480465943,2147483647,B,900,expression parsing-implementation,karimkhalaf,Java 8,342,0
+22606558,32,1480438657,2147483647,B,900,expression parsing-implementation,abahnasy,Java 8,310,0
+22527429,32,1480253510,2147483647,B,900,expression parsing-implementation,auiarafat,Java 8,372,0
+22527393,32,1480253400,2147483647,B,900,expression parsing-implementation,vjudge4,Java 8,372,0
+22515263,32,1480185581,2147483647,B,900,expression parsing-implementation,ReaL_73,Java 8,278,0
+22506830,32,1480157998,2147483647,A,800,brute force,M.sayed97,Java 8,404,0
+22506641,32,1480157448,2147483647,B,900,expression parsing-implementation,M.sayed97,Java 8,404,0
+22498599,32,1480112750,2147483647,B,900,expression parsing-implementation,lamborcreamy,Java 8,342,0
+22424650,32,1479909479,2147483647,B,900,expression parsing-implementation,Musin,Java 8,248,0
+22388321,32,1479746360,2147483647,B,900,expression parsing-implementation,gsphanikumar,Java 8,280,0
+22216553,32,1479183772,2147483647,B,900,expression parsing-implementation,farouk_taher,Java 8,404,0
+22216030,32,1479179053,2147483647,B,900,expression parsing-implementation,Jrell15,Java 8,310,0
+22202844,32,1479102574,2147483647,B,900,expression parsing-implementation,kripa_jha007,Java 8,280,0
+22191070,32,1479034285,2147483647,B,900,expression parsing-implementation,somnathr,Java 8,278,0
+22165485,32,1478879526,2147483647,B,900,expression parsing-implementation,jackhallam,Java 8,280,0
+22150437,32,1478789845,2147483647,B,900,expression parsing-implementation,suhel_khan,Java 8,280,0
+22022412,32,1478205357,2147483647,B,900,expression parsing-implementation,hady1100,Java 8,310,0
+21893501,32,1477835806,2147483647,B,900,expression parsing-implementation,Yoyo2014,Java 8,278,0
+21891301,32,1477827155,2147483647,B,900,expression parsing-implementation,ghorardim,Java 8,278,0
+21789328,32,1477469011,2147483647,A,800,brute force,rishabh1403,Java 8,248,0
+21652339,32,1477080773,2147483647,A,800,brute force,pitfall,Java 8,248,0
+21615836,32,1476963495,2147483647,B,900,expression parsing-implementation,elninyo,Java 8,280,20172800
+21613050,32,1476954872,2147483647,B,900,expression parsing-implementation,coderbond007,Java 8,218,20480000
+21575018,32,1476815424,2147483647,B,900,expression parsing-implementation,MarkMoheb,Java 8,248,20480000
+21475403,32,1476609210,2147483647,B,900,expression parsing-implementation,kishoreraju.1998,Java 8,280,20889600
+21471179,32,1476588908,2147483647,B,900,expression parsing-implementation,Soumendu.Sinha,Java 8,310,20172800
+21471011,32,1476587670,2147483647,B,900,expression parsing-implementation,Soumendu.Sinha,Java 8,280,20275200
+21417528,32,1476429457,2147483647,B,900,expression parsing-implementation,IsmailKent,Java 8,280,20480000
+21380451,32,1476273058,2147483647,B,900,expression parsing-implementation,love11mishra,Java 8,280,20480000
+21363251,32,1476201831,2147483647,B,900,expression parsing-implementation,Ahmed.Shawky,Java 8,248,20480000
+21317258,32,1476013537,2147483647,B,900,expression parsing-implementation,anubhav_deshwal,Java 8,280,20889600
+21267644,32,1475877565,2147483647,B,900,expression parsing-implementation,Amr_Ayman,Java 8,248,20480000
+21265715,32,1475868939,2147483647,A,800,brute force,Dekacc,Java 8,278,20684800
+21265507,32,1475868248,2147483647,B,900,expression parsing-implementation,Dekacc,Java 8,374,20480000
+21251918,32,1475824101,2147483647,A,800,brute force,yari1612,Java 8,310,20684800
+21207041,32,1475667215,2147483647,B,900,expression parsing-implementation,manindr,Java 8,280,0
+21173021,32,1475526377,2147483647,B,900,expression parsing-implementation,eng.baher,Java 8,248,0
+21146841,32,1475497221,2147483647,D,1700,implementation,lehar,Java 8,998,0
+21142915,32,1475495970,2147483647,C,1700,math,lehar,Java 8,310,0
+21134782,32,1475492837,2147483647,B,900,expression parsing-implementation,lehar,Java 8,310,0
+21134601,32,1475492256,2147483647,A,800,brute force,lehar,Java 8,310,0
+21132341,32,1475485670,2147483647,B,900,expression parsing-implementation,pvtuan10,Java 8,340,0
+21119079,32,1475423176,2147483647,B,900,expression parsing-implementation,Myonaiz,Java 8,280,0
+21109146,32,1475396667,2147483647,B,900,expression parsing-implementation,da_201501181,Java 8,278,0
+21047467,32,1475259709,2147483647,B,900,expression parsing-implementation,belowaverageguy,Java 8,280,0
+21047447,32,1475259659,2147483647,B,900,expression parsing-implementation,belowaverageguy,Java 8,280,0
+20875341,32,1474664309,2147483647,A,800,brute force,Omar_Kojak,Java 8,278,0
+20786284,32,1474415767,2147483647,B,900,expression parsing-implementation,amrsamy,Java 8,280,0
+20758700,32,1474297397,2147483647,B,900,expression parsing-implementation,Ahmad_Elsagheer,Java 8,278,0
+20756069,32,1474290757,2147483647,A,800,brute force,Ahmad_Elsagheer,Java 8,248,0
+20738973,32,1474213866,2147483647,A,800,brute force,hamzaBas,Java 8,310,0
+20684139,32,1474120149,2147483647,B,900,expression parsing-implementation,bebo222,Java 8,342,0
+20667553,32,1474053937,2147483647,B,900,expression parsing-implementation,mkhalel211,Java 8,310,0
+20558103,32,1473725029,2147483647,B,900,expression parsing-implementation,osamahassan245,Java 8,280,0
+20558073,32,1473724762,2147483647,B,900,expression parsing-implementation,osamahassan245,Java 8,310,0
+20491583,32,1473490560,2147483647,B,900,expression parsing-implementation,Qazaqstan,Java 8,248,0
+20473114,32,1473403492,2147483647,A,800,brute force,Qazaqstan,Java 8,248,0
+20467108,32,1473358848,2147483647,A,800,brute force,MohammadAmjad,Java 8,310,0
+20457095,32,1473334367,2147483647,A,800,brute force,Yazeed96,Java 8,280,0
+20448029,32,1473297428,2147483647,B,900,expression parsing-implementation,MohammadAmjad,Java 8,248,0
+20447480,32,1473293283,2147483647,B,900,expression parsing-implementation,Yazeed96,Java 8,248,0
+20442820,32,1473269358,2147483647,B,900,expression parsing-implementation,javaBunny,Java 8,372,0
+20375288,32,1472967961,2147483647,B,900,expression parsing-implementation,rishabh1403,Java 8,340,0
+20365993,32,1472919816,2147483647,B,900,expression parsing-implementation,Youmna_Elghandoor,Java 8,218,0
+20348267,32,1472847808,2147483647,A,800,brute force,lamborcreamy,Java 8,312,0
+20330696,32,1472761433,2147483647,B,900,expression parsing-implementation,M3Arafa,Java 8,248,0
+20070360,32,1471892358,2147483647,B,900,expression parsing-implementation,mr.baraa,Java 8,342,20787200
+20070048,32,1471891492,2147483647,A,800,brute force,mr.baraa,Java 8,310,20889600
+20027531,32,1471786063,2147483647,C,1700,math,msarhan.abc.local,Java 8,218,20480000
+20027507,32,1471786004,2147483647,C,1700,math,MeeDooBak,Java 8,218,20480000
+19979268,32,1471686569,2147483647,B,900,expression parsing-implementation,tuna,Java 8,218,20480000
+19972030,32,1471644810,2147483647,B,900,expression parsing-implementation,Nebraso,Java 8,278,20787200
+19943073,32,1471511281,2147483647,B,900,expression parsing-implementation,nagabhushan,Java 8,248,20787200
+19776804,32,1470890083,2147483647,B,900,expression parsing-implementation,CGYin,Java 8,248,20480000
+19669388,32,1470485102,2147483647,B,900,expression parsing-implementation,_gambler,Java 8,218,20480000
+19588467,32,1470180111,2147483647,B,900,expression parsing-implementation,black.arrow,Java 8,280,0
+19588168,32,1470177242,2147483647,B,900,expression parsing-implementation,mohamedelsayeed,Java 8,280,0
+19550314,32,1470027367,2147483647,B,900,expression parsing-implementation,alaa_megahed,Java 8,404,0
+19543397,32,1469989298,2147483647,B,900,expression parsing-implementation,Hoda_Hisham,Java 8,278,0
+19468968,32,1469744160,2147483647,B,900,expression parsing-implementation,G.Mohamed,Java 8,280,0
+19409394,32,1469474901,2147483647,B,900,expression parsing-implementation,NR_1995,Java 8,278,0
+19272758,32,1468998617,2147483647,B,900,expression parsing-implementation,shereifhawary,Java 7,248,0
+19218749,32,1468869444,2147483647,B,900,expression parsing-implementation,Imaginary,Java 8,310,0
+19213732,32,1468849437,2147483647,B,900,expression parsing-implementation,akosisaif,Java 8,280,0
+19182517,32,1468722663,2147483647,B,900,expression parsing-implementation,jeoj,Java 8,248,0
+19144509,32,1468563753,2147483647,B,900,expression parsing-implementation,harshitbhut14,Java 7,218,0
+19058122,32,1468356311,2147483647,B,900,expression parsing-implementation,AMNaggar,Java 8,310,0
+19055432,32,1468342880,2147483647,B,900,expression parsing-implementation,HimachalLad,Java 8,218,0
+18369820,32,1465627428,2147483647,B,900,expression parsing-implementation,poojagiri,Java 8,280,20992000
+18196792,32,1464802780,2147483647,B,900,expression parsing-implementation,Tarun2316,Java 8,280,20992000
+18196457,32,1464802615,2147483647,B,900,expression parsing-implementation,Crusader2896,Java 8,280,20992000
+17977273,32,1463564782,2147483647,A,800,brute force,anjali121,Java 8,280,20377600
+17958956,32,1463451448,2147483647,B,900,expression parsing-implementation,wonkyoung711,Java 7,248,39321600
+17958911,32,1463451154,2147483647,A,800,brute force,wonkyoung711,Java 7,280,39321600
+17831475,32,1462883757,2147483647,B,900,expression parsing-implementation,anjali121,Java 8,248,20582400
+17813440,32,1462747973,2147483647,A,800,brute force,AhmedRafeek,Java 8,340,21094400
+17430227,32,1461302907,2147483647,C,1700,math,mkirsche,Java 8,280,20275200
+16849793,32,1458534337,2147483647,C,1700,math,xiaowuc1,Java 7,310,39321600
+16613221,32,1457512219,2147483647,D,1700,implementation,alibaba,Java 7,310,0
+16189604,32,1455843834,2147483647,E,2300,geometry-implementation,mkirsche,Java 7,216,0
+15985055,32,1455356882,2147483647,B,900,expression parsing-implementation,pinky121,Java 8,278,0
+15981725,32,1455339894,2147483647,A,800,brute force,kavsub,Java 7,280,0
+15981056,32,1455333849,2147483647,A,800,brute force,pinky121,Java 8,248,0
+15782538,32,1454569263,2147483647,A,800,brute force,artemgafarov,Java 8,342,0
+15644326,32,1454066878,2147483647,C,1700,math,whhone,Java 8,218,0
+14999703,32,1451032392,2147483647,A,800,brute force,partha_sarathi,Java 8,280,0
+14841318,32,1450322685,2147483647,B,900,expression parsing-implementation,a_rendon,Java 8,186,0
+14780048,32,1449977855,2147483647,A,800,brute force,safarisoul,Java 8,312,0
+14775810,32,1449942288,2147483647,C,1700,math,alibaba,Java 8,218,0
+14775796,32,1449942218,2147483647,C,1700,math,alibaba,Java 8,248,0
+14760422,32,1449848742,2147483647,A,800,brute force,ian9696,Java 8,280,0
+14626365,32,1449092743,2147483647,B,900,expression parsing-implementation,Issa_Saman,Java 7,248,0
+14626216,32,1449091214,2147483647,A,800,brute force,Issa_Saman,Java 7,278,0
+14461455,32,1448417084,2147483647,C,1700,math,Smookiekins,Java 8,216,0
+14335797,32,1447898642,2147483647,C,1700,math,kws4679,Java 7,278,0
+14335685,32,1447897395,2147483647,B,900,expression parsing-implementation,kws4679,Java 7,248,0
+14335662,32,1447897165,2147483647,A,800,brute force,kws4679,Java 7,218,0
+14299136,32,1447683708,4908,C,1700,math,Sanatbek,Java 8,248,0
+14298018,32,1447679624,824,B,900,expression parsing-implementation,Sanatbek,Java 8,248,0
+14297888,32,1447679185,385,A,800,brute force,Sanatbek,Java 8,218,0
+13765379,32,1445404534,2147483647,A,800,brute force,bettsld,Java 7,248,0
+13409122,32,1444001018,2147483647,A,800,brute force,BASHAR_SKAFF,Java 8,342,0
+13197015,32,1443056321,2147483647,A,800,brute force,hemaBasha,Java 8,248,0
+12873816,32,1441550536,2147483647,A,800,brute force,KimoKomo,Java 7,218,0
+12872455,32,1441545141,2147483647,B,900,expression parsing-implementation,KimoKomo,Java 7,186,0
+12851883,32,1441451743,2147483647,B,900,expression parsing-implementation,amribrahim333,Java 8,278,0
+12670360,32,1440318187,2147483647,B,900,expression parsing-implementation,cool_handle_much_wow,Java 8,248,0
+12626276,32,1440152592,2147483647,B,900,expression parsing-implementation,vjudge5,Java 8,280,0
+12626174,32,1440151842,2147483647,B,900,expression parsing-implementation,vjudge5,Java 8,280,0
+12626164,32,1440151801,2147483647,B,900,expression parsing-implementation,aminul,Java 8,280,0
+12302340,32,1438425072,2147483647,B,900,expression parsing-implementation,niks.guitarist,Java 8,218,0
+12277053,32,1438271458,2147483647,D,1700,implementation,di_halt,Java 8,1744,251084800
+12274865,32,1438257866,2147483647,B,900,expression parsing-implementation,di_halt,Java 8,218,0
+12274466,32,1438254408,2147483647,A,800,brute force,di_halt,Java 8,218,0
+12262822,32,1438163297,2147483647,D,1700,implementation,someday1235,Java 7,310,0
+12249448,32,1438071975,2147483647,C,1700,math,someday1235,Java 7,156,0
+12249295,32,1438071028,2147483647,B,900,expression parsing-implementation,someday1235,Java 7,186,0
+12249209,32,1438070528,2147483647,A,800,brute force,someday1235,Java 7,248,0
+12131515,32,1437401865,2147483647,A,800,brute force,khaled_khattab,Java 7,154,0
+12131413,32,1437401117,2147483647,B,900,expression parsing-implementation,khaled_khattab,Java 7,154,0
+12040050,32,1436869687,2147483647,B,900,expression parsing-implementation,sweiss,Java 8,218,0
+11930806,32,1436070026,2147483647,A,800,brute force,TWO_POINTER,Java 7,218,0
+11930751,32,1436069169,2147483647,B,900,expression parsing-implementation,TWO_POINTER,Java 7,186,0
+11921393,32,1436004948,2147483647,A,800,brute force,sweiss,Java 8,248,0
+11887234,32,1435780377,2147483647,B,900,expression parsing-implementation,jjohn,Java 8,218,0
+11887209,32,1435780151,2147483647,A,800,brute force,jjohn,Java 8,248,0
+11687335,32,1434838444,2147483647,A,800,brute force,esraagamal,Java 7,156,0
+11687327,32,1434838401,2147483647,A,800,brute force,coder_esraa,Java 7,156,0
+11488695,32,1433687480,2147483647,A,800,brute force,IrhamMA,Java 7,218,0
+11488582,32,1433686842,2147483647,B,900,expression parsing-implementation,IrhamMA,Java 7,156,0
+11280899,32,1432654606,2147483647,B,900,expression parsing-implementation,cool_handle_much_wow,Java 8,248,0
+11233400,32,1432361715,2147483647,C,1700,math,vjudge2,Java 7,186,0
+11115941,32,1431771207,2147483647,A,800,brute force,aakashkhatri,Java 7,186,0
+10984139,32,1430660441,2147483647,B,900,expression parsing-implementation,imen,Java 8,280,28979200
+10905009,32,1430131893,2147483647,A,800,brute force,vjudge1,Java 8,310,29081600
+10855534,32,1429938802,2147483647,B,900,expression parsing-implementation,poikniok,Java 8,248,28569600
+10855517,32,1429938643,2147483647,A,800,brute force,poikniok,Java 8,248,28569600
+10569021,32,1428118067,2147483647,A,800,brute force,vjudge1,Java 8,248,0
+10564903,32,1428099917,2147483647,A,800,brute force,vjudge3,Java 7,216,0
+10564749,32,1428098651,2147483647,A,800,brute force,vjudge5,Java 8,342,0
+10564674,32,1428098206,2147483647,A,800,brute force,vjudge4,Java 8,248,0
+10564618,32,1428097781,2147483647,A,800,brute force,vjudge5,Java 8,218,0
+10564500,32,1428096761,2147483647,A,800,brute force,vjudge4,Java 8,310,0
+10564493,32,1428096708,2147483647,A,800,brute force,vjudge3,Java 8,312,0
+10564487,32,1428096620,2147483647,A,800,brute force,vjudge2,Java 8,312,0
+10536723,32,1427832634,2147483647,B,900,expression parsing-implementation,omarnvidia,Java 7,154,0
+10225858,32,1425987510,2147483647,B,900,expression parsing-implementation,YakutovDmitriy,Java 8,248,0
+10198421,32,1425765093,2147483647,B,900,expression parsing-implementation,mahertag,Java 7,186,0
+10198329,32,1425764576,2147483647,B,900,expression parsing-implementation,flyman3046,Java 8,218,0
+10104211,32,1425278724,2147483647,B,900,expression parsing-implementation,A.I.Eliwat,Java 7,218,0
+10104209,32,1425278710,2147483647,A,800,brute force,A.I.Eliwat,Java 7,216,0
+9782723,32,1423504979,2147483647,A,800,brute force,aboodmanna,Java 8,312,0
+9782137,32,1423501007,2147483647,B,900,expression parsing-implementation,aboodmanna,Java 8,248,0
+9665372,32,1422794647,2147483647,D,1700,implementation,AStepanov,Java 8,716,0
+9611954,32,1422516601,2147483647,B,900,expression parsing-implementation,LuuNhatPhi,Java 7,154,0
+9611912,32,1422516336,2147483647,A,800,brute force,LuuNhatPhi,Java 7,156,0
+9451984,32,1421518331,2147483647,B,900,expression parsing-implementation,mrF,Java 8,248,0
+9449163,32,1421487563,2147483647,C,1700,math,vjudge2,Java 8,312,0
+9424060,32,1421159128,2147483647,B,900,expression parsing-implementation,aboodxxx8,Java 8,280,0
+9423886,32,1421157587,2147483647,A,800,brute force,Mr.obeidat,Java 7,218,0
+9423125,32,1421150094,2147483647,B,900,expression parsing-implementation,Mr.obeidat,Java 7,186,0
+9387766,32,1420736085,2147483647,A,800,brute force,khaledzag,Java 7,248,0
+9387705,32,1420735311,2147483647,B,900,expression parsing-implementation,khaledzag,Java 7,218,0
+9368847,32,1420497510,2147483647,B,900,expression parsing-implementation,Hartha,Java 7,216,0
+9368745,32,1420494968,2147483647,A,800,brute force,Hartha,Java 7,248,0
+9343836,32,1420182026,2147483647,A,800,brute force,TranCongDuy,Java 6,216,0
+8627245,32,1415575083,2147483647,A,800,brute force,bullshit.ass,Java 6,218,204800
+8625516,32,1415557989,2147483647,A,800,brute force,bullshit.ass,Java 6,218,102400
+8619887,32,1415509752,2147483647,A,800,brute force,bullshit.ass,Java 6,248,102400
+8608893,32,1415386189,2147483647,A,800,brute force,archu.aspa,Java 8,280,0
+8600416,32,1415351977,2147483647,A,800,brute force,bullshit.ass,Java 6,218,307200
+8584185,32,1415253647,2147483647,B,900,expression parsing-implementation,vjudge2,Java 7,184,0
+8583107,32,1415248373,2147483647,B,900,expression parsing-implementation,vjudge2,Java 7,154,0
+8583085,32,1415248282,2147483647,B,900,expression parsing-implementation,vjudge2,Java 7,186,0
+8557621,32,1415189205,2147483647,A,800,brute force,bullshit.ass,Java 6,248,0
+8557598,32,1415189089,2147483647,A,800,brute force,bullshit.ass,Java 8,342,0
+8553753,32,1415161746,2147483647,B,900,expression parsing-implementation,Andimeo,Java 7,186,0
+8344992,32,1413913231,2147483647,B,900,expression parsing-implementation,vjudge5,Java 7,186,0
+8344891,32,1413912544,2147483647,B,900,expression parsing-implementation,vjudge5,Java 7,186,0
+8344534,32,1413910410,2147483647,B,900,expression parsing-implementation,vjudge4,Java 7,186,0
+8344374,32,1413909634,2147483647,B,900,expression parsing-implementation,vjudge4,Java 7,156,0
+8344193,32,1413908580,2147483647,B,900,expression parsing-implementation,vjudge4,Java 7,186,0
+7677773,32,1409781401,2147483647,A,800,brute force,yaramohamed1,Java 7,186,0
+7670651,32,1409693537,2147483647,B,900,expression parsing-implementation,ktasyaran,Java 8,278,0
+7301146,32,1406824999,2147483647,A,800,brute force,ctunoku,Java 7,186,0
+7217120,32,1406210335,2147483647,A,800,brute force,waledsaleh,Java 7,218,204800
+7070835,32,1405198076,2147483647,C,1700,math,waledsaleh,Java 7,248,0
+7070779,32,1405196493,2147483647,B,900,expression parsing-implementation,waledsaleh,Java 7,216,0
+6955554,32,1403658849,2147483647,B,900,expression parsing-implementation,OnceMoreTime,Java 7,186,0
+6955548,32,1403658722,2147483647,A,800,brute force,OnceMoreTime,Java 7,310,204800
+6894485,32,1402836539,2147483647,B,900,expression parsing-implementation,aectabb,Java 7,186,0
+6827757,32,1402071620,2147483647,B,900,expression parsing-implementation,ihs,Java 7,530,0
+6822810,32,1401999829,2147483647,A,800,brute force,ihs,Java 7,372,0
+6704475,32,1400938986,2147483647,B,900,expression parsing-implementation,upsolving,Java 7,154,0
+6628804,32,1400172793,2147483647,B,900,expression parsing-implementation,NoCakeNoCode,Java 7,216,0
+6621889,32,1400167779,2147483647,A,800,brute force,peter.bykov,Java 7,218,0
+6399295,32,1397799817,2147483647,A,800,brute force,jcomputer000,Java 7,154,102400
+6004707,32,1394643200,2147483647,B,900,expression parsing-implementation,marcose18,Java 7,154,0
+5951528,32,1394114852,2147483647,A,800,brute force,jackwong,Java 7,186,204800
+5835318,32,1391039236,2147483647,A,800,brute force,tomash_em,Java 7,218,102400
+5657279,32,1389394679,2147483647,D,1700,implementation,nickbuelich,Java 6,156,0
+5657255,32,1389394086,2147483647,D,1700,implementation,jcomputer000,Java 7,186,102400
+5648913,32,1389336339,2147483647,D,1700,implementation,teetora,Java 7,248,0
+5636093,32,1389160709,2147483647,B,900,expression parsing-implementation,tiny_code,Java 7,124,0
+5612662,32,1388783442,2147483647,B,900,expression parsing-implementation,cupcup,Java 7,124,0
+5612634,32,1388782990,2147483647,A,800,brute force,cupcup,Java 7,186,102400
+5565582,32,1388368382,2147483647,B,900,expression parsing-implementation,porepore1984,Java 7,124,0
+5565539,32,1388367730,2147483647,A,800,brute force,porepore1984,Java 7,124,0
+5527140,32,1388091780,2147483647,A,800,brute force,upsolving,Java 7,156,0
+5489848,32,1387679015,2147483647,E,2300,geometry-implementation,Zyflair,Java 7,124,0
+5489692,32,1387674651,2147483647,D,1700,implementation,Zyflair,Java 7,280,204800
+5489482,32,1387669804,2147483647,C,1700,math,Zyflair,Java 7,156,0
+5489424,32,1387668597,2147483647,B,900,expression parsing-implementation,Zyflair,Java 7,92,0
+5489419,32,1387668432,2147483647,A,800,brute force,Zyflair,Java 7,124,0
+5180965,32,1384984168,2147483647,A,800,brute force,vvenkai,Java 7,124,0
+5068800,32,1384180246,2147483647,B,900,expression parsing-implementation,alibaba,Java 6,186,3891200
+5057011,32,1384139324,2147483647,A,800,brute force,Jakhongir,Java 6,312,4403200
+4926815,32,1383029692,2147483647,A,800,brute force,vjudge2,Java 7,109,102400
+4914460,32,1382894031,2147483647,B,900,expression parsing-implementation,vjudge1,Java 7,62,0
+4856039,32,1382558008,2147483647,E,2300,geometry-implementation,sbatten,Java 7,156,0
+4803338,32,1381908104,2147483647,D,1700,implementation,atubo,Java 6,280,102400
+4714428,32,1381311084,2147483647,B,900,expression parsing-implementation,HamedFayez,Java 7,156,0
+4712673,32,1381285678,2147483647,A,800,brute force,alibaba,Java 6,156,0
+4431983,32,1378642876,2147483647,B,900,expression parsing-implementation,0p9o8i,Java 7,186,0
+4369740,32,1377855069,2147483647,B,900,expression parsing-implementation,sorin,Java 6,186,0
+4323493,32,1377166481,2147483647,D,1700,implementation,hs484,Java 7,342,0
+4323410,32,1377165499,2147483647,C,1700,math,hs484,Java 7,156,0
+4267007,32,1376243415,2147483647,A,800,brute force,nzko,Java 7,156,0
+4214173,32,1375363690,2147483647,A,800,brute force,av.driftking,Java 7,186,0
+4207358,32,1375250515,2147483647,A,800,brute force,kancha,Java 7,218,102400
+4171779,32,1374873582,2147483647,A,800,brute force,Togrul-BSU,Java 7,342,102400
+4171759,32,1374872876,2147483647,B,900,expression parsing-implementation,Togrul-BSU,Java 7,186,0
+4101241,32,1374185582,2147483647,B,900,expression parsing-implementation,santjuan,Java 7,78,0
+4047581,32,1373475634,2147483647,B,900,expression parsing-implementation,manishiitj,Java 6,93,0
+4047355,32,1373472114,2147483647,A,800,brute force,manishiitj,Java 6,109,0
+4042218,32,1373369675,2147483647,A,800,brute force,sonhuytran,Java 7,78,0
+3988708,32,1372476040,2147483647,B,900,expression parsing-implementation,mkirsche,Java 6,93,2252800
+3937621,32,1371966132,2147483647,A,800,brute force,vjudge5,Java 7,140,307200
+3937555,32,1371964754,2147483647,B,900,expression parsing-implementation,vjudge5,Java 7,93,102400
+3934304,32,1371873123,2147483647,A,800,brute force,kullalok,Java 6,109,2355200
+3881396,32,1371170113,2147483647,A,800,brute force,mkirsche,Java 6,109,0
+3784826,32,1369668745,2147483647,A,800,brute force,Enavik,Java 7,125,102400
+3784801,32,1369668012,2147483647,A,800,brute force,Pshenichnoe,Java 7,93,0
+3734510,32,1368901725,2147483647,A,800,brute force,HAPKOMAH,Java 7,93,204800
+3645259,32,1367097778,2147483647,A,800,brute force,moatazshawky,Java 7,125,204800
+3645253,32,1367097548,2147483647,A,800,brute force,moatazshawky,Java 7,140,204800
+3427067,32,1364729727,2147483647,B,900,expression parsing-implementation,CurbStomp,Java 7,109,0
+3327115,32,1363457310,2147483647,A,800,brute force,HamedFayez,Java 7,125,204800
+3270607,32,1362849548,2147483647,A,800,brute force,CurbStomp,Java 7,78,0
+3264479,32,1362723269,2147483647,B,900,expression parsing-implementation,su_58,Java 6,93,2355200
+3076441,32,1360123627,2147483647,B,900,expression parsing-implementation,Arshd,Java 7,93,0
+3073726,32,1360052751,2147483647,B,900,expression parsing-implementation,moha_salem,Java 7,109,0
+3072760,32,1360024929,2147483647,B,900,expression parsing-implementation,11x256,Java 7,93,0
+3070917,32,1359983730,2147483647,B,900,expression parsing-implementation,Abdelrahman_bombo,Java 7,109,102400
+2959787,32,1358601517,2147483647,C,1700,math,alexyz,Java 7,93,0
+2959681,32,1358599919,2147483647,B,900,expression parsing-implementation,alexyz,Java 7,78,0
+2959671,32,1358599724,2147483647,A,800,brute force,alexyz,Java 7,93,0
+2926289,32,1358235315,2147483647,B,900,expression parsing-implementation,xamxam23,Java 6,93,0
+2881146,32,1357579753,2147483647,B,900,expression parsing-implementation,newasmar,Java 6,93,0
+2866605,32,1357134527,1727,D,1700,implementation,hama-du,Java 6,187,204800
+2866553,32,1357133663,863,C,1700,math,hama-du,Java 6,109,0
+2866527,32,1357133069,269,B,900,expression parsing-implementation,hama-du,Java 6,78,0
+2866521,32,1357132934,134,A,800,brute force,hama-du,Java 6,140,102400
+2864996,32,1357090298,2147483647,B,900,expression parsing-implementation,z7oka,Java 6,93,0
+2768568,32,1355546406,2147483647,B,900,expression parsing-implementation,Pshenichnoe,Java 7,78,0
+2697267,32,1354714524,2147483647,A,800,brute force,su_58,Java 7,140,204800
+2415890,32,1350971707,2147483647,B,900,expression parsing-implementation,Bambam,Java 7,109,0
+2356984,32,1350182914,2147483647,A,800,brute force,FabianConP,Java 6,140,102400
+2356964,32,1350182321,2147483647,A,800,brute force,fabiankasUN,Java 6,125,102400
+2295592,32,1349268644,3644,B,900,expression parsing-implementation,mingotlik,Java 6,93,0
+2295583,32,1349268439,3439,B,900,expression parsing-implementation,-101-,Java 6,93,0
+2295551,32,1349267382,2382,A,800,brute force,mingotlik,Java 6,93,102400
+2295526,32,1349266112,1112,A,800,brute force,-101-,Java 6,125,102400
+2019591,32,1345125868,2147483647,B,900,expression parsing-implementation,goodsky,Java 7,140,45056000
+2004733,32,1344877258,2147483647,D,1700,implementation,Azat_Yusupov,Java 6,190,43417600
+2004655,32,1344874056,2147483647,D,1700,implementation,Azat_Yusupov,Java 6,1810,239308800
+2004570,32,1344871673,2147483647,C,1700,math,Azat_Yusupov,Java 6,140,43315200
+2004413,32,1344866231,2147483647,B,900,expression parsing-implementation,Azat_Yusupov,Java 6,140,43315200
+2004394,32,1344865689,2147483647,A,800,brute force,Azat_Yusupov,Java 6,160,43417600
+1995814,32,1344531442,2147483647,A,800,brute force,goodsky,Java 7,170,45158400
+1969477,32,1343869813,2147483647,B,900,expression parsing-implementation,vjudge5,Java 6,160,43315200
+1969428,32,1343869231,2147483647,B,900,expression parsing-implementation,vjudge2,Java 6,140,43315200
+1969393,32,1343868282,2147483647,A,800,brute force,vjudge5,Java 6,160,43417600
+1913995,32,1342783755,2147483647,A,800,brute force,Hangibhom,Java 6,170,43417600
+1905168,32,1342474997,2147483647,B,900,expression parsing-implementation,fxpo,Java 6,130,43315200
+1872808,32,1341641627,2147483647,A,800,brute force,fxpo,Java 6,190,43417600
+1809821,32,1340087848,1648,D,1700,implementation,yarrr,Java 7,450,44953600
+1809811,32,1340087410,1210,C,1700,math,yarrr,Java 7,130,44851200
+1809799,32,1340086490,290,B,900,expression parsing-implementation,yarrr,Java 7,130,44851200
+1809797,32,1340086321,121,A,800,brute force,yarrr,Java 7,130,44851200
+1765964,32,1338902446,3046,D,1700,implementation,littlepanda,Java 7,380,45158400
+1765940,32,1338901498,2098,C,1700,math,littlepanda,Java 7,110,44953600
+1765860,32,1338899866,466,B,900,expression parsing-implementation,littlepanda,Java 7,110,44953600
+1765849,32,1338899615,215,A,800,brute force,littlepanda,Java 7,140,45056000
+1668803,32,1336459153,2147483647,A,800,brute force,bidzilya,Java 7,90,44851200
+1567020,32,1334663175,2147483647,E,2300,geometry-implementation,todo,Java 6,110,43212800
+1567016,32,1334662999,2147483647,E,2300,geometry-implementation,todo,Java 6,110,43212800
+1565156,32,1334654178,2478,D,1700,implementation,todo,Java 6,170,43315200
+1565145,32,1334653142,1442,C,1700,math,todo,Java 6,110,43212800
+1565125,32,1334652165,465,B,900,expression parsing-implementation,todo,Java 6,110,43212800
+1565117,32,1334651963,263,A,800,brute force,todo,Java 6,140,43315200
+1407207,32,1332650347,2147483647,A,800,brute force,kenthang,Java 7,130,44851200
+1283123,32,1330877652,2147483647,B,900,expression parsing-implementation,peking2,Java 6,110,44953600
+1283027,32,1330877370,2147483647,A,800,brute force,peking2,Java 6,130,44953600
+1236935,32,1330263961,2147483647,B,900,expression parsing-implementation,RusRip,Java 6,110,44953600
+1236765,32,1330259903,5183,D,1700,implementation,Lymphz,Java 6,160,45158400
+1236554,32,1330255907,1187,B,900,expression parsing-implementation,Lymphz,Java 6,90,44953600
+1236517,32,1330255204,484,A,800,brute force,Lymphz,Java 6,160,44953600
+1177015,32,1329227354,7154,E,2300,geometry-implementation,van2007,Java 6,110,43212800
+1152641,32,1328512011,2147483647,D,1700,implementation,Mostafa.Ali,Java 6,190,43110400
+1150563,32,1328428513,2147483647,C,1700,math,Mostafa.Ali,Java 6,110,43212800
+1150432,32,1328424384,2147483647,B,900,expression parsing-implementation,Mostafa.Ali,Java 6,90,43110400
+1150424,32,1328424035,2147483647,A,800,brute force,Mostafa.Ali,Java 6,140,43212800
+1149451,32,1328371838,2147483647,D,1700,implementation,mostafa_fahim,Java 6,160,43212800
+1149208,32,1328367333,2147483647,C,1700,math,mostafa_fahim,Java 6,90,43110400
+1070627,32,1326749587,2147483647,A,800,brute force,AbdelrahmanAsal,Java 6,130,43212800
+987659,32,1324937846,2147483647,A,800,brute force,ilovepink,Java 6,110,43315200
+971271,32,1324536587,2147483647,B,900,expression parsing-implementation,stevenkplus,Java 6,90,43110400
+971266,32,1324536330,2147483647,B,900,expression parsing-implementation,ilovepink,Java 6,110,43110400
+955754,32,1323909079,2147483647,A,800,brute force,stevenkplus,Java 6,140,43212800
+952010,32,1323630615,37627815,D,1700,implementation,islam-al-aarag,Java 6,300,98304000
+949476,32,1323514918,37512118,C,1700,math,islam-al-aarag,Java 6,140,43110400
+931389,32,1286003845,1045,B,900,expression parsing-implementation,iksuy,Java 6,140,35328000
+931370,32,1286003263,463,A,800,brute force,iksuy,Java 6,190,35328000
+883922,32,1321866029,35863229,B,900,expression parsing-implementation,xiaowuc1,Java 6,110,43008000
+826394,32,1320323766,34320966,B,900,expression parsing-implementation,epizend,Java 6,140,43110400
+824586,32,1320231400,34228600,B,900,expression parsing-implementation,wackloner,Java 6,110,43008000
+824556,32,1320230249,34227449,A,800,brute force,Sinner,Java 6,140,43212800
+823645,32,1320172123,34169323,B,900,expression parsing-implementation,Izot_NNSTU,Java 6,130,43110400
+820101,32,1319997819,33995019,A,800,brute force,wackloner,Java 6,110,35225600
+807882,32,1319736793,33733993,A,800,brute force,Izot_NNSTU,Java 6,160,43212800
+785485,32,1319056933,33054133,A,800,brute force,nmacho,Java 6,140,43315200
+706511,32,1316260399,30257599,C,1700,math,_jte_,Java 6,110,35430400
+706498,32,1316260049,30257249,B,900,expression parsing-implementation,_jte_,Java 6,130,35328000
+706492,32,1316259898,30257098,A,800,brute force,_jte_,Java 6,110,35430400
+690312,32,1315781516,29778716,D,1700,implementation,ahmad_mamdouh,Java 6,310,35328000
+667795,32,1315143974,29141174,B,900,expression parsing-implementation,morin,Java 6,90,35225600
+655811,32,1314963410,28960610,B,900,expression parsing-implementation,nah1,Java 6,110,35225600
+655803,32,1314962984,28960184,A,800,brute force,nah1,Java 6,160,35328000
+625448,32,1313997181,27994381,B,900,expression parsing-implementation,Slamur,Java 6,110,34918400
+613494,32,1313560086,27557286,B,900,expression parsing-implementation,nickbuelich,Java 6,110,35225600
+603790,32,1313140301,27137501,A,800,brute force,Dunaril,Java 6,130,35225600
+603772,32,1313139368,27136568,B,900,expression parsing-implementation,Dunaril,Java 6,110,35225600
+568061,32,1311842835,25840035,A,800,brute force,xiaowuc1,Java 6,110,35123200
+564664,32,1311576270,25573470,B,900,expression parsing-implementation,islam-al-aarag,Java 6,110,43008000
+564517,32,1311570579,25567779,A,800,brute force,islam-al-aarag,Java 6,130,43110400
+562356,32,1311415917,25413117,E,2300,geometry-implementation,bogdan.sumy.ua,Java 6,110,43110400
+562151,32,1311408334,25405534,A,800,brute force,JoKe,Java 6,140,43212800
+547932,32,1310759409,24756609,B,900,expression parsing-implementation,Nox,Java 6,80,43008000
+545620,32,1310676595,24673795,A,800,brute force,Nox,Java 6,90,43212800
+544840,32,1310610984,24608184,B,900,expression parsing-implementation,kiko91_7,Java 6,110,35225600
+544783,32,1310595063,24592263,A,800,brute force,kiko91_7,Java 6,140,35328000
+542616,32,1310420412,24417612,A,800,brute force,sroyal,Java 6,140,43110400
+542614,32,1310420161,24417361,B,900,expression parsing-implementation,sroyal,Java 6,110,43008000
+527750,32,1309775995,23773195,B,900,expression parsing-implementation,altais,Java 6,90,35020800
+513157,32,1309271776,23268976,A,800,brute force,altais,Java 6,90,43110400
+508337,32,1308790183,22787383,B,900,expression parsing-implementation,DoublePointer,Java 6,90,43008000
+508115,32,1308763703,22760903,A,800,brute force,DoublePointer,Java 6,140,43110400
+496922,32,1308387404,22384604,B,900,expression parsing-implementation,foldel,Java 6,110,35225600
+486527,32,1307923065,21920265,D,1700,implementation,tehqin,Java 6,330,35328000
+486525,32,1307921750,21918950,C,1700,math,tehqin,Java 6,110,35225600
+486515,32,1307918580,21915780,B,900,expression parsing-implementation,tehqin,Java 6,110,35225600
+486514,32,1307918311,21915511,A,800,brute force,tehqin,Java 6,140,35328000
+474992,32,1307089992,21087192,A,800,brute force,eipie,Java 6,140,43315200
+422492,32,1304369161,18366361,A,800,brute force,flash36,Java 6,140,43315200
+413254,32,1303933893,17931093,B,900,expression parsing-implementation,flash36,Java 6,110,43315200
+407377,32,1303725788,17722988,B,900,expression parsing-implementation,Wahba,Java 6,80,43315200
+407375,32,1303725260,17722460,A,800,brute force,Wahba,Java 6,90,43315200
+337405,32,1300144916,14142116,B,900,expression parsing-implementation,o948,Java 6,90,43315200
+330657,32,1299824360,13821560,A,800,brute force,pavankrish1,Java 6,110,43315200
+329306,32,1299666936,13664136,B,900,expression parsing-implementation,Sammarize,Java 6,110,43315200
+328507,32,1299585111,13582311,A,800,brute force,paulus,Java 6,140,43417600
+328032,32,1299552132,13549332,A,800,brute force,Sammarize,Java 6,90,43315200
+309483,32,1298903680,12900880,E,2300,geometry-implementation,RAVEman,Java 6,130,43315200
+309438,32,1298900355,12897555,D,1700,implementation,RAVEman,Java 6,170,43315200
+309430,32,1298899814,12897014,C,1700,math,RAVEman,Java 6,90,43315200
+309425,32,1298899528,12896728,B,900,expression parsing-implementation,RAVEman,Java 6,90,43315200
+309421,32,1298899381,12896581,A,800,brute force,RAVEman,Java 6,130,43315200
+287457,32,1298067543,12064743,B,900,expression parsing-implementation,marque,Java 6,110,43315200
+284415,32,1297642720,11639920,B,900,expression parsing-implementation,ahmad_mamdouh,Java 6,90,43315200
+284411,32,1297641560,11638760,A,800,brute force,ahmad_mamdouh,Java 6,110,43315200
+275396,32,1296888332,10885532,A,800,brute force,littlealex,Java 6,90,43417600
+267637,32,1296355194,10352394,A,800,brute force,marque,Java 6,130,43417600
+261328,32,1295929636,9926836,A,800,brute force,nickbuelich,Java 6,160,43417600
+253179,32,1295170564,9167764,A,800,brute force,Slamur,Java 6,90,43417600
+248853,32,1294989520,8986720,D,1700,implementation,S.Yesipenko,Java 6,500,43417600
+248840,32,1294986348,8983548,C,1700,math,S.Yesipenko,Java 6,90,43417600
+247982,32,1294852814,8850014,D,1700,implementation,caustique,Java 6,130,43417600
+244142,32,1294688386,8685586,B,900,expression parsing-implementation,dalex,Java 6,90,43417600
+244138,32,1294688016,8685216,A,800,brute force,dalex,Java 6,90,43417600
+243147,32,1294590804,8588004,B,900,expression parsing-implementation,S.Yesipenko,Java 6,90,43417600
+243133,32,1294590198,8587398,A,800,brute force,S.Yesipenko,Java 6,90,43417600
+141516,32,1293023850,7021050,B,900,expression parsing-implementation,hungamaboy,Java 6,90,43315200
+141514,32,1293023142,7020342,A,800,brute force,hungamaboy,Java 6,140,43315200
+141513,32,1292932373,6929573,B,900,expression parsing-implementation,Alexanderrrr,Java 6,110,43315200
+141510,32,1292930671,6927871,A,800,brute force,Alexanderrrr,Java 6,480,43315200
+141358,32,1287724459,1721659,C,1700,math,lijunle,Java 6,90,43315200
+141357,32,1287724428,1721628,B,900,expression parsing-implementation,lijunle,Java 6,110,43315200
+141356,32,1287724400,1721600,D,1700,implementation,lijunle,Java 6,390,43315200
+141355,32,1287724357,1721557,A,800,brute force,lijunle,Java 6,110,43315200
+141271,32,1287085822,1083022,E,2300,geometry-implementation,MAK,Java 6,90,43315200
+141237,32,1286967407,964607,B,900,expression parsing-implementation,nise_nabe,Java 6,90,43315200
+141236,32,1286966635,963835,A,800,brute force,nise_nabe,Java 6,130,43315200
+141229,32,1286945130,942330,D,1700,implementation,z7oka,Java 6,270,43315200
+141215,32,1286926487,923687,B,900,expression parsing-implementation,z7oka,Java 6,110,43315200
+141214,32,1286925819,923019,A,800,brute force,z7oka,Java 6,140,43315200
+141201,32,1286867530,864730,D,1700,implementation,yukimi,Java 6,170,43315200
+141200,32,1286865114,862314,C,1700,math,yukimi,Java 6,90,43315200
+141196,32,1286863654,860854,B,900,expression parsing-implementation,yukimi,Java 6,90,43315200
+141194,32,1286863205,860405,A,800,brute force,yukimi,Java 6,130,43315200
+141179,32,1286794945,792145,C,1700,math,Tribal,Java 6,90,43315200
+141174,32,1286792120,789320,B,900,expression parsing-implementation,jdillet,Java 6,90,43315200
+141173,32,1286791909,789109,A,800,brute force,jdillet,Java 6,110,43315200
+141146,32,1286742277,739477,B,900,expression parsing-implementation,haytham,Java 6,80,43315200
+141142,32,1286739051,736251,A,800,brute force,haytham,Java 6,250,43315200
+141139,32,1286738305,735505,B,900,expression parsing-implementation,Tribal,Java 6,190,43315200
+141137,32,1286738210,735410,A,800,brute force,m_a_s_91,Java 6,380,43315200
+141087,32,1286659510,656710,D,1700,implementation,emily0421,Java 6,280,43315200
+141072,32,1286654640,651840,C,1700,math,dana,Java 6,300,43315200
+141068,32,1286654059,651259,D,1700,implementation,msobin,Java 6,140,43315200
+141060,32,1286651988,649188,C,1700,math,msobin,Java 6,90,43315200
+141052,32,1286647528,644728,B,900,expression parsing-implementation,msobin,Java 6,90,43315200
+141051,32,1286647434,644634,B,900,expression parsing-implementation,dana,Java 6,80,43315200
+141050,32,1286646995,644195,A,800,brute force,dana,Java 6,440,43315200
+140966,32,1286529184,526384,B,900,expression parsing-implementation,m3m,Java 6,80,43315200
+140857,32,1286443626,440826,B,900,expression parsing-implementation,makagonov,Java 6,90,43315200
+140856,32,1286443415,440615,A,800,brute force,makagonov,Java 6,90,43315200
+140829,32,1286407816,405016,E,2300,geometry-implementation,vyxaryx,Java 6,80,43315200
+140812,32,1286401001,398201,D,1700,implementation,vyxaryx,Java 6,1780,244019200
+140803,32,1286399509,396709,C,1700,math,vyxaryx,Java 6,60,43315200
+140799,32,1286398860,396060,B,900,expression parsing-implementation,vyxaryx,Java 6,80,43315200
+140796,32,1286398611,395811,A,800,brute force,vyxaryx,Java 6,90,43315200
+140728,32,1286376144,373344,A,800,brute force,Ernestas,Java 6,130,43315200
+140705,32,1286364374,361574,A,800,brute force,Atef,Java 6,130,43315200
+140661,32,1286303545,300745,B,900,expression parsing-implementation,Ignorance,Java 6,90,43315200
+140660,32,1286303347,300547,A,800,brute force,Ignorance,Java 6,130,43315200
+140509,32,1286234374,231574,D,1700,implementation,Ahmed_Salama,Java 6,130,43315200
+140488,32,1286225940,223140,E,2300,geometry-implementation,fetetriste,Java 6,80,43315200
+140483,32,1286225840,223040,E,2300,geometry-implementation,fetetriste,Java 6,80,43315200
+140465,32,1286221319,218519,E,2300,geometry-implementation,cerealguy,Java 6,80,43315200
+140457,32,1286219952,217152,C,1700,math,fetetriste,Java 6,110,43315200
+140451,32,1286219405,216605,D,1700,implementation,fetetriste,Java 6,800,182067200
+140446,32,1286217824,215024,B,900,expression parsing-implementation,fetetriste,Java 6,60,43315200
+140444,32,1286217640,214840,A,800,brute force,fetetriste,Java 6,90,43315200
+140410,32,1286211393,208593,D,1700,implementation,cerealguy,Java 6,110,43315200
+140407,32,1286210981,208181,C,1700,math,cerealguy,Java 6,60,43315200
+140404,32,1286210684,207884,B,900,expression parsing-implementation,cerealguy,Java 6,60,43315200
+140403,32,1286210546,207746,A,800,brute force,cerealguy,Java 6,90,43315200
+140386,32,1286203498,200698,B,900,expression parsing-implementation,Atef,Java 6,80,43315200
+140364,32,1286191966,189166,D,1700,implementation,dimka,Java 6,480,43315200
+140357,32,1286190440,187640,C,1700,math,dimka,Java 6,90,43315200
+140353,32,1286189099,186299,B,900,expression parsing-implementation,dimka,Java 6,80,43315200
+140351,32,1286188722,185922,A,800,brute force,dimka,Java 6,130,43315200
+140234,32,1286170157,167357,C,1700,math,Ahmed_Salama,Java 6,80,43315200
+140221,32,1286158586,155786,A,800,brute force,qwrq,Java 6,110,43315200
+140207,32,1286150294,147494,B,900,expression parsing-implementation,Ahmed_Salama,Java 6,60,43315200
+140206,32,1286149837,147037,A,800,brute force,Ahmed_Salama,Java 6,90,43315200
+140155,32,1286133006,130206,D,1700,implementation,uwi,Java 6,1130,206131200
+140152,32,1286131075,128275,C,1700,math,uwi,Java 6,80,43315200
+140145,32,1286130346,127546,B,900,expression parsing-implementation,uwi,Java 6,90,43315200
+140144,32,1286130148,127348,A,800,brute force,uwi,Java 6,110,43315200
+140086,32,1286115171,112371,D,1700,implementation,userlond,Java 6,390,43315200
+140036,32,1286110036,107236,A,800,brute force,mostafa_elabady,Java 6,80,43315200
+140023,32,1286100348,97548,C,1700,math,master_j,Java 6,80,43315200
+139995,32,1286089209,86409,B,900,expression parsing-implementation,samshu,Java 6,60,43315200
+139971,32,1286082229,79429,B,900,expression parsing-implementation,caustique,Java 6,80,43315200
+139968,32,1286081378,78578,A,800,brute force,caustique,Java 6,80,43315200
+139955,32,1286067935,65135,B,900,expression parsing-implementation,aquinas16,Java 6,80,43315200
+139954,32,1286066513,63713,A,800,brute force,aquinas16,Java 6,80,43315200
+139905,32,1286048156,45356,A,800,brute force,Abra,Java 6,80,43315200
+139892,32,1286045916,43116,B,900,expression parsing-implementation,Abra,Java 6,80,43315200
+139890,32,1286045651,42851,C,1700,math,Abra,Java 6,80,43315200
+139889,32,1286045538,42738,D,1700,implementation,master_j,Java 6,130,43315200
+139887,32,1286045478,42678,D,1700,implementation,master_j,Java 6,130,43315200
+139886,32,1286045465,42665,C,1700,math,Abra,Java 6,80,43315200
+139879,32,1286045068,42268,B,900,expression parsing-implementation,userlond,Java 6,80,43315200
+139878,32,1286045031,42231,D,1700,implementation,master_j,Java 6,170,43315200
+139875,32,1286044749,41949,D,1700,implementation,Abra,Java 6,140,43315200
+139867,32,1286043057,40257,A,800,brute force,userlond,Java 6,80,43315200
+139484,32,1286017846,15046,D,1700,implementation,niyaznigmatul,Java 6,190,43417600
+139471,32,1286017583,14783,E,2300,geometry-implementation,FunnyWarp,Java 6,90,43417600
+139462,32,1286017323,14523,B,900,expression parsing-implementation,rybak,Java 6,80,43417600
+139384,32,1286014934,12134,A,800,brute force,satoshii,Java 6,130,43417600
+139344,32,1286014156,11356,A,800,brute force,rybak,Java 6,110,43417600
+139308,32,1286013446,10646,C,1700,math,3ijunle,Java 6,90,43417600
+139302,32,1286013379,10579,B,900,expression parsing-implementation,alper,Java 6,60,43417600
+139276,32,1286012895,10095,C,1700,math,FunnyWarp,Java 6,60,43417600
+139256,32,1286012612,9812,D,1700,implementation,3ijunle,Java 6,360,43417600
+139237,32,1286012443,9643,C,1700,math,FunnyWarp,Java 6,90,43417600
+139133,32,1286011538,8738,A,800,brute force,alper,Java 6,170,43417600
+139109,32,1286011391,8591,B,900,expression parsing-implementation,rexim,Java 6,80,43417600
+139107,32,1286011373,8573,A,800,brute force,rexim,Java 6,90,43417600
+139105,32,1286011359,8559,C,1700,math,msagimbekov,Java 6,110,43417600
+139103,32,1286011348,8548,B,900,expression parsing-implementation,msagimbekov,Java 6,80,43417600
+139101,32,1286011334,8534,A,800,brute force,msagimbekov,Java 6,140,43417600
+139043,32,1286009752,6952,C,1700,math,dr.madis,Java 6,80,43417600
+138683,32,1286007497,4697,D,1700,implementation,Abra,Java 6,140,43417600
+138644,32,1286007212,4412,D,1700,implementation,mdldml,Java 6,130,43417600
+138553,32,1286006705,3905,D,1700,implementation,JamesTaggart,Java 6,200,43417600
+138547,32,1286006660,3860,D,1700,implementation,Googly,Java 6,130,43417600
+138505,32,1286006423,3623,D,1700,implementation,Rei,Java 6,270,43520000
+138407,32,1286005916,3116,B,900,expression parsing-implementation,master_j,Java 6,60,43417600
+138394,32,1286005873,3073,B,900,expression parsing-implementation,dizpers,Java 6,80,43417600
+138321,32,1286005542,2742,D,1700,implementation,mastersobg,Java 6,280,98099200
+138314,32,1286005501,2701,C,1700,math,Googly,Java 6,80,43417600
+138301,32,1286005443,2643,B,900,expression parsing-implementation,Irkovskaya_Vika,Java 6,90,43417600
+138299,32,1286005439,2639,C,1700,math,mdldml,Java 6,170,43417600
+138282,32,1286005362,2562,B,900,expression parsing-implementation,Abra,Java 6,80,43315200
+138277,32,1286005325,2525,C,1700,math,JamesTaggart,Java 6,160,43417600
+138258,32,1286005173,2373,A,800,brute force,master_j,Java 6,80,43417600
+138254,32,1286005136,2336,C,1700,math,Egor,Java 6,80,43315200
+138240,32,1286005062,2262,A,800,brute force,Abra,Java 6,90,43315200
+138183,32,1286004808,2008,B,900,expression parsing-implementation,FunnyWarp,Java 6,80,43417600
+138163,32,1286004698,1898,D,1700,implementation,Egor,Java 6,90,43315200
+138146,32,1286004581,1781,D,1700,implementation,Efgen,Java 6,110,43417600
+138123,32,1286004468,1668,A,800,brute force,Irkovskaya_Vika,Java 6,130,43417600
+138119,32,1286004462,1662,B,900,expression parsing-implementation,jarin,Java 6,80,43417600
+138100,32,1286004383,1583,C,1700,math,Rei,Java 6,60,43417600
+138066,32,1286004257,1457,B,900,expression parsing-implementation,dr.madis,Java 6,90,43417600
+138043,32,1286004217,1417,B,900,expression parsing-implementation,satoshii,Java 6,90,43417600
+138008,32,1286004114,1314,B,900,expression parsing-implementation,Googly,Java 6,90,43417600
+137975,32,1286004022,1222,B,900,expression parsing-implementation,mdldml,Java 6,80,43417600
+137949,32,1286003978,1178,B,900,expression parsing-implementation,Efgen,Java 6,60,43417600
+137942,32,1286003969,1169,B,900,expression parsing-implementation,Egor,Java 6,80,43417600
+137918,32,1286003930,1130,C,1700,math,Efgen,Java 6,80,43417600
+137903,32,1286003890,1090,B,900,expression parsing-implementation,Rei,Java 6,60,43417600
+137881,32,1286003818,1018,B,900,expression parsing-implementation,mastersobg,Java 6,60,43417600
+137870,32,1286003803,1003,D,1700,implementation,FunnyWarp,Java 6,130,43520000
+137853,32,1286003773,973,B,900,expression parsing-implementation,shalinmangar,Java 6,60,43417600
+137820,32,1286003698,898,B,900,expression parsing-implementation,3ijunle,Java 6,90,43417600
+137819,32,1286003697,897,A,800,brute force,dr.madis,Java 6,110,43417600
+137782,32,1286003594,794,A,800,brute force,Googly,Java 6,110,43417600
+137766,32,1286003566,766,A,800,brute force,dizpers,Java 6,80,43417600
+137754,32,1286003549,749,B,900,expression parsing-implementation,JamesTaggart,Java 6,60,43417600
+137727,32,1286003487,687,A,800,brute force,mdldml,Java 6,130,43417600
+137724,32,1286003485,685,A,800,brute force,jarin,Java 6,80,43417600
+137658,32,1286003306,506,A,800,brute force,Egor,Java 6,80,43417600
+137632,32,1286003231,431,A,800,brute force,Rei,Java 6,90,43417600
+137606,32,1286003170,370,A,800,brute force,JamesTaggart,Java 6,90,43417600
+137564,32,1286003080,280,A,800,brute force,3ijunle,Java 6,130,43417600
+137561,32,1286003077,277,A,800,brute force,shalinmangar,Java 6,80,43417600
+137549,32,1286003057,257,A,800,brute force,Efgen,Java 6,90,43417600
+137519,32,1286002980,180,A,800,brute force,FunnyWarp,Java 6,80,43417600
+137511,32,1286002898,98,A,800,brute force,mastersobg,Java 6,90,43417600

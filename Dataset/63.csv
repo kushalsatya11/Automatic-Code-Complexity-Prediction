@@ -1,0 +1,1058 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57381744,63,1563634356,2147483647,A,1100,implementation-sortings-strings,vjudge4,Java 8,280,0
+57195154,63,1563364633,2147483647,A,1100,implementation-sortings-strings,deepaktiwari9898,Java 8,310,0
+56507615,63,1562231129,2147483647,A,1100,implementation-sortings-strings,dtrifonov32,Java 8,310,0
+56271875,63,1561811210,2147483647,B,1200,implementation,shubhampasari,Java 8,280,0
+55673567,63,1560762401,2147483647,A,1100,implementation-sortings-strings,bencebosko,Java 8,248,0
+55531689,63,1560434122,2147483647,A,1100,implementation-sortings-strings,Ikari_stream,Java 8,310,0
+55121277,63,1559731745,2147483647,C,1800,brute force-implementation,chojh1222,Java 8,280,0
+55116573,63,1559724982,2147483647,C,1800,brute force-implementation,chojh1222,Java 8,248,0
+54819071,63,1559173831,2147483647,B,1200,implementation,BiggestPrime,Java 8,218,0
+53830952,63,1557172712,2147483647,A,1100,implementation-sortings-strings,Neeerja,Java 8,280,0
+53803026,63,1557088323,2147483647,D,2000,constructive algorithms,Ahmed.Shawky,Java 8,218,0
+53017933,63,1555686276,2147483647,D,2000,constructive algorithms,h_elloworl_d,Java 8,248,0
+52819354,63,1555413248,2147483647,B,1200,implementation,saurabhs1206,Java 8,218,0
+52653744,63,1555091345,2147483647,B,1200,implementation,newheathen,Java 8,280,0
+52650403,63,1555086064,2147483647,A,1100,implementation-sortings-strings,newheathen,Java 8,310,0
+52622499,63,1555024570,2147483647,B,1200,implementation,Ahmed..Adel..Selim,Java 8,218,0
+52427801,63,1554581574,2147483647,B,1200,implementation,shubhammitt,Java 8,248,0
+52427377,63,1554580787,2147483647,A,1100,implementation-sortings-strings,shubhammitt,Java 8,218,0
+52427312,63,1554580678,2147483647,A,1100,implementation-sortings-strings,shubhammitt,Java 8,248,0
+52425192,63,1554577230,2147483647,A,1100,implementation-sortings-strings,csesabbir,Java 8,280,0
+52310875,63,1554388488,2147483647,C,1800,brute force-implementation,h_elloworl_d,Java 8,280,0
+51946425,63,1553793038,2147483647,A,1100,implementation-sortings-strings,ridamnagar11,Java 8,280,0
+51941624,63,1553784266,2147483647,A,1100,implementation-sortings-strings,HossamTag10,Java 8,280,0
+51841813,63,1553554403,2147483647,C,1800,brute force-implementation,Huhls,Java 8,280,0
+51413930,63,1552828350,2147483647,A,1100,implementation-sortings-strings,vjudge5,Java 8,278,0
+50418298,63,1550994427,2147483647,A,1100,implementation-sortings-strings,monirulvirus,Java 8,310,0
+49664458,63,1549720153,2147483647,A,1100,implementation-sortings-strings,vjudge1,Java 8,280,0
+49624766,63,1549624880,2147483647,A,1100,implementation-sortings-strings,vjudge3,Java 8,278,0
+49624762,63,1549624872,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,280,0
+49623621,63,1549622595,2147483647,A,1100,implementation-sortings-strings,vjudge1,Java 8,342,0
+49623511,63,1549622384,2147483647,A,1100,implementation-sortings-strings,vjudge3,Java 8,278,0
+49623221,63,1549621807,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,278,0
+49622734,63,1549620923,2147483647,A,1100,implementation-sortings-strings,low_iq300,Java 8,280,0
+49622714,63,1549620892,2147483647,A,1100,implementation-sortings-strings,vjudge4,Java 8,310,0
+49622443,63,1549620463,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,280,0
+49622385,63,1549620372,2147483647,A,1100,implementation-sortings-strings,vjudge3,Java 8,280,0
+49622325,63,1549620264,2147483647,A,1100,implementation-sortings-strings,vjudge5,Java 8,248,0
+49621819,63,1549619340,2147483647,A,1100,implementation-sortings-strings,vjudge4,Java 8,310,0
+49465233,63,1549291673,2147483647,A,1100,implementation-sortings-strings,jessicatrana,Java 8,280,0
+49447741,63,1549255578,2147483647,A,1100,implementation-sortings-strings,jessicatrana,Java 8,280,0
+49292509,63,1548965072,2147483647,A,1100,implementation-sortings-strings,loganbrubaker1,Java 8,312,0
+49289449,63,1548960684,2147483647,A,1100,implementation-sortings-strings,micknick1997,Java 8,280,21094400
+49284264,63,1548955314,2147483647,A,1100,implementation-sortings-strings,Rwelk,Java 8,310,21094400
+49283913,63,1548955007,2147483647,A,1100,implementation-sortings-strings,trillionaire,Java 8,342,21094400
+49049330,63,1548584267,2147483647,B,1200,implementation,I.A.K.O.V,Java 8,218,0
+48986479,63,1548505859,2147483647,C,1800,brute force-implementation,AWCXV,Java 8,312,0
+47771497,63,1546206337,2147483647,C,1800,brute force-implementation,Ahmed.Shawky,Java 8,218,0
+47706926,63,1546118426,2147483647,A,1100,implementation-sortings-strings,kareem_fathy,Java 8,218,0
+47493616,63,1545745353,2147483647,B,1200,implementation,vjudge1,Java 8,280,0
+47489475,63,1545736338,2147483647,A,1100,implementation-sortings-strings,vjudge5,Java 8,280,0
+47487796,63,1545732106,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,280,0
+47486894,63,1545729628,2147483647,A,1100,implementation-sortings-strings,easyeasier,Java 8,280,0
+47362243,63,1545470623,2147483647,B,1200,implementation,deepak4669,Java 8,248,0
+47362203,63,1545470538,2147483647,B,1200,implementation,deepak4669,Java 8,218,0
+47312021,63,1545338680,2147483647,C,1800,brute force-implementation,KulikAlex,Java 8,248,0
+46785704,63,1544336291,2147483647,A,1100,implementation-sortings-strings,Ahmed_N,Java 8,248,0
+46016296,63,1542772420,2147483647,B,1200,implementation,Ahmed..Adel..Selim,Java 8,248,0
+46015650,63,1542769334,2147483647,A,1100,implementation-sortings-strings,Ahmed..Adel..Selim,Java 8,218,0
+46014929,63,1542765024,2147483647,D,2000,constructive algorithms,CodeRusuban,Java 8,340,0
+45669272,63,1542101609,2147483647,A,1100,implementation-sortings-strings,I.A.K.O.V,Java 8,218,0
+45218438,63,1541186462,2147483647,A,1100,implementation-sortings-strings,woodyinho,Java 8,218,0
+44770294,63,1540382605,2147483647,A,1100,implementation-sortings-strings,aman28rwt,Java 8,248,0
+43875121,63,1538787655,2147483647,C,1800,brute force-implementation,prashantpiyush,Java 8,280,0
+43571386,63,1538226419,2147483647,A,1100,implementation-sortings-strings,_lucho,Java 8,310,0
+43217823,63,1537550378,2147483647,A,1100,implementation-sortings-strings,mi11er,Java 8,310,0
+43010831,63,1537208953,2147483647,A,1100,implementation-sortings-strings,youmna1,Java 8,280,0
+42945428,63,1537100914,2147483647,A,1100,implementation-sortings-strings,MrRsell,Java 8,310,0
+42900391,63,1537036606,2147483647,A,1100,implementation-sortings-strings,Hanan_1995,Java 8,278,0
+42888027,63,1537009539,2147483647,A,1100,implementation-sortings-strings,Sara_Qassab,Java 8,342,0
+42887600,63,1537008706,2147483647,A,1100,implementation-sortings-strings,f.sarmini94,Java 8,404,0
+42886776,63,1537007099,2147483647,A,1100,implementation-sortings-strings,azooz.sy,Java 8,342,0
+42886634,63,1537006836,2147483647,A,1100,implementation-sortings-strings,BanderMater,Java 8,374,0
+42885804,63,1537004918,2147483647,A,1100,implementation-sortings-strings,MHariri,Java 8,342,0
+42885747,63,1537004774,2147483647,A,1100,implementation-sortings-strings,MariamHaitham,Java 8,374,0
+42885686,63,1537004619,2147483647,A,1100,implementation-sortings-strings,azooz97,Java 8,342,0
+42881821,63,1536996243,2147483647,B,1200,implementation,Hasib_Ullah,Java 8,280,0
+42863860,63,1536935100,2147483647,A,1100,implementation-sortings-strings,WithCare,Java 8,342,0
+42768993,63,1536676311,2147483647,A,1100,implementation-sortings-strings,f.sarmini94,Java 8,342,0
+42734448,63,1536585126,2147483647,A,1100,implementation-sortings-strings,MariamHaitham,Java 8,374,0
+42734375,63,1536585017,2147483647,A,1100,implementation-sortings-strings,test-123,Java 8,374,0
+42718802,63,1536528859,2147483647,A,1100,implementation-sortings-strings,MHariri,Java 8,342,0
+42355987,63,1535877842,2147483647,B,1200,implementation,vjudge1,Java 8,310,0
+41921042,63,1534825087,2147483647,A,1100,implementation-sortings-strings,pratik_bangar,Java 8,340,0
+41510836,63,1534039560,2147483647,B,1200,implementation,vjudge3,Java 8,340,0
+41510133,63,1534037547,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,342,0
+40937679,63,1532933397,2147483647,A,1100,implementation-sortings-strings,ravanyvr,Java 8,342,0
+40937183,63,1532932107,2147483647,A,1100,implementation-sortings-strings,Tanmayee_Menta,Java 8,310,0
+40936309,63,1532928976,2147483647,A,1100,implementation-sortings-strings,sushmasushma,Java 8,310,0
+40936025,63,1532927890,2147483647,A,1100,implementation-sortings-strings,AnilReddy,Java 8,312,0
+40701240,63,1532430064,2147483647,A,1100,implementation-sortings-strings,zeyad_khattab,Java 8,248,0
+40282229,63,1531496017,2147483647,A,1100,implementation-sortings-strings,Ayrus_togaru,Java 8,342,0
+40229354,63,1531393333,2147483647,A,1100,implementation-sortings-strings,emanhesham,Java 8,310,0
+40220251,63,1531375328,2147483647,A,1100,implementation-sortings-strings,amribrahim333,Java 8,310,0
+39989715,63,1530807331,2147483647,A,1100,implementation-sortings-strings,Hasib_Ullah,Java 8,280,0
+39862947,63,1530522604,2147483647,A,1100,implementation-sortings-strings,vjudge3,Java 8,310,0
+39817062,63,1530436725,2147483647,A,1100,implementation-sortings-strings,Abhinav9297,Java 8,280,0
+39814025,63,1530428190,2147483647,A,1100,implementation-sortings-strings,f2015332,Java 8,248,0
+39807224,63,1530391781,2147483647,A,1100,implementation-sortings-strings,prashantpiyush,Java 8,310,0
+39786963,63,1530329591,2147483647,A,1100,implementation-sortings-strings,vjudge1,Java 8,310,0
+39786206,63,1530326556,2147483647,A,1100,implementation-sortings-strings,vjudge5,Java 8,342,0
+39785741,63,1530324701,2147483647,A,1100,implementation-sortings-strings,vjudge4,Java 8,312,0
+39734139,63,1530166664,2147483647,A,1100,implementation-sortings-strings,vjudge5,Java 8,312,0
+38945759,63,1528118445,2147483647,A,1100,implementation-sortings-strings,Ahmed_Diab,Java 8,248,20480000
+38812368,63,1527795138,2147483647,A,1100,implementation-sortings-strings,Soumit38,Java 8,312,21094400
+38529941,63,1526981039,2147483647,A,1100,implementation-sortings-strings,aditya124578,Java 8,280,0
+37743212,63,1525075514,2147483647,A,1100,implementation-sortings-strings,ashcodish,Java 8,374,21094400
+37587584,63,1524630557,2147483647,A,1100,implementation-sortings-strings,Y-R,Java 8,404,21913600
+37585656,63,1524616834,2147483647,A,1100,implementation-sortings-strings,gamesterrex,Java 8,404,21811200
+37542498,63,1524444012,2147483647,A,1100,implementation-sortings-strings,ghangh,Java 8,310,21094400
+37363605,63,1523842922,2147483647,A,1100,implementation-sortings-strings,samiyounis01,Java 8,248,20684800
+37256225,63,1523550619,2147483647,A,1100,implementation-sortings-strings,iblucaz,Java 8,312,21094400
+36880956,63,1522679028,2147483647,C,1800,brute force-implementation,Mattt27,Java 8,342,20992000
+36865348,63,1522625556,2147483647,C,1800,brute force-implementation,Rborr,Java 8,372,21094400
+36783679,63,1522529410,2147483647,A,1100,implementation-sortings-strings,totallynotan,Java 8,280,20684800
+36652863,63,1522094867,2147483647,A,1100,implementation-sortings-strings,LAKOUAM_IMAD,Java 8,310,21094400
+36465607,63,1521671118,2147483647,A,1100,implementation-sortings-strings,ISSAM_LAKOUAM,Java 8,310,21094400
+36137953,63,1520660814,2147483647,B,1200,implementation,lehar_11,Java 8,310,20992000
+36137443,63,1520659740,2147483647,A,1100,implementation-sortings-strings,lehar_11,Java 8,310,21094400
+36052683,63,1520443439,2147483647,B,1200,implementation,mona_hashem,Java 8,280,20684800
+35966792,63,1520256523,2147483647,A,1100,implementation-sortings-strings,mona_hashem,Java 8,248,20684800
+35773472,63,1519760310,2147483647,A,1100,implementation-sortings-strings,mo7amed.mo5tar,Java 8,312,21094400
+35773425,63,1519760180,2147483647,A,1100,implementation-sortings-strings,mo7amed.mo5tar10101,Java 8,312,21094400
+35727250,63,1519639041,2147483647,A,1100,implementation-sortings-strings,mariem_kandil,Java 8,248,20684800
+35406977,63,1518866245,2147483647,B,1200,implementation,mariem_kandil,Java 8,280,20992000
+35377567,63,1518817702,2147483647,B,1200,implementation,Hoda_Hisham,Java 8,248,20684800
+35377360,63,1518816909,2147483647,A,1100,implementation-sortings-strings,Hoda_Hisham,Java 8,218,20684800
+35174051,63,1518428498,2147483647,C,1800,brute force-implementation,Nesrin,Java 8,248,20684800
+35158073,63,1518365260,2147483647,C,1800,brute force-implementation,mennafadali,Java 8,248,20684800
+35107950,63,1518219811,2147483647,A,1100,implementation-sortings-strings,Hanan_1995,Java 8,248,20684800
+35099094,63,1518194888,2147483647,B,1200,implementation,bagdina,Java 8,280,21196800
+35099057,63,1518194843,2147483647,B,1200,implementation,bagdina,Java 8,280,21196800
+35098687,63,1518194221,2147483647,B,1200,implementation,aktilek,Java 8,310,21196800
+35098519,63,1518193980,2147483647,B,1200,implementation,aktilek,Java 8,280,21196800
+35098348,63,1518193716,2147483647,B,1200,implementation,4ina,Java 8,280,20992000
+35098164,63,1518193411,2147483647,B,1200,implementation,AlpZh,Java 8,280,20992000
+35097973,63,1518193149,2147483647,B,1200,implementation,sovetbekovmadi,Java 8,280,20992000
+35097452,63,1518192356,2147483647,B,1200,implementation,maksatuly,Java 8,310,20992000
+35097264,63,1518192118,2147483647,B,1200,implementation,KudabayevTemirlan,Java 8,310,21094400
+35096524,63,1518191040,2147483647,B,1200,implementation,Bekka,Java 8,310,20992000
+35094812,63,1518188570,2147483647,B,1200,implementation,Bzarina,Java 8,280,20992000
+34894603,63,1517661872,2147483647,B,1200,implementation,chemouna,Java 8,342,21094400
+34783545,63,1517441804,2147483647,A,1100,implementation-sortings-strings,cmjohnson1,Java 8,310,20992000
+34783533,63,1517441762,2147483647,A,1100,implementation-sortings-strings,mrydson,Java 8,310,21094400
+34783429,63,1517441201,2147483647,A,1100,implementation-sortings-strings,MandyRoCs,Java 8,310,21094400
+34783078,63,1517439333,2147483647,A,1100,implementation-sortings-strings,gtadeusoares,Java 8,280,20992000
+34782988,63,1517438818,2147483647,A,1100,implementation-sortings-strings,carladaza,Java 8,310,21094400
+34782809,63,1517438006,2147483647,A,1100,implementation-sortings-strings,mcabezas26,Java 8,280,21094400
+34611521,63,1517070457,2147483647,A,1100,implementation-sortings-strings,chemouna,Java 8,280,20992000
+34286384,63,1516309290,2147483647,B,1200,implementation,CharlesDai,Java 8,248,20684800
+34261242,63,1516221039,2147483647,A,1100,implementation-sortings-strings,CharlesDai,Java 8,248,20684800
+33975591,63,1515295131,2147483647,A,1100,implementation-sortings-strings,Sharon,Java 8,310,21094400
+32488826,63,1511150714,2147483647,A,1100,implementation-sortings-strings,praveenkulkarni,Java 8,310,0
+32239989,63,1510480790,2147483647,A,1100,implementation-sortings-strings,ahmedayman96,Java 8,310,0
+31908625,63,1509413089,2147483647,A,1100,implementation-sortings-strings,vjudge1,Java 8,280,0
+31908624,63,1509413078,2147483647,A,1100,implementation-sortings-strings,vjudge1,Java 8,310,0
+31908308,63,1509410702,2147483647,A,1100,implementation-sortings-strings,vjudge5,Java 8,278,0
+31908230,63,1509410234,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,278,0
+31908180,63,1509409893,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,248,0
+31908039,63,1509409074,2147483647,A,1100,implementation-sortings-strings,vjudge2,Java 8,280,0
+31254969,63,1507825671,2147483647,B,1200,implementation,sjain281297,Java 8,218,0
+30999008,63,1507137277,2147483647,A,1100,implementation-sortings-strings,apurvaj,Java 8,278,0
+30495326,63,1505820634,2147483647,A,1100,implementation-sortings-strings,zodiacleo,Java 8,218,0
+30490744,63,1505806788,2147483647,A,1100,implementation-sortings-strings,shubham95,Java 8,374,0
+30489952,63,1505803997,2147483647,A,1100,implementation-sortings-strings,shubham95,Java 8,374,0
+30130722,63,1504699588,2147483647,A,1100,implementation-sortings-strings,MQstafa,Java 8,310,0
+30017187,63,1504370699,2147483647,A,1100,implementation-sortings-strings,Israa-96,Java 8,342,0
+29898167,63,1504028789,2147483647,B,1200,implementation,RaghadManDoDecoder,Java 8,280,0
+29898146,63,1504028636,2147483647,B,1200,implementation,RaghadManDoDecoder,Java 8,310,0
+29898111,63,1504028325,2147483647,B,1200,implementation,RaghadManDoDecoder,Java 8,280,0
+29786518,63,1503677432,2147483647,A,1100,implementation-sortings-strings,TVH,Java 8,218,0
+29326179,63,1502367604,2147483647,B,1200,implementation,amrmohammed362,Java 8,216,20582400
+29308870,63,1502291977,2147483647,B,1200,implementation,kocko,Java 8,248,20582400
+29308656,63,1502291208,2147483647,A,1100,implementation-sortings-strings,kocko,Java 8,186,20582400
+29297552,63,1502252304,2147483647,A,1100,implementation-sortings-strings,Omegaxis213,Java 8,248,20582400
+28750908,63,1500643256,2147483647,A,1100,implementation-sortings-strings,mostafayousry8,Java 8,278,20889600
+28724689,63,1500553633,2147483647,A,1100,implementation-sortings-strings,Ahmad-Abusbeih,Java 8,280,20889600
+28696457,63,1500467978,2147483647,A,1100,implementation-sortings-strings,a_jh2009,Java 8,218,20582400
+28049863,63,1498456408,2147483647,A,1100,implementation-sortings-strings,raghul_natarajan,Java 8,280,20889600
+27876243,63,1497759544,2147483647,A,1100,implementation-sortings-strings,Yazeed96,Java 8,248,0
+27709496,63,1497111787,2147483647,A,1100,implementation-sortings-strings,batkhuyag,Java 8,280,0
+27175829,63,1495012101,2147483647,A,1100,implementation-sortings-strings,DavidVictor2004,Java 8,248,0
+27005648,63,1494473713,2147483647,A,1100,implementation-sortings-strings,justcode99,Java 8,248,0
+26602971,63,1492947922,2147483647,A,1100,implementation-sortings-strings,enoris,Java 8,310,20889600
+26481751,63,1492538375,2147483647,B,1200,implementation,AhmedSoliman,Java 8,218,20172800
+26408528,63,1492332036,2147483647,C,1800,brute force-implementation,iblucaz,Java 8,280,20684800
+26401237,63,1492307553,2147483647,C,1800,brute force-implementation,aiman_KAU,Java 8,280,20992000
+26380081,63,1492261997,2147483647,C,1800,brute force-implementation,jcazalas,Java 8,278,20582400
+26369778,63,1492228444,2147483647,C,1800,brute force-implementation,faisal_f6,Java 8,342,20992000
+26336964,63,1492086893,2147483647,C,1800,brute force-implementation,yousefBaj,Java 8,310,20889600
+26336857,63,1492086633,2147483647,C,1800,brute force-implementation,wewebj,Java 8,310,20889600
+25553868,63,1489678825,2147483647,A,1100,implementation-sortings-strings,moh_yehia,Java 8,218,20582400
+25011980,63,1488025159,2147483647,A,1100,implementation-sortings-strings,Kammola,Java 8,218,20582400
+24912608,63,1487840584,2147483647,A,1100,implementation-sortings-strings,jcazalas,Java 8,280,20889600
+24912496,63,1487840217,2147483647,A,1100,implementation-sortings-strings,iblucaz,Java 8,342,20889600
+24911328,63,1487838275,2147483647,A,1100,implementation-sortings-strings,yousefBaj,Java 8,310,20889600
+24911322,63,1487838261,2147483647,A,1100,implementation-sortings-strings,OdaiGH,Java 8,312,20889600
+24911314,63,1487838245,2147483647,A,1100,implementation-sortings-strings,roudies,Java 8,280,20889600
+24911207,63,1487837791,2147483647,A,1100,implementation-sortings-strings,Amman20,Java 8,310,20992000
+24909726,63,1487831947,2147483647,A,1100,implementation-sortings-strings,Amman20,Java 8,278,20582400
+24909623,63,1487831569,2147483647,A,1100,implementation-sortings-strings,Amman20,Java 8,404,20992000
+24897640,63,1487780586,2147483647,A,1100,implementation-sortings-strings,AhmedSoliman,Java 8,248,20582400
+24614157,63,1486921836,2147483647,A,1100,implementation-sortings-strings,Ajudiya_13,Java 8,280,20480000
+24452728,63,1486303066,2147483647,B,1200,implementation,xodiac,Java 8,248,20172800
+24352864,63,1485975783,2147483647,B,1200,implementation,tomdmitriev,Java 8,340,20480000
+24010368,63,1484999796,2147483647,C,1800,brute force-implementation,dftte,Java 8,372,20992000
+23901597,63,1484655630,2147483647,B,1200,implementation,Dexter420,Java 8,280,20582400
+23678732,63,1484042872,2147483647,B,1200,implementation,_lucifer_,Java 8,310,21094400
+23530189,63,1483515243,2147483647,C,1800,brute force-implementation,kws4679,Java 8,342,21094400
+23347046,63,1482779684,2147483647,B,1200,implementation,prakash9,Java 8,218,20582400
+22897708,63,1481517292,2147483647,A,1100,implementation-sortings-strings,iSepp,Java 8,280,0
+22769131,63,1481054316,2147483647,A,1100,implementation-sortings-strings,vjudge3,Java 8,280,20992000
+22505994,63,1480155369,2147483647,B,1200,implementation,mohammad_adnan,Java 8,342,0
+22296526,63,1479415560,2147483647,A,1100,implementation-sortings-strings,MohammadSh1997,Java 8,248,0
+22258788,63,1479276593,2147483647,B,1200,implementation,kumarsatish2708,Java 8,218,0
+22204574,63,1479113416,2147483647,A,1100,implementation-sortings-strings,Ballan,Java 8,342,0
+22169534,63,1478898151,2147483647,A,1100,implementation-sortings-strings,Consciencer,Java 8,278,0
+22087635,63,1478488932,2147483647,B,1200,implementation,lehar,Java 8,310,0
+22087470,63,1478487409,2147483647,A,1100,implementation-sortings-strings,lehar,Java 8,310,0
+21383998,63,1476282160,2147483647,A,1100,implementation-sortings-strings,cero,Java 8,466,21401600
+20937417,63,1474948326,2147483647,B,1200,implementation,Qazaqstan,Java 8,280,0
+20797819,63,1474468311,2147483647,A,1100,implementation-sortings-strings,Taz,Java 8,310,0
+20784737,63,1474403623,2147483647,C,1800,brute force-implementation,pitfall,Java 8,404,0
+20773574,63,1474369648,2147483647,C,1800,brute force-implementation,Hartha,Java 8,278,0
+20645694,63,1473961378,2147483647,B,1200,implementation,adityagupta1089,Java 8,374,0
+20543973,63,1473662565,2147483647,A,1100,implementation-sortings-strings,Qazaqstan,Java 8,248,0
+20529058,63,1473592316,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,Ahmad_Elsagheer,Java 8,1278,0
+20499380,63,1473518333,2147483647,B,1200,implementation,aminebeach,Java 8,342,0
+20489915,63,1473481909,2147483647,A,1100,implementation-sortings-strings,rishabh1403,Java 8,280,0
+20394310,63,1473056661,2147483647,A,1100,implementation-sortings-strings,sabrina87,Java 8,342,0
+20343243,63,1472828576,2147483647,B,1200,implementation,Mohanad_Elmaghrby,Java 8,342,0
+20334184,63,1472786916,2147483647,C,1800,brute force-implementation,Ahmad_Elsagheer,Java 8,280,0
+20331303,63,1472764235,2147483647,D,2000,constructive algorithms,Ahmad_Elsagheer,Java 8,278,0
+20331018,63,1472762808,2147483647,B,1200,implementation,Ahmad_Elsagheer,Java 8,218,0
+20026643,63,1471783177,2147483647,C,1800,brute force-implementation,hosam.yousof,Java 8,310,20684800
+20026099,63,1471781147,2147483647,C,1800,brute force-implementation,Faisal_31,Java 8,404,20582400
+20025786,63,1471780005,2147483647,C,1800,brute force-implementation,Fawzia,Java 8,310,20480000
+20025684,63,1471779664,2147483647,C,1800,brute force-implementation,TahaniQadi,Java 8,280,20480000
+20025618,63,1471779453,2147483647,C,1800,brute force-implementation,jcazalas,Java 8,312,20480000
+20025155,63,1471777781,2147483647,C,1800,brute force-implementation,msarhan.abc.local,Java 8,404,20787200
+19950165,63,1471539852,2147483647,A,1100,implementation-sortings-strings,naveenkakani,Java 8,218,20480000
+19767757,63,1470840438,2147483647,A,1100,implementation-sortings-strings,Youmna_Elghandoor,Java 8,218,20377600
+19767498,63,1470839505,2147483647,A,1100,implementation-sortings-strings,Kharouba,Java 8,248,20377600
+19767450,63,1470839365,2147483647,A,1100,implementation-sortings-strings,Ahmed.Shawky,Java 8,248,20480000
+19683404,63,1470559665,2147483647,A,1100,implementation-sortings-strings,Fawzia,Java 7,280,39116800
+19683312,63,1470559293,2147483647,A,1100,implementation-sortings-strings,JaberAlsalamah,Java 8,280,20787200
+19683216,63,1470558954,2147483647,A,1100,implementation-sortings-strings,jcazalas,Java 8,310,20889600
+19683205,63,1470558927,2147483647,A,1100,implementation-sortings-strings,Shindory,Java 8,310,20787200
+19683170,63,1470558779,2147483647,A,1100,implementation-sortings-strings,nuha.mohd,Java 8,310,20787200
+19683126,63,1470558621,2147483647,A,1100,implementation-sortings-strings,Amman20,Java 8,280,20889600
+19683087,63,1470558485,2147483647,A,1100,implementation-sortings-strings,faisal_f6,Java 8,280,20787200
+19683032,63,1470558243,2147483647,A,1100,implementation-sortings-strings,hosam.yousof,Java 8,280,20787200
+19682997,63,1470558099,2147483647,A,1100,implementation-sortings-strings,moyasr_tam2,Java 8,280,20787200
+19682951,63,1470557939,2147483647,A,1100,implementation-sortings-strings,Fawzia,Java 7,278,39116800
+19682837,63,1470557497,2147483647,A,1100,implementation-sortings-strings,TahaniQadi,Java 8,342,20889600
+19682805,63,1470557392,2147483647,A,1100,implementation-sortings-strings,hosam.yousof,Java 8,310,20787200
+19682803,63,1470557386,2147483647,A,1100,implementation-sortings-strings,msarhan.abc.local,Java 8,280,20787200
+19682798,63,1470557376,2147483647,A,1100,implementation-sortings-strings,nazariazargul,Java 8,280,20787200
+19682761,63,1470557238,2147483647,A,1100,implementation-sortings-strings,ShinyWolf,Java 8,280,20889600
+19682732,63,1470557153,2147483647,A,1100,implementation-sortings-strings,Faisal_31,Java 8,280,20787200
+19659409,63,1470436939,2147483647,A,1100,implementation-sortings-strings,ababababab,Java 8,280,20889600
+19055326,63,1468342497,2147483647,A,1100,implementation-sortings-strings,gaurav97,Java 8,280,0
+18991410,63,1468096196,2147483647,B,1200,implementation,505alex,Java 8,310,0
+18776723,63,1467169831,2147483647,B,1200,implementation,Kharouba,Java 8,248,0
+18483219,63,1465945334,2147483647,A,1100,implementation-sortings-strings,Ahed-Alrashaida,Java 7,218,39219200
+18480836,63,1465936924,2147483647,A,1100,implementation-sortings-strings,ehapmgs,Java 7,278,39014400
+18275072,63,1465242442,2147483647,A,1100,implementation-sortings-strings,frktry,Java 7,312,39219200
+18144821,63,1464519381,2147483647,A,1100,implementation-sortings-strings,Fatemeh,Java 8,342,20992000
+18049677,63,1464056546,2147483647,A,1100,implementation-sortings-strings,wonkyoung711,Java 7,280,39424000
+17967573,63,1463491436,2147483647,B,1200,implementation,Crusader2896,Java 8,310,20992000
+17699504,63,1462285481,2147483647,A,1100,implementation-sortings-strings,danuwfna,Java 8,280,20480000
+17545515,63,1461783350,2147483647,B,1200,implementation,sfmunera,Java 7,248,39321600
+17169207,63,1459852634,2147483647,A,1100,implementation-sortings-strings,Omar_Morsi,Java 8,248,20582400
+16831942,63,1458452805,2147483647,D,2000,constructive algorithms,ValleZ,Java 8,278,20992000
+16624462,63,1457557493,2147483647,A,1100,implementation-sortings-strings,MGriisser,Java 8,280,0
+16346576,63,1456490715,2147483647,B,1200,implementation,Corvus,Java 8,218,0
+16160785,63,1455810898,2147483647,A,1100,implementation-sortings-strings,kavsub,Java 7,248,0
+16056131,63,1455627477,2147483647,A,1100,implementation-sortings-strings,EMilos,Java 8,310,0
+16025021,63,1455489707,2147483647,A,1100,implementation-sortings-strings,jwozniak,Java 8,310,0
+16024598,63,1455486377,2147483647,A,1100,implementation-sortings-strings,Ahmad,Java 8,248,0
+15846254,63,1454778042,2147483647,A,1100,implementation-sortings-strings,I_do,Java 7,248,0
+15761725,63,1454471526,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15761706,63,1454471397,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15761583,63,1454470678,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742907,63,1454383503,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742895,63,1454383352,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742865,63,1454383119,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,216,0
+15742857,63,1454383080,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742830,63,1454382847,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+15742823,63,1454382801,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+15742580,63,1454380654,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742572,63,1454380617,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742569,63,1454380592,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+15742488,63,1454380041,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742469,63,1454379850,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,216,0
+15742448,63,1454379678,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742412,63,1454379481,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15742094,63,1454376831,2147483647,A,1100,implementation-sortings-strings,kzhai190,Java 8,278,0
+15741972,63,1454375873,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15741936,63,1454375495,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,216,0
+15738838,63,1454355421,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+15738787,63,1454355219,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,312,0
+15738776,63,1454355179,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+15738580,63,1454354391,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15738542,63,1454354251,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+15738198,63,1454352784,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,280,0
+15738101,63,1454352360,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,342,0
+15738091,63,1454352319,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+15731724,63,1454332924,2147483647,A,1100,implementation-sortings-strings,Hanan_1995,Java 7,186,0
+15731689,63,1454332828,2147483647,A,1100,implementation-sortings-strings,Hanan_1995,Java 7,278,0
+15730755,63,1454329966,2147483647,A,1100,implementation-sortings-strings,Hanan_1995,Java 7,216,0
+15722699,63,1454291687,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+15638014,63,1454031284,2147483647,A,1100,implementation-sortings-strings,emyITC,Java 8,278,0
+15564926,63,1453682176,2147483647,A,1100,implementation-sortings-strings,yehiahd,Java 8,278,0
+15414575,63,1453033951,2147483647,A,1100,implementation-sortings-strings,xxrzkxx,Java 7,278,0
+15279399,63,1452425253,2147483647,A,1100,implementation-sortings-strings,edraz27,Java 8,280,0
+15193921,63,1452014576,2147483647,A,1100,implementation-sortings-strings,ranam,Java 8,310,0
+15189091,63,1451983250,2147483647,B,1200,implementation,JohnnyJi,Java 8,342,0
+15158070,63,1451735737,2147483647,C,1800,brute force-implementation,Espeon,Java 8,310,0
+15157658,63,1451733280,2147483647,B,1200,implementation,Espeon,Java 8,248,0
+15157306,63,1451731119,2147483647,A,1100,implementation-sortings-strings,Espeon,Java 8,280,0
+15081771,63,1451378883,2147483647,B,1200,implementation,AJ_Coder,Java 7,218,0
+15068939,63,1451298618,2147483647,A,1100,implementation-sortings-strings,elkady.shady,Java 7,218,0
+15042487,63,1451214872,2147483647,A,1100,implementation-sortings-strings,DarkknightRHZ,Java 7,248,0
+15028379,63,1451118653,2147483647,A,1100,implementation-sortings-strings,Gochi,Java 8,248,0
+14833703,63,1450267233,2147483647,A,1100,implementation-sortings-strings,vcfl,Java 8,310,0
+14780821,63,1449986682,2147483647,A,1100,implementation-sortings-strings,safarisoul,Java 8,310,0
+14670765,63,1449369869,2147483647,A,1100,implementation-sortings-strings,ehapmgs,Java 7,218,0
+14115540,63,1446862608,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,218,0
+14114685,63,1446851762,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,248,0
+14114669,63,1446851570,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,280,0
+14114480,63,1446849968,2147483647,A,1100,implementation-sortings-strings,Qabas,Java 7,248,0
+14113438,63,1446842655,2147483647,A,1100,implementation-sortings-strings,MOHMMAD_HMEAD,Java 8,248,0
+14113374,63,1446842241,2147483647,A,1100,implementation-sortings-strings,anasanoos,Java 7,248,0
+14113340,63,1446842041,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,278,0
+14113284,63,1446841702,2147483647,A,1100,implementation-sortings-strings,Hanan_1995,Java 7,248,0
+13996392,63,1446331897,2147483647,B,1200,implementation,omarfarhat97,Java 8,278,0
+13970276,63,1446293367,2147483647,A,1100,implementation-sortings-strings,uzi007,Java 8,436,0
+13766494,63,1445411319,2147483647,A,1100,implementation-sortings-strings,mohieddine,Java 8,280,0
+13470455,63,1444212096,2147483647,A,1100,implementation-sortings-strings,miguel_palma,Java 8,374,0
+13470242,63,1444211149,2147483647,A,1100,implementation-sortings-strings,ALoremia,Java 8,218,0
+13470134,63,1444210860,2147483647,A,1100,implementation-sortings-strings,loanedstar,Java 7,156,0
+13470032,63,1444210451,2147483647,A,1100,implementation-sortings-strings,PPTGamer,Java 7,186,0
+13405240,63,1443975908,2147483647,B,1200,implementation,mehmed_77,Java 7,186,0
+13405033,63,1443974887,2147483647,A,1100,implementation-sortings-strings,mehmed_77,Java 7,186,0
+13247744,63,1443349911,2147483647,A,1100,implementation-sortings-strings,omarfarhat97,Java 7,186,0
+13119730,63,1442784491,2147483647,A,1100,implementation-sortings-strings,WrightJosh,Java 7,186,0
+13092268,63,1442603390,2147483647,A,1100,implementation-sortings-strings,TWO_POINTER,Java 8,218,0
+13091459,63,1442599185,2147483647,A,1100,implementation-sortings-strings,waledsaleh,Java 7,186,0
+12690750,63,1440468518,2147483647,A,1100,implementation-sortings-strings,dedo,Java 8,312,0
+12549060,63,1439649590,2147483647,A,1100,implementation-sortings-strings,Ahmad_Elsagheer,Java 8,218,0
+12479180,63,1439381734,2147483647,A,1100,implementation-sortings-strings,Trasier,Java 7,154,0
+12395130,63,1438902917,2147483647,C,1800,brute force-implementation,JesseJames,Java 8,310,0
+12389039,63,1438866605,2147483647,B,1200,implementation,JesseJames,Java 8,218,0
+12387603,63,1438860609,2147483647,A,1100,implementation-sortings-strings,JesseJames,Java 8,310,0
+12384147,63,1438846891,2147483647,A,1100,implementation-sortings-strings,SAFWAN.K,Java 7,186,0
+12271654,63,1438232774,2147483647,A,1100,implementation-sortings-strings,Solve_All_Bs,Java 8,248,0
+12264234,63,1438172164,2147483647,A,1100,implementation-sortings-strings,2468,Java 8,248,0
+12222352,63,1437809670,2147483647,B,1200,implementation,sweiss,Java 8,218,0
+12200558,63,1437656229,2147483647,A,1100,implementation-sortings-strings,khaled_khattab,Java 7,186,0
+12199577,63,1437652428,2147483647,B,1200,implementation,khaled_khattab,Java 7,186,0
+12138441,63,1437434376,2147483647,A,1100,implementation-sortings-strings,karimation,Java 7,186,0
+12106278,63,1437224866,2147483647,A,1100,implementation-sortings-strings,Eslam_ELgohary,Java 7,156,0
+12093305,63,1437123274,2147483647,A,1100,implementation-sortings-strings,Pussy_penetrator,Java 7,156,0
+11567822,63,1434197775,2147483647,A,1100,implementation-sortings-strings,Tamtomus,Java 8,248,0
+11516918,63,1433911038,2147483647,A,1100,implementation-sortings-strings,Darmen,Java 7,186,0
+11364853,63,1433065549,2147483647,B,1200,implementation,Hartha,Java 8,248,0
+11103226,63,1431655762,2147483647,A,1100,implementation-sortings-strings,nguyenmanhphuc,Java 8,280,0
+11065952,63,1431289138,2147483647,B,1200,implementation,poikniok,Java 8,248,0
+11061346,63,1431248444,2147483647,A,1100,implementation-sortings-strings,aakashkhatri,Java 7,154,0
+10699680,63,1428976846,2147483647,A,1100,implementation-sortings-strings,arshimido,Java 7,156,0
+10668998,63,1428853351,2147483647,C,1800,brute force-implementation,tanhauhau,Java 7,592,0
+10668641,63,1428851060,2147483647,D,2000,constructive algorithms,tanhauhau,Java 7,186,0
+10662079,63,1428805927,2147483647,B,1200,implementation,tanhauhau,Java 7,186,0
+10662052,63,1428805373,2147483647,A,1100,implementation-sortings-strings,tanhauhau,Java 7,216,0
+10660390,63,1428779230,2147483647,A,1100,implementation-sortings-strings,zCode93,Java 7,156,0
+10653639,63,1428706123,2147483647,A,1100,implementation-sortings-strings,SAFWAN.K,Java 8,280,0
+10630960,63,1428501626,2147483647,A,1100,implementation-sortings-strings,Renad1,Java 7,154,0
+10620581,63,1428406238,2147483647,A,1100,implementation-sortings-strings,Ahed-Alrashaida,Java 7,186,0
+10616263,63,1428351726,2147483647,A,1100,implementation-sortings-strings,omarnvidia,Java 7,154,0
+10342221,63,1426706431,2147483647,C,1800,brute force-implementation,dumak,Java 8,248,0
+10312731,63,1426610411,2147483647,A,1100,implementation-sortings-strings,MOHMMAD_HMEAD,Java 7,186,0
+10309026,63,1426589016,2147483647,A,1100,implementation-sortings-strings,waleedquwaider,Java 7,186,0
+10272816,63,1426341495,2147483647,A,1100,implementation-sortings-strings,vugar,Java 8,280,0
+10263945,63,1426288157,2147483647,A,1100,implementation-sortings-strings,waleedquwaider,Java 7,186,0
+10252099,63,1426197532,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,Zyflair,Java 8,248,0
+10251251,63,1426189407,2147483647,D,2000,constructive algorithms,Zyflair,Java 8,218,0
+10250692,63,1426185432,2147483647,A,1100,implementation-sortings-strings,Montasser.Al-Aqrbawi,Java 8,280,0
+10249058,63,1426175318,2147483647,C,1800,brute force-implementation,Zyflair,Java 8,218,0
+10247247,63,1426163811,2147483647,B,1200,implementation,Zyflair,Java 8,218,0
+10247091,63,1426162924,2147483647,A,1100,implementation-sortings-strings,Zyflair,Java 8,218,0
+10247033,63,1426162639,2147483647,A,1100,implementation-sortings-strings,anasanoos,Java 7,216,0
+10229777,63,1426012196,2147483647,A,1100,implementation-sortings-strings,AhmedRagabIssa,Java 8,280,0
+10215903,63,1425893158,2147483647,A,1100,implementation-sortings-strings,sweiss,Java 7,156,0
+10212347,63,1425847566,2147483647,B,1200,implementation,flyman3046,Java 8,218,0
+10182416,63,1425671162,2147483647,A,1100,implementation-sortings-strings,adigaman5,Java 8,280,0
+10182413,63,1425671154,2147483647,A,1100,implementation-sortings-strings,AhmadX1,Java 7,186,0
+10182411,63,1425671138,2147483647,A,1100,implementation-sortings-strings,adigaman5,Java 7,186,0
+9884175,63,1424189939,2147483647,A,1100,implementation-sortings-strings,stolis,Java 7,186,0
+9878412,63,1424147734,2147483647,A,1100,implementation-sortings-strings,AUR,Java 7,186,0
+9784788,63,1423528426,2147483647,A,1100,implementation-sortings-strings,loremipsumpy,Java 8,280,0
+9745918,63,1423324411,2147483647,A,1100,implementation-sortings-strings,Hartha,Java 8,280,0
+9628683,63,1422633598,2147483647,D,2000,constructive algorithms,di_halt,Java 7,154,0
+9628079,63,1422630204,2147483647,C,1800,brute force-implementation,di_halt,Java 7,184,0
+9620336,63,1422568851,2147483647,B,1200,implementation,di_halt,Java 7,154,0
+9619740,63,1422563630,2147483647,A,1100,implementation-sortings-strings,di_halt,Java 7,154,0
+9532730,63,1422061477,2147483647,A,1100,implementation-sortings-strings,aboodmanna,Java 8,278,0
+9532542,63,1422058724,2147483647,A,1100,implementation-sortings-strings,n4pst3r,Java 7,186,0
+9452197,63,1421521389,2147483647,A,1100,implementation-sortings-strings,AIDOS,Java 7,154,0
+9445542,63,1421431672,2147483647,A,1100,implementation-sortings-strings,.vr,Java 7,186,0
+9440185,63,1421383362,2147483647,A,1100,implementation-sortings-strings,trungkienioicamp,Java 7,186,0
+9438289,63,1421346173,2147483647,A,1100,implementation-sortings-strings,DanielK,Java 7,186,0
+9378466,63,1420628951,2147483647,A,1100,implementation-sortings-strings,Lazar_Angelov,Java 7,218,0
+9356892,63,1420335320,2147483647,A,1100,implementation-sortings-strings,.tx,Java 8,280,0
+9343240,63,1420172363,2147483647,A,1100,implementation-sortings-strings,Yoyo2014,Java 7,186,0
+9274497,63,1419589347,2147483647,A,1100,implementation-sortings-strings,shubham49,Java 6,154,0
+9218463,63,1419190541,2147483647,A,1100,implementation-sortings-strings,knight077,Java 7,218,0
+9083219,63,1418311625,2147483647,A,1100,implementation-sortings-strings,Mr.obeidat,Java 8,436,0
+9076952,63,1418251780,2147483647,A,1100,implementation-sortings-strings,Mr.obeidat,Java 8,312,0
+9075438,63,1418237962,2147483647,A,1100,implementation-sortings-strings,khaledzag,Java 7,186,0
+8997392,63,1417850970,2147483647,A,1100,implementation-sortings-strings,poikniok,Java 8,622,1740800
+8983294,63,1417709304,2147483647,A,1100,implementation-sortings-strings,myassin,Java 8,342,0
+8982298,63,1417703475,2147483647,A,1100,implementation-sortings-strings,amhodaa,Java 7,186,0
+8898504,63,1417355460,2147483647,A,1100,implementation-sortings-strings,Nitto,Java 7,218,102400
+8552860,63,1415146478,2147483647,B,1200,implementation,Andimeo,Java 7,186,0
+8460389,63,1414520146,2147483647,A,1100,implementation-sortings-strings,uberclock,Java 8,374,102400
+8460158,63,1414518845,2147483647,A,1100,implementation-sortings-strings,BorisZ,Java 8,280,0
+8351107,63,1413977907,2147483647,A,1100,implementation-sortings-strings,mister0,Java 7,186,0
+8299698,63,1413686961,2147483647,D,2000,constructive algorithms,I_love_Malika,Java 7,154,0
+8296717,63,1413657169,2147483647,C,1800,brute force-implementation,ksamykandil,Java 7,186,102400
+8284073,63,1413560290,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,I_love_Malika,Java 7,2464,0
+8284029,63,1413560147,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,I_love_Malika,Java 7,1466,0
+8280750,63,1413547419,2147483647,B,1200,implementation,coolmaksat,Java 7,154,0
+8280708,63,1413547242,2147483647,C,1800,brute force-implementation,I_love_Malika,Java 7,186,0
+8280707,63,1413547237,2147483647,C,1800,brute force-implementation,coolmaksat,Java 7,186,102400
+8280702,63,1413547219,2147483647,B,1200,implementation,I_love_Malika,Java 7,154,0
+8280695,63,1413547204,2147483647,A,1100,implementation-sortings-strings,coolmaksat,Java 7,186,0
+8280694,63,1413547202,2147483647,A,1100,implementation-sortings-strings,I_love_Malika,Java 7,154,0
+7993235,63,1411902190,2147483647,A,1100,implementation-sortings-strings,hassan1,Java 8,404,102400
+7949587,63,1411664204,2147483647,A,1100,implementation-sortings-strings,AL_DEEB,Java 6,124,0
+7801282,63,1410787069,2147483647,A,1100,implementation-sortings-strings,__TTS__,Java 6,186,0
+7794282,63,1410699467,2147483647,A,1100,implementation-sortings-strings,motyim,Java 7,186,0
+7724402,63,1410211501,2147483647,A,1100,implementation-sortings-strings,Seva,Java 7,186,0
+7697044,63,1410035074,2147483647,B,1200,implementation,pitfall,Java 7,154,307200
+7647192,63,1409420982,2147483647,A,1100,implementation-sortings-strings,MahmoudWahdan,Java 7,186,0
+7600116,63,1409091258,2147483647,A,1100,implementation-sortings-strings,ktasyaran,Java 8,280,0
+7573519,63,1408976406,2147483647,D,2000,constructive algorithms,nightwolf212,Java 6,156,0
+7567712,63,1408895203,6703,C,1800,brute force-implementation,nightwolf212,Java 6,156,102400
+7567486,63,1408892921,4421,B,1200,implementation,nightwolf212,Java 6,154,0
+7567114,63,1408888853,353,A,1100,implementation-sortings-strings,nightwolf212,Java 6,154,0
+7559664,63,1408795373,2147483647,A,1100,implementation-sortings-strings,dina.labib,Java 7,216,0
+7549265,63,1408688432,2147483647,A,1100,implementation-sortings-strings,vasu_didi,Java 6,216,0
+7444323,63,1407949027,2147483647,A,1100,implementation-sortings-strings,owenomar,Java 7,248,0
+7421698,63,1407709365,2147483647,A,1100,implementation-sortings-strings,ahmed__abbas,Java 7,186,0
+7233661,63,1406225846,2147483647,A,1100,implementation-sortings-strings,Asma123,Java 7,184,0
+7107158,63,1405412321,2147483647,A,1100,implementation-sortings-strings,sri-jay,Java 7,154,0
+7103513,63,1405366301,2147483647,A,1100,implementation-sortings-strings,sri-jay,Java 7,154,0
+7096820,63,1405311886,2147483647,A,1100,implementation-sortings-strings,stevegregg,Java 6,186,0
+7048335,63,1404834769,2147483647,C,1800,brute force-implementation,MagedMilad,Java 7,186,0
+7035577,63,1404681578,2147483647,A,1100,implementation-sortings-strings,AhmedNashat,Java 7,186,0
+6986317,63,1404134247,2147483647,A,1100,implementation-sortings-strings,mostafa.ayman,Java 7,186,0
+6976824,63,1403979103,2147483647,A,1100,implementation-sortings-strings,ramy2010,Java 7,186,0
+6976144,63,1403968599,2147483647,A,1100,implementation-sortings-strings,muto,Java 6,186,0
+6975646,63,1403962568,2147483647,A,1100,implementation-sortings-strings,shereifhawary,Java 6,186,0
+6975092,63,1403956395,2147483647,A,1100,implementation-sortings-strings,BezrA,Java 7,156,0
+6952898,63,1403614507,2147483647,A,1100,implementation-sortings-strings,Shaimaa.Soudy1,Java 7,184,102400
+6950521,63,1403579675,2147483647,A,1100,implementation-sortings-strings,Diegox,Java 8,404,102400
+6928181,63,1403273756,2147483647,A,1100,implementation-sortings-strings,Satayev,Java 8,560,1740800
+6854532,63,1402319349,6849,B,1200,implementation,Shahzodbek,Java 7,186,0
+6854441,63,1402318398,5898,B,1200,implementation,D05T0N,Java 6,154,0
+6853946,63,1402313492,992,A,1100,implementation-sortings-strings,Shahzodbek,Java 7,186,0
+6853911,63,1402313189,688,A,1100,implementation-sortings-strings,D05T0N,Java 6,154,0
+6838353,63,1402240150,2147483647,B,1200,implementation,Azimboy,Java 7,154,0
+6836314,63,1402220507,347,A,1100,implementation-sortings-strings,Azimboy,Java 7,154,0
+6793420,63,1401854258,2147483647,A,1100,implementation-sortings-strings,cmouli,Java 8,466,102400
+6608434,63,1399967974,2147483647,A,1100,implementation-sortings-strings,557120202,Java 7,186,0
+6563223,63,1399389363,2147483647,A,1100,implementation-sortings-strings,MaxMiller,Java 7,184,0
+6270031,63,1396780034,2147483647,A,1100,implementation-sortings-strings,monsterspy,Java 7,154,0
+6138842,63,1395750793,2147483647,A,1100,implementation-sortings-strings,murad_awwad,Java 6,154,0
+6134909,63,1395728737,2147483647,A,1100,implementation-sortings-strings,tzzcl,Java 7,186,0
+5919683,63,1393915785,2147483647,A,1100,implementation-sortings-strings,jakabfia,Java 7,216,0
+5870680,63,1391381991,2147483647,A,1100,implementation-sortings-strings,Elabasery,Java 7,154,204800
+5868346,63,1391339726,2147483647,A,1100,implementation-sortings-strings,s3ood,Java 6,186,0
+5857584,63,1391182153,2147483647,A,1100,implementation-sortings-strings,Assim91,Java 7,216,204800
+5857454,63,1391180985,2147483647,A,1100,implementation-sortings-strings,NoCakeNoCode,Java 7,186,102400
+5857441,63,1391180869,2147483647,A,1100,implementation-sortings-strings,NoCakeNoCode,Java 7,186,204800
+5800466,63,1390595605,2147483647,A,1100,implementation-sortings-strings,CandidateNewbie,Java 7,590,204800
+5799104,63,1390588574,2147483647,A,1100,implementation-sortings-strings,CandidateNewbie,Java 7,248,204800
+5797922,63,1390585802,2147483647,A,1100,implementation-sortings-strings,jackwong,Java 7,248,0
+5780420,63,1390514452,2147483647,A,1100,implementation-sortings-strings,Besani,Java 6,156,0
+5779918,63,1390508221,2147483647,A,1100,implementation-sortings-strings,alkhateeb,Java 7,124,0
+5746298,63,1390223041,2147483647,A,1100,implementation-sortings-strings,Seto_Kaiba,Java 6,186,0
+5746200,63,1390221771,2147483647,A,1100,implementation-sortings-strings,xyyz93,Java 6,154,0
+5742995,63,1390170370,2147483647,A,1100,implementation-sortings-strings,mxninja,Java 6,184,0
+5742933,63,1390169353,2147483647,A,1100,implementation-sortings-strings,joe,Java 6,186,0
+5742923,63,1390169232,2147483647,A,1100,implementation-sortings-strings,joe,Java 6,186,0
+5735919,63,1390076258,2147483647,A,1100,implementation-sortings-strings,White_Shadow,Java 7,186,0
+5722583,63,1389979426,2147483647,A,1100,implementation-sortings-strings,White_Shadow,Java 7,186,0
+5699786,63,1389830404,2147483647,A,1100,implementation-sortings-strings,Blackqri,Java 7,156,102400
+5689268,63,1389688777,2147483647,A,1100,implementation-sortings-strings,haowch,Java 6,124,0
+5660877,63,1389462053,2147483647,A,1100,implementation-sortings-strings,Rabee,Java 7,92,0
+5644113,63,1389272207,2147483647,B,1200,implementation,tiny_code,Java 7,156,102400
+5629436,63,1389040877,2147483647,A,1100,implementation-sortings-strings,jetsfan87,Java 7,156,0
+5313034,63,1385814917,2147483647,A,1100,implementation-sortings-strings,tomash_em,Java 7,156,102400
+5285506,63,1385633109,2147483647,B,1200,implementation,bestpandit,Java 6,124,0
+5284541,63,1385622023,2147483647,A,1100,implementation-sortings-strings,nVn,Java 7,124,307200
+5284516,63,1385621840,2147483647,A,1100,implementation-sortings-strings,bestpandit,Java 6,124,0
+5284471,63,1385621407,2147483647,A,1100,implementation-sortings-strings,bestpandit,Java 6,124,0
+5239720,63,1385430712,2147483647,A,1100,implementation-sortings-strings,mutarock,Java 7,124,0
+5180828,63,1384982261,2147483647,B,1200,implementation,vvenkai,Java 7,124,0
+5032280,63,1383944814,2147483647,A,1100,implementation-sortings-strings,waleedquwaider,Java 7,156,204800
+5031220,63,1383929902,2147483647,A,1100,implementation-sortings-strings,White_Shadow,Java 7,156,0
+5018787,63,1383776650,2147483647,A,1100,implementation-sortings-strings,barbarian,Java 7,124,0
+5017235,63,1383756594,2147483647,A,1100,implementation-sortings-strings,vjudge1,Java 7,124,0
+4993789,63,1383659481,2147483647,A,1100,implementation-sortings-strings,joseipong,Java 7,156,0
+4993672,63,1383658698,2147483647,A,1100,implementation-sortings-strings,jayu94,Java 7,156,0
+4990611,63,1383631017,2147483647,A,1100,implementation-sortings-strings,mxninja,Java 6,186,0
+4939889,63,1383174544,2147483647,B,1200,implementation,kreep,Java 7,124,0
+4939772,63,1383170859,2147483647,A,1100,implementation-sortings-strings,HAL9000,Java 7,124,0
+4931193,63,1383085534,2147483647,A,1100,implementation-sortings-strings,remi_thaunay,Java 6,93,0
+4913843,63,1382886081,2147483647,A,1100,implementation-sortings-strings,Alga,Java 7,78,0
+4848270,63,1382503505,2147483647,C,1800,brute force-implementation,alibaba,Java 6,156,0
+4823535,63,1382169977,2147483647,A,1100,implementation-sortings-strings,Vlad3d,Java 7,124,0
+4808673,63,1381941059,2147483647,B,1200,implementation,alibaba,Java 6,156,0
+4808199,63,1381936672,2147483647,A,1100,implementation-sortings-strings,alibaba,Java 6,156,0
+4752217,63,1381552330,2147483647,A,1100,implementation-sortings-strings,rhd,Java 7,372,102400
+4564228,63,1380151318,2147483647,A,1100,implementation-sortings-strings,pepradere,Java 6,156,0
+4550405,63,1380044121,2147483647,A,1100,implementation-sortings-strings,Sabelan,Java 7,156,0
+4498114,63,1379524565,2147483647,A,1100,implementation-sortings-strings,tare2Ashraf,Java 7,124,0
+4491999,63,1379482616,2147483647,A,1100,implementation-sortings-strings,Stickman,Java 7,186,0
+4487157,63,1379410773,2147483647,A,1100,implementation-sortings-strings,ameera,Java 7,186,0
+4484405,63,1379349288,2147483647,A,1100,implementation-sortings-strings,esraa_maged,Java 7,218,102400
+4484276,63,1379347278,2147483647,A,1100,implementation-sortings-strings,Arshd,Java 7,186,0
+4430812,63,1378622785,2147483647,A,1100,implementation-sortings-strings,omaro,Java 7,186,102400
+4400495,63,1378199845,2147483647,A,1100,implementation-sortings-strings,ihkus,Java 7,156,0
+4353861,63,1377558565,2147483647,A,1100,implementation-sortings-strings,oviorus,Java 7,186,0
+4328351,63,1377249241,2147483647,A,1100,implementation-sortings-strings,Sokolov,Java 7,156,0
+4322207,63,1377138374,2147483647,A,1100,implementation-sortings-strings,vvenkai,Java 7,156,0
+4321782,63,1377123450,2147483647,C,1800,brute force-implementation,santjuan,Java 7,186,0
+4270324,63,1376324900,2147483647,A,1100,implementation-sortings-strings,nzko,Java 7,186,0
+4162189,63,1374740243,2147483647,A,1100,implementation-sortings-strings,bjtuacm,Java 7,109,102400
+4143214,63,1374613188,2147483647,A,1100,implementation-sortings-strings,karimadel7,Java 7,78,0
+4041948,63,1373365144,5644,B,1200,implementation,mingotlik,Java 7,93,0
+4041930,63,1373364585,5085,D,2000,constructive algorithms,mingotlik,Java 7,140,102400
+4041661,63,1373359661,161,A,1100,implementation-sortings-strings,mingotlik,Java 7,109,102400
+4037739,63,1373271772,2147483647,D,2000,constructive algorithms,Quvondiq_Otajonov,Java 7,93,0
+4006696,63,1372856149,2147483647,C,1800,brute force-implementation,TUITUF_Bahrom,Java 7,125,204800
+3999173,63,1372676519,2219,B,1200,implementation,Temurbek,Java 7,93,0
+3999117,63,1372675291,991,A,1100,implementation-sortings-strings,Temurbek,Java 7,109,102400
+3999112,63,1372675157,6257,B,1200,implementation,panther.uz,Java 7,109,0
+3999069,63,1372674101,4601,C,1800,brute force-implementation,Quvondiq_Otajonov,Java 7,125,204800
+3999056,63,1372673640,4440,C,1800,brute force-implementation,N0D1R,Java 7,93,0
+3998995,63,1372672663,3163,A,1100,implementation-sortings-strings,eynshteyn,Java 6,109,2355200
+3998961,63,1372671891,2991,A,1100,implementation-sortings-strings,Akmal.tatuuf,Java 7,93,0
+3998936,63,1372671506,3206,B,1200,implementation,TUITUF_Bahrom,Java 7,93,0
+3998932,63,1372671412,3112,B,1200,implementation,YJK_AE,Java 7,109,102400
+3998905,63,1372670895,1395,B,1200,implementation,Quvondiq_Otajonov,Java 7,78,102400
+3998880,63,1372670602,1402,B,1200,implementation,N0D1R,Java 7,78,0
+3998875,63,1372670319,1419,A,1100,implementation-sortings-strings,panther.uz,Java 7,93,0
+3998858,63,1372669838,338,A,1100,implementation-sortings-strings,Quvondiq_Otajonov,Java 7,93,0
+3998857,63,1372669826,1526,A,1100,implementation-sortings-strings,TUITUF_Bahrom,Java 7,78,0
+3998845,63,1372669636,436,A,1100,implementation-sortings-strings,N0D1R,Java 7,78,0
+3998824,63,1372669290,990,A,1100,implementation-sortings-strings,YJK_AE,Java 7,93,102400
+3958758,63,1372152971,2147483647,A,1100,implementation-sortings-strings,sonhuytran,Java 7,93,102400
+3930383,63,1371774518,2147483647,B,1200,implementation,kullalok,Java 6,93,0
+3827898,63,1370521779,2147483647,A,1100,implementation-sortings-strings,Anastasya,Java 7,78,0
+3785822,63,1369703964,2147483647,A,1100,implementation-sortings-strings,DiegoAE,Java 6,125,2252800
+3785807,63,1369703385,2147483647,A,1100,implementation-sortings-strings,santjuan,Java 7,140,0
+3785803,63,1369703205,2147483647,A,1100,implementation-sortings-strings,sfmunera,Java 6,93,2252800
+3763688,63,1369396839,2147483647,A,1100,implementation-sortings-strings,travm12,Java 7,93,102400
+3763257,63,1369386682,2147483647,A,1100,implementation-sortings-strings,zarhane,Java 7,93,102400
+3732512,63,1368863757,2147483647,A,1100,implementation-sortings-strings,monyone,Java 6,109,2457600
+3672428,63,1367754843,2147483647,A,1100,implementation-sortings-strings,maratmiki,Java 7,125,102400
+3414290,63,1364452560,2147483647,B,1200,implementation,CurbStomp,Java 7,93,0
+3292950,63,1363066488,2147483647,B,1200,implementation,hs484,Java 6,93,0
+3236067,63,1362346802,2147483647,B,1200,implementation,mkirsche,Java 6,109,0
+3140707,63,1361113168,2147483647,A,1100,implementation-sortings-strings,Enavik,Java 7,93,204800
+3074276,63,1360064451,2147483647,A,1100,implementation-sortings-strings,CurbStomp,Java 7,78,0
+3042941,63,1359697296,2147483647,A,1100,implementation-sortings-strings,XKnight,Java 6,93,2252800
+2880468,63,1357561689,2147483647,A,1100,implementation-sortings-strings,alaashafaee92,Java 7,93,0
+2823011,63,1356366551,2147483647,A,1100,implementation-sortings-strings,mostafa_fahim,Java 7,109,102400
+2817714,63,1356238333,2147483647,A,1100,implementation-sortings-strings,agent3889,Java 6,109,0
+2804757,63,1356121622,2147483647,A,1100,implementation-sortings-strings,phoenix24,Java 6,109,0
+2792441,63,1355865207,2147483647,A,1100,implementation-sortings-strings,MiroO,Java 6,93,0
+2790547,63,1355830885,2147483647,A,1100,implementation-sortings-strings,code_rishabh,Java 6,93,0
+2763151,63,1355476696,2147483647,A,1100,implementation-sortings-strings,su_58,Java 6,156,0
+2748443,63,1355159538,2147483647,A,1100,implementation-sortings-strings,ask_23,Java 7,109,0
+2711852,63,1354830586,2147483647,A,1100,implementation-sortings-strings,Spellbound,Java 7,125,102400
+2700130,63,1354795254,2147483647,A,1100,implementation-sortings-strings,mingotlik,Java 7,125,102400
+2692017,63,1354553757,2147483647,A,1100,implementation-sortings-strings,tiberium,Java 6,109,0
+2690385,63,1354526967,2147483647,A,1100,implementation-sortings-strings,xamxam23,Java 6,109,0
+2537392,63,1352650492,2147483647,B,1200,implementation,ivanvasilev,Java 6,93,0
+2530432,63,1352554818,2147483647,B,1200,implementation,goodsky,Java 7,140,102400
+2520551,63,1352313010,2147483647,A,1100,implementation-sortings-strings,Yeison_Garcia,Java 7,109,0
+2520549,63,1352312974,2147483647,A,1100,implementation-sortings-strings,milderhc,Java 7,125,0
+2520355,63,1352309274,2147483647,A,1100,implementation-sortings-strings,fabiankasUN,Java 6,93,0
+2497516,63,1352030733,2147483647,A,1100,implementation-sortings-strings,Pshenichnoe,Java 6,78,0
+2494719,63,1351945961,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,todo,Java 6,171,0
+2494717,63,1351945959,2147483647,D,2000,constructive algorithms,todo,Java 6,109,204800
+2494716,63,1351945958,2147483647,C,1800,brute force-implementation,todo,Java 6,140,204800
+2494715,63,1351945957,2147483647,B,1200,implementation,todo,Java 6,125,0
+2494714,63,1351945956,2147483647,A,1100,implementation-sortings-strings,todo,Java 6,109,0
+2493588,63,1351921978,4378,E,2200,bitmasks-dfs and similar-dp-games-implementation,todo,Java 6,171,0
+2493548,63,1351920650,3050,D,2000,constructive algorithms,todo,Java 6,125,204800
+2493518,63,1351919548,1948,C,1800,brute force-implementation,todo,Java 6,125,204800
+2493481,63,1351918623,1023,B,1200,implementation,todo,Java 6,93,0
+2493452,63,1351917995,395,A,1100,implementation-sortings-strings,todo,Java 6,109,0
+2468578,63,1351538802,2147483647,B,1200,implementation,-AKram-,Java 6,78,0
+2468393,63,1351536159,2147483647,A,1100,implementation-sortings-strings,-AKram-,Java 6,78,0
+2350671,63,1350035658,2147483647,B,1200,implementation,lemonsuper,Java 7,109,0
+2325729,63,1349715249,2147483647,A,1100,implementation-sortings-strings,HuaNaaFC,Java 6,78,204800
+2301402,63,1349420493,2147483647,A,1100,implementation-sortings-strings,TUITUF_Bahrom,Java 6,109,0
+2277571,63,1349107082,2147483647,A,1100,implementation-sortings-strings,Bambam,Java 7,109,0
+2211626,63,1348047229,2147483647,C,1800,brute force-implementation,jiangzhijie,Java 7,218,46080000
+2145906,63,1347390133,2147483647,A,1100,implementation-sortings-strings,tryagainlater,Java 6,110,43110400
+2049465,63,1345956512,2147483647,A,1100,implementation-sortings-strings,Lindsey,Java 6,110,44134400
+2042550,63,1345638127,5227,D,2000,constructive algorithms,Azat_Yusupov,Java 6,170,43520000
+2042389,63,1345635237,2337,C,1800,brute force-implementation,Azat_Yusupov,Java 6,160,43315200
+2042342,63,1345634167,1267,B,1200,implementation,Azat_Yusupov,Java 6,130,43315200
+2042319,63,1345633434,534,A,1100,implementation-sortings-strings,Azat_Yusupov,Java 6,140,43315200
+2039947,63,1345541322,2147483647,A,1100,implementation-sortings-strings,YJK_AE,Java 6,140,43315200
+2018812,63,1345109715,2147483647,A,1100,implementation-sortings-strings,N0D1R,Java 6,130,43417600
+2001553,63,1344759238,2147483647,A,1100,implementation-sortings-strings,Quvondiq_Otajonov,Java 6,130,43212800
+1997307,63,1344588759,2147483647,A,1100,implementation-sortings-strings,akashm,Java 6,140,43315200
+1990157,63,1344334304,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,Azat_Yusupov,Java 6,480,43417600
+1965962,63,1343761335,2147483647,A,1100,implementation-sortings-strings,Pathetic_loser,Java 6,160,43315200
+1949968,63,1343570171,2147483647,A,1100,implementation-sortings-strings,goodb0y,Java 6,130,43110400
+1922772,63,1343007211,2147483647,A,1100,implementation-sortings-strings,lemonsuper,Java 7,140,45158400
+1909957,63,1342638966,2147483647,B,1200,implementation,tarekegypte,Java 6,110,43212800
+1908997,63,1342604784,2147483647,A,1100,implementation-sortings-strings,RadwaNofal,Java 6,130,43212800
+1874407,63,1341687605,2147483647,B,1200,implementation,rockstartiwari,Java 6,130,43212800
+1834849,63,1340805537,2147483647,A,1100,implementation-sortings-strings,PERNEKHAN,Java 7,140,45158400
+1770673,63,1339142955,2147483647,A,1100,implementation-sortings-strings,GhpS,Java 6,140,43110400
+1700368,63,1337309334,2147483647,A,1100,implementation-sortings-strings,goodsky,Java 6,110,43212800
+1671142,63,1336577995,2147483647,A,1100,implementation-sortings-strings,dkhaburdzania,Java 6,110,43212800
+1667424,63,1336375259,2147483647,B,1200,implementation,bidzilya,Java 7,90,44851200
+1649596,63,1335972186,2147483647,A,1100,implementation-sortings-strings,bidzilya,Java 7,110,44851200
+1646828,63,1335825645,2147483647,B,1200,implementation,Sane,Java 7,110,44851200
+1646820,63,1335824917,2147483647,A,1100,implementation-sortings-strings,Sane,Java 7,110,44851200
+1530569,63,1334320197,2147483647,A,1100,implementation-sortings-strings,bjtuacm,Java 6,110,43212800
+1525941,63,1334313078,2147483647,A,1100,implementation-sortings-strings,wcp1231,Java 6,80,43110400
+1307357,63,1331097180,2147483647,B,1200,implementation,peking2,Java 6,110,43212800
+1307279,63,1331095505,2147483647,A,1100,implementation-sortings-strings,peking2,Java 6,110,45056000
+1267484,63,1330823415,2147483647,A,1100,implementation-sortings-strings,fangr01239,Java 6,110,45056000
+1261012,63,1330794048,2147483647,A,1100,implementation-sortings-strings,hanifnaufal,Java 6,90,44851200
+1255273,63,1330627623,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,Ahmed.Ibrahem,Java 6,160,44953600
+1254955,63,1330620397,2797,C,1800,brute force-implementation,Ahmed.Ibrahem,Java 6,140,45056000
+1254915,63,1330618969,1369,B,1200,implementation,Ahmed.Ibrahem,Java 6,110,44953600
+1254885,63,1330618197,597,A,1100,implementation-sortings-strings,Ahmed.Ibrahem,Java 6,110,44953600
+1240419,63,1330390456,2147483647,B,1200,implementation,kenthang,Java 6,110,44953600
+1237837,63,1330288710,2147483647,A,1100,implementation-sortings-strings,ahmedAbdallah,Java 6,110,44953600
+1203421,63,1329639922,2147483647,A,1100,implementation-sortings-strings,Aphrodite.S,Java 6,110,44953600
+1186662,63,1329475581,2147483647,A,1100,implementation-sortings-strings,kenthang,Java 6,90,43212800
+1183155,63,1329345300,2147483647,C,1800,brute force-implementation,zamzam,Java 6,200,43520000
+1183115,63,1329340976,2147483647,B,1200,implementation,zamzam,Java 6,90,43212800
+1183107,63,1329340149,2147483647,A,1100,implementation-sortings-strings,zamzam,Java 6,90,43110400
+1151837,63,1328468994,2147483647,D,2000,constructive algorithms,mostafa_fahim,Java 6,140,43417600
+1149816,63,1328382272,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,Navigabimus,Java 6,560,43212800
+1130889,63,1328106339,2147483647,A,1100,implementation-sortings-strings,tis,Java 6,110,43212800
+1130178,63,1328087667,2147483647,C,1800,brute force-implementation,Navigabimus,Java 6,160,43315200
+1126415,63,1327901345,2147483647,B,1200,implementation,jcomputer000,Java 6,90,43110400
+1121449,63,1327698498,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,Ahmed_Salama,Java 6,1230,43110400
+1120790,63,1327673271,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,ahmad_mamdouh,Java 6,940,62259200
+1120786,63,1327673214,2147483647,E,2200,bitmasks-dfs and similar-dp-games-implementation,ahmad_mamdouh,Java 6,1010,62259200
+1058532,63,1326719710,2147483647,A,1100,implementation-sortings-strings,Tumar,Java 6,90,43212800
+1045795,63,1326579173,2147483647,B,1200,implementation,Venom,Java 6,80,43008000
+1027405,63,1326174725,2147483647,A,1100,implementation-sortings-strings,jcomputer000,Java 6,90,43212800
+995814,63,1325598583,2147483647,B,1200,implementation,Betlista,Java 6,80,43008000
+993586,63,1325404607,2147483647,B,1200,implementation,keep.deep,Java 6,80,43008000
+992223,63,1325258792,2147483647,B,1200,implementation,upsolving,Java 6,80,43110400
+983180,63,1324744254,2147483647,B,1200,implementation,ilovepink,Java 6,110,43212800
+969417,63,1324392839,2147483647,A,1100,implementation-sortings-strings,PushistikTima,Java 6,110,43212800
+954954,63,1323854085,24945285,A,1100,implementation-sortings-strings,Betlista,Java 6,110,43110400
+952192,63,1298910957,2157,B,1200,implementation,edem.kwadzo,Java 6,130,43110400
+952184,63,1298910190,1390,A,1100,implementation-sortings-strings,edem.kwadzo,Java 6,130,43110400
+951567,63,1323607075,24698275,C,1800,brute force-implementation,mostafa_fahim,Java 6,140,43110400
+951200,63,1323587775,24678975,B,1200,implementation,stevenkplus,Java 6,140,43110400
+950826,63,1323574634,24665834,A,1100,implementation-sortings-strings,ilovepink,Java 6,130,43212800
+935046,63,1323305943,24397143,A,1100,implementation-sortings-strings,stevenkplus,Java 6,140,35328000
+931493,63,1323098720,24189920,A,1100,implementation-sortings-strings,igor_kz,Java 6,130,35328000
+931457,63,1323097606,24188806,A,1100,implementation-sortings-strings,upsolving,Java 6,110,35225600
+918598,63,1322918794,24009994,B,1200,implementation,pasha,Java 6,170,35328000
+912224,63,1322714632,23805832,A,1100,implementation-sortings-strings,AbdelrahmanAsal,Java 6,130,35328000
+910869,63,1322604459,23695659,D,2000,constructive algorithms,evgeny11,Java 6,110,43212800
+910854,63,1322601464,23692664,C,1800,brute force-implementation,evgeny11,Java 6,110,43110400
+910845,63,1322599838,23691038,B,1200,implementation,evgeny11,Java 6,110,43110400
+910828,63,1322598767,23689967,A,1100,implementation-sortings-strings,evgeny11,Java 6,130,43110400
+883601,63,1321849791,22940991,B,1200,implementation,michael_tan,Java 6,130,43110400
+883164,63,1321820346,22911546,A,1100,implementation-sortings-strings,djjoleM,Java 6,110,43008000
+880707,63,1321800286,22891486,B,1200,implementation,userlond,Java 6,110,43110400
+878902,63,1321698252,22789452,A,1100,implementation-sortings-strings,SharpBlade,Java 6,130,43110400
+872952,63,1321414659,22505859,A,1100,implementation-sortings-strings,Shaman01,Java 6,130,43110400
+871376,63,1321355579,22446779,A,1100,implementation-sortings-strings,Cs_93,Java 6,140,35328000
+861079,63,1321140316,22231516,A,1100,implementation-sortings-strings,un01,Java 6,110,43008000
+856676,63,1320950814,22042014,A,1100,implementation-sortings-strings,pasha,Java 6,130,43110400
+842591,63,1320816371,21907571,A,1100,implementation-sortings-strings,michael_tan,Java 6,130,43110400
+841598,63,1320764567,21855767,A,1100,implementation-sortings-strings,timurtibeyev,Java 6,130,43110400
+840452,63,1320700439,21791639,A,1100,implementation-sortings-strings,FireJade,Java 6,140,43110400
+838428,63,1320606510,21697710,A,1100,implementation-sortings-strings,islamhamdi,Java 6,140,43110400
+836932,63,1320515962,21607162,A,1100,implementation-sortings-strings,mkirsche,Java 6,130,43212800
+792554,63,1319409648,20500848,A,1100,implementation-sortings-strings,dimoc,Java 6,130,43212800
+771569,63,1318881545,19972745,A,1100,implementation-sortings-strings,Vareni4,Java 6,140,43110400
+770944,63,1318856654,19947854,A,1100,implementation-sortings-strings,chameerawijebandara,Java 6,110,35225600
+770245,63,1318806921,19898121,A,1100,implementation-sortings-strings,cyon,Java 6,110,35328000
+754551,63,1318273762,19364962,B,1200,implementation,Izot_NNSTU,Java 6,130,35328000
+740243,63,1317972123,19063323,A,1100,implementation-sortings-strings,clingsz,Java 6,160,35328000
+739844,63,1317926018,19017218,A,1100,implementation-sortings-strings,Izot_NNSTU,Java 6,130,35328000
+733061,63,1317469393,18560593,C,1800,brute force-implementation,kiko91_7,Java 6,160,35328000
+728216,63,1317195261,18286461,A,1100,implementation-sortings-strings,Lewin,Java 6,110,35225600
+724974,63,1317017118,18108318,A,1100,implementation-sortings-strings,cdg720,Java 6,130,35328000
+712719,63,1316729701,17820901,A,1100,implementation-sortings-strings,elrodeo,Java 6,130,35328000
+709099,63,1316472543,17563743,A,1100,implementation-sortings-strings,_jte_,Java 6,110,35430400
+709098,63,1316472513,17563713,B,1200,implementation,_jte_,Java 6,110,35430400
+709097,63,1316472491,17563691,C,1800,brute force-implementation,_jte_,Java 6,130,35532800
+705765,63,1316206834,17298034,D,2000,constructive algorithms,_jte_,Java 6,130,35430400
+705764,63,1316206809,17298009,D,2000,constructive algorithms,_jte_,Java 6,110,35430400
+705560,63,1298911236,2436,C,1800,brute force-implementation,NeLeGaL,Java 6,140,35532800
+705513,63,1298909900,1100,B,1200,implementation,NeLeGaL,Java 6,110,35430400
+705474,63,1298909161,361,A,1100,implementation-sortings-strings,NeLeGaL,Java 6,110,35328000
+690932,63,1315827802,16919002,D,2000,constructive algorithms,Ahmed_Salama,Java 6,170,35532800
+690629,63,1315811183,16902383,A,1100,implementation-sortings-strings,rurik,Java 6,130,35328000
+669767,63,1315243259,16334459,A,1100,implementation-sortings-strings,Sinner,Java 6,110,35225600
+656977,63,1315044096,16135296,C,1800,brute force-implementation,Dunaril,Java 6,130,35328000
+641173,63,1314566267,15657467,B,1200,implementation,Sinner,Java 6,90,34918400
+640995,63,1314547249,15638449,A,1100,implementation-sortings-strings,Chernova_Katya,Java 6,90,35020800
+640922,63,1314542835,15634035,A,1100,implementation-sortings-strings,KaVaBUnGO,Java 6,90,34918400
+639027,63,1314359881,15451081,A,1100,implementation-sortings-strings,userlond,Java 6,110,35020800
+611193,63,1313339965,14431165,C,1800,brute force-implementation,DoublePointer,Java 6,140,35225600
+609308,63,1313257726,14348926,C,1800,brute force-implementation,UESTC_Defense,Java 6,270,35430400
+609304,63,1313257711,14348911,B,1200,implementation,UESTC_Defense,Java 6,110,35225600
+609301,63,1313257695,14348895,A,1100,implementation-sortings-strings,UESTC_Defense,Java 6,130,35225600
+604581,63,1313203216,14294416,B,1200,implementation,nickbuelich,Java 6,130,35225600
+603763,63,1313139148,14230348,B,1200,implementation,Ahmed_Salama,Java 6,130,35225600
+603243,63,1313093200,14184400,B,1200,implementation,DnS,Java 6,110,44748800
+603017,63,1313077898,14169098,A,1100,implementation-sortings-strings,Ahmed_Salama,Java 6,110,44748800
+601999,63,1313012848,14104048,B,1200,implementation,SweetBanana,Java 6,110,44748800
+601339,63,1312953510,14044710,A,1100,implementation-sortings-strings,SweetBanana,Java 6,110,44748800
+598576,63,1312805674,13896874,C,1800,brute force-implementation,tehqin,Java 6,130,44953600
+597570,63,1312755499,13846699,D,2000,constructive algorithms,tehqin,Java 6,130,35430400
+597541,63,1312750178,13841378,B,1200,implementation,tehqin,Java 6,140,35225600
+597535,63,1312749669,13840869,A,1100,implementation-sortings-strings,tehqin,Java 6,140,35225600
+588327,63,1312644155,13735355,A,1100,implementation-sortings-strings,tksilicon,Java 6,110,43110400
+585803,63,1312507451,13598651,C,1800,brute force-implementation,xiaowuc1,Java 6,140,43008000
+584864,63,1312463508,13554708,B,1200,implementation,Dunaril,Java 6,130,43110400
+574296,63,1312149675,13240875,A,1100,implementation-sortings-strings,Dunaril,Java 6,130,43212800
+570476,63,1312007408,13098608,B,1200,implementation,xiaowuc1,Java 6,130,43212800
+570327,63,1312006692,13097892,A,1100,implementation-sortings-strings,xiaowuc1,Java 6,110,43212800
+563439,63,1311491888,12583088,B,1200,implementation,JoKe,Java 6,110,43110400
+563258,63,1311474117,12565317,A,1100,implementation-sortings-strings,spark_coder,Java 6,90,43110400
+554556,63,1311320399,12411599,B,1200,implementation,vjudge1,Java 6,130,35225600
+554402,63,1311318118,12409318,A,1100,implementation-sortings-strings,vjudge3,Java 6,110,35225600
+554340,63,1311317482,12408682,A,1100,implementation-sortings-strings,vjudge3,Java 6,130,35225600
+554321,63,1311317297,12408497,A,1100,implementation-sortings-strings,vjudge5,Java 6,130,35225600
+554251,63,1311316606,12407806,C,1800,brute force-implementation,vjudge3,Java 6,270,35430400
+554132,63,1311315490,12406690,B,1200,implementation,vjudge5,Java 6,110,35225600
+554059,63,1311314852,12406052,A,1100,implementation-sortings-strings,vjudge3,Java 6,130,35225600
+543552,63,1310493691,11584891,B,1200,implementation,Nox,Java 6,110,43008000
+542530,63,1310412893,11504093,A,1100,implementation-sortings-strings,Nox,Java 6,80,43008000
+529945,63,1309964815,11056015,A,1100,implementation-sortings-strings,b_r,Java 6,90,43110400
+527506,63,1309753567,10844767,B,1200,implementation,Darko,Java 6,140,43110400
+511845,63,1309159309,10250509,B,1200,implementation,altais,Java 6,90,43008000
+511840,63,1309159203,10250403,B,1200,implementation,altais,Java 6,90,43008000
+509128,63,1308852050,9943250,B,1200,implementation,sroyal,Java 6,130,43110400
+508401,63,1308799366,9890566,A,1100,implementation-sortings-strings,sroyal,Java 6,110,43110400
+505857,63,1308639675,9730875,B,1200,implementation,DoublePointer,Java 6,110,35225600
+504698,63,1308593332,9684532,A,1100,implementation-sortings-strings,GREEN,Java 6,110,43110400
+498388,63,1308547315,9638515,A,1100,implementation-sortings-strings,Darko,Java 6,110,43110400
+498384,63,1308546884,9638084,A,1100,implementation-sortings-strings,DoublePointer,Java 6,110,43110400
+497598,63,1308463080,9554280,A,1100,implementation-sortings-strings,keep.deep,Java 6,90,43008000
+497191,63,1308409481,9500681,B,1200,implementation,kiko91_7,Java 6,110,43110400
+496979,63,1308392243,9483443,A,1100,implementation-sortings-strings,altais,Java 6,110,43110400
+496788,63,1308375727,9466927,A,1100,implementation-sortings-strings,nickbuelich,Java 6,110,35225600
+496413,63,1308333187,9424387,A,1100,implementation-sortings-strings,DnS,Java 6,110,43008000
+485892,63,1307826572,8917772,C,1800,brute force-implementation,pavel.savchenkov,Java 6,160,35328000
+485403,63,1307767707,8858907,A,1100,implementation-sortings-strings,neoncyber,Java 6,130,35328000
+484391,63,1307645825,8737025,B,1200,implementation,epizend,Java 6,110,35328000
+483495,63,1307559829,8651029,D,2000,constructive algorithms,wistful23,Java 6,90,34918400
+482831,63,1307520607,8611807,A,1100,implementation-sortings-strings,pnkjjindal,Java 6,110,35328000
+482760,63,1307515544,8606744,A,1100,implementation-sortings-strings,epizend,Java 6,130,35328000
+476364,63,1307328700,8419900,A,1100,implementation-sortings-strings,bairdarmaev,Java 6,110,43315200
+475283,63,1307121631,8212831,A,1100,implementation-sortings-strings,sCode,Java 6,110,43315200
+474989,63,1307089701,8180901,A,1100,implementation-sortings-strings,eipie,Java 6,110,43315200
+474091,63,1306946278,8037478,A,1100,implementation-sortings-strings,OleGG,Java 6,110,43315200
+446072,63,1305262603,6353803,A,1100,implementation-sortings-strings,Venom,Java 6,110,43315200
+445746,63,1305208050,6299250,A,1100,implementation-sortings-strings,kiko91_7,Java 6,80,43315200
+421418,63,1304265856,5357056,B,1200,implementation,wackloner,Java 6,90,43417600
+415335,63,1304171140,5262340,A,1100,implementation-sortings-strings,wackloner,Java 6,110,43417600
+406303,63,1303559048,4650248,A,1100,implementation-sortings-strings,zjor,Java 6,90,43315200
+396219,63,1303198707,4289907,A,1100,implementation-sortings-strings,pavankrish1,Java 6,110,43315200
+392731,63,1302886889,3978089,A,1100,implementation-sortings-strings,OthoMilo,Java 6,110,43417600
+388716,63,1302863791,3954991,A,1100,implementation-sortings-strings,Ignorance,Java 6,110,43315200
+377776,63,1302513660,3604860,A,1100,implementation-sortings-strings,notanone,Java 6,110,43417600
+371149,63,1302114010,3205210,B,1200,implementation,flash36,Java 6,110,43315200
+370744,63,1302073553,3164753,A,1100,implementation-sortings-strings,albashkin,Java 6,80,43315200
+370632,63,1302040201,3131401,A,1100,implementation-sortings-strings,aquinas16,Java 6,90,43315200
+369699,63,1301866973,2958173,B,1200,implementation,SkorKNURE,Java 6,80,43417600
+367325,63,1301494419,2585619,A,1100,implementation-sortings-strings,flash36,Java 6,110,43315200
+354067,63,1301059717,2150917,A,1100,implementation-sortings-strings,fedos,Java 6,110,43315200
+353795,63,1301006024,2097224,E,2200,bitmasks-dfs and similar-dp-games-implementation,islam-al-aarag,Java 6,1060,43315200
+347669,63,1300771725,1862925,B,1200,implementation,Sulta,Java 6,90,43315200
+347662,63,1300769544,1860744,A,1100,implementation-sortings-strings,Sulta,Java 6,110,43315200
+344451,63,1300577175,1668375,C,1800,brute force-implementation,adavydow,Java 6,130,43315200
+343696,63,1300520544,1611744,E,2200,bitmasks-dfs and similar-dp-games-implementation,anhdt,Java 6,170,43315200
+340102,63,1300460929,1552129,B,1200,implementation,adavydow,Java 6,90,43315200
+340085,63,1300460107,1551307,A,1100,implementation-sortings-strings,adavydow,Java 6,80,43315200
+339911,63,1300451108,1542308,A,1100,implementation-sortings-strings,misha1024,Java 6,110,43417600
+331382,63,1299889538,980738,B,1200,implementation,Leonid,Java 6,90,43315200
+331283,63,1299879143,970343,A,1100,implementation-sortings-strings,Leonid,Java 6,80,43315200
+330251,63,1299773503,864703,C,1800,brute force-implementation,Di735,Java 6,110,43315200
+330227,63,1299771949,863149,B,1200,implementation,Di735,Java 6,90,43315200
+330215,63,1299771359,862559,A,1100,implementation-sortings-strings,Di735,Java 6,80,43315200
+328299,63,1299572635,663835,D,2000,constructive algorithms,S.Yesipenko,Java 6,80,43315200
+328269,63,1299571106,662306,C,1800,brute force-implementation,S.Yesipenko,Java 6,110,43315200
+328255,63,1299570309,661509,B,1200,implementation,S.Yesipenko,Java 6,90,43315200
+328252,63,1299570001,661201,A,1100,implementation-sortings-strings,S.Yesipenko,Java 6,80,43315200
+328058,63,1299553699,644899,C,1800,brute force-implementation,CAQ,Java 6,110,43417600
+328037,63,1299552619,643819,B,1200,implementation,CAQ,Java 6,110,43417600
+327615,63,1299528072,619272,D,2000,constructive algorithms,hydrastuff,Java 6,90,43315200
+323591,63,1299511721,602921,B,1200,implementation,Sammarize,Java 6,80,43315200
+323529,63,1299508158,599358,A,1100,implementation-sortings-strings,max777alex,Java 6,110,43315200
+323211,63,1299488060,579260,B,1200,implementation,paulus,Java 6,130,43315200
+323148,63,1299481846,573046,A,1100,implementation-sortings-strings,CAQ,Java 6,110,43417600
+322614,63,1299423420,514620,A,1100,implementation-sortings-strings,SkorKNURE,Java 6,80,43315200
+322449,63,1299413939,505139,A,1100,implementation-sortings-strings,LiverR,Java 6,110,43315200
+321511,63,1299354906,446106,A,1100,implementation-sortings-strings,Sammarize,Java 6,110,43315200
+315984,63,1299330987,422187,D,2000,constructive algorithms,Spacejoker,Java 6,90,43315200
+315862,63,1299322548,413748,B,1200,implementation,K.CSE13,Java 6,80,43315200
+315840,63,1299319973,411173,A,1100,implementation-sortings-strings,K.CSE13,Java 6,130,43417600
+315737,63,1299306631,397831,B,1200,implementation,SkyFire,Java 6,80,43315200
+315712,63,1299304577,395777,A,1100,implementation-sortings-strings,SkyFire,Java 6,90,43315200
+315673,63,1299299066,390266,A,1100,implementation-sortings-strings,mysterion,Java 6,110,43315200
+315597,63,1299289813,381013,A,1100,implementation-sortings-strings,nerve,Java 6,80,43315200
+315495,63,1299273382,364582,A,1100,implementation-sortings-strings,Spacejoker,Java 6,80,43315200
+315494,63,1299273289,364489,C,1800,brute force-implementation,Spacejoker,Java 6,110,43315200
+315476,63,1299270589,361789,B,1200,implementation,Spacejoker,Java 6,90,43315200
+315330,63,1299255575,346775,D,2000,constructive algorithms,shou,Java 6,190,43417600
+315277,63,1299251544,342744,B,1200,implementation,sleepiforest,Java 6,130,43315200
+315205,63,1299246341,337541,D,2000,constructive algorithms,anhdt,Java 6,90,43315200
+315166,63,1299243516,334716,A,1100,implementation-sortings-strings,sleepiforest,Java 6,110,43315200
+315010,63,1299202604,293804,A,1100,implementation-sortings-strings,kolistivra,Java 6,130,43315200
+314899,63,1299175815,267015,A,1100,implementation-sortings-strings,apollo,Java 6,110,43315200
+314794,63,1299168038,259238,D,2000,constructive algorithms,marque,Java 6,110,43315200
+314776,63,1299166217,257417,E,2200,bitmasks-dfs and similar-dp-games-implementation,hydrastuff,Java 6,300,43315200
+314630,63,1299149919,241119,D,2000,constructive algorithms,Hadi_Asiaie,Java 6,80,43315200
+314629,63,1299149769,240969,E,2200,bitmasks-dfs and similar-dp-games-implementation,Hadi_Asiaie,Java 6,630,43315200
+314611,63,1299147170,238370,A,1100,implementation-sortings-strings,Graceful,Java 6,110,43417600
+314551,63,1299138179,229379,B,1200,implementation,Mostafa.Ali,Java 6,80,43315200
+314545,63,1299137096,228296,A,1100,implementation-sortings-strings,Mostafa.Ali,Java 6,110,43315200
+314275,63,1299088713,179913,B,1200,implementation,matavanga,Java 6,110,43315200
+314270,63,1299088558,179758,C,1800,brute force-implementation,Abra,Java 6,140,43315200
+314204,63,1299084453,175653,B,1200,implementation,Abra,Java 6,90,43315200
+314147,63,1299080743,171943,C,1800,brute force-implementation,Hadi_Asiaie,Java 6,90,43315200
+314129,63,1299079959,171159,A,1100,implementation-sortings-strings,Abra,Java 6,90,43315200
+314125,63,1299079765,170965,B,1200,implementation,Hadi_Asiaie,Java 6,90,43315200
+314116,63,1299079446,170646,A,1100,implementation-sortings-strings,Hadi_Asiaie,Java 6,90,43315200
+314111,63,1299078762,169962,C,1800,brute force-implementation,shou,Java 6,110,43315200
+313953,63,1299063415,154615,E,2200,bitmasks-dfs and similar-dp-games-implementation,wistful23,Java 6,90,43315200
+313868,63,1299041051,132251,B,1200,implementation,BlackEagle,Java 6,90,43315200
+313842,63,1299031089,122289,C,1800,brute force-implementation,lijunle,Java 6,140,43827200
+313798,63,1299016646,107846,B,1200,implementation,thePharaoh,Java 6,110,43315200
+313743,63,1299011427,102627,D,2000,constructive algorithms,timmy,Java 6,140,43417600
+313728,63,1299010704,101904,A,1100,implementation-sortings-strings,timmy,Java 6,90,43315200
+313619,63,1299003614,94814,E,2200,bitmasks-dfs and similar-dp-games-implementation,timmy,Java 6,1440,43315200
+313592,63,1299002199,93399,A,1100,implementation-sortings-strings,ahmedkotb,Java 6,110,43315200
+313589,63,1299002155,93355,B,1200,implementation,ahmedkotb,Java 6,110,43315200
+313579,63,1299001596,92796,C,1800,brute force-implementation,ahmedkotb,Java 6,140,43315200
+313487,63,1298995454,86654,D,2000,constructive algorithms,Rania_Salama,Java 6,140,43315200
+313452,63,1298993757,84957,C,1800,brute force-implementation,xhunter,Java 6,90,43417600
+313383,63,1298990455,81655,B,1200,implementation,xhunter,Java 6,80,43315200
+313331,63,1298987850,79050,A,1100,implementation-sortings-strings,xhunter,Java 6,90,43315200
+313302,63,1298986211,77411,A,1100,implementation-sortings-strings,y42sora,Java 6,110,43315200
+313266,63,1298982911,74111,C,1800,brute force-implementation,OSt,Java 6,140,43315200
+313054,63,1298965336,56536,E,2200,bitmasks-dfs and similar-dp-games-implementation,chronotable,Java 6,200,43315200
+313050,63,1298965189,56389,E,2200,bitmasks-dfs and similar-dp-games-implementation,chronotable,Java 6,110,43315200
+312912,63,1298953372,44572,A,1100,implementation-sortings-strings,BlackEagle,Java 6,110,43417600
+312815,63,1298946335,37535,C,1800,brute force-implementation,y42sora,Java 6,130,43315200
+312806,63,1298945825,37025,B,1200,implementation,y42sora,Java 6,90,43315200
+312805,63,1298945797,36997,A,1100,implementation-sortings-strings,y42sora,Java 6,130,43315200
+312797,63,1298945316,36516,B,1200,implementation,MOBIUSi,Java 6,130,43315200
+312771,63,1298942550,33750,C,1800,brute force-implementation,Ahmed_Salama,Java 6,130,43315200
+312757,63,1298940186,31386,A,1100,implementation-sortings-strings,dart,Java 6,110,43417600
+312649,63,1298927098,18298,B,1200,implementation,Eugene_nik,Java 6,80,43315200
+312621,63,1298925674,16874,E,2200,bitmasks-dfs and similar-dp-games-implementation,dalex,Java 6,420,43315200
+312599,63,1298924519,15719,C,1800,brute force-implementation,pyshnograev,Java 6,200,43315200
+312575,63,1298922877,14077,D,2000,constructive algorithms,pyshnograev,Java 6,80,43315200
+312570,63,1298922609,13809,A,1100,implementation-sortings-strings,Eugene_nik,Java 6,90,43315200
+312543,63,1298921055,12255,B,1200,implementation,pyshnograev,Java 6,80,43315200
+312542,63,1298921022,12222,E,2200,bitmasks-dfs and similar-dp-games-implementation,fetetriste,Java 6,1450,43315200
+312539,63,1298920810,12010,B,1200,implementation,vinayjulme,Java 6,110,43315200
+312534,63,1298920742,11942,A,1100,implementation-sortings-strings,pyshnograev,Java 6,80,43315200
+312454,63,1298918961,10161,E,2200,bitmasks-dfs and similar-dp-games-implementation,alexey.enkov,Java 6,470,43315200
+312449,63,1298918873,10073,C,1800,brute force-implementation,fetetriste,Java 6,160,43417600
+312433,63,1298918650,9850,E,2200,bitmasks-dfs and similar-dp-games-implementation,hydrastuff,Java 6,380,43315200
+312429,63,1298918626,9826,A,1100,implementation-sortings-strings,paulus,Java 6,110,43417600
+312427,63,1298918572,9772,C,1800,brute force-implementation,darkl0rd,Java 6,140,43315200
+312415,63,1298918461,9661,D,2000,constructive algorithms,dalex,Java 6,90,43724800
+312414,63,1298918452,9652,A,1100,implementation-sortings-strings,dalex,Java 6,90,43315200
+312413,63,1298918450,9650,D,2000,constructive algorithms,Aksenov239,Java 6,110,43315200
+312410,63,1298918440,9640,B,1200,implementation,dalex,Java 6,110,43315200
+312408,63,1298918422,9622,C,1800,brute force-implementation,dalex,Java 6,90,43315200
+312370,63,1298918171,9371,B,1200,implementation,fetetriste,Java 6,90,43315200
+312352,63,1298918088,9288,C,1800,brute force-implementation,mastersobg,Java 6,110,43315200
+312321,63,1298917913,9113,A,1100,implementation-sortings-strings,fetetriste,Java 6,90,43315200
+312315,63,1298917898,9098,B,1200,implementation,pius_88,Java 6,80,43315200
+312313,63,1298917889,9089,A,1100,implementation-sortings-strings,pius_88,Java 6,90,43315200
+312307,63,1298917864,9064,E,2200,bitmasks-dfs and similar-dp-games-implementation,uwi,Java 6,200,43315200
+312303,63,1298917826,9026,C,1800,brute force-implementation,Aksenov239,Java 6,90,43417600
+312301,63,1298917821,9021,C,1800,brute force-implementation,pius_88,Java 6,90,43315200
+312294,63,1298917799,8999,C,1800,brute force-implementation,yarrr,Java 6,140,43315200
+312262,63,1298917605,8805,E,2200,bitmasks-dfs and similar-dp-games-implementation,hydrastuff,Java 6,670,60416000
+312246,63,1298917550,8750,E,2200,bitmasks-dfs and similar-dp-games-implementation,Aksenov239,Java 6,530,43315200
+312190,63,1298915982,7182,E,2200,bitmasks-dfs and similar-dp-games-implementation,TheRaven,Java 6,500,43417600
+312112,63,1298915696,6896,C,1800,brute force-implementation,islam-al-aarag,Java 6,90,43315200
+312083,63,1298915611,6811,D,2000,constructive algorithms,abdo_abdo5,Java 6,160,43315200
+312059,63,1298915546,6746,D,2000,constructive algorithms,Omar.Darwish,Java 6,90,43315200
+312055,63,1298915537,6737,A,1100,implementation-sortings-strings,omargr,Java 6,110,43315200
+312050,63,1298915528,6728,D,2000,constructive algorithms,PanZverski,Java 6,90,43315200
+312012,63,1298915200,6400,A,1100,implementation-sortings-strings,ahmad_mamdouh,Java 6,90,43417600
+312002,63,1298915146,6346,E,2200,bitmasks-dfs and similar-dp-games-implementation,mastersobg,Java 6,520,43315200
+311959,63,1298914920,6120,E,2200,bitmasks-dfs and similar-dp-games-implementation,yaro,Java 6,190,43315200
+311937,63,1298914837,6037,C,1800,brute force-implementation,cswudi_java,Java 6,110,43315200
+311915,63,1298914693,5893,D,2000,constructive algorithms,logN,Java 6,140,43827200
+311903,63,1298914611,5811,D,2000,constructive algorithms,Daiki_Ando,Java 6,160,43417600
+311781,63,1298914007,5207,B,1200,implementation,omargr,Java 6,110,43315200
+311778,63,1298913998,5198,D,2000,constructive algorithms,iensen,Java 6,110,43315200
+311769,63,1298913957,5157,D,2000,constructive algorithms,dalex,Java 6,90,43724800
+311763,63,1298913931,5131,C,1800,brute force-implementation,hydrastuff,Java 6,110,43315200
+311746,63,1298913851,5051,B,1200,implementation,jhtan,Java 6,110,43315200
+311694,63,1298913636,4836,D,2000,constructive algorithms,islam-al-aarag,Java 6,110,43315200
+311683,63,1298913587,4787,B,1200,implementation,vfix,Java 6,90,43315200
+311671,63,1298913514,4714,C,1800,brute force-implementation,ahmad_mamdouh,Java 6,190,43315200
+311647,63,1298913407,4607,D,2000,constructive algorithms,TheRaven,Java 6,130,43315200
+311603,63,1298913273,4473,B,1200,implementation,m3m,Java 6,80,43315200
+311597,63,1298913260,4460,D,2000,constructive algorithms,mastersobg,Java 6,90,43315200
+311565,63,1298913076,4276,B,1200,implementation,Horuka,Java 6,90,43315200
+311541,63,1298912967,4167,D,2000,constructive algorithms,chronotable,Java 6,110,43315200
+311537,63,1298912947,4147,C,1800,brute force-implementation,Nil_ct,Java 6,90,43417600
+311520,63,1298912894,4094,B,1200,implementation,lazzrov,Java 6,130,43315200
+311507,63,1298912832,4032,B,1200,implementation,Belbesy,Java 6,90,43315200
+311497,63,1298912791,3991,B,1200,implementation,DarkYoshi,Java 6,110,43315200
+311465,63,1298912675,3875,D,2000,constructive algorithms,yarrr,Java 6,90,43315200
+311452,63,1298912609,3809,E,2200,bitmasks-dfs and similar-dp-games-implementation,hydrastuff,Java 6,920,60416000
+311448,63,1298912595,3795,C,1800,brute force-implementation,Fhtagn,Java 6,140,43315200
+311423,63,1298912492,3692,C,1800,brute force-implementation,Rania_Salama,Java 6,130,43315200
+311413,63,1298912446,3646,B,1200,implementation,cswudi_java,Java 6,90,43315200
+311368,63,1298912278,3478,D,2000,constructive algorithms,uwi,Java 6,110,43315200
+311358,63,1298912256,3456,B,1200,implementation,a_bekzat,Java 6,110,43315200
+311335,63,1298912189,3389,C,1800,brute force-implementation,Omar.Darwish,Java 6,160,43315200
+311334,63,1298912187,3387,C,1800,brute force-implementation,mohamed.gaber,Java 6,110,43315200
+311332,63,1298912185,3385,B,1200,implementation,MIM,Java 6,110,43315200
+311304,63,1298912103,3303,D,2000,constructive algorithms,yaro,Java 6,130,43417600
+311290,63,1298912067,3267,D,2000,constructive algorithms,SergeyLazarev,Java 6,110,43315200
+311247,63,1298911907,3107,B,1200,implementation,Hangibhom,Java 6,110,43315200
+311240,63,1298911892,3092,B,1200,implementation,ahmedkotb,Java 6,110,43315200
+311239,63,1298911891,3091,C,1800,brute force-implementation,TheRaven,Java 6,130,43417600
+311236,63,1298911885,3085,B,1200,implementation,Daiki_Ando,Java 6,110,43315200
+311144,63,1298911620,2820,E,2200,bitmasks-dfs and similar-dp-games-implementation,uwi,Java 6,520,43315200
+311135,63,1298911600,2800,A,1100,implementation-sortings-strings,vinayjulme,Java 6,110,43315200
+311131,63,1298911595,2795,B,1200,implementation,Wahba,Java 6,90,43315200
+311115,63,1298911539,2739,A,1100,implementation-sortings-strings,jhtan,Java 6,140,43315200
+311065,63,1298911382,2582,A,1100,implementation-sortings-strings,Daiki_Ando,Java 6,110,43315200
+311059,63,1298911372,2572,E,2200,bitmasks-dfs and similar-dp-games-implementation,Egor,Java 6,170,43315200
+311044,63,1298911339,2539,B,1200,implementation,marque,Java 6,90,43315200
+311029,63,1298911300,2500,D,2000,constructive algorithms,alexey.enkov,Java 6,80,43315200
+311026,63,1298911288,2488,B,1200,implementation,darkl0rd,Java 6,110,43315200
+311023,63,1298911279,2479,B,1200,implementation,ulugbek89s,Java 6,110,43315200
+311009,63,1298911244,2444,B,1200,implementation,Alexanderrrr,Java 6,110,43315200
+310957,63,1298911143,2343,C,1800,brute force-implementation,anhdt,Java 6,450,43315200
+310953,63,1298911129,2329,C,1800,brute force-implementation,chronotable,Java 6,230,43315200
+310913,63,1298911012,2212,C,1800,brute force-implementation,timmy,Java 6,130,43315200
+310877,63,1298910932,2132,A,1100,implementation-sortings-strings,MOBIUSi,Java 6,130,43315200
+310837,63,1298910872,2072,A,1100,implementation-sortings-strings,cswudi_java,Java 6,110,43315200
+310787,63,1298910790,1990,B,1200,implementation,OSt,Java 6,90,43315200
+310705,63,1298910633,1833,B,1200,implementation,Rania_Salama,Java 6,110,43315200
+310638,63,1298910509,1709,B,1200,implementation,logN,Java 6,130,43315200
+310623,63,1298910475,1675,D,2000,constructive algorithms,Egor,Java 6,90,43315200
+310609,63,1298910450,1650,C,1800,brute force-implementation,yaro,Java 6,90,43315200
+310598,63,1298910431,1631,B,1200,implementation,Aksenov239,Java 6,80,43315200
+310585,63,1298910404,1604,B,1200,implementation,Slamur,Java 6,90,43417600
+310561,63,1298910353,1553,C,1800,brute force-implementation,uwi,Java 6,130,43315200
+310527,63,1298910302,1502,A,1100,implementation-sortings-strings,Hangibhom,Java 6,110,43315200
+310513,63,1298910276,1476,B,1200,implementation,Omar.Darwish,Java 6,90,43315200
+310504,63,1298910266,1466,B,1200,implementation,chronotable,Java 6,110,43315200
+310498,63,1298910260,1460,B,1200,implementation,msagimbekov,Java 6,130,43315200
+310483,63,1298910235,1435,B,1200,implementation,Fhtagn,Java 6,110,43315200
+310439,63,1298910170,1370,A,1100,implementation-sortings-strings,.C0D3R,Java 6,90,43417600
+310438,63,1298910170,1370,B,1200,implementation,ahmad_mamdouh,Java 6,80,43315200
+310434,63,1298910164,1364,B,1200,implementation,abdo_abdo5,Java 6,110,43315200
+310418,63,1298910141,1341,A,1100,implementation-sortings-strings,vfix,Java 6,90,43315200
+310406,63,1298910118,1318,B,1200,implementation,pius_88,Java 6,80,43315200
+310404,63,1298910117,1317,C,1800,brute force-implementation,alexey.enkov,Java 6,160,43315200
+310377,63,1298910080,1280,A,1100,implementation-sortings-strings,darkl0rd,Java 6,110,43417600
+310373,63,1298910076,1276,A,1100,implementation-sortings-strings,Belbesy,Java 6,90,43315200
+310365,63,1298910055,1255,A,1100,implementation-sortings-strings,Aksenov239,Java 6,80,43315200
+310346,63,1298910028,1228,A,1100,implementation-sortings-strings,Horuka,Java 6,80,43315200
+310338,63,1298910010,1210,B,1200,implementation,dalex,Java 6,90,43315200
+310332,63,1298910001,1201,B,1200,implementation,nise_nabe,Java 6,90,43315200
+310317,63,1298909971,1171,B,1200,implementation,mohamed.gaber,Java 6,90,43315200
+310313,63,1298909961,1161,B,1200,implementation,islam-al-aarag,Java 6,90,43315200
+310307,63,1298909956,1156,B,1200,implementation,y42sora,Java 6,130,43315200
+310305,63,1298909956,1156,A,1100,implementation-sortings-strings,m3m,Java 6,80,43315200
+310302,63,1298909950,1150,A,1100,implementation-sortings-strings,ulugbek89s,Java 6,110,43315200
+310288,63,1298909929,1129,C,1800,brute force-implementation,Egor,Java 6,80,43315200
+310276,63,1298909910,1110,B,1200,implementation,TheRaven,Java 6,110,43315200
+310258,63,1298909880,1080,B,1200,implementation,yarrr,Java 6,90,43315200
+310239,63,1298909858,1058,B,1200,implementation,iensen,Java 6,90,43315200
+310235,63,1298909853,1053,A,1100,implementation-sortings-strings,Nike,Java 6,90,43315200
+310219,63,1298909827,1027,A,1100,implementation-sortings-strings,OSt,Java 6,110,43315200
+310215,63,1298909823,1023,A,1100,implementation-sortings-strings,Wahba,Java 6,80,43315200
+310210,63,1298909817,1017,A,1100,implementation-sortings-strings,MIM,Java 6,110,43417600
+310203,63,1298909808,1008,B,1200,implementation,anhdt,Java 6,90,43315200
+310200,63,1298909801,1001,B,1200,implementation,Nil_ct,Java 6,90,43315200
+310188,63,1298909792,992,A,1100,implementation-sortings-strings,lazzrov,Java 6,110,43315200
+310153,63,1298909728,928,A,1100,implementation-sortings-strings,Fhtagn,Java 6,140,43315200
+310114,63,1298909672,872,B,1200,implementation,hydrastuff,Java 6,90,43315200
+310099,63,1298909649,849,A,1100,implementation-sortings-strings,Alexanderrrr,Java 6,110,43315200
+310091,63,1298909635,835,B,1200,implementation,niyaznigmatul,Java 6,90,43315200
+310084,63,1298909624,824,B,1200,implementation,SergeyLazarev,Java 6,80,43315200
+310072,63,1298909609,809,B,1200,implementation,uwi,Java 6,90,43315200
+310070,63,1298909608,808,B,1200,implementation,yaro,Java 6,80,43315200
+310067,63,1298909603,803,A,1100,implementation-sortings-strings,chronotable,Java 6,130,43315200
+310062,63,1298909596,796,A,1100,implementation-sortings-strings,ahmedkotb,Java 6,110,43315200
+310061,63,1298909594,794,B,1200,implementation,timmy,Java 6,110,43315200
+310035,63,1298909554,754,B,1200,implementation,mastersobg,Java 6,80,43315200
+310023,63,1298909541,741,B,1200,implementation,alexey.enkov,Java 6,80,43315200
+310005,63,1298909517,717,A,1100,implementation-sortings-strings,Slamur,Java 6,90,43417600
+309998,63,1298909512,712,A,1100,implementation-sortings-strings,abdo_abdo5,Java 6,110,43315200
+309944,63,1298909464,664,A,1100,implementation-sortings-strings,Fixeg,Java 6,110,43315200
+309941,63,1298909460,660,A,1100,implementation-sortings-strings,y42sora,Java 6,130,43315200
+309910,63,1298909429,629,A,1100,implementation-sortings-strings,marque,Java 6,80,43315200
+309904,63,1298909423,623,A,1100,implementation-sortings-strings,Rania_Salama,Java 6,110,43315200
+309857,63,1298909372,572,A,1100,implementation-sortings-strings,msagimbekov,Java 6,110,43315200
+309853,63,1298909368,568,A,1100,implementation-sortings-strings,logN,Java 6,110,43315200
+309844,63,1298909353,553,A,1100,implementation-sortings-strings,islam-al-aarag,Java 6,80,43315200
+309826,63,1298909332,532,B,1200,implementation,Egor,Java 6,80,43315200
+309815,63,1298909314,514,A,1100,implementation-sortings-strings,yarrr,Java 6,80,43315200
+309810,63,1298909309,509,A,1100,implementation-sortings-strings,nise_nabe,Java 6,110,43315200
+309809,63,1298909307,507,A,1100,implementation-sortings-strings,Omar.Darwish,Java 6,80,43315200
+309802,63,1298909296,496,A,1100,implementation-sortings-strings,komiya,Java 6,110,43315200
+309788,63,1298909283,483,A,1100,implementation-sortings-strings,Hitrez,Java 6,110,43315200
+309785,63,1298909279,479,A,1100,implementation-sortings-strings,niyaznigmatul,Java 6,80,43315200
+309777,63,1298909271,471,A,1100,implementation-sortings-strings,TheRaven,Java 6,110,43417600
+309757,63,1298909241,441,A,1100,implementation-sortings-strings,anhdt,Java 6,80,43315200
+309744,63,1298909225,425,A,1100,implementation-sortings-strings,uwi,Java 6,90,43315200
+309735,63,1298909212,412,A,1100,implementation-sortings-strings,iensen,Java 6,80,43315200
+309719,63,1298909194,394,A,1100,implementation-sortings-strings,a_bekzat,Java 6,110,43315200
+309716,63,1298909190,390,A,1100,implementation-sortings-strings,asamarin,Java 6,130,43315200
+309707,63,1298909176,376,A,1100,implementation-sortings-strings,pius_88,Java 6,90,43315200
+309695,63,1298909167,367,A,1100,implementation-sortings-strings,timmy,Java 6,90,43315200
+309692,63,1298909164,364,A,1100,implementation-sortings-strings,Nil_ct,Java 6,90,43417600
+309686,63,1298909159,359,A,1100,implementation-sortings-strings,SergeyLazarev,Java 6,90,43315200
+309684,63,1298909156,356,A,1100,implementation-sortings-strings,mohamed.gaber,Java 6,80,43315200
+309679,63,1298909152,352,A,1100,implementation-sortings-strings,dalex,Java 6,90,43315200
+309677,63,1298909149,349,A,1100,implementation-sortings-strings,alexey.enkov,Java 6,90,43315200
+309650,63,1298909094,294,A,1100,implementation-sortings-strings,Egor,Java 6,90,43315200
+309647,63,1298909088,288,A,1100,implementation-sortings-strings,yaro,Java 6,90,43315200
+309646,63,1298909088,288,A,1100,implementation-sortings-strings,hydrastuff,Java 6,90,43315200
+309635,63,1298909070,270,A,1100,implementation-sortings-strings,mastersobg,Java 6,90,43315200

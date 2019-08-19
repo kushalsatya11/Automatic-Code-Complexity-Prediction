@@ -1,0 +1,1263 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57756982,129,1564072654,2147483647,A,900,implementation,f20180444,Java 8,280,0
+57614492,129,1563927541,2147483647,C,1500,dfs and similar-graphs-implementation,vjudge5,Java 8,218,0
+57611360,129,1563916060,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vjudge3,Java 8,312,0
+57610733,129,1563914256,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vjudge2,Java 8,342,0
+57476947,129,1563748814,2147483647,D,2200,implementation-string suffix structures-strings,Ahmed_Diab,Java 8,810,60006400
+57137162,129,1563268858,2147483647,A,900,implementation,deepak4669,Java 8,218,0
+56872554,129,1562914954,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,DanilenkoDarya,Java 8,310,0
+56683524,129,1562530384,2147483647,A,900,implementation,AllenYe,Java 8,280,0
+56627541,129,1562424085,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,_mcubed123,Java 8,310,0
+56547197,129,1562314189,2147483647,A,900,implementation,LOBsTerr,Java 8,280,0
+56489984,129,1562187575,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,adarsh000321,Java 8,310,0
+56187003,129,1561699991,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,kuxha,Java 8,218,0
+56170569,129,1561652411,2147483647,A,900,implementation,beykus,Java 8,280,0
+56035055,129,1561462796,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,shubhampasari,Java 8,310,0
+55873308,129,1561133561,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,3rx,Java 8,342,0
+55537375,129,1560446048,2147483647,A,900,implementation,kuxha,Java 8,218,0
+55128435,129,1559743255,2147483647,A,900,implementation,Georgiy571,Java 8,280,0
+55103957,129,1559691508,2147483647,A,900,implementation,procrastinate7,Java 8,218,0
+55094532,129,1559665295,2147483647,A,900,implementation,Unlucky1267,Java 8,280,0
+54941599,129,1559406132,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,turkeyncheese,Java 8,310,0
+54881837,129,1559314006,2147483647,A,900,implementation,hctep,Java 8,248,0
+54729556,129,1558994814,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,the41,Java 8,248,0
+54666596,129,1558878290,2147483647,A,900,implementation,turkeyncheese,Java 8,248,0
+54384787,129,1558269937,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,valeriia.hrankina,Java 8,310,0
+54199878,129,1557935451,2147483647,A,900,implementation,Pradeep_123,Java 8,310,6656000
+54087625,129,1557822434,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,deepak4669,Java 8,248,0
+54072150,129,1557766723,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,commandoCoder,Java 8,310,0
+53607195,129,1556708539,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,lebaur,Java 8,248,0
+53589142,129,1556658206,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,godemodeinmin,Java 8,310,0
+53197413,129,1556035588,2147483647,A,900,implementation,ronaldocr7,Java 8,280,0
+52750101,129,1555248972,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Jarik,Java 8,310,0
+52631472,129,1555053656,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,El-Bishoy,Java 8,248,0
+52552986,129,1554876101,2147483647,D,2200,implementation-string suffix structures-strings,wadissimo,Java 8,280,0
+52543821,129,1554839145,2147483647,D,2200,implementation-string suffix structures-strings,wadissimo,Java 8,310,0
+52336624,129,1554452373,2147483647,A,900,implementation,shubhampasari,Java 8,278,0
+52055633,129,1553975764,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,abdul135,Java 8,248,0
+52054733,129,1553973621,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,abdul135,Java 8,248,0
+51997736,129,1553917911,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,saurabhs1206,Java 8,248,0
+51894211,129,1553683549,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,mdazmat9,Java 8,248,0
+51873037,129,1553624434,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,_oshhh_,Java 8,248,0
+51592900,129,1553111124,2147483647,A,900,implementation,vjudge5,Java 8,280,0
+51434307,129,1552885233,2147483647,A,900,implementation,khiladir,Java 8,280,0
+51425301,129,1552848732,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,manubhai8876,Java 8,312,0
+51364290,129,1552726151,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,kissscreen,Java 8,248,0
+51205046,129,1552363235,2147483647,A,900,implementation,goalboy,Java 8,404,0
+51098204,129,1552152964,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,iamanvesh,Java 8,310,0
+50797660,129,1551728720,2147483647,A,900,implementation,vjudge1,Java 8,280,0
+50328918,129,1550857485,2147483647,A,900,implementation,RaZaR,Java 8,280,0
+50257669,129,1550695411,2147483647,A,900,implementation,saurabhs1206,Java 8,218,0
+50025754,129,1550340900,2147483647,A,900,implementation,kitty214,Java 8,280,0
+49965960,129,1550263431,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,elkadymohammed01,Java 8,342,0
+49825195,129,1549969844,2147483647,A,900,implementation,geekahmed1,Java 8,280,0
+49522071,129,1549442701,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,a.k.a.BuuZaid,Java 8,310,0
+49521852,129,1549442005,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,a.k.a.BuuZaid,Java 8,310,0
+49442866,129,1549234224,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,qwerty1990,Java 8,248,0
+49307537,129,1549002160,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,akshita00,Java 8,342,0
+49227323,129,1548899485,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,gtatutors-ca,Java 8,310,0
+49226483,129,1548892396,2147483647,A,900,implementation,HossamTag10,Java 8,280,0
+49074710,129,1548639422,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,I.A.K.O.V,Java 8,248,0
+49073803,129,1548634425,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,woodyinho,Java 8,340,0
+49056595,129,1548596028,2147483647,A,900,implementation,Omar.Handouk,Java 8,310,0
+49052452,129,1548589457,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vashwini409,Java 8,312,0
+48949454,129,1548452429,2147483647,A,900,implementation,A7med_Saber,Java 8,280,0
+48862739,129,1548289751,2147483647,A,900,implementation,alytaha,Java 8,280,0
+48849288,129,1548261939,2147483647,A,900,implementation,AmrA7med,Java 8,280,0
+48651759,129,1548020987,2147483647,A,900,implementation,Mostafa153,Java 8,280,0
+48494973,129,1547728527,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,wanderer163,Java 8,404,0
+48404273,129,1547517128,2147483647,A,900,implementation,grindthecode,Java 8,280,0
+48377975,129,1547455489,2147483647,A,900,implementation,kukreja-vlk,Java 8,248,0
+48157638,129,1547056469,2147483647,A,900,implementation,ayushkesarwani1000,Java 8,280,0
+48115821,129,1547037666,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,_olOlo_,Java 8,280,0
+48032256,129,1546780223,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ShowStopper728,Java 8,248,0
+47956779,129,1546670667,2147483647,A,900,implementation,viratK,Java 8,248,0
+47822689,129,1546369165,2147483647,A,900,implementation,rezamotlagh,Java 8,280,0
+47795416,129,1546273970,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,nesdi,Java 8,248,0
+47526328,129,1545840325,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,paliyastrot,Java 8,310,0
+47509080,129,1545800343,2147483647,A,900,implementation,Aman_A_Rafat,Java 8,280,0
+47316401,129,1545365430,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,PersonOfInterest,Java 8,310,0
+47303725,129,1545320053,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,PersonOfInterest,Java 8,310,0
+47182317,129,1545086035,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,msagimbekov,Java 8,372,0
+47179560,129,1545075516,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,deepak4669,Java 8,248,0
+47156676,129,1545031113,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,kunal725725,Java 8,248,0
+46902849,129,1544532440,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,viratK,Java 8,218,0
+46886223,129,1544489062,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,zahra.t,Java 8,310,0
+46781191,129,1544323021,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,quackity,Java 8,248,0
+46777984,129,1544306947,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,quackity,Java 8,310,0
+46627376,129,1543961727,2147483647,A,900,implementation,waleed_reda,Java 8,248,0
+46566222,129,1543880957,2147483647,A,900,implementation,adbusa67,Java 8,280,0
+46483328,129,1543741762,2147483647,A,900,implementation,danny2019,Java 8,310,0
+46468675,129,1543730387,2147483647,A,900,implementation,quackity,Java 8,280,0
+45964924,129,1542633793,2147483647,A,900,implementation,akshita00,Java 8,280,0
+45801168,129,1542374612,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ahmedibrahim404,Java 8,310,0
+45545353,129,1541892939,2147483647,A,900,implementation,RichardBot7000,Java 8,278,0
+45463477,129,1541734555,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MubtasimShahriar,Java 8,280,0
+45463439,129,1541734311,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MubtasimShahriar,Java 8,218,0
+45237157,129,1541238749,2147483647,D,2200,implementation-string suffix structures-strings,Jeel_Vaishnav,Java 8,374,6758400
+45225365,129,1541213187,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,GiantTornado,Java 8,248,0
+45110080,129,1540922556,2147483647,A,900,implementation,Agerest,Java 8,280,0
+44994251,129,1540737246,2147483647,A,900,implementation,woodyinho,Java 8,280,0
+44908607,129,1540557269,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,amolpratap007,Java 8,218,307200
+44904319,129,1540550449,2147483647,A,900,implementation,zoro25,Java 8,310,0
+44362869,129,1539616817,2147483647,C,1500,dfs and similar-graphs-implementation,S_Mostafa_A,Java 8,218,0
+44253774,129,1539430352,2147483647,A,900,implementation,sachinmukherjee,Java 8,248,0
+44225334,129,1539371524,2147483647,A,900,implementation,msics97,Java 8,310,0
+44224812,129,1539370561,2147483647,A,900,implementation,ahsel,Java 8,278,0
+44221078,129,1539364628,2147483647,A,900,implementation,Lanretipmes,Java 8,280,0
+44218979,129,1539362740,2147483647,A,900,implementation,al_kost,Java 8,280,0
+44185589,129,1539349309,2147483647,A,900,implementation,shardYC,Java 8,280,0
+44180879,129,1539342754,2147483647,A,900,implementation,SVel,Java 8,280,0
+44158863,129,1539287940,2147483647,A,900,implementation,Aiecel,Java 8,342,0
+44092129,129,1539201801,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MeGoooO,Java 8,374,0
+44078860,129,1539180621,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,darkness152312,Java 8,280,0
+44059565,129,1539146151,2147483647,A,900,implementation,mohdafzal330,Java 8,248,0
+44039883,129,1539094667,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,BiggestPrime,Java 8,280,0
+44013936,129,1539027680,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,motawfik,Java 8,340,0
+43809672,129,1538693015,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,paperlesscat,Java 8,374,0
+43804761,129,1538680059,2147483647,A,900,implementation,khadiga.osman16,Java 8,310,0
+43799394,129,1538671744,2147483647,A,900,implementation,wewakeprasad,Java 8,342,0
+43707076,129,1538521339,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Mohd.,Java 8,280,0
+43582869,129,1538245089,2147483647,A,900,implementation,PercySpecter,Java 8,312,0
+43524093,129,1538129984,2147483647,A,900,implementation,I.A.K.O.V,Java 8,248,0
+43291469,129,1537700682,2147483647,D,2200,implementation-string suffix structures-strings,aabdelzaher,Java 8,904,55193600
+42834335,129,1536849720,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Mostafa_Murad,Java 8,278,0
+42716109,129,1536520749,2147483647,A,900,implementation,msics97,Java 8,310,0
+42715849,129,1536520064,2147483647,A,900,implementation,msics97,Java 8,342,0
+42706687,129,1536500219,2147483647,A,900,implementation,lowsortwizard,Java 8,466,0
+42706221,129,1536499412,2147483647,A,900,implementation,lowsortwizard,Java 8,434,0
+42655685,129,1536357244,2147483647,A,900,implementation,R_Inna,Java 8,310,0
+42655630,129,1536357009,2147483647,A,900,implementation,R_Inna,Java 8,436,0
+42655299,129,1536355869,2147483647,A,900,implementation,R_Inna,Java 8,436,0
+42654963,129,1536354839,2147483647,A,900,implementation,R_Inna,Java 8,434,0
+42629585,129,1536333819,2147483647,A,900,implementation,Seri4,Java 8,310,0
+42619735,129,1536331428,2147483647,A,900,implementation,Soronk,Java 8,342,0
+42616071,129,1536327926,2147483647,A,900,implementation,LAMbl4,Java 8,310,0
+42533250,129,1536186076,2147483647,A,900,implementation,Mostafa_Murad,Java 8,310,0
+42215391,129,1535474987,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,omar.elbaroudy,Java 8,248,0
+42121977,129,1535288282,2147483647,A,900,implementation,mariam__,Java 8,248,0
+42103869,129,1535233173,2147483647,A,900,implementation,AboHnifa,Java 8,312,0
+41731838,129,1534546573,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Naman_123,Java 8,278,0
+41686135,129,1534515396,2147483647,A,900,implementation,hms1523,Java 8,248,0
+41594510,129,1534262654,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,khalil_2017,Java 8,374,0
+41539993,129,1534110013,2147483647,A,900,implementation,bledi,Java 8,310,0
+41539533,129,1534107509,2147483647,A,900,implementation,angulz,Java 8,310,0
+41497161,129,1534001436,2147483647,A,900,implementation,deepak4669,Java 8,374,0
+41441556,129,1533926477,2147483647,A,900,implementation,MoeAdel,Java 8,278,0
+41301829,129,1533638592,2147483647,A,900,implementation,MariamHaitham,Java 8,310,0
+41298478,129,1533630844,2147483647,A,900,implementation,azooz97,Java 8,342,0
+41262691,129,1533529520,2147483647,A,900,implementation,TaglasovEd,Java 8,312,0
+41256420,129,1533501739,2147483647,A,900,implementation,MHariri,Java 8,310,0
+40975581,129,1532963770,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,merna11,Java 8,342,0
+40772021,129,1532595588,2147483647,A,900,implementation,dtrifonov32,Java 8,312,0
+40735154,129,1532511101,2147483647,A,900,implementation,ritik027,Java 8,248,0
+40690599,129,1532410838,2147483647,A,900,implementation,arcus,Java 8,312,0
+40613351,129,1532189318,2147483647,A,900,implementation,zouzankou,Java 8,312,0
+40544704,129,1531997816,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,VBT,Java 8,278,0
+40486026,129,1531845777,2147483647,E,2100,combinatorics-dp,bwang1008,Java 8,140,0
+40191585,129,1531292096,2147483647,A,900,implementation,ic97usop,Java 8,310,0
+40184870,129,1531267788,2147483647,A,900,implementation,Mohamed_Alekhsasy,Java 8,310,0
+39937381,129,1530657348,2147483647,A,900,implementation,re3,Java 8,310,0
+39862615,129,1530521869,2147483647,C,1500,dfs and similar-graphs-implementation,SevenDeadlySins,Java 8,310,0
+39806928,129,1530390832,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,octopusPrime,Java 8,280,0
+39806909,129,1530390763,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,octopusPrime,Java 8,280,0
+39789248,129,1530339326,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,SevenDeadlySins,Java 8,342,0
+39788049,129,1530334379,2147483647,A,900,implementation,SevenDeadlySins,Java 8,310,0
+39783918,129,1530313734,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,redatawfik,Java 8,280,0
+39344772,129,1529279237,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,frenzykryger,Java 8,280,0
+39221030,129,1528905181,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,cis_pie,Java 8,278,0
+39139526,129,1528701875,2147483647,E,2100,combinatorics-dp,bluesky111,Java 8,155,4608000
+39138810,129,1528699990,2147483647,D,2200,implementation-string suffix structures-strings,bluesky111,Java 8,280,10137600
+39136541,129,1528692382,2147483647,C,1500,dfs and similar-graphs-implementation,bluesky111,Java 8,248,0
+39135040,129,1528685725,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,bluesky111,Java 8,280,0
+39134641,129,1528683119,2147483647,A,900,implementation,bluesky111,Java 8,310,0
+39132138,129,1528665576,2147483647,A,900,implementation,pro100dnorak,Java 8,312,0
+39044555,129,1528457850,2147483647,E,2100,combinatorics-dp,Hoda_Hisham,Java 8,124,0
+38999166,129,1528300824,2147483647,A,900,implementation,amribrahim333,Java 8,342,0
+38914738,129,1528014362,2147483647,A,900,implementation,preetikkb,Java 8,312,20992000
+38654987,129,1527423292,2147483647,A,900,implementation,amrtanshu,Java 8,280,0
+38560275,129,1527075496,2147483647,A,900,implementation,Md_Ibrahim_Khan,Java 8,310,0
+38537018,129,1526995897,2147483647,A,900,implementation,anto777,Java 8,280,0
+38410243,129,1526674225,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,jhill.ucf,Java 8,374,0
+38331826,129,1526500414,2147483647,A,900,implementation,Omar_Emad,Java 8,310,21094400
+38291251,129,1526400718,2147483647,A,900,implementation,Ahmed_Diab,Java 8,248,20684800
+37849525,129,1525295440,2147483647,A,900,implementation,Aemon,Java 8,248,20684800
+37844681,129,1525276463,2147483647,A,900,implementation,rising_titan,Java 8,248,20684800
+37827016,129,1525216560,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,mohamedveron23,Java 8,374,21299200
+37663990,129,1524838740,2147483647,A,900,implementation,Soumit38,Java 8,310,21094400
+37632313,129,1524739641,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,karanjobanputra,Java 8,278,20787200
+36892761,129,1522729606,2147483647,A,900,implementation,ghangh,Java 8,342,21094400
+36757274,129,1522437565,2147483647,A,900,implementation,myob-_-,Java 8,280,20684800
+36695914,129,1522246892,2147483647,A,900,implementation,dstrmv,Java 8,342,20992000
+36463876,129,1521662968,2147483647,A,900,implementation,Xpesh,Java 8,312,20992000
+36345453,129,1521270725,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,KulikAlex,Java 8,310,20684800
+36129859,129,1520627766,2147483647,A,900,implementation,sof0000,Java 8,310,20889600
+35588239,129,1519360736,2147483647,A,900,implementation,jwiroj,Java 8,310,21094400
+35434781,129,1518920737,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vigneshoBrien,Java 8,342,21094400
+35288001,129,1518687137,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,rishbag,Java 8,342,21094400
+35275605,129,1518639125,2147483647,D,2200,implementation-string suffix structures-strings,Omar_Morsi,Java 8,934,83660800
+35274091,129,1518634741,2147483647,A,900,implementation,mitul98,Java 8,280,20992000
+35192201,129,1518505740,2147483647,A,900,implementation,MitAk,Java 8,312,20992000
+35161477,129,1518375358,2147483647,A,900,implementation,M.Z.B,Java 8,280,20992000
+35093832,129,1518187065,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,EA117,Java 8,248,20684800
+35066871,129,1518109550,2147483647,A,900,implementation,S010M,Java 8,218,20684800
+35016216,129,1518025633,2147483647,A,900,implementation,salhad,Java 8,312,21094400
+34996842,129,1518004028,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Dird,Java 8,278,20684800
+34772300,129,1517411871,2147483647,A,900,implementation,CharlesDai,Java 8,248,20684800
+34602109,129,1517048741,2147483647,A,900,implementation,mannshah27,Java 8,310,20992000
+34569369,129,1516954645,2147483647,A,900,implementation,begaiymkamar,Java 8,280,20992000
+34453566,129,1516636746,2147483647,A,900,implementation,kareemhamdy,Java 8,280,20992000
+34160526,129,1515872453,2147483647,A,900,implementation,_bacali,Java 8,248,20684800
+34094841,129,1515696479,2147483647,A,900,implementation,abhi.raj21jan,Java 8,310,20992000
+33667527,129,1514374422,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Ahmed.Shawky,Java 8,248,20684800
+33597113,129,1514131638,2147483647,A,900,implementation,arabvisual,Java 8,280,20992000
+33467656,129,1513812164,2147483647,A,900,implementation,Zedronar,Java 8,248,20684800
+33375943,129,1513594586,2147483647,A,900,implementation,rairay,Java 8,280,20992000
+33358030,129,1513528436,2147483647,A,900,implementation,muregad99,Java 8,342,21094400
+32960020,129,1512522147,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Mazen_Tarek,Java 8,248,20684800
+32856318,129,1512214251,2147483647,A,900,implementation,dormitantis,Java 8,340,20992000
+32603434,129,1511465000,2147483647,A,900,implementation,assali,Java 8,372,21299200
+32564729,129,1511403292,2147483647,A,900,implementation,opponent,Java 8,312,0
+32523135,129,1511263100,2147483647,A,900,implementation,Sephiroth616,Java 8,278,0
+32348545,129,1510814351,2147483647,A,900,implementation,dinesh_raj7,Java 8,248,0
+32114209,129,1510048558,2147483647,A,900,implementation,Mishugana,Java 8,280,0
+31945958,129,1509532190,2147483647,A,900,implementation,anubhav_deshwal,Java 8,342,0
+31919920,129,1509450780,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,kocko,Java 8,310,0
+31734944,129,1509013599,2147483647,A,900,implementation,vjudge1,Java 8,280,0
+31718165,129,1508950399,2147483647,A,900,implementation,The_MG,Java 8,248,0
+31612867,129,1508701816,2147483647,C,1500,dfs and similar-graphs-implementation,zodiacleo,Java 8,248,20582400
+31585244,129,1508614553,2147483647,A,900,implementation,ashcodish,Java 8,278,20889600
+31542687,129,1508523456,2147483647,A,900,implementation,MarkMoheb,Java 8,218,20582400
+31515985,129,1508436365,2147483647,A,900,implementation,agnyaathavaasi,Java 8,248,20582400
+31435323,129,1508200919,2147483647,A,900,implementation,vjudge2,Java 8,280,20889600
+31435303,129,1508200800,2147483647,A,900,implementation,vjudge2,Java 8,278,20889600
+31435207,129,1508200229,2147483647,A,900,implementation,vjudge1,Java 8,280,20889600
+31435093,129,1508199695,2147483647,A,900,implementation,vjudge3,Java 8,280,20889600
+31435038,129,1508199455,2147483647,A,900,implementation,vjudge1,Java 8,310,20889600
+31434963,129,1508199142,2147483647,A,900,implementation,vjudge2,Java 8,280,20889600
+31433884,129,1508191565,2147483647,A,900,implementation,Med_Seddik,Java 8,280,20889600
+31183593,129,1507621593,2147483647,A,900,implementation,Hossam,Java 8,218,0
+31171641,129,1507563492,2147483647,A,900,implementation,MQstafa,Java 8,312,0
+30940170,129,1506941430,2147483647,D,2200,implementation-string suffix structures-strings,U_Square,Java 8,468,6758400
+30926345,129,1506895750,2147483647,D,2200,implementation-string suffix structures-strings,RP_9,Java 8,498,8499200
+30882145,129,1506798467,2147483647,A,900,implementation,abdullah4alfahmi,Java 8,278,0
+30778197,129,1506518964,2147483647,A,900,implementation,nonis,Java 8,218,0
+30698148,129,1506326522,2147483647,A,900,implementation,kocko,Java 8,218,0
+30661454,129,1506245602,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,RelyOnTheTruth,Java 8,310,0
+30657723,129,1506233417,2147483647,A,900,implementation,prashantkr314,Java 8,280,0
+30596841,129,1506018521,2147483647,A,900,implementation,tishinilia,Java 8,310,0
+30478716,129,1505753031,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,abhi9810,Java 8,342,20992000
+30249326,129,1505056285,2147483647,A,900,implementation,Caucasian_Shepherd,Java 8,280,0
+30242625,129,1505038839,2147483647,A,900,implementation,vuthuy.uet,Java 8,280,0
+30224604,129,1504957720,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,sjain281297,Java 8,218,0
+30195514,129,1504849493,2147483647,A,900,implementation,Nuwaisir_Rabi,Java 8,280,0
+30120865,129,1504662523,2147483647,A,900,implementation,Udit_Jain_iitd,Java 8,310,0
+29866875,129,1504012962,2147483647,A,900,implementation,rawaanalii97,Java 8,280,0
+29832716,129,1503859273,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,dipankar12,Java 8,248,0
+29832684,129,1503859173,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,dipankar12,Java 8,248,0
+29797618,129,1503725546,2147483647,A,900,implementation,srimouli1998,Java 8,278,0
+29785916,129,1503676074,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,lm010,Java 8,248,0
+29688447,129,1503419568,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ahmed_elbawab,Java 8,342,0
+29584240,129,1503103384,2147483647,A,900,implementation,RelyOnTheTruth,Java 8,404,0
+29578104,129,1503074710,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,tthms,Java 8,342,0
+29537595,129,1503006073,2147483647,A,900,implementation,AbdNasr,Java 8,310,0
+29521499,129,1502957188,2147483647,A,900,implementation,Thunragz,Java 8,218,0
+29467296,129,1502745017,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,assali,Java 8,278,20582400
+29353442,129,1502456348,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ryozaki,Java 8,248,20582400
+29293276,129,1502223629,2147483647,A,900,implementation,mostafayousry8,Java 8,310,20889600
+29281641,129,1502182329,2147483647,A,900,implementation,HananM,Java 8,248,20992000
+29092041,129,1501574233,2147483647,A,900,implementation,TVH,Java 8,218,21196800
+29078705,129,1501525837,2147483647,A,900,implementation,Omegaxis213,Java 8,218,20480000
+29024843,129,1501441120,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,mezradiniz,Java 8,372,20992000
+29016260,129,1501431644,2147483647,A,900,implementation,mezradiniz,Java 8,280,20889600
+28988222,129,1501410483,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,prakhar28,Java 8,342,20992000
+28915267,129,1501105424,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vikiCoder,Java 8,248,20582400
+28564060,129,1500095191,2147483647,A,900,implementation,amrmohammed362,Java 8,218,20582400
+28495300,129,1499933770,2147483647,A,900,implementation,memoo,Java 8,280,20889600
+28459559,129,1499829516,2147483647,A,900,implementation,afnanTED,Java 8,280,20889600
+28426715,129,1499777836,2147483647,A,900,implementation,AnnaAutumn,Java 8,310,20889600
+28377538,129,1499556953,2147483647,A,900,implementation,Alaa12,Java 8,248,20480000
+28311041,129,1499282592,2147483647,A,900,implementation,NadiaEl_Sedeq,Java 8,280,20787200
+28288632,129,1499197913,2147483647,A,900,implementation,sleepyinsomniac,Java 8,280,20889600
+28288474,129,1499197277,2147483647,A,900,implementation,sleepyinsomniac,Java 8,372,20889600
+28283208,129,1499179543,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,nasserahmed36,Java 8,248,20582400
+28234834,129,1499022908,2147483647,A,900,implementation,Omar_Swidan,Java 8,280,20889600
+28194103,129,1498922306,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,demonKing,Java 8,1652,20582400
+27997037,129,1498278712,2147483647,A,900,implementation,amaury.vegzav,Java 8,374,20992000
+27996894,129,1498277891,2147483647,A,900,implementation,amaury.vegzav,Java 8,248,20480000
+27994509,129,1498266100,2147483647,A,900,implementation,Sherif_mostafa,Java 8,312,20992000
+27989623,129,1498238148,2147483647,A,900,implementation,Exctues,Java 8,248,20480000
+27948345,129,1498056851,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,El5dewy,Java 8,312,20992000
+27919154,129,1497942694,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,v7dhiman,Java 8,372,0
+27912329,129,1497902960,2147483647,A,900,implementation,danylo.stasenko,Java 8,310,0
+27897939,129,1497856159,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Raosumeet0009,Java 8,310,0
+27890766,129,1497817294,2147483647,A,900,implementation,crew,Java 8,310,0
+27794954,129,1497534614,2147483647,A,900,implementation,Youssef_Ali,Java 8,248,0
+27784862,129,1497494182,2147483647,A,900,implementation,AbdElazizMohamed,Java 8,310,0
+27706927,129,1497100579,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vaibhav28,Java 8,248,0
+27679040,129,1496956544,2147483647,A,900,implementation,MaxHeap,Java 8,218,0
+27621348,129,1496781017,2147483647,A,900,implementation,Kyrie_,Java 8,248,0
+27533806,129,1496454888,2147483647,A,900,implementation,alshahen,Java 8,248,0
+27477766,129,1496294208,2147483647,A,900,implementation,rajuniit,Java 8,248,0
+27387225,129,1495886233,2147483647,A,900,implementation,shad0o0,Java 8,278,0
+27311130,129,1495575875,2147483647,A,900,implementation,danuwfna,Java 8,342,0
+27268803,129,1495376324,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,KEMDAK,Java 8,248,0
+27267698,129,1495372130,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,catchup,Java 8,218,0
+27238540,129,1495302968,2147483647,A,900,implementation,emad.gamal33,Java 8,278,0
+26988709,129,1494382470,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,safarisoul,Java 8,218,0
+26963143,129,1494270790,2147483647,A,900,implementation,justcode99,Java 8,278,0
+26799745,129,1493719093,2147483647,A,900,implementation,Bibhuti,Java 8,218,20480000
+26795554,129,1493696275,2147483647,A,900,implementation,aasimkhan30,Java 8,278,20889600
+26791303,129,1493667046,2147483647,A,900,implementation,amrmohammed362,Java 8,248,20889600
+26757472,129,1493507787,2147483647,A,900,implementation,_bibhuty_,Java 8,248,20480000
+26699710,129,1493288117,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,_lucifer_,Java 8,374,20992000
+26698993,129,1493284598,2147483647,A,900,implementation,_lucifer_,Java 8,280,20889600
+26674754,129,1493173214,2147483647,A,900,implementation,AmrAboElhamd,Java 8,248,20582400
+26637066,129,1493026973,2147483647,E,2100,combinatorics-dp,Kammola,Java 8,124,20582400
+26402967,129,1492315106,2147483647,A,900,implementation,karimamd95,Java 8,248,20889600
+26355436,129,1492170175,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,chucha,Java 8,248,20582400
+26328723,129,1492037886,2147483647,A,900,implementation,PotatoKiller,Java 8,278,20889600
+26309538,129,1491961104,2147483647,A,900,implementation,batkhuyag,Java 8,278,20992000
+26289719,129,1491885636,2147483647,A,900,implementation,shadofren,Java 8,280,20992000
+26197051,129,1491577933,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Amore_coder,Java 8,218,20582400
+26169209,129,1491480669,2147483647,A,900,implementation,emanhesham,Java 8,280,20889600
+26128493,129,1491325154,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,parth_1,Java 8,248,20582400
+25954941,129,1490882701,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Kishan_25,Java 8,342,20992000
+25881891,129,1490727701,2147483647,A,900,implementation,Raedtabani,Java 8,280,20889600
+25861141,129,1490652141,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Bassel,Java 8,372,20992000
+25735614,129,1490279007,2147483647,A,900,implementation,DavidVictor2004,Java 8,310,20992000
+25730759,129,1490266119,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,AhmedSoliman,Java 8,248,20480000
+25716357,129,1490198322,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,OmarRadwan,Java 8,280,20377600
+25710120,129,1490183646,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Kammola,Java 8,248,20582400
+25650718,129,1489940896,2147483647,A,900,implementation,MohamedMashaal,Java 8,248,20889600
+25542532,129,1489653535,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,kritikapandey8,Java 8,218,20582400
+25417542,129,1489262789,2147483647,A,900,implementation,NR_1995,Java 8,218,20480000
+25276289,129,1488759709,2147483647,A,900,implementation,Eman..Ehab,Java 8,280,20889600
+25274981,129,1488751719,2147483647,A,900,implementation,illmondo,Java 8,310,20889600
+25223311,129,1488650149,2147483647,E,2100,combinatorics-dp,tabgok44,Java 8,124,27238400
+25160894,129,1488501972,2147483647,D,2200,implementation-string suffix structures-strings,tabgok44,Java 8,530,20684800
+25123023,129,1488371297,2147483647,A,900,implementation,durdenplato,Java 8,310,20889600
+25111893,129,1488321930,3630,C,1500,dfs and similar-graphs-implementation,tabgok44,Java 8,248,20582400
+25111474,129,1488319601,2147483647,A,900,implementation,yassin.ajdi,Java 8,218,20480000
+25111366,129,1488319169,869,B,1200,brute force-dfs and similar-graphs-implementation,tabgok44,Java 8,248,20582400
+25111230,129,1488318496,196,A,900,implementation,tabgok44,Java 8,248,20480000
+25110639,129,1488316149,2147483647,A,900,implementation,yassin.ajdi,Java 8,218,20480000
+25102166,129,1488289418,2147483647,A,900,implementation,AhmedGhazaly,Java 8,218,20480000
+24902958,129,1487801655,2147483647,A,900,implementation,moh_yehia,Java 8,340,20889600
+24803357,129,1487512135,2147483647,A,900,implementation,3mmarg97,Java 8,310,20582400
+24803204,129,1487511689,2147483647,A,900,implementation,3mmarg97,Java 8,372,20582400
+24802782,129,1487510340,2147483647,A,900,implementation,3mmarg97,Java 8,374,20582400
+24744542,129,1487357789,2147483647,A,900,implementation,Dekacc,Java 8,498,20992000
+24698797,129,1487170422,2147483647,C,1500,dfs and similar-graphs-implementation,Joker1010123,Java 8,404,20787200
+24693131,129,1487157218,2147483647,D,2200,implementation-string suffix structures-strings,MedoN11,Java 8,778,20684800
+24674663,129,1487086941,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Joker1010123,Java 8,312,20889600
+24674231,129,1487085881,2147483647,A,900,implementation,Joker1010123,Java 8,280,20787200
+24642784,129,1487053105,2147483647,C,1500,dfs and similar-graphs-implementation,tieunhi,Java 8,342,20889600
+24632011,129,1487003271,2147483647,C,1500,dfs and similar-graphs-implementation,di_halt,Java 8,218,20582400
+24629679,129,1486995779,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,tieunhi,Java 8,342,20992000
+24629231,129,1486994321,2147483647,A,900,implementation,tieunhi,Java 8,278,20889600
+24625736,129,1486982444,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,di_halt,Java 8,310,20582400
+24625553,129,1486981097,2147483647,A,900,implementation,di_halt,Java 8,218,20480000
+24621303,129,1486963512,2147483647,A,900,implementation,Dudda,Java 8,342,20889600
+24621237,129,1486962997,2147483647,A,900,implementation,Dudda,Java 8,310,20889600
+24597972,129,1486849952,2147483647,A,900,implementation,Shenouda_Fawzy,Java 8,372,20889600
+24594032,129,1486832911,2147483647,A,900,implementation,prabal1815,Java 8,310,20582400
+24578676,129,1486762461,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Mohanad_Elmaghrby,Java 8,280,20582400
+24577848,129,1486758366,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,cgrunau,Java 8,280,20582400
+24569822,129,1486731373,2147483647,A,900,implementation,akshita2617,Java 8,342,20889600
+24517898,129,1486529221,2147483647,A,900,implementation,MuhammadYoussef,Java 8,312,20889600
+24434057,129,1486218582,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,mahmod.fathi,Java 8,374,20992000
+24417617,129,1486145978,2147483647,A,900,implementation,kartik_chandna,Java 8,342,20889600
+24382096,129,1486047440,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ahmed_shawky,Java 8,374,20992000
+24358237,129,1486013101,2147483647,A,900,implementation,bhavyashah9873,Java 8,404,20582400
+24290455,129,1485867749,2147483647,A,900,implementation,Dijkstra.,Java 8,278,20889600
+24243174,129,1485681519,2147483647,A,900,implementation,gaber,Java 8,342,20889600
+24214422,129,1485576807,2147483647,A,900,implementation,bluesky-dv,Java 8,310,20889600
+24214406,129,1485576707,2147483647,A,900,implementation,bluesky-dv,Java 8,248,20889600
+24214247,129,1485575371,2147483647,A,900,implementation,bluesky-dv,Java 8,374,20889600
+24161462,129,1485473090,2147483647,A,900,implementation,loayCPS,Java 8,404,20889600
+24139280,129,1485388249,2147483647,A,900,implementation,habiba.alaa,Java 8,342,20889600
+24128874,129,1485361216,2147483647,A,900,implementation,bluesky-dv,Java 8,434,20889600
+24106101,129,1485328214,2147483647,A,900,implementation,radwasherif3,Java 8,280,20480000
+24097573,129,1485281967,2147483647,A,900,implementation,Nitin_Pamnani2,Java 8,218,20480000
+24089871,129,1485256052,2147483647,A,900,implementation,muhamd_gomaa,Java 8,310,20889600
+24089037,129,1485252073,2147483647,A,900,implementation,maimaimai,Java 8,312,20889600
+24072256,129,1485179595,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,nitk_ranjan,Java 8,436,20992000
+24010492,129,1485000225,2147483647,A,900,implementation,Kurdish4,Java 8,374,20889600
+23976057,129,1484870386,2147483647,A,900,implementation,Sharon,Java 8,372,20889600
+23808304,129,1484404519,2147483647,A,900,implementation,davidonsy,Java 8,310,20992000
+23805496,129,1484396400,2147483647,A,900,implementation,El5dewy,Java 8,280,20889600
+23722996,129,1484155534,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,xodiac,Java 8,280,20377600
+23681578,129,1484054589,2147483647,A,900,implementation,P0Tass1um,Java 8,340,20992000
+23644455,129,1483872166,2147483647,A,900,implementation,dbee,Java 8,340,20992000
+23587337,129,1483713277,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Dexter420,Java 8,342,20992000
+23534631,129,1483530836,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ppppppppppppppp,Java 8,248,20582400
+23505651,129,1483386417,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Hoda_Hisham,Java 8,248,20377600
+23131236,129,1482129774,2147483647,A,900,implementation,rizqyfaishal272,Java 8,280,20582400
+23130361,129,1482126859,2147483647,A,900,implementation,OmarRadwan,Java 8,248,20275200
+23112912,129,1482085855,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,da_201501181,Java 8,280,20582400
+23030788,129,1481895918,2147483647,A,900,implementation,brettfazio,Java 8,280,0
+23000219,129,1481788651,2147483647,A,900,implementation,AhmedSoliman,Java 8,280,0
+22893473,129,1481487288,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,aznswimmerboi,Java 8,312,0
+22842661,129,1481312233,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,prakash9,Java 8,310,0
+22665270,129,1480708897,2147483647,A,900,implementation,ReaL_73,Java 8,404,0
+22518123,129,1480200284,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,mug,Java 8,374,0
+22421490,129,1479899021,2147483647,A,900,implementation,sathish333,Java 8,278,0
+22393723,129,1479771196,2147483647,A,900,implementation,AhmedAtef07,Java 8,340,0
+22304465,129,1479466024,2147483647,A,900,implementation,alshahen,Java 8,310,0
+22183694,129,1478978450,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Nightmare_hmr,Java 8,280,0
+22165620,129,1478880016,2147483647,A,900,implementation,Ballan,Java 8,404,0
+22023221,129,1478209097,2147483647,A,900,implementation,Michael_Ghaly,Java 8,342,0
+21854088,129,1477676884,2147483647,A,900,implementation,KrolosF,Java 8,310,0
+21854078,129,1477676843,2147483647,A,900,implementation,KrolosF,Java 8,342,0
+21805634,129,1477509109,2147483647,A,900,implementation,VernitaGreen,Java 8,310,0
+21365629,129,1476207305,2147483647,A,900,implementation,AhmedRagabIssa,Java 8,342,20787200
+21346975,129,1476133257,2147483647,A,900,implementation,omartarek32,Java 8,340,20787200
+21346177,129,1476129670,2147483647,A,900,implementation,anand_prakash_yadav,Java 8,312,20787200
+21233469,129,1475755148,2147483647,A,900,implementation,coderbond007,Java 8,312,0
+21228346,129,1475738287,2147483647,A,900,implementation,alexrcoleman,Java 8,374,0
+21104311,129,1475376558,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MDL,Java 8,280,0
+20997099,129,1475164295,2147483647,A,900,implementation,Musin,Java 8,248,0
+20997080,129,1475164234,2147483647,A,900,implementation,Musin,Java 8,310,0
+20967643,129,1475067908,2147483647,A,900,implementation,ahmedayman96,Java 8,434,0
+20876972,129,1474672749,2147483647,D,2200,implementation-string suffix structures-strings,Dukkha,Java 8,278,6758400
+20866792,129,1474646585,6185,E,2100,combinatorics-dp,Dukkha,Java 8,171,4915200
+20866335,129,1474644063,3663,C,1500,dfs and similar-graphs-implementation,Dukkha,Java 8,278,0
+20861016,129,1474641378,978,B,1200,brute force-dfs and similar-graphs-implementation,Dukkha,Java 8,280,0
+20858904,129,1474640617,217,A,900,implementation,Dukkha,Java 8,280,0
+20765881,129,1474326837,2147483647,A,900,implementation,Youssef_Ali,Java 8,372,0
+20569513,129,1473778336,2147483647,A,900,implementation,ljubakv,Java 8,310,0
+20538353,129,1473620163,2147483647,A,900,implementation,Hoda_Hisham,Java 8,248,0
+20484504,129,1473445661,2147483647,A,900,implementation,onlyjava45,Java 8,436,0
+20306651,129,1472657877,1677,A,900,implementation,RemonRL,Java 8,342,0
+20176527,129,1472219887,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Mohanad_Elmaghrby,Java 8,342,20889600
+19960943,129,1471598132,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Kharouba,Java 8,310,20992000
+19730663,129,1470666814,2147483647,A,900,implementation,hala333,Java 8,248,20480000
+19730562,129,1470666543,2147483647,A,900,implementation,shorim,Java 8,218,20480000
+19730396,129,1470666045,2147483647,A,900,implementation,Kharouba,Java 8,248,20480000
+19730306,129,1470665790,2147483647,A,900,implementation,Ahmed.Shawky,Java 8,248,20480000
+19729876,129,1470664641,2147483647,A,900,implementation,m3eeza,Java 8,280,20889600
+19720569,129,1470633697,2147483647,A,900,implementation,rishabh1403,Java 8,280,20787200
+19675678,129,1470510553,2147483647,A,900,implementation,mariem_kandil,Java 8,278,20480000
+19579780,129,1470142935,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,marang,Java 8,342,0
+19565155,129,1470070659,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Qazaqstan,Java 8,342,0
+19531490,129,1469945690,2147483647,A,900,implementation,_Mr_Fab,Java 8,310,0
+19450870,129,1469663920,2147483647,A,900,implementation,alaa_megahed,Java 8,280,0
+19380473,129,1469350925,2147483647,A,900,implementation,naveenkakani,Java 8,248,0
+19366294,129,1469282560,2147483647,A,900,implementation,harsh11298,Java 7,278,0
+19327956,129,1469204189,2147483647,A,900,implementation,mohamedelsayeed,Java 8,342,0
+19327880,129,1469203908,2147483647,A,900,implementation,Ahmad,Java 8,374,0
+19287997,129,1469046457,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,slicedclementines,Java 8,278,0
+19016409,129,1468188447,2147483647,A,900,implementation,slicedclementines,Java 8,280,0
+18909025,129,1467766106,2147483647,A,900,implementation,amanda_li566,Java 8,312,0
+18654553,129,1466640495,2147483647,A,900,implementation,raunaak,Java 8,248,0
+18408391,129,1465807352,2147483647,A,900,implementation,mtaz,Java 8,312,20582400
+18264129,129,1465178797,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,suggi_d_luffy,Java 8,342,20992000
+18163356,129,1464666295,2147483647,C,1500,dfs and similar-graphs-implementation,I_See_You,Java 8,904,20992000
+18163350,129,1464666264,2147483647,C,1500,dfs and similar-graphs-implementation,I_See_You,Java 8,280,20992000
+18159168,129,1464624844,2147483647,A,900,implementation,I_See_You,Java 8,372,20992000
+18143744,129,1464513676,2147483647,A,900,implementation,frktry,Java 7,278,39424000
+17988752,129,1463650942,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,poojagiri,Java 8,342,20992000
+17912776,129,1463256184,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Omar_Morsi,Java 8,278,20684800
+17908831,129,1463237834,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Crusader2896,Java 8,312,21094400
+17905987,129,1463232299,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Tarun2316,Java 8,312,21094400
+17563506,129,1461920973,2147483647,A,900,implementation,danuwfna,Java 8,248,20582400
+17306508,129,1460572188,2147483647,A,900,implementation,lebaur,Java 7,218,0
+17203952,129,1460034300,2147483647,C,1500,dfs and similar-graphs-implementation,danuwfna,Java 8,248,20582400
+17202674,129,1460028332,2147483647,A,900,implementation,Omar_Morsi,Java 8,436,20582400
+16783676,129,1458311813,2147483647,A,900,implementation,I_Need_Alex_R_Coleman,Java 8,372,0
+16760606,129,1458206927,2147483647,A,900,implementation,hgaston,Java 8,280,0
+16760538,129,1458206707,2147483647,A,900,implementation,thechef,Java 8,248,0
+16737032,129,1458097072,2147483647,A,900,implementation,Qazaqstan,Java 8,218,0
+16701901,129,1457892569,2147483647,A,900,implementation,Imaginary,Java 8,280,0
+16438289,129,1456823721,2147483647,D,2200,implementation-string suffix structures-strings,DukeOfYork,Java 7,280,0
+16437233,129,1456818493,2147483647,E,2100,combinatorics-dp,DukeOfYork,Java 7,124,0
+16436857,129,1456816555,2147483647,C,1500,dfs and similar-graphs-implementation,DukeOfYork,Java 7,248,0
+16436171,129,1456812386,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,DukeOfYork,Java 7,218,0
+16435025,129,1456802537,2147483647,A,900,implementation,DukeOfYork,Java 7,216,0
+16387388,129,1456591189,2147483647,A,900,implementation,kubusgol,Java 8,248,0
+16347729,129,1456494512,2147483647,A,900,implementation,love11mishra,Java 8,310,0
+16330308,129,1456404220,2147483647,A,900,implementation,anuj64,Java 8,280,0
+16330242,129,1456404036,2147483647,A,900,implementation,anuj64,Java 8,280,0
+16317814,129,1456354629,2147483647,A,900,implementation,stacy992,Java 8,248,0
+16037897,129,1455559231,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,tuna,Java 7,218,0
+15986470,129,1455363764,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Corvus,Java 8,248,0
+15637936,129,1454030684,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,user__name,Java 8,342,0
+15443810,129,1453234584,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Sandip_Jana,Java 8,248,0
+15443546,129,1453232729,2147483647,A,900,implementation,Sandip_Jana,Java 8,218,0
+15417139,129,1453050418,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,i_Love_Jaiman,Java 8,404,0
+15323888,129,1452638066,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,AJ_Coder,Java 7,280,0
+15227735,129,1452185901,2147483647,A,900,implementation,hunter13,Java 8,310,0
+15191597,129,1451999411,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Aaska,Java 8,342,0
+15158888,129,1451741603,2147483647,A,900,implementation,dwoolley3,Java 8,248,0
+15151267,129,1451671786,2147483647,A,900,implementation,vjudge5,Java 7,218,0
+15150914,129,1451669888,2147483647,A,900,implementation,skywalker17,Java 8,278,0
+15094879,129,1451468977,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,JohnnyJi,Java 8,312,0
+14972158,129,1450963217,2147483647,A,900,implementation,aaditya_thakkar,Java 8,218,0
+14928655,129,1450805750,2147483647,A,900,implementation,vcfl,Java 8,342,0
+14913419,129,1450705008,2147483647,A,900,implementation,RAMBO_tejasv,Java 8,248,0
+14902019,129,1450629237,2147483647,A,900,implementation,gric_art,Java 8,248,0
+14868328,129,1450473214,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,edorundo,Java 8,312,0
+14782992,129,1450000330,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,kokadva,Java 8,280,0
+14433113,129,1448316007,2147483647,A,900,implementation,yassmine,Java 7,248,0
+14046847,129,1446575252,2147483647,A,900,implementation,tuna,Java 8,218,0
+13735908,129,1445286684,2147483647,A,900,implementation,dsbarrionuevo,Java 8,280,0
+13735732,129,1445285706,2147483647,A,900,implementation,Gochi,Java 8,278,0
+13239411,129,1443286018,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,johnmclane,Java 7,248,0
+13216705,129,1443176509,2147483647,A,900,implementation,Crusader2896,Java 8,280,0
+13082690,129,1442566957,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,IsAmAre,Java 7,186,0
+12899437,129,1441725339,2147483647,A,900,implementation,mostafaasmer,Java 8,280,0
+12899423,129,1441725275,2147483647,A,900,implementation,mostafaasmer,Java 8,310,0
+12890692,129,1441665076,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Nirmit13cs30,Java 8,218,0
+12793071,129,1441045214,2147483647,A,900,implementation,huyleonis,Java 8,280,0
+12788962,129,1441026542,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,m.khooryani,Java 7,156,0
+12742228,129,1440845602,2147483647,A,900,implementation,promo,Java 8,280,0
+12728366,129,1440748645,2147483647,A,900,implementation,pgoyal,Java 8,278,0
+12686473,129,1440433352,2147483647,A,900,implementation,Guppy,Java 8,280,0
+12684427,129,1440421332,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,analog,Java 8,218,0
+12682877,129,1440412956,2147483647,A,900,implementation,Multi-Bear,Java 8,280,0
+12585995,129,1439886436,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,abhishek125,Java 7,310,0
+12578198,129,1439830507,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,dpark3542,Java 8,248,0
+12575296,129,1439815507,2147483647,A,900,implementation,pacoh,Java 7,186,0
+12546663,129,1439638054,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,khaled_khattab,Java 7,248,0
+12395387,129,1438906947,2147483647,A,900,implementation,Ahmad_Elsagheer,Java 8,310,0
+12340618,129,1438703886,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,.tx,Java 8,248,0
+12246391,129,1438048058,2147483647,A,900,implementation,khaled_khattab,Java 7,186,0
+12227552,129,1437866166,2147483647,A,900,implementation,khaled_khattab,Java 7,186,0
+12220340,129,1437790294,2147483647,A,900,implementation,Trasier,Java 7,154,0
+12218932,129,1437770638,2147483647,A,900,implementation,2shadows,Java 7,186,0
+11993173,129,1436505615,2147483647,A,900,implementation,noOne0196,Java 8,280,0
+11833195,129,1435563403,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MedoN11,Java 8,248,0
+11707494,129,1434967756,2147483647,A,900,implementation,blackhorse21,Java 8,280,0
+11704482,129,1434945638,2147483647,A,900,implementation,sanket_udgirkar,Java 8,280,0
+11684867,129,1434819867,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,turmoil,Java 8,248,0
+11670744,129,1434727496,2147483647,A,900,implementation,khaledzag,Java 7,154,0
+11670245,129,1434725576,2147483647,A,900,implementation,Mr.obeidat,Java 8,280,0
+11525732,129,1433966925,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,sweiss,Java 8,218,0
+11523833,129,1433953999,2147483647,A,900,implementation,arvind_m,Java 7,186,0
+11495325,129,1433751589,2147483647,A,900,implementation,KOPOBA,Java 7,124,0
+11452761,129,1433543154,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MostafaAbdullah,Java 7,156,0
+11452336,129,1433538512,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Ahmad_Elsagheer,Java 8,248,0
+11319515,129,1432730829,2147483647,D,2200,implementation-string suffix structures-strings,Guliash,Java 8,248,0
+11281128,129,1432655577,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Hartha,Java 7,186,0
+11258324,129,1432499484,6984,E,2100,combinatorics-dp,Guliash,Java 8,171,10649600
+11257995,129,1432496375,3875,C,1500,dfs and similar-graphs-implementation,Guliash,Java 8,1090,203571200
+11257732,129,1432493867,1367,B,1200,brute force-dfs and similar-graphs-implementation,Guliash,Java 8,248,0
+11257604,129,1432492689,188,A,900,implementation,Guliash,Java 8,218,0
+11251116,129,1432466376,2147483647,A,900,implementation,Abu-Gasem1,Java 8,218,0
+11130715,129,1431910954,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,zhenyiluo,Java 8,404,0
+11050640,129,1431126859,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,peytones,Java 7,218,0
+11019049,129,1430988525,2147483647,A,900,implementation,YakovPolykovsky,Java 7,186,0
+10924696,129,1430277547,2147483647,A,900,implementation,nguyenmanhphuc,Java 8,280,29081600
+10923765,129,1430256453,2147483647,A,900,implementation,aakashkhatri,Java 7,154,47206400
+10793960,129,1429505030,2147483647,A,900,implementation,zCode93,Java 7,154,47308800
+10733733,129,1429115114,2147483647,A,900,implementation,Renad1,Java 7,154,0
+10649826,129,1428677909,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ksamykandil,Java 8,340,0
+10563822,129,1428090241,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Tricky_Turtle,Java 8,310,0
+10558261,129,1428051786,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,CameronReynoldson,Java 7,156,0
+10405659,129,1427071696,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MariaR,Java 8,340,0
+10220858,129,1425927974,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,androion,Java 7,154,0
+10125928,129,1425332021,2147483647,A,900,implementation,MariaR,Java 7,186,0
+10090126,129,1425167157,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,snow3,Java 7,186,0
+10038219,129,1424989109,2147483647,A,900,implementation,abdo.gamal.coder,Java 8,280,0
+9954519,129,1424568821,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,poikniok,Java 8,248,0
+9941840,129,1424461709,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MostafaAbdullah,Java 7,186,0
+9921190,129,1424308345,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,parse,Java 7,248,0
+9721347,129,1423081474,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,sadpanda,Java 8,312,0
+9615502,129,1422538708,2147483647,A,900,implementation,waledsaleh,Java 7,186,0
+9614717,129,1422534392,2147483647,A,900,implementation,programmer_persie,Java 8,280,0
+9612307,129,1422518821,2147483647,A,900,implementation,moatazshawky,Java 6,218,0
+9608520,129,1422483037,2147483647,A,900,implementation,stolis,Java 7,186,0
+9519797,129,1422030556,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Le4o,Java 8,310,0
+9430507,129,1421253356,2147483647,A,900,implementation,llaugusty,Java 8,248,0
+9374081,129,1420562061,2147483647,A,900,implementation,vjudge5,Java 7,248,0
+9243256,129,1419421990,2147483647,A,900,implementation,greg_gy,Java 7,216,0
+9188932,129,1418916716,2147483647,A,900,implementation,.tx,Java 8,342,0
+9160720,129,1418815023,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,lostintime,Java 7,248,0
+9068491,129,1418189229,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,stevegregg,Java 6,248,0
+8944693,129,1417540958,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,khal_drogo,Java 7,218,102400
+8837537,129,1416842478,2147483647,A,900,implementation,chucheloff,Java 6,342,0
+8698824,129,1416015766,2147483647,A,900,implementation,poikniok,Java 7,216,0
+8448069,129,1414490198,2147483647,A,900,implementation,GhofranAbdelwahab,Java 6,156,0
+8332921,129,1413821393,2147483647,A,900,implementation,Luqman,Java 7,872,0
+8332485,129,1413819084,2147483647,A,900,implementation,Arroz,Java 8,530,102400
+8288890,129,1413601994,2147483647,A,900,implementation,wzuniga,Java 7,248,0
+8286900,129,1413577826,2147483647,A,900,implementation,Juandeyby,Java 8,592,102400
+8286157,129,1413571038,2147483647,A,900,implementation,MohamedElhawaty,Java 7,468,0
+8277453,129,1413528918,2147483647,A,900,implementation,FidFenix,Java 7,186,0
+8274829,129,1413509113,2147483647,A,900,implementation,jcayo,Java 7,184,0
+8242315,129,1413426659,2147483647,A,900,implementation,richard170394,Java 7,186,0
+8242125,129,1413423735,2147483647,A,900,implementation,jchambyd,Java 7,186,0
+8242056,129,1413422338,2147483647,A,900,implementation,jcayo,Java 8,342,102400
+8241969,129,1413420652,2147483647,A,900,implementation,jgonzales,Java 7,186,0
+8057806,129,1412255370,2147483647,A,900,implementation,Grand,Java 8,248,0
+8057541,129,1412254710,2147483647,A,900,implementation,Graceful,Java 8,280,0
+8045765,129,1412160177,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Success,Java 7,156,0
+8030445,129,1412026644,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ahmed_fathy_aly,Java 7,184,0
+7502502,129,1408378250,2147483647,A,900,implementation,traktorist1,Java 8,374,0
+7402990,129,1407571292,2147483647,A,900,implementation,skyrim,Java 7,218,0
+7375839,129,1407498997,2147483647,A,900,implementation,selva,Java 6,184,0
+7357883,129,1407305125,2147483647,A,900,implementation,prashanthv,Java 7,156,0
+7355264,129,1407262709,2147483647,A,900,implementation,artist1995,Java 7,124,0
+7342695,129,1407137991,2147483647,A,900,implementation,Fritz_97,Java 8,372,0
+7118067,129,1405531596,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,monsterspy,Java 7,186,0
+7066850,129,1405140354,2147483647,A,900,implementation,axe7,Java 7,218,0
+7013927,129,1404537251,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Yeison_Garcia,Java 7,186,0
+7009956,129,1404471224,2147483647,A,900,implementation,emis,Java 6,184,0
+6989866,129,1404193081,2147483647,A,900,implementation,dk_mishra,Java 7,124,0
+6968198,129,1403858457,2147483647,A,900,implementation,MennatAllah_Hany,Java 7,218,0
+6927800,129,1403269617,2147483647,A,900,implementation,ArtBigtema,Java 7,154,0
+6924597,129,1403207683,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Pimpom,Java 8,342,0
+6902732,129,1403003677,2147483647,A,900,implementation,Diva,Java 6,184,0
+6894798,129,1402840152,2147483647,A,900,implementation,vjudge2,Java 7,186,0
+6892974,129,1402809609,2147483647,A,900,implementation,stevegregg,Java 6,184,0
+6887598,129,1402718413,2147483647,A,900,implementation,vjudge2,Java 7,186,0
+6854849,129,1402323391,2147483647,A,900,implementation,ali13,Java 7,218,0
+6753103,129,1401482456,2147483647,A,900,implementation,blazeva1,Java 7,186,0
+6715791,129,1401110667,2147483647,A,900,implementation,Serge2041,Java 7,186,0
+6715023,129,1401102448,2147483647,A,900,implementation,apathy,Java 7,184,0
+6715013,129,1401102367,2147483647,A,900,implementation,apathy,Java 7,184,0
+6712181,129,1401054219,2147483647,A,900,implementation,bhardwaj_abhi90,Java 8,280,0
+6709424,129,1401013614,2147483647,A,900,implementation,vjudge4,Java 7,186,0
+6709048,129,1401009452,2147483647,A,900,implementation,vjudge5,Java 6,216,0
+6708950,129,1401008677,2147483647,A,900,implementation,vjudge1,Java 7,186,0
+6708824,129,1401007512,2147483647,A,900,implementation,vjudge3,Java 7,156,0
+6708822,129,1401007475,2147483647,A,900,implementation,vjudge1,Java 6,186,0
+6708818,129,1401007461,2147483647,A,900,implementation,vjudge4,Java 6,156,0
+6708373,129,1401000597,2147483647,A,900,implementation,vjudge2,Java 7,156,0
+6708313,129,1400999005,2147483647,A,900,implementation,vjudge5,Java 7,186,0
+6684145,129,1400806662,2147483647,C,1500,dfs and similar-graphs-implementation,jjohn,Java 6,154,0
+6683066,129,1400781866,2147483647,D,2200,implementation-string suffix structures-strings,ZEEP,Java 7,312,102400
+6679367,129,1400740774,2147483647,A,900,implementation,Satayev,Java 8,498,1638400
+6663731,129,1400609046,2147483647,A,900,implementation,georgi,Java 7,154,0
+6663537,129,1400605876,2147483647,A,900,implementation,Alfredo_12,Java 7,156,0
+6653628,129,1400458753,2147483647,A,900,implementation,Abanoub_Melad,Java 7,186,0
+6637622,129,1400252487,2147483647,A,900,implementation,CandidateNewbie,Java 7,186,0
+6618309,129,1400124236,2147483647,A,900,implementation,randomuSir,Java 7,186,0
+6585604,129,1399790816,2147483647,A,900,implementation,magzhan,Java 7,156,102400
+6579254,129,1399659899,2147483647,C,1500,dfs and similar-graphs-implementation,irhkang,Java 6,124,0
+6566578,129,1399460506,2147483647,A,900,implementation,cmouli,Java 6,186,0
+6519516,129,1398991620,2147483647,A,900,implementation,jk_qq,Java 7,154,0
+6270635,129,1396788119,2147483647,A,900,implementation,monsterspy,Java 7,154,0
+6267207,129,1396733029,2147483647,A,900,implementation,ykcland,Java 7,154,0
+6267190,129,1396732863,2147483647,A,900,implementation,ykcland,Java 7,154,0
+6164288,129,1395966695,2147483647,A,900,implementation,OnceMoreTime,Java 7,184,0
+6139981,129,1395760114,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,yisyis,Java 7,218,102400
+6139966,129,1395759967,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,yisyis,Java 7,218,102400
+6101714,129,1395456951,2147483647,A,900,implementation,Naethure,Java 6,156,102400
+6057918,129,1395090906,2147483647,A,900,implementation,Steeves,Java 7,156,0
+6024579,129,1394953761,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ankitstone,Java 7,156,0
+6020691,129,1394887703,2147483647,A,900,implementation,philipr1426,Java 7,186,0
+6020612,129,1394886820,2147483647,A,900,implementation,RaringRingtail,Java 7,124,0
+5945726,129,1394047873,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,tomash_em,Java 7,186,0
+5865183,129,1391285975,2147483647,A,900,implementation,MajeedSiddiqui,Java 7,154,0
+5838976,129,1391091187,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,AbdoA2,Java 7,248,102400
+5828414,129,1390946057,2147483647,A,900,implementation,the_fighter,Java 6,154,0
+5824396,129,1390901161,2147483647,A,900,implementation,jakabfia,Java 7,186,0
+5820798,129,1390842161,2147483647,A,900,implementation,turingcomplete,Java 7,184,0
+5811363,129,1390725755,2147483647,A,900,implementation,anilvedala,Java 7,156,0
+5768716,129,1390373742,2147483647,A,900,implementation,tzzcl,Java 7,186,0
+5744679,129,1390202186,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,VeraK,Java 7,186,0
+5693402,129,1389746231,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,bli0042,Java 6,186,102400
+5659224,129,1389442321,2147483647,A,900,implementation,Ahed-Alrashaida,Java 6,124,0
+5646635,129,1389289314,2147483647,A,900,implementation,Laila1994,Java 6,124,0
+5633974,129,1389117651,2147483647,A,900,implementation,pvasilyev,Java 7,156,0
+5633421,129,1389110270,2147483647,A,900,implementation,renad_amjad,Java 6,124,0
+5629655,129,1389044273,2147483647,A,900,implementation,Developer93,Java 6,92,0
+5629125,129,1389036173,2147483647,A,900,implementation,malak_23,Java 6,124,0
+5626914,129,1389007452,2147483647,A,900,implementation,ehab_ehab,Java 7,156,0
+5626242,129,1388997643,2147483647,A,900,implementation,issa,Java 6,92,0
+5625893,129,1388992700,2147483647,A,900,implementation,haowch,Java 6,156,0
+5624591,129,1388962854,2147483647,A,900,implementation,sultann,Java 6,124,0
+5624585,129,1388962792,2147483647,A,900,implementation,sultann,Java 6,124,0
+5624569,129,1388962300,2147483647,A,900,implementation,ebram.sherif,Java 7,124,0
+5622033,129,1388925482,2147483647,A,900,implementation,abood,Java 7,124,0
+5621492,129,1388919574,2147483647,A,900,implementation,zCode,Java 7,124,0
+5621389,129,1388918586,2147483647,A,900,implementation,Seto_Kaiba,Java 6,156,0
+5621295,129,1388917537,2147483647,A,900,implementation,Homez879,Java 6,124,0
+5618793,129,1388877090,2147483647,A,900,implementation,NoCakeNoCode,Java 7,156,0
+5617657,129,1388859207,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,iBlackShadow,Java 7,124,0
+5614274,129,1388819340,2147483647,A,900,implementation,VeraK,Java 7,124,0
+5590531,129,1388477725,2147483647,A,900,implementation,killua92zoldyck,Java 6,124,0
+5457792,129,1387321085,2147483647,A,900,implementation,Staticity,Java 6,92,0
+5441969,129,1387060934,2147483647,A,900,implementation,jetsfan87,Java 7,156,0
+5441705,129,1387055629,2147483647,A,900,implementation,ssohn,Java 7,156,0
+5435783,129,1386983616,2147483647,A,900,implementation,IDEAL,Java 6,156,0
+5401159,129,1386652224,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,nikchee1,Java 7,218,102400
+5356796,129,1386272210,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,shuto4ka,Java 7,186,102400
+5206244,129,1385274721,2147483647,A,900,implementation,I_AM_SAND,Java 7,156,0
+5108528,129,1384449574,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vvenkai,Java 7,124,0
+5080007,129,1384290765,2147483647,A,900,implementation,ilya.cerber,Java 7,124,0
+5061817,129,1384158811,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,alibaba,Java 6,468,4710400
+5043675,129,1384100851,2147483647,A,900,implementation,alibaba,Java 6,156,0
+5028916,129,1383910922,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Sokolov,Java 7,124,0
+4959344,129,1383355248,2147483647,A,900,implementation,vjudge1,Java 6,218,102400
+4958757,129,1383343588,2147483647,A,900,implementation,ksamykandil,Java 6,186,102400
+4872617,129,1382650574,2147483647,A,900,implementation,kuludrew,Java 7,124,0
+4857325,129,1382598266,2147483647,A,900,implementation,feline,Java 7,124,0
+4822138,129,1382136609,2147483647,A,900,implementation,vjudge4,Java 6,186,0
+4822135,129,1382136569,2147483647,A,900,implementation,vjudge5,Java 6,186,0
+4822131,129,1382136404,2147483647,A,900,implementation,vjudge2,Java 7,156,0
+4822106,129,1382136076,2147483647,A,900,implementation,vjudge5,Java 6,186,0
+4822105,129,1382136071,2147483647,A,900,implementation,vjudge4,Java 7,156,0
+4747844,129,1381521445,2147483647,C,1500,dfs and similar-graphs-implementation,miguelmaurizio,Java 7,312,0
+4724784,129,1381406570,2147483647,A,900,implementation,tomdmitriev,Java 7,186,0
+4710348,129,1381252109,2147483647,A,900,implementation,tomash_em,Java 7,186,0
+4709829,129,1381248226,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,miguelmaurizio,Java 7,156,0
+4657596,129,1380897985,2147483647,A,900,implementation,earner,Java 6,186,0
+4655743,129,1380880870,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,myIdols-TimAndArul,Java 6,248,102400
+4490488,129,1379449381,2147483647,A,900,implementation,marcosarribas,Java 6,186,0
+4451050,129,1379067289,2147483647,A,900,implementation,KaVaBUnGO,Java 6,156,0
+4406462,129,1378319052,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,blazehavoc,Java 6,156,0
+4359167,129,1377645536,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,travm12,Java 7,280,102400
+4357314,129,1377612228,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,rudolf,Java 6,248,102400
+4337928,129,1377491171,2147483647,A,900,implementation,jackwong,Java 7,218,0
+4330160,129,1377284503,2147483647,A,900,implementation,sbatten,Java 7,186,0
+4326775,129,1377209183,2147483647,E,2100,combinatorics-dp,DoublePointer,Java 7,218,13721600
+4326768,129,1377209132,2147483647,C,1500,dfs and similar-graphs-implementation,DoublePointer,Java 7,186,0
+4301556,129,1376719807,2147483647,C,1500,dfs and similar-graphs-implementation,nickbuelich,Java 7,280,102400
+4300237,129,1376694974,2147483647,A,900,implementation,MaxMiller,Java 7,218,0
+4283408,129,1376594056,2147483647,A,900,implementation,nzko,Java 7,156,0
+4272294,129,1376378899,2147483647,A,900,implementation,vvenkai,Java 6,156,0
+4245985,129,1376029794,2147483647,C,1500,dfs and similar-graphs-implementation,Dylan,Java 7,186,0
+4238962,129,1375854895,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,ajin,Java 7,218,102400
+4229915,129,1375649132,2147483647,A,900,implementation,bruce.wayne,Java 7,218,0
+4217904,129,1375455621,2147483647,A,900,implementation,eynshteyn,Java 6,186,0
+4215618,129,1375422686,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Dylan,Java 7,218,102400
+4208491,129,1375263797,1997,B,1200,brute force-dfs and similar-graphs-implementation,Mostafa_Hamdy,Java 7,186,0
+4208375,129,1375262089,289,A,900,implementation,Mostafa_Hamdy,Java 7,186,0
+4205660,129,1375207928,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,eynshteyn,Java 6,248,204800
+4169977,129,1374843070,2147483647,A,900,implementation,Togrul-BSU,Java 7,374,0
+4169900,129,1374842145,2147483647,A,900,implementation,Togrul-BSU,Java 6,280,102400
+4109564,129,1374293074,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,0p9o8i,Java 7,93,204800
+4100563,129,1374170298,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,morefree,Java 6,140,204800
+4079885,129,1373964611,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,SButterfly,Java 7,93,512000
+4079828,129,1373963938,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,pitfall,Java 7,93,512000
+4079018,129,1373954976,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Quvondiq_Otajonov,Java 7,93,0
+4044144,129,1373405022,2147483647,A,900,implementation,sroyal,Java 6,109,0
+4036579,129,1373243067,2147483647,C,1500,dfs and similar-graphs-implementation,MOSJAVA,Java 7,109,102400
+4023925,129,1372978485,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,akashm,Java 6,156,2457600
+4010609,129,1372931023,2147483647,A,900,implementation,ihkus,Java 7,78,0
+4009434,129,1372919069,2147483647,A,900,implementation,Sokolov,Java 7,78,0
+3968336,129,1372359401,2147483647,A,900,implementation,sfmunera,Java 7,78,0
+3968315,129,1372359131,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,sfmunera,Java 7,93,0
+3967925,129,1372351064,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,av.driftking,Java 7,93,0
+3961041,129,1372181350,2147483647,A,900,implementation,takhi,Java 7,93,0
+3936075,129,1371914737,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MOSJAVA,Java 7,93,0
+3917021,129,1371636309,2147483647,A,900,implementation,sonhuytran,Java 7,109,0
+3914307,129,1371568019,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,atod2,Java 7,125,204800
+3784771,129,1369667236,2147483647,A,900,implementation,ghewanzin,Java 6,93,0
+3771272,129,1369567227,2147483647,A,900,implementation,Stickman,Java 7,109,0
+3733930,129,1368887663,2147483647,D,2200,implementation-string suffix structures-strings,mostafa_fahim,Java 7,468,204800
+3728681,129,1368749313,2147483647,A,900,implementation,zarhane,Java 7,109,0
+3721224,129,1368552168,2147483647,A,900,implementation,vaquan,Java 6,109,2355200
+3687015,129,1367849693,2147483647,A,900,implementation,maratmiki,Java 7,109,0
+3647590,129,1367148572,2147483647,A,900,implementation,Mostafa.Gabriel,Java 7,78,0
+3588050,129,1366572189,2147483647,A,900,implementation,aboelhassan,Java 7,93,0
+3495022,129,1365476779,2147483647,A,900,implementation,moscoquera,Java 6,78,0
+3494942,129,1365472111,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,DiegoAE,Java 6,124,102400
+3494869,129,1365470064,2147483647,A,900,implementation,DiegoAE,Java 6,93,0
+3494868,129,1365470055,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,santjuan,Java 6,93,2252800
+3494854,129,1365469592,2147483647,A,900,implementation,santjuan,Java 6,78,0
+3494813,129,1365466310,2147483647,D,2200,implementation-string suffix structures-strings,mostafa_fahim,Java 7,1546,204800
+3418214,129,1364544163,2147483647,A,900,implementation,monyone,Java 6,109,0
+3405977,129,1364250996,2147483647,A,900,implementation,Sabelan,Java 6,109,2355200
+3364280,129,1363860164,2147483647,C,1500,dfs and similar-graphs-implementation,ikea0064,Java 6,531,2355200
+3353368,129,1363629571,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Kech,Java 6,109,0
+3292058,129,1363034215,2147483647,D,2200,implementation-string suffix structures-strings,mostafa_fahim,Java 7,2000,41164800
+3292005,129,1363032830,2147483647,D,2200,implementation-string suffix structures-strings,mostafa_fahim,Java 7,1656,1126400
+3228850,129,1362212142,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vjudge1,Java 7,140,102400
+3228826,129,1362211742,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vjudge5,Java 7,156,102400
+3228607,129,1362208465,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,vjudge3,Java 7,156,102400
+3228600,129,1362208385,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,NAO93,Java 7,140,102400
+3174639,129,1361584783,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,mkirsche,Java 6,109,102400
+3168825,129,1361471334,2147483647,A,900,implementation,maradona101112,Java 6,109,0
+3148812,129,1361326407,2147483647,A,900,implementation,0p9o8i,Java 6,93,102400
+3109942,129,1360706966,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,tennisru,Java 6,93,0
+3093838,129,1360595529,2147483647,A,900,implementation,CrawniX,Java 7,109,0
+3081149,129,1360244953,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,agent3889,Java 6,140,102400
+3044791,129,1359723997,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,zamzam,Java 6,125,2560000
+3039723,129,1359622836,2147483647,A,900,implementation,DnS,Java 7,93,0
+3034153,129,1359474292,2147483647,A,900,implementation,CurbStomp,Java 7,78,0
+3030890,129,1359409745,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,MiroO,Java 6,93,0
+2956242,129,1358510467,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Spellbound,Java 7,93,204800
+2922066,129,1358107439,2147483647,A,900,implementation,fabiankasUN,Java 6,109,2355200
+2922053,129,1358107160,2147483647,A,900,implementation,rickster,Java 7,125,0
+2885010,129,1357644527,2147483647,A,900,implementation,phoenix24,Java 6,93,0
+2879499,129,1357517881,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Pshenichnoe,Java 7,93,0
+2876407,129,1357425238,2147483647,A,900,implementation,tiberium,Java 6,109,0
+2876041,129,1357411441,2147483647,C,1500,dfs and similar-graphs-implementation,Avitella,Java 7,78,0
+2872326,129,1357280667,2147483647,A,900,implementation,Francuz,Java 7,109,0
+2853825,129,1356789532,2147483647,A,900,implementation,svm11,Java 6,93,102400
+2853243,129,1356779393,2147483647,A,900,implementation,MiroO,Java 6,93,0
+2804618,129,1356116931,2147483647,D,2200,implementation-string suffix structures-strings,mostafa_fahim,Java 7,203,102400
+2803709,129,1356092926,2147483647,A,900,implementation,mkirsche,Java 6,93,102400
+2681345,129,1354291885,2147483647,A,900,implementation,xamxam23,Java 6,109,0
+2678485,129,1354233027,2147483647,A,900,implementation,Spellbound,Java 6,125,0
+2672831,129,1354106995,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Acket_74,Java 6,156,102400
+2558990,129,1352896609,2147483647,A,900,implementation,DarkSome,Java 6,93,0
+2546035,129,1352744621,2147483647,A,900,implementation,mingotlik,Java 7,93,102400
+2543533,129,1352721630,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Arsenal911,Java 7,156,102400
+2530806,129,1352560935,2147483647,D,2200,implementation-string suffix structures-strings,SharpBlade,Java 6,406,204800
+2468415,129,1351536394,2147483647,A,900,implementation,Tin_Tin,Java 6,109,0
+2425955,129,1351173985,2147483647,A,900,implementation,Sulta,Java 6,109,0
+2391326,129,1350753983,2147483647,A,900,implementation,hanifnaufal,Java 7,78,0
+2361007,129,1350307992,2147483647,A,900,implementation,Bambam,Java 7,93,0
+2359942,129,1350278453,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,bsrkaditya,Java 6,140,102400
+2358542,129,1350219605,1804,A,900,implementation,TUITUF_Bahrom,Java 6,109,0
+2329281,129,1349800409,2147483647,A,900,implementation,HuaNaaFC,Java 6,93,204800
+2289936,129,1349159366,2147483647,A,900,implementation,akashm,Java 6,109,0
+2236410,129,1348478609,2147483647,A,900,implementation,rashmi.woranga,Java 6,109,0
+2226970,129,1348234693,2147483647,C,1500,dfs and similar-graphs-implementation,jonosuke,Java 6,109,44032000
+2208269,129,1347959469,2147483647,A,900,implementation,Dan1qa,Java 7,160,45670400
+2171017,129,1347691324,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,lemonsuper,Java 7,156,45772800
+2132369,129,1347352955,2147483647,A,900,implementation,xlk,Java 7,140,45056000
+2093172,129,1346682952,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Rodge,Java 6,140,45158400
+2071739,129,1346417413,2147483647,A,900,implementation,Angry_Cellophane,Java 6,80,45260800
+2046422,129,1345809307,2147483647,C,1500,dfs and similar-graphs-implementation,jonosuke,Java 7,160,45056000
+2040323,129,1345555177,2147483647,A,900,implementation,Dmitry.B,Java 6,140,43315200
+2033006,129,1345320495,2147483647,A,900,implementation,jhill.ucf,Java 6,160,43315200
+2022661,129,1345231537,2147483647,A,900,implementation,ValenKof,Java 7,160,45056000
+2021835,129,1345203367,2147483647,A,900,implementation,nightwolf212,Java 7,160,45056000
+2020286,129,1345142365,2147483647,A,900,implementation,gtkesh,Java 7,170,45056000
+2001917,129,1344771913,2147483647,D,2200,implementation-string suffix structures-strings,hydrastuff,Java 7,190,54476800
+1995638,129,1344525212,2147483647,A,900,implementation,GREEN,Java 6,160,43315200
+1992138,129,1344410983,2147483647,A,900,implementation,Quae,Java 6,140,43315200
+1971813,129,1343940773,2147483647,A,900,implementation,usenkovdmitry,Java 7,160,45056000
+1971804,129,1343940491,2147483647,A,900,implementation,usenkovdmitry,Java 7,140,45056000
+1934112,129,1343098566,2147483647,A,900,implementation,salembo,Java 7,140,45056000
+1924501,129,1343055859,2147483647,A,900,implementation,fabian.sossa,Java 7,140,45056000
+1924078,129,1343046277,2147483647,A,900,implementation,mohamed.mostafa,Java 6,140,43315200
+1923995,129,1343043972,2147483647,A,900,implementation,ahmedAbdallah,Java 6,160,43315200
+1922839,129,1343011731,2147483647,A,900,implementation,sgc8290,Java 7,160,45056000
+1919423,129,1342858824,2147483647,E,2100,combinatorics-dp,Azat_Yusupov,Java 6,140,43315200
+1916293,129,1342803224,2147483647,C,1500,dfs and similar-graphs-implementation,tarekegypte,Java 6,130,43212800
+1916288,129,1342802865,2147483647,C,1500,dfs and similar-graphs-implementation,tarekegypte,Java 6,130,43212800
+1907851,129,1342554540,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,midoss17,Java 6,130,43315200
+1906907,129,1342529834,2147483647,A,900,implementation,midoss17,Java 6,130,43212800
+1906862,129,1342528791,2147483647,A,900,implementation,lemonsuper,Java 7,160,45056000
+1906609,129,1342522632,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,tarekegypte,Java 6,140,43315200
+1906590,129,1342522143,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,mody,Java 6,140,43315200
+1906450,129,1342518235,2147483647,A,900,implementation,RadwaNofal,Java 6,130,43212800
+1906429,129,1342517784,2147483647,A,900,implementation,xana,Java 6,130,43212800
+1906421,129,1342517656,2147483647,A,900,implementation,tarekegypte,Java 6,110,43212800
+1906415,129,1342517518,2147483647,A,900,implementation,mody,Java 6,130,43212800
+1905174,129,1342475415,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Daman,Java 6,200,43417600
+1880629,129,1341893352,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,uj.,Java 6,220,86425600
+1880344,129,1341871985,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Daman,Java 6,220,86425600
+1871951,129,1341610386,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,tylerbrazill,Java 6,170,43417600
+1871892,129,1341608241,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,DoublePointer,Java 6,200,43417600
+1861733,129,1341362294,2147483647,A,900,implementation,mihaildemidoff,Java 6,110,43212800
+1837870,129,1340962435,2147483647,A,900,implementation,taipan,Java 6,160,43315200
+1811447,129,1340211695,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,sroyal,Java 6,190,43315200
+1811408,129,1340210338,2147483647,A,900,implementation,fxpo,Java 6,140,43315200
+1786090,129,1339432902,2147483647,A,900,implementation,adityatri,Java 6,130,43110400
+1782288,129,1339376020,2147483647,A,900,implementation,Gopinich,Java 6,110,43110400
+1770973,129,1339152377,2147483647,A,900,implementation,Rodge,Java 6,140,43315200
+1764638,129,1338832478,2147483647,A,900,implementation,GhpS,Java 6,80,43110400
+1716392,129,1337961138,2147483647,A,900,implementation,travm12,Java 6,110,43212800
+1700437,129,1337313286,2147483647,A,900,implementation,Kelltrick,Java 6,130,43212800
+1687895,129,1337009440,2147483647,A,900,implementation,DoublePointer,Java 6,110,43212800
+1686829,129,1336934360,2147483647,E,2100,combinatorics-dp,Galkowsky,Java 6,130,43212800
+1666605,129,1336311595,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,bidzilya,Java 7,110,44851200
+1664846,129,1336240169,4769,C,1500,dfs and similar-graphs-implementation,Galkowsky,Java 6,110,43212800
+1664760,129,1336236891,1491,B,1200,brute force-dfs and similar-graphs-implementation,Galkowsky,Java 6,160,43315200
+1664732,129,1336235908,508,A,900,implementation,M.A.,Java 6,110,43212800
+1664723,129,1336235597,197,A,900,implementation,Galkowsky,Java 6,110,43212800
+1662503,129,1336166099,2147483647,A,900,implementation,dkhaburdzania,Java 6,90,43212800
+1617350,129,1335131941,2147483647,A,900,implementation,goodsky,Java 6,110,43315200
+1539810,129,1334494764,2147483647,A,900,implementation,Hoone,Java 6,90,43315200
+1506314,129,1333959839,2147483647,A,900,implementation,OleGG,Java 6,110,43315200
+1477395,129,1333614148,2147483647,A,900,implementation,myzone,Java 6,80,43110400
+1449009,129,1333279408,2147483647,A,900,implementation,dimoc,Java 7,130,44851200
+1389790,129,1332516302,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,a_bekzat,Java 6,90,43212800
+1385838,129,1332376646,2147483647,A,900,implementation,dmeng,Java 6,110,43212800
+1382416,129,1332262691,2147483647,A,900,implementation,damithk,Java 6,80,43110400
+1256008,129,1330663705,2147483647,A,900,implementation,FatSheep,Java 6,110,45056000
+1237130,129,1330269484,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Abra,Java 6,90,44851200
+1235866,129,1330238134,2147483647,A,900,implementation,fangr01239,Java 6,90,44953600
+1219487,129,1330005462,2147483647,A,900,implementation,VictorMMorant,Java 6,90,44953600
+1205278,129,1329730526,2147483647,A,900,implementation,Aphrodite.S,Java 6,110,44953600
+1174099,129,1329052420,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Venom,Java 6,90,43110400
+1170120,129,1328917049,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Ahmed_Salama,Java 6,130,43212800
+1158877,129,1328770195,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,peking2,Java 6,130,43212800
+1158838,129,1328768961,2147483647,A,900,implementation,peking2,Java 6,110,43110400
+1157034,129,1328678753,2147483647,A,900,implementation,kenthang,Java 6,110,43110400
+1128264,129,1328002237,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Shersh,Java 6,90,43110400
+1128031,129,1327994972,2147483647,A,900,implementation,F.e,Java 6,90,43110400
+1126461,129,1327907672,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,jcomputer000,Java 6,140,43212800
+1125101,129,1327831139,2147483647,A,900,implementation,asdjhfi,Java 6,110,43110400
+1125096,129,1327831080,2147483647,A,900,implementation,bytybai,Java 6,90,43110400
+1123823,129,1327758530,2147483647,A,900,implementation,tis,Java 6,110,43212800
+1117450,129,1327513657,2147483647,A,900,implementation,Gonza12,Java 6,80,43212800
+1100829,129,1327183490,2147483647,A,900,implementation,rodolpho,Java 6,90,43315200
+1097682,129,1327075710,2147483647,A,900,implementation,jprcodeforces1234,Java 6,90,43212800
+1095863,129,1327037776,2147483647,A,900,implementation,RMM,Java 6,90,43212800
+1095833,129,1327035994,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,UESTC_Defense,Java 6,160,43315200
+1095817,129,1327035119,2147483647,A,900,implementation,UESTC_Defense,Java 6,110,43212800
+1084925,129,1326955380,2147483647,A,900,implementation,chishi,Java 6,90,43212800
+1046367,129,1326621906,2147483647,A,900,implementation,Tumar,Java 6,90,43315200
+1045339,129,1326551151,2147483647,A,900,implementation,edward_mj,Java 6,90,43110400
+1028715,129,1326231571,2147483647,A,900,implementation,max.strelbitski,Java 6,90,43212800
+1028500,129,1326219822,2147483647,A,900,implementation,Ahmed_Salama,Java 6,110,43110400
+1027827,129,1326187917,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Betlista,Java 6,160,43417600
+1027269,129,1326164656,2147483647,A,900,implementation,jcomputer000,Java 6,110,43212800
+1027110,129,1326144035,2147483647,A,900,implementation,timurtibeyev,Java 6,110,43212800
+997189,129,1325623255,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,goodsky,Java 6,160,43315200
+995360,129,1325560401,2147483647,A,900,implementation,nise_nabe,Java 6,110,43110400
+985817,129,1324829012,2147483647,A,900,implementation,maksim.banin,Java 6,90,43212800
+967855,129,1324285231,2147483647,D,2200,implementation-string suffix structures-strings,islam-al-aarag,Java 6,700,43315200
+964380,129,1324060655,2147483647,A,900,implementation,PushistikTima,Java 6,110,43212800
+957077,129,1323983333,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,Alex_by,Java 6,140,43212800
+956973,129,1323975457,2147483647,A,900,implementation,a_bekzat,Java 6,110,43110400
+956873,129,1323972352,2147483647,A,900,implementation,Alex_by,Java 6,90,43110400
+956860,129,1323971815,2147483647,B,1200,brute force-dfs and similar-graphs-implementation,keep.deep,Java 6,140,43212800
+954123,129,1323787293,2449893,A,900,implementation,Betlista,Java 6,110,43008000
+935523,129,1323344545,2007145,A,900,implementation,hassan1991,Java 6,130,35328000
+935520,129,1323344469,2007069,A,900,implementation,hassan1991,Java 6,140,35328000
+935343,129,1323336137,1998737,B,1200,brute force-dfs and similar-graphs-implementation,Andreos,Java 6,170,35328000
+935336,129,1323335644,1998244,A,900,implementation,Andreos,Java 6,140,35225600
+934881,129,1323287607,1950207,A,900,implementation,Venom,Java 6,110,35020800
+933547,129,1323197354,1859954,A,900,implementation,keep.deep,Java 6,160,35328000
+931438,129,1323097027,1759627,A,900,implementation,igor_kz,Java 6,140,35328000
+930201,129,1323028958,1691558,A,900,implementation,elrodeo,Java 6,130,43110400
+930198,129,1323028832,1691432,A,900,implementation,elrodeo,Java 6,140,43110400
+918828,129,1322923572,1586172,A,900,implementation,YuukaKazami,Java 6,110,43008000
+918823,129,1322923462,1586062,B,1200,brute force-dfs and similar-graphs-implementation,YuukaKazami,Java 6,140,43110400
+913586,129,1322785894,1448494,C,1500,dfs and similar-graphs-implementation,jschandl,Java 6,280,35225600
+912444,129,1322725777,1388377,E,2100,combinatorics-dp,ronaflx,Java 6,160,35328000
+912404,129,1322724449,1387049,E,2100,combinatorics-dp,luyi0619,Java 6,250,88371200
+911229,129,1322642307,1304907,B,1200,brute force-dfs and similar-graphs-implementation,wackloner,Java 6,140,35225600
+911061,129,1322632391,1294991,A,900,implementation,ilovepink,Java 6,140,43110400
+911046,129,1322631692,1294292,B,1200,brute force-dfs and similar-graphs-implementation,ilovepink,Java 6,170,43212800
+910949,129,1322620622,1283222,A,900,implementation,-Starlight-,Java 6,110,43008000
+910866,129,1322603488,1266088,A,900,implementation,skull,Java 6,160,43110400
+908646,129,1322482359,1144959,C,1500,dfs and similar-graphs-implementation,tux1986,Java 6,130,35225600
+907650,129,1322377808,1040408,A,900,implementation,JavaCats,Java 6,130,43212800
+907271,129,1322349545,1012145,B,1200,brute force-dfs and similar-graphs-implementation,stevenkplus,Java 6,190,43212800
+907266,129,1322348940,1011540,A,900,implementation,stevenkplus,Java 6,140,43110400
+907224,129,1322343678,1006278,A,900,implementation,Pshenichnoe,Java 6,160,43110400
+907137,129,1322336735,999335,A,900,implementation,Blink,Java 6,140,43110400
+905788,129,1322306691,969291,B,1200,brute force-dfs and similar-graphs-implementation,luyi0619,Java 6,130,43110400
+891338,129,1322232655,895255,A,900,implementation,ZaKhar,Java 6,160,43212800
+891130,129,1322226265,888865,A,900,implementation,midoss17,Java 6,140,43212800
+890686,129,1322209573,872173,C,1500,dfs and similar-graphs-implementation,boyfox,Java 6,200,35328000
+890171,129,1322171468,834068,B,1200,brute force-dfs and similar-graphs-implementation,fibikster,Java 6,170,43212800
+890109,129,1322167618,830218,B,1200,brute force-dfs and similar-graphs-implementation,zamzam,Java 6,160,43212800
+889902,129,1321339969,2569,C,1500,dfs and similar-graphs-implementation,r13,Java 6,130,43212800
+889863,129,1321338290,890,B,1200,brute force-dfs and similar-graphs-implementation,r13,Java 6,170,43212800
+889845,129,1321337681,281,A,900,implementation,r13,Java 6,140,43212800
+889594,129,1322147935,810535,A,900,implementation,Gobbledegook,Java 6,110,43212800
+889393,129,1322142115,804715,A,900,implementation,luyi0619,Java 6,110,43212800
+889103,129,1322133188,795788,B,1200,brute force-dfs and similar-graphs-implementation,Kostroma,Java 6,130,43110400
+889038,129,1322130505,793105,A,900,implementation,Kostroma,Java 6,110,43110400
+889012,129,1322129509,792109,A,900,implementation,Kostroma,Java 6,160,43212800
+889004,129,1322129204,791804,C,1500,dfs and similar-graphs-implementation,edwinlunando,Java 6,160,43212800
+888254,129,1322079188,741788,B,1200,brute force-dfs and similar-graphs-implementation,ahmad_mamdouh,Java 6,170,43315200
+888231,129,1322077367,739967,A,900,implementation,ahmad_mamdouh,Java 6,110,43110400
+888157,129,1322070376,732976,A,900,implementation,JavaCat,Java 6,140,43212800
+888045,129,1322065020,727620,C,1500,dfs and similar-graphs-implementation,nyama,Java 6,1050,163635200
+887896,129,1322061123,723723,B,1200,brute force-dfs and similar-graphs-implementation,mochi_suna,Java 6,190,43212800
+887815,129,1322058931,721531,A,900,implementation,Aslan,Java 6,130,43212800
+887768,129,1322057543,720143,B,1200,brute force-dfs and similar-graphs-implementation,nyama,Java 6,200,43212800
+887752,129,1322057032,719632,A,900,implementation,mochi_suna,Java 6,140,43212800
+887711,129,1322055713,718313,B,1200,brute force-dfs and similar-graphs-implementation,Daiki_Ando,Java 6,200,43212800
+887696,129,1322055137,717737,C,1500,dfs and similar-graphs-implementation,todo,Java 6,140,43212800
+887653,129,1322053623,716223,B,1200,brute force-dfs and similar-graphs-implementation,todo,Java 6,170,43212800
+887651,129,1322053536,716136,A,900,implementation,Daiki_Ando,Java 6,160,43212800
+887646,129,1322053446,716046,A,900,implementation,nyama,Java 6,140,43212800
+887623,129,1322052739,715339,A,900,implementation,todo,Java 6,160,43212800
+886528,129,1321997762,660362,A,900,implementation,kiko91_7,Java 6,140,43212800
+885938,129,1321969950,632550,A,900,implementation,alinux,Java 6,130,43110400
+884595,129,1321896076,558676,B,1200,brute force-dfs and similar-graphs-implementation,tux1986,Java 6,140,43212800
+884577,129,1321895277,557877,A,900,implementation,tux1986,Java 6,110,43110400
+884040,129,1321337772,372,A,900,implementation,Fantast,Java 6,140,43110400
+883888,129,1321864532,527132,B,1200,brute force-dfs and similar-graphs-implementation,xiaowuc1,Java 6,110,43212800
+883811,129,1321860645,523245,B,1200,brute force-dfs and similar-graphs-implementation,nativea,Java 6,130,43110400
+883606,129,1321850026,512626,A,900,implementation,Lakers,Java 6,110,43212800
+883604,129,1321849946,512546,A,900,implementation,Lakers,Java 6,110,43212800
+883404,129,1321836920,499520,A,900,implementation,xiaowuc1,Java 6,140,43110400
+882994,129,1321813134,475734,A,900,implementation,Stupid_Boy,Java 6,140,43212800
+880696,129,1321799441,462041,A,900,implementation,MRWITEK,Java 6,140,43110400
+880264,129,1321785200,447800,A,900,implementation,coderjp,Java 6,130,43212800
+880006,129,1321767466,430066,A,900,implementation,Ziklon,Java 6,110,43110400
+879399,129,1321718064,380664,A,900,implementation,abodeltae,Java 6,130,43110400
+878847,129,1321695319,357919,B,1200,brute force-dfs and similar-graphs-implementation,hydrastuff,Java 6,170,43212800
+878840,129,1321694990,357590,A,900,implementation,nikusha,Java 6,130,43315200
+878238,129,1321655662,318262,A,900,implementation,mdd,Java 6,140,43212800
+878230,129,1321655162,317762,C,1500,dfs and similar-graphs-implementation,I_love_Malika,Java 6,130,35328000
+878210,129,1321653438,316038,A,900,implementation,nikusha,Java 6,110,43315200
+877894,129,1321637807,300407,A,900,implementation,molekyla,Java 6,140,43110400
+877697,129,1321630845,293445,C,1500,dfs and similar-graphs-implementation,Slamur,Java 6,110,43622400
+877623,129,1321626845,289445,A,900,implementation,wackloner,Java 6,110,43110400
+877618,129,1321626722,289322,B,1200,brute force-dfs and similar-graphs-implementation,pele,Java 6,170,43212800
+877575,129,1321625377,287977,A,900,implementation,pele,Java 6,130,43110400
+877094,129,1321606577,269177,B,1200,brute force-dfs and similar-graphs-implementation,I_love_Malika,Java 6,190,35328000
+877088,129,1321606374,268974,C,1500,dfs and similar-graphs-implementation,mukku,Java 6,140,35328000
+877079,129,1321605942,268542,A,900,implementation,I_love_Malika,Java 6,140,35328000
+876993,129,1321603306,265906,B,1200,brute force-dfs and similar-graphs-implementation,altais,Java 6,130,35328000
+876951,129,1321338749,1349,B,1200,brute force-dfs and similar-graphs-implementation,svm11,Java 6,170,35328000
+876932,129,1321601183,263783,A,900,implementation,altais,Java 6,110,35225600
+876929,129,1321337770,370,A,900,implementation,svm11,Java 6,160,35328000
+876862,129,1321596749,259349,B,1200,brute force-dfs and similar-graphs-implementation,antonio081014,Java 6,190,43212800
+876664,129,1321570269,232869,C,1500,dfs and similar-graphs-implementation,kreep,Java 6,130,43110400
+876648,129,1321569156,231756,B,1200,brute force-dfs and similar-graphs-implementation,kreep,Java 6,140,43110400
+876643,129,1321568537,231137,A,900,implementation,kreep,Java 6,110,43110400
+876430,129,1321556712,219312,A,900,implementation,kratos_n1,Java 6,130,43008000
+876395,129,1321338721,1321,A,900,implementation,bonami,Java 6,110,43008000
+876084,129,1321542514,205114,A,900,implementation,nelluri,Java 6,140,35328000
+875878,129,1321341206,3806,B,1200,brute force-dfs and similar-graphs-implementation,Crist,Java 6,130,35225600
+875786,129,1321338044,644,A,900,implementation,Crist,Java 6,110,35225600
+875489,129,1321521897,184497,C,1500,dfs and similar-graphs-implementation,Nox,Java 6,110,35225600
+875402,129,1321518504,181104,E,2100,combinatorics-dp,Nox,Java 6,170,35225600
+875371,129,1321517634,180234,A,900,implementation,Nox,Java 6,130,35328000
+875360,129,1321517409,180009,B,1200,brute force-dfs and similar-graphs-implementation,Nox,Java 6,110,35328000
+875337,129,1321515431,178031,B,1200,brute force-dfs and similar-graphs-implementation,edwinlunando,Java 6,130,35225600
+875222,129,1321342556,5156,C,1500,dfs and similar-graphs-implementation,fahimpatel,Java 6,130,43110400
+875158,129,1321339170,1770,B,1200,brute force-dfs and similar-graphs-implementation,fahimpatel,Java 6,170,43212800
+875135,129,1321337655,255,A,900,implementation,fahimpatel,Java 6,140,43110400
+875129,129,1321504803,167403,C,1500,dfs and similar-graphs-implementation,mahmoudhanafi,Java 6,670,99328000
+875119,129,1321503886,166486,A,900,implementation,edwinlunando,Java 6,110,43110400
+875118,129,1321503827,166427,B,1200,brute force-dfs and similar-graphs-implementation,pasin30055,Java 6,190,43212800
+875100,129,1321502294,164894,A,900,implementation,pasin30055,Java 6,130,43110400
+874908,129,1321481360,143960,A,900,implementation,wphsucf,Java 6,140,43110400
+874788,129,1321343576,6176,C,1500,dfs and similar-graphs-implementation,psucoder,Java 6,110,43110400
+874701,129,1321469260,131860,A,900,implementation,mostafa_fahim,Java 6,140,43110400
+874697,129,1321469065,131665,B,1200,brute force-dfs and similar-graphs-implementation,mostafa_fahim,Java 6,190,43212800
+874680,129,1321468223,130823,C,1500,dfs and similar-graphs-implementation,mostafa_fahim,Java 6,170,44032000
+874649,129,1321338556,1156,B,1200,brute force-dfs and similar-graphs-implementation,psucoder,Java 6,110,43110400
+874621,129,1321337592,192,A,900,implementation,psucoder,Java 6,110,43110400
+874557,129,1321338783,1383,B,1200,brute force-dfs and similar-graphs-implementation,a100,Java 6,190,43212800
+874507,129,1321337622,222,A,900,implementation,a100,Java 6,130,43110400
+874354,129,1321460121,122721,B,1200,brute force-dfs and similar-graphs-implementation,mahmoudhanafi,Java 6,140,43110400
+874339,129,1321459622,122222,B,1200,brute force-dfs and similar-graphs-implementation,Ahmed.Ibrahem,Java 6,190,43212800
+874271,129,1321458235,120835,A,900,implementation,Ahmed.Ibrahem,Java 6,140,43110400
+874214,129,1321457316,119916,D,2200,implementation-string suffix structures-strings,wangyongliang,Java 6,280,43315200
+873801,129,1321447549,110149,C,1500,dfs and similar-graphs-implementation,CountZero,Java 6,170,35328000
+873759,129,1321446289,108889,C,1500,dfs and similar-graphs-implementation,CountZero,Java 6,200,35328000
+873740,129,1321445675,108275,A,900,implementation,Toks,Java 6,130,35328000
+873653,129,1321440400,103000,A,900,implementation,yano0oyan,Java 6,130,35328000
+873007,129,1321417731,80331,A,900,implementation,nerve,Java 6,110,43110400
+872749,129,1321402502,65102,E,2100,combinatorics-dp,Mostafa.Ali,Java 6,130,43110400
+872680,129,1321337887,487,A,900,implementation,Jono,Java 6,130,43212800
+872647,129,1321395304,57904,E,2100,combinatorics-dp,islam-al-aarag,Java 6,190,57753600
+872592,129,1321392895,55495,C,1500,dfs and similar-graphs-implementation,islam-al-aarag,Java 6,110,43110400
+872572,129,1321392326,54926,D,2200,implementation-string suffix structures-strings,Izot_NNSTU,Java 6,330,43315200
+872507,129,1321389377,51977,E,2100,combinatorics-dp,partizan22,Java 6,160,43110400
+872481,129,1321388801,51401,B,1200,brute force-dfs and similar-graphs-implementation,islam-al-aarag,Java 6,170,43212800
+872470,129,1321388401,51001,A,900,implementation,islam-al-aarag,Java 6,130,43110400
+872401,129,1321342077,4677,E,2100,combinatorics-dp,Izot_NNSTU,Java 6,1810,43110400
+872376,129,1321384978,47578,C,1500,dfs and similar-graphs-implementation,michael_tan,Java 6,140,43110400
+872369,129,1321340309,2909,C,1500,dfs and similar-graphs-implementation,Izot_NNSTU,Java 6,250,54886400
+872357,129,1321384105,46705,A,900,implementation,mahmoudhanafi,Java 6,140,43110400
+872339,129,1321383640,46240,A,900,implementation,Devl1N,Java 6,140,43110400
+872290,129,1321338062,662,A,900,implementation,Izot_NNSTU,Java 6,130,43110400
+872287,129,1321382159,44759,C,1500,dfs and similar-graphs-implementation,cobe2,Java 6,130,35328000
+872282,129,1321337930,530,B,1200,brute force-dfs and similar-graphs-implementation,Izot_NNSTU,Java 6,190,43212800
+872209,129,1321379060,41660,A,900,implementation,zamzam,Java 6,140,43110400
+872201,129,1321378808,41408,D,2200,implementation-string suffix structures-strings,Slamur,Java 6,190,43827200
+872102,129,1321368979,31579,B,1200,brute force-dfs and similar-graphs-implementation,Sinner,Java 6,130,43110400
+872040,129,1321368108,30708,A,900,implementation,iauglov,Java 6,140,43110400
+872025,129,1321367916,30516,B,1200,brute force-dfs and similar-graphs-implementation,spark_coder,Java 6,170,43212800
+872016,129,1321367827,30427,A,900,implementation,spark_coder,Java 6,110,43110400
+872003,129,1321367731,30331,A,900,implementation,Sinner,Java 6,130,43008000
+871752,129,1321364341,26941,A,900,implementation,agent3889,Java 6,140,43110400
+871682,129,1321362929,25529,E,2100,combinatorics-dp,Omar.Darwish,Java 6,110,43110400
+871661,129,1321362535,25135,D,2200,implementation-string suffix structures-strings,Rainburst,Java 6,190,36044800
+871597,129,1321360550,23150,B,1200,brute force-dfs and similar-graphs-implementation,CountZero,Java 6,190,35328000
+871536,129,1321358542,21142,A,900,implementation,F.PhoeniX,Java 6,130,35328000
+871483,129,1321357459,20059,D,2200,implementation-string suffix structures-strings,Omar.Darwish,Java 6,470,35532800
+871468,129,1321357122,19722,C,1500,dfs and similar-graphs-implementation,rexim,Java 6,130,35225600
+871446,129,1321356732,19332,D,2200,implementation-string suffix structures-strings,partizan22,Java 6,200,35430400
+871427,129,1321356444,19044,E,2100,combinatorics-dp,hama-du,Java 6,1950,35225600
+871395,129,1321355849,18449,B,1200,brute force-dfs and similar-graphs-implementation,userlond,Java 6,140,35225600
+871387,129,1321355748,18348,C,1500,dfs and similar-graphs-implementation,Mostafa.Ali,Java 6,110,35225600
+871382,129,1321355704,18304,C,1500,dfs and similar-graphs-implementation,Mostafa.Ali,Java 6,110,35225600
+871340,129,1321355201,17801,B,1200,brute force-dfs and similar-graphs-implementation,javanetbeans,Java 6,130,35225600
+871338,129,1321355184,17784,A,900,implementation,javanetbeans,Java 6,110,35225600
+871309,129,1321354899,17499,A,900,implementation,CountZero,Java 6,140,35328000
+871247,129,1321354308,16908,C,1500,dfs and similar-graphs-implementation,Akbarshox,Java 6,280,43110400
+871238,129,1321354198,16798,C,1500,dfs and similar-graphs-implementation,Akbarshox,Java 6,200,35328000
+871234,129,1321354177,16777,A,900,implementation,userlond,Java 6,110,35225600
+871211,129,1321353746,16346,C,1500,dfs and similar-graphs-implementation,SharpBlade,Java 6,230,43008000
+870879,129,1321349791,12391,C,1500,dfs and similar-graphs-implementation,pius_88,Java 6,130,43110400
+870863,129,1321349640,12240,B,1200,brute force-dfs and similar-graphs-implementation,edem.kwadzo,Java 6,170,43212800
+870859,129,1321349623,12223,A,900,implementation,edem.kwadzo,Java 6,130,43110400
+870793,129,1321349207,11807,A,900,implementation,flash36,Java 6,130,43110400
+870682,129,1321348464,11064,B,1200,brute force-dfs and similar-graphs-implementation,slavcho92,Java 6,160,43212800
+870551,129,1321347859,10459,C,1500,dfs and similar-graphs-implementation,Omar.Darwish,Java 6,110,43110400
+870545,129,1321347848,10448,B,1200,brute force-dfs and similar-graphs-implementation,SCL,Java 6,170,43110400
+870493,129,1321347640,10240,E,2100,combinatorics-dp,pius_88,Java 6,140,43110400
+870416,129,1321347356,9956,C,1500,dfs and similar-graphs-implementation,akarin64,Java 6,190,43110400
+870327,129,1321347052,9652,B,1200,brute force-dfs and similar-graphs-implementation,JKesha,Java 6,170,43110400
+870274,129,1321346903,9503,B,1200,brute force-dfs and similar-graphs-implementation,islamhamdi,Java 6,220,43110400
+870230,129,1321346825,9425,B,1200,brute force-dfs and similar-graphs-implementation,Wahba,Java 6,280,43110400
+870219,129,1321346818,9418,C,1500,dfs and similar-graphs-implementation,marque,Java 6,130,35225600
+870155,129,1321344582,7182,B,1200,brute force-dfs and similar-graphs-implementation,della,Java 6,170,43212800
+869968,129,1321344430,7030,C,1500,dfs and similar-graphs-implementation,Akbarshox,Java 6,280,43110400
+869962,129,1321344424,7024,E,2100,combinatorics-dp,wangyongliang,Java 6,310,43110400
+869732,129,1321344167,6767,C,1500,dfs and similar-graphs-implementation,safarisoul,Java 6,190,43110400
+869719,129,1321344149,6749,C,1500,dfs and similar-graphs-implementation,jonosuke,Java 6,190,43110400
+869455,129,1321343765,6365,C,1500,dfs and similar-graphs-implementation,Azat_Yusupov,Java 6,140,43110400
+869392,129,1321343689,6289,C,1500,dfs and similar-graphs-implementation,tasyrkin,Java 6,470,70041600
+869326,129,1321343586,6186,C,1500,dfs and similar-graphs-implementation,otero1991,Java 6,170,43008000
+869037,129,1321343122,5722,B,1200,brute force-dfs and similar-graphs-implementation,Illuminati_chk,Java 6,230,43110400
+868991,129,1321343039,5639,A,900,implementation,goodb0y,Java 6,190,43110400
+868693,129,1321342529,5129,B,1200,brute force-dfs and similar-graphs-implementation,gokjer,Java 6,130,43212800
+868673,129,1321342491,5091,B,1200,brute force-dfs and similar-graphs-implementation,phantom11,Java 6,170,43110400
+868463,129,1321342168,4768,C,1500,dfs and similar-graphs-implementation,calculus.saransh,Java 6,110,43212800
+868296,129,1321341907,4507,C,1500,dfs and similar-graphs-implementation,ant.ermilov,Java 6,830,43008000
+868219,129,1321341793,4393,B,1200,brute force-dfs and similar-graphs-implementation,xeyyam_quliyev,Java 6,160,43212800
+868212,129,1321341783,4383,C,1500,dfs and similar-graphs-implementation,z-ghost,Java 6,170,43008000
+868118,129,1321341653,4253,C,1500,dfs and similar-graphs-implementation,JKesha,Java 6,130,43008000
+868083,129,1321341598,4198,B,1200,brute force-dfs and similar-graphs-implementation,upsolving,Java 6,130,43110400
+868062,129,1321341577,4177,B,1200,brute force-dfs and similar-graphs-implementation,fake,Java 6,170,43212800
+868018,129,1321341518,4118,C,1500,dfs and similar-graphs-implementation,Dunaril,Java 6,170,43110400
+867989,129,1321341475,4075,A,900,implementation,gokjer,Java 6,130,43212800
+867934,129,1321341398,3998,C,1500,dfs and similar-graphs-implementation,spongebob,Java 6,110,43110400
+867894,129,1321341334,3934,C,1500,dfs and similar-graphs-implementation,zhendeaini6001,Java 6,130,43110400
+867885,129,1321341326,3926,B,1200,brute force-dfs and similar-graphs-implementation,mukku,Java 6,160,43212800
+867853,129,1321341287,3887,C,1500,dfs and similar-graphs-implementation,KkJj,Java 6,110,43008000
+867844,129,1321341260,3860,E,2100,combinatorics-dp,worms,Java 6,160,43212800
+867755,129,1321341135,3735,C,1500,dfs and similar-graphs-implementation,Melamori,Java 6,110,43008000
+867677,129,1321341025,3625,B,1200,brute force-dfs and similar-graphs-implementation,Slamur,Java 6,140,43622400
+867671,129,1321341019,3619,C,1500,dfs and similar-graphs-implementation,JustDoIt,Java 6,110,43008000
+867667,129,1321341016,3616,B,1200,brute force-dfs and similar-graphs-implementation,hua,Java 6,160,43212800
+867651,129,1321340990,3590,E,2100,combinatorics-dp,torrentlord,Java 6,170,43110400
+867648,129,1321340987,3587,C,1500,dfs and similar-graphs-implementation,Raggi,Java 6,110,43008000
+867610,129,1321340929,3529,C,1500,dfs and similar-graphs-implementation,golyj_na_stole,Java 6,220,43110400
+867569,129,1321340867,3467,C,1500,dfs and similar-graphs-implementation,partizan22,Java 6,140,43110400
+867562,129,1321340855,3455,B,1200,brute force-dfs and similar-graphs-implementation,djjoleM,Java 6,140,43008000
+867538,129,1321340807,3407,B,1200,brute force-dfs and similar-graphs-implementation,neustroev_ai,Java 6,170,43212800
+867404,129,1321340592,3192,C,1500,dfs and similar-graphs-implementation,wangyongliang,Java 6,140,43110400
+867402,129,1321340588,3188,B,1200,brute force-dfs and similar-graphs-implementation,akarin64,Java 6,200,43212800
+867393,129,1321340579,3179,A,900,implementation,hua,Java 6,140,43110400
+867382,129,1321340559,3159,B,1200,brute force-dfs and similar-graphs-implementation,Mirovan,Java 6,130,43110400
+867335,129,1321340505,3105,A,900,implementation,Navand,Java 6,190,43110400
+867327,129,1321340500,3100,B,1200,brute force-dfs and similar-graphs-implementation,chameerawijebandara,Java 6,130,43110400
+867253,129,1321340385,2985,A,900,implementation,whitedevil,Java 6,130,43110400
+867216,129,1321340335,2935,A,900,implementation,Slamur,Java 6,110,43622400
+867213,129,1321340331,2931,B,1200,brute force-dfs and similar-graphs-implementation,marque,Java 6,170,43212800
+867179,129,1321340300,2900,A,900,implementation,tksilicon,Java 6,160,43110400
+867074,129,1321340162,2762,C,1500,dfs and similar-graphs-implementation,snguyen,Java 6,130,43212800
+867053,129,1321340137,2737,B,1200,brute force-dfs and similar-graphs-implementation,Azat_Yusupov,Java 6,170,43212800
+867022,129,1321340093,2693,C,1500,dfs and similar-graphs-implementation,Navigabimus,Java 6,140,43110400
+867009,129,1321340076,2676,B,1200,brute force-dfs and similar-graphs-implementation,edem.kwadzo,Java 6,170,43212800
+866934,129,1321339973,2573,C,1500,dfs and similar-graphs-implementation,Spacejoker,Java 6,110,43110400
+866861,129,1321339881,2481,C,1500,dfs and similar-graphs-implementation,Thomas_Ahle,Java 6,200,43827200
+866796,129,1321339775,2375,A,900,implementation,hama-du,Java 6,130,43110400
+866767,129,1321339740,2340,C,1500,dfs and similar-graphs-implementation,khanhptnk,Java 6,110,43110400
+866735,129,1321339702,2302,B,1200,brute force-dfs and similar-graphs-implementation,boyfox,Java 6,170,43212800
+866684,129,1321339643,2243,B,1200,brute force-dfs and similar-graphs-implementation,SharpBlade,Java 6,170,43212800
+866656,129,1321339592,2192,B,1200,brute force-dfs and similar-graphs-implementation,akshaypundle,Java 6,190,43212800
+866641,129,1321339568,2168,B,1200,brute force-dfs and similar-graphs-implementation,cobe2,Java 6,170,43212800
+866624,129,1321339547,2147,B,1200,brute force-dfs and similar-graphs-implementation,tasyrkin,Java 6,170,43315200
+866568,129,1321339468,2068,B,1200,brute force-dfs and similar-graphs-implementation,Nastaya,Java 6,160,43315200
+866560,129,1321339460,2060,C,1500,dfs and similar-graphs-implementation,hama-du,Java 6,110,43110400
+866559,129,1321339458,2058,B,1200,brute force-dfs and similar-graphs-implementation,moonkin63,Java 6,130,43212800
+866502,129,1321339376,1976,B,1200,brute force-dfs and similar-graphs-implementation,Akbarshox,Java 6,170,43212800
+866491,129,1321339357,1957,B,1200,brute force-dfs and similar-graphs-implementation,michael_tan,Java 6,170,43212800
+866433,129,1321339287,1887,C,1500,dfs and similar-graphs-implementation,Darko,Java 6,140,43110400
+866415,129,1321339270,1870,B,1200,brute force-dfs and similar-graphs-implementation,ant.ermilov,Java 6,130,43110400
+866262,129,1321339114,1714,B,1200,brute force-dfs and similar-graphs-implementation,otero1991,Java 6,130,43110400
+866255,129,1321339110,1710,B,1200,brute force-dfs and similar-graphs-implementation,bohuss,Java 6,130,43110400
+866243,129,1321339102,1702,B,1200,brute force-dfs and similar-graphs-implementation,z-ghost,Java 6,170,43110400
+866159,129,1321338913,1513,B,1200,brute force-dfs and similar-graphs-implementation,partizan22,Java 6,190,43212800
+866149,129,1321338902,1502,B,1200,brute force-dfs and similar-graphs-implementation,jschandl,Java 6,160,43212800
+866134,129,1321338889,1489,B,1200,brute force-dfs and similar-graphs-implementation,Raggi,Java 6,130,43110400
+866130,129,1321338885,1485,B,1200,brute force-dfs and similar-graphs-implementation,spongebob,Java 6,110,43008000
+866115,129,1321338871,1471,B,1200,brute force-dfs and similar-graphs-implementation,KkJj,Java 6,170,43110400
+866050,129,1321338801,1401,B,1200,brute force-dfs and similar-graphs-implementation,pius_88,Java 6,110,43008000
+865950,129,1321338703,1303,B,1200,brute force-dfs and similar-graphs-implementation,Dunaril,Java 6,170,43212800
+865881,129,1321338637,1237,A,900,implementation,safarisoul,Java 6,140,43110400
+865828,129,1321338584,1184,B,1200,brute force-dfs and similar-graphs-implementation,JustDoIt,Java 6,130,43110400
+865814,129,1321338574,1174,B,1200,brute force-dfs and similar-graphs-implementation,twds,Java 6,190,43212800
+865810,129,1321338570,1170,B,1200,brute force-dfs and similar-graphs-implementation,wangyongliang,Java 6,190,43110400
+865800,129,1321338557,1157,B,1200,brute force-dfs and similar-graphs-implementation,zhendeaini6001,Java 6,170,43110400
+865755,129,1321338529,1129,B,1200,brute force-dfs and similar-graphs-implementation,snguyen,Java 6,170,43315200
+865745,129,1321338516,1116,B,1200,brute force-dfs and similar-graphs-implementation,Spacejoker,Java 6,130,43110400
+865738,129,1321338510,1110,B,1200,brute force-dfs and similar-graphs-implementation,Omar.Darwish,Java 6,140,43315200
+865700,129,1321338468,1068,C,1500,dfs and similar-graphs-implementation,hua,Java 6,130,43212800
+865695,129,1321338463,1063,A,900,implementation,AplL,Java 6,130,43110400
+865684,129,1321338448,1048,A,900,implementation,Akensho,Java 6,140,43110400
+865679,129,1321338439,1039,B,1200,brute force-dfs and similar-graphs-implementation,calculus.saransh,Java 6,110,43212800
+865660,129,1321338428,1028,A,900,implementation,chameerawijebandara,Java 6,110,43008000
+865628,129,1321338392,992,B,1200,brute force-dfs and similar-graphs-implementation,golyj_na_stole,Java 6,140,43110400
+865617,129,1321338382,982,B,1200,brute force-dfs and similar-graphs-implementation,torrentlord,Java 6,170,43212800
+865561,129,1321338329,929,A,900,implementation,upsolving,Java 6,130,43110400
+865556,129,1321338325,925,B,1200,brute force-dfs and similar-graphs-implementation,Navigabimus,Java 6,160,43212800
+865544,129,1321338311,911,A,900,implementation,SCL,Java 6,140,43110400
+865532,129,1321338291,891,A,900,implementation,lidundamoyo,Java 6,130,43110400
+865517,129,1321338276,876,B,1200,brute force-dfs and similar-graphs-implementation,Melamori,Java 6,130,43008000
+865511,129,1321338271,871,A,900,implementation,tvorog91,Java 6,140,43110400
+865462,129,1321338215,815,A,900,implementation,Payam,Java 6,130,43110400
+865449,129,1321338195,795,A,900,implementation,xman,Java 6,130,43008000
+865439,129,1321338187,787,B,1200,brute force-dfs and similar-graphs-implementation,rexim,Java 6,130,43110400
+865402,129,1321338154,754,A,900,implementation,gh_mh139,Java 6,130,43008000
+865399,129,1321338151,751,A,900,implementation,slavcho92,Java 6,250,43110400
+865387,129,1321338126,726,A,900,implementation,xeyyam_quliyev,Java 6,160,43110400
+865371,129,1321338109,709,A,900,implementation,mukku,Java 6,140,43110400
+865356,129,1321338090,690,A,900,implementation,spongebob,Java 6,140,43110400
+865354,129,1321338087,687,A,900,implementation,djjoleM,Java 6,130,43008000
+865347,129,1321338082,682,A,900,implementation,Mirovan,Java 6,110,43008000
+865346,129,1321338080,680,A,900,implementation,l-.-l,Java 6,130,43110400
+865340,129,1321338074,674,B,1200,brute force-dfs and similar-graphs-implementation,khanhptnk,Java 6,130,43110400
+865320,129,1321338056,656,A,900,implementation,boyfox,Java 6,130,43110400
+865309,129,1321338045,645,A,900,implementation,Hangibhom,Java 6,130,43110400
+865283,129,1321338010,610,B,1200,brute force-dfs and similar-graphs-implementation,_jte_,Java 6,130,43315200
+865282,129,1321338010,610,B,1200,brute force-dfs and similar-graphs-implementation,Darko,Java 6,170,43212800
+865274,129,1321338004,604,A,900,implementation,eipie,Java 6,160,43110400
+865268,129,1321337999,599,B,1200,brute force-dfs and similar-graphs-implementation,nickbuelich,Java 6,170,43110400
+865264,129,1321337993,593,A,900,implementation,pasha,Java 6,130,43110400
+865263,129,1321337993,593,A,900,implementation,akshaypundle,Java 6,130,43110400
+865242,129,1321337963,563,A,900,implementation,Akbarshox,Java 6,130,43110400
+865233,129,1321337957,557,A,900,implementation,Azat_Yusupov,Java 6,140,43110400
+865213,129,1321337927,527,A,900,implementation,Navigabimus,Java 6,140,43110400
+865206,129,1321337923,523,A,900,implementation,ripple,Java 6,140,43110400
+865191,129,1321337911,511,A,900,implementation,SharpBlade,Java 6,110,43008000
+865190,129,1321337910,510,A,900,implementation,Illuminati_chk,Java 6,140,43110400
+865159,129,1321337893,493,A,900,implementation,wangyongliang,Java 6,140,43110400
+865152,129,1321337887,487,A,900,implementation,JKesha,Java 6,130,43008000
+865136,129,1321337874,474,A,900,implementation,neustroev_ai,Java 6,130,43110400
+865120,129,1321337860,460,A,900,implementation,Alifrin,Java 6,140,43110400
+865108,129,1321337851,451,A,900,implementation,JustDoIt,Java 6,110,43008000
+865097,129,1321337840,440,A,900,implementation,cobe2,Java 6,130,43110400
+865092,129,1321337839,439,A,900,implementation,jonosuke,Java 6,130,43110400
+865086,129,1321337832,432,A,900,implementation,jschandl,Java 6,110,43008000
+865072,129,1321337821,421,A,900,implementation,akarin64,Java 6,130,43110400
+865009,129,1321337783,383,A,900,implementation,moonkin63,Java 6,140,43212800
+864992,129,1321337774,374,A,900,implementation,Mohamad_MohamadPoor,Java 6,130,43110400
+864983,129,1321337769,369,A,900,implementation,Spacejoker,Java 6,110,43110400
+864981,129,1321337768,368,A,900,implementation,z-ghost,Java 6,130,43110400
+864973,129,1321337762,362,A,900,implementation,edem.kwadzo,Java 6,130,43110400
+864970,129,1321337761,361,A,900,implementation,zhendeaini6001,Java 6,140,43110400
+864950,129,1321337750,350,A,900,implementation,islamhamdi,Java 6,130,43110400
+864946,129,1321337745,345,A,900,implementation,otero1991,Java 6,110,43008000
+864945,129,1321337745,345,A,900,implementation,Raggi,Java 6,130,43110400
+864942,129,1321337744,344,A,900,implementation,della,Java 6,130,43110400
+864940,129,1321337744,344,A,900,implementation,antonio081014,Java 6,130,43008000
+864925,129,1321337735,335,A,900,implementation,Melamori,Java 6,130,43008000
+864916,129,1321337728,328,A,900,implementation,Wahba,Java 6,140,43110400
+864887,129,1321337707,307,A,900,implementation,Eugene_nik,Java 6,140,43212800
+864882,129,1321337705,305,A,900,implementation,torrentlord,Java 6,140,43110400
+864872,129,1321337697,297,A,900,implementation,marque,Java 6,110,43008000
+864863,129,1321337693,293,A,900,implementation,twds,Java 6,140,43110400
+864856,129,1321337690,290,A,900,implementation,mancgupta,Java 6,130,43008000
+864847,129,1321337684,284,A,900,implementation,partizan22,Java 6,140,43110400
+864842,129,1321337682,282,A,900,implementation,tasyrkin,Java 6,110,43110400
+864808,129,1321337658,258,A,900,implementation,Nastaya,Java 6,130,43008000
+864788,129,1321337650,250,A,900,implementation,phantom11,Java 6,140,43110400
+864787,129,1321337649,249,A,900,implementation,snguyen,Java 6,140,43212800
+864737,129,1321337620,220,A,900,implementation,khanhptnk,Java 6,110,43008000
+864722,129,1321337614,214,A,900,implementation,calculus.saransh,Java 6,110,43212800
+864692,129,1321337599,199,A,900,implementation,bohuss,Java 6,110,43008000
+864690,129,1321337597,197,A,900,implementation,Omar.Darwish,Java 6,110,43110400
+864684,129,1321337594,194,A,900,implementation,Dunaril,Java 6,130,43110400
+864683,129,1321337594,194,A,900,implementation,pius_88,Java 6,160,43008000
+864682,129,1321337594,194,A,900,implementation,michael_tan,Java 6,140,43110400
+864657,129,1321337580,180,A,900,implementation,golyj_na_stole,Java 6,110,43008000
+864645,129,1321337574,174,A,900,implementation,Darko,Java 6,160,43110400
+864632,129,1321337565,165,A,900,implementation,ant.ermilov,Java 6,110,43008000
+864615,129,1321337548,148,A,900,implementation,rexim,Java 6,160,43110400
+864609,129,1321337539,139,A,900,implementation,nickbuelich,Java 6,140,43110400
+864585,129,1321337498,98,A,900,implementation,_jte_,Java 6,90,43212800

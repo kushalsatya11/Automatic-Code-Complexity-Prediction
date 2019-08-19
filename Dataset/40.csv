@@ -1,0 +1,254 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56697682,40,1562572026,2147483647,A,1300,constructive algorithms-geometry-implementation-math,rindzor,Java 8,248,0
+49947082,40,1550233888,2147483647,A,1300,constructive algorithms-geometry-implementation-math,newheathen,Java 8,280,0
+46637273,40,1543995097,2147483647,A,1300,constructive algorithms-geometry-implementation-math,vktennis,Java 8,280,0
+43500105,40,1538066557,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Anonymous,Java 8,340,0
+40588841,40,1532117495,2147483647,A,1300,constructive algorithms-geometry-implementation-math,AQT,Java 8,280,0
+40355709,40,1531597744,2147483647,A,1300,constructive algorithms-geometry-implementation-math,BeardAspirant,Java 8,372,0
+40116037,40,1531147335,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Nesrin,Java 8,248,0
+39578586,40,1529780828,2147483647,A,1300,constructive algorithms-geometry-implementation-math,wrong_lemma,Java 8,280,0
+39044405,40,1528457495,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Hoda_Hisham,Java 8,278,0
+38092924,40,1525960332,2147483647,A,1300,constructive algorithms-geometry-implementation-math,kocko,Java 8,248,20684800
+37650865,40,1524802601,2147483647,D,2600,math,ruo,Java 8,404,21299200
+37387869,40,1523945477,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Y-R,Java 8,310,20992000
+36763101,40,1522471077,2147483647,A,1300,constructive algorithms-geometry-implementation-math,totallynotan,Java 8,280,20684800
+36291368,40,1521094519,2147483647,A,1300,constructive algorithms-geometry-implementation-math,amolpratap007,Java 8,310,20684800
+35837419,40,1519996400,2147483647,B,1600,math,lehar_11,Java 8,310,20992000
+35836752,40,1519995598,2147483647,A,1300,constructive algorithms-geometry-implementation-math,lehar_11,Java 8,310,20992000
+35615299,40,1519449147,1947,A,1300,constructive algorithms-geometry-implementation-math,adhess,Java 8,310,20684800
+34108939,40,1515768842,2147483647,A,1300,constructive algorithms-geometry-implementation-math,vjudge2,Java 8,342,20992000
+33963211,40,1515244215,2147483647,A,1300,constructive algorithms-geometry-implementation-math,CharlesDai,Java 8,248,20684800
+32700668,40,1511761057,2147483647,A,1300,constructive algorithms-geometry-implementation-math,TechSupport,Java 8,248,20684800
+30098296,40,1504612105,2147483647,A,1300,constructive algorithms-geometry-implementation-math,MQstafa,Java 8,280,0
+28479565,40,1499877955,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Jankulovski,Java 8,310,20480000
+28477191,40,1499870396,2147483647,A,1300,constructive algorithms-geometry-implementation-math,crisZ,Java 8,248,20582400
+27962271,40,1498125976,2147483647,A,1300,constructive algorithms-geometry-implementation-math,tomdmitriev,Java 8,218,20582400
+27941783,40,1498036178,2147483647,B,1600,math,ashubeckham,Java 8,248,20582400
+26774134,40,1493581112,2147483647,A,1300,constructive algorithms-geometry-implementation-math,k3nz0,Java 8,280,20889600
+26668047,40,1493143641,2147483647,A,1300,constructive algorithms-geometry-implementation-math,xbang,Java 8,310,20889600
+25303779,40,1488836777,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Eku187,Java 8,248,20889600
+25303769,40,1488836719,2147483647,A,1300,constructive algorithms-geometry-implementation-math,AVASA,Java 8,248,20889600
+21693761,40,1477168598,2147483647,A,1300,constructive algorithms-geometry-implementation-math,pitfall,Java 8,280,0
+21521666,40,1476714482,2147483647,B,1600,math,lehar,Java 8,342,20889600
+21521112,40,1476713080,2147483647,A,1300,constructive algorithms-geometry-implementation-math,lehar,Java 8,310,20889600
+20751789,40,1474279443,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Ahmad_Elsagheer,Java 8,310,0
+16172564,40,1455814408,2147483647,A,1300,constructive algorithms-geometry-implementation-math,hitman47,Java 7,248,0
+16013497,40,1455430838,2147483647,A,1300,constructive algorithms-geometry-implementation-math,kavsub,Java 7,280,0
+15460107,40,1453332727,2147483647,A,1300,constructive algorithms-geometry-implementation-math,stacy992,Java 7,218,0
+15063316,40,1451264474,2147483647,A,1300,constructive algorithms-geometry-implementation-math,kws4679,Java 7,218,0
+14787613,40,1450024002,2147483647,A,1300,constructive algorithms-geometry-implementation-math,ian9696,Java 7,278,0
+14787605,40,1450023967,2147483647,A,1300,constructive algorithms-geometry-implementation-math,ian9696,Java 8,280,0
+13319614,40,1443633228,2147483647,B,1600,math,alibaba,Java 8,218,0
+11140226,40,1432007804,2147483647,A,1300,constructive algorithms-geometry-implementation-math,poikniok,Java 8,248,0
+11107103,40,1431694313,2147483647,A,1300,constructive algorithms-geometry-implementation-math,tarek.nawara,Java 8,218,0
+11104410,40,1431672979,2147483647,A,1300,constructive algorithms-geometry-implementation-math,aakashkhatri,Java 7,154,0
+10228333,40,1426003014,2147483647,A,1300,constructive algorithms-geometry-implementation-math,rghazaliii,Java 8,280,0
+9445617,40,1421432456,2147483647,A,1300,constructive algorithms-geometry-implementation-math,upsolving,Java 7,154,0
+9350610,40,1420270920,2147483647,A,1300,constructive algorithms-geometry-implementation-math,TranCongDuy,Java 6,154,0
+8741471,40,1416281488,2147483647,A,1300,constructive algorithms-geometry-implementation-math,lexkarel,Java 6,186,0
+8705308,40,1416071085,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Gochi,Java 7,218,0
+6301802,40,1396978608,2147483647,A,1300,constructive algorithms-geometry-implementation-math,ykcland,Java 7,156,0
+6163442,40,1395945029,2147483647,B,1600,math,tomash_em,Java 7,124,0
+6095096,40,1395348479,2147483647,A,1300,constructive algorithms-geometry-implementation-math,tomash_em,Java 7,154,0
+6019157,40,1394871307,2147483647,B,1600,math,jakabfia,Java 7,154,0
+5833487,40,1391014244,2147483647,A,1300,constructive algorithms-geometry-implementation-math,marcose18,Java 7,186,0
+5778973,40,1390498964,2147483647,A,1300,constructive algorithms-geometry-implementation-math,cupcup,Java 7,154,0
+5525228,40,1388066577,2147483647,B,1600,math,Zyflair,Java 7,1154,0
+5522454,40,1388030110,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Zyflair,Java 7,124,0
+5239991,40,1385436005,2147483647,B,1600,math,vvenkai,Java 7,124,0
+4722430,40,1381384324,2147483647,A,1300,constructive algorithms-geometry-implementation-math,alibaba,Java 6,156,0
+4714720,40,1381314847,2147483647,A,1300,constructive algorithms-geometry-implementation-math,soo,Java 6,186,0
+4440992,40,1378871046,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Omar_Mahmoud,Java 7,186,0
+4440969,40,1378869930,2147483647,A,1300,constructive algorithms-geometry-implementation-math,omar500,Java 7,186,0
+4338410,40,1377504647,2147483647,A,1300,constructive algorithms-geometry-implementation-math,vvenkai,Java 7,156,0
+4235089,40,1375752346,2147483647,B,1600,math,santjuan,Java 7,156,0
+4095635,40,1374112815,2147483647,A,1300,constructive algorithms-geometry-implementation-math,fabiankasUN,Java 6,93,2252800
+4095310,40,1374109530,2147483647,A,1300,constructive algorithms-geometry-implementation-math,JhonAlx,Java 7,109,0
+4082659,40,1374009569,2147483647,A,1300,constructive algorithms-geometry-implementation-math,FabianConP,Java 7,78,0
+4001848,40,1372739114,2147483647,A,1300,constructive algorithms-geometry-implementation-math,mkirsche,Java 6,93,2252800
+3669509,40,1367678943,2147483647,A,1300,constructive algorithms-geometry-implementation-math,CurbStomp,Java 7,78,0
+3408363,40,1364303987,2147483647,A,1300,constructive algorithms-geometry-implementation-math,miladini,Java 6,93,0
+2952396,40,1358422268,2147483647,C,2200,implementation-math,tsukuno,Java 6,109,0
+2928804,40,1358320450,1150,B,1600,math,hama-du,Java 6,93,2252800
+2928766,40,1358319731,431,A,1300,constructive algorithms-geometry-implementation-math,hama-du,Java 6,93,2252800
+2832597,40,1356605555,2147483647,A,1300,constructive algorithms-geometry-implementation-math,hs484,Java 6,109,102400
+2823621,40,1356377638,2147483647,B,1600,math,Mex-Mans,Java 7,406,102400
+2803248,40,1356088699,2147483647,A,1300,constructive algorithms-geometry-implementation-math,MiroO,Java 6,93,2355200
+2715103,40,1354878255,2147483647,D,2600,math,uwi,Java 6,140,204800
+2699241,40,1354780204,2147483647,D,2600,math,Archon.JK,Java 7,171,102400
+2678452,40,1354230604,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Spellbound,Java 6,109,0
+1979202,40,1344222598,2147483647,C,2200,implementation-math,Wendly,Java 6,130,43212800
+1979194,40,1344222403,2147483647,C,2200,implementation-math,Wendly,Java 6,1560,43622400
+1967660,40,1343812453,2147483647,B,1600,math,Pathetic_loser,Java 6,170,43315200
+1942565,40,1343325489,5289,B,1600,math,harsh19,Java 7,130,44851200
+1942381,40,1343321277,1077,A,1300,constructive algorithms-geometry-implementation-math,harsh19,Java 7,130,44851200
+1894478,40,1342075772,2372,B,1600,math,Azat_Yusupov,Java 6,140,43315200
+1894370,40,1342074022,622,A,1300,constructive algorithms-geometry-implementation-math,Azat_Yusupov,Java 6,140,43315200
+1882883,40,1342002415,2147483647,A,1300,constructive algorithms-geometry-implementation-math,sr_k,Java 7,130,44953600
+1876311,40,1341751082,2147483647,A,1300,constructive algorithms-geometry-implementation-math,c.utkarsh777,Java 7,160,45056000
+1811851,40,1340249066,2147483647,A,1300,constructive algorithms-geometry-implementation-math,goodsky,Java 6,160,43315200
+1668953,40,1336466088,2147483647,A,1300,constructive algorithms-geometry-implementation-math,bidzilya,Java 7,90,44851200
+1271449,40,1330844202,2147483647,A,1300,constructive algorithms-geometry-implementation-math,peking2,Java 6,130,44953600
+1172922,40,1328982222,2147483647,D,2600,math,kennethsnow,Java 6,160,43417600
+1160197,40,1328812903,2147483647,D,2600,math,vjudge1,Java 6,140,43417600
+1159367,40,1328783754,2147483647,D,2600,math,Sayakiss,Java 6,160,43417600
+1159351,40,1328783501,2147483647,D,2600,math,vjudge4,Java 6,170,43417600
+1159339,40,1328783106,2147483647,D,2600,math,vjudge3,Java 6,330,43417600
+1159123,40,1328776875,2147483647,D,2600,math,vjudge5,Java 6,160,43417600
+1149093,40,1328364490,2147483647,A,1300,constructive algorithms-geometry-implementation-math,AbdelrahmanAsal,Java 6,90,43212800
+1146574,40,1328268058,2147483647,A,1300,constructive algorithms-geometry-implementation-math,Fixeg,Java 6,90,43110400
+987588,40,1324931862,2147483647,A,1300,constructive algorithms-geometry-implementation-math,ilovepink,Java 6,110,43212800
+954707,40,1323838384,34865584,A,1300,constructive algorithms-geometry-implementation-math,stevenkplus,Java 6,130,43110400
+937199,40,1323434935,34462135,B,1600,math,mostafa_fahim,Java 6,130,43110400
+935554,40,1323346867,34374067,B,1600,math,merdin,Java 6,140,35328000
+935289,40,1323332070,34359270,B,1600,math,nativea,Java 6,130,35123200
+891103,40,1322225439,33252639,A,1300,constructive algorithms-geometry-implementation-math,Spacejoker,Java 6,110,43212800
+855461,40,1320924281,31951481,D,2600,math,tmt514,Java 6,720,43417600
+855455,40,1320924141,31951341,D,2600,math,tmt514,Java 6,2670,43622400
+812084,40,1319806583,30833783,A,1300,constructive algorithms-geometry-implementation-math,wackloner,Java 6,110,35225600
+794055,40,1319486902,30514102,A,1300,constructive algorithms-geometry-implementation-math,Izot_NNSTU,Java 6,130,43212800
+794052,40,1319486819,30514019,A,1300,constructive algorithms-geometry-implementation-math,Izot_NNSTU,Java 6,130,43212800
+734786,40,1317572661,28599861,A,1300,constructive algorithms-geometry-implementation-math,rudolf,Java 6,130,35328000
+726402,40,1317080147,28107347,B,1600,math,kiko91_7,Java 6,450,35328000
+711799,40,1316687548,27714748,D,2600,math,YuukaKazami,Java 6,670,35532800
+688554,40,1288973229,429,A,1300,constructive algorithms-geometry-implementation-math,Wahba,Java 6,110,35225600
+669083,40,1315221961,26249161,A,1300,constructive algorithms-geometry-implementation-math,Sinner,Java 6,130,35225600
+641740,40,1314619241,25646441,B,1600,math,Ahmed_Salama,Java 6,1090,35225600
+612942,40,1313498494,24525694,B,1600,math,altais,Java 6,110,34918400
+604785,40,1313223626,24250826,A,1300,constructive algorithms-geometry-implementation-math,Ahmed_Salama,Java 6,110,35225600
+598366,40,1312800262,23827462,A,1300,constructive algorithms-geometry-implementation-math,_jte_,Java 6,90,35123200
+598210,40,1312795101,23822301,A,1300,constructive algorithms-geometry-implementation-math,Dunaril,Java 6,130,35225600
+588738,40,1312686458,23713658,B,1600,math,DoublePointer,Java 6,110,43008000
+575231,40,1312223373,23250573,A,1300,constructive algorithms-geometry-implementation-math,JoKe,Java 6,130,43110400
+573460,40,1312075767,23102967,B,1600,math,islam-al-aarag,Java 6,130,43110400
+569941,40,1311985368,23012568,A,1300,constructive algorithms-geometry-implementation-math,tux1986,Java 6,110,35328000
+568101,40,1311845590,22872790,A,1300,constructive algorithms-geometry-implementation-math,xiaowuc1,Java 6,110,35123200
+563430,40,1311491440,22518640,A,1300,constructive algorithms-geometry-implementation-math,islam-al-aarag,Java 6,130,43110400
+541425,40,1310344350,21371550,A,1300,constructive algorithms-geometry-implementation-math,kiko91_7,Java 6,130,43008000
+512827,40,1309256833,20284033,A,1300,constructive algorithms-geometry-implementation-math,altais,Java 6,110,35020800
+507986,40,1308758862,19786062,A,1300,constructive algorithms-geometry-implementation-math,DoublePointer,Java 6,110,43008000
+498433,40,1308551093,19578293,B,1600,math,tehqin,Java 6,110,43110400
+498398,40,1308548102,19575302,A,1300,constructive algorithms-geometry-implementation-math,tehqin,Java 6,110,43110400
+473401,40,1306846543,17873743,E,2500,combinatorics,RAVEman,Java 6,170,43315200
+473399,40,1306846486,17873686,E,2500,combinatorics,RAVEman,Java 6,170,43315200
+473388,40,1306845303,17872503,C,2200,implementation-math,RAVEman,Java 6,130,43315200
+473234,40,1306825396,17852596,B,1600,math,RAVEman,Java 6,130,43315200
+473228,40,1306824871,17852071,A,1300,constructive algorithms-geometry-implementation-math,RAVEman,Java 6,130,43315200
+469496,40,1306269314,17296514,D,2600,math,RAVEman,Java 6,1480,68300800
+361619,40,1301404680,12431880,D,2600,math,KrK,Java 6,140,43315200
+327952,40,1299545794,10572994,A,1300,constructive algorithms-geometry-implementation-math,Sammarize,Java 6,110,43315200
+286321,40,1297899739,8926939,A,1300,constructive algorithms-geometry-implementation-math,ahmad_mamdouh,Java 6,90,43417600
+266645,40,1296210737,7237937,A,1300,constructive algorithms-geometry-implementation-math,littlealex,Java 6,80,43315200
+265261,40,1296018284,7045484,A,1300,constructive algorithms-geometry-implementation-math,Sulta,Java 6,110,43315200
+256045,40,1295599337,6626537,A,1300,constructive algorithms-geometry-implementation-math,dalex,Java 6,90,43417600
+253728,40,1295249084,6276284,A,1300,constructive algorithms-geometry-implementation-math,nickbuelich,Java 6,130,43417600
+252996,40,1295123159,6150359,A,1300,constructive algorithms-geometry-implementation-math,Slamur,Java 6,90,43417600
+252474,40,1295070862,6098062,A,1300,constructive algorithms-geometry-implementation-math,dart,Java 6,110,43417600
+243075,40,1294586753,5613953,B,1600,math,S.Yesipenko,Java 6,90,43417600
+243042,40,1294584328,5611528,A,1300,constructive algorithms-geometry-implementation-math,S.Yesipenko,Java 6,90,43417600
+241768,40,1294446527,5473727,A,1300,constructive algorithms-geometry-implementation-math,Abra,Java 6,90,43315200
+181129,40,1293423745,4450945,B,1600,math,marque,Java 6,110,43315200
+181128,40,1293417359,4444559,A,1300,constructive algorithms-geometry-implementation-math,marque,Java 6,90,43315200
+181069,40,1290109700,1136900,A,1300,constructive algorithms-geometry-implementation-math,master_j,Java 6,90,43315200
+180950,40,1289333594,360794,A,1300,constructive algorithms-geometry-implementation-math,Eugene_nik,Java 6,80,43315200
+180940,40,1289289334,316534,D,2600,math,t__nt,Java 6,130,43417600
+180816,40,1289164471,191671,E,2500,combinatorics,yaro,Java 6,110,43417600
+180804,40,1289160568,187768,B,1600,math,yaro,Java 6,90,43315200
+180800,40,1289159924,187124,A,1300,constructive algorithms-geometry-implementation-math,yaro,Java 6,80,43315200
+180747,40,1289144031,171231,A,1300,constructive algorithms-geometry-implementation-math,antiriddick,Java 6,90,43315200
+180689,40,1289041245,68445,A,1300,constructive algorithms-geometry-implementation-math,qweasdf_123,Java 6,90,43315200
+180673,40,1289035767,62967,B,1600,math,dr.madis,Java 6,90,43315200
+180652,40,1289032315,59515,A,1300,constructive algorithms-geometry-implementation-math,dr.madis,Java 6,90,43315200
+180651,40,1289032224,59424,B,1600,math,rdivyanshu,Java 6,90,43315200
+180629,40,1289028226,55426,A,1300,constructive algorithms-geometry-implementation-math,rdivyanshu,Java 6,90,43315200
+180627,40,1289028140,55340,A,1300,constructive algorithms-geometry-implementation-math,rdivyanshu,Java 6,90,43315200
+180565,40,1289015702,42902,A,1300,constructive algorithms-geometry-implementation-math,djtehch34t,Java 6,90,43315200
+180506,40,1288992260,19460,B,1600,math,caustique,Java 6,90,43315200
+180490,40,1288990715,17915,A,1300,constructive algorithms-geometry-implementation-math,caustique,Java 6,90,43315200
+180484,40,1288990242,17442,B,1600,math,nise_nabe,Java 6,90,43315200
+180475,40,1288989245,16445,B,1600,math,nise_nabe,Java 6,90,43315200
+180466,40,1288988132,15332,B,1600,math,nise_nabe,Java 6,90,43315200
+180461,40,1288987915,15115,B,1600,math,nise_nabe,Java 6,90,43315200
+180460,40,1288987879,15079,E,2500,combinatorics,winger,Java 6,90,43315200
+180454,40,1288987518,14718,D,2600,math,slycelote,Java 6,110,43315200
+180449,40,1288987107,14307,E,2500,combinatorics,uwi,Java 6,140,43315200
+180435,40,1288986523,13723,E,2500,combinatorics,Hadi_Asiaie,Java 6,110,43315200
+180426,40,1288986233,13433,A,1300,constructive algorithms-geometry-implementation-math,nise_nabe,Java 6,90,43315200
+180327,40,1288983402,10602,E,2500,combinatorics,ivan.popelyshev,Java 6,110,43315200
+180287,40,1288982852,10052,B,1600,math,uwi,Java 6,90,43315200
+180264,40,1288982660,9860,D,2600,math,Kenny_HORROR,Java 6,420,83456000
+180232,40,1288982434,9634,D,2600,math,rng_58,Java 6,130,43417600
+180218,40,1288982371,9571,A,1300,constructive algorithms-geometry-implementation-math,uwi,Java 6,90,43315200
+180197,40,1288979986,7186,A,1300,constructive algorithms-geometry-implementation-math,Hadi_Asiaie,Java 6,80,43315200
+180128,40,1288979889,7089,E,2500,combinatorics,cerealguy,Java 6,110,43315200
+180047,40,1288979714,6914,C,2200,implementation-math,anhdt,Java 6,80,43315200
+179935,40,1288979326,6526,D,2600,math,SpookyCookie,Java 6,770,74649600
+179930,40,1288979322,6522,D,2600,math,dzhulgakov,Java 6,190,43417600
+179915,40,1288979242,6442,B,1600,math,mdldml,Java 6,90,43315200
+179908,40,1288979217,6417,E,2500,combinatorics,Rei,Java 6,110,43315200
+179852,40,1288979029,6229,B,1600,math,Katran,Java 6,420,43315200
+179779,40,1288978746,5946,B,1600,math,matklad,Java 6,90,43315200
+179674,40,1288978296,5496,B,1600,math,makagonov,Java 6,300,189952000
+179577,40,1288977935,5135,C,2200,implementation-math,Petr,Java 6,80,43315200
+179520,40,1288977705,4905,B,1600,math,rybak,Java 6,90,43315200
+179456,40,1288977494,4694,D,2600,math,ivan.popelyshev,Java 6,110,43520000
+179452,40,1288977464,4664,A,1300,constructive algorithms-geometry-implementation-math,BreakDark,Java 6,90,43315200
+179445,40,1288977441,4641,D,2600,math,winger,Java 6,190,43417600
+179364,40,1288977103,4303,B,1600,math,Aule,Java 6,90,43315200
+179358,40,1288977069,4269,C,2200,implementation-math,MaxBuzz,Java 6,470,43315200
+179338,40,1288976976,4176,B,1600,math,Nox,Java 6,80,43315200
+179317,40,1288976917,4117,E,2500,combinatorics,Petr,Java 6,90,43315200
+179300,40,1288976851,4051,B,1600,math,dAnton,Java 6,420,43315200
+179223,40,1288976559,3759,A,1300,constructive algorithms-geometry-implementation-math,dAnton,Java 6,90,43315200
+179204,40,1288976536,3736,A,1300,constructive algorithms-geometry-implementation-math,toriaezu,Java 6,80,43315200
+179151,40,1288976373,3573,C,2200,implementation-math,Rei,Java 6,80,43315200
+179064,40,1288976155,3355,D,2600,math,Petr,Java 6,140,43417600
+178924,40,1288975767,2967,B,1600,math,VArtem,Java 6,80,43315200
+178899,40,1288975666,2866,C,2200,implementation-math,SpookyCookie,Java 6,80,43315200
+178884,40,1288975619,2819,B,1600,math,Hadi_Asiaie,Java 6,230,43315200
+178861,40,1288975538,2738,B,1600,math,chavit,Java 6,80,43315200
+178854,40,1288975521,2721,C,2200,implementation-math,winger,Java 6,80,43315200
+178829,40,1288975417,2617,A,1300,constructive algorithms-geometry-implementation-math,smukashev,Java 6,90,43315200
+178710,40,1288975109,2309,B,1600,math,msagimbekov,Java 6,90,43315200
+178628,40,1288974905,2105,B,1600,math,azonium,Java 6,90,43315200
+178533,40,1288974695,1895,B,1600,math,Sergey.Bankevich,Java 6,90,43315200
+178482,40,1288974556,1756,A,1300,constructive algorithms-geometry-implementation-math,yayaha,Java 6,90,43315200
+178449,40,1288974499,1699,B,1600,math,m.sabouri,Java 6,90,43315200
+178380,40,1288974357,1557,B,1600,math,ivanromanov,Java 6,80,43315200
+178362,40,1288974307,1507,B,1600,math,cerealguy,Java 6,80,43315200
+178333,40,1288974223,1423,B,1600,math,agus.mw,Java 6,60,43315200
+178283,40,1288974109,1309,B,1600,math,anhdt,Java 6,200,43315200
+178279,40,1288974101,1301,B,1600,math,ivan.popelyshev,Java 6,60,43315200
+178271,40,1288974088,1288,A,1300,constructive algorithms-geometry-implementation-math,rybak,Java 6,90,43315200
+178255,40,1288974049,1249,B,1600,math,MaxBuzz,Java 6,80,43315200
+178221,40,1288973994,1194,B,1600,math,SpookyCookie,Java 6,80,43315200
+178169,40,1288973886,1086,A,1300,constructive algorithms-geometry-implementation-math,mech,Java 6,60,43315200
+178159,40,1288973874,1074,B,1600,math,Rei,Java 6,220,43315200
+178147,40,1288973853,1053,A,1300,constructive algorithms-geometry-implementation-math,Aule,Java 6,90,43315200
+178133,40,1288973835,1035,B,1600,math,niyaznigmatul,Java 6,80,43315200
+178130,40,1288973834,1034,A,1300,constructive algorithms-geometry-implementation-math,VArtem,Java 6,80,43315200
+178102,40,1288973792,992,A,1300,constructive algorithms-geometry-implementation-math,mdldml,Java 6,90,43315200
+178044,40,1288973702,902,A,1300,constructive algorithms-geometry-implementation-math,Katran,Java 6,80,43315200
+178043,40,1288973702,902,A,1300,constructive algorithms-geometry-implementation-math,azonium,Java 6,90,43315200
+178026,40,1288973677,877,A,1300,constructive algorithms-geometry-implementation-math,Sergey.Bankevich,Java 6,90,43315200
+178012,40,1288973659,859,A,1300,constructive algorithms-geometry-implementation-math,makagonov,Java 6,80,43315200
+177907,40,1288973560,760,A,1300,constructive algorithms-geometry-implementation-math,Nox,Java 6,60,43315200
+177896,40,1288973540,740,A,1300,constructive algorithms-geometry-implementation-math,bohuss,Java 6,90,43315200
+177887,40,1288973531,731,A,1300,constructive algorithms-geometry-implementation-math,mohammadkotb,Java 6,90,43315200
+177848,40,1288973468,668,A,1300,constructive algorithms-geometry-implementation-math,ivanromanov,Java 6,80,43315200
+177841,40,1288973454,654,A,1300,constructive algorithms-geometry-implementation-math,kiyoshi,Java 6,80,43315200
+177789,40,1288973382,582,A,1300,constructive algorithms-geometry-implementation-math,chavit,Java 6,60,43315200
+177783,40,1288973376,576,A,1300,constructive algorithms-geometry-implementation-math,pyshnograev,Java 6,80,43315200
+177762,40,1288973348,548,B,1600,math,Petr,Java 6,80,43315200
+177746,40,1288973327,527,B,1600,math,winger,Java 6,220,43315200
+177745,40,1288973325,525,A,1300,constructive algorithms-geometry-implementation-math,Rei,Java 6,80,43315200
+177727,40,1288973303,503,A,1300,constructive algorithms-geometry-implementation-math,anhdt,Java 6,80,43315200
+177700,40,1288973267,467,A,1300,constructive algorithms-geometry-implementation-math,ivan.popelyshev,Java 6,80,43315200
+177689,40,1288973258,458,A,1300,constructive algorithms-geometry-implementation-math,msagimbekov,Java 6,90,43315200
+177670,40,1288973223,423,A,1300,constructive algorithms-geometry-implementation-math,SpookyCookie,Java 6,80,43315200
+177645,40,1288973194,394,A,1300,constructive algorithms-geometry-implementation-math,agus.mw,Java 6,80,43315200
+177633,40,1288973180,380,A,1300,constructive algorithms-geometry-implementation-math,niyaznigmatul,Java 6,80,43315200
+177598,40,1288973111,311,A,1300,constructive algorithms-geometry-implementation-math,cerealguy,Java 6,80,43315200
+177592,40,1288973083,283,A,1300,constructive algorithms-geometry-implementation-math,winger,Java 6,80,43315200
+177584,40,1288973048,248,A,1300,constructive algorithms-geometry-implementation-math,MaxBuzz,Java 6,80,43315200
+177573,40,1288973005,205,A,1300,constructive algorithms-geometry-implementation-math,Petr,Java 6,60,43315200

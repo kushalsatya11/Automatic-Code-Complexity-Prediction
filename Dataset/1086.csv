@@ -1,0 +1,65 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57484189,1086,1563768880,2147483647,A,1600,greedy-implementation,beginner1010,Java 8,124,0,OK
+54808886,1086,1559144499,2147483647,B,1700,greedy-implementation-trees,khokharnikunj8,Java 8,124,0,OK
+49533480,1086,1549464558,2147483647,B,1700,greedy-implementation-trees,dataisland,Java 8,155,0,OK
+49527706,1086,1549455477,2147483647,A,1600,greedy-implementation,dataisland,Java 8,155,0,OK
+49480664,1086,1549318131,2147483647,B,1700,greedy-implementation-trees,sonusingh.nitaa,Java 8,343,0,OK
+49235323,1086,1548920537,2147483647,B,1700,greedy-implementation-trees,dalt,Java 8,124,0,OK
+49075366,1086,1548642220,2147483647,A,1600,greedy-implementation,dalt,Java 8,140,0,OK
+48556889,1086,1547876816,2147483647,A,1600,greedy-implementation,StOlEn_KiNg,Java 8,124,0,OK
+48469871,1086,1547666855,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,AuroraGarden,Java 8,1263,84889600,OK
+48467778,1086,1547662291,2791,B,1700,greedy-implementation-trees,AuroraGarden,Java 8,296,66457600,OK
+48466963,1086,1547660827,1327,A,1600,greedy-implementation,AuroraGarden,Java 8,124,0,OK
+48454731,1086,1547640778,2147483647,A,1600,greedy-implementation,YousseF_Diaa,Java 8,139,0,OK
+48291581,1086,1547298083,2147483647,A,1600,greedy-implementation,dmytro.prytula,Java 8,202,0,OK
+48195956,1086,1547157730,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,PrakharJain,Java 8,3104,3379200,OK
+47506676,1086,1545787480,2147483647,D,2700,data structures-greedy,Ahmad,Java 8,702,16281600,OK
+47492071,1086,1545742028,2147483647,E,2600,combinatorics-data structures-dp,PrakharJain,Java 8,920,76185600,OK
+47489068,1086,1545735410,2147483647,B,1700,greedy-implementation-trees,beroul,Java 8,124,0,OK
+47464033,1086,1545670145,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,Ahmad,Java 8,1169,4403200,OK
+47457142,1086,1545657050,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,norge,Java 8,2058,18534400,OK
+47457108,1086,1545657010,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,zal.v,Java 8,2058,18534400,OK
+47449771,1086,1545641413,2147483647,B,1700,greedy-implementation-trees,Ahmad,Java 8,187,5939200,OK
+47448059,1086,1545637454,2147483647,D,2700,data structures-greedy,PrakharJain,Java 8,873,9523200,OK
+47443449,1086,1545624859,739,A,1600,greedy-implementation,Ahmad,Java 8,171,0,OK
+47434950,1086,1545589146,2147483647,B,1700,greedy-implementation-trees,wery0,Java 8,171,0,OK
+47432949,1086,1545584659,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,Intrincantation,Java 8,2776,6963200,OK
+47432920,1086,1545584607,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,darnley,Java 8,1294,126566400,OK
+47432795,1086,1545584364,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,darnley,Java 8,5000,0,TIME_LIMIT_EXCEEDED
+47431929,1086,1545582881,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,darnley,Java 8,1356,14233600,OK
+47431872,1086,1545582771,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,tanzaku,Java 8,592,84582400,OK
+47431745,1086,1545582597,2147483647,B,1700,greedy-implementation-trees,Musin,Java 8,124,0,OK
+47431706,1086,1545582534,2147483647,B,1700,greedy-implementation-trees,darnley,Java 8,140,0,OK
+47430637,1086,1545581411,2147483647,C,2500,constructive algorithms-greedy-implementation-strings,nm21,Java 8,2308,3072000,OK
+47430446,1086,1545581268,2147483647,D,2700,data structures-greedy,fetetriste,Java 8,858,16076800,OK
+47426964,1086,1545578485,6385,B,1700,greedy-implementation-trees,tanzaku,Java 8,186,0,OK
+47426874,1086,1545578456,6356,B,1700,greedy-implementation-trees,darnley,Java 8,249,14540800,OK
+47425436,1086,1545577952,5852,C,2500,constructive algorithms-greedy-implementation-strings,darnley,Java 8,1372,14233600,OK
+47425126,1086,1545577848,5748,A,1600,greedy-implementation,tanzaku,Java 8,171,0,OK
+47424686,1086,1545577691,5591,D,2700,data structures-greedy,uwi,Java 8,234,0,OK
+47423165,1086,1545577208,5107,C,2500,constructive algorithms-greedy-implementation-strings,tanzaku,Java 8,639,84480000,OK
+47421251,1086,1545576570,4470,C,2500,constructive algorithms-greedy-implementation-strings,tanzaku,Java 8,5000,0,TIME_LIMIT_EXCEEDED
+47420782,1086,1545576433,4333,C,2500,constructive algorithms-greedy-implementation-strings,iakovlev.zakhar,Java 8,1310,18944000,OK
+47420563,1086,1545576368,4268,B,1700,greedy-implementation-trees,fetetriste,Java 8,170,0,OK
+47419815,1086,1545576127,4027,C,2500,constructive algorithms-greedy-implementation-strings,uwi,Java 8,1092,10342400,OK
+47418864,1086,1545575840,3739,C,2500,constructive algorithms-greedy-implementation-strings,tanzaku,Java 8,5000,0,TIME_LIMIT_EXCEEDED
+47418603,1086,1545575764,3664,C,2500,constructive algorithms-greedy-implementation-strings,fetetriste,Java 8,2152,18432000,OK
+47417043,1086,1545575305,3205,B,1700,greedy-implementation-trees,PrakharJain,Java 8,202,5017600,OK
+47416938,1086,1545575278,3178,C,2500,constructive algorithms-greedy-implementation-strings,tanzaku,Java 8,5000,0,TIME_LIMIT_EXCEEDED
+47416683,1086,1545575208,3108,A,1600,greedy-implementation,wery0,Java 8,186,0,OK
+47413763,1086,1545574486,2386,B,1700,greedy-implementation-trees,nm21,Java 8,327,68608000,OK
+47413269,1086,1545574376,2276,A,1600,greedy-implementation,PrakharJain,Java 8,608,142028800,OK
+47412627,1086,1545574240,2140,B,1700,greedy-implementation-trees,Azat_Yusupov,Java 8,265,14131200,OK
+47411927,1086,1545574100,2000,B,1700,greedy-implementation-trees,AkshajK,Java 8,249,14745600,OK
+47411601,1086,1545574038,1938,B,1700,greedy-implementation-trees,Yugioh,Java 8,140,0,OK
+47411133,1086,1545573943,1843,A,1600,greedy-implementation,nm21,Java 8,124,0,OK
+47408417,1086,1545573472,1372,A,1600,greedy-implementation,Musin,Java 8,155,0,OK
+47408182,1086,1545573432,1332,A,1600,greedy-implementation,Yugioh,Java 8,155,0,OK
+47405880,1086,1545573108,1008,B,1700,greedy-implementation-trees,iakovlev.zakhar,Java 8,171,0,OK
+47405545,1086,1545573064,964,B,1700,greedy-implementation-trees,uwi,Java 8,124,0,OK
+47405289,1086,1545573028,928,A,1600,greedy-implementation,AkshajK,Java 8,139,0,OK
+47404688,1086,1545572952,852,A,1600,greedy-implementation,fetetriste,Java 8,140,0,OK
+47403538,1086,1545572822,722,A,1600,greedy-implementation,iakovlev.zakhar,Java 8,124,0,OK
+47403051,1086,1545572762,662,A,1600,greedy-implementation,Azat_Yusupov,Java 8,139,0,OK
+47402339,1086,1545572678,578,A,1600,greedy-implementation,darnley,Java 8,124,0,OK
+47400942,1086,1545572494,394,A,1600,greedy-implementation,uwi,Java 8,124,0,OK

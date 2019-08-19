@@ -1,0 +1,390 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56664359,86,1562496553,2147483647,A,1800,math,rr_,Java 8,248,0
+55912752,86,1561174145,2147483647,D,2700,data structures-implementation-math-two pointers,sonusingh.nitaa,Java 8,3836,14643200
+55210489,86,1559831088,2147483647,A,1800,math,puzink,Java 8,342,0
+53466388,86,1556446710,2147483647,D,2700,data structures-implementation-math-two pointers,mennafadali,Java 8,3462,6246400
+53198933,86,1556038626,2147483647,D,2700,data structures-implementation-math-two pointers,saurabhs1206,Java 8,4990,13926400
+52655410,86,1555094207,2147483647,D,2700,data structures-implementation-math-two pointers,jdanielfandino,Java 8,3836,15769600
+51198988,86,1552338359,2147483647,D,2700,data structures-implementation-math-two pointers,wery0,Java 8,4958,15462400
+50598502,86,1551353797,2147483647,D,2700,data structures-implementation-math-two pointers,niteshgowda,Java 8,1902,12288000
+50598413,86,1551353661,2147483647,D,2700,data structures-implementation-math-two pointers,niteshgowda,Java 8,2276,12288000
+49169805,86,1548783910,2147483647,D,2700,data structures-implementation-math-two pointers,aakashjaiswal,Java 8,3742,5632000
+49169589,86,1548783631,2147483647,D,2700,data structures-implementation-math-two pointers,aakashjaiswal,Java 8,4334,5632000
+48684606,86,1548081774,2147483647,D,2700,data structures-implementation-math-two pointers,chugh,Java 8,4648,15052800
+48528545,86,1547806965,2147483647,D,2700,data structures-implementation-math-two pointers,vikashkumarbissu,Java 8,4896,35532800
+48522655,86,1547795916,2147483647,D,2700,data structures-implementation-math-two pointers,hardLuck,Java 8,4990,35532800
+47597566,86,1545939117,2147483647,A,1800,math,KulikAlex,Java 8,218,0
+47077663,86,1544896055,2147483647,D,2700,data structures-implementation-math-two pointers,jebaited,Java 8,4928,8192000
+47028164,86,1544861656,2147483647,D,2700,data structures-implementation-math-two pointers,jebaited,Java 8,4960,8192000
+46854940,86,1544451366,2147483647,D,2700,data structures-implementation-math-two pointers,aman28rwt,Java 8,1932,5120000
+46854784,86,1544451087,2147483647,D,2700,data structures-implementation-math-two pointers,aman28rwt,Java 8,1370,14028800
+46683609,86,1544101543,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4398,19456000
+46676457,86,1544090497,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4304,16281600
+46676446,86,1544090476,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4460,16179200
+46676269,86,1544090144,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4428,16281600
+46676227,86,1544090076,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4958,16281600
+46661070,86,1544037803,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4804,11161600
+46654560,86,1544024324,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,1964,5529600
+46654371,86,1544024043,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4928,16281600
+46654030,86,1544023429,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4866,16588800
+46654010,86,1544023386,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4958,16588800
+46653619,86,1544022716,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4990,16588800
+46653570,86,1544022619,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4928,16588800
+46653193,86,1544021959,2147483647,D,2700,data structures-implementation-math-two pointers,LeMotherfuckerEAbdel69,Java 8,4990,16588800
+46362776,86,1543492546,2147483647,D,2700,data structures-implementation-math-two pointers,aminul,Java 8,1964,9830400
+45424808,86,1541620224,2147483647,D,2700,data structures-implementation-math-two pointers,PrakharJain,Java 8,3400,10342400
+44491770,86,1539874049,2147483647,D,2700,data structures-implementation-math-two pointers,vjudge5,Java 8,4990,35020800
+43869536,86,1538769199,2147483647,D,2700,data structures-implementation-math-two pointers,zeyad_khattab,Java 8,4148,14643200
+43593589,86,1538284424,2147483647,D,2700,data structures-implementation-math-two pointers,admiral_1995,Java 8,4648,7065600
+43376028,86,1537806885,2147483647,D,2700,data structures-implementation-math-two pointers,TWO_POINTER,Java 8,4522,14438400
+43160687,86,1537490659,2147483647,D,2700,data structures-implementation-math-two pointers,ajit.yadav15,Java 8,4960,5734400
+41663533,86,1534449739,2147483647,D,2700,data structures-implementation-math-two pointers,warez80,Java 8,3524,20275200
+41398179,86,1533816783,2147483647,D,2700,data structures-implementation-math-two pointers,Constantor,Java 8,3836,13721600
+41107167,86,1533185602,2147483647,D,2700,data structures-implementation-math-two pointers,DanielW48,Java 8,4022,15052800
+41066017,86,1533063338,2147483647,D,2700,data structures-implementation-math-two pointers,I_love_sqrtdecompton,Java 8,3742,15052800
+40524249,86,1531940007,2147483647,D,2700,data structures-implementation-math-two pointers,aman28rwt,Java 8,2962,4812800
+40524166,86,1531939809,2147483647,D,2700,data structures-implementation-math-two pointers,aman28rwt,Java 8,3086,4710400
+40524145,86,1531939747,2147483647,D,2700,data structures-implementation-math-two pointers,aman28rwt,Java 8,2930,4812800
+40208443,86,1531329184,2147483647,D,2700,data structures-implementation-math-two pointers,blockingthesky,Java 8,4552,15564800
+40027926,86,1530875398,2147483647,D,2700,data structures-implementation-math-two pointers,Tarun,Java 8,4430,38092800
+39544337,86,1529765797,2147483647,D,2700,data structures-implementation-math-two pointers,AQT,Java 8,4398,21094400
+38402927,86,1526653383,2147483647,D,2700,data structures-implementation-math-two pointers,HulkBuster9,Java 8,3150,15667200
+37183753,86,1523408972,2147483647,D,2700,data structures-implementation-math-two pointers,blockingthesky,Java 8,3274,38502400
+37183747,86,1523408949,2147483647,D,2700,data structures-implementation-math-two pointers,I_love_AuroraGarden,Java 8,3336,30720000
+37183718,86,1523408793,2147483647,D,2700,data structures-implementation-math-two pointers,I_love_AuroraGarden,Java 8,2994,38502400
+37177220,86,1523381576,2147483647,D,2700,data structures-implementation-math-two pointers,I_love_AuroraGarden,Java 8,4272,30720000
+37176279,86,1523379886,2147483647,D,2700,data structures-implementation-math-two pointers,I_love_AuroraGarden,Java 8,4428,30720000
+36671274,86,1522161600,2147483647,D,2700,data structures-implementation-math-two pointers,KulikAlex,Java 8,2620,33587200
+36665375,86,1522148938,2147483647,D,2700,data structures-implementation-math-two pointers,vovacomua,Java 8,3774,33382400
+36415408,86,1521474894,2147483647,D,2700,data structures-implementation-math-two pointers,karamkontar,Java 8,3212,36659200
+36415385,86,1521474837,2147483647,D,2700,data structures-implementation-math-two pointers,karamkontar,Java 8,4490,36966400
+36415358,86,1521474760,2147483647,D,2700,data structures-implementation-math-two pointers,karamkontar,Java 8,2994,36659200
+35976027,86,1520279599,2147483647,D,2700,data structures-implementation-math-two pointers,Taran_1407,Java 8,4896,36659200
+35944895,86,1520184605,2147483647,D,2700,data structures-implementation-math-two pointers,BeardAspirant,Java 8,4992,47820800
+35942132,86,1520183175,2147483647,D,2700,data structures-implementation-math-two pointers,BeardAspirant,Java 8,4118,47820800
+35193113,86,1518508552,2147483647,D,2700,data structures-implementation-math-two pointers,Tarun,Java 8,3836,60825600
+34232746,86,1516136089,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,2402,37888000
+34232698,86,1516135957,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,4022,39116800
+34232643,86,1516135795,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,4022,28774400
+34232414,86,1516134867,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,4678,28774400
+33808561,86,1514635761,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,2650,28262400
+33808487,86,1514635524,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,4896,39116800
+33642102,86,1514279363,2147483647,D,2700,data structures-implementation-math-two pointers,xodiac,Java 8,4522,42188800
+33488614,86,1513882583,2147483647,D,2700,data structures-implementation-math-two pointers,pranavps,Java 8,3804,37478400
+33402956,86,1513675591,2147483647,D,2700,data structures-implementation-math-two pointers,parth_15,Java 8,4742,42188800
+32943708,86,1512464865,2147483647,D,2700,data structures-implementation-math-two pointers,prabhat236218,Java 8,3524,37785600
+32364199,86,1510861383,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad,Java 8,2870,15462400
+32151916,86,1510208814,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,4990,17100800
+32151887,86,1510208635,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,4210,17100800
+32069584,86,1509864912,2147483647,D,2700,data structures-implementation-math-two pointers,kunal05,Java 8,4366,19251200
+31950449,86,1509540998,2147483647,D,2700,data structures-implementation-math-two pointers,hell_is_here,Java 8,4896,18227200
+31919725,86,1509450341,2147483647,D,2700,data structures-implementation-math-two pointers,MostafaAbdullah,Java 8,2992,11264000
+31919605,86,1509450081,2147483647,D,2700,data structures-implementation-math-two pointers,MostafaAbdullah,Java 8,3898,11264000
+31919531,86,1509449909,2147483647,D,2700,data structures-implementation-math-two pointers,MostafaAbdullah,Java 8,4990,11264000
+31919398,86,1509449639,2147483647,D,2700,data structures-implementation-math-two pointers,MostafaAbdullah,Java 8,4398,11264000
+31919351,86,1509449524,2147483647,D,2700,data structures-implementation-math-two pointers,MostafaAbdullah,Java 8,4928,11264000
+31919256,86,1509449340,2147483647,D,2700,data structures-implementation-math-two pointers,MostafaAbdullah,Java 8,4990,11264000
+31919192,86,1509449196,2147483647,D,2700,data structures-implementation-math-two pointers,MostafaAbdullah,Java 8,4710,11264000
+31510895,86,1508422483,2147483647,D,2700,data structures-implementation-math-two pointers,Nurseiit,Java 8,4866,36659200
+30964874,86,1507027539,2147483647,A,1800,math,Slamur,Java 8,278,0
+30761604,86,1506454878,2147483647,D,2700,data structures-implementation-math-two pointers,admiral_1995,Java 8,4866,15257600
+30323044,86,1505378441,2147483647,C,2400,dp-string suffix structures-trees,DemonSong,Java 8,310,0
+30323020,86,1505378333,2147483647,C,2400,dp-string suffix structures-trees,vjudge3,Java 8,280,0
+30185728,86,1504800653,2147483647,A,1800,math,MQstafa,Java 8,278,0
+29861526,86,1503996470,2147483647,D,2700,data structures-implementation-math-two pointers,Seven,Java 8,4802,17305600
+29796728,86,1503721982,2147483647,D,2700,data structures-implementation-math-two pointers,aman28rwt,Java 8,4990,8499200
+29338043,86,1502396186,2147483647,D,2700,data structures-implementation-math-two pointers,semera,Java 8,2494,27238400
+28341531,86,1499404737,2147483647,A,1800,math,jwozniak,Java 8,340,20889600
+28340981,86,1499402097,2147483647,D,2700,data structures-implementation-math-two pointers,jwozniak,Java 8,3774,28979200
+28058448,86,1498483513,2147483647,D,2700,data structures-implementation-math-two pointers,tomdmitriev,Java 8,2868,31334400
+27732684,86,1497250811,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,4896,4915200
+27732616,86,1497250571,2147483647,D,2700,data structures-implementation-math-two pointers,coderbond007,Java 8,3650,5632000
+27630640,86,1496832186,2147483647,D,2700,data structures-implementation-math-two pointers,uwi,Java 8,2744,5529600
+27630406,86,1496831365,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,3710,6451200
+27630236,86,1496830789,2147483647,D,2700,data structures-implementation-math-two pointers,uwi,Java 8,3274,6860800
+27630157,86,1496830554,2147483647,D,2700,data structures-implementation-math-two pointers,uwi,Java 8,4710,6860800
+27630149,86,1496830536,2147483647,D,2700,data structures-implementation-math-two pointers,uwi,Java 8,3744,28160000
+27629995,86,1496829954,2147483647,D,2700,data structures-implementation-math-two pointers,uwi,Java 8,4990,19558400
+27629543,86,1496828131,2147483647,D,2700,data structures-implementation-math-two pointers,uwi,Java 8,2494,5632000
+27629470,86,1496827897,2147483647,D,2700,data structures-implementation-math-two pointers,uwi,Java 8,2026,9625600
+27581630,86,1496661676,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,4802,20889600
+27581599,86,1496661568,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,4928,20889600
+27581521,86,1496661282,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,4804,20889600
+27581319,86,1496660656,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,4742,20889600
+27581272,86,1496660456,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,2526,5632000
+27581221,86,1496660305,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,4710,20889600
+27581138,86,1496660033,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,4740,21094400
+27580993,86,1496659640,2147483647,D,2700,data structures-implementation-math-two pointers,prabal1815,Java 8,4242,21094400
+27157339,86,1494932371,2147483647,D,2700,data structures-implementation-math-two pointers,Maulik_Patel,Java 8,4646,11468800
+26986327,86,1494367074,2147483647,D,2700,data structures-implementation-math-two pointers,pitfall,Java 8,3086,16076800
+26986323,86,1494367030,2147483647,D,2700,data structures-implementation-math-two pointers,pitfall,Java 8,3056,16179200
+26528490,86,1492736524,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,2432,27955200
+26528383,86,1492735524,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,2432,33382400
+26528283,86,1492734715,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,2618,33382400
+26528234,86,1492734305,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,3586,28774400
+26528072,86,1492732979,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,3960,28774400
+26528021,86,1492732552,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,4180,28876800
+26527299,86,1492727277,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,4272,38092800
+26527118,86,1492725991,2147483647,D,2700,data structures-implementation-math-two pointers,4mda4mda,Java 8,3680,28774400
+26442960,86,1492391502,2147483647,D,2700,data structures-implementation-math-two pointers,Hardik.decoder,Java 8,2744,27750400
+26233163,86,1491727868,2147483647,D,2700,data structures-implementation-math-two pointers,Kammola,Java 8,2464,33587200
+25789612,86,1490423287,2147483647,D,2700,data structures-implementation-math-two pointers,_Shivam,Java 8,4960,40857600
+25544971,86,1489659947,2147483647,D,2700,data structures-implementation-math-two pointers,Alexvsalex,Java 8,2962,28262400
+25371110,86,1489108076,2147483647,D,2700,data structures-implementation-math-two pointers,tri,Java 8,3744,27955200
+25287652,86,1488793673,2147483647,A,1800,math,di_halt,Java 8,310,20480000
+25177114,86,1488551455,2147483647,D,2700,data structures-implementation-math-two pointers,yassin_,Java 8,2462,27238400
+25105778,86,1488300401,2147483647,D,2700,data structures-implementation-math-two pointers,RP_9,Java 8,4960,33894400
+25102680,86,1488290948,2147483647,D,2700,data structures-implementation-math-two pointers,RP_9,Java 8,4616,33894400
+24793886,86,1487476407,2147483647,D,2700,data structures-implementation-math-two pointers,aya_cool,Java 8,3804,38502400
+24588830,86,1486814434,2147483647,D,2700,data structures-implementation-math-two pointers,Rats004,Java 8,3274,41164800
+24534714,86,1486580486,2147483647,A,1800,math,Maduinn,Java 8,404,20480000
+24534658,86,1486580281,2147483647,A,1800,math,Maduin,Java 8,278,20480000
+24534462,86,1486579702,2147483647,A,1800,math,Maduinn,Java 8,278,20480000
+24534420,86,1486579575,2147483647,A,1800,math,Maduinn,Java 8,310,20582400
+24534353,86,1486579365,2147483647,A,1800,math,Maduinn,Java 8,342,20480000
+24534258,86,1486579036,2147483647,A,1800,math,Maduinn,Java 8,310,20480000
+24534207,86,1486578837,2147483647,A,1800,math,Maduinn,Java 8,310,20582400
+24533891,86,1486577819,2147483647,A,1800,math,Maduinn,Java 8,372,20582400
+24533842,86,1486577680,2147483647,A,1800,math,Maduinn,Java 8,372,20582400
+24533816,86,1486577610,2147483647,A,1800,math,Owowowowowo,Java 8,372,20582400
+24516935,86,1486523922,2147483647,A,1800,math,IMLadyRed,Java 8,280,20582400
+24342967,86,1485951345,2147483647,D,2700,data structures-implementation-math-two pointers,aminul,Java 8,4990,29388800
+24274693,86,1485800442,2147483647,D,2700,data structures-implementation-math-two pointers,aminul,Java 8,4772,29388800
+24100171,86,1485290999,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,2402,28160000
+24100157,86,1485290935,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,3274,28160000
+24100148,86,1485290878,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,3524,27443200
+24100007,86,1485290211,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,3306,27443200
+24099992,86,1485290129,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,3618,27443200
+24099934,86,1485289855,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,3462,27443200
+24087620,86,1485246053,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,4148,27443200
+24085280,86,1485237078,2147483647,D,2700,data structures-implementation-math-two pointers,Aemon,Java 8,4928,27545600
+23389433,86,1482978950,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,3866,27955200
+23352016,86,1482813054,2147483647,D,2700,data structures-implementation-math-two pointers,Aegon,Java 8,2962,37171200
+22033404,86,1478260793,2147483647,D,2700,data structures-implementation-math-two pointers,AJ_Coder,Java 8,4366,13721600
+22033351,86,1478260660,2147483647,D,2700,data structures-implementation-math-two pointers,AJ_Coder,Java 8,4898,13721600
+21830720,86,1477590295,2147483647,D,2700,data structures-implementation-math-two pointers,slicedclementines,Java 8,2650,4710400
+21788283,86,1477464305,2147483647,D,2700,data structures-implementation-math-two pointers,slicedclementines,Java 8,2556,5632000
+21788065,86,1477463259,2147483647,D,2700,data structures-implementation-math-two pointers,slicedclementines,Java 8,3180,30105600
+21787898,86,1477462309,2147483647,D,2700,data structures-implementation-math-two pointers,slicedclementines,Java 8,3150,5529600
+21787835,86,1477461998,2147483647,D,2700,data structures-implementation-math-two pointers,slicedclementines,Java 8,3056,12390400
+21787804,86,1477461788,2147483647,D,2700,data structures-implementation-math-two pointers,slicedclementines,Java 8,4928,15052800
+21787508,86,1477460268,2147483647,D,2700,data structures-implementation-math-two pointers,slicedclementines,Java 8,3244,14336000
+21552978,86,1476742859,2147483647,D,2700,data structures-implementation-math-two pointers,rishus23,Java 8,3618,37580800
+21412422,86,1476391392,2147483647,D,2700,data structures-implementation-math-two pointers,lucasecdb,Java 8,2774,27238400
+20407400,86,1473108780,2147483647,D,2700,data structures-implementation-math-two pointers,Dekacc,Java 8,2962,10956800
+20329001,86,1472755605,2147483647,D,2700,data structures-implementation-math-two pointers,Dekacc,Java 8,3242,14131200
+20168756,86,1472190838,2147483647,E,2600,brute force-math-matrices,AlexFetisov,Java 8,248,20480000
+19765676,86,1470833245,2147483647,D,2700,data structures-implementation-math-two pointers,damien_g,Java 8,3150,52633600
+19558715,86,1470050035,2147483647,D,2700,data structures-implementation-math-two pointers,Imaginary,Java 8,2962,14233600
+19558714,86,1470050034,2147483647,D,2700,data structures-implementation-math-two pointers,Imaginary,Java 8,3742,14233600
+19431856,86,1469584937,2147483647,D,2700,data structures-implementation-math-two pointers,alex20030190,Java 8,4552,5632000
+19421265,86,1469531791,2147483647,D,2700,data structures-implementation-math-two pointers,akshay_miterani,Java 8,4648,10956800
+19160911,86,1468611800,2147483647,D,2700,data structures-implementation-math-two pointers,spencer,Java 8,3180,30105600
+18894309,86,1467701042,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,3274,14848000
+18894290,86,1467700932,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,3306,14848000
+18873771,86,1467587389,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,4396,14848000
+18873745,86,1467587239,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,3648,14848000
+18873378,86,1467583895,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,3588,16588800
+18873199,86,1467582738,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,3026,16588800
+18866900,86,1467545407,2147483647,D,2700,data structures-implementation-math-two pointers,poikniok,Java 8,4054,76083200
+18649188,86,1466610706,2147483647,D,2700,data structures-implementation-math-two pointers,Pavluha,Java 8,4648,5427200
+18648976,86,1466609777,2147483647,D,2700,data structures-implementation-math-two pointers,Pavluha,Java 8,4864,71372800
+18648862,86,1466609268,2147483647,D,2700,data structures-implementation-math-two pointers,Pavluha,Java 8,4928,10752000
+18448704,86,1465900128,2147483647,D,2700,data structures-implementation-math-two pointers,JavaKurious,Java 8,4430,27955200
+17779161,86,1462628892,2147483647,D,2700,data structures-implementation-math-two pointers,baobab,Java 8,2682,29593600
+17712399,86,1462390389,2147483647,D,2700,data structures-implementation-math-two pointers,baobab,Java 8,3212,29696000
+17702689,86,1462308432,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,2402,27443200
+17702678,86,1462308311,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,2650,27443200
+17702674,86,1462308244,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,3492,27443200
+17702658,86,1462307980,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,2588,28057600
+17702645,86,1462307914,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,3898,35123200
+17702642,86,1462307888,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,3866,35225600
+17702620,86,1462307730,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,4898,35225600
+17702606,86,1462307528,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,3430,35328000
+17702551,86,1462306955,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,4928,35328000
+17702498,86,1462306341,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,3462,35123200
+17702363,86,1462305094,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,2338,27340800
+17702303,86,1462304556,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmad_Elsagheer,Java 8,3804,28774400
+17595475,86,1462021828,2147483647,D,2700,data structures-implementation-math-two pointers,i_Love_Jaiman,Java 8,2806,28672000
+17546056,86,1461786304,2147483647,B,2100,constructive algorithms-graph matchings-greedy-math,mikcorer,Java 8,343,27238400
+17077552,86,1459440828,2147483647,D,2700,data structures-implementation-math-two pointers,mikcorer,Java 8,3962,33587200
+16983289,86,1459148513,2147483647,D,2700,data structures-implementation-math-two pointers,hs484,Java 8,4366,48947200
+16535156,86,1457185676,2147483647,D,2700,data structures-implementation-math-two pointers,Musin,Java 8,3992,18329600
+16371144,86,1456523051,2147483647,C,2400,dp-string suffix structures-trees,indy256,Java 8,342,11468800
+16350765,86,1456506163,2147483647,D,2700,data structures-implementation-math-two pointers,UN_CAD,Java 8,2338,3481600
+15971452,86,1455284027,2147483647,D,2700,data structures-implementation-math-two pointers,fmoraes,Java 8,3650,8704000
+15608346,86,1453885543,2147483647,D,2700,data structures-implementation-math-two pointers,whhone,Java 8,4710,18022400
+15604137,86,1453864167,2147483647,D,2700,data structures-implementation-math-two pointers,toohellish,Java 8,2620,14438400
+15592346,86,1453809520,2147483647,D,2700,data structures-implementation-math-two pointers,I_love_Malika,Java 8,4772,2662400
+15575416,86,1453732673,2147483647,D,2700,data structures-implementation-math-two pointers,fetetriste,Java 8,3742,14848000
+15406885,86,1452964749,2147483647,D,2700,data structures-implementation-math-two pointers,joney_000,Java 7,4646,14848000
+15143883,86,1451605748,2147483647,B,2100,constructive algorithms-graph matchings-greedy-math,HappyNewYearMike,Java 7,311,8089600
+14857465,86,1450422025,2147483647,D,2700,data structures-implementation-math-two pointers,dhrumil140396,Java 8,4648,0
+14855687,86,1450400196,2147483647,D,2700,data structures-implementation-math-two pointers,Sumeet.Varma,Java 8,2306,11468800
+14855648,86,1450399233,2147483647,D,2700,data structures-implementation-math-two pointers,Sumeet.Varma,Java 8,4492,11468800
+14027394,86,1446469838,2147483647,D,2700,data structures-implementation-math-two pointers,ambar003,Java 8,4866,19865600
+13255886,86,1443393171,2147483647,D,2700,data structures-implementation-math-two pointers,xiaowuc1,Java 7,4678,512000
+12812517,86,1441183262,2147483647,D,2700,data structures-implementation-math-two pointers,P_Nyagolov,Java 8,3056,34304000
+12706562,86,1440586393,2147483647,D,2700,data structures-implementation-math-two pointers,anandpatel9998,Java 7,3992,1228800
+12482129,86,1439394742,2147483647,D,2700,data structures-implementation-math-two pointers,tamirOK,Java 8,3086,34304000
+12320599,86,1438573956,2147483647,D,2700,data structures-implementation-math-two pointers,alibaba,Java 7,4054,409600
+11999342,86,1436541188,2147483647,D,2700,data structures-implementation-math-two pointers,santa_calus,Java 8,4866,13516800
+11900706,86,1435858818,2147483647,D,2700,data structures-implementation-math-two pointers,HitmanBBa,Java 7,3182,17510400
+11385978,86,1433223034,2147483647,D,2700,data structures-implementation-math-two pointers,p1p13,Java 8,4990,8192000
+11385833,86,1433221755,2147483647,D,2700,data structures-implementation-math-two pointers,p1p13,Java 8,4928,12288000
+11118012,86,1431786840,2147483647,D,2700,data structures-implementation-math-two pointers,peter31415,Java 7,2900,18841600
+11117995,86,1431786671,2147483647,D,2700,data structures-implementation-math-two pointers,peter31415,Java 7,4460,18841600
+11102302,86,1431636252,2147483647,A,1800,math,peter31415,Java 7,154,0
+10668700,86,1428851381,2147483647,D,2700,data structures-implementation-math-two pointers,Sumeet.Varma,Java 7,2682,12083200
+10370996,86,1426878849,2147483647,D,2700,data structures-implementation-math-two pointers,mkirsche,Java 7,4678,15564800
+10306780,86,1426564879,2147483647,D,2700,data structures-implementation-math-two pointers,maitony,Java 7,3242,11468800
+10247258,86,1426163897,2147483647,D,2700,data structures-implementation-math-two pointers,marcose18,Java 7,4834,11468800
+9744010,86,1423305736,2147483647,D,2700,data structures-implementation-math-two pointers,Klein,Java 7,2962,0
+9743998,86,1423305597,2147483647,D,2700,data structures-implementation-math-two pointers,Klein,Java 7,4928,11366400
+9433980,86,1421304243,2147483647,D,2700,data structures-implementation-math-two pointers,k790alex,Java 8,4772,10240000
+9433961,86,1421304079,2147483647,D,2700,data structures-implementation-math-two pointers,k790alex,Java 8,4492,10137600
+9427411,86,1421216596,2147483647,D,2700,data structures-implementation-math-two pointers,k790alex,Java 6,4960,11468800
+9427404,86,1421216560,2147483647,D,2700,data structures-implementation-math-two pointers,k790alex,Java 7,4616,11468800
+9427390,86,1421216459,2147483647,D,2700,data structures-implementation-math-two pointers,k790alex,Java 8,4928,10240000
+9427330,86,1421215965,2147483647,D,2700,data structures-implementation-math-two pointers,k790alex,Java 8,4898,10137600
+9296121,86,1419839123,2147483647,D,2700,data structures-implementation-math-two pointers,saichandu6,Java 8,4616,10137600
+9211106,86,1419112168,2147483647,B,2100,constructive algorithms-graph matchings-greedy-math,AlexFetisov,Java 8,358,0
+9210900,86,1419110257,2147483647,D,2700,data structures-implementation-math-two pointers,AlexFetisov,Java 6,4336,15052800
+9198757,86,1419005216,2147483647,C,2400,dp-string suffix structures-trees,vjudge4,Java 8,374,0
+8672166,86,1415800928,2147483647,D,2700,data structures-implementation-math-two pointers,mashinist,Java 8,4490,2150400
+8672141,86,1415800838,2147483647,D,2700,data structures-implementation-math-two pointers,mashinist,Java 6,4958,26931200
+8672139,86,1415800832,2147483647,D,2700,data structures-implementation-math-two pointers,mashinist,Java 7,4802,26931200
+8248199,86,1413465844,2147483647,C,2400,dp-string suffix structures-trees,vjudge1,Java 6,310,0
+8248178,86,1413465665,2147483647,C,2400,dp-string suffix structures-trees,meijun,Java 6,218,0
+8216792,86,1413195311,2147483647,D,2700,data structures-implementation-math-two pointers,karan173,Java 7,4742,13107200
+8216722,86,1413194680,2147483647,D,2700,data structures-implementation-math-two pointers,karan173,Java 6,4336,12595200
+8216720,86,1413194668,2147483647,D,2700,data structures-implementation-math-two pointers,karan173,Java 8,4896,12288000
+8216714,86,1413194619,2147483647,D,2700,data structures-implementation-math-two pointers,karan173,Java 7,4210,12595200
+8127242,86,1412665375,2147483647,B,2100,constructive algorithms-graph matchings-greedy-math,Nero,Java 7,280,8396800
+7486150,86,1408210197,2147483647,A,1800,math,owenomar,Java 7,218,0
+7253111,86,1406419117,2147483647,C,2400,dp-string suffix structures-trees,AlexFetisov,Java 8,1808,2560000
+6829052,86,1402092105,2147483647,B,2100,constructive algorithms-graph matchings-greedy-math,ralonso,Java 6,218,307200
+6829042,86,1402091683,2147483647,B,2100,constructive algorithms-graph matchings-greedy-math,ralonso,Java 6,202,307200
+6129281,86,1395647163,2147483647,D,2700,data structures-implementation-math-two pointers,Sherlock221B,Java 8,3120,35737600
+6101294,86,1395446657,2147483647,D,2700,data structures-implementation-math-two pointers,PlayLikeNeverB4,Java 7,2868,14336000
+6101286,86,1395446523,2147483647,D,2700,data structures-implementation-math-two pointers,PlayLikeNeverB4,Java 7,2338,14336000
+6066173,86,1395225685,2147483647,C,2400,dp-string suffix structures-trees,indy256,Java 7,278,14438400
+5857255,86,1391179214,2147483647,A,1800,math,marcose18,Java 7,156,102400
+5609670,86,1388742824,2147483647,D,2700,data structures-implementation-math-two pointers,lgsmitty,Java 6,4336,128409600
+5609651,86,1388742472,2147483647,D,2700,data structures-implementation-math-two pointers,lgsmitty,Java 6,4586,128409600
+5609634,86,1388742115,2147483647,D,2700,data structures-implementation-math-two pointers,lgsmitty,Java 6,5990,128307200
+5609620,86,1388741918,2147483647,D,2700,data structures-implementation-math-two pointers,lgsmitty,Java 6,6488,131584000
+5239928,86,1385435139,2147483647,A,1800,math,vvenkai,Java 7,124,0
+5127707,86,1384632209,2147483647,A,1800,math,alibaba,Java 6,186,0
+4714529,86,1381312271,2147483647,A,1800,math,n_ranjbar,Java 7,248,102400
+4639694,86,1380714602,2147483647,A,1800,math,soo,Java 6,186,0
+4207003,86,1375242402,2147483647,A,1800,math,trunghieu11,Java 7,156,0
+3471363,86,1365049244,2147483647,A,1800,math,CurbStomp,Java 7,78,0
+3204355,86,1361998639,2147483647,A,1800,math,Mtntk,Java 6,93,2457600
+3080818,86,1360239259,2147483647,D,2700,data structures-implementation-math-two pointers,m.radwan,Java 6,2718,18636800
+2921984,86,1358106184,2147483647,A,1800,math,KNIGHT0X300,Java 7,93,0
+2755532,86,1355332771,2147483647,A,1800,math,armand2203,Java 6,109,0
+2641668,86,1353851889,2147483647,C,2400,dp-string suffix structures-trees,ahmad_mamdouh,Java 6,343,512000
+2634675,86,1353703230,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmed_Salama,Java 6,4890,13926400
+2634608,86,1353701511,2147483647,D,2700,data structures-implementation-math-two pointers,Ahmed_Salama,Java 6,4984,9523200
+2472815,86,1351662055,2147483647,C,2400,dp-string suffix structures-trees,iensen,Java 6,625,102400
+2415720,86,1350968120,2147483647,D,2700,data structures-implementation-math-two pointers,Slamur,Java 6,3734,9523200
+2415711,86,1350967941,2147483647,D,2700,data structures-implementation-math-two pointers,Slamur,Java 6,4187,9523200
+2413155,86,1350934668,2147483647,D,2700,data structures-implementation-math-two pointers,Slamur,Java 6,3593,9420800
+2413145,86,1350934487,2147483647,D,2700,data structures-implementation-math-two pointers,Slamur,Java 6,3562,9523200
+2263557,86,1348772105,2147483647,A,1800,math,PrivateSub,Java 6,109,0
+2102982,86,1347039987,3387,A,1800,math,Azat_Yusupov,Java 6,93,43212800
+2093765,86,1346701704,2147483647,A,1800,math,HuaNaaFC,Java 6,90,45056000
+1991384,86,1344365297,2147483647,D,2700,data structures-implementation-math-two pointers,wackloner,Java 6,4330,51916800
+1974306,86,1344014592,2147483647,D,2700,data structures-implementation-math-two pointers,mmaxio,Java 7,1980,48332800
+956378,86,1323949046,2147483647,A,1800,math,mostafa_fahim,Java 6,110,43212800
+888708,86,1322116517,16039517,A,1800,math,xiaowuc1,Java 6,110,43110400
+838726,86,1320627865,14550865,A,1800,math,kiko91_7,Java 6,160,43110400
+838723,86,1320627428,14550428,A,1800,math,kiko91_7,Java 6,140,43110400
+812786,86,1319821538,13744538,A,1800,math,psucoder,Java 6,110,35225600
+785042,86,1306078526,1526,A,1800,math,nmacho,Java 6,130,43212800
+759105,86,1318594479,12517479,C,2400,dp-string suffix structures-trees,uwi,Java 6,450,35225600
+635510,86,1314131578,8054578,A,1800,math,Dunaril,Java 6,130,43008000
+625121,86,1313962000,7885000,A,1800,math,Sinner,Java 6,90,34918400
+574250,86,1312144239,6067239,A,1800,math,islam-al-aarag,Java 6,130,43110400
+567631,86,1311793429,5716429,A,1800,math,Oksana,Java 6,130,43110400
+567203,86,1311767140,5690140,A,1800,math,JoKe,Java 6,130,43008000
+565407,86,1311606480,5529480,A,1800,math,kocko,Java 6,90,43008000
+555403,86,1311344284,5267284,A,1800,math,sroyal,Java 6,110,43110400
+528015,86,1309789540,3712540,A,1800,math,Ayisyen,Java 6,90,43008000
+512201,86,1309187928,3110928,A,1800,math,DoublePointer,Java 6,160,43008000
+506562,86,1308666635,2589635,C,2400,dp-string suffix structures-trees,S.Yesipenko,Java 6,160,43212800
+497737,86,1308476265,2399265,C,2400,dp-string suffix structures-trees,SpookyCookie,Java 6,420,43417600
+497705,86,1308474606,2397606,C,2400,dp-string suffix structures-trees,SpookyCookie,Java 6,410,43417600
+477077,86,1307452715,1375715,A,1800,math,devilofaboy,Java 6,110,43417600
+476786,86,1307379818,1302818,A,1800,math,chlupnoha,Java 6,110,43315200
+475184,86,1307112094,1035094,A,1800,math,iamavalon,Java 6,140,43417600
+474100,86,1306947302,870302,D,2700,data structures-implementation-math-two pointers,uwi,Java 6,2970,43622400
+471106,86,1306505572,428572,A,1800,math,marque,Java 6,90,43315200
+469354,86,1306252910,175910,A,1800,math,billionerdv,Java 6,110,35020800
+468990,86,1306223455,146455,D,2700,data structures-implementation-math-two pointers,OgieKako,Java 6,4660,35737600
+468969,86,1306220375,143375,C,2400,dp-string suffix structures-trees,dungcs,Java 6,140,35430400
+468888,86,1306208896,131896,C,2400,dp-string suffix structures-trees,OgieKako,Java 6,140,35532800
+468876,86,1306206899,129899,A,1800,math,dungcs,Java 6,130,35328000
+468477,86,1306162290,85290,D,2700,data structures-implementation-math-two pointers,goo.gl_SsAhv,Java 6,4590,55091200
+468466,86,1306161317,84317,D,2700,data structures-implementation-math-two pointers,goo.gl_SsAhv,Java 6,2950,55091200
+468347,86,1306149491,72491,B,2100,constructive algorithms-graph matchings-greedy-math,OgieKako,Java 6,910,36659200
+468336,86,1306147020,70020,A,1800,math,OgieKako,Java 6,110,35328000
+468228,86,1306138430,61430,B,2100,constructive algorithms-graph matchings-greedy-math,SergeyLazarev,Java 6,160,35430400
+468061,86,1306112110,35110,A,1800,math,Aries512,Java 6,110,34918400
+468059,86,1306111984,34984,A,1800,math,Aries512,Java 6,90,34918400
+468013,86,1306102298,25298,A,1800,math,niyaznigmatul,Java 6,90,34918400
+467914,86,1306095116,18116,E,2600,brute force-math-matrices,cerealguy,Java 6,90,34918400
+467884,86,1306093726,16726,B,2100,constructive algorithms-graph matchings-greedy-math,caustique,Java 6,190,35430400
+467881,86,1306093578,16578,B,2100,constructive algorithms-graph matchings-greedy-math,alexey.enkov,Java 6,830,172646400
+467860,86,1306092044,15044,B,2100,constructive algorithms-graph matchings-greedy-math,uwi,Java 6,610,86425600
+467854,86,1306091854,14854,B,2100,constructive algorithms-graph matchings-greedy-math,uwi,Java 6,580,86425600
+467852,86,1306091808,14808,A,1800,math,caustique,Java 6,110,35020800
+467839,86,1306091240,14240,C,2400,dp-string suffix structures-trees,mmaxio,Java 6,160,35225600
+467829,86,1306090990,13990,B,2100,constructive algorithms-graph matchings-greedy-math,zibada,Java 6,340,92057600
+467690,86,1306086767,9767,C,2400,dp-string suffix structures-trees,cerealguy,Java 6,130,35430400
+467669,86,1306086569,9569,B,2100,constructive algorithms-graph matchings-greedy-math,S.Yesipenko,Java 6,310,89292800
+467634,86,1306086174,9174,C,2400,dp-string suffix structures-trees,wata,Java 6,170,35328000
+467553,86,1306085665,8665,A,1800,math,S.Yesipenko,Java 6,90,35020800
+467424,86,1306084067,7067,B,2100,constructive algorithms-graph matchings-greedy-math,wata,Java 6,700,44441600
+467268,86,1306083524,6524,D,2700,data structures-implementation-math-two pointers,Petr,Java 6,2140,39321600
+467217,86,1306083228,6228,A,1800,math,darnley,Java 6,110,35225600
+467087,86,1306082466,5466,E,2600,brute force-math-matrices,wata,Java 6,110,35225600
+467074,86,1306082407,5407,E,2600,brute force-math-matrices,ivan.metelsky,Java 6,130,35328000
+466991,86,1306081692,4692,C,2400,dp-string suffix structures-trees,darnley,Java 6,130,35328000
+466937,86,1306081273,4273,A,1800,math,RodionGork,Java 6,130,35328000
+466935,86,1306081265,4265,B,2100,constructive algorithms-graph matchings-greedy-math,SpookyCookie,Java 6,450,35532800
+466916,86,1306081143,4143,C,2400,dp-string suffix structures-trees,Petr,Java 6,160,35020800
+466901,86,1306081022,4022,B,2100,constructive algorithms-graph matchings-greedy-math,RodionGork,Java 6,1780,35635200
+466864,86,1306080757,3757,C,2400,dp-string suffix structures-trees,ktuan,Java 6,160,35225600
+466837,86,1306080583,3583,A,1800,math,yiuyuho,Java 6,130,35328000
+466766,86,1306080106,3106,B,2100,constructive algorithms-graph matchings-greedy-math,Narg,Java 6,630,60416000
+466761,86,1306080074,3074,E,2600,brute force-math-matrices,ivan.popelyshev,Java 6,110,35020800
+466748,86,1306080000,3000,E,2600,brute force-math-matrices,Petr,Java 6,110,35020800
+466634,86,1306079342,2342,A,1800,math,Aries512,Java 6,110,34918400
+466632,86,1306079327,2327,B,2100,constructive algorithms-graph matchings-greedy-math,cerealguy,Java 6,340,39321600
+466615,86,1306079217,2217,B,2100,constructive algorithms-graph matchings-greedy-math,ktuan,Java 6,310,35532800
+466606,86,1306079181,2181,C,2400,dp-string suffix structures-trees,ivan.metelsky,Java 6,190,35430400
+466540,86,1306078745,1745,A,1800,math,caustique,Java 6,90,35020800
+466539,86,1306078738,1738,A,1800,math,chavit,Java 6,110,34918400
+466488,86,1306078477,1477,A,1800,math,air,Java 6,90,34918400
+466462,86,1306078363,1363,A,1800,math,SpookyCookie,Java 6,90,34918400
+466449,86,1306078318,1318,A,1800,math,SergeyLazarev,Java 6,90,34918400
+466419,86,1306078178,1178,A,1800,math,yarrr,Java 6,90,34918400
+466414,86,1306078139,1139,A,1800,math,Di735,Java 6,90,35020800
+466409,86,1306078117,1117,A,1800,math,Dumpty,Java 6,90,35123200
+466389,86,1306078040,1040,A,1800,math,pius_88,Java 6,110,34918400
+466382,86,1306078028,1028,A,1800,math,ktuan,Java 6,110,35123200
+466344,86,1306077920,920,A,1800,math,hydrastuff,Java 6,90,34918400
+466304,86,1306077801,801,A,1800,math,cerealguy,Java 6,90,34918400
+466269,86,1306077666,666,A,1800,math,uwi,Java 6,110,35225600
+466240,86,1306077579,579,A,1800,math,alexey.enkov,Java 6,90,35123200
+466233,86,1306077553,553,A,1800,math,mmaxio,Java 6,110,34918400
+466230,86,1306077545,545,A,1800,math,Alexus,Java 6,130,35225600
+466228,86,1306077543,543,A,1800,math,Sammarize,Java 6,90,34918400
+466209,86,1306077455,455,A,1800,math,wata,Java 6,110,35225600
+466207,86,1306077449,449,A,1800,math,Narg,Java 6,110,35020800
+466205,86,1306077445,445,A,1800,math,ivan.popelyshev,Java 6,90,35020800
+466201,86,1306077425,425,A,1800,math,nbarshay,Java 6,130,35225600
+466190,86,1306077318,318,A,1800,math,Petr,Java 6,110,35020800
+466189,86,1306077304,304,A,1800,math,ivan.metelsky,Java 6,110,35328000

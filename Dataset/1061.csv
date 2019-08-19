@@ -1,0 +1,967 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57702959,1061,1563993435,2147483647,B,1500,greedy-implementation-sortings,hasan5788,Java 8,155,0,OK
+57566493,1061,1563851439,2147483647,A,800,greedy-implementation-math,vvenkai,Java 8,124,0,OK
+57472342,1061,1563735248,2147483647,C,1700,data structures-dp-implementation-math-number theory,Blastman,Java 8,1871,154316800,OK
+57470687,1061,1563732028,2147483647,C,1700,data structures-dp-implementation-math-number theory,Blastman,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+57249157,1061,1563398335,54,A,800,greedy-implementation-math,zekigurbuz,Java 8,124,0,OK
+57061724,1061,1563128656,2147483647,A,800,greedy-implementation-math,vjudge5,Java 8,1201,0,OK
+57051410,1061,1563121347,2147483647,A,800,greedy-implementation-math,Uali,Java 8,140,0,OK
+56816828,1061,1562787863,2147483647,A,800,greedy-implementation-math,SupremeCoding,Java 8,140,0,OK
+56779294,1061,1562735808,2147483647,A,800,greedy-implementation-math,priyadesai12,Java 8,140,0,OK
+56779061,1061,1562735154,2147483647,A,800,greedy-implementation-math,priyadesai12,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+56769551,1061,1562704452,2147483647,A,800,greedy-implementation-math,ujjwalsingh30,Java 8,109,0,OK
+56755482,1061,1562679709,2147483647,A,800,greedy-implementation-math,vjudge4,Java 8,1185,0,OK
+56718657,1061,1562600525,2147483647,B,1500,greedy-implementation-sortings,TheSawan,Java 8,171,2048000,OK
+56712081,1061,1562591158,2147483647,C,1700,data structures-dp-implementation-math-number theory,adeepgarg13,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+56710126,1061,1562588855,2147483647,D,2000,data structures-greedy-implementation-sortings,adeepgarg13,Java 8,343,4812800,OK
+56706521,1061,1562584566,2147483647,D,2000,data structures-greedy-implementation-sortings,adeepgarg13,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+56706168,1061,1562584163,2147483647,D,2000,data structures-greedy-implementation-sortings,adeepgarg13,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+56705688,1061,1562583586,2147483647,D,2000,data structures-greedy-implementation-sortings,adeepgarg13,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+56705397,1061,1562583221,2147483647,D,2000,data structures-greedy-implementation-sortings,adeepgarg13,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+56702480,1061,1562579175,2147483647,B,1500,greedy-implementation-sortings,adeepgarg13,Java 8,170,6451200,OK
+56701883,1061,1562578100,2147483647,A,800,greedy-implementation-math,adeepgarg13,Java 8,109,0,OK
+56674890,1061,1562511463,2147483647,A,800,greedy-implementation-math,hanamagdy,Java 8,1200,0,OK
+56638966,1061,1562453054,2147483647,B,1500,greedy-implementation-sortings,Hemose,Java 8,156,2048000,OK
+56606037,1061,1562388141,2147483647,B,1500,greedy-implementation-sortings,MubtasimShahriar,Java 8,171,2048000,OK
+56554732,1061,1562327354,2147483647,A,800,greedy-implementation-math,waleed_reda,Java 8,140,0,OK
+56537230,1061,1562292318,4517,C,1700,data structures-dp-implementation-math-number theory,Java,Java 8,1902,157388800,OK
+56536655,1061,1562290484,2684,B,1500,greedy-implementation-sortings,Java,Java 8,171,2048000,OK
+56536079,1061,1562288022,222,A,800,greedy-implementation-math,Java,Java 8,109,0,OK
+56484513,1061,1562175739,2147483647,A,800,greedy-implementation-math,hardikkumar.katakiya,Java 8,187,0,OK
+56426076,1061,1562060500,2147483647,A,800,greedy-implementation-math,kirill_zubkov,Java 8,140,0,OK
+56390585,1061,1561983856,2147483647,A,800,greedy-implementation-math,Momen1999,Java 8,1044,0,OK
+56189651,1061,1561704718,2147483647,C,1700,data structures-dp-implementation-math-number theory,nagabhushan,Java 8,3000,164659200,TIME_LIMIT_EXCEEDED
+56189526,1061,1561704483,2147483647,C,1700,data structures-dp-implementation-math-number theory,nagabhushan,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+56189395,1061,1561704264,2147483647,C,1700,data structures-dp-implementation-math-number theory,nagabhushan,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+56162111,1061,1561639549,2147483647,C,1700,data structures-dp-implementation-math-number theory,Hemose,Java 8,1559,135372800,OK
+56160790,1061,1561637693,2147483647,C,1700,data structures-dp-implementation-math-number theory,Hemose,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+56041103,1061,1561472576,2147483647,B,1500,greedy-implementation-sortings,Bhavya_Arora,Java 8,124,0,OK
+56022494,1061,1561438016,2147483647,A,800,greedy-implementation-math,Bhavya_Arora,Java 8,140,0,OK
+56000304,1061,1561380182,2147483647,A,800,greedy-implementation-math,gnanipasupula,Java 8,1091,0,OK
+55974568,1061,1561308172,2147483647,A,800,greedy-implementation-math,beykus,Java 8,139,0,OK
+55834417,1061,1561041551,251,A,800,greedy-implementation-math,rishisharma__,Java 8,1856,0,OK
+55834365,1061,1561041492,192,A,800,greedy-implementation-math,rishisharma__,Java 8,1106,0,OK
+55608770,1061,1560656794,2434,B,1500,greedy-implementation-sortings,shikhart98,Java 8,311,0,OK
+55608253,1061,1560654856,496,A,800,greedy-implementation-math,shikhart98,Java 8,124,0,OK
+55518832,1061,1560410030,2147483647,B,1500,greedy-implementation-sortings,zmurzagaliev,Java 8,140,2457600,OK
+55197621,1061,1559812326,2147483647,C,1700,data structures-dp-implementation-math-number theory,Kadys,Java 8,1746,6553600,OK
+55196659,1061,1559810839,2147483647,C,1700,data structures-dp-implementation-math-number theory,Kadys,Java 8,3000,6553600,TIME_LIMIT_EXCEEDED
+55192718,1061,1559804949,369,A,800,greedy-implementation-math,abhinavverma,Java 8,124,0,OK
+54992274,1061,1559504516,2147483647,C,1700,data structures-dp-implementation-math-number theory,hasan5788,Java 8,2246,0,OK
+54940548,1061,1559405809,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,259276800,TIME_LIMIT_EXCEEDED
+54940198,1061,1559405694,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,2604,206233600,OK
+54938860,1061,1559405279,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,2620,248217600,OK
+54938269,1061,1559405088,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,259174400,TIME_LIMIT_EXCEEDED
+54938054,1061,1559405021,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,259276800,TIME_LIMIT_EXCEEDED
+54936533,1061,1559404556,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,259174400,TIME_LIMIT_EXCEEDED
+54930974,1061,1559402938,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,259481600,TIME_LIMIT_EXCEEDED
+54929593,1061,1559402565,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,259481600,TIME_LIMIT_EXCEEDED
+54898760,1061,1559365973,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+54897463,1061,1559361730,2147483647,C,1700,data structures-dp-implementation-math-number theory,O_E,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+54667831,1061,1558880783,2147483647,A,800,greedy-implementation-math,hctep,Java 8,140,0,OK
+54495234,1061,1558545867,147,A,800,greedy-implementation-math,spk,Java 8,109,0,OK
+54145411,1061,1557861752,2147483647,A,800,greedy-implementation-math,neeraj.behera,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+54063395,1061,1557749796,2147483647,C,1700,data structures-dp-implementation-math-number theory,Sasuke-u,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+53703365,1061,1556884360,2147483647,B,1500,greedy-implementation-sortings,Ziklon,Java 8,124,0,OK
+53702724,1061,1556882968,2147483647,A,800,greedy-implementation-math,Ziklon,Java 8,452,0,OK
+53274656,1061,1556181708,2147483647,A,800,greedy-implementation-math,Joemel,Java 8,155,0,OK
+53048452,1061,1555766657,2147483647,B,1500,greedy-implementation-sortings,kostasanemozalis,Java 8,140,2457600,OK
+53039979,1061,1555751860,99,A,800,greedy-implementation-math,kostasanemozalis,Java 8,124,0,OK
+53027997,1061,1555705877,2147483647,C,1700,data structures-dp-implementation-math-number theory,XtatSam,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+53027130,1061,1555703777,2147483647,C,1700,data structures-dp-implementation-math-number theory,QuentinMuller,Java 8,1544,138547200,OK
+53026776,1061,1555702914,2147483647,A,800,greedy-implementation-math,XtatSam,Java 8,139,0,OK
+53026425,1061,1555702129,2147483647,B,1500,greedy-implementation-sortings,QuentinMuller,Java 8,295,0,OK
+53025615,1061,1555700222,2147483647,A,800,greedy-implementation-math,lalchan123,Java 8,655,0,OK
+53025383,1061,1555699707,2147483647,A,800,greedy-implementation-math,XtatSam,Java 8,639,0,OK
+53025313,1061,1555699544,2147483647,A,800,greedy-implementation-math,Pintorsmia,Java 8,1965,0,OK
+52559087,1061,1554888057,2147483647,B,1500,greedy-implementation-sortings,jonycse04,Java 8,265,0,OK
+52555793,1061,1554882112,2147483647,B,1500,greedy-implementation-sortings,jonycse04,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+52514532,1061,1554782337,2147483647,A,800,greedy-implementation-math,vivek_23,Java 8,124,0,OK
+52480582,1061,1554700067,2147483647,F,2400,interactive-probabilities,xodiac,Java 8,623,0,OK
+52480554,1061,1554699940,2147483647,F,2400,interactive-probabilities,xodiac,Java 8,436,0,OK
+52356131,1061,1554483361,2147483647,A,800,greedy-implementation-math,vjudge3,Java 8,140,0,OK
+52335300,1061,1554449950,2147483647,D,2000,data structures-greedy-implementation-sortings,xodiac,Java 8,748,84684800,OK
+52331155,1061,1554441731,5231,C,1700,data structures-dp-implementation-math-number theory,xodiac,Java 8,889,15360000,OK
+52330224,1061,1554439405,2905,B,1500,greedy-implementation-sortings,xodiac,Java 8,140,0,OK
+52329286,1061,1554436713,213,A,800,greedy-implementation-math,xodiac,Java 8,124,0,OK
+52284410,1061,1554317567,2147483647,A,800,greedy-implementation-math,bondry,Java 8,109,0,OK
+52246138,1061,1554232272,2147483647,A,800,greedy-implementation-math,algo3rythm,Java 8,140,0,OK
+52201260,1061,1554137634,2147483647,C,1700,data structures-dp-implementation-math-number theory,SolomonWHG,Java 8,967,0,OK
+52166969,1061,1554132540,2147483647,C,1700,data structures-dp-implementation-math-number theory,SolomonWHG,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+52015721,1061,1553941758,2147483647,B,1500,greedy-implementation-sortings,O_E,Java 8,156,2457600,OK
+51916418,1061,1553725207,2147483647,B,1500,greedy-implementation-sortings,tqsx,Java 8,280,0,OK
+51879246,1061,1553637883,2147483647,A,800,greedy-implementation-math,tqsx,Java 8,156,0,OK
+51684977,1061,1553263918,2147483647,B,1500,greedy-implementation-sortings,ajaytank,Java 8,140,2355200,OK
+51680464,1061,1553257600,2147483647,A,800,greedy-implementation-math,ajaytank,Java 8,108,0,OK
+51623503,1061,1553182295,2147483647,A,800,greedy-implementation-math,satya26,Java 8,124,0,OK
+51608868,1061,1553159263,2147483647,C,1700,data structures-dp-implementation-math-number theory,aman28rwt,Java 8,1637,137420800,OK
+51596905,1061,1553122962,2147483647,A,800,greedy-implementation-math,Harbin,Java 8,124,0,OK
+51487529,1061,1553004687,2147483647,A,800,greedy-implementation-math,ayonshafiul,Java 8,140,0,OK
+51381187,1061,1552753259,2147483647,A,800,greedy-implementation-math,Yukimoto,Java 8,124,0,OK
+51315275,1061,1552605404,2147483647,E,2800,flows-graphs,sweiss,Java 8,186,0,OK
+51298002,1061,1552569089,2147483647,A,800,greedy-implementation-math,pulkitaggarwal65,Java 8,140,0,OK
+51227846,1061,1552402377,2147483647,F,2400,interactive-probabilities,sweiss,Java 8,841,0,OK
+51074390,1061,1552121648,2147483647,A,800,greedy-implementation-math,darshan287,Java 8,124,0,OK
+51028697,1061,1552048919,2147483647,A,800,greedy-implementation-math,vjudge2,Java 8,140,0,OK
+50733341,1061,1551613808,2147483647,A,800,greedy-implementation-math,Breaking_Benjamin,Java 8,124,0,OK
+50730089,1061,1551610837,2147483647,A,800,greedy-implementation-math,batkhuyag,Java 8,140,0,OK
+50633566,1061,1551436447,2147483647,A,800,greedy-implementation-math,goalboy,Java 8,140,0,OK
+50520114,1061,1551171369,2147483647,C,1700,data structures-dp-implementation-math-number theory,mikkk,Java 8,826,61440000,OK
+50519946,1061,1551171090,2147483647,C,1700,data structures-dp-implementation-math-number theory,mikkk,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+50509987,1061,1551135308,2147483647,A,800,greedy-implementation-math,vjudge1,Java 8,140,0,OK
+50318370,1061,1550841592,2147483647,A,800,greedy-implementation-math,vjudge2,Java 8,139,0,OK
+50293750,1061,1550775669,2147483647,A,800,greedy-implementation-math,stormborn,Java 8,140,0,OK
+50282807,1061,1550755779,2147483647,B,1500,greedy-implementation-sortings,mikkk,Java 8,155,2355200,OK
+50216401,1061,1550638503,2147483647,C,1700,data structures-dp-implementation-math-number theory,KamelSamara,Java 8,1684,614400,OK
+50162551,1061,1550582106,2147483647,A,800,greedy-implementation-math,newheathen,Java 8,124,0,OK
+49991213,1061,1550321746,2147483647,C,1700,data structures-dp-implementation-math-number theory,krit_patel,Java 8,2043,8806400,OK
+49982742,1061,1550307718,2147483647,C,1700,data structures-dp-implementation-math-number theory,vjudge1,Java 8,717,0,OK
+49971895,1061,1550285613,2147483647,B,1500,greedy-implementation-sortings,vjudge2,Java 8,265,0,OK
+49971890,1061,1550285583,2147483647,B,1500,greedy-implementation-sortings,codeforceless,Java 8,280,0,OK
+49970951,1061,1550282779,2147483647,A,800,greedy-implementation-math,vjudge1,Java 8,140,0,OK
+49970880,1061,1550282634,2147483647,A,800,greedy-implementation-math,codeforceless,Java 8,140,0,OK
+49920924,1061,1550170128,2147483647,A,800,greedy-implementation-math,ravii_1996,Java 8,140,0,OK
+49920007,1061,1550168346,2147483647,A,800,greedy-implementation-math,swapnil9090,Java 8,139,0,OK
+49919838,1061,1550168017,2147483647,B,1500,greedy-implementation-sortings,swapnil9090,Java 8,265,0,OK
+49900196,1061,1550134655,2147483647,A,800,greedy-implementation-math,KaungKhantThar,Java 8,140,0,OK
+49883834,1061,1550087146,2147483647,B,1500,greedy-implementation-sortings,krit_patel,Java 8,155,5529600,OK
+49751838,1061,1549855300,2147483647,A,800,greedy-implementation-math,Quan2202,Java 8,140,0,OK
+49689332,1061,1549793439,2147483647,C,1700,data structures-dp-implementation-math-number theory,satya26,Java 8,1902,147456000,OK
+49689120,1061,1549792915,2147483647,C,1700,data structures-dp-implementation-math-number theory,satya26,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+49688453,1061,1549791520,2147483647,C,1700,data structures-dp-implementation-math-number theory,satya26,Java 8,3000,9523200,TIME_LIMIT_EXCEEDED
+49658688,1061,1549711078,2147483647,A,800,greedy-implementation-math,WeedWizard,Java 8,140,0,OK
+49542828,1061,1549481640,2147483647,C,1700,data structures-dp-implementation-math-number theory,typedef_2000,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+49542607,1061,1549481099,2147483647,C,1700,data structures-dp-implementation-math-number theory,typedef_2000,Java 8,3000,7475200,TIME_LIMIT_EXCEEDED
+49542300,1061,1549480416,2147483647,C,1700,data structures-dp-implementation-math-number theory,typedef_2000,Java 8,3000,7475200,TIME_LIMIT_EXCEEDED
+49537927,1061,1549471947,2147483647,A,800,greedy-implementation-math,41ic3,Java 8,530,0,OK
+49533093,1061,1549463993,2147483647,B,1500,greedy-implementation-sortings,Vishal_dhanani,Java 8,265,0,OK
+49508870,1061,1549393240,2147483647,A,800,greedy-implementation-math,Vishal_dhanani,Java 8,140,0,OK
+49489110,1061,1549355189,2147483647,A,800,greedy-implementation-math,Pz99,Java 8,140,0,OK
+49222790,1061,1548878936,2147483647,A,800,greedy-implementation-math,ashcodish,Java 8,139,0,OK
+49168574,1061,1548782356,2147483647,B,1500,greedy-implementation-sortings,YousseF_Diaa,Java 8,155,8396800,OK
+49132500,1061,1548740114,2147483647,A,800,greedy-implementation-math,YousseF_Diaa,Java 8,109,0,OK
+49076986,1061,1548648501,2147483647,A,800,greedy-implementation-math,Krukrukruzhka,Java 8,155,0,OK
+49055926,1061,1548595104,2147483647,A,800,greedy-implementation-math,DavidVictor2004,Java 8,155,0,OK
+48993567,1061,1548516735,2147483647,B,1500,greedy-implementation-sortings,benpr99,Java 8,155,2355200,OK
+48890391,1061,1548337863,2147483647,B,1500,greedy-implementation-sortings,Leks360,Java 8,280,0,OK
+48883478,1061,1548328987,2147483647,A,800,greedy-implementation-math,kaloosh,Java 8,140,0,OK
+48880079,1061,1548323542,2147483647,A,800,greedy-implementation-math,Rafid_Shad,Java 8,140,0,OK
+48880074,1061,1548323532,2147483647,A,800,greedy-implementation-math,Leks360,Java 8,140,0,OK
+48850789,1061,1548263141,2147483647,A,800,greedy-implementation-math,sundarcj,Java 8,373,0,OK
+48686395,1061,1548084648,2147483647,B,1500,greedy-implementation-sortings,vishal.a.burman23,Java 8,140,0,OK
+48572823,1061,1547901863,2147483647,B,1500,greedy-implementation-sortings,jatin.jain9414,Java 8,264,0,OK
+48545875,1061,1547839778,2147483647,B,1500,greedy-implementation-sortings,jatin.jain9414,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48532372,1061,1547814978,2147483647,C,1700,data structures-dp-implementation-math-number theory,tusharjape007,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48532242,1061,1547814786,2147483647,C,1700,data structures-dp-implementation-math-number theory,tusharjape007,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48532194,1061,1547814701,2147483647,C,1700,data structures-dp-implementation-math-number theory,tusharjape007,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48531324,1061,1547813051,2147483647,C,1700,data structures-dp-implementation-math-number theory,tusharjape007,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48530928,1061,1547812274,2147483647,B,1500,greedy-implementation-sortings,tusharjape007,Java 8,124,0,OK
+48519272,1061,1547791273,2147483647,E,2800,flows-graphs,beobeo,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+48519013,1061,1547790908,2147483647,E,2800,flows-graphs,beobeo,Java 8,202,0,OK
+48518933,1061,1547790788,2147483647,E,2800,flows-graphs,beobeo,Java 8,4000,22118400,TIME_LIMIT_EXCEEDED
+48518154,1061,1547789739,2147483647,E,2800,flows-graphs,beobeo,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+48517821,1061,1547789211,2147483647,E,2800,flows-graphs,beobeo,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+48517776,1061,1547789137,2147483647,E,2800,flows-graphs,beobeo,Java 8,187,0,OK
+48517729,1061,1547789040,2147483647,E,2800,flows-graphs,beobeo,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+48509180,1061,1547753451,2147483647,B,1500,greedy-implementation-sortings,dmytro.prytula,Java 8,187,3276800,OK
+48503425,1061,1547742176,176,A,800,greedy-implementation-math,dmytro.prytula,Java 8,124,0,OK
+48487013,1061,1547715098,2147483647,A,800,greedy-implementation-math,JoshuaAvila,Java 8,140,0,OK
+48450689,1061,1547633474,2147483647,A,800,greedy-implementation-math,jatin.jain9414,Java 8,140,0,OK
+48450674,1061,1547633442,2147483647,A,800,greedy-implementation-math,gaurav.gk5826,Java 8,124,0,OK
+48386751,1061,1547472448,2147483647,A,800,greedy-implementation-math,danny2019,Java 8,171,0,OK
+48306251,1061,1547323281,2147483647,A,800,greedy-implementation-math,HinataHyuga,Java 8,124,0,OK
+48275366,1061,1547270611,2147483647,A,800,greedy-implementation-math,hemantjain759,Java 8,685,0,OK
+48110535,1061,1547024989,2147483647,F,2400,interactive-probabilities,donli,Java 8,716,0,OK
+48110452,1061,1547024764,2147483647,F,2400,interactive-probabilities,donli,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48086162,1061,1546946839,2147483647,D,2000,data structures-greedy-implementation-sortings,amolpratap007,Java 8,218,0,OK
+48082623,1061,1546938028,2147483647,D,2000,data structures-greedy-implementation-sortings,amolpratap007,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48080628,1061,1546932774,2147483647,B,1500,greedy-implementation-sortings,amolpratap007,Java 8,140,0,OK
+48065385,1061,1546883332,2147483647,A,800,greedy-implementation-math,hari05,Java 8,670,0,OK
+48058958,1061,1546869486,2147483647,C,1700,data structures-dp-implementation-math-number theory,amolpratap007,Java 8,1450,75366400,OK
+48058814,1061,1546869209,2147483647,C,1700,data structures-dp-implementation-math-number theory,amolpratap007,Java 8,3000,259174400,TIME_LIMIT_EXCEEDED
+48052477,1061,1546855492,2147483647,E,2800,flows-graphs,donli,Java 8,124,0,OK
+48031200,1061,1546777870,2147483647,A,800,greedy-implementation-math,amolpratap007,Java 8,109,0,OK
+48019846,1061,1546749192,2147483647,A,800,greedy-implementation-math,grindthecode,Java 8,140,0,OK
+48018999,1061,1546745272,2147483647,A,800,greedy-implementation-math,I.A.K.O.V,Java 8,124,0,OK
+47999164,1061,1546710941,2147483647,A,800,greedy-implementation-math,ayushkesarwani1000,Java 8,140,0,OK
+47893218,1061,1546590197,2147483647,D,2000,data structures-greedy-implementation-sortings,donli,Java 8,233,0,OK
+47893194,1061,1546590137,2147483647,A,800,greedy-implementation-math,adityakolla,Java 8,935,0,OK
+47892114,1061,1546587114,2147483647,B,1500,greedy-implementation-sortings,Kavi.Prajapati,Java 8,140,2355200,OK
+47891225,1061,1546584235,2147483647,A,800,greedy-implementation-math,Kavi.Prajapati,Java 8,389,0,OK
+47876513,1061,1546530236,2147483647,C,1700,data structures-dp-implementation-math-number theory,kunalk,Java 8,3000,259276800,TIME_LIMIT_EXCEEDED
+47872765,1061,1546523137,2147483647,C,1700,data structures-dp-implementation-math-number theory,donli,Java 8,1512,149913600,OK
+47864922,1061,1546506217,2147483647,D,2000,data structures-greedy-implementation-sortings,donli,Java 8,265,5017600,OK
+47863650,1061,1546502846,2147483647,C,1700,data structures-dp-implementation-math-number theory,donli,Java 8,1559,150016000,OK
+47862239,1061,1546498904,2147483647,B,1500,greedy-implementation-sortings,donli,Java 8,155,2355200,OK
+47858934,1061,1546487094,2147483647,B,1500,greedy-implementation-sortings,donli,Java 8,156,2355200,OK
+47857896,1061,1546480871,2147483647,A,800,greedy-implementation-math,donli,Java 8,109,0,OK
+47841423,1061,1546431131,2147483647,B,1500,greedy-implementation-sortings,remyels,Java 8,186,0,OK
+47840738,1061,1546429586,2147483647,A,800,greedy-implementation-math,remyels,Java 8,139,0,OK
+47826425,1061,1546387060,2147483647,C,1700,data structures-dp-implementation-math-number theory,Ahmed_Diab,Java 8,2870,258867200,OK
+47813925,1061,1546348285,85,A,800,greedy-implementation-math,Ahmed_Diab,Java 8,109,0,OK
+47801545,1061,1546300604,2147483647,D,2000,data structures-greedy-implementation-sortings,benpr99,Java 8,311,3379200,OK
+47798041,1061,1546282580,2147483647,C,1700,data structures-dp-implementation-math-number theory,benpr99,Java 8,2230,7577600,OK
+47793184,1061,1546267734,2147483647,A,800,greedy-implementation-math,vjudge4,Java 8,124,0,OK
+47793154,1061,1546267635,2147483647,A,800,greedy-implementation-math,vjudge2,Java 8,124,0,OK
+47793128,1061,1546267594,2147483647,A,800,greedy-implementation-math,vjudge1,Java 8,124,0,OK
+47786877,1061,1546254733,2147483647,A,800,greedy-implementation-math,corechirag,Java 8,140,0,OK
+47693794,1061,1546098682,2147483647,A,800,greedy-implementation-math,palakmjn,Java 8,124,0,OK
+47686810,1061,1546096549,2147483647,B,1500,greedy-implementation-sortings,palakmjn,Java 8,155,2457600,OK
+47671301,1061,1546063898,2147483647,A,800,greedy-implementation-math,shubhammitt,Java 8,140,0,OK
+47603252,1061,1545962834,2147483647,B,1500,greedy-implementation-sortings,S010M,Java 8,140,2867200,OK
+47602801,1061,1545960299,2147483647,A,800,greedy-implementation-math,S010M,Java 8,124,0,OK
+47539296,1061,1545889499,2147483647,A,800,greedy-implementation-math,hiildaa,Java 8,124,0,OK
+47532696,1061,1545856681,2147483647,E,2800,flows-graphs,sweiss,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47528978,1061,1545845927,2147483647,E,2800,flows-graphs,sweiss,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47528819,1061,1545845598,2147483647,E,2800,flows-graphs,sweiss,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47528729,1061,1545845424,2147483647,E,2800,flows-graphs,sweiss,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+47524062,1061,1545835705,2147483647,A,800,greedy-implementation-math,jain.charitra24,Java 8,109,0,OK
+47505589,1061,1545778351,4951,D,2000,data structures-greedy-implementation-sortings,sweiss,Java 8,280,0,OK
+47505129,1061,1545774599,1199,B,1500,greedy-implementation-sortings,sweiss,Java 8,155,2457600,OK
+47505003,1061,1545773724,324,A,800,greedy-implementation-math,sweiss,Java 8,109,0,OK
+47374717,1061,1545496106,2147483647,B,1500,greedy-implementation-sortings,vivekiitian,Java 8,265,0,OK
+47360619,1061,1545467533,2147483647,A,800,greedy-implementation-math,archit1jain,Java 8,140,0,OK
+47357866,1061,1545462616,2147483647,A,800,greedy-implementation-math,MeGoooO,Java 8,139,0,OK
+47327822,1061,1545391289,2147483647,A,800,greedy-implementation-math,RabihJJ,Java 8,139,0,OK
+47300419,1061,1545314254,2147483647,C,1700,data structures-dp-implementation-math-number theory,saurabh0611,Java 8,3000,259379200,TIME_LIMIT_EXCEEDED
+47261426,1061,1545222707,2147483647,A,800,greedy-implementation-math,Hazard10,Java 8,436,0,OK
+47230357,1061,1545155482,2147483647,C,1700,data structures-dp-implementation-math-number theory,kusomushi,Java 8,560,29081600,OK
+47230248,1061,1545155281,2147483647,C,1700,data structures-dp-implementation-math-number theory,kusomushi,Java 8,1216,1945600,OK
+47082282,1061,1544907382,2147483647,A,800,greedy-implementation-math,Mohammad_Hasan,Java 8,155,0,OK
+47074039,1061,1544892139,2147483647,B,1500,greedy-implementation-sortings,Tardimgg,Java 8,155,6246400,OK
+47038573,1061,1544880826,2147483647,B,1500,greedy-implementation-sortings,Tardimgg,Java 8,202,6246400,OK
+47038196,1061,1544880227,2147483647,B,1500,greedy-implementation-sortings,Tardimgg,Java 8,156,6451200,OK
+47038139,1061,1544880141,2147483647,B,1500,greedy-implementation-sortings,Tardimgg,Java 8,187,6246400,OK
+47034795,1061,1544874196,2147483647,A,800,greedy-implementation-math,laxmichandana,Java 8,686,0,OK
+47006414,1061,1544796525,2147483647,B,1500,greedy-implementation-sortings,kumarmonu0522,Java 8,280,0,OK
+46978681,1061,1544724866,2147483647,D,2000,data structures-greedy-implementation-sortings,boltUsain,Java 8,327,5427200,OK
+46953937,1061,1544662072,2147483647,A,800,greedy-implementation-math,roninlaw,Java 8,109,0,OK
+46938755,1061,1544627884,2147483647,C,1700,data structures-dp-implementation-math-number theory,boltUsain,Java 8,1809,0,OK
+46899584,1061,1544526907,2147483647,B,1500,greedy-implementation-sortings,abhi2601,Java 8,124,0,OK
+46894333,1061,1544516278,2147483647,A,800,greedy-implementation-math,abhi2601,Java 8,109,0,OK
+46887531,1061,1544495951,2147483647,B,1500,greedy-implementation-sortings,AMOOOMA,Java 8,295,0,OK
+46880123,1061,1544469362,2147483647,A,800,greedy-implementation-math,0Maher0,Java 8,1372,0,OK
+46838760,1061,1544420734,2147483647,A,800,greedy-implementation-math,AMOOOMA,Java 8,140,0,OK
+46822743,1061,1544372438,2147483647,B,1500,greedy-implementation-sortings,aschugunov,Java 8,155,2355200,OK
+46802472,1061,1544350868,2147483647,A,800,greedy-implementation-math,CharlesDai,Java 8,109,0,OK
+46781252,1061,1544323247,2147483647,A,800,greedy-implementation-math,praveenkulkarni,Java 8,139,0,OK
+46773056,1061,1544292599,2147483647,A,800,greedy-implementation-math,rishabh101,Java 8,124,0,OK
+46738151,1061,1544219879,2147483647,E,2800,flows-graphs,PrakharJain,Java 8,217,17100800,OK
+46736876,1061,1544215150,2147483647,A,800,greedy-implementation-math,ahmedTuring1,Java 8,124,0,OK
+46730105,1061,1544202100,2147483647,C,1700,data structures-dp-implementation-math-number theory,coder1996,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46707151,1061,1544169277,2147483647,A,800,greedy-implementation-math,dyominov,Java 8,109,0,OK
+46702618,1061,1544156654,2147483647,A,800,greedy-implementation-math,coder1996,Java 8,140,0,OK
+46692238,1061,1544116645,2147483647,B,1500,greedy-implementation-sortings,sn1pejkeee,Java 8,265,0,OK
+46668613,1061,1544071642,2147483647,A,800,greedy-implementation-math,tn1998,Java 8,639,0,OK
+46668320,1061,1544070616,2147483647,B,1500,greedy-implementation-sortings,tchenn,Java 8,280,0,OK
+46657556,1061,1544029913,2147483647,B,1500,greedy-implementation-sortings,bhautik_77,Java 8,124,0,OK
+46657267,1061,1544029320,2147483647,A,800,greedy-implementation-math,sn1pejkeee,Java 8,140,0,OK
+46638816,1061,1543998370,2147483647,A,800,greedy-implementation-math,maf_uu,Java 8,140,0,OK
+46638704,1061,1543998180,2147483647,A,800,greedy-implementation-math,maf_uu,Java 8,140,0,OK
+46625447,1061,1543955328,2147483647,A,800,greedy-implementation-math,aschugunov,Java 8,109,0,OK
+46619306,1061,1543941863,2147483647,A,800,greedy-implementation-math,arashmehraabi,Java 8,155,0,OK
+46582169,1061,1543923664,2147483647,D,2000,data structures-greedy-implementation-sortings,AJ47,Java 8,249,0,OK
+46565831,1061,1543878160,2147483647,A,800,greedy-implementation-math,bdomokos,Java 8,140,0,OK
+46565756,1061,1543877509,2147483647,A,800,greedy-implementation-math,enricogi,Java 8,140,0,OK
+46564910,1061,1543872848,2147483647,C,1700,data structures-dp-implementation-math-number theory,akash6019,Java 8,857,76697600,OK
+46564759,1061,1543872124,2147483647,C,1700,data structures-dp-implementation-math-number theory,akash6019,Java 8,1606,70656000,OK
+46564604,1061,1543871540,2147483647,C,1700,data structures-dp-implementation-math-number theory,akash6019,Java 8,3000,234496000,TIME_LIMIT_EXCEEDED
+46564194,1061,1543869940,2147483647,C,1700,data structures-dp-implementation-math-number theory,akash6019,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+46564140,1061,1543869777,2147483647,C,1700,data structures-dp-implementation-math-number theory,akash6019,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+46564089,1061,1543869605,2147483647,C,1700,data structures-dp-implementation-math-number theory,akash6019,Java 8,3000,259379200,TIME_LIMIT_EXCEEDED
+46547516,1061,1543852583,2147483647,C,1700,data structures-dp-implementation-math-number theory,meiniak,Java 8,3000,259276800,TIME_LIMIT_EXCEEDED
+46514481,1061,1543763542,2147483647,C,1700,data structures-dp-implementation-math-number theory,AJ47,Java 8,1903,7577600,OK
+46514321,1061,1543763171,2147483647,C,1700,data structures-dp-implementation-math-number theory,AJ47,Java 8,3000,6041600,TIME_LIMIT_EXCEEDED
+46512496,1061,1543759391,2147483647,A,800,greedy-implementation-math,akil_av17,Java 8,155,0,OK
+46505698,1061,1543748970,2147483647,A,800,greedy-implementation-math,onishgarg101,Java 8,124,0,OK
+46483359,1061,1543741811,2147483647,A,800,greedy-implementation-math,ANTAR_NANDI,Java 8,140,0,OK
+46468681,1061,1543730409,2147483647,B,1500,greedy-implementation-sortings,BaaaaaaanTedGuYYYYYYY,Java 8,140,2150400,OK
+46463079,1061,1543702452,2147483647,A,800,greedy-implementation-math,ghangh,Java 8,124,0,OK
+46452841,1061,1543681577,2147483647,C,1700,data structures-dp-implementation-math-number theory,zeyad_khattab,Java 8,919,0,OK
+46440705,1061,1543664756,2147483647,B,1500,greedy-implementation-sortings,akash6019,Java 8,280,0,OK
+46438797,1061,1543661257,2147483647,C,1700,data structures-dp-implementation-math-number theory,szabar,Java 8,748,0,OK
+46438745,1061,1543661148,2147483647,C,1700,data structures-dp-implementation-math-number theory,szabar,Java 8,702,0,OK
+46430817,1061,1543642295,2147483647,C,1700,data structures-dp-implementation-math-number theory,aman28rwt,Java 8,670,15769600,OK
+46430728,1061,1543642039,2147483647,C,1700,data structures-dp-implementation-math-number theory,aman28rwt,Java 8,1825,137420800,OK
+46430425,1061,1543641039,2147483647,B,1500,greedy-implementation-sortings,aman28rwt,Java 8,140,0,OK
+46430386,1061,1543640882,2147483647,A,800,greedy-implementation-math,poikniok,Java 8,109,0,OK
+46429724,1061,1543638612,2147483647,A,800,greedy-implementation-math,aman28rwt,Java 8,124,0,OK
+46413262,1061,1543600906,2147483647,A,800,greedy-implementation-math,YahiaAshraf74,Java 8,1637,0,OK
+46403847,1061,1543584970,2147483647,B,1500,greedy-implementation-sortings,code_anytime,Java 8,280,0,OK
+46397913,1061,1543574477,2147483647,C,1700,data structures-dp-implementation-math-number theory,qwerty-n,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46397757,1061,1543574069,2147483647,C,1700,data structures-dp-implementation-math-number theory,qwerty-n,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46397683,1061,1543573827,2147483647,C,1700,data structures-dp-implementation-math-number theory,qwerty-n,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46397494,1061,1543573395,2147483647,C,1700,data structures-dp-implementation-math-number theory,qwerty-n,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46374221,1061,1543513237,2147483647,A,800,greedy-implementation-math,Misha48483,Java 8,124,0,OK
+46374083,1061,1543512894,2147483647,A,800,greedy-implementation-math,code_anytime,Java 8,140,0,OK
+46328986,1061,1543419534,2147483647,B,1500,greedy-implementation-sortings,Dazileo8,Java 8,280,0,OK
+46322811,1061,1543417990,2147483647,A,800,greedy-implementation-math,neelbhallabos,Java 8,109,0,OK
+46306858,1061,1543402783,2147483647,A,800,greedy-implementation-math,Acanalpay,Java 8,1154,0,OK
+46293472,1061,1543356796,2147483647,A,800,greedy-implementation-math,anthonymcqueen21,Java 8,139,0,OK
+46291569,1061,1543349325,225,A,800,greedy-implementation-math,Washoum,Java 8,109,0,OK
+46282474,1061,1543327590,2147483647,A,800,greedy-implementation-math,AFN,Java 8,139,0,OK
+46282201,1061,1543327033,2147483647,C,1700,data structures-dp-implementation-math-number theory,stelmah,Java 8,1388,127283200,OK
+46281892,1061,1543326439,2147483647,B,1500,greedy-implementation-sortings,mohamed_fathy,Java 8,280,0,OK
+46281869,1061,1543326385,2147483647,C,1700,data structures-dp-implementation-math-number theory,stelmah,Java 8,3000,259276800,TIME_LIMIT_EXCEEDED
+46281772,1061,1543326246,2147483647,C,1700,data structures-dp-implementation-math-number theory,stelmah,Java 8,3000,259276800,TIME_LIMIT_EXCEEDED
+46281604,1061,1543325940,2147483647,C,1700,data structures-dp-implementation-math-number theory,rahulkhairwar,Java 8,1777,18329600,OK
+46281555,1061,1543325861,2147483647,C,1700,data structures-dp-implementation-math-number theory,rahulkhairwar,Java 8,3000,18329600,TIME_LIMIT_EXCEEDED
+46280606,1061,1543324179,2147483647,C,1700,data structures-dp-implementation-math-number theory,rahulkhairwar,Java 8,1793,8704000,OK
+46278669,1061,1543320876,3996,B,1500,greedy-implementation-sortings,stelmah,Java 8,343,0,OK
+46275295,1061,1543316942,62,A,800,greedy-implementation-math,stelmah,Java 8,170,0,OK
+46274803,1061,1543315837,2147483647,A,800,greedy-implementation-math,gobinda1547,Java 8,109,0,OK
+46264398,1061,1543277722,2147483647,A,800,greedy-implementation-math,ryanturner02,Java 8,124,0,OK
+46262429,1061,1543267352,2147483647,A,800,greedy-implementation-math,MohammedBasioni,Java 8,140,0,OK
+46256507,1061,1543251818,2147483647,A,800,greedy-implementation-math,Eshan_ict,Java 8,140,0,OK
+46256088,1061,1543250926,2147483647,F,2400,interactive-probabilities,Ahmad,Java 8,967,0,OK
+46251294,1061,1543241817,2147483647,A,800,greedy-implementation-math,di_halt,Java 8,109,0,OK
+46249770,1061,1543239324,2147483647,A,800,greedy-implementation-math,manikasharma09,Java 8,140,0,OK
+46248506,1061,1543236736,2147483647,A,800,greedy-implementation-math,motawfik,Java 8,109,0,OK
+46243741,1061,1543226272,2147483647,A,800,greedy-implementation-math,abhisam_95,Java 8,139,0,OK
+46242873,1061,1543223867,2147483647,D,2000,data structures-greedy-implementation-sortings,wadissimo,Java 8,295,4403200,OK
+46239770,1061,1543215641,2147483647,A,800,greedy-implementation-math,TNam,Java 8,124,0,OK
+46234779,1061,1543193996,2147483647,D,2000,data structures-greedy-implementation-sortings,leonardooo,Java 8,514,0,OK
+46231780,1061,1543180743,2147483647,A,800,greedy-implementation-math,aldeebiano,Java 8,140,0,OK
+46228474,1061,1543174594,2147483647,A,800,greedy-implementation-math,masuod_ml,Java 8,701,0,OK
+46214379,1061,1543165448,2147483647,B,1500,greedy-implementation-sortings,younesbmz,Java 8,264,3481600,OK
+46212879,1061,1543164715,2147483647,A,800,greedy-implementation-math,Tardimgg,Java 8,951,0,OK
+46209849,1061,1543163928,2147483647,D,2000,data structures-greedy-implementation-sortings,thanhnam.csc,Java 8,545,5734400,OK
+46208275,1061,1543160617,2147483647,C,1700,data structures-dp-implementation-math-number theory,thanhnam.csc,Java 8,1247,0,OK
+46205430,1061,1543154283,2147483647,A,800,greedy-implementation-math,Tardimgg,Java 8,842,0,OK
+46204723,1061,1543152846,2147483647,C,1700,data structures-dp-implementation-math-number theory,joseraul,Java 8,919,87040000,OK
+46203871,1061,1543151226,2147483647,C,1700,data structures-dp-implementation-math-number theory,ShowStopper728,Java 8,2761,7577600,OK
+46203796,1061,1543151057,2147483647,C,1700,data structures-dp-implementation-math-number theory,ShowStopper728,Java 8,2308,7577600,OK
+46201445,1061,1543145959,2147483647,A,800,greedy-implementation-math,wwwfrm,Java 8,404,0,OK
+46197524,1061,1543137275,275,A,800,greedy-implementation-math,hoperr,Java 8,109,0,OK
+46194737,1061,1543131662,2147483647,A,800,greedy-implementation-math,duckboi,Java 8,124,0,OK
+46193885,1061,1543129853,6353,D,2000,data structures-greedy-implementation-sortings,Abdelrahman22,Java 8,327,5529600,OK
+46192261,1061,1543126117,517,A,800,greedy-implementation-math,nextcoder,Java 8,140,0,OK
+46192144,1061,1543125840,2340,B,1500,greedy-implementation-sortings,Abdelrahman22,Java 8,171,6451200,OK
+46191578,1061,1543124235,2147483647,D,2000,data structures-greedy-implementation-sortings,VotBear,Java 8,468,0,OK
+46191431,1061,1543123795,295,A,800,greedy-implementation-math,Abdelrahman22,Java 8,124,0,OK
+46189795,1061,1543117431,1731,B,1500,greedy-implementation-sortings,jwozniak,Java 8,140,2355200,OK
+46189416,1061,1543115783,83,A,800,greedy-implementation-math,jwozniak,Java 8,108,0,OK
+46188411,1061,1543111075,2147483647,E,2800,flows-graphs,AuroraGarden,Java 8,186,0,OK
+46187604,1061,1543106292,2147483647,A,800,greedy-implementation-math,Ahmed..Adel..Selim,Java 8,124,0,OK
+46184739,1061,1543091623,2147483647,A,800,greedy-implementation-math,vktennis,Java 8,156,0,OK
+46183989,1061,1543089313,2147483647,B,1500,greedy-implementation-sortings,RichardBot7000,Java 8,280,0,OK
+46183821,1061,1543088861,2147483647,A,800,greedy-implementation-math,AbhijeetKns,Java 8,109,0,OK
+46183737,1061,1543088629,2147483647,C,1700,data structures-dp-implementation-math-number theory,golions,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46183262,1061,1543087375,2147483647,D,2000,data structures-greedy-implementation-sortings,hongquanntct,Java 8,280,4608000,OK
+46182689,1061,1543085989,2147483647,A,800,greedy-implementation-math,RichardBot7000,Java 8,155,0,OK
+46181775,1061,1543083890,2147483647,A,800,greedy-implementation-math,MasterCraft,Java 8,140,0,OK
+46176486,1061,1543073217,2147483647,A,800,greedy-implementation-math,mathemagic,Java 8,140,0,OK
+46169279,1061,1543061382,2147483647,A,800,greedy-implementation-math,Markrum,Java 8,140,0,OK
+46167643,1061,1543057913,2147483647,B,1500,greedy-implementation-sortings,Radwan_,Java 8,186,1945600,OK
+46166448,1061,1543054428,2147483647,C,1700,data structures-dp-implementation-math-number theory,LM.10,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46153453,1061,1543047172,2147483647,C,1700,data structures-dp-implementation-math-number theory,VotBear,Java 8,1356,0,OK
+46152156,1061,1543046628,2147483647,C,1700,data structures-dp-implementation-math-number theory,VotBear,Java 8,2340,0,OK
+46151470,1061,1543046341,2147483647,C,1700,data structures-dp-implementation-math-number theory,VotBear,Java 8,2355,0,OK
+46148629,1061,1543045580,2147483647,B,1500,greedy-implementation-sortings,CCccii,Java 8,140,2150400,OK
+46145794,1061,1543045135,2147483647,B,1500,greedy-implementation-sortings,VotBear,Java 8,311,0,OK
+46144830,1061,1543044639,2147483647,B,1500,greedy-implementation-sortings,arvind_rvs,Java 8,171,5529600,OK
+46142660,1061,1543044252,2147483647,A,800,greedy-implementation-math,VotBear,Java 8,140,0,OK
+46142098,1061,1543043026,2147483647,C,1700,data structures-dp-implementation-math-number theory,flydzt,Java 8,1372,125440000,OK
+46136970,1061,1543040800,2147483647,C,1700,data structures-dp-implementation-math-number theory,flydzt,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46136950,1061,1543040748,2147483647,A,800,greedy-implementation-math,gaurav12,Java 8,139,0,OK
+46136131,1061,1543038987,2147483647,A,800,greedy-implementation-math,vishal.a.burman23,Java 8,124,0,OK
+46135836,1061,1543038331,2147483647,B,1500,greedy-implementation-sortings,mdazmat9,Java 8,265,0,OK
+46134187,1061,1543033671,2147483647,B,1500,greedy-implementation-sortings,flydzt,Java 8,218,0,OK
+46133959,1061,1543032923,2147483647,A,800,greedy-implementation-math,migyur,Java 8,1637,0,OK
+46133498,1061,1543031188,2147483647,A,800,greedy-implementation-math,flydzt,Java 8,670,0,OK
+46132544,1061,1543027417,2147483647,C,1700,data structures-dp-implementation-math-number theory,mstang,Java 8,1482,0,OK
+46132418,1061,1543026873,2147483647,C,1700,data structures-dp-implementation-math-number theory,mstang,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46132321,1061,1543026492,2147483647,C,1700,data structures-dp-implementation-math-number theory,mstang,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46131268,1061,1543021682,2147483647,F,2400,interactive-probabilities,tri,Java 8,218,0,OK
+46130819,1061,1543019126,2147483647,B,1500,greedy-implementation-sortings,premnathcs,Java 8,327,7372800,OK
+46130447,1061,1543016754,2147483647,A,800,greedy-implementation-math,okmg21,Java 8,140,0,OK
+46130125,1061,1543014583,2147483647,B,1500,greedy-implementation-sortings,math2do,Java 8,155,2355200,OK
+46129826,1061,1543012912,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46129781,1061,1543012659,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46129155,1061,1543009483,2147483647,C,1700,data structures-dp-implementation-math-number theory,leonardooo,Java 8,3000,259276800,TIME_LIMIT_EXCEEDED
+46127486,1061,1543003927,2147483647,A,800,greedy-implementation-math,Shyamol,Java 8,140,0,OK
+46126710,1061,1543002052,2147483647,B,1500,greedy-implementation-sortings,anri-1151,Java 8,264,0,OK
+46126362,1061,1543001188,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46126296,1061,1543001033,2147483647,A,800,greedy-implementation-math,anri-1151,Java 8,140,0,OK
+46124702,1061,1542997366,2147483647,A,800,greedy-implementation-math,grover_irusta,Java 8,1170,0,OK
+46124524,1061,1542996969,2147483647,A,800,greedy-implementation-math,stolis,Java 8,124,0,OK
+46124442,1061,1542996762,2147483647,C,1700,data structures-dp-implementation-math-number theory,alibaba,Java 8,1793,0,OK
+46123880,1061,1542995383,2147483647,A,800,greedy-implementation-math,mohammed.rabii,Java 8,139,0,OK
+46123754,1061,1542995134,2147483647,A,800,greedy-implementation-math,vkv007,Java 8,140,0,OK
+46122912,1061,1542993387,1587,B,1500,greedy-implementation-sortings,hrustim25,Java 8,156,5632000,OK
+46122551,1061,1542992633,833,A,800,greedy-implementation-math,hrustim25,Java 8,124,0,OK
+46122186,1061,1542991934,2147483647,C,1700,data structures-dp-implementation-math-number theory,prathmesh_01,Java 8,1325,142643200,OK
+46121856,1061,1542991292,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46121314,1061,1542990339,2147483647,A,800,greedy-implementation-math,N1koR1ko,Java 8,139,0,OK
+46120827,1061,1542989477,2147483647,B,1500,greedy-implementation-sortings,Leendertz,Java 8,140,2355200,OK
+46120655,1061,1542989184,2147483647,B,1500,greedy-implementation-sortings,Leendertz,Java 8,140,2457600,OK
+46120593,1061,1542989076,2147483647,B,1500,greedy-implementation-sortings,Leendertz,Java 8,155,2355200,OK
+46119825,1061,1542987677,2147483647,B,1500,greedy-implementation-sortings,Leendertz,Java 8,1387,2355200,OK
+46119729,1061,1542987506,2147483647,B,1500,greedy-implementation-sortings,Leendertz,Java 8,1387,2457600,OK
+46119664,1061,1542987413,2147483647,C,1700,data structures-dp-implementation-math-number theory,xwchen,Java 8,2932,0,OK
+46119552,1061,1542987215,2147483647,C,1700,data structures-dp-implementation-math-number theory,xwchen,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46119413,1061,1542986939,2147483647,A,800,greedy-implementation-math,SRI,Java 8,124,0,OK
+46119225,1061,1542986615,2147483647,C,1700,data structures-dp-implementation-math-number theory,xwchen,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46117150,1061,1542983221,1321,A,800,greedy-implementation-math,arvind_rvs,Java 8,140,0,OK
+46116669,1061,1542982511,2147483647,B,1500,greedy-implementation-sortings,Illusions,Java 8,155,2355200,OK
+46116465,1061,1542982205,2147483647,B,1500,greedy-implementation-sortings,jenil1999,Java 8,155,2457600,OK
+46116416,1061,1542982120,2147483647,B,1500,greedy-implementation-sortings,Illusions,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46115659,1061,1542981005,2147483647,B,1500,greedy-implementation-sortings,Jarik,Java 8,155,2355200,OK
+46114806,1061,1542979717,2147483647,B,1500,greedy-implementation-sortings,Leendertz,Java 8,1278,2355200,OK
+46114786,1061,1542979685,2147483647,A,800,greedy-implementation-math,qwerty2k,Java 8,140,0,OK
+46112921,1061,1542976790,2147483647,A,800,greedy-implementation-math,tbeks147,Java 8,202,0,OK
+46110954,1061,1542975142,2147483647,A,800,greedy-implementation-math,jenil1999,Java 8,109,0,OK
+46109378,1061,1542972193,2147483647,B,1500,greedy-implementation-sortings,utsav_deep,Java 8,140,2355200,OK
+46109230,1061,1542971900,2147483647,C,1700,data structures-dp-implementation-math-number theory,wadissimo,Java 8,1029,7475200,OK
+46108885,1061,1542971266,2147483647,C,1700,data structures-dp-implementation-math-number theory,Maaddy,Java 8,2074,9523200,OK
+46108863,1061,1542971222,2147483647,A,800,greedy-implementation-math,math2do,Java 8,109,0,OK
+46108267,1061,1542969962,2147483647,B,1500,greedy-implementation-sortings,Maaddy,Java 8,187,5017600,OK
+46107726,1061,1542968741,2147483647,C,1700,data structures-dp-implementation-math-number theory,Anonymous,Java 8,3000,2150400,TIME_LIMIT_EXCEEDED
+46107219,1061,1542967442,2147483647,D,2000,data structures-greedy-implementation-sortings,khokharnikunj8,Java 8,405,17612800,OK
+46106356,1061,1542965273,2147483647,B,1500,greedy-implementation-sortings,kocko,Java 8,155,2355200,OK
+46106304,1061,1542965146,2147483647,C,1700,data structures-dp-implementation-math-number theory,wolfib,Java 8,935,5939200,OK
+46106085,1061,1542964664,2147483647,A,800,greedy-implementation-math,PatrickJohn,Java 8,140,0,OK
+46105727,1061,1542963793,2147483647,B,1500,greedy-implementation-sortings,vbhvrn,Java 8,265,0,OK
+46105472,1061,1542963146,2147483647,D,2000,data structures-greedy-implementation-sortings,wolfib,Java 8,186,0,OK
+46105259,1061,1542962679,2147483647,F,2400,interactive-probabilities,aabdelzaher,Java 8,2979,0,OK
+46105239,1061,1542962634,2147483647,F,2400,interactive-probabilities,aabdelzaher,Java 8,1185,0,OK
+46104709,1061,1542961433,2147483647,F,2400,interactive-probabilities,aabdelzaher,Java 8,841,0,OK
+46104593,1061,1542961139,2147483647,A,800,greedy-implementation-math,satyajiit,Java 8,139,0,OK
+46104573,1061,1542961101,2147483647,B,1500,greedy-implementation-sortings,Dazileo8,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46104380,1061,1542960916,2147483647,C,1700,data structures-dp-implementation-math-number theory,K_B_C_S,Java 8,811,83968000,OK
+46104354,1061,1542960869,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,2277,25088000,OK
+46104301,1061,1542960753,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,2292,25088000,OK
+46104291,1061,1542960731,2147483647,A,800,greedy-implementation-math,aps554,Java 8,124,0,OK
+46104270,1061,1542960679,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,2261,25088000,OK
+46104261,1061,1542960654,2147483647,C,1700,data structures-dp-implementation-math-number theory,2164052,Java 8,1216,31129600,OK
+46104244,1061,1542960617,2147483647,A,800,greedy-implementation-math,2164052,Java 8,109,0,OK
+46104204,1061,1542960513,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,1201,31129600,OK
+46104177,1061,1542960439,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,1200,31129600,OK
+46104121,1061,1542960293,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,1231,31846400,OK
+46104093,1061,1542960216,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,2293,15360000,OK
+46104061,1061,1542960114,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,2401,31232000,OK
+46103959,1061,1542959872,2147483647,A,800,greedy-implementation-math,namhero,Java 8,140,0,OK
+46103949,1061,1542959858,2147483647,A,800,greedy-implementation-math,kocko,Java 8,124,0,OK
+46103898,1061,1542959729,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,1279,30822400,OK
+46103890,1061,1542959701,2147483647,A,800,greedy-implementation-math,ujjwal_sri,Java 8,140,0,OK
+46103709,1061,1542959257,2147483647,A,800,greedy-implementation-math,jubinmathew1995,Java 8,140,0,OK
+46103584,1061,1542958914,2147483647,A,800,greedy-implementation-math,kareem_fathy,Java 8,124,0,OK
+46103297,1061,1542958163,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,1279,20377600,OK
+46103159,1061,1542957789,2147483647,A,800,greedy-implementation-math,jyoti_123,Java 8,109,0,OK
+46103101,1061,1542957640,2147483647,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,1450,91648000,OK
+46103012,1061,1542957438,2147483647,A,800,greedy-implementation-math,bomlalung,Java 8,140,64921600,OK
+46102795,1061,1542956925,2147483647,B,1500,greedy-implementation-sortings,tsumit023,Java 8,140,0,OK
+46102297,1061,1542955756,2147483647,C,1700,data structures-dp-implementation-math-number theory,poikniok,Java 8,3000,258662400,TIME_LIMIT_EXCEEDED
+46102199,1061,1542955489,2089,B,1500,greedy-implementation-sortings,Sasuke-u,Java 8,155,2457600,OK
+46102132,1061,1542955301,2147483647,C,1700,data structures-dp-implementation-math-number theory,poikniok,Java 8,1716,0,OK
+46101942,1061,1542954806,2147483647,D,2000,data structures-greedy-implementation-sortings,GreatWhite,Java 8,280,4403200,OK
+46101787,1061,1542954385,2147483647,A,800,greedy-implementation-math,trainingtmp,Java 8,140,0,OK
+46101627,1061,1542953960,2147483647,A,800,greedy-implementation-math,serpico_tish,Java 8,530,0,OK
+46101622,1061,1542953949,2147483647,C,1700,data structures-dp-implementation-math-number theory,poikniok,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46101613,1061,1542953907,2147483647,B,1500,greedy-implementation-sortings,weird_penguin,Java 8,155,0,OK
+46101586,1061,1542953828,428,A,800,greedy-implementation-math,Sasuke-u,Java 8,109,0,OK
+46101560,1061,1542953755,2147483647,C,1700,data structures-dp-implementation-math-number theory,poikniok,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46101488,1061,1542953554,2147483647,B,1500,greedy-implementation-sortings,trainingtmp,Java 8,311,0,OK
+46101052,1061,1542952315,2147483647,B,1500,greedy-implementation-sortings,sudo_pacman,Java 8,280,0,OK
+46100948,1061,1542952020,2147483647,C,1700,data structures-dp-implementation-math-number theory,GreatWhite,Java 8,967,0,OK
+46100782,1061,1542951531,2147483647,A,800,greedy-implementation-math,AmmarKayaliite,Java 8,124,0,OK
+46100689,1061,1542951319,2147483647,C,1700,data structures-dp-implementation-math-number theory,GreatWhite,Java 8,3000,258662400,TIME_LIMIT_EXCEEDED
+46100317,1061,1542950057,557,A,800,greedy-implementation-math,ethantang,Java 8,124,0,OK
+46100214,1061,1542949748,2147483647,B,1500,greedy-implementation-sortings,prathmesh_01,Java 8,124,0,OK
+46100144,1061,1542949524,2147483647,A,800,greedy-implementation-math,AakashVaswani,Java 8,139,0,OK
+46100075,1061,1542949333,2147483647,B,1500,greedy-implementation-sortings,Sarah_Abdelkhalek,Java 8,265,0,OK
+46100050,1061,1542949278,2147483647,B,1500,greedy-implementation-sortings,ileo,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46099392,1061,1542946809,2147483647,D,2000,data structures-greedy-implementation-sortings,llamaoo7,Java 8,218,0,OK
+46099319,1061,1542946483,2147483647,D,2000,data structures-greedy-implementation-sortings,BaZ_,Java 8,217,0,OK
+46099093,1061,1542945507,2147483647,B,1500,greedy-implementation-sortings,noob__coder,Java 8,155,0,OK
+46099022,1061,1542945168,2147483647,C,1700,data structures-dp-implementation-math-number theory,habibulka,Java 8,1840,0,OK
+46098906,1061,1542944605,2147483647,D,2000,data structures-greedy-implementation-sortings,fnozoszzt,Java 8,951,31027200,OK
+46098830,1061,1542944330,2147483647,C,1700,data structures-dp-implementation-math-number theory,llamaoo7,Java 8,1809,307200,OK
+46098330,1061,1542942290,7190,D,2000,data structures-greedy-implementation-sortings,megaspazz,Java 8,249,4608000,OK
+46098138,1061,1542941566,6466,D,2000,data structures-greedy-implementation-sortings,megaspazz,Java 8,311,4710400,OK
+46097816,1061,1542940285,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46097791,1061,1542940211,2147483647,A,800,greedy-implementation-math,sudo_pacman,Java 8,140,0,OK
+46097745,1061,1542940032,6132,C,1700,data structures-dp-implementation-math-number theory,yasser_adel,Java 8,3000,268390400,TIME_LIMIT_EXCEEDED
+46097721,1061,1542939941,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46097691,1061,1542939836,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46097670,1061,1542939753,2147483647,A,800,greedy-implementation-math,vbhvrn,Java 8,1122,0,OK
+46097636,1061,1542939598,2147483647,C,1700,data structures-dp-implementation-math-number theory,bvd,Java 8,1310,156364800,OK
+46097528,1061,1542939152,2147483647,A,800,greedy-implementation-math,Amer,Java 8,155,0,OK
+46097482,1061,1542938955,2147483647,A,800,greedy-implementation-math,mhridoy,Java 8,109,0,OK
+46097442,1061,1542938749,4849,C,1700,data structures-dp-implementation-math-number theory,yasser_adel,Java 8,3000,268390400,TIME_LIMIT_EXCEEDED
+46097417,1061,1542938670,2147483647,C,1700,data structures-dp-implementation-math-number theory,wery0,Java 8,2807,0,OK
+46097362,1061,1542938421,2147483647,B,1500,greedy-implementation-sortings,llamaoo7,Java 8,155,2355200,OK
+46097313,1061,1542938223,2147483647,C,1700,data structures-dp-implementation-math-number theory,wery0,Java 8,2807,0,OK
+46097311,1061,1542938217,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46097225,1061,1542937825,2147483647,D,2000,data structures-greedy-implementation-sortings,jkulanko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46097066,1061,1542937139,2147483647,A,800,greedy-implementation-math,avijit_agarwal,Java 8,124,0,OK
+46097022,1061,1542936977,2147483647,A,800,greedy-implementation-math,llamaoo7,Java 8,124,0,OK
+46097003,1061,1542936910,2147483647,C,1700,data structures-dp-implementation-math-number theory,thanhnam.csc,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46096976,1061,1542936740,2147483647,A,800,greedy-implementation-math,thanhnam.csc,Java 8,109,0,OK
+46096925,1061,1542936532,2147483647,B,1500,greedy-implementation-sortings,thanhnam.csc,Java 8,155,2355200,OK
+46096812,1061,1542936000,3900,C,1700,data structures-dp-implementation-math-number theory,bvd,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46096758,1061,1542935782,3682,C,1700,data structures-dp-implementation-math-number theory,bvd,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46096749,1061,1542935746,1846,B,1500,greedy-implementation-sortings,yasser_adel,Java 8,202,4403200,OK
+46096582,1061,1542934974,2147483647,B,1500,greedy-implementation-sortings,dwoolley3,Java 8,140,2355200,OK
+46096519,1061,1542934716,2616,C,1700,data structures-dp-implementation-math-number theory,bvd,Java 8,3000,241356800,TIME_LIMIT_EXCEEDED
+46096406,1061,1542934162,261,A,800,greedy-implementation-math,yasser_adel,Java 8,171,0,OK
+46096368,1061,1542934008,1908,B,1500,greedy-implementation-sortings,bvd,Java 8,140,2150400,OK
+46096260,1061,1542933503,2147483647,F,2400,interactive-probabilities,AuroraGarden,Java 8,1434,0,OK
+46096165,1061,1542932933,2147483647,F,2400,interactive-probabilities,AuroraGarden,Java 8,1138,0,OK
+46096158,1061,1542932885,2147483647,F,2400,interactive-probabilities,AuroraGarden,Java 8,1684,0,OK
+46096126,1061,1542932743,2147483647,F,2400,interactive-probabilities,AuroraGarden,Java 8,1278,0,OK
+46096101,1061,1542932598,2147483647,D,2000,data structures-greedy-implementation-sortings,pili,Java 8,436,1536000,OK
+46096067,1061,1542932426,2147483647,A,800,greedy-implementation-math,Illusions,Java 8,1138,0,OK
+46096019,1061,1542932209,109,A,800,greedy-implementation-math,bvd,Java 8,124,0,OK
+46095855,1061,1542931529,2147483647,C,1700,data structures-dp-implementation-math-number theory,flyman3046,Java 8,1341,150528000,OK
+46095634,1061,1542930358,2147483647,C,1700,data structures-dp-implementation-math-number theory,flyman3046,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46095529,1061,1542929757,2147483647,C,1700,data structures-dp-implementation-math-number theory,NatInTheHat,Java 8,733,76800000,OK
+46095373,1061,1542928798,2147483647,F,2400,interactive-probabilities,Jeel_Vaishnav,Java 8,795,0,OK
+46095349,1061,1542928674,2147483647,E,2800,flows-graphs,Jeel_Vaishnav,Java 8,186,0,OK
+46095344,1061,1542928659,2147483647,D,2000,data structures-greedy-implementation-sortings,Jeel_Vaishnav,Java 8,498,0,OK
+46095342,1061,1542928646,2147483647,C,1700,data structures-dp-implementation-math-number theory,Jeel_Vaishnav,Java 8,1918,138444800,OK
+46095337,1061,1542928631,2147483647,B,1500,greedy-implementation-sortings,Jeel_Vaishnav,Java 8,265,0,OK
+46095332,1061,1542928608,2147483647,A,800,greedy-implementation-math,Jeel_Vaishnav,Java 8,139,0,OK
+46095261,1061,1542928211,191,A,800,greedy-implementation-math,Andres1,Java 8,109,0,OK
+46094774,1061,1542925429,2147483647,B,1500,greedy-implementation-sortings,leonardooo,Java 8,155,5632000,OK
+46094761,1061,1542925379,179,A,800,greedy-implementation-math,dwoolley3,Java 8,155,0,OK
+46094500,1061,1542924273,2147483647,B,1500,greedy-implementation-sortings,sarahfarag125,Java 8,155,2355200,OK
+46094489,1061,1542924227,2147483647,F,2400,interactive-probabilities,4mda4mda,Java 8,670,0,OK
+46094275,1061,1542923199,2147483647,B,1500,greedy-implementation-sortings,benpr99,Java 8,170,2457600,OK
+46094267,1061,1542923181,2147483647,B,1500,greedy-implementation-sortings,wadissimo,Java 8,171,2355200,OK
+46094261,1061,1542923161,2147483647,A,800,greedy-implementation-math,leonardooo,Java 8,1856,0,OK
+46094196,1061,1542922935,2147483647,D,2000,data structures-greedy-implementation-sortings,nchn27,Java 8,264,3584000,OK
+46094195,1061,1542922934,2147483647,C,1700,data structures-dp-implementation-math-number theory,SevenDeadlySins,Java 8,1965,47104000,OK
+46094168,1061,1542922806,2147483647,D,2000,data structures-greedy-implementation-sortings,4mda4mda,Java 8,358,5734400,OK
+46093954,1061,1542922116,2147483647,C,1700,data structures-dp-implementation-math-number theory,jjluczyn,Java 8,982,64819200,OK
+46093816,1061,1542921676,2147483647,A,800,greedy-implementation-math,wadissimo,Java 8,109,0,OK
+46093631,1061,1542921012,2147483647,C,1700,data structures-dp-implementation-math-number theory,SevenDeadlySins,Java 8,3000,46284800,TIME_LIMIT_EXCEEDED
+46093566,1061,1542920765,665,A,800,greedy-implementation-math,chafi,Java 8,124,0,OK
+46093265,1061,1542919754,2147483647,C,1700,data structures-dp-implementation-math-number theory,trainingtmp,Java 8,1356,57446400,OK
+46093175,1061,1542919517,2147483647,B,1500,greedy-implementation-sortings,shahdhairya678,Java 8,280,0,OK
+46093109,1061,1542919316,2147483647,A,800,greedy-implementation-math,bdomokos,Java 8,140,0,OK
+46093089,1061,1542919260,2147483647,C,1700,data structures-dp-implementation-math-number theory,trainingtmp,Java 8,1419,105779200,OK
+46092788,1061,1542918424,2147483647,D,2000,data structures-greedy-implementation-sortings,shreyas_21,Java 8,686,0,OK
+46092705,1061,1542918249,2147483647,C,1700,data structures-dp-implementation-math-number theory,trainingtmp,Java 8,3000,268390400,TIME_LIMIT_EXCEEDED
+46092587,1061,1542917973,2147483647,A,800,greedy-implementation-math,mdarif,Java 8,187,0,OK
+46092568,1061,1542917932,2147483647,A,800,greedy-implementation-math,speedious,Java 8,234,0,OK
+46092459,1061,1542917724,2147483647,D,2000,data structures-greedy-implementation-sortings,spar5h,Java 8,702,35532800,OK
+46092405,1061,1542917634,2147483647,B,1500,greedy-implementation-sortings,SevenDeadlySins,Java 8,202,5529600,OK
+46092367,1061,1542917556,2147483647,C,1700,data structures-dp-implementation-math-number theory,msagimbekov,Java 8,1263,2355200,OK
+46092290,1061,1542917406,2147483647,C,1700,data structures-dp-implementation-math-number theory,rahulkhairwar,Java 8,3000,259788800,TIME_LIMIT_EXCEEDED
+46092273,1061,1542917371,2147483647,C,1700,data structures-dp-implementation-math-number theory,amanchik,Java 8,1278,242278400,OK
+46092257,1061,1542917327,2147483647,D,2000,data structures-greedy-implementation-sortings,spar5h,Java 8,576,35532800,OK
+46092245,1061,1542917298,2147483647,A,800,greedy-implementation-math,SevenDeadlySins,Java 8,186,0,OK
+46091979,1061,1542916765,25,A,800,greedy-implementation-math,BaaaaaaanTedGuYYYYYYY,Java 8,171,0,OK
+46091955,1061,1542916710,2147483647,A,800,greedy-implementation-math,NauT1LuS,Java 8,139,0,OK
+46091942,1061,1542916696,2147483647,B,1500,greedy-implementation-sortings,NauT1LuS,Java 8,405,0,OK
+46091941,1061,1542916693,2147483647,C,1700,data structures-dp-implementation-math-number theory,hongquanntct,Java 8,826,75468800,OK
+46091871,1061,1542916578,2147483647,C,1700,data structures-dp-implementation-math-number theory,hongquanntct,Java 8,888,85401600,OK
+46091816,1061,1542916471,2147483647,B,1500,greedy-implementation-sortings,wolfib,Java 8,155,2355200,OK
+46091498,1061,1542915886,2147483647,C,1700,data structures-dp-implementation-math-number theory,hongquanntct,Java 8,1106,123392000,OK
+46091431,1061,1542915762,2147483647,A,800,greedy-implementation-math,Mackenzie,Java 8,140,0,OK
+46091325,1061,1542915585,2147483647,C,1700,data structures-dp-implementation-math-number theory,hongquanntct,Java 8,3000,259174400,TIME_LIMIT_EXCEEDED
+46091022,1061,1542915112,2147483647,C,1700,data structures-dp-implementation-math-number theory,BiIIy,Java 8,716,56115200,OK
+46090964,1061,1542915026,2147483647,C,1700,data structures-dp-implementation-math-number theory,Kharouba,Java 8,1918,7577600,OK
+46090910,1061,1542914941,2147483647,A,800,greedy-implementation-math,BiIIy,Java 8,186,0,OK
+46090831,1061,1542914807,2147483647,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,1621,228454400,OK
+46090640,1061,1542914556,2147483647,A,800,greedy-implementation-math,nesdi,Java 8,187,0,OK
+46090590,1061,1542914492,2147483647,C,1700,data structures-dp-implementation-math-number theory,pili,Java 8,1279,0,OK
+46090461,1061,1542914326,2147483647,B,1500,greedy-implementation-sortings,RaZaR,Java 8,280,0,OK
+46090348,1061,1542914203,2147483647,A,800,greedy-implementation-math,Joao_Ribeiro,Java 8,140,0,OK
+46089969,1061,1542913811,2147483647,B,1500,greedy-implementation-sortings,MovingBit,Java 8,265,0,OK
+46089896,1061,1542913768,2147483647,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+46089600,1061,1542913606,2147483647,D,2000,data structures-greedy-implementation-sortings,aminul,Java 8,280,0,OK
+46088363,1061,1542908687,7187,D,2000,data structures-greedy-implementation-sortings,PrakharJain,Java 8,296,2969600,OK
+46088131,1061,1542908656,7156,C,1700,data structures-dp-implementation-math-number theory,GreatWhite,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46088033,1061,1542908637,7137,C,1700,data structures-dp-implementation-math-number theory,spandand515,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46087935,1061,1542908618,7118,B,1500,greedy-implementation-sortings,Md_Nishat,Java 8,280,0,OK
+46087928,1061,1542908615,7115,C,1700,data structures-dp-implementation-math-number theory,reborn.chris,Java 8,3000,93491200,TIME_LIMIT_EXCEEDED
+46087792,1061,1542908584,7084,B,1500,greedy-implementation-sortings,Omar_Morsi,Java 8,202,2048000,OK
+46087756,1061,1542908577,7077,E,2800,flows-graphs,uwi,Java 8,124,0,OK
+46087731,1061,1542908571,7071,F,2400,interactive-probabilities,AkshajK,Java 8,951,0,OK
+46087660,1061,1542908551,7051,C,1700,data structures-dp-implementation-math-number theory,flyman3046,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+46087597,1061,1542908534,7034,C,1700,data structures-dp-implementation-math-number theory,slava812,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46087567,1061,1542908525,7025,C,1700,data structures-dp-implementation-math-number theory,amanchik,Java 8,3000,258969600,TIME_LIMIT_EXCEEDED
+46087470,1061,1542908504,7004,C,1700,data structures-dp-implementation-math-number theory,spandand515,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46087349,1061,1542908467,6967,B,1500,greedy-implementation-sortings,qwerty12345qwerty,Java 8,390,0,OK
+46087348,1061,1542908467,6967,B,1500,greedy-implementation-sortings,Dazileo8,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46087319,1061,1542908459,6959,C,1700,data structures-dp-implementation-math-number theory,rahulkhairwar,Java 8,3000,259686400,TIME_LIMIT_EXCEEDED
+46087271,1061,1542908442,6942,C,1700,data structures-dp-implementation-math-number theory,golions,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46087200,1061,1542908412,6912,B,1500,greedy-implementation-sortings,Oulet,Java 8,171,2457600,OK
+46087133,1061,1542908386,6886,C,1700,data structures-dp-implementation-math-number theory,baobab,Java 8,701,45056000,OK
+46087127,1061,1542908385,6885,C,1700,data structures-dp-implementation-math-number theory,avankyankit,Java 8,3000,235520000,TIME_LIMIT_EXCEEDED
+46087121,1061,1542908383,6883,C,1700,data structures-dp-implementation-math-number theory,amanchik,Java 8,3000,258969600,TIME_LIMIT_EXCEEDED
+46086914,1061,1542908314,6814,B,1500,greedy-implementation-sortings,art.licis,Java 8,342,0,OK
+46086829,1061,1542908285,6785,B,1500,greedy-implementation-sortings,nirenamid,Java 8,295,0,OK
+46086807,1061,1542908279,6779,C,1700,data structures-dp-implementation-math-number theory,AuroraGarden,Java 8,2838,258764800,OK
+46086676,1061,1542908238,6738,C,1700,data structures-dp-implementation-math-number theory,flyman3046,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46086665,1061,1542908236,6736,C,1700,data structures-dp-implementation-math-number theory,golions,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46086400,1061,1542908143,6643,C,1700,data structures-dp-implementation-math-number theory,spandand515,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46086243,1061,1542908078,6578,C,1700,data structures-dp-implementation-math-number theory,slava812,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46086184,1061,1542908059,6559,B,1500,greedy-implementation-sortings,Leendertz,Java 8,1435,2048000,OK
+46085882,1061,1542907952,6452,C,1700,data structures-dp-implementation-math-number theory,GreatWhite,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46085321,1061,1542907736,6236,A,800,greedy-implementation-math,ivanprozidise,Java 8,186,0,OK
+46085312,1061,1542907730,6230,C,1700,data structures-dp-implementation-math-number theory,intrepidcoder,Java 8,2308,0,OK
+46085281,1061,1542907718,6218,B,1500,greedy-implementation-sortings,Verdusk,Java 8,280,0,OK
+46085243,1061,1542907700,6200,C,1700,data structures-dp-implementation-math-number theory,tastymath75025,Java 8,1138,0,OK
+46085120,1061,1542907654,6154,D,2000,data structures-greedy-implementation-sortings,habibulka,Java 8,264,4915200,OK
+46085025,1061,1542907618,6118,D,2000,data structures-greedy-implementation-sortings,Omar_Morsi,Java 8,1201,4096000,OK
+46084976,1061,1542907593,6093,F,2400,interactive-probabilities,AuroraGarden,Java 8,1169,0,OK
+46084584,1061,1542907435,5935,C,1700,data structures-dp-implementation-math-number theory,flyman3046,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+46084544,1061,1542907422,5922,C,1700,data structures-dp-implementation-math-number theory,Psp_98,Java 8,3000,259584000,TIME_LIMIT_EXCEEDED
+46084534,1061,1542907419,5919,C,1700,data structures-dp-implementation-math-number theory,aminul,Java 8,1652,154828800,OK
+46084483,1061,1542907404,5904,C,1700,data structures-dp-implementation-math-number theory,amanchik,Java 8,3000,39116800,TIME_LIMIT_EXCEEDED
+46084017,1061,1542907205,5705,B,1500,greedy-implementation-sortings,its_ulure,Java 8,202,2457600,OK
+46084015,1061,1542907205,5705,C,1700,data structures-dp-implementation-math-number theory,GreatWhite,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46083973,1061,1542907191,5691,D,2000,data structures-greedy-implementation-sortings,aabdelzaher,Java 8,249,5427200,OK
+46083824,1061,1542907131,5631,C,1700,data structures-dp-implementation-math-number theory,pankajpoply45,Java 8,3000,2150400,TIME_LIMIT_EXCEEDED
+46083819,1061,1542907128,5628,B,1500,greedy-implementation-sortings,zoro25,Java 8,280,0,OK
+46083683,1061,1542907075,5575,C,1700,data structures-dp-implementation-math-number theory,jayliner66,Java 8,3000,38195200,TIME_LIMIT_EXCEEDED
+46083605,1061,1542907042,5542,C,1700,data structures-dp-implementation-math-number theory,jenish9599,Java 8,2059,7577600,OK
+46083593,1061,1542907037,5537,C,1700,data structures-dp-implementation-math-number theory,GreatWhite,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46083572,1061,1542907030,5530,C,1700,data structures-dp-implementation-math-number theory,arry_stark,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46083569,1061,1542907029,5529,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46083393,1061,1542906963,5463,B,1500,greedy-implementation-sortings,Mahakarma,Java 8,233,2355200,OK
+46083300,1061,1542906929,5429,A,800,greedy-implementation-math,Kazak1337,Java 8,140,0,OK
+46083144,1061,1542906864,5364,B,1500,greedy-implementation-sortings,mstang,Java 8,327,0,OK
+46083137,1061,1542906862,5362,A,800,greedy-implementation-math,Funtikov,Java 8,140,0,OK
+46083107,1061,1542906848,5348,B,1500,greedy-implementation-sortings,qwerty12345qwerty,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46082884,1061,1542906754,5254,B,1500,greedy-implementation-sortings,Suunn,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46082831,1061,1542906730,5230,D,2000,data structures-greedy-implementation-sortings,tri,Java 8,638,34713600,OK
+46082750,1061,1542906696,5196,D,2000,data structures-greedy-implementation-sortings,Taran_1407,Java 8,452,5734400,OK
+46082594,1061,1542906636,5136,C,1700,data structures-dp-implementation-math-number theory,pankajpoply45,Java 8,3000,2150400,TIME_LIMIT_EXCEEDED
+46082565,1061,1542906625,5125,D,2000,data structures-greedy-implementation-sortings,Kharouba,Java 8,295,0,OK
+46082361,1061,1542906544,5044,B,1500,greedy-implementation-sortings,Dazileo8,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46082295,1061,1542906521,5021,B,1500,greedy-implementation-sortings,avijit_agarwal,Java 8,124,0,OK
+46082100,1061,1542906442,4942,B,1500,greedy-implementation-sortings,AbhiY13,Java 8,155,0,OK
+46082094,1061,1542906440,4940,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46082063,1061,1542906425,4925,C,1700,data structures-dp-implementation-math-number theory,jonsnow7,Java 8,2495,248422400,OK
+46081944,1061,1542906379,4879,B,1500,greedy-implementation-sortings,masterbios,Java 8,155,2457600,OK
+46081879,1061,1542906359,4859,B,1500,greedy-implementation-sortings,boltUsain,Java 8,186,2457600,OK
+46081878,1061,1542906359,4859,B,1500,greedy-implementation-sortings,Dazileo8,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46081826,1061,1542906339,4839,C,1700,data structures-dp-implementation-math-number theory,joney_000,Java 8,982,0,OK
+46081723,1061,1542906299,4799,D,2000,data structures-greedy-implementation-sortings,IDzekh,Java 8,234,4096000,OK
+46081613,1061,1542906246,4746,F,2400,interactive-probabilities,uwi,Java 8,1279,0,OK
+46081566,1061,1542906228,4728,B,1500,greedy-implementation-sortings,aminul,Java 8,140,0,OK
+46081464,1061,1542906182,4682,D,2000,data structures-greedy-implementation-sortings,AuroraGarden,Java 8,265,3584000,OK
+46081272,1061,1542906108,4608,A,800,greedy-implementation-math,prasadraju.veepuri,Java 8,218,0,OK
+46081173,1061,1542906071,4571,D,2000,data structures-greedy-implementation-sortings,baobab,Java 8,265,2560000,OK
+46081051,1061,1542906029,4529,B,1500,greedy-implementation-sortings,YahiaBadr,Java 8,140,2355200,OK
+46080892,1061,1542905971,4471,C,1700,data structures-dp-implementation-math-number theory,GreatWhite,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46080729,1061,1542905914,4414,B,1500,greedy-implementation-sortings,Dazileo8,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46080663,1061,1542905889,4389,C,1700,data structures-dp-implementation-math-number theory,pili,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46080657,1061,1542905884,4384,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46080565,1061,1542905851,4351,C,1700,data structures-dp-implementation-math-number theory,jonsnow7,Java 8,3000,7577600,TIME_LIMIT_EXCEEDED
+46080399,1061,1542905790,4290,B,1500,greedy-implementation-sortings,Anonymous,Java 8,296,0,OK
+46080153,1061,1542905695,4195,C,1700,data structures-dp-implementation-math-number theory,golions,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46080105,1061,1542905676,4176,C,1700,data structures-dp-implementation-math-number theory,poketred12,Java 8,2089,7577600,OK
+46080070,1061,1542905666,4166,B,1500,greedy-implementation-sortings,Leendertz,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46080030,1061,1542905650,4150,B,1500,greedy-implementation-sortings,wolfib,Java 8,140,2355200,OK
+46079992,1061,1542905634,4134,C,1700,data structures-dp-implementation-math-number theory,Suunn,Java 8,1169,0,OK
+46079776,1061,1542905548,4048,A,800,greedy-implementation-math,akumbhar,Java 8,140,0,OK
+46079665,1061,1542905511,4011,C,1700,data structures-dp-implementation-math-number theory,Kharouba,Java 8,3000,166092800,TIME_LIMIT_EXCEEDED
+46079624,1061,1542905498,3998,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46079619,1061,1542905496,3996,A,800,greedy-implementation-math,AnanthDhruva,Java 8,202,0,OK
+46079567,1061,1542905477,3977,B,1500,greedy-implementation-sortings,nchn27,Java 8,124,0,OK
+46079495,1061,1542905458,3958,C,1700,data structures-dp-implementation-math-number theory,lvyiwei1,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46079420,1061,1542905434,3934,C,1700,data structures-dp-implementation-math-number theory,AkshajK,Java 8,2729,3276800,OK
+46079399,1061,1542905424,3924,A,800,greedy-implementation-math,holyfuck,Java 8,467,0,OK
+46079334,1061,1542905398,3898,B,1500,greedy-implementation-sortings,avankyankit,Java 8,733,41369600,OK
+46079215,1061,1542905359,3859,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,2074,88371200,OK
+46079202,1061,1542905354,3854,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46079191,1061,1542905348,3848,B,1500,greedy-implementation-sortings,aabdelzaher,Java 8,171,2355200,OK
+46079172,1061,1542905341,3841,B,1500,greedy-implementation-sortings,shreyas_21,Java 8,265,0,OK
+46079042,1061,1542905291,3791,C,1700,data structures-dp-implementation-math-number theory,Psp_98,Java 8,3000,259584000,TIME_LIMIT_EXCEEDED
+46079032,1061,1542905288,3788,C,1700,data structures-dp-implementation-math-number theory,amanchik,Java 8,3000,268390400,TIME_LIMIT_EXCEEDED
+46078810,1061,1542905209,3709,B,1500,greedy-implementation-sortings,Darko,Java 8,280,0,OK
+46078683,1061,1542905159,3659,C,1700,data structures-dp-implementation-math-number theory,poketred12,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46078622,1061,1542905142,3642,C,1700,data structures-dp-implementation-math-number theory,mund98,Java 8,3000,1433600,TIME_LIMIT_EXCEEDED
+46078526,1061,1542905105,3605,B,1500,greedy-implementation-sortings,LM.10,Java 8,140,2355200,OK
+46078490,1061,1542905095,3595,B,1500,greedy-implementation-sortings,makarfi,Java 8,280,0,OK
+46078445,1061,1542905080,3580,B,1500,greedy-implementation-sortings,habibulka,Java 8,156,2150400,OK
+46078258,1061,1542905012,3512,C,1700,data structures-dp-implementation-math-number theory,GiGlema,Java 8,1949,0,OK
+46078243,1061,1542905008,3508,C,1700,data structures-dp-implementation-math-number theory,Shaykhutdinov-T-I,Java 8,436,0,OK
+46078185,1061,1542904989,3489,B,1500,greedy-implementation-sortings,Alex_Gal,Java 8,156,2457600,OK
+46078130,1061,1542904971,3471,A,800,greedy-implementation-math,tsumit023,Java 8,124,0,OK
+46078095,1061,1542904957,3457,B,1500,greedy-implementation-sortings,slava812,Java 8,170,0,OK
+46078086,1061,1542904954,3454,C,1700,data structures-dp-implementation-math-number theory,wery0,Java 8,2870,0,OK
+46078069,1061,1542904949,3449,C,1700,data structures-dp-implementation-math-number theory,AuroraGarden,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46078013,1061,1542904931,3431,C,1700,data structures-dp-implementation-math-number theory,BaZ_,Java 8,1684,126668800,OK
+46077910,1061,1542904888,3388,D,2000,data structures-greedy-implementation-sortings,guptautkarsh028,Java 8,374,5734400,OK
+46077907,1061,1542904887,3387,B,1500,greedy-implementation-sortings,jjluczyn,Java 8,280,0,OK
+46077827,1061,1542904861,3361,D,2000,data structures-greedy-implementation-sortings,intrepidcoder,Java 8,249,5427200,OK
+46077814,1061,1542904854,3354,C,1700,data structures-dp-implementation-math-number theory,poketred12,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46077623,1061,1542904793,3293,B,1500,greedy-implementation-sortings,Taran_1407,Java 8,295,8806400,OK
+46077560,1061,1542904777,3277,A,800,greedy-implementation-math,VantysI95I,Java 8,686,0,OK
+46077489,1061,1542904752,3252,B,1500,greedy-implementation-sortings,arry_stark,Java 8,311,0,OK
+46077448,1061,1542904740,3240,A,800,greedy-implementation-math,Leytenant,Java 8,155,0,OK
+46077435,1061,1542904736,3236,C,1700,data structures-dp-implementation-math-number theory,tri,Java 8,592,9420800,OK
+46077299,1061,1542904687,3187,B,1500,greedy-implementation-sortings,golions,Java 8,155,0,OK
+46077283,1061,1542904682,3182,B,1500,greedy-implementation-sortings,Nesrin,Java 8,280,0,OK
+46077262,1061,1542904672,3172,C,1700,data structures-dp-implementation-math-number theory,wery0,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46077235,1061,1542904665,3165,B,1500,greedy-implementation-sortings,mstang,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46077074,1061,1542904607,3107,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258764800,TIME_LIMIT_EXCEEDED
+46077046,1061,1542904597,3097,A,800,greedy-implementation-math,zoro25,Java 8,140,0,OK
+46077035,1061,1542904594,3094,C,1700,data structures-dp-implementation-math-number theory,Psp_98,Java 8,3000,259788800,TIME_LIMIT_EXCEEDED
+46076683,1061,1542904467,2967,C,1700,data structures-dp-implementation-math-number theory,IDzekh,Java 8,951,6144000,OK
+46076669,1061,1542904460,2960,C,1700,data structures-dp-implementation-math-number theory,wery0,Java 8,3000,7987200,TIME_LIMIT_EXCEEDED
+46076666,1061,1542904460,2960,B,1500,greedy-implementation-sortings,ahaddce,Java 8,187,0,OK
+46076590,1061,1542904431,2931,A,800,greedy-implementation-math,hem_a,Java 8,140,0,OK
+46076477,1061,1542904388,2888,B,1500,greedy-implementation-sortings,mstang,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46076470,1061,1542904386,2886,C,1700,data structures-dp-implementation-math-number theory,PrakharJain,Java 8,2120,66150400,OK
+46076321,1061,1542904332,2832,D,2000,data structures-greedy-implementation-sortings,uwi,Java 8,202,0,OK
+46076257,1061,1542904310,2810,C,1700,data structures-dp-implementation-math-number theory,Kharouba,Java 8,3000,167014400,TIME_LIMIT_EXCEEDED
+46076231,1061,1542904301,2801,B,1500,greedy-implementation-sortings,pankajpoply45,Java 8,265,0,OK
+46076213,1061,1542904297,2797,B,1500,greedy-implementation-sortings,jenish9599,Java 8,124,0,OK
+46076048,1061,1542904247,2747,C,1700,data structures-dp-implementation-math-number theory,spar5h,Java 8,2105,0,OK
+46076033,1061,1542904243,2743,B,1500,greedy-implementation-sortings,thanhnam.csc,Java 8,156,2355200,OK
+46075955,1061,1542904215,2715,C,1700,data structures-dp-implementation-math-number theory,nchn27,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46075903,1061,1542904197,2697,C,1700,data structures-dp-implementation-math-number theory,AuroraGarden,Java 8,3000,258867200,TIME_LIMIT_EXCEEDED
+46075846,1061,1542904184,2684,C,1700,data structures-dp-implementation-math-number theory,Musin,Java 8,3000,258662400,TIME_LIMIT_EXCEEDED
+46075837,1061,1542904181,2681,C,1700,data structures-dp-implementation-math-number theory,4mda4mda,Java 8,1122,0,OK
+46075816,1061,1542904176,2676,A,800,greedy-implementation-math,chiragkaushik1,Java 8,140,0,OK
+46075692,1061,1542904136,2636,C,1700,data structures-dp-implementation-math-number theory,Vladimirr.Petrunko,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46075306,1061,1542904009,2509,A,800,greedy-implementation-math,Tehlol,Java 8,670,0,OK
+46075234,1061,1542903986,2486,B,1500,greedy-implementation-sortings,jayliner66,Java 8,155,2048000,OK
+46075218,1061,1542903983,2483,B,1500,greedy-implementation-sortings,BaZ_,Java 8,155,2560000,OK
+46075159,1061,1542903968,2468,C,1700,data structures-dp-implementation-math-number theory,Taran_1407,Java 8,2199,152985600,OK
+46074957,1061,1542903905,2405,C,1700,data structures-dp-implementation-math-number theory,tri,Java 8,3000,5939200,TIME_LIMIT_EXCEEDED
+46074795,1061,1542903847,2347,C,1700,data structures-dp-implementation-math-number theory,PrakharJain,Java 8,3000,258662400,TIME_LIMIT_EXCEEDED
+46074710,1061,1542903816,2316,C,1700,data structures-dp-implementation-math-number theory,uwi,Java 8,1185,122675200,OK
+46074627,1061,1542903789,2289,B,1500,greedy-implementation-sortings,rmartin,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46074336,1061,1542903693,2193,B,1500,greedy-implementation-sortings,rahulkhairwar,Java 8,218,0,OK
+46074271,1061,1542903674,2173,C,1700,data structures-dp-implementation-math-number theory,guptautkarsh028,Java 8,1123,38195200,OK
+46074117,1061,1542903618,2118,A,800,greedy-implementation-math,nghianguyen97,Java 8,685,0,OK
+46074079,1061,1542903607,2107,C,1700,data structures-dp-implementation-math-number theory,PrakharJain,Java 8,3000,258662400,TIME_LIMIT_EXCEEDED
+46074056,1061,1542903601,2101,C,1700,data structures-dp-implementation-math-number theory,khokharnikunj8,Java 8,3000,7987200,TIME_LIMIT_EXCEEDED
+46073932,1061,1542903560,2060,B,1500,greedy-implementation-sortings,wery0,Java 8,140,0,OK
+46073931,1061,1542903560,2060,C,1700,data structures-dp-implementation-math-number theory,cravuri,Java 8,2464,0,OK
+46073887,1061,1542903542,2042,B,1500,greedy-implementation-sortings,fnozoszzt,Java 8,327,0,OK
+46073845,1061,1542903530,2030,A,800,greedy-implementation-math,Artem_Chistyakov,Java 8,140,0,OK
+46073836,1061,1542903527,2027,B,1500,greedy-implementation-sortings,baobab,Java 8,156,0,OK
+46073676,1061,1542903468,1968,A,800,greedy-implementation-math,krishan_81,Java 8,140,0,OK
+46073655,1061,1542903460,1960,A,800,greedy-implementation-math,jihene.bt,Java 8,140,0,OK
+46073489,1061,1542903403,1903,B,1500,greedy-implementation-sortings,NatInTheHat,Java 8,171,2048000,OK
+46073414,1061,1542903378,1878,A,800,greedy-implementation-math,sarahfarag125,Java 8,124,0,OK
+46073302,1061,1542903341,1841,B,1500,greedy-implementation-sortings,pili,Java 8,171,0,OK
+46073278,1061,1542903334,1834,B,1500,greedy-implementation-sortings,AJ47,Java 8,139,0,OK
+46073246,1061,1542903325,1825,C,1700,data structures-dp-implementation-math-number theory,wflms20110333,Java 8,2230,7577600,OK
+46073172,1061,1542903293,1793,B,1500,greedy-implementation-sortings,msagimbekov,Java 8,202,6758400,OK
+46072975,1061,1542903227,1727,A,800,greedy-implementation-math,Vint666,Java 8,140,0,OK
+46072970,1061,1542903225,1725,A,800,greedy-implementation-math,viru31,Java 8,1840,0,OK
+46072966,1061,1542903223,1723,B,1500,greedy-implementation-sortings,flyman3046,Java 8,156,2355200,OK
+46072938,1061,1542903213,1713,A,800,greedy-implementation-math,dark.horse,Java 8,655,0,OK
+46072897,1061,1542903197,1697,B,1500,greedy-implementation-sortings,jonsnow7,Java 8,140,0,OK
+46072820,1061,1542903177,1677,B,1500,greedy-implementation-sortings,shubhch32,Java 8,296,0,OK
+46072688,1061,1542903130,1630,A,800,greedy-implementation-math,hetshah25,Java 8,124,0,OK
+46072686,1061,1542903129,1629,A,800,greedy-implementation-math,Jay16299,Java 8,140,0,OK
+46072653,1061,1542903122,1622,B,1500,greedy-implementation-sortings,intrepidcoder,Java 8,155,2457600,OK
+46072511,1061,1542903076,1576,B,1500,greedy-implementation-sortings,GiGlema,Java 8,171,0,OK
+46072472,1061,1542903065,1565,B,1500,greedy-implementation-sortings,Musin,Java 8,171,0,OK
+46072427,1061,1542903055,1555,B,1500,greedy-implementation-sortings,stevie1024,Java 8,170,2355200,OK
+46072358,1061,1542903037,1537,B,1500,greedy-implementation-sortings,LockHeart,Java 8,280,0,OK
+46072353,1061,1542903035,1535,C,1700,data structures-dp-implementation-math-number theory,aabdelzaher,Java 8,1185,134451200,OK
+46072126,1061,1542902958,1458,A,800,greedy-implementation-math,prajwal7868,Java 8,140,0,OK
+46072109,1061,1542902953,1453,B,1500,greedy-implementation-sortings,xwchen,Java 8,124,0,OK
+46071998,1061,1542902920,1420,B,1500,greedy-implementation-sortings,Kharouba,Java 8,171,2867200,OK
+46071965,1061,1542902908,1408,A,800,greedy-implementation-math,thetansquared,Java 8,124,0,OK
+46071856,1061,1542902876,1376,B,1500,greedy-implementation-sortings,_mina,Java 8,156,2355200,OK
+46071833,1061,1542902865,1365,B,1500,greedy-implementation-sortings,spar5h,Java 8,156,0,OK
+46071768,1061,1542902843,1343,B,1500,greedy-implementation-sortings,MoreThanANoob,Java 8,139,0,OK
+46071717,1061,1542902828,1328,B,1500,greedy-implementation-sortings,4mda4mda,Java 8,156,2457600,OK
+46071671,1061,1542902814,1314,A,800,greedy-implementation-math,jxie,Java 8,140,0,OK
+46071666,1061,1542902812,1312,B,1500,greedy-implementation-sortings,reborn.chris,Java 8,155,0,OK
+46071660,1061,1542902810,1310,A,800,greedy-implementation-math,shubh_jha1998,Java 8,155,0,OK
+46071615,1061,1542902794,1294,A,800,greedy-implementation-math,saratsista,Java 8,140,0,OK
+46071569,1061,1542902779,1279,A,800,greedy-implementation-math,oo00oo00,Java 8,140,0,OK
+46071554,1061,1542902773,1273,A,800,greedy-implementation-math,pankajpoply45,Java 8,140,0,OK
+46071542,1061,1542902769,1269,A,800,greedy-implementation-math,hetshah25,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46071446,1061,1542902735,1235,A,800,greedy-implementation-math,RaZaR,Java 8,140,0,OK
+46071435,1061,1542902731,1231,B,1500,greedy-implementation-sortings,IDzekh,Java 8,171,1945600,OK
+46071424,1061,1542902728,1228,A,800,greedy-implementation-math,avwede,Java 8,685,0,OK
+46071374,1061,1542902711,1211,B,1500,greedy-implementation-sortings,Vladimirr.Petrunko,Java 8,295,0,OK
+46071366,1061,1542902708,1208,A,800,greedy-implementation-math,s4ga,Java 8,140,0,OK
+46071109,1061,1542902626,1126,B,1500,greedy-implementation-sortings,PrakharJain,Java 8,155,0,OK
+46071047,1061,1542902607,1107,A,800,greedy-implementation-math,MagentaSnek,Java 8,124,0,OK
+46071039,1061,1542902606,1106,B,1500,greedy-implementation-sortings,AuroraGarden,Java 8,155,0,OK
+46071023,1061,1542902602,1102,A,800,greedy-implementation-math,Adiletkozha,Java 8,140,0,OK
+46071017,1061,1542902598,1098,B,1500,greedy-implementation-sortings,khokharnikunj8,Java 8,171,0,OK
+46071001,1061,1542902592,1092,A,800,greedy-implementation-math,mouad123,Java 8,171,0,OK
+46070982,1061,1542902582,1082,B,1500,greedy-implementation-sortings,amanchik,Java 8,155,2662400,OK
+46070928,1061,1542902565,1065,A,800,greedy-implementation-math,MubtasimShahriar,Java 8,140,0,OK
+46070843,1061,1542902539,1039,B,1500,greedy-implementation-sortings,wflms20110333,Java 8,140,0,OK
+46070842,1061,1542902538,1038,A,800,greedy-implementation-math,sark_01,Java 8,124,0,OK
+46070823,1061,1542902531,1031,A,800,greedy-implementation-math,mohan_bera,Java 8,140,0,OK
+46070808,1061,1542902525,1025,A,800,greedy-implementation-math,aman_10_1994,Java 8,124,0,OK
+46070747,1061,1542902503,1003,A,800,greedy-implementation-math,sarahfarag125,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46070632,1061,1542902462,962,A,800,greedy-implementation-math,jigyasak05,Java 8,140,0,OK
+46070613,1061,1542902457,957,A,800,greedy-implementation-math,AbhijeetKns,Java 8,405,0,OK
+46070611,1061,1542902457,957,A,800,greedy-implementation-math,Noora.Sweis,Java 8,155,0,OK
+46070603,1061,1542902453,953,A,800,greedy-implementation-math,DmiaZ,Java 8,140,0,OK
+46070559,1061,1542902440,940,A,800,greedy-implementation-math,akshita00,Java 8,155,0,OK
+46070536,1061,1542902434,934,A,800,greedy-implementation-math,ivan046f,Java 8,140,0,OK
+46070518,1061,1542902428,928,A,800,greedy-implementation-math,nirenamid,Java 8,140,0,OK
+46070499,1061,1542902422,922,A,800,greedy-implementation-math,younesbmz,Java 8,124,0,OK
+46070472,1061,1542902413,913,A,800,greedy-implementation-math,sumit.kumar,Java 8,140,0,OK
+46070423,1061,1542902396,896,B,1500,greedy-implementation-sortings,Shaykhutdinov-T-I,Java 8,171,2457600,OK
+46070407,1061,1542902393,893,A,800,greedy-implementation-math,burra810,Java 8,171,0,OK
+46070398,1061,1542902391,891,A,800,greedy-implementation-math,jkulanko,Java 8,420,0,OK
+46070346,1061,1542902376,876,A,800,greedy-implementation-math,soumyab,Java 8,140,0,OK
+46070308,1061,1542902365,865,A,800,greedy-implementation-math,sarahfarag125,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46070208,1061,1542902331,831,B,1500,greedy-implementation-sortings,tri,Java 8,155,0,OK
+46070176,1061,1542902322,822,B,1500,greedy-implementation-sortings,uwi,Java 8,139,0,OK
+46070173,1061,1542902321,821,A,800,greedy-implementation-math,Dazileo8,Java 8,140,0,OK
+46070165,1061,1542902319,819,A,800,greedy-implementation-math,Lanirina,Java 8,966,0,OK
+46070137,1061,1542902311,811,A,800,greedy-implementation-math,qwerty12345qwerty,Java 8,140,0,OK
+46070077,1061,1542902293,793,A,800,greedy-implementation-math,rmartin,Java 8,156,0,OK
+46070074,1061,1542902292,792,A,800,greedy-implementation-math,Java,Java 8,156,0,OK
+46070055,1061,1542902287,787,A,800,greedy-implementation-math,ankyy_0103,Java 8,140,0,OK
+46070054,1061,1542902287,787,A,800,greedy-implementation-math,jayliner66,Java 8,124,0,OK
+46069867,1061,1542902231,731,A,800,greedy-implementation-math,Abdelrahman_26,Java 8,124,0,OK
+46069858,1061,1542902229,729,B,1500,greedy-implementation-sortings,GreatWhite,Java 8,155,2355200,OK
+46069848,1061,1542902223,723,B,1500,greedy-implementation-sortings,AkshajK,Java 8,155,0,OK
+46069795,1061,1542902205,705,A,800,greedy-implementation-math,shubhch32,Java 8,140,0,OK
+46069692,1061,1542902180,680,A,800,greedy-implementation-math,rizqycf27,Java 8,124,0,OK
+46069653,1061,1542902173,673,A,800,greedy-implementation-math,rayan.94,Java 8,420,0,OK
+46069641,1061,1542902171,671,A,800,greedy-implementation-math,Nicklauss,Java 8,124,0,OK
+46069623,1061,1542902167,667,A,800,greedy-implementation-math,ivan046f,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46069596,1061,1542902160,660,A,800,greedy-implementation-math,eia18phatle,Java 8,670,0,OK
+46069448,1061,1542902120,620,A,800,greedy-implementation-math,tanuja_7,Java 8,140,0,OK
+46069435,1061,1542902117,617,A,800,greedy-implementation-math,riyasnh,Java 8,124,0,OK
+46069400,1061,1542902108,608,A,800,greedy-implementation-math,baobab,Java 8,1091,0,OK
+46069352,1061,1542902094,594,A,800,greedy-implementation-math,_R_peggy,Java 8,140,0,OK
+46069242,1061,1542902069,569,A,800,greedy-implementation-math,jzy_204,Java 8,670,0,OK
+46069217,1061,1542902064,564,A,800,greedy-implementation-math,naman11396,Java 8,140,0,OK
+46069212,1061,1542902062,562,A,800,greedy-implementation-math,thor1234,Java 8,155,0,OK
+46069166,1061,1542902051,551,A,800,greedy-implementation-math,Dmitry99,Java 8,140,0,OK
+46069144,1061,1542902047,547,B,1500,greedy-implementation-sortings,guptautkarsh028,Java 8,140,0,OK
+46069117,1061,1542902042,542,A,800,greedy-implementation-math,Isa,Java 8,139,0,OK
+46069111,1061,1542902041,541,A,800,greedy-implementation-math,rishabh_cdfroces,Java 8,124,0,OK
+46069110,1061,1542902041,541,A,800,greedy-implementation-math,Md_Nishat,Java 8,124,0,OK
+46069109,1061,1542902041,541,A,800,greedy-implementation-math,VitDub,Java 8,1185,0,OK
+46069094,1061,1542902037,537,A,800,greedy-implementation-math,Pat119,Java 8,717,0,OK
+46069064,1061,1542902027,527,A,800,greedy-implementation-math,masterbios,Java 8,124,0,OK
+46069039,1061,1542902021,521,A,800,greedy-implementation-math,mufaddalnaya,Java 8,140,0,OK
+46069016,1061,1542902015,515,A,800,greedy-implementation-math,ravi.baisani,Java 8,140,0,OK
+46068985,1061,1542902011,511,A,800,greedy-implementation-math,MadTomato,Java 8,124,0,OK
+46068950,1061,1542902004,504,A,800,greedy-implementation-math,Abdelfattah_Mohamed,Java 8,140,0,OK
+46068920,1061,1542901998,498,A,800,greedy-implementation-math,ZappSnapp,Java 8,655,0,OK
+46068911,1061,1542901995,495,A,800,greedy-implementation-math,egg,Java 8,155,0,OK
+46068844,1061,1542901984,484,A,800,greedy-implementation-math,AmirMohammadKarimi,Java 8,140,0,OK
+46068836,1061,1542901982,482,A,800,greedy-implementation-math,aahnn,Java 8,140,0,OK
+46068820,1061,1542901977,477,A,800,greedy-implementation-math,avankyankit,Java 8,140,0,OK
+46068733,1061,1542901957,457,A,800,greedy-implementation-math,hellojdh,Java 8,701,0,OK
+46068677,1061,1542901947,447,A,800,greedy-implementation-math,shahdhairya678,Java 8,140,0,OK
+46068658,1061,1542901943,443,A,800,greedy-implementation-math,Mahakarma,Java 8,109,0,OK
+46068637,1061,1542901937,437,A,800,greedy-implementation-math,ahaddce,Java 8,124,0,OK
+46068599,1061,1542901932,432,A,800,greedy-implementation-math,Mohamed_AbdEl_Mohaimen,Java 8,140,0,OK
+46068569,1061,1542901926,426,A,800,greedy-implementation-math,gabothekiller,Java 8,109,0,OK
+46068566,1061,1542901926,426,A,800,greedy-implementation-math,GiGlema,Java 8,140,0,OK
+46068555,1061,1542901925,425,A,800,greedy-implementation-math,Mohamed_Saad62,Java 8,156,0,OK
+46068544,1061,1542901923,423,A,800,greedy-implementation-math,mdazmat9,Java 8,124,0,OK
+46068507,1061,1542901917,417,A,800,greedy-implementation-math,akash6019,Java 8,139,0,OK
+46068448,1061,1542901908,408,A,800,greedy-implementation-math,ileo,Java 8,140,0,OK
+46068400,1061,1542901897,397,A,800,greedy-implementation-math,gsap54,Java 8,140,0,OK
+46068393,1061,1542901896,396,A,800,greedy-implementation-math,qlf9,Java 8,124,0,OK
+46068357,1061,1542901891,391,A,800,greedy-implementation-math,KharYusuf,Java 8,1606,0,OK
+46068273,1061,1542901879,379,A,800,greedy-implementation-math,_olOlo_,Java 8,109,0,OK
+46068265,1061,1542901877,377,A,800,greedy-implementation-math,arry_stark,Java 8,140,0,OK
+46068257,1061,1542901877,377,A,800,greedy-implementation-math,pc_wallace,Java 8,124,0,OK
+46068237,1061,1542901871,371,A,800,greedy-implementation-math,ihababdk,Java 8,140,0,OK
+46068230,1061,1542901870,370,A,800,greedy-implementation-math,yuttapichai.ke,Java 8,155,0,OK
+46068227,1061,1542901869,369,A,800,greedy-implementation-math,bitFurry,Java 8,109,0,OK
+46068226,1061,1542901869,369,A,800,greedy-implementation-math,codeforcessup,Java 8,140,0,OK
+46068222,1061,1542901869,369,A,800,greedy-implementation-math,mohdafzal330,Java 8,124,0,OK
+46068136,1061,1542901857,357,A,800,greedy-implementation-math,makarfi,Java 8,155,0,OK
+46068135,1061,1542901857,357,A,800,greedy-implementation-math,MikeFaraday,Java 8,124,0,OK
+46068105,1061,1542901853,353,A,800,greedy-implementation-math,Verdusk,Java 8,686,0,OK
+46067915,1061,1542901829,329,A,800,greedy-implementation-math,samyar,Java 8,140,0,OK
+46067904,1061,1542901828,328,A,800,greedy-implementation-math,spandand515,Java 8,140,0,OK
+46067861,1061,1542901821,321,A,800,greedy-implementation-math,jjluczyn,Java 8,140,0,OK
+46067792,1061,1542901812,312,A,800,greedy-implementation-math,utsav_deep,Java 8,124,0,OK
+46067760,1061,1542901807,307,A,800,greedy-implementation-math,mohamed_fathy,Java 8,140,0,OK
+46067703,1061,1542901799,299,A,800,greedy-implementation-math,MovingBit,Java 8,155,0,OK
+46067691,1061,1542901797,297,A,800,greedy-implementation-math,slava812,Java 8,124,0,OK
+46067672,1061,1542901795,295,A,800,greedy-implementation-math,AJ47,Java 8,124,0,OK
+46067667,1061,1542901795,295,A,800,greedy-implementation-math,lvyiwei1,Java 8,140,0,OK
+46067657,1061,1542901793,293,A,800,greedy-implementation-math,Anonymous,Java 8,140,0,OK
+46067642,1061,1542901792,292,A,800,greedy-implementation-math,O_E,Java 8,124,0,OK
+46067625,1061,1542901791,291,A,800,greedy-implementation-math,Purendra_,Java 8,124,0,OK
+46067603,1061,1542901789,289,A,800,greedy-implementation-math,MCHaixin,Java 8,155,0,OK
+46067524,1061,1542901782,282,A,800,greedy-implementation-math,noob__coder,Java 8,124,0,OK
+46067521,1061,1542901782,282,A,800,greedy-implementation-math,surfer007,Java 8,109,0,OK
+46067499,1061,1542901779,279,A,800,greedy-implementation-math,xwchen,Java 8,124,0,OK
+46067458,1061,1542901775,275,A,800,greedy-implementation-math,Alex_Gal,Java 8,109,0,OK
+46067395,1061,1542901770,270,A,800,greedy-implementation-math,aman_29,Java 8,139,0,OK
+46067340,1061,1542901766,266,A,800,greedy-implementation-math,Whiplash99,Java 8,124,0,OK
+46067331,1061,1542901765,265,A,800,greedy-implementation-math,joney_000,Java 8,514,0,OK
+46067327,1061,1542901765,265,A,800,greedy-implementation-math,rishz,Java 8,109,0,OK
+46067312,1061,1542901764,264,A,800,greedy-implementation-math,pili,Java 8,140,0,OK
+46067298,1061,1542901763,263,A,800,greedy-implementation-math,DropKeBaadNirma,Java 8,124,0,OK
+46067262,1061,1542901760,260,A,800,greedy-implementation-math,habibulka,Java 8,109,0,OK
+46067241,1061,1542901758,258,A,800,greedy-implementation-math,prathmesh_01,Java 8,109,0,OK
+46067104,1061,1542901743,243,A,800,greedy-implementation-math,reborn.chris,Java 8,124,0,OK
+46066985,1061,1542901732,232,A,800,greedy-implementation-math,Darko,Java 8,140,0,OK
+46066968,1061,1542901730,230,A,800,greedy-implementation-math,boltUsain,Java 8,124,0,OK
+46066923,1061,1542901725,225,A,800,greedy-implementation-math,wolfib,Java 8,124,0,OK
+46066906,1061,1542901724,224,A,800,greedy-implementation-math,art.licis,Java 8,155,0,OK
+46066862,1061,1542901719,219,A,800,greedy-implementation-math,A-1_1-A,Java 8,140,0,OK
+46066861,1061,1542901719,219,A,800,greedy-implementation-math,LM.10,Java 8,124,0,OK
+46066777,1061,1542901711,211,A,800,greedy-implementation-math,aminul,Java 8,124,0,OK
+46066693,1061,1542901706,206,A,800,greedy-implementation-math,NatInTheHat,Java 8,124,0,OK
+46066617,1061,1542901701,201,A,800,greedy-implementation-math,SchrodZzz,Java 8,670,0,OK
+46066592,1061,1542901699,199,A,800,greedy-implementation-math,stevie1024,Java 8,124,0,OK
+46066560,1061,1542901696,196,A,800,greedy-implementation-math,jnasridinov,Java 8,140,0,OK
+46066483,1061,1542901692,192,A,800,greedy-implementation-math,MoreThanANoob,Java 8,124,0,OK
+46066478,1061,1542901692,192,A,800,greedy-implementation-math,benpr99,Java 8,124,0,OK
+46066455,1061,1542901691,191,A,800,greedy-implementation-math,its_ulure,Java 8,124,0,OK
+46066417,1061,1542901687,187,A,800,greedy-implementation-math,brooksm,Java 8,140,0,OK
+46066377,1061,1542901685,185,A,800,greedy-implementation-math,uwi,Java 8,124,0,OK
+46066371,1061,1542901685,185,A,800,greedy-implementation-math,Mared_Coder,Java 8,124,0,OK
+46066342,1061,1542901682,182,A,800,greedy-implementation-math,fnozoszzt,Java 8,155,0,OK
+46066229,1061,1542901673,173,A,800,greedy-implementation-math,flyman3046,Java 8,124,0,OK
+46066195,1061,1542901669,169,A,800,greedy-implementation-math,intrepidcoder,Java 8,124,0,OK
+46066175,1061,1542901667,167,A,800,greedy-implementation-math,Oulet,Java 8,124,0,OK
+46066157,1061,1542901665,165,A,800,greedy-implementation-math,ExplodingFreeze,Java 8,109,0,OK
+46066102,1061,1542901661,161,A,800,greedy-implementation-math,jenish9599,Java 8,124,0,OK
+46066101,1061,1542901661,161,A,800,greedy-implementation-math,Ziax,Java 8,109,0,OK
+46066091,1061,1542901661,161,A,800,greedy-implementation-math,tri,Java 8,124,0,OK
+46066084,1061,1542901660,160,A,800,greedy-implementation-math,jonsnow7,Java 8,124,0,OK
+46066072,1061,1542901659,159,A,800,greedy-implementation-math,tusharjape007,Java 8,124,0,OK
+46066001,1061,1542901655,155,A,800,greedy-implementation-math,golions,Java 8,124,0,OK
+46065991,1061,1542901654,154,A,800,greedy-implementation-math,rahulkhairwar,Java 8,124,0,OK
+46065889,1061,1542901648,148,A,800,greedy-implementation-math,Radwan_,Java 8,109,0,OK
+46065884,1061,1542901648,148,A,800,greedy-implementation-math,LockHeart,Java 8,202,0,OK
+46065871,1061,1542901648,148,A,800,greedy-implementation-math,shreyas_21,Java 8,155,0,OK
+46065818,1061,1542901644,144,A,800,greedy-implementation-math,Nesrin,Java 8,124,0,OK
+46065812,1061,1542901644,144,A,800,greedy-implementation-math,BaZ_,Java 8,124,0,OK
+46065777,1061,1542901641,141,A,800,greedy-implementation-math,amanchik,Java 8,124,0,OK
+46065770,1061,1542901641,141,A,800,greedy-implementation-math,Suunn,Java 8,140,0,OK
+46065678,1061,1542901635,135,A,800,greedy-implementation-math,weird_penguin,Java 8,171,0,OK
+46065634,1061,1542901632,132,A,800,greedy-implementation-math,wflms20110333,Java 8,109,0,OK
+46065624,1061,1542901632,132,A,800,greedy-implementation-math,cravuri,Java 8,140,0,OK
+46065473,1061,1542901623,123,A,800,greedy-implementation-math,spar5h,Java 8,124,0,OK
+46065450,1061,1542901621,121,A,800,greedy-implementation-math,AuroraGarden,Java 8,124,0,OK
+46065402,1061,1542901618,118,A,800,greedy-implementation-math,_mina,Java 8,124,0,OK
+46065372,1061,1542901616,116,A,800,greedy-implementation-math,Shaykhutdinov-T-I,Java 8,124,0,OK
+46065319,1061,1542901612,112,A,800,greedy-implementation-math,Omar_Morsi,Java 8,124,0,OK
+46065313,1061,1542901611,111,A,800,greedy-implementation-math,thanhnam.csc,Java 8,155,0,OK
+46065303,1061,1542901611,111,A,800,greedy-implementation-math,YahiaBadr,Java 8,124,0,OK
+46065291,1061,1542901610,110,A,800,greedy-implementation-math,GreatWhite,Java 8,109,0,OK
+46065253,1061,1542901607,107,A,800,greedy-implementation-math,aabdelzaher,Java 8,109,0,OK
+46065229,1061,1542901605,105,A,800,greedy-implementation-math,Vladimirr.Petrunko,Java 8,140,0,OK
+46065227,1061,1542901605,105,A,800,greedy-implementation-math,guptautkarsh028,Java 8,124,0,OK
+46065219,1061,1542901605,105,A,800,greedy-implementation-math,Kharouba,Java 8,124,0,OK
+46065146,1061,1542901598,98,A,800,greedy-implementation-math,nchn27,Java 8,156,0,OK
+46065125,1061,1542901596,96,A,800,greedy-implementation-math,AkshajK,Java 8,124,0,OK
+46065095,1061,1542901594,94,A,800,greedy-implementation-math,khokharnikunj8,Java 8,124,0,OK
+46065083,1061,1542901593,93,A,800,greedy-implementation-math,msagimbekov,Java 8,156,0,OK
+46065065,1061,1542901592,92,A,800,greedy-implementation-math,ViciousCoder,Java 8,124,0,OK
+46065051,1061,1542901591,91,A,800,greedy-implementation-math,4mda4mda,Java 8,124,0,OK
+46065042,1061,1542901589,89,A,800,greedy-implementation-math,PrakharJain,Java 8,124,0,OK
+46064937,1061,1542901578,78,A,800,greedy-implementation-math,poketred12,Java 8,124,0,OK
+46064894,1061,1542901572,72,A,800,greedy-implementation-math,IDzekh,Java 8,140,0,OK
+46064885,1061,1542901570,70,A,800,greedy-implementation-math,Musin,Java 8,109,0,OK
+46064847,1061,1542901563,63,A,800,greedy-implementation-math,wery0,Java 8,139,0,OK
+46064838,1061,1542901561,61,A,800,greedy-implementation-math,Taran_1407,Java 8,140,0,OK

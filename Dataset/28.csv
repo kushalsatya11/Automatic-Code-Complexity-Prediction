@@ -1,0 +1,239 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57560151,28,1563838726,2147483647,B,1600,dfs and similar-dsu-graphs,o.radwan,Java 8,218,0
+57501767,28,1563791341,2147483647,B,1600,dfs and similar-dsu-graphs,adeepgarg13,Java 8,218,0
+52556712,28,1554883808,2147483647,B,1600,dfs and similar-dsu-graphs,ask6,Java 8,310,0
+47890634,28,1546582267,2147483647,B,1600,dfs and similar-dsu-graphs,kunal725725,Java 8,248,0
+46454478,28,1543685867,2147483647,B,1600,dfs and similar-dsu-graphs,hongquanntct,Java 8,310,0
+45799679,28,1542372030,2147483647,B,1600,dfs and similar-dsu-graphs,ViciousCoder,Java 8,218,0
+43454759,28,1537972393,2147483647,B,1600,dfs and similar-dsu-graphs,Sasuke-u,Java 8,248,0
+42904879,28,1537053507,2147483647,A,2200,implementation,sancho20021,Java 8,404,0
+40766569,28,1532587392,2147483647,B,1600,dfs and similar-dsu-graphs,tsumit023,Java 8,248,0
+40756307,28,1532560116,2147483647,B,1600,dfs and similar-dsu-graphs,mesmail,Java 8,310,0
+40684982,28,1532395230,2147483647,B,1600,dfs and similar-dsu-graphs,theAbstract,Java 8,342,0
+40648158,28,1532282781,2147483647,B,1600,dfs and similar-dsu-graphs,theAbstract,Java 8,310,0
+40647736,28,1532281424,2147483647,B,1600,dfs and similar-dsu-graphs,mostafanabil198,Java 8,248,0
+36759230,28,1522444953,2147483647,A,2200,implementation,totallynotan,Java 8,280,20787200
+36440693,28,1521572206,2147483647,B,1600,dfs and similar-dsu-graphs,zeyad_khattab,Java 8,278,20684800
+36082286,28,1520543988,2147483647,C,2700,combinatorics-dp-probabilities,yury566,Java 8,1434,21094400
+35669340,28,1519538484,2147483647,B,1600,dfs and similar-dsu-graphs,lehar_11,Java 8,280,20992000
+35537520,28,1519186607,2147483647,A,2200,implementation,vjudge3,Java 8,374,21606400
+34930462,28,1517774756,2147483647,B,1600,dfs and similar-dsu-graphs,davidonsy,Java 8,280,20684800
+33874133,28,1514929846,2147483647,C,2700,combinatorics-dp-probabilities,AJ_Coder,Java 8,310,20992000
+33874083,28,1514929591,2147483647,C,2700,combinatorics-dp-probabilities,AJ_Coder,Java 8,310,20992000
+33192054,28,1513101691,2147483647,B,1600,dfs and similar-dsu-graphs,bhishma,Java 8,342,21196800
+32843609,28,1512169932,2147483647,B,1600,dfs and similar-dsu-graphs,vjudge1,Java 8,280,20684800
+32843304,28,1512167951,2147483647,B,1600,dfs and similar-dsu-graphs,vjudge3,Java 8,248,20684800
+31962007,28,1509566466,2147483647,B,1600,dfs and similar-dsu-graphs,GunnerJw,Java 8,218,0
+30786355,28,1506536609,2147483647,B,1600,dfs and similar-dsu-graphs,Noureldin_Khaled,Java 8,218,0
+30553632,28,1505928095,2147483647,B,1600,dfs and similar-dsu-graphs,lm010,Java 8,218,0
+29864800,28,1504007196,2147483647,C,2700,combinatorics-dp-probabilities,Minaa,Java 8,278,0
+29587660,28,1503115724,2147483647,C,2700,combinatorics-dp-probabilities,Kharouba,Java 8,372,0
+29515700,28,1502931557,2147483647,C,2700,combinatorics-dp-probabilities,aabdelzaher,Java 8,280,0
+29515585,28,1502930393,2147483647,C,2700,combinatorics-dp-probabilities,aabdelzaher,Java 8,716,0
+28410949,28,1499701023,2147483647,B,1600,dfs and similar-dsu-graphs,edoo97,Java 8,248,20582400
+28410373,28,1499698767,2147483647,B,1600,dfs and similar-dsu-graphs,Amr_Ayman,Java 8,248,20582400
+28408649,28,1499693954,2147483647,B,1600,dfs and similar-dsu-graphs,edoo97,Java 8,248,20582400
+28396667,28,1499653867,2147483647,B,1600,dfs and similar-dsu-graphs,El5dewy,Java 8,248,20582400
+28391004,28,1499618106,2147483647,B,1600,dfs and similar-dsu-graphs,Ahmed.Shawky,Java 8,248,20582400
+28383488,28,1499588876,2147483647,B,1600,dfs and similar-dsu-graphs,ahmedayman96,Java 8,218,20582400
+28383217,28,1499587713,2147483647,B,1600,dfs and similar-dsu-graphs,eladdad,Java 8,216,20275200
+27187620,28,1495061113,2147483647,B,1600,dfs and similar-dsu-graphs,pitfall,Java 8,218,0
+25699377,28,1490126944,2147483647,B,1600,dfs and similar-dsu-graphs,odinsonThorin,Java 8,280,20992000
+25576772,28,1489764801,2147483647,B,1600,dfs and similar-dsu-graphs,Omar_Morsi,Java 8,248,20275200
+25415329,28,1489256917,2147483647,B,1600,dfs and similar-dsu-graphs,parth_1,Java 8,218,20582400
+24455792,28,1486313620,2147483647,B,1600,dfs and similar-dsu-graphs,El5dewy,Java 8,248,20480000
+24441561,28,1486242143,2147483647,B,1600,dfs and similar-dsu-graphs,AhmedSoliman,Java 8,280,20889600
+23927849,28,1484760229,2147483647,B,1600,dfs and similar-dsu-graphs,mehdimaick,Java 8,310,20582400
+23927715,28,1484759826,2147483647,B,1600,dfs and similar-dsu-graphs,mehdimaick,Java 8,310,20582400
+23732861,28,1484206892,2147483647,B,1600,dfs and similar-dsu-graphs,mug,Java 8,342,20992000
+22004437,28,1478135578,2147483647,B,1600,dfs and similar-dsu-graphs,EmThoDau,Java 8,218,0
+22004426,28,1478135453,2147483647,B,1600,dfs and similar-dsu-graphs,EmThoDau,Java 8,248,0
+21996561,28,1478103119,2147483647,B,1600,dfs and similar-dsu-graphs,thanhld94,Java 8,310,0
+21645437,28,1477063362,2147483647,B,1600,dfs and similar-dsu-graphs,Mohamed_KHLY,Java 8,310,0
+21005978,28,1475204695,2147483647,B,1600,dfs and similar-dsu-graphs,lehar,Java 8,310,0
+20555501,28,1473708311,2147483647,B,1600,dfs and similar-dsu-graphs,dhruvil_1bhuptani,Java 8,310,0
+20320072,28,1472728893,2147483647,B,1600,dfs and similar-dsu-graphs,Hoda_Hisham,Java 8,278,0
+19828516,28,1471005306,2147483647,B,1600,dfs and similar-dsu-graphs,Ahmad_Elsagheer,Java 8,248,20275200
+19786865,28,1470929089,2147483647,C,2700,combinatorics-dp-probabilities,Omar_Morsi,Java 8,466,20889600
+19782691,28,1470913986,2147483647,C,2700,combinatorics-dp-probabilities,abdo_shabrawy,Java 8,404,20172800
+18973008,28,1467995288,2147483647,C,2700,combinatorics-dp-probabilities,osama.alb96,Java 8,310,0
+18817643,28,1467267572,2147483647,B,1600,dfs and similar-dsu-graphs,poikniok,Java 8,248,0
+18817597,28,1467267383,2147483647,B,1600,dfs and similar-dsu-graphs,poikniok,Java 8,248,0
+18649156,28,1466610558,2147483647,B,1600,dfs and similar-dsu-graphs,h_mohamed,Java 8,342,0
+18649107,28,1466610303,2147483647,B,1600,dfs and similar-dsu-graphs,Ron_M,Java 8,310,0
+16735701,28,1458083788,2147483647,C,2700,combinatorics-dp-probabilities,MedoN11,Java 7,280,0
+14754874,28,1449824156,2147483647,A,2200,implementation,ian9696,Java 8,280,0
+13902978,28,1445968868,2147483647,B,1600,dfs and similar-dsu-graphs,Code.coding,Java 8,248,0
+13787559,28,1445504215,2147483647,D,2600,binary search-data structures-dp-hashing,kws4679,Java 7,1028,109056000
+13656090,28,1444960682,2147483647,C,2700,combinatorics-dp-probabilities,kws4679,Java 7,248,0
+13587093,28,1444712444,2147483647,B,1600,dfs and similar-dsu-graphs,kws4679,Java 7,156,0
+13586721,28,1444709812,2147483647,B,1600,dfs and similar-dsu-graphs,kws4679,Java 7,154,0
+13485180,28,1444255798,2147483647,C,2700,combinatorics-dp-probabilities,lordklotski,Java 7,622,0
+12785668,28,1441008939,2147483647,B,1600,dfs and similar-dsu-graphs,mkirsche,Java 7,186,0
+12688213,28,1440443598,2147483647,B,1600,dfs and similar-dsu-graphs,analog,Java 8,218,0
+10631082,28,1428502623,2147483647,B,1600,dfs and similar-dsu-graphs,fnch,Java 8,218,0
+10095597,28,1425211016,2147483647,B,1600,dfs and similar-dsu-graphs,trunghieu11,Java 7,154,0
+9340358,28,1420130057,2147483647,B,1600,dfs and similar-dsu-graphs,TranCongDuy,Java 6,154,0
+9340090,28,1420127814,2147483647,B,1600,dfs and similar-dsu-graphs,TranCongDuy,Java 6,154,0
+9331462,28,1420012415,2147483647,B,1600,dfs and similar-dsu-graphs,htplex,Java 8,280,0
+8839385,28,1416853067,2147483647,B,1600,dfs and similar-dsu-graphs,GhpS,Java 6,280,0
+8839365,28,1416852974,2147483647,B,1600,dfs and similar-dsu-graphs,GhpS,Java 6,278,0
+7692251,28,1409987283,2147483647,C,2700,combinatorics-dp-probabilities,Abdelrahman22,Java 7,186,0
+7044759,28,1404795144,2147483647,B,1600,dfs and similar-dsu-graphs,I_love_Malika,Java 7,154,0
+7044713,28,1404794550,2147483647,B,1600,dfs and similar-dsu-graphs,I_love_Malika,Java 7,154,0
+6511802,28,1398876007,2147483647,B,1600,dfs and similar-dsu-graphs,nickbuelich,Java 7,154,0
+5997860,28,1394555776,2147483647,A,2200,implementation,alibaba,Java 6,156,204800
+5994831,28,1394533234,2147483647,B,1600,dfs and similar-dsu-graphs,alibaba,Java 6,124,0
+5597031,28,1388567154,2147483647,B,1600,dfs and similar-dsu-graphs,GhpS,Java 7,124,0
+5499459,28,1387841656,2147483647,B,1600,dfs and similar-dsu-graphs,nikchee1,Java 7,156,0
+5461523,28,1387379122,2147483647,D,2600,binary search-data structures-dp-hashing,Zyflair,Java 7,560,13516800
+5460608,28,1387370464,2147483647,C,2700,combinatorics-dp-probabilities,Zyflair,Java 7,1184,0
+5458354,28,1387335061,2147483647,B,1600,dfs and similar-dsu-graphs,Zyflair,Java 7,124,0
+5458316,28,1387334162,2147483647,A,2200,implementation,Zyflair,Java 7,124,0
+5166307,28,1384897590,2147483647,A,2200,implementation,j4mes,Java 7,904,0
+4762838,28,1381626408,2147483647,A,2200,implementation,atubo,Java 6,496,307200
+4760583,28,1381599117,2147483647,B,1600,dfs and similar-dsu-graphs,miguelmaurizio,Java 7,372,0
+4285345,28,1376635263,2147483647,A,2200,implementation,cxlove,Java 7,186,0
+4285255,28,1376633252,2147483647,B,1600,dfs and similar-dsu-graphs,cxlove,Java 7,156,0
+4285225,28,1376632506,2147483647,C,2700,combinatorics-dp-probabilities,cxlove,Java 7,156,0
+4275321,28,1376444571,2147483647,B,1600,dfs and similar-dsu-graphs,Dylan,Java 7,186,0
+4241331,28,1375916163,2147483647,B,1600,dfs and similar-dsu-graphs,ajin,Java 7,186,0
+4231578,28,1375683949,2147483647,B,1600,dfs and similar-dsu-graphs,trunghieu11,Java 7,124,0
+4203590,28,1375177917,2147483647,B,1600,dfs and similar-dsu-graphs,trunghieu11,Java 7,156,0
+4099670,28,1374155986,2147483647,C,2700,combinatorics-dp-probabilities,ahmedAbdallah,Java 6,140,0
+3288003,28,1362983142,2147483647,B,1600,dfs and similar-dsu-graphs,su_58,Java 6,109,0
+3138113,28,1361046127,2147483647,B,1600,dfs and similar-dsu-graphs,hs484,Java 6,78,0
+2899283,28,1357732395,2147483647,A,2200,implementation,hama-du,Java 6,140,102400
+2863937,28,1357051465,2147483647,A,2200,implementation,hama-du,Java 6,125,102400
+2863898,28,1357050878,6878,A,2200,implementation,hama-du,Java 6,140,102400
+2863887,28,1357050602,6601,A,2200,implementation,hama-du,Java 6,109,0
+2863835,28,1357049790,5790,C,2700,combinatorics-dp-probabilities,hama-du,Java 6,781,102400
+2863691,28,1357047632,3632,A,2200,implementation,hama-du,Java 6,140,0
+2863660,28,1357047059,3059,B,1600,dfs and similar-dsu-graphs,hama-du,Java 6,109,0
+2863573,28,1357045991,1991,A,2200,implementation,hama-du,Java 6,124,0
+2863565,28,1357045854,1854,A,2200,implementation,hama-du,Java 6,125,0
+2699482,28,1354785344,2147483647,A,2200,implementation,su_58,Java 6,140,307200
+1868040,28,1341559342,4342,B,1600,dfs and similar-dsu-graphs,Azat_Yusupov,Java 6,130,43315200
+1867910,28,1341557527,2527,A,2200,implementation,Azat_Yusupov,Java 6,170,43520000
+1764486,28,1338827260,2147483647,B,1600,dfs and similar-dsu-graphs,jiangzhijie,Java 7,90,44953600
+1361259,28,1331904402,2147483647,B,1600,dfs and similar-dsu-graphs,todo,Java 6,90,43212800
+1353126,28,1331578715,2147483647,B,1600,dfs and similar-dsu-graphs,Sinner,Java 6,80,43008000
+1233715,28,1330164773,2147483647,A,2200,implementation,todo,Java 6,130,45056000
+1173049,28,1328987594,2147483647,A,2200,implementation,mostafa_fahim,Java 6,140,43315200
+951881,28,1323621326,38885726,B,1600,dfs and similar-dsu-graphs,mostafa_fahim,Java 6,140,43110400
+951879,28,1323621227,38885627,B,1600,dfs and similar-dsu-graphs,mostafa_fahim,Java 6,130,43212800
+886147,28,1321977610,37242010,B,1600,dfs and similar-dsu-graphs,kiko91_7,Java 6,130,43212800
+858597,28,1321027840,36292240,B,1600,dfs and similar-dsu-graphs,Azat_Yusupov,Java 6,160,43110400
+825667,28,1320295255,35559655,B,1600,dfs and similar-dsu-graphs,DoublePointer,Java 6,130,43110400
+821426,28,1320052071,35316471,C,2700,combinatorics-dp-probabilities,mingrimingyue,Java 6,420,35328000
+736541,28,1317702405,32966805,B,1600,dfs and similar-dsu-graphs,trogloditas,Java 6,110,35225600
+710389,28,1316582348,31846748,C,2700,combinatorics-dp-probabilities,Mostafa.Ali,Java 6,860,35225600
+708226,28,1316409530,31673930,C,2700,combinatorics-dp-probabilities,Omar.Darwish,Java 6,890,35328000
+708221,28,1316408771,31673171,C,2700,combinatorics-dp-probabilities,islam-al-aarag,Java 6,170,35328000
+708212,28,1316407782,31672182,B,1600,dfs and similar-dsu-graphs,Mostafa.Ali,Java 6,110,35225600
+708198,28,1316405865,31670265,B,1600,dfs and similar-dsu-graphs,Omar.Darwish,Java 6,110,35328000
+708174,28,1316405722,31670122,A,2200,implementation,Mostafa.Ali,Java 6,140,35430400
+708165,28,1316405575,31669975,B,1600,dfs and similar-dsu-graphs,islam-al-aarag,Java 6,140,35328000
+708156,28,1316404596,31668996,A,2200,implementation,Omar.Darwish,Java 6,140,35532800
+708154,28,1316404482,31668882,A,2200,implementation,islam-al-aarag,Java 6,170,35430400
+657063,28,1315047190,30311590,B,1600,dfs and similar-dsu-graphs,Dunaril,Java 6,360,35328000
+655303,28,1314923710,30188110,B,1600,dfs and similar-dsu-graphs,Ahmed_Salama,Java 6,110,35328000
+655293,28,1314922064,30186464,B,1600,dfs and similar-dsu-graphs,ahmad_mamdouh,Java 6,110,34918400
+638325,28,1314315024,29579424,A,2200,implementation,Dunaril,Java 6,170,35328000
+486832,28,1307971387,23235787,C,2700,combinatorics-dp-probabilities,AlexDmitriev,Java 6,410,35123200
+484659,28,1307687468,22951868,C,2700,combinatorics-dp-probabilities,tehqin,Java 6,170,35328000
+484592,28,1307681364,22945764,B,1600,dfs and similar-dsu-graphs,tehqin,Java 6,110,35328000
+484589,28,1307680880,22945280,A,2200,implementation,tehqin,Java 6,130,35328000
+445809,28,1305213394,20477794,B,1600,dfs and similar-dsu-graphs,dened,Java 6,90,43315200
+338762,28,1300306809,15571209,A,2200,implementation,Slamur,Java 6,90,43417600
+252350,28,1295058767,10323167,C,2700,combinatorics-dp-probabilities,PasserbyA,Java 6,140,43417600
+243052,28,1294584697,9849097,A,2200,implementation,logN,Java 6,160,43417600
+124128,28,1287309385,2573785,D,2600,binary search-data structures-dp-hashing,uwi,Java 6,780,60825600
+124092,28,1286078947,1343347,A,2200,implementation,Princeton3,Java 6,140,43417600
+124081,28,1286049286,1313686,A,2200,implementation,zxfsheep,Java 6,80,43315200
+124076,28,1286046574,1310974,B,1600,dfs and similar-dsu-graphs,zxfsheep,Java 6,80,43315200
+124071,28,1285941767,1206167,A,2200,implementation,yantar92,Java 6,130,43417600
+124070,28,1285858473,1122873,C,2700,combinatorics-dp-probabilities,anhdt,Java 6,80,43417600
+123998,28,1285255984,520384,B,1600,dfs and similar-dsu-graphs,shalinmangar,Java 6,80,42905600
+123959,28,1285176909,441309,A,2200,implementation,shalinmangar,Java 6,110,42905600
+123932,28,1285057050,321450,B,1600,dfs and similar-dsu-graphs,marser,Java 6,90,42905600
+123880,28,1284925544,189944,D,2600,binary search-data structures-dp-hashing,stef2n,Java 6,1420,42905600
+123878,28,1284925245,189645,D,2600,binary search-data structures-dp-hashing,stef2n,Java 6,1360,42905600
+123874,28,1284923294,187694,B,1600,dfs and similar-dsu-graphs,fetetriste,Java 6,80,42905600
+123873,28,1284923276,187676,A,2200,implementation,fetetriste,Java 6,170,57446400
+123850,28,1284888004,152404,A,2200,implementation,marser,Java 6,90,42905600
+123730,28,1284825212,89612,D,2600,binary search-data structures-dp-hashing,mipt.vi002,Java 6,590,44544000
+123709,28,1284822269,86669,C,2700,combinatorics-dp-probabilities,Borisp,Java 6,340,42905600
+123654,28,1284803381,67781,C,2700,combinatorics-dp-probabilities,S.Yesipenko,Java 6,160,42905600
+123633,28,1284795631,60031,B,1600,dfs and similar-dsu-graphs,i.nagata110,Java 6,110,42905600
+123629,28,1284792556,56956,A,2200,implementation,i.nagata110,Java 6,140,42905600
+123522,28,1284765245,29645,A,2200,implementation,stef2n,Java 6,130,42905600
+123521,28,1284765231,29631,B,1600,dfs and similar-dsu-graphs,stef2n,Java 6,90,42905600
+123520,28,1284765152,29552,C,2700,combinatorics-dp-probabilities,stef2n,Java 6,160,42905600
+123512,28,1284761871,26271,C,2700,combinatorics-dp-probabilities,Narg,Java 6,160,42905600
+123452,28,1284748019,12419,C,2700,combinatorics-dp-probabilities,Burunduk1,Java 6,170,42905600
+123396,28,1284746202,10602,B,1600,dfs and similar-dsu-graphs,yaro,Java 6,80,42905600
+123389,28,1284745991,10391,C,2700,combinatorics-dp-probabilities,yaro,Java 6,80,42905600
+123380,28,1284745800,10200,C,2700,combinatorics-dp-probabilities,yaro,Java 6,90,42905600
+123373,28,1284745461,9861,C,2700,combinatorics-dp-probabilities,yaro,Java 6,130,42905600
+123363,28,1284745230,9630,B,1600,dfs and similar-dsu-graphs,Narg,Java 6,80,42905600
+123362,28,1284745221,9621,A,2200,implementation,Narg,Java 6,90,42905600
+123344,28,1284744706,9106,D,2600,binary search-data structures-dp-hashing,Narg,Java 6,450,81715200
+123293,28,1284743679,8079,C,2700,combinatorics-dp-probabilities,SpookyCookie,Java 6,220,42905600
+123250,28,1284742501,6901,C,2700,combinatorics-dp-probabilities,niyaznigmatul,Java 6,130,42905600
+123232,28,1284742379,6779,D,2600,binary search-data structures-dp-hashing,KOTEHOK,Java 6,330,42905600
+123216,28,1284742310,6710,A,2200,implementation,LifeMaker,Java 6,110,42905600
+123214,28,1284742308,6708,A,2200,implementation,uwi,Java 6,110,42905600
+123211,28,1284742270,6670,B,1600,dfs and similar-dsu-graphs,mipt.vi002,Java 6,80,42905600
+123156,28,1284741942,6342,C,2700,combinatorics-dp-probabilities,uwi,Java 6,110,42905600
+123125,28,1284741561,5961,B,1600,dfs and similar-dsu-graphs,KTR,Java 6,80,42905600
+123080,28,1284741237,5637,C,2700,combinatorics-dp-probabilities,IgorYevchynets,Java 6,770,42905600
+123048,28,1284740931,5331,B,1600,dfs and similar-dsu-graphs,mohamed.gaber,Java 6,80,43008000
+123019,28,1284740704,5104,B,1600,dfs and similar-dsu-graphs,todo,Java 6,90,42905600
+123003,28,1284740624,5024,C,2700,combinatorics-dp-probabilities,ivan.popelyshev,Java 6,110,42905600
+122975,28,1284740384,4784,B,1600,dfs and similar-dsu-graphs,pyshnograev,Java 6,80,42905600
+122958,28,1284740284,4684,C,2700,combinatorics-dp-probabilities,vsb,Java 6,160,42905600
+122956,28,1284740280,4680,A,2200,implementation,KTR,Java 6,130,42905600
+122953,28,1284740230,4630,C,2700,combinatorics-dp-probabilities,yaro,Java 6,1110,42905600
+122949,28,1284740185,4585,A,2200,implementation,mipt.vi002,Java 6,90,42905600
+122923,28,1284739976,4376,B,1600,dfs and similar-dsu-graphs,altsyp,Java 6,80,42905600
+122882,28,1284739690,4090,C,2700,combinatorics-dp-probabilities,vot,Java 6,720,42905600
+122864,28,1284739573,3973,B,1600,dfs and similar-dsu-graphs,anhdt,Java 6,80,42905600
+122825,28,1284739336,3736,B,1600,dfs and similar-dsu-graphs,ivan.popelyshev,Java 6,80,42905600
+122819,28,1284739305,3705,A,2200,implementation,stef2n,Java 6,130,42905600
+122777,28,1284739005,3405,A,2200,implementation,KaVaBUnGO,Java 6,130,42905600
+122775,28,1284738998,3398,B,1600,dfs and similar-dsu-graphs,komarov,Java 6,90,42905600
+122745,28,1284738859,3259,A,2200,implementation,ivan.popelyshev,Java 6,80,42905600
+122705,28,1284738676,3076,A,2200,implementation,Abra,Java 6,80,42905600
+122695,28,1284738633,3033,A,2200,implementation,Efgen,Java 6,340,97587200
+122678,28,1284738574,2974,B,1600,dfs and similar-dsu-graphs,chronotable,Java 6,90,42905600
+122669,28,1284738514,2914,A,2200,implementation,Burunduk1,Java 6,130,42905600
+122649,28,1284738382,2782,B,1600,dfs and similar-dsu-graphs,Vasya.V,Java 6,80,42905600
+122627,28,1284738286,2686,B,1600,dfs and similar-dsu-graphs,SpookyCookie,Java 6,60,42905600
+122618,28,1284738259,2659,B,1600,dfs and similar-dsu-graphs,SergeyLazarev,Java 6,60,42905600
+122545,28,1284737984,2384,B,1600,dfs and similar-dsu-graphs,S.Yesipenko,Java 6,80,42905600
+122515,28,1284737849,2249,A,2200,implementation,pyshnograev,Java 6,170,58163200
+122505,28,1284737798,2198,C,2700,combinatorics-dp-probabilities,Egor,Java 6,130,42905600
+122491,28,1284737729,2129,B,1600,dfs and similar-dsu-graphs,Narg,Java 6,80,42905600
+122476,28,1284737639,2039,B,1600,dfs and similar-dsu-graphs,stef2n,Java 6,90,42905600
+122449,28,1284737529,1929,A,2200,implementation,vsb,Java 6,80,42905600
+122446,28,1284737519,1919,A,2200,implementation,todo,Java 6,110,42905600
+122439,28,1284737493,1893,B,1600,dfs and similar-dsu-graphs,alexey.enkov,Java 6,80,42905600
+122417,28,1284737399,1799,A,2200,implementation,Hero,Java 6,90,43008000
+122416,28,1284737396,1796,B,1600,dfs and similar-dsu-graphs,LifeMaker,Java 6,80,42905600
+122403,28,1284737321,1721,B,1600,dfs and similar-dsu-graphs,uwi,Java 6,80,42905600
+122395,28,1284737278,1678,B,1600,dfs and similar-dsu-graphs,Thekid,Java 6,80,42905600
+122390,28,1284737249,1649,A,2200,implementation,chronotable,Java 6,130,42905600
+122373,28,1284737190,1590,A,2200,implementation,anhdt,Java 6,160,43929600
+122363,28,1284737102,1502,A,2200,implementation,SpookyCookie,Java 6,90,42905600
+122361,28,1284737099,1499,A,2200,implementation,S.Yesipenko,Java 6,330,99430400
+122335,28,1284736918,1318,A,2200,implementation,Vasya.V,Java 6,80,42905600
+122334,28,1284736899,1299,B,1600,dfs and similar-dsu-graphs,Egor,Java 6,60,42905600
+122331,28,1284736894,1294,A,2200,implementation,Narg,Java 6,80,42905600
+122314,28,1284736784,1184,B,1600,dfs and similar-dsu-graphs,vot,Java 6,80,42905600
+122313,28,1284736779,1179,A,2200,implementation,Thekid,Java 6,90,42905600
+122311,28,1284736770,1170,A,2200,implementation,alexey.enkov,Java 6,90,42905600
+122298,28,1284736659,1059,B,1600,dfs and similar-dsu-graphs,vsb,Java 6,60,42905600
+122292,28,1284736594,994,A,2200,implementation,SergeyLazarev,Java 6,80,42905600
+122281,28,1284736524,924,A,2200,implementation,Egor,Java 6,80,42905600
+122274,28,1284736358,758,A,2200,implementation,vot,Java 6,90,42905600

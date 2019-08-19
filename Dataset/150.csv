@@ -1,0 +1,338 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56477569,150,1562161870,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Leks360,Java 8,171,0
+55582293,150,1560583644,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,wahmodijiwah,Java 8,248,20172800
+52897478,150,1555493889,2147483647,A,1600,games-math-number theory,copyture,Java 8,187,0
+52759149,150,1555269087,2147483647,A,1600,games-math-number theory,ashcodish,Java 8,140,0
+51440886,150,1552902682,2147483647,A,1600,games-math-number theory,Verdusk,Java 8,155,0
+49323793,150,1549027242,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,boltUsain,Java 8,124,0
+49156490,150,1548770171,2147483647,A,1600,games-math-number theory,vjudge3,Java 8,139,0
+48470602,150,1547668809,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,aps,Java 8,218,20787200
+47299750,150,1545313192,2147483647,A,1600,games-math-number theory,viratK,Java 8,155,0
+46197500,150,1543137198,2147483647,A,1600,games-math-number theory,mandark27,Java 8,140,3584000
+46179122,150,1543078054,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,KulikAlex,Java 8,124,0
+45312394,150,1541395746,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,ViciousCoder,Java 8,124,0
+44991375,150,1540731811,2147483647,A,1600,games-math-number theory,guptautkarsh028,Java 8,171,0
+44451822,150,1539792835,2147483647,A,1600,games-math-number theory,ViciousCoder,Java 8,171,0
+44281731,150,1539494014,2147483647,A,1600,games-math-number theory,sanju98,Java 8,109,0
+43812138,150,1538704437,2147483647,A,1600,games-math-number theory,lakshay_nasa,Java 8,202,0
+43752746,150,1538625715,2147483647,A,1600,games-math-number theory,prashantpiyush,Java 8,186,0
+42586012,150,1536254410,2147483647,A,1600,games-math-number theory,wrong_lemma,Java 8,155,0
+41663393,150,1534449354,2147483647,A,1600,games-math-number theory,Jarik,Java 8,187,4915200
+40567480,150,1532067775,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,tsumit023,Java 8,124,0
+39863616,150,1530524117,2147483647,A,1600,games-math-number theory,dipankar12,Java 8,545,8089600
+39284713,150,1529145084,2147483647,C,2300,data structures-math-probabilities,tmwilliamlin168,Java 8,810,19456000
+39284543,150,1529144572,2147483647,C,2300,data structures-math-probabilities,tmwilliamlin168,Java 8,592,17203200
+37355306,150,1523801790,2147483647,A,1600,games-math-number theory,thestormykid,Java 8,234,73216000
+37355290,150,1523801761,2147483647,A,1600,games-math-number theory,unbeatables,Java 8,234,73216000
+37281770,150,1523618653,2147483647,A,1600,games-math-number theory,thesparkboy,Java 8,670,73216000
+36618569,150,1521985851,2147483647,A,1600,games-math-number theory,KulikAlex,Java 8,140,20684800
+35121858,150,1518261589,2147483647,A,1600,games-math-number theory,Lord_ozb,Java 8,171,20992000
+34513762,150,1516791449,2147483647,A,1600,games-math-number theory,karamkontar,Java 8,139,20684800
+34276596,150,1516281358,2147483647,A,1600,games-math-number theory,parth_15,Java 8,202,20684800
+33615458,150,1514202117,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,sanket407,Java 8,124,20684800
+32246389,150,1510497676,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Kammola,Java 8,124,0
+32043662,150,1509775440,2147483647,A,1600,games-math-number theory,ShafinKhadem,Java 8,234,0
+32001443,150,1509697199,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,IntueorDaniel,Java 8,124,0
+31241571,150,1507813712,2147483647,A,1600,games-math-number theory,sjain281297,Java 8,186,0
+30788307,150,1506542531,2147483647,A,1600,games-math-number theory,MostafaAbdullah,Java 8,514,0
+28729354,150,1500567274,2147483647,A,1600,games-math-number theory,AJ_Coder,Java 8,187,20582400
+28409220,150,1499695374,2147483647,A,1600,games-math-number theory,xodiac,Java 8,124,20684800
+28367272,150,1499511668,2147483647,A,1600,games-math-number theory,adityagupta1089,Java 8,140,20582400
+27666380,150,1496909636,2147483647,A,1600,games-math-number theory,unequitedscript,Java 8,467,0
+26588096,150,1492878384,2147483647,D,2600,dp-strings,Bruteforceman,Java 8,1214,40243200
+26192264,150,1491567113,2147483647,A,1600,games-math-number theory,Omar_Morsi,Java 8,358,30617600
+26167415,150,1491476409,2147483647,A,1600,games-math-number theory,da_201501181,Java 8,140,20787200
+26090516,150,1491194295,2147483647,A,1600,games-math-number theory,Maulik_Patel,Java 8,171,20787200
+25659740,150,1489987627,2147483647,A,1600,games-math-number theory,Amore_coder,Java 8,171,20480000
+25364127,150,1489075548,2147483647,A,1600,games-math-number theory,kunalk,Java 8,155,20684800
+25136615,150,1488404622,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,AJ_Coder,Java 8,124,20480000
+23419819,150,1483103262,2147483647,A,1600,games-math-number theory,Kharouba,Java 8,296,44544000
+21856500,150,1477681607,2147483647,A,1600,games-math-number theory,pitfall,Java 8,139,0
+20902635,150,1474788000,2147483647,A,1600,games-math-number theory,arrrhh,Java 8,467,0
+20755394,150,1474289265,2147483647,A,1600,games-math-number theory,Hartha,Java 8,186,0
+20727914,150,1474187363,2147483647,A,1600,games-math-number theory,Arun.Karthikeyan,Java 8,218,3686400
+19890279,150,1471272080,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,pitfall,Java 8,248,20480000
+18272120,150,1465225433,2147483647,A,1600,games-math-number theory,AJ_Coder,Java 7,278,39116800
+18036283,150,1463955395,2147483647,A,1600,games-math-number theory,Yury_Bandarchuk,Java 8,280,20582400
+18036277,150,1463955352,2147483647,A,1600,games-math-number theory,Yury_Bandarchuk,Java 8,310,20582400
+18036266,150,1463955119,2147483647,A,1600,games-math-number theory,Yury_Bandarchuk,Java 8,310,20582400
+18016105,150,1463822273,2147483647,A,1600,games-math-number theory,Corvus,Java 8,342,20582400
+17136195,150,1459625758,2147483647,A,1600,games-math-number theory,niting112,Java 7,280,39424000
+16736336,150,1458090131,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,flyman3046,Java 8,248,0
+16570966,150,1457345047,2147483647,A,1600,games-math-number theory,love11mishra,Java 8,374,0
+16560941,150,1457331568,2147483647,A,1600,games-math-number theory,anuj64,Java 7,310,0
+16473186,150,1456951354,2147483647,D,2600,dp-strings,Sumeet.Varma,Java 8,1370,11776000
+16473147,150,1456951185,2147483647,D,2600,dp-strings,Sumeet.Varma,Java 8,1402,11776000
+16445587,150,1456846511,2147483647,C,2300,data structures-math-probabilities,Sumeet.Varma,Java 8,530,20070400
+16439541,150,1456830530,1130,B,1800,combinatorics-dfs and similar-graphs-math,Sumeet.Varma,Java 8,280,0
+16439399,150,1456829987,587,A,1600,games-math-number theory,Sumeet.Varma,Java 8,1152,0
+15826670,150,1454680974,2147483647,A,1600,games-math-number theory,JohnnyJi,Java 8,310,0
+13881879,150,1445902292,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,bririche,Java 7,186,0
+13308893,150,1443590891,2147483647,A,1600,games-math-number theory,Nirmit,Java 8,280,0
+13076178,150,1442523240,2147483647,A,1600,games-math-number theory,wotafak,Java 7,218,0
+12910545,150,1441806964,2147483647,A,1600,games-math-number theory,monsterspy,Java 7,218,0
+12902324,150,1441739914,4714,A,1600,games-math-number theory,archu.aspa,Java 8,498,0
+12643769,150,1440253743,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Code.coding,Java 8,218,0
+12636317,150,1440217050,2147483647,A,1600,games-math-number theory,effie.m,Java 8,312,0
+12628680,150,1440163079,2147483647,A,1600,games-math-number theory,rafa236784,Java 7,218,0
+12473144,150,1439349580,2147483647,A,1600,games-math-number theory,YoussefYN,Java 8,310,0
+12296121,150,1438373722,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,sweiss,Java 8,218,0
+12034783,150,1436836744,2147483647,A,1600,games-math-number theory,nguyenmanhphuc,Java 7,218,0
+11955661,150,1436242319,2147483647,A,1600,games-math-number theory,Empress,Java 7,186,0
+11609708,150,1434472761,2147483647,A,1600,games-math-number theory,sweiss,Java 8,310,0
+11587226,150,1434316100,2147483647,A,1600,games-math-number theory,Abkreno94,Java 8,404,0
+10809736,150,1429618556,2147483647,D,2600,dp-strings,A.Elahi,Java 8,1092,29184000
+10801989,150,1429553311,2147483647,C,2300,data structures-math-probabilities,A.Elahi,Java 8,2058,77516800
+10655413,150,1428735997,2147483647,A,1600,games-math-number theory,FARAD,Java 8,310,0
+10537845,150,1427852058,2147483647,A,1600,games-math-number theory,poikniok,Java 8,374,0
+10537843,150,1427852000,2147483647,A,1600,games-math-number theory,poikniok,Java 8,374,0
+10528723,150,1427750583,2147483647,A,1600,games-math-number theory,Badry,Java 7,216,0
+10428758,150,1427254876,2147483647,C,2300,data structures-math-probabilities,AlexFetisov,Java 8,1996,29900800
+9238678,150,1419406664,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,upsolving,Java 7,156,0
+7566699,150,1408884926,2147483647,A,1600,games-math-number theory,upsolving,Java 7,218,0
+7566674,150,1408884776,2147483647,A,1600,games-math-number theory,upsolving,Java 7,218,0
+7475483,150,1408129142,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,alaashafaee92,Java 7,184,0
+7468728,150,1408121173,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,alaashafaee92,Java 7,186,0
+7333013,150,1407015383,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,michael.lam.tan,Java 7,186,0
+7332636,150,1407008538,2147483647,A,1600,games-math-number theory,michael.lam.tan,Java 7,216,0
+7009599,150,1404465712,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,owenomar,Java 7,156,0
+6542377,150,1399175896,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,nickbuelich,Java 7,154,0
+6542325,150,1399174134,2147483647,A,1600,games-math-number theory,nickbuelich,Java 7,248,13004800
+6322498,150,1397222777,2147483647,A,1600,games-math-number theory,analog,Java 7,186,0
+5926747,150,1393967095,2147483647,A,1600,games-math-number theory,Staticity,Java 6,216,0
+5926309,150,1393961595,2147483647,A,1600,games-math-number theory,Staticity,Java 7,218,0
+5896474,150,1391526522,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,alibaba,Java 6,154,0
+5809172,150,1390684778,2147483647,A,1600,games-math-number theory,Staticity,Java 6,216,0
+5640581,150,1389232186,2147483647,A,1600,games-math-number theory,Pshenichnoe,Java 7,1028,0
+5447659,150,1387152420,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,vjudge5,Java 7,156,0
+5447505,150,1387147069,2147483647,A,1600,games-math-number theory,vjudge3,Java 7,280,0
+5447448,150,1387144765,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,vjudge3,Java 7,156,0
+5447419,150,1387144300,2147483647,A,1600,games-math-number theory,vjudge2,Java 6,436,0
+5447392,150,1387143601,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,vjudge5,Java 6,156,0
+5447220,150,1387140682,2147483647,A,1600,games-math-number theory,vjudge3,Java 7,156,0
+5317977,150,1385860141,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,0p9o8i,Java 7,124,0
+5288229,150,1385656099,2147483647,A,1600,games-math-number theory,alibaba,Java 6,468,14131200
+5189922,150,1385106578,2147483647,A,1600,games-math-number theory,rearmlkp,Java 7,280,0
+4369481,150,1377852347,2147483647,A,1600,games-math-number theory,vvenkai,Java 7,186,0
+4214392,150,1375366627,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,amin-55,Java 7,156,0
+4207607,150,1375253572,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,trunghieu11,Java 7,186,0
+4142374,150,1374600413,2147483647,A,1600,games-math-number theory,bufferedreader,Java 6,281,0
+4131172,150,1374443131,2147483647,A,1600,games-math-number theory,miguelmaurizio,Java 7,218,0
+4052571,150,1373585353,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,mkirsche,Java 6,109,0
+4040152,150,1373312202,2147483647,A,1600,games-math-number theory,mkirsche,Java 6,218,0
+4006262,150,1372847206,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,MOSJAVA,Java 7,93,0
+3497766,150,1365534581,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Phicar,Java 6,109,102400
+3471707,150,1365056996,2147483647,A,1600,games-math-number theory,Phicar,Java 6,453,716800
+3471404,150,1365050315,2147483647,A,1600,games-math-number theory,sfmunera,Java 6,203,0
+3471361,150,1365049071,2147483647,A,1600,games-math-number theory,sfmunera,Java 6,203,0
+3471301,150,1365046831,2147483647,A,1600,games-math-number theory,DiegoAE,Java 6,109,0
+3471173,150,1365043473,2147483647,A,1600,games-math-number theory,santjuan,Java 6,156,0
+3471153,150,1365043040,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,santjuan,Java 6,109,0
+3412725,150,1364401778,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,xiaowuc1,Java 6,406,54886400
+3039895,150,1359626396,2147483647,A,1600,games-math-number theory,vjudge1,Java 7,421,0
+3002564,150,1359033016,2147483647,A,1600,games-math-number theory,arya5691,Java 6,234,102400
+3002343,150,1359031927,2147483647,A,1600,games-math-number theory,arya5691,Java 6,250,102400
+2929167,150,1358328907,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Spellbound,Java 7,78,0
+2926888,150,1358252694,2147483647,A,1600,games-math-number theory,sparkforreg,Java 6,171,2355200
+2697785,150,1354723955,2147483647,A,1600,games-math-number theory,MOSJAVA,Java 6,187,0
+2659951,150,1353940476,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,todo,Java 6,109,0
+2659947,150,1353940472,2147483647,A,1600,games-math-number theory,todo,Java 6,187,0
+2302575,150,1349444633,2147483647,C,2300,data structures-math-probabilities,hama-du,Java 6,2328,44236800
+2301034,150,1349407099,2147483647,A,1600,games-math-number theory,yano0oyan,Java 6,187,0
+2037569,150,1345454629,2147483647,A,1600,games-math-number theory,Spacejoker,Java 6,270,43212800
+1971697,150,1343934387,2147483647,A,1600,games-math-number theory,ilovepink,Java 6,1060,43315200
+1971512,150,1343926624,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,ilovepink,Java 6,140,43315200
+1949999,150,1343571086,2147483647,D,2600,dp-strings,ysyshtc,Java 6,1640,57651200
+1949708,150,1343564660,5660,C,2300,data structures-math-probabilities,ysyshtc,Java 6,2020,84172800
+1949563,150,1343561088,2088,B,1800,combinatorics-dfs and similar-graphs-math,ysyshtc,Java 6,140,43315200
+1949547,150,1343560681,2147483647,A,1600,games-math-number theory,abasali,Java 7,270,45158400
+1949532,150,1343560296,1296,A,1600,games-math-number theory,ysyshtc,Java 6,250,43315200
+1945579,150,1343418832,2147483647,A,1600,games-math-number theory,c.utkarsh777,Java 7,550,45056000
+1813176,150,1340343775,2147483647,A,1600,games-math-number theory,xiaowuc1,Java 6,660,43417600
+1761742,150,1338748674,2147483647,A,1600,games-math-number theory,Kornacker,Java 6,110,43212800
+1761707,150,1338748378,2147483647,A,1600,games-math-number theory,Kornacker,Java 6,170,43212800
+1743843,150,1338415244,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,mostafa_fahim,Java 7,110,44953600
+1743840,150,1338415104,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,mostafa_fahim,Java 7,190,99225600
+1382813,150,1332274543,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,SharpBlade,Java 6,130,43110400
+1370279,150,1331927283,2883,B,1800,combinatorics-dfs and similar-graphs-math,mdldml,Java 6,80,43110400
+1370155,150,1331926302,1902,A,1600,games-math-number theory,mdldml,Java 6,160,43110400
+1291311,150,1330961852,2147483647,C,2300,data structures-math-probabilities,dalex,Java 6,1170,71475200
+1261150,150,1330798557,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Galkowsky,Java 6,110,44953600
+1261041,150,1330794736,2147483647,A,1600,games-math-number theory,Galkowsky,Java 6,410,44953600
+1255828,150,1330654737,2147483647,A,1600,games-math-number theory,FatSheep,Java 6,220,45056000
+1239717,150,1330360752,2147483647,C,2300,data structures-math-probabilities,sayuan,Java 6,3610,61132800
+1220941,150,1330084781,2147483647,A,1600,games-math-number theory,cyon,Java 6,230,44953600
+1220620,150,1330070350,2147483647,A,1600,games-math-number theory,K_operafan,Java 6,190,44953600
+1220589,150,1330068536,2147483647,A,1600,games-math-number theory,mancgupta,Java 6,200,44953600
+1219360,150,1330002694,2147483647,C,2300,data structures-math-probabilities,Leewings,Java 6,1860,107929600
+1218515,150,1329972592,2147483647,C,2300,data structures-math-probabilities,torrentlord,Java 6,1390,98099200
+1218512,150,1329972374,2147483647,C,2300,data structures-math-probabilities,torrentlord,Java 6,1440,97382400
+1218445,150,1329967263,2147483647,C,2300,data structures-math-probabilities,torrentlord,Java 6,4640,77414400
+1218439,150,1329966864,2147483647,C,2300,data structures-math-probabilities,torrentlord,Java 6,4700,77414400
+1218341,150,1329961961,2147483647,A,1600,games-math-number theory,Nivea,Java 6,250,44953600
+1218311,150,1329960029,2147483647,A,1600,games-math-number theory,vvilan,Java 6,330,45056000
+1218306,150,1329959780,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,fta2012,Java 6,90,44953600
+1218289,150,1329958634,2147483647,A,1600,games-math-number theory,fta2012,Java 6,170,45260800
+1218286,150,1329958527,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,dmeng,Java 6,90,44953600
+1218274,150,1329957850,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,dmeng,Java 6,110,44953600
+1218232,150,1329955945,2147483647,A,1600,games-math-number theory,dmeng,Java 6,340,44953600
+1214721,150,1329839567,2147483647,D,2600,dp-strings,OgieKako,Java 6,1390,59699200
+1212799,150,1329764653,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,dudkamaster,Java 6,80,44851200
+1205365,150,1329735218,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,I_love_Malika,Java 6,90,44851200
+1204323,150,1329665079,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Venom,Java 6,90,44851200
+1204249,150,1329662548,2147483647,A,1600,games-math-number theory,phantom11,Java 6,200,45056000
+1204247,150,1329662418,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,phantom11,Java 6,110,44953600
+1204195,150,1329660798,2147483647,A,1600,games-math-number theory,skull,Java 6,130,44953600
+1204194,150,1329660764,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,skull,Java 6,110,44953600
+1204096,150,1329658352,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Azat_Yusupov,Java 6,110,45056000
+1203917,150,1329654651,2147483647,A,1600,games-math-number theory,Azat_Yusupov,Java 6,190,44953600
+1203754,150,1329648370,2147483647,C,2300,data structures-math-probabilities,tanzaku,Java 6,3690,79155200
+1202808,150,1329625260,2147483647,A,1600,games-math-number theory,Lakers,Java 6,170,44953600
+1202579,150,1329607796,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,wackloner,Java 6,90,44851200
+1202260,150,1329588498,2147483647,A,1600,games-math-number theory,chronotable,Java 6,130,43110400
+1202093,150,1329581979,2147483647,A,1600,games-math-number theory,jobs.in.hanoi,Java 6,970,43008000
+1201452,150,1329564571,2147483647,A,1600,games-math-number theory,mukku,Java 6,200,43212800
+1201318,150,1329562766,5726,C,2300,data structures-math-probabilities,Jokser,Java 6,1220,76902400
+1201130,150,1329559353,2313,B,1800,combinatorics-dfs and similar-graphs-math,Jokser,Java 6,270,57548800
+1201122,150,1329559133,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,_jte_,Java 6,90,43315200
+1201031,150,1329557517,477,A,1600,games-math-number theory,Jokser,Java 6,140,43212800
+1200951,150,1329556520,2147483647,A,1600,games-math-number theory,bjin,Java 6,1260,43315200
+1200651,150,1329552112,2147483647,A,1600,games-math-number theory,yarrr,Java 6,200,43110400
+1200608,150,1329551416,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,peking2,Java 6,90,43212800
+1199647,150,1329540987,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Illuminati_chk,Java 6,90,43212800
+1199405,150,1329535498,2147483647,D,2600,dp-strings,bjin,Java 6,730,57856000
+1199242,150,1329531486,2147483647,A,1600,games-math-number theory,Illuminati_chk,Java 6,700,62054400
+1198875,150,1329515640,2147483647,A,1600,games-math-number theory,yarrr,Java 6,220,43724800
+1198850,150,1329514940,2147483647,A,1600,games-math-number theory,Wahba,Java 6,140,43110400
+1198845,150,1329514807,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Wahba,Java 6,560,43110400
+1198827,150,1329514326,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,xDEMONx,Java 6,80,43110400
+1198716,150,1329511969,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,jcomputer000,Java 6,110,43212800
+1198482,150,1329507270,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,Ahmed.Ibrahem,Java 6,110,43212800
+1198458,150,1329507130,2147483647,A,1600,games-math-number theory,peking2,Java 6,170,43212800
+1198339,150,1329506046,2147483647,A,1600,games-math-number theory,Ahmed.Ibrahem,Java 6,560,43212800
+1198304,150,1329505728,2147483647,C,2300,data structures-math-probabilities,zibada,Java 6,4330,58572800
+1198249,150,1329505079,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,wackloner,Java 6,80,43110400
+1198248,150,1329505071,2147483647,A,1600,games-math-number theory,wackloner,Java 6,170,43110400
+1198190,150,1329504555,2147483647,A,1600,games-math-number theory,Ahmed_Salama,Java 6,160,43212800
+1198165,150,1329504400,2147483647,D,2600,dp-strings,Narg,Java 6,950,58060800
+1198146,150,1329504172,2147483647,C,2300,data structures-math-probabilities,yaro,Java 6,1420,72089600
+1198046,150,1329503273,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,cyon,Java 6,110,43212800
+1197994,150,1329503076,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,iksuy,Java 6,80,43110400
+1197827,150,1329502255,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,ahmad_mamdouh,Java 6,90,43110400
+1197809,150,1329502185,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,itoasquall,Java 6,90,43110400
+1197763,150,1329501984,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,AlexErofeev,Java 6,80,43212800
+1197755,150,1329501944,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,tsukuno,Java 6,90,43212800
+1197753,150,1329501928,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,dusty.and.rusty,Java 6,110,43212800
+1197751,150,1329501913,2147483647,A,1600,games-math-number theory,dusty.and.rusty,Java 6,170,43212800
+1197742,150,1329501864,2147483647,A,1600,games-math-number theory,dusty.and.rusty,Java 6,190,43212800
+1197692,150,1329501548,2147483647,C,2300,data structures-math-probabilities,SergeyLazarev,Java 6,2250,74240000
+1197607,150,1329501171,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,dusty.and.rusty,Java 6,90,43212800
+1197588,150,1329501103,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,nanikaka,Java 6,90,43212800
+1197568,150,1329501050,2147483647,A,1600,games-math-number theory,dusty.and.rusty,Java 6,160,43212800
+1197559,150,1329501021,2147483647,C,2300,data structures-math-probabilities,uwi,Java 6,1090,58265600
+1197518,150,1329500881,2147483647,A,1600,games-math-number theory,EriKKo,Java 6,160,43110400
+1197493,150,1329500815,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,dalex,Java 6,90,43622400
+1197480,150,1329500790,2147483647,A,1600,games-math-number theory,dalex,Java 6,250,43622400
+1197460,150,1329500759,2147483647,B,1800,combinatorics-dfs and similar-graphs-math,madkite,Java 6,80,43110400
+1197409,150,1329500635,2147483647,A,1600,games-math-number theory,madkite,Java 6,230,43110400
+1196738,150,1329497853,7053,D,2600,dp-strings,niyaznigmatul,Java 6,2970,57958400
+1195447,150,1329497011,6211,B,1800,combinatorics-dfs and similar-graphs-math,Darko,Java 6,110,43212800
+1195365,150,1329496954,6154,B,1800,combinatorics-dfs and similar-graphs-math,dusty.and.rusty,Java 6,140,43212800
+1195125,150,1329496780,5980,D,2600,dp-strings,Egor,Java 6,1910,57958400
+1194976,150,1329496663,5863,B,1800,combinatorics-dfs and similar-graphs-math,gerasimovd,Java 6,130,43212800
+1194547,150,1329496323,5523,A,1600,games-math-number theory,DoublePointer,Java 6,200,43212800
+1194545,150,1329496322,5522,C,2300,data structures-math-probabilities,shevchen,Java 6,2140,45465600
+1194097,150,1329495982,5182,A,1600,games-math-number theory,hama-du,Java 6,270,43110400
+1193991,150,1329495914,5114,A,1600,games-math-number theory,shavkat,Java 6,170,43212800
+1193846,150,1329495800,5000,D,2600,dp-strings,Petr,Java 6,880,58368000
+1193621,150,1329495625,4825,B,1800,combinatorics-dfs and similar-graphs-math,sayuan,Java 6,110,43212800
+1193557,150,1329495587,4787,B,1800,combinatorics-dfs and similar-graphs-math,Tomik,Java 6,130,43212800
+1193518,150,1329495560,4760,A,1600,games-math-number theory,AlexErofeev,Java 6,1390,95641600
+1193053,150,1329495199,4399,B,1800,combinatorics-dfs and similar-graphs-math,Abra,Java 6,80,43110400
+1192802,150,1329495000,4200,B,1800,combinatorics-dfs and similar-graphs-math,Slamur,Java 6,110,43622400
+1192790,150,1329494992,4192,B,1800,combinatorics-dfs and similar-graphs-math,Di735,Java 6,90,43110400
+1192593,150,1329494851,4051,A,1600,games-math-number theory,sayuan,Java 6,340,43212800
+1192569,150,1329494832,4032,B,1800,combinatorics-dfs and similar-graphs-math,piotr.kukla,Java 6,300,57344000
+1192346,150,1329494680,3880,A,1600,games-math-number theory,SergeyLazarev,Java 6,220,43110400
+1192154,150,1329494590,3790,C,2300,data structures-math-probabilities,bjin,Java 6,1170,114073600
+1192118,150,1329494580,3780,B,1800,combinatorics-dfs and similar-graphs-math,calculus.saransh,Java 6,90,43212800
+1192107,150,1329494578,3778,C,2300,data structures-math-probabilities,Egor,Java 6,1420,61235200
+1192085,150,1329494570,3770,B,1800,combinatorics-dfs and similar-graphs-math,shavkat,Java 6,110,43212800
+1192071,150,1329494568,3768,B,1800,combinatorics-dfs and similar-graphs-math,EriKKo,Java 6,90,43110400
+1191977,150,1329494213,3413,A,1600,games-math-number theory,shevchen,Java 6,170,43110400
+1191916,150,1329494180,3380,B,1800,combinatorics-dfs and similar-graphs-math,pashkal,Java 6,90,43110400
+1191904,150,1329494168,3368,B,1800,combinatorics-dfs and similar-graphs-math,Navigabimus,Java 6,110,43212800
+1191793,150,1329494089,3289,C,2300,data structures-math-probabilities,niyaznigmatul,Java 6,1660,68915200
+1191598,150,1329493934,3134,A,1600,games-math-number theory,ika,Java 6,170,43212800
+1191546,150,1329493891,3091,C,2300,data structures-math-probabilities,Petr,Java 6,1140,61644800
+1191369,150,1329493749,2949,D,2600,dp-strings,winger,Java 6,1280,58265600
+1191350,150,1329493730,2930,B,1800,combinatorics-dfs and similar-graphs-math,twds,Java 6,950,43212800
+1191335,150,1329493716,2916,B,1800,combinatorics-dfs and similar-graphs-math,yarrr,Java 6,80,43110400
+1191292,150,1329493684,2884,B,1800,combinatorics-dfs and similar-graphs-math,jonathanpaulson,Java 6,140,43212800
+1191119,150,1329493554,2754,B,1800,combinatorics-dfs and similar-graphs-math,PolarNick,Java 6,90,43110400
+1191115,150,1329493548,2748,B,1800,combinatorics-dfs and similar-graphs-math,Sinner,Java 6,90,43110400
+1190935,150,1329493408,2608,B,1800,combinatorics-dfs and similar-graphs-math,todo,Java 6,110,43212800
+1190876,150,1329493378,2578,A,1600,games-math-number theory,itoasquall,Java 6,300,43110400
+1190806,150,1329493323,2523,B,1800,combinatorics-dfs and similar-graphs-math,hama-du,Java 6,90,43110400
+1190695,150,1329493248,2448,B,1800,combinatorics-dfs and similar-graphs-math,shevchen,Java 6,90,43110400
+1190685,150,1329493244,2444,A,1600,games-math-number theory,Tomik,Java 6,170,43212800
+1190657,150,1329493229,2429,B,1800,combinatorics-dfs and similar-graphs-math,ant.ermilov,Java 6,130,58368000
+1190578,150,1329493174,2374,B,1800,combinatorics-dfs and similar-graphs-math,Ahmed_Salama,Java 6,110,43212800
+1190560,150,1329493164,2364,B,1800,combinatorics-dfs and similar-graphs-math,dalex,Java 6,110,43622400
+1190481,150,1329493103,2303,A,1600,games-math-number theory,Narg,Java 6,190,43110400
+1190456,150,1329493083,2283,B,1800,combinatorics-dfs and similar-graphs-math,tanzaku,Java 6,130,43212800
+1190365,150,1329493025,2225,B,1800,combinatorics-dfs and similar-graphs-math,torrentlord,Java 6,110,43212800
+1190194,150,1329492910,2110,B,1800,combinatorics-dfs and similar-graphs-math,Kornacker,Java 6,140,43212800
+1190157,150,1329492886,2086,B,1800,combinatorics-dfs and similar-graphs-math,m.radwan,Java 6,110,43212800
+1190122,150,1329492861,2061,B,1800,combinatorics-dfs and similar-graphs-math,islam-al-aarag,Java 6,110,43212800
+1190045,150,1329492805,2005,A,1600,games-math-number theory,Slamur,Java 6,140,43724800
+1189690,150,1329492584,1784,B,1800,combinatorics-dfs and similar-graphs-math,DoublePointer,Java 6,110,43212800
+1189631,150,1329492540,1740,A,1600,games-math-number theory,xDEMONx,Java 6,190,43110400
+1189495,150,1329492461,1661,A,1600,games-math-number theory,zibada,Java 6,170,43417600
+1189425,150,1329492413,1613,A,1600,games-math-number theory,jcomputer000,Java 6,250,43212800
+1189296,150,1329492310,1510,B,1800,combinatorics-dfs and similar-graphs-math,SergeyLazarev,Java 6,90,43110400
+1189280,150,1329492294,1494,B,1800,combinatorics-dfs and similar-graphs-math,dmitry.uvarov,Java 6,110,43110400
+1189255,150,1329492278,1478,B,1800,combinatorics-dfs and similar-graphs-math,bjin,Java 6,110,43212800
+1189139,150,1329492201,1401,A,1600,games-math-number theory,gerasimovd,Java 6,190,43212800
+1189084,150,1329492161,1361,B,1800,combinatorics-dfs and similar-graphs-math,yaro,Java 6,110,43110400
+1189051,150,1329492135,1335,B,1800,combinatorics-dfs and similar-graphs-math,S.Yesipenko,Java 6,110,43212800
+1189023,150,1329492115,1315,A,1600,games-math-number theory,ahmad_mamdouh,Java 6,280,43110400
+1188953,150,1329492059,1259,A,1600,games-math-number theory,piotr.kukla,Java 6,160,43212800
+1188922,150,1329492042,1242,B,1800,combinatorics-dfs and similar-graphs-math,OgieKako,Java 6,90,43110400
+1188894,150,1329492027,1227,A,1600,games-math-number theory,tsukuno,Java 6,970,92160000
+1188870,150,1329492015,1215,B,1800,combinatorics-dfs and similar-graphs-math,ika,Java 6,90,43212800
+1188818,150,1329491975,1175,A,1600,games-math-number theory,todo,Java 6,160,43212800
+1188810,150,1329491967,1167,A,1600,games-math-number theory,Kornacker,Java 6,220,43212800
+1188800,150,1329491961,1161,A,1600,games-math-number theory,Navigabimus,Java 6,220,43212800
+1188794,150,1329491956,1156,B,1800,combinatorics-dfs and similar-graphs-math,Sammarize,Java 6,90,43110400
+1188699,150,1329491906,1106,A,1600,games-math-number theory,tanzaku,Java 6,170,43212800
+1188670,150,1329491886,1086,A,1600,games-math-number theory,twds,Java 6,250,43212800
+1188662,150,1329491882,1082,B,1800,combinatorics-dfs and similar-graphs-math,uwi,Java 6,90,43110400
+1188555,150,1329491822,1022,A,1600,games-math-number theory,calculus.saransh,Java 6,190,43212800
+1188543,150,1329491811,1011,A,1600,games-math-number theory,dalex,Java 6,270,43622400
+1188500,150,1329491788,988,A,1600,games-math-number theory,Abra,Java 6,450,56627200
+1188453,150,1329491761,961,A,1600,games-math-number theory,Ahmed_Salama,Java 6,230,43212800
+1188416,150,1329491741,941,A,1600,games-math-number theory,jonathanpaulson,Java 6,420,61952000
+1188409,150,1329491740,940,A,1600,games-math-number theory,m.radwan,Java 6,140,43212800
+1188330,150,1329491693,893,A,1600,games-math-number theory,torrentlord,Java 6,170,43212800
+1188326,150,1329491692,892,B,1800,combinatorics-dfs and similar-graphs-math,niyaznigmatul,Java 6,90,43110400
+1188309,150,1329491684,884,A,1600,games-math-number theory,Sinner,Java 6,130,43110400
+1188267,150,1329491668,868,B,1800,combinatorics-dfs and similar-graphs-math,Egor,Java 6,80,43110400
+1188210,150,1329491642,842,B,1800,combinatorics-dfs and similar-graphs-math,winger,Java 6,90,43110400
+1188137,150,1329491604,804,A,1600,games-math-number theory,VArtem,Java 6,190,43110400
+1188120,150,1329491596,796,A,1600,games-math-number theory,S.Yesipenko,Java 6,90,43110400
+1188107,150,1329491591,791,A,1600,games-math-number theory,dusty.and.rusty,Java 6,160,43212800
+1188101,150,1329491587,787,B,1800,combinatorics-dfs and similar-graphs-math,Narg,Java 6,110,43110400
+1188079,150,1329491577,777,A,1600,games-math-number theory,yaro,Java 6,160,43110400
+1187843,150,1329491473,673,A,1600,games-math-number theory,uwi,Java 6,170,43110400
+1187842,150,1329491472,672,A,1600,games-math-number theory,OgieKako,Java 6,170,43110400
+1187785,150,1329491444,644,A,1600,games-math-number theory,Di735,Java 6,230,43110400
+1187756,150,1329491432,632,A,1600,games-math-number theory,dmitry.uvarov,Java 6,170,43212800
+1187753,150,1329491430,630,A,1600,games-math-number theory,islam-al-aarag,Java 6,140,43212800
+1187675,150,1329491398,598,A,1600,games-math-number theory,yarrr,Java 6,230,43724800
+1187449,150,1329491314,514,A,1600,games-math-number theory,Egor,Java 6,1410,43110400
+1187340,150,1329491275,475,A,1600,games-math-number theory,niyaznigmatul,Java 6,1160,43110400
+1187330,150,1329491271,471,A,1600,games-math-number theory,Sammarize,Java 6,140,43110400
+1187254,150,1329491239,439,B,1800,combinatorics-dfs and similar-graphs-math,Petr,Java 6,90,43110400
+1187035,150,1329491127,327,A,1600,games-math-number theory,winger,Java 6,160,43110400
+1186960,150,1329491024,224,A,1600,games-math-number theory,Petr,Java 6,160,43110400

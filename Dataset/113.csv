@@ -1,0 +1,255 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57124544,113,1563247561,2147483647,B,1900,brute force-data structures-hashing-strings,vjudge4,Java 8,716,55091200
+57124462,113,1563247392,2147483647,B,1900,brute force-data structures-hashing-strings,Smurferino,Java 8,654,55193600
+55554809,113,1560503960,2147483647,B,1900,brute force-data structures-hashing-strings,mennafadali,Java 8,1216,258662400
+53081534,113,1555829286,2147483647,A,1600,implementation-strings,foolalex,Java 8,342,0
+52807645,113,1555395467,2147483647,A,1600,implementation-strings,a910456728,Java 8,312,0
+52750252,113,1555249220,2147483647,A,1600,implementation-strings,Verdusk,Java 8,310,0
+51198592,113,1552337587,2147483647,A,1600,implementation-strings,mandark27,Java 8,248,0
+47812305,113,1546344674,2147483647,A,1600,implementation-strings,adityagupta1089,Java 8,248,0
+43598981,113,1538298123,2147483647,B,1900,brute force-data structures-hashing-strings,hongquanntct,Java 8,872,17715200
+43598727,113,1538297687,2147483647,B,1900,brute force-data structures-hashing-strings,hongquanntct,Java 8,1122,40345600
+42746816,113,1536609665,2147483647,B,1900,brute force-data structures-hashing-strings,KulikAlex,Java 8,436,17408000
+39495660,113,1529601612,2147483647,A,1600,implementation-strings,KulikAlex,Java 8,280,0
+36371257,113,1521319221,2147483647,A,1600,implementation-strings,ShafinKhadem,Java 8,310,20684800
+35470604,113,1519044400,2147483647,A,1600,implementation-strings,parth_15,Java 8,280,20684800
+34715545,113,1517329898,2147483647,A,1600,implementation-strings,panzerkitsch,Java 8,342,21299200
+32776629,113,1511948055,2147483647,A,1600,implementation-strings,tomdmitriev,Java 8,248,20684800
+32753161,113,1511878848,2147483647,B,1900,brute force-data structures-hashing-strings,tomdmitriev,Java 8,280,20787200
+32658593,113,1511654455,2147483647,B,1900,brute force-data structures-hashing-strings,flyman3046,Java 8,746,77721600
+31963108,113,1509570202,2147483647,B,1900,brute force-data structures-hashing-strings,aminul,Java 8,1058,30515200
+31962687,113,1509568536,2147483647,B,1900,brute force-data structures-hashing-strings,aminul,Java 8,1060,30515200
+31962620,113,1509568351,2147483647,B,1900,brute force-data structures-hashing-strings,aminul,Java 8,1060,30515200
+31962439,113,1509567840,2147483647,B,1900,brute force-data structures-hashing-strings,aminul,Java 8,1060,104243200
+30950845,113,1506968731,2147483647,B,1900,brute force-data structures-hashing-strings,RP_9,Java 8,842,22732800
+30562416,113,1505944711,2147483647,A,1600,implementation-strings,Slamur,Java 8,278,0
+30463918,113,1505738096,2147483647,B,1900,brute force-data structures-hashing-strings,rahulkhairwar,Java 8,312,39628800
+29827845,113,1503841836,2147483647,A,1600,implementation-strings,vaibhav28,Java 8,278,0
+28006810,113,1498313584,2147483647,B,1900,brute force-data structures-hashing-strings,Omar_Morsi,Java 8,1154,268390400
+27993322,113,1498256107,2147483647,B,1900,brute force-data structures-hashing-strings,MostafaAbdullah,Java 8,1372,268390400
+27991603,113,1498246172,2147483647,B,1900,brute force-data structures-hashing-strings,Imaginary,Java 8,1154,268390400
+27988863,113,1498234891,2147483647,B,1900,brute force-data structures-hashing-strings,OmarRadwan,Java 8,1184,268390400
+27982969,113,1498215274,2147483647,B,1900,brute force-data structures-hashing-strings,Kammola,Java 8,1248,281497600
+27970931,113,1498155582,2147483647,B,1900,brute force-data structures-hashing-strings,AhmedSoliman,Java 8,1184,281395200
+26566633,113,1492800680,2147483647,B,1900,brute force-data structures-hashing-strings,MaggieM,Java 8,498,20582400
+26566551,113,1492800444,2147483647,B,1900,brute force-data structures-hashing-strings,MaggieM,Java 8,528,20582400
+26528592,113,1492737380,2147483647,B,1900,brute force-data structures-hashing-strings,ysholqamy,Java 8,498,20582400
+26528564,113,1492737167,2147483647,B,1900,brute force-data structures-hashing-strings,ysholqamy,Java 8,498,20582400
+26528519,113,1492736794,2147483647,B,1900,brute force-data structures-hashing-strings,ysholqamy,Java 8,498,20582400
+25472296,113,1489493262,2147483647,C,2200,brute force-math-number theory,kushwaha_vi,Java 8,1669,26316800
+20162132,113,1472152062,2147483647,B,1900,brute force-data structures-hashing-strings,Ahmad_Elsagheer,Java 8,1840,281395200
+20161901,113,1472151219,2147483647,B,1900,brute force-data structures-hashing-strings,Ahmad_Elsagheer,Java 8,1714,280883200
+20096827,113,1472004785,2147483647,B,1900,brute force-data structures-hashing-strings,haidmoham,Java 8,748,42188800
+19750942,113,1470760587,2147483647,A,1600,implementation-strings,martins,Java 8,248,20480000
+18215954,113,1464868791,2147483647,A,1600,implementation-strings,Corvus,Java 8,310,20582400
+17314238,113,1460637442,2147483647,A,1600,implementation-strings,vjudge3,Java 8,374,0
+17289921,113,1460465749,2147483647,A,1600,implementation-strings,vjudge1,Java 7,372,0
+16960358,113,1459015278,2147483647,C,2200,brute force-math-number theory,alibaba,Java 8,2932,101478400
+15921638,113,1455052413,2147483647,A,1600,implementation-strings,Ahmad,Java 8,248,0
+15921479,113,1455051527,2147483647,A,1600,implementation-strings,Carson,Java 8,374,0
+15920093,113,1455043861,2147483647,A,1600,implementation-strings,jwozniak,Java 8,248,0
+13707935,113,1445150940,2147483647,A,1600,implementation-strings,Gochi,Java 8,280,0
+12711620,113,1440612343,2147483647,B,1900,brute force-data structures-hashing-strings,fiter,Java 8,716,21606400
+12025452,113,1436765053,2147483647,B,1900,brute force-data structures-hashing-strings,xiaowuc1,Java 7,1932,0
+11365486,113,1433069688,2147483647,B,1900,brute force-data structures-hashing-strings,hama-du,Java 8,434,10956800
+11365395,113,1433069031,2147483647,B,1900,brute force-data structures-hashing-strings,hama-du,Java 8,434,10956800
+11364654,113,1433063828,2147483647,C,2200,brute force-math-number theory,hama-du,Java 8,2839,18022400
+11362963,113,1433049321,2147483647,A,1600,implementation-strings,hama-du,Java 8,280,0
+11310070,113,1432677517,2147483647,B,1900,brute force-data structures-hashing-strings,abdou_93,Java 8,778,21504000
+11111416,113,1431722651,2147483647,B,1900,brute force-data structures-hashing-strings,poikniok,Java 7,1996,103936000
+11111411,113,1431722594,2147483647,B,1900,brute force-data structures-hashing-strings,poikniok,Java 7,1964,104038400
+11111394,113,1431722453,2147483647,B,1900,brute force-data structures-hashing-strings,poikniok,Java 7,1902,104038400
+11111385,113,1431722352,2147483647,B,1900,brute force-data structures-hashing-strings,poikniok,Java 7,1994,104243200
+10452104,113,1427314421,2147483647,A,1600,implementation-strings,mkirsche,Java 7,156,0
+9738222,113,1423239929,2147483647,D,2500,math-matrices-probabilities,edorundo,Java 7,498,0
+9719682,113,1423068819,2147483647,A,1600,implementation-strings,AlexFetisov,Java 8,218,0
+9703821,113,1422981090,2147483647,B,1900,brute force-data structures-hashing-strings,alibaba,Java 6,248,0
+9562019,113,1422285954,2147483647,A,1600,implementation-strings,upsolving,Java 7,156,0
+8751259,113,1416357048,2147483647,B,1900,brute force-data structures-hashing-strings,niyaznigmatul,Java 8,498,512000
+8537292,113,1415027053,2147483647,B,1900,brute force-data structures-hashing-strings,qingwen,Java 7,1902,104345600
+8139742,113,1412773923,2147483647,A,1600,implementation-strings,NoCakeNoCode,Java 7,186,0
+7915166,113,1411426492,2147483647,A,1600,implementation-strings,ktasyaran,Java 8,310,0
+7512607,113,1408500024,2147483647,B,1900,brute force-data structures-hashing-strings,Mamdou7,Java 7,1684,136089600
+6895073,113,1402844533,2147483647,B,1900,brute force-data structures-hashing-strings,himalay,Java 7,1934,106905600
+6823129,113,1402004261,2147483647,B,1900,brute force-data structures-hashing-strings,miguelmaurizio,Java 8,654,1638400
+6535903,113,1399093387,2147483647,B,1900,brute force-data structures-hashing-strings,vjudge5,Java 7,654,32563200
+6535900,113,1399093362,2147483647,B,1900,brute force-data structures-hashing-strings,pikapika,Java 7,654,32563200
+6508603,113,1398829977,2147483647,A,1600,implementation-strings,nickbuelich,Java 7,186,0
+5359528,113,1386323431,2147483647,A,1600,implementation-strings,0p9o8i,Java 7,124,0
+5021903,113,1383820255,2147483647,A,1600,implementation-strings,alibaba,Java 6,218,921600
+4921693,113,1382973340,2020,A,1600,implementation-strings,niyaznigmatul,Java 7,62,0
+4326595,113,1377203611,2147483647,A,1600,implementation-strings,Steve9502,Java 7,156,0
+4326584,113,1377203342,2147483647,A,1600,implementation-strings,Phicar,Java 6,186,0
+4322125,113,1377136769,2147483647,B,1900,brute force-data structures-hashing-strings,santjuan,Java 7,1964,105984000
+4317474,113,1377032126,2147483647,B,1900,brute force-data structures-hashing-strings,santjuan,Java 7,498,0
+4032627,113,1373145661,2147483647,B,1900,brute force-data structures-hashing-strings,slycelote,Java 6,1500,105062400
+3996166,113,1372603083,2147483647,A,1600,implementation-strings,ihkus,Java 7,93,0
+3968393,113,1372360716,2147483647,A,1600,implementation-strings,sfmunera,Java 7,93,0
+3931941,113,1371816472,2147483647,B,1900,brute force-data structures-hashing-strings,Mostafa.Ali,Java 6,1500,104857600
+3495067,113,1365478588,2147483647,A,1600,implementation-strings,DiegoAE,Java 6,93,0
+3494966,113,1365474857,2147483647,A,1600,implementation-strings,santjuan,Java 6,93,2355200
+3031960,113,1359440293,2147483647,E,2600,combinatorics-implementation-math,uwi,Java 6,109,0
+3004865,113,1359051887,2147483647,D,2500,math-matrices-probabilities,uwi,Java 6,406,0
+2827148,113,1356469674,2147483647,A,1600,implementation-strings,mostafa_fahim,Java 7,93,0
+2827071,113,1356467591,2147483647,B,1900,brute force-data structures-hashing-strings,mostafa_fahim,Java 7,1468,105062400
+2784772,113,1355720490,2147483647,D,2500,math-matrices-probabilities,qiandichen,Java 7,218,307200
+2692966,113,1354596180,2147483647,B,1900,brute force-data structures-hashing-strings,THE_QUEEN_IN_THE_NORTH,Java 6,1593,104652800
+2661013,113,1353942295,2147483647,B,1900,brute force-data structures-hashing-strings,todo,Java 6,671,32358400
+2661012,113,1353942290,2147483647,A,1600,implementation-strings,todo,Java 6,109,0
+2356131,113,1350148092,2147483647,A,1600,implementation-strings,AbdelrahmanAsal,Java 6,93,0
+2353883,113,1350102439,2147483647,B,1900,brute force-data structures-hashing-strings,yano0oyan,Java 6,546,32153600
+2272554,113,1349081079,2147483647,C,2200,brute force-math-number theory,Azat_Yusupov,Java 6,3296,0
+2270530,113,1348991141,4241,B,1900,brute force-data structures-hashing-strings,Azat_Yusupov,Java 6,1468,104755200
+2270449,113,1348988682,1782,A,1600,implementation-strings,Azat_Yusupov,Java 6,93,102400
+2250528,113,1348587314,2147483647,A,1600,implementation-strings,ksh78,Java 6,93,0
+2070270,113,1346357801,2147483647,B,1900,brute force-data structures-hashing-strings,unit7,Java 6,1470,148889600
+1999859,113,1344685008,2147483647,B,1900,brute force-data structures-hashing-strings,Korobov,Java 6,270,43212800
+1379686,113,1332174746,2147483647,A,1600,implementation-strings,Rex-myFriendForever,Java 6,90,43212800
+1312942,113,1331225807,2147483647,A,1600,implementation-strings,unit7,Java 7,140,44953600
+1157573,113,1328704008,2147483647,B,1900,brute force-data structures-hashing-strings,zhyu,Java 6,1450,147865600
+1156910,113,1328670792,2147483647,B,1900,brute force-data structures-hashing-strings,vjudge5,Java 6,1500,147763200
+1071155,113,1326786764,2147483647,B,1900,brute force-data structures-hashing-strings,lazzrov,Java 6,230,97689600
+1071138,113,1326786463,2147483647,B,1900,brute force-data structures-hashing-strings,lazzrov,Java 6,280,97689600
+1044741,113,1326520644,2147483647,C,2200,brute force-math-number theory,calculus.saransh,Java 6,450,43212800
+1044678,113,1326517066,2147483647,C,2200,brute force-math-number theory,calculus.saransh,Java 6,450,43212800
+988958,113,1325020182,2147483647,A,1600,implementation-strings,ffx,Java 6,130,43212800
+987515,113,1324926408,2147483647,A,1600,implementation-strings,ffx,Java 6,130,43212800
+930893,113,1323076356,7582356,B,1900,brute force-data structures-hashing-strings,islam-al-aarag,Java 6,1050,169574400
+887451,113,1322047705,6553705,B,1900,brute force-data structures-hashing-strings,nativea,Java 6,1280,159129600
+886626,113,1322005254,6511254,A,1600,implementation-strings,jschandl,Java 6,130,43212800
+879488,113,1321720895,6226895,B,1900,brute force-data structures-hashing-strings,wackloner,Java 6,1670,139673600
+875278,113,1321513041,6019041,B,1900,brute force-data structures-hashing-strings,zhymaoiing,Java 6,610,99225600
+874942,113,1321483393,5989393,B,1900,brute force-data structures-hashing-strings,Venom,Java 6,1560,139468800
+862186,113,1321208918,5714918,B,1900,brute force-data structures-hashing-strings,Azat_Yusupov,Java 6,1550,139571200
+838316,113,1320600903,5106903,A,1600,implementation-strings,kiko91_7,Java 6,140,43110400
+825790,113,1320299099,4805099,B,1900,brute force-data structures-hashing-strings,DoublePointer,Java 6,1630,147148800
+819591,113,1319981839,4487839,B,1900,brute force-data structures-hashing-strings,nanikaka,Java 6,1760,141312000
+819583,113,1319981671,4487671,B,1900,brute force-data structures-hashing-strings,nanikaka,Java 6,1510,141312000
+819577,113,1319981488,4487488,B,1900,brute force-data structures-hashing-strings,nanikaka,Java 6,1550,141312000
+819575,113,1319981452,4487452,B,1900,brute force-data structures-hashing-strings,nanikaka,Java 6,1880,141312000
+819569,113,1319981265,4487265,B,1900,brute force-data structures-hashing-strings,nanikaka,Java 6,1640,141312000
+797066,113,1315494700,700,A,1600,implementation-strings,Kornacker,Java 6,130,43110400
+756222,113,1318378285,2884285,A,1600,implementation-strings,tux1986,Java 6,130,35328000
+748701,113,1318017869,2523869,A,1600,implementation-strings,wackloner,Java 6,140,35328000
+706425,113,1316257773,763773,A,1600,implementation-strings,Nox,Java 6,110,35225600
+706038,113,1316242415,748415,B,1900,brute force-data structures-hashing-strings,anhdt,Java 6,1580,142438400
+694121,113,1315995194,501194,A,1600,implementation-strings,lucis,Java 6,160,35328000
+692995,113,1315498111,4111,C,2200,brute force-math-number theory,theRed,Java 6,4880,35225600
+691865,113,1315496270,2270,A,1600,implementation-strings,eipie,Java 6,140,35328000
+690783,113,1315499560,5560,C,2200,brute force-math-number theory,Eledven,Java 6,4860,35840000
+689946,113,1315762039,268039,C,2200,brute force-math-number theory,OgieKako,Java 6,1280,35225600
+689608,113,1315746621,252621,B,1900,brute force-data structures-hashing-strings,901001,Java 6,1480,139468800
+689237,113,1315727624,233624,B,1900,brute force-data structures-hashing-strings,anhdt,Java 6,1300,173875200
+688898,113,1315685738,191738,B,1900,brute force-data structures-hashing-strings,Slamur,Java 6,250,35328000
+688665,113,1315670930,176930,A,1600,implementation-strings,Sinner,Java 6,130,35225600
+688536,113,1315665972,171972,B,1900,brute force-data structures-hashing-strings,Hadi_Asiaie,Java 6,190,49459200
+688489,113,1315663912,169912,B,1900,brute force-data structures-hashing-strings,SkyFire,Java 6,310,35328000
+688024,113,1315650256,156256,D,2500,math-matrices-probabilities,OgieKako,Java 6,190,35328000
+687906,113,1315646619,152619,D,2500,math-matrices-probabilities,OgieKako,Java 6,610,35328000
+687771,113,1315641818,147818,B,1900,brute force-data structures-hashing-strings,sayuan,Java 6,190,35328000
+687612,113,1315637564,143564,B,1900,brute force-data structures-hashing-strings,Omar.Darwish,Java 6,1920,198860800
+687583,113,1315636452,142452,B,1900,brute force-data structures-hashing-strings,SkyFire,Java 6,310,35430400
+687578,113,1315636311,142311,B,1900,brute force-data structures-hashing-strings,SkyFire,Java 6,330,35430400
+687576,113,1315636304,142304,A,1600,implementation-strings,sayuan,Java 6,190,35328000
+687531,113,1315633960,139960,A,1600,implementation-strings,sayuan,Java 6,170,35328000
+687530,113,1315633952,139952,B,1900,brute force-data structures-hashing-strings,chronotable,Java 6,1450,146227200
+687527,113,1315633774,139774,B,1900,brute force-data structures-hashing-strings,chronotable,Java 6,610,67584000
+687523,113,1315633507,139507,A,1600,implementation-strings,Omar.Darwish,Java 6,130,35328000
+687520,113,1315494761,761,A,1600,implementation-strings,islam-al-aarag,Java 6,130,35225600
+687349,113,1315616225,122225,B,1900,brute force-data structures-hashing-strings,Amr_Mesbah,Java 6,1500,141414400
+686956,113,1315594508,100508,C,2200,brute force-math-number theory,DoublePointer,Java 6,4590,54169600
+686807,113,1315591548,97548,E,2600,combinatorics-implementation-math,mmaxio,Java 6,90,35225600
+686672,113,1315587976,93976,B,1900,brute force-data structures-hashing-strings,SkyFire,Java 6,410,35328000
+686667,113,1315587788,93788,B,1900,brute force-data structures-hashing-strings,SkyFire,Java 6,380,35430400
+686662,113,1315587719,93719,B,1900,brute force-data structures-hashing-strings,SkyFire,Java 6,380,35430400
+686579,113,1315585702,91702,A,1600,implementation-strings,antonio081014,Java 6,110,35225600
+686460,113,1315583147,89147,B,1900,brute force-data structures-hashing-strings,caustique,Java 6,1510,139673600
+686315,113,1315579865,85865,A,1600,implementation-strings,caustique,Java 6,110,35225600
+686281,113,1315578492,84492,B,1900,brute force-data structures-hashing-strings,S.Yesipenko,Java 6,1170,185958400
+686279,113,1315578324,84324,C,2200,brute force-math-number theory,S.Yesipenko,Java 6,3330,35328000
+686122,113,1315571862,77862,B,1900,brute force-data structures-hashing-strings,Di735,Java 6,220,88473600
+685989,113,1315569447,75447,D,2500,math-matrices-probabilities,mmaxio,Java 6,970,35635200
+685904,113,1315567705,73705,A,1600,implementation-strings,rudradevbasak,Java 6,110,35225600
+685850,113,1315566228,72228,B,1900,brute force-data structures-hashing-strings,Di735,Java 6,1330,155648000
+685752,113,1315563889,69889,A,1600,implementation-strings,cyon,Java 6,160,35328000
+685477,113,1315557454,63454,B,1900,brute force-data structures-hashing-strings,dmitry.uvarov,Java 6,1510,141516800
+685308,113,1315552931,58931,B,1900,brute force-data structures-hashing-strings,jayi,Java 6,1280,171827200
+685187,113,1315550449,56449,A,1600,implementation-strings,Spacejoker,Java 6,130,35225600
+685173,113,1315549923,55923,A,1600,implementation-strings,SkyFire,Java 6,130,35225600
+685080,113,1315548190,54190,B,1900,brute force-data structures-hashing-strings,daizhenyang,Java 6,1510,139571200
+685068,113,1315548060,54060,B,1900,brute force-data structures-hashing-strings,htvu,Java 6,1530,141312000
+684990,113,1315546153,52153,B,1900,brute force-data structures-hashing-strings,Nikhil,Java 6,1500,139673600
+684932,113,1315544757,50757,A,1600,implementation-strings,chronotable,Java 6,130,35225600
+684923,113,1315544483,50483,A,1600,implementation-strings,Nikhil,Java 6,140,35328000
+684117,113,1315527156,33156,A,1600,implementation-strings,lazzrov,Java 6,140,35328000
+684103,113,1315526618,32618,A,1600,implementation-strings,b3cta3,Java 6,130,35225600
+684064,113,1315525342,31342,A,1600,implementation-strings,Ahmed.Ibrahem,Java 6,110,35225600
+684042,113,1315524678,30678,B,1900,brute force-data structures-hashing-strings,ahmad_mamdouh,Java 6,1440,139161600
+683967,113,1315522379,28379,A,1600,implementation-strings,Ahmed_Gad,Java 6,130,35225600
+683666,113,1315514795,20795,B,1900,brute force-data structures-hashing-strings,mmaxio,Java 6,1500,201625600
+683657,113,1315514614,20614,B,1900,brute force-data structures-hashing-strings,mmaxio,Java 6,1250,127692800
+683616,113,1315514106,20106,A,1600,implementation-strings,Wahba,Java 6,130,35635200
+683602,113,1315513935,19935,C,2200,brute force-math-number theory,SkyFire,Java 6,4250,54169600
+683572,113,1315513644,19644,A,1600,implementation-strings,ahmad_mamdouh,Java 6,130,35225600
+683528,113,1315513152,19152,B,1900,brute force-data structures-hashing-strings,todo,Java 6,720,67584000
+683525,113,1315513147,19147,A,1600,implementation-strings,vanchope,Java 6,140,56832000
+683516,113,1315513082,19082,B,1900,brute force-data structures-hashing-strings,vanchope,Java 6,380,56422400
+683290,113,1315511253,17253,B,1900,brute force-data structures-hashing-strings,ivan.popelyshev,Java 6,160,35328000
+683251,113,1315511054,17054,B,1900,brute force-data structures-hashing-strings,todo,Java 6,720,67584000
+683120,113,1315510357,16357,B,1900,brute force-data structures-hashing-strings,Ahmed_Salama,Java 6,1510,141312000
+683115,113,1315510338,16338,A,1600,implementation-strings,Dunaril,Java 6,130,35328000
+683108,113,1315510318,16318,B,1900,brute force-data structures-hashing-strings,Ahmed_Salama,Java 6,1530,141312000
+683090,113,1315510241,16241,A,1600,implementation-strings,RedAnt,Java 6,170,35328000
+682646,113,1315508660,14660,A,1600,implementation-strings,dalex,Java 6,130,35737600
+682591,113,1315508516,14516,B,1900,brute force-data structures-hashing-strings,dalex,Java 6,1130,159539200
+682502,113,1315508362,14362,B,1900,brute force-data structures-hashing-strings,yarrr,Java 6,1450,139673600
+682351,113,1315508055,14055,C,2200,brute force-math-number theory,Darko,Java 6,4760,98406400
+682332,113,1315508023,14023,B,1900,brute force-data structures-hashing-strings,uwi,Java 6,660,67584000
+682277,113,1315507875,13875,A,1600,implementation-strings,Darko,Java 6,170,35328000
+681920,113,1315501128,7128,C,2200,brute force-math-number theory,uwi,Java 6,3700,64921600
+681721,113,1315501002,7002,D,2500,math-matrices-probabilities,yaro,Java 6,1250,35328000
+681442,113,1315500736,6736,A,1600,implementation-strings,xiaowuc1,Java 6,110,35225600
+681051,113,1315500345,6345,A,1600,implementation-strings,shilov,Java 6,130,35225600
+681017,113,1315500306,6306,A,1600,implementation-strings,daizhenyang,Java 6,140,35328000
+680746,113,1315500013,6013,E,2600,combinatorics-implementation-math,Sammarize,Java 6,130,35328000
+680267,113,1315499372,5372,C,2200,brute force-math-number theory,ivan.popelyshev,Java 6,3700,73216000
+680087,113,1315499156,5156,A,1600,implementation-strings,Hadi_Asiaie,Java 6,130,35225600
+680027,113,1315499110,5110,A,1600,implementation-strings,Di735,Java 6,130,35225600
+679986,113,1315499066,5066,C,2200,brute force-math-number theory,Efgen,Java 6,3080,35430400
+679901,113,1315498970,4970,C,2200,brute force-math-number theory,mmaxio,Java 6,2090,35840000
+679809,113,1315498871,4871,A,1600,implementation-strings,lijunle,Java 6,160,35328000
+679775,113,1315498834,4834,A,1600,implementation-strings,uwi,Java 6,160,35328000
+679677,113,1315498734,4734,A,1600,implementation-strings,lolotp,Java 6,140,35328000
+679603,113,1315498658,4658,A,1600,implementation-strings,mmaxio,Java 6,130,35225600
+679420,113,1315498468,4468,B,1900,brute force-data structures-hashing-strings,OgieKako,Java 6,420,35328000
+679388,113,1315498437,4437,A,1600,implementation-strings,Respect2D,Java 6,110,35225600
+679371,113,1315498424,4424,C,2200,brute force-math-number theory,yaro,Java 6,2300,35840000
+679255,113,1315498313,4313,C,2200,brute force-math-number theory,Egor,Java 6,2380,55398400
+678773,113,1315497753,3753,C,2200,brute force-math-number theory,Narg,Java 6,2130,73625600
+678753,113,1315497739,3739,A,1600,implementation-strings,calculus.saransh,Java 6,110,35225600
+677890,113,1315496909,2909,A,1600,implementation-strings,todo,Java 6,160,35328000
+677795,113,1315496824,2824,C,2200,brute force-math-number theory,Hadi_Asiaie,Java 6,1250,35328000
+677761,113,1315496797,2797,A,1600,implementation-strings,Sammarize,Java 6,140,35225600
+677404,113,1315496457,2457,A,1600,implementation-strings,icyrhyme,Java 6,140,35328000
+677274,113,1315496334,2334,A,1600,implementation-strings,fegla,Java 6,160,35328000
+677067,113,1315496137,2137,A,1600,implementation-strings,danbanica,Java 6,160,35328000
+676974,113,1315496049,2049,A,1600,implementation-strings,Ahmed_Salama,Java 6,110,35225600
+676838,113,1315495931,1931,B,1900,brute force-data structures-hashing-strings,yaro,Java 6,630,99328000
+676798,113,1315495899,1899,B,1900,brute force-data structures-hashing-strings,SergeyLazarev,Java 6,1250,170700800
+676416,113,1315495580,1580,A,1600,implementation-strings,fushar,Java 6,130,35225600
+676388,113,1315495558,1558,A,1600,implementation-strings,dmitry.uvarov,Java 6,110,35328000
+676303,113,1315495498,1498,B,1900,brute force-data structures-hashing-strings,Egor,Java 6,1480,139571200
+676146,113,1315495400,1400,A,1600,implementation-strings,ferr,Java 6,130,35430400
+675820,113,1315495177,1177,A,1600,implementation-strings,DoublePointer,Java 6,160,35328000
+675795,113,1315495162,1162,A,1600,implementation-strings,valich,Java 6,110,35225600
+675773,113,1315495146,1146,A,1600,implementation-strings,sayuan,Java 6,170,35328000
+675717,113,1315495104,1104,A,1600,implementation-strings,yarrr,Java 6,110,35225600
+675621,113,1315495043,1043,A,1600,implementation-strings,Efgen,Java 6,130,35430400
+675453,113,1315494938,938,A,1600,implementation-strings,anhdt,Java 6,130,35328000
+675357,113,1315494885,885,A,1600,implementation-strings,OgieKako,Java 6,140,35328000
+675266,113,1315494835,835,A,1600,implementation-strings,S.Yesipenko,Java 6,130,35328000
+675225,113,1315494812,812,A,1600,implementation-strings,dalex,Java 6,130,35737600
+675199,113,1315494796,796,A,1600,implementation-strings,Egor,Java 6,130,35225600
+675094,113,1315494743,743,A,1600,implementation-strings,yaro,Java 6,130,35225600
+675001,113,1315494678,678,A,1600,implementation-strings,rudradevbasak,Java 6,110,35225600
+674938,113,1315494643,643,B,1900,brute force-data structures-hashing-strings,Narg,Java 6,1550,139673600

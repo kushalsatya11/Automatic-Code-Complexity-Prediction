@@ -1,0 +1,1360 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57860160,1088,1564247946,2147483647,B,1000,implementation-sortings,mohit23,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57825983,1088,1564196851,2147483647,A,800,brute force-constructive algorithms,vvenkai,Java 8,109,0,OK
+57745583,1088,1564059251,251,A,800,brute force-constructive algorithms,souhardswami987,Java 8,124,0,OK
+57460509,1088,1563715526,2147483647,B,1000,implementation-sortings,deepaktiwari9898,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57460147,1088,1563714952,2147483647,B,1000,implementation-sortings,deepaktiwari9898,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57460003,1088,1563714726,2147483647,B,1000,implementation-sortings,deepaktiwari9898,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57304755,1088,1563504739,3019,D,2000,bitmasks-constructive algorithms-implementation-interactive,jdurie,Java 8,124,0,OK
+57304062,1088,1563503091,1371,C,1400,constructive algorithms-greedy-math,jdurie,Java 8,155,0,OK
+57303676,1088,1563502168,448,B,1000,implementation-sortings,jdurie,Java 8,826,0,OK
+57303494,1088,1563501785,65,A,800,brute force-constructive algorithms,jdurie,Java 8,124,0,OK
+57278009,1088,1563449959,2147483647,A,800,brute force-constructive algorithms,S_Adik_K,Java 8,140,0,OK
+57139423,1088,1563272480,2147483647,A,800,brute force-constructive algorithms,Yahia_mostafa,Java 8,109,0,OK
+56852821,1088,1562863044,5244,C,1400,constructive algorithms-greedy-math,O_E,Java 8,140,0,OK
+56850323,1088,1562858733,933,B,1000,implementation-sortings,O_E,Java 8,186,0,OK
+56850030,1088,1562858263,463,A,800,brute force-constructive algorithms,O_E,Java 8,109,0,OK
+56769636,1088,1562704678,2147483647,A,800,brute force-constructive algorithms,pvar,Java 8,124,0,OK
+56767242,1088,1562699145,2147483647,B,1000,implementation-sortings,pvar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56767157,1088,1562698971,2147483647,B,1000,implementation-sortings,pvar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56714193,1088,1562594139,2147483647,A,800,brute force-constructive algorithms,hanamagdy,Java 8,140,0,OK
+56556021,1088,1562329434,2147483647,B,1000,implementation-sortings,hardikkumar.katakiya,Java 8,1000,409600,TIME_LIMIT_EXCEEDED
+56555014,1088,1562327745,2147483647,B,1000,implementation-sortings,hardikkumar.katakiya,Java 8,1000,307200,TIME_LIMIT_EXCEEDED
+56554929,1088,1562327609,2147483647,B,1000,implementation-sortings,hardikkumar.katakiya,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56554792,1088,1562327426,2147483647,B,1000,implementation-sortings,hardikkumar.katakiya,Java 8,1000,307200,TIME_LIMIT_EXCEEDED
+56554440,1088,1562326888,2147483647,B,1000,implementation-sortings,hardikkumar.katakiya,Java 8,1000,307200,TIME_LIMIT_EXCEEDED
+56552342,1088,1562322356,2147483647,A,800,brute force-constructive algorithms,hardikkumar.katakiya,Java 8,139,0,OK
+56545801,1088,1562312132,2147483647,B,1000,implementation-sortings,kareemmedhat_cs,Java 8,920,0,OK
+56474578,1088,1562157387,2147483647,B,1000,implementation-sortings,beykus,Java 8,592,3686400,OK
+56031491,1088,1561456011,2147483647,A,800,brute force-constructive algorithms,beykus,Java 8,139,0,OK
+55812880,1088,1561006557,2147483647,B,1000,implementation-sortings,ashcodish,Java 8,904,0,OK
+55651342,1088,1560696193,2147483647,B,1000,implementation-sortings,hctep,Java 8,904,0,OK
+55615348,1088,1560674040,2147483647,C,1400,constructive algorithms-greedy-math,tapopadma,Java 8,124,0,OK
+55611453,1088,1560664949,749,B,1000,implementation-sortings,tapopadma,Java 8,186,0,OK
+55611271,1088,1560664438,238,A,800,brute force-constructive algorithms,tapopadma,Java 8,124,0,OK
+55576688,1088,1560564326,2147483647,A,800,brute force-constructive algorithms,vjudge4,Java 8,124,0,OK
+55432446,1088,1560254965,865,A,800,brute force-constructive algorithms,minaezzat,Java 8,155,0,OK
+55242880,1088,1559909091,2147483647,B,1000,implementation-sortings,foreverlearner,Java 8,171,0,OK
+55181281,1088,1559774275,6715,D,2000,bitmasks-constructive algorithms-implementation-interactive,aznswimmerboi,Java 8,155,0,OK
+55179973,1088,1559768972,1412,C,1400,constructive algorithms-greedy-math,aznswimmerboi,Java 8,171,0,OK
+55179769,1088,1559768105,544,B,1000,implementation-sortings,aznswimmerboi,Java 8,951,0,OK
+55179674,1088,1559767714,154,A,800,brute force-constructive algorithms,aznswimmerboi,Java 8,139,0,OK
+55125915,1088,1559739013,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,kocko,Java 8,140,0,OK
+55086922,1088,1559652913,2147483647,B,1000,implementation-sortings,Icentamein,Java 8,810,1228800,OK
+55086305,1088,1559652130,2147483647,B,1000,implementation-sortings,Icentamein,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+55080613,1088,1559644444,2147483647,A,800,brute force-constructive algorithms,Outfinding,Java 8,140,0,OK
+55016375,1088,1559565176,2147483647,C,1400,constructive algorithms-greedy-math,nafkhanzam,Java 8,155,0,OK
+55013957,1088,1559561248,2147483647,B,1000,implementation-sortings,nafkhanzam,Java 8,202,0,OK
+55013441,1088,1559560495,2147483647,A,800,brute force-constructive algorithms,nafkhanzam,Java 8,156,0,OK
+55002250,1088,1559539368,2147483647,B,1000,implementation-sortings,Harbin,Java 8,171,0,OK
+54997329,1088,1559522927,2147483647,A,800,brute force-constructive algorithms,Harbin,Java 8,124,0,OK
+54996640,1088,1559522480,2147483647,A,800,brute force-constructive algorithms,Harbin,Java 8,124,0,OK
+54996615,1088,1559522359,2147483647,A,800,brute force-constructive algorithms,Harbin,Java 8,124,0,OK
+54991883,1088,1559503306,2147483647,A,800,brute force-constructive algorithms,Lightars,Java 8,140,0,OK
+54988775,1088,1559495914,2147483647,E,2400,dp-greedy-math-trees,nagabhushan,Java 8,998,116838400,OK
+54988735,1088,1559495813,2147483647,E,2400,dp-greedy-math-trees,nagabhushan,Java 8,1000,55193600,TIME_LIMIT_EXCEEDED
+54988680,1088,1559495689,2147483647,E,2400,dp-greedy-math-trees,nagabhushan,Java 8,1000,55091200,TIME_LIMIT_EXCEEDED
+54981059,1088,1559481101,2147483647,B,1000,implementation-sortings,Jetch,Java 8,155,0,OK
+54980988,1088,1559481001,2147483647,B,1000,implementation-sortings,Jetch,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54980700,1088,1559480526,2147483647,B,1000,implementation-sortings,Jetch,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54979905,1088,1559479116,2147483647,A,800,brute force-constructive algorithms,Jetch,Java 8,124,0,OK
+54888387,1088,1559328322,2147483647,A,800,brute force-constructive algorithms,vjudge5,Java 8,109,0,OK
+54885869,1088,1559322988,2147483647,A,800,brute force-constructive algorithms,gaurav___kumar,Java 8,140,0,OK
+54863314,1088,1559276300,2147483647,A,800,brute force-constructive algorithms,vjudge1,Java 8,124,0,OK
+54781605,1088,1559082694,1294,B,1000,implementation-sortings,TheLaughingBudha,Java 8,342,0,OK
+54781519,1088,1559082220,820,A,800,brute force-constructive algorithms,TheLaughingBudha,Java 8,155,0,OK
+54764271,1088,1559061690,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,hzy9819,Java 8,155,0,OK
+54667939,1088,1558880968,2147483647,A,800,brute force-constructive algorithms,hctep,Java 8,155,0,OK
+54495049,1088,1558545578,2147483647,A,800,brute force-constructive algorithms,Yash57,Java 8,140,0,OK
+54490729,1088,1558538317,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,109,0,OK
+54490660,1088,1558538215,2147483647,A,800,brute force-constructive algorithms,vjudge3,Java 8,109,0,OK
+54490591,1088,1558538116,2147483647,A,800,brute force-constructive algorithms,vjudge3,Java 8,109,0,OK
+54490570,1088,1558538073,2147483647,A,800,brute force-constructive algorithms,vjudge5,Java 8,124,0,OK
+54489950,1088,1558537162,2147483647,A,800,brute force-constructive algorithms,vjudge1,Java 8,124,0,OK
+54489667,1088,1558536729,2147483647,A,800,brute force-constructive algorithms,hnsaavedraa,Java 8,109,0,OK
+54489409,1088,1558536318,2147483647,A,800,brute force-constructive algorithms,hnsaavedraa,Java 8,109,0,OK
+54489095,1088,1558535808,2147483647,A,800,brute force-constructive algorithms,hnsaavedraa,Java 8,124,0,OK
+54369504,1088,1558244870,2147483647,B,1000,implementation-sortings,Vatsal53,Java 8,794,3584000,OK
+54330345,1088,1558157534,2147483647,B,1000,implementation-sortings,ishika251298,Java 8,764,0,OK
+54268923,1088,1558078991,2147483647,B,1000,implementation-sortings,ishika251298,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54268514,1088,1558078092,2147483647,B,1000,implementation-sortings,ishika251298,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+53994648,1088,1557583022,2147483647,B,1000,implementation-sortings,Vatsal53,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+53993961,1088,1557581801,2147483647,A,800,brute force-constructive algorithms,Vatsal53,Java 8,140,0,OK
+53973114,1088,1557537328,2147483647,A,800,brute force-constructive algorithms,bashar99,Java 8,155,0,OK
+53857725,1088,1557249982,2147483647,A,800,brute force-constructive algorithms,minhajcse,Java 8,140,0,OK
+53535702,1088,1556589736,2147483647,A,800,brute force-constructive algorithms,ale019,Java 8,139,0,OK
+53530068,1088,1556566436,2147483647,A,800,brute force-constructive algorithms,vjudge1,Java 8,140,0,OK
+53528925,1088,1556561846,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,139,0,OK
+53528413,1088,1556561158,2147483647,A,800,brute force-constructive algorithms,vjudge5,Java 8,140,0,OK
+53178830,1088,1556000270,2147483647,B,1000,implementation-sortings,goalboy,Java 8,982,5632000,OK
+53110045,1088,1555895384,2147483647,B,1000,implementation-sortings,0rnag,Java 8,935,0,OK
+53032744,1088,1555729762,2147483647,B,1000,implementation-sortings,0rnag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+53022439,1088,1555693751,1451,A,800,brute force-constructive algorithms,Bhavya_Arora,Java 8,140,0,OK
+53019046,1088,1555688102,2147483647,B,1000,implementation-sortings,lebaur,Java 8,202,0,OK
+52944514,1088,1555585016,2147483647,B,1000,implementation-sortings,vjudge5,Java 8,795,0,OK
+52944369,1088,1555584780,2147483647,B,1000,implementation-sortings,vjudge2,Java 8,982,0,OK
+52935864,1088,1555568577,2147483647,B,1000,implementation-sortings,vjudge3,Java 8,202,0,OK
+52935830,1088,1555568505,2147483647,B,1000,implementation-sortings,Klnsyf_Ego,Java 8,202,0,OK
+52935123,1088,1555566875,2147483647,B,1000,implementation-sortings,vjudge1,Java 8,951,0,OK
+52934554,1088,1555565566,2147483647,B,1000,implementation-sortings,vjudge3,Java 8,920,7270400,OK
+52885571,1088,1555476151,2147483647,B,1000,implementation-sortings,Quan2202,Java 8,935,0,OK
+52885154,1088,1555475156,2147483647,B,1000,implementation-sortings,Quan2202,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+52884105,1088,1555471903,2147483647,B,1000,implementation-sortings,Quan2202,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+52821099,1088,1555416066,2147483647,B,1000,implementation-sortings,akshita00,Java 8,920,0,OK
+52776768,1088,1555330964,2147483647,B,1000,implementation-sortings,Shadmim03,Java 8,998,0,OK
+52428114,1088,1554582275,2147483647,A,800,brute force-constructive algorithms,GbadaHamza,Java 8,140,0,OK
+51977613,1088,1553871285,2147483647,B,1000,implementation-sortings,vjudge2,Java 8,1000,7065600,TIME_LIMIT_EXCEEDED
+51973639,1088,1553866226,2147483647,B,1000,implementation-sortings,vjudge4,Java 8,1000,6963200,TIME_LIMIT_EXCEEDED
+51969975,1088,1553860557,2147483647,B,1000,implementation-sortings,vjudge3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+51967195,1088,1553855795,2147483647,B,1000,implementation-sortings,mohamed.hussein.aem,Java 8,826,0,OK
+51967112,1088,1553855675,2147483647,B,1000,implementation-sortings,mohamed.hussein.aem,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+51966935,1088,1553855341,2147483647,B,1000,implementation-sortings,mohamed.hussein.aem,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+51941343,1088,1553783832,2147483647,A,800,brute force-constructive algorithms,ArmourOfGod,Java 8,124,0,OK
+51803915,1088,1553457359,2147483647,B,1000,implementation-sortings,MuhamedX,Java 8,904,0,OK
+51799415,1088,1553447320,2147483647,B,1000,implementation-sortings,stolis,Java 8,436,0,OK
+51736169,1088,1553308652,2147483647,B,1000,implementation-sortings,hienmv,Java 8,904,0,OK
+51595954,1088,1553119073,2147483647,B,1000,implementation-sortings,ajaytank,Java 8,779,0,OK
+51478045,1088,1552989947,2147483647,A,800,brute force-constructive algorithms,stolis,Java 8,140,0,OK
+51379760,1088,1552750882,2147483647,A,800,brute force-constructive algorithms,Yukimoto,Java 8,109,0,OK
+51292321,1088,1552561449,2147483647,A,800,brute force-constructive algorithms,pulkitaggarwal65,Java 8,140,0,OK
+51227345,1088,1552401629,2147483647,C,1400,constructive algorithms-greedy-math,icpc_loser,Java 8,124,0,OK
+51123907,1088,1552214605,2147483647,B,1000,implementation-sortings,abhi.raj21jan,Java 8,140,0,OK
+51116530,1088,1552202043,2147483647,A,800,brute force-constructive algorithms,batkhuyag,Java 8,140,0,OK
+50916025,1088,1551939889,2147483647,B,1000,implementation-sortings,Hredoy_Biswas,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50757553,1088,1551635632,2147483647,B,1000,implementation-sortings,Muhamed_Srouji,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50687742,1088,1551536547,2147483647,A,800,brute force-constructive algorithms,vjudge1,Java 8,155,0,OK
+50685159,1088,1551532823,2147483647,B,1000,implementation-sortings,darshan287,Java 8,140,0,OK
+50590828,1088,1551338420,2147483647,A,800,brute force-constructive algorithms,goalboy,Java 8,155,0,OK
+50577833,1088,1551294335,2147483647,B,1000,implementation-sortings,vjvjain0,Java 8,171,0,OK
+50574489,1088,1551287815,2147483647,A,800,brute force-constructive algorithms,darshan287,Java 8,124,0,OK
+50566123,1088,1551273211,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,139,0,OK
+50564394,1088,1551270696,2147483647,A,800,brute force-constructive algorithms,vjudge3,Java 8,140,0,OK
+50548288,1088,1551227682,2147483647,A,800,brute force-constructive algorithms,vjudge1,Java 8,140,0,OK
+50527678,1088,1551184068,2147483647,B,1000,implementation-sortings,KaungKhantThar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50469533,1088,1551048000,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,140,0,OK
+50434614,1088,1551022770,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,156,0,OK
+50407654,1088,1550960294,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,139,0,OK
+50405999,1088,1550954956,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,140,0,OK
+50403775,1088,1550950140,2147483647,A,800,brute force-constructive algorithms,vjudge2,Java 8,140,0,OK
+50401251,1088,1550946058,2147483647,A,800,brute force-constructive algorithms,vjudge4,Java 8,140,0,OK
+50398151,1088,1550940812,2147483647,A,800,brute force-constructive algorithms,vjudge5,Java 8,1000,72396800,TIME_LIMIT_EXCEEDED
+50396271,1088,1550937716,2147483647,A,800,brute force-constructive algorithms,vjudge5,Java 8,1000,72294400,TIME_LIMIT_EXCEEDED
+50150147,1088,1550559526,2147483647,A,800,brute force-constructive algorithms,vjudge3,Java 8,140,0,OK
+50149102,1088,1550557654,2147483647,A,800,brute force-constructive algorithms,luogu_bot4,Java 8,140,0,OK
+50140139,1088,1550524103,1403,B,1000,implementation-sortings,K.A,Java 8,811,0,OK
+50139683,1088,1550523014,314,A,800,brute force-constructive algorithms,K.A,Java 8,124,0,OK
+50092665,1088,1550488593,2147483647,A,800,brute force-constructive algorithms,milanagariya,Java 8,140,0,OK
+49991357,1088,1550321925,2147483647,B,1000,implementation-sortings,CoderSS,Java 8,904,0,OK
+49950388,1088,1550238509,2147483647,C,1400,constructive algorithms-greedy-math,Leks360,Java 8,186,0,OK
+49947557,1088,1550234532,2147483647,A,800,brute force-constructive algorithms,Mr.Doofus,Java 8,140,0,OK
+49943900,1088,1550228955,2147483647,B,1000,implementation-sortings,Leks360,Java 8,935,0,OK
+49879986,1088,1550079713,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,ISSAM_LAKOUAM,Java 8,171,0,OK
+49879975,1088,1550079695,2147483647,E,2400,dp-greedy-math-trees,ISSAM_LAKOUAM,Java 8,998,75776000,OK
+49879952,1088,1550079671,2147483647,F,3000,data structures-trees,ISSAM_LAKOUAM,Java 8,2137,182988800,OK
+49854538,1088,1550039226,2147483647,C,1400,constructive algorithms-greedy-math,WisdenCoder,Java 8,155,3174400,OK
+49850066,1088,1550025646,1546,B,1000,implementation-sortings,WisdenCoder,Java 8,888,10752000,OK
+49849685,1088,1550024310,210,A,800,brute force-constructive algorithms,WisdenCoder,Java 8,124,2867200,OK
+49827707,1088,1549974534,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,krit_patel,Java 8,140,0,OK
+49823689,1088,1549966675,2147483647,C,1400,constructive algorithms-greedy-math,krit_patel,Java 8,140,0,OK
+49805814,1088,1549914510,2147483647,B,1000,implementation-sortings,krit_patel,Java 8,811,5734400,OK
+49776530,1088,1549899722,2147483647,A,800,brute force-constructive algorithms,olyakrylo,Java 8,140,0,OK
+49755733,1088,1549865693,2147483647,A,800,brute force-constructive algorithms,KaungKhantThar,Java 8,140,0,OK
+49740439,1088,1549824618,2147483647,C,1400,constructive algorithms-greedy-math,YamaKasa,Java 8,234,0,OK
+49738606,1088,1549822594,2147483647,C,1400,constructive algorithms-greedy-math,YamaKasa,Java 8,234,0,OK
+49735586,1088,1549820251,2147483647,C,1400,constructive algorithms-greedy-math,YamaKasa,Java 8,249,0,OK
+49687189,1088,1549785905,2147483647,B,1000,implementation-sortings,YamaKasa,Java 8,904,0,OK
+49653313,1088,1549701712,2147483647,A,800,brute force-constructive algorithms,YamaKasa,Java 8,140,0,OK
+49643383,1088,1549675021,2147483647,B,1000,implementation-sortings,Nonnna,Java 8,186,0,OK
+49643155,1088,1549673691,2147483647,A,800,brute force-constructive algorithms,Nonnna,Java 8,124,0,OK
+49643144,1088,1549673615,2147483647,A,800,brute force-constructive algorithms,Nonnna,Java 8,109,0,OK
+49641884,1088,1549666576,2147483647,A,800,brute force-constructive algorithms,masuod_ml,Java 8,140,0,OK
+49539628,1088,1549475119,2147483647,B,1000,implementation-sortings,mannshah27,Java 8,920,0,OK
+49450737,1088,1549263675,2147483647,B,1000,implementation-sortings,kissscreen,Java 8,187,0,OK
+49399800,1088,1549203196,2147483647,A,800,brute force-constructive algorithms,Pz99,Java 8,140,0,OK
+49380710,1088,1549156173,2147483647,B,1000,implementation-sortings,stringman228899,Java 8,904,0,OK
+49366381,1088,1549120452,2147483647,A,800,brute force-constructive algorithms,sabehahshaik,Java 8,140,0,OK
+49350508,1088,1549095221,2147483647,B,1000,implementation-sortings,bulat_khaf31,Java 8,187,0,OK
+49350358,1088,1549094897,2147483647,B,1000,implementation-sortings,-_-301iq-_-,Java 8,202,0,OK
+49349783,1088,1549093625,2147483647,B,1000,implementation-sortings,EmilSilva,Java 8,187,0,OK
+49221219,1088,1548875826,2147483647,A,800,brute force-constructive algorithms,ashcodish,Java 8,124,0,OK
+49221180,1088,1548875768,2147483647,C,1400,constructive algorithms-greedy-math,vjvjain0,Java 8,124,0,OK
+49213120,1088,1548864974,2294,B,1000,implementation-sortings,spider_107,Java 8,998,9113600,OK
+49158537,1088,1548772429,2147483647,B,1000,implementation-sortings,newheathen,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49157776,1088,1548771569,2147483647,A,800,brute force-constructive algorithms,newheathen,Java 8,139,0,OK
+49141605,1088,1548757896,2147483647,A,800,brute force-constructive algorithms,pihugupta,Java 8,124,0,OK
+49055697,1088,1548594768,2147483647,A,800,brute force-constructive algorithms,DavidVictor2004,Java 8,140,0,OK
+48919657,1088,1548400179,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,llamaoo7,Java 8,124,0,OK
+48876099,1088,1548317725,2147483647,C,1400,constructive algorithms-greedy-math,Asim_Babayev,Java 8,171,0,OK
+48874773,1088,1548315687,2147483647,B,1000,implementation-sortings,Asim_Babayev,Java 8,998,0,OK
+48784632,1088,1548231806,2147483647,F,3000,data structures-trees,donli,Java 8,1450,175411200,OK
+48780337,1088,1548225189,2147483647,E,2400,dp-greedy-math-trees,donli,Java 8,467,15667200,OK
+48779825,1088,1548224411,2147483647,A,800,brute force-constructive algorithms,Asim_Babayev,Java 8,140,0,OK
+48761863,1088,1548179925,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,249,3174400,OK
+48710876,1088,1548145629,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,donli,Java 8,140,0,OK
+48709097,1088,1548142259,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,donli,Java 8,124,0,OK
+48687870,1088,1548086973,2147483647,B,1000,implementation-sortings,gaurav.gk5826,Java 8,966,0,OK
+48683764,1088,1548080658,2147483647,A,800,brute force-constructive algorithms,kaloosh,Java 8,140,0,OK
+48682735,1088,1548079120,2147483647,B,1000,implementation-sortings,gaurav.gk5826,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48667968,1088,1548061501,2147483647,C,1400,constructive algorithms-greedy-math,donli,Java 8,124,0,OK
+48667162,1088,1548060163,2147483647,C,1400,constructive algorithms-greedy-math,donli,Java 8,124,0,OK
+48666078,1088,1548058385,2147483647,C,1400,constructive algorithms-greedy-math,YousseF_Diaa,Java 8,109,0,OK
+48664486,1088,1548055719,2147483647,B,1000,implementation-sortings,donli,Java 8,171,0,OK
+48664081,1088,1548055054,2147483647,A,800,brute force-constructive algorithms,donli,Java 8,124,0,OK
+48599737,1088,1547970611,2147483647,B,1000,implementation-sortings,vjudge2,Java 8,935,7270400,OK
+48598576,1088,1547968736,2147483647,B,1000,implementation-sortings,vjudge4,Java 8,1000,7270400,TIME_LIMIT_EXCEEDED
+48598121,1088,1547968091,2147483647,B,1000,implementation-sortings,vjudge1,Java 8,966,7168000,OK
+48597310,1088,1547966943,2147483647,B,1000,implementation-sortings,vjudge1,Java 8,1000,7270400,TIME_LIMIT_EXCEEDED
+48596403,1088,1547965461,2147483647,B,1000,implementation-sortings,vjudge1,Java 8,904,0,OK
+48591918,1088,1547954005,2005,C,1400,constructive algorithms-greedy-math,_R_hakase,Java 8,202,0,OK
+48591513,1088,1547952456,456,A,800,brute force-constructive algorithms,_R_hakase,Java 8,140,0,OK
+48578455,1088,1547911234,2147483647,B,1000,implementation-sortings,manikasharma09,Java 8,920,0,OK
+48570380,1088,1547898134,2147483647,B,1000,implementation-sortings,YousseF_Diaa,Java 8,811,4198400,OK
+48569241,1088,1547896264,2147483647,B,1000,implementation-sortings,abhinavsharma629,Java 8,904,0,OK
+48568695,1088,1547895440,2147483647,A,800,brute force-constructive algorithms,YousseF_Diaa,Java 8,124,0,OK
+48542273,1088,1547832070,430,A,800,brute force-constructive algorithms,ScreaMood,Java 8,140,0,OK
+48530267,1088,1547810779,2147483647,C,1400,constructive algorithms-greedy-math,abhinavsharma629,Java 8,171,0,OK
+48530131,1088,1547810495,2147483647,C,1400,constructive algorithms-greedy-math,abhinavsharma629,Java 8,171,0,OK
+48524036,1088,1547798936,2147483647,C,1400,constructive algorithms-greedy-math,StOlEn_KiNg,Java 8,124,0,OK
+48517601,1088,1547788809,2147483647,B,1000,implementation-sortings,shankar556288,Java 8,280,4710400,OK
+48517198,1088,1547787992,2147483647,A,800,brute force-constructive algorithms,shankar556288,Java 8,124,0,OK
+48499311,1088,1547734738,2147483647,A,800,brute force-constructive algorithms,KamelSamara,Java 8,140,0,OK
+48499272,1088,1547734673,2147483647,C,1400,constructive algorithms-greedy-math,aman_jha,Java 8,171,0,OK
+48499240,1088,1547734613,2147483647,C,1400,constructive algorithms-greedy-math,aman_jha,Java 8,187,0,OK
+48452387,1088,1547637194,2147483647,B,1000,implementation-sortings,CharlesDai,Java 8,155,0,OK
+48424315,1088,1547561422,2147483647,B,1000,implementation-sortings,jatin.jain9414,Java 8,951,0,OK
+48371226,1088,1547440154,2147483647,B,1000,implementation-sortings,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48371037,1088,1547439496,2147483647,B,1000,implementation-sortings,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48329008,1088,1547385852,2147483647,A,800,brute force-constructive algorithms,jatin.jain9414,Java 8,140,0,OK
+48327964,1088,1547383898,2147483647,A,800,brute force-constructive algorithms,gaurav.gk5826,Java 8,124,0,OK
+48316670,1088,1547362636,2147483647,B,1000,implementation-sortings,anoosha187,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48311950,1088,1547348713,2147483647,A,800,brute force-constructive algorithms,YakovPolykovsky,Java 8,140,0,OK
+48308504,1088,1547330231,2147483647,B,1000,implementation-sortings,0rnag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48298690,1088,1547307969,2147483647,A,800,brute force-constructive algorithms,0Maher0,Java 8,124,0,OK
+48292951,1088,1547299698,2147483647,B,1000,implementation-sortings,sankcan55,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48291088,1088,1547297302,2147483647,A,800,brute force-constructive algorithms,sankcan55,Java 8,140,0,OK
+48185596,1088,1547131844,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,LeontiBrechko,Java 8,124,0,OK
+48110172,1088,1547023959,2147483647,A,800,brute force-constructive algorithms,vikashkumarbissu,Java 8,109,0,OK
+48092563,1088,1546958424,2147483647,A,800,brute force-constructive algorithms,darshil2848,Java 8,140,0,OK
+48069275,1088,1546893277,2147483647,B,1000,implementation-sortings,bobbilyking,Java 8,998,3788800,OK
+48062781,1088,1546877977,2147483647,A,800,brute force-constructive algorithms,skylerdj,Java 8,140,0,OK
+48056598,1088,1546864685,2147483647,B,1000,implementation-sortings,I.A.K.O.V,Java 8,155,0,OK
+48017908,1088,1546739574,2147483647,A,800,brute force-constructive algorithms,I.A.K.O.V,Java 8,109,0,OK
+48015072,1088,1546725008,2147483647,B,1000,implementation-sortings,HuKuTa_JiIObuT_HacTIO,Java 8,795,0,OK
+48012072,1088,1546719050,2147483647,E,2400,dp-greedy-math-trees,revanthreddy85,Java 8,998,240332800,OK
+47968863,1088,1546695080,2147483647,A,800,brute force-constructive algorithms,ayushkesarwani1000,Java 8,140,0,OK
+47963538,1088,1546685525,2147483647,A,800,brute force-constructive algorithms,reemsaado,Java 8,140,0,OK
+47954256,1088,1546663578,2147483647,A,800,brute force-constructive algorithms,grindthecode,Java 8,140,0,OK
+47897474,1088,1546602078,2147483647,A,800,brute force-constructive algorithms,anoosha187,Java 8,155,0,OK
+47885967,1088,1546556321,2147483647,A,800,brute force-constructive algorithms,dmytro.prytula,Java 8,124,0,OK
+47853177,1088,1546456472,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,benpr99,Java 8,124,0,OK
+47852566,1088,1546454983,2147483647,F,3000,data structures-trees,sweiss,Java 8,2308,264499200,OK
+47834094,1088,1546419760,2147483647,A,800,brute force-constructive algorithms,programmer21,Java 8,140,0,OK
+47831296,1088,1546412242,2147483647,C,1400,constructive algorithms-greedy-math,benpr99,Java 8,124,0,OK
+47827579,1088,1546395497,2147483647,C,1400,constructive algorithms-greedy-math,satya26,Java 8,140,0,OK
+47826343,1088,1546386474,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,858,6656000,OK
+47826294,1088,1546386201,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,919,6860800,OK
+47823894,1088,1546373387,2147483647,A,800,brute force-constructive algorithms,codeforcessup,Java 8,139,0,OK
+47820778,1088,1546364024,1244,B,1000,implementation-sortings,satya26,Java 8,888,5427200,OK
+47820431,1088,1546363141,361,A,800,brute force-constructive algorithms,satya26,Java 8,109,0,OK
+47796818,1088,1546278379,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,vjvjain0,Java 8,124,0,OK
+47791774,1088,1546264446,3546,C,1400,constructive algorithms-greedy-math,LeontiBrechko,Java 8,155,0,OK
+47790694,1088,1546261969,1069,B,1000,implementation-sortings,LeontiBrechko,Java 8,202,0,OK
+47790456,1088,1546261418,518,A,800,brute force-constructive algorithms,LeontiBrechko,Java 8,124,0,OK
+47790029,1088,1546260694,2147483647,B,1000,implementation-sortings,corechirag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47789968,1088,1546260569,2147483647,B,1000,implementation-sortings,Illusions,Java 8,810,0,OK
+47789660,1088,1546260052,2147483647,B,1000,implementation-sortings,corechirag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47789541,1088,1546259834,2147483647,B,1000,implementation-sortings,corechirag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47788984,1088,1546258725,2147483647,A,800,brute force-constructive algorithms,Illusions,Java 8,124,0,OK
+47780283,1088,1546241920,4120,B,1000,implementation-sortings,sarthak124,Java 8,935,0,OK
+47779153,1088,1546239012,1212,A,800,brute force-constructive algorithms,sarthak124,Java 8,140,0,OK
+47774499,1088,1546222816,2147483647,B,1000,implementation-sortings,catapazv,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47767412,1088,1546195526,2147483647,B,1000,implementation-sortings,__Paladin__,Java 8,982,0,OK
+47721572,1088,1546169801,2147483647,B,1000,implementation-sortings,Kavi.Prajapati,Java 8,826,0,OK
+47685648,1088,1546094420,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,904,6860800,OK
+47675991,1088,1546074546,2147483647,A,800,brute force-constructive algorithms,archit1jain,Java 8,140,0,OK
+47675501,1088,1546073534,2147483647,B,1000,implementation-sortings,NNxe,Java 8,904,0,OK
+47674513,1088,1546071459,2147483647,B,1000,implementation-sortings,NNxe,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47663290,1088,1546029817,2147483647,B,1000,implementation-sortings,0rnag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47662086,1088,1546026150,2147483647,B,1000,implementation-sortings,0rnag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47660061,1088,1546021823,2147483647,A,800,brute force-constructive algorithms,Nord777,Java 8,140,0,OK
+47612464,1088,1545987016,2147483647,B,1000,implementation-sortings,mohanadmostafa,Java 8,904,0,OK
+47536028,1088,1545874830,2147483647,B,1000,implementation-sortings,jzy_204,Java 8,904,0,OK
+47535387,1088,1545870683,2147483647,B,1000,implementation-sortings,jzy_204,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47534545,1088,1545865372,2147483647,A,800,brute force-constructive algorithms,xXAyushiXx,Java 8,140,0,OK
+47530054,1088,1545848459,2147483647,B,1000,implementation-sortings,TechSupport,Java 8,857,0,OK
+47529186,1088,1545846333,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47528884,1088,1545845728,2147483647,A,800,brute force-constructive algorithms,sourav2999,Java 8,140,0,OK
+47528861,1088,1545845675,2147483647,B,1000,implementation-sortings,sourav2999,Java 8,904,0,OK
+47523888,1088,1545835310,2147483647,B,1000,implementation-sortings,Leks360,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47521804,1088,1545831043,2147483647,A,800,brute force-constructive algorithms,Leks360,Java 8,139,0,OK
+47520589,1088,1545828678,2147483647,C,1400,constructive algorithms-greedy-math,raceldog,Java 8,171,0,OK
+47512591,1088,1545809760,2147483647,B,1000,implementation-sortings,AMOOOMA,Java 8,295,0,OK
+47512006,1088,1545808450,2147483647,A,800,brute force-constructive algorithms,AMOOOMA,Java 8,124,0,OK
+47505456,1088,1545777188,2147483647,C,1400,constructive algorithms-greedy-math,Hoda_Hisham,Java 8,124,0,OK
+47499287,1088,1545756677,2147483647,B,1000,implementation-sortings,vjudge3,Java 8,202,0,OK
+47491589,1088,1545740893,2147483647,A,800,brute force-constructive algorithms,abhinavsharma629,Java 8,140,0,OK
+47468185,1088,1545680534,2147483647,A,800,brute force-constructive algorithms,sooraj10,Java 8,124,0,OK
+47468166,1088,1545680478,2147483647,C,1400,constructive algorithms-greedy-math,sooraj10,Java 8,124,0,OK
+47467458,1088,1545678592,2147483647,A,800,brute force-constructive algorithms,manikasharma09,Java 8,140,0,OK
+47466764,1088,1545676742,2147483647,A,800,brute force-constructive algorithms,vktennis,Java 8,155,0,OK
+47464999,1088,1545672284,2147483647,B,1000,implementation-sortings,sooraj10,Java 8,155,0,OK
+47463398,1088,1545668766,366,A,800,brute force-constructive algorithms,dhoni072,Java 8,124,0,OK
+47457796,1088,1545658157,2147483647,A,800,brute force-constructive algorithms,remyels,Java 8,140,0,OK
+47437888,1088,1545597029,2147483647,B,1000,implementation-sortings,okasha,Java 8,982,0,OK
+47433637,1088,1545586004,2804,B,1000,implementation-sortings,dakshgautam1,Java 8,155,0,OK
+47432514,1088,1545583888,688,A,800,brute force-constructive algorithms,dakshgautam1,Java 8,124,0,OK
+47399607,1088,1545571428,2147483647,A,800,brute force-constructive algorithms,TechSupport,Java 8,155,0,OK
+47395905,1088,1545563438,4898,B,1000,implementation-sortings,saurabh4201,Java 8,951,0,OK
+47377859,1088,1545503809,2147483647,A,800,brute force-constructive algorithms,hiildaa,Java 8,140,0,OK
+47369119,1088,1545484439,2147483647,E,2400,dp-greedy-math-trees,sweiss,Java 8,998,88371200,OK
+47368844,1088,1545483891,2147483647,E,2400,dp-greedy-math-trees,sweiss,Java 8,1000,81100800,TIME_LIMIT_EXCEEDED
+47368629,1088,1545483429,2147483647,B,1000,implementation-sortings,StarLord_07,Java 8,935,0,OK
+47368096,1088,1545482309,2147483647,A,800,brute force-constructive algorithms,StarLord_07,Java 8,140,0,OK
+47361244,1088,1545468680,2147483647,B,1000,implementation-sortings,mayank_nsit,Java 8,966,0,OK
+47360534,1088,1545467350,2147483647,A,800,brute force-constructive algorithms,mayank_nsit,Java 8,140,0,OK
+47327345,1088,1545390489,2147483647,A,800,brute force-constructive algorithms,RabihJJ,Java 8,156,0,OK
+47314036,1088,1545350226,2147483647,A,800,brute force-constructive algorithms,enricogi,Java 8,140,0,OK
+47292887,1088,1545301494,2147483647,A,800,brute force-constructive algorithms,b10080526,Java 8,155,0,OK
+47258262,1088,1545218254,2147483647,A,800,brute force-constructive algorithms,mostafa.elhaiany,Java 8,109,0,OK
+47253053,1088,1545210647,2147483647,B,1000,implementation-sortings,mostafa.elhaiany,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47245931,1088,1545198189,2147483647,C,1400,constructive algorithms-greedy-math,jebaited,Java 8,171,0,OK
+47245208,1088,1545196659,2147483647,B,1000,implementation-sortings,jebaited,Java 8,795,0,OK
+47244781,1088,1545195597,2147483647,A,800,brute force-constructive algorithms,jebaited,Java 8,109,0,OK
+47244740,1088,1545195491,2147483647,A,800,brute force-constructive algorithms,viratK,Java 8,109,0,OK
+47241431,1088,1545185420,2147483647,A,800,brute force-constructive algorithms,HomeDragon,Java 8,124,0,OK
+47209869,1088,1545146372,2147483647,A,800,brute force-constructive algorithms,zekigurbuz,Java 8,124,0,OK
+47190189,1088,1545133828,2147483647,B,1000,implementation-sortings,Z.Y,Java 8,998,0,OK
+47189445,1088,1545132443,2147483647,B,1000,implementation-sortings,Z.Y,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47189089,1088,1545131695,2147483647,B,1000,implementation-sortings,ay839065,Java 8,171,0,OK
+47188508,1088,1545115978,2147483647,A,800,brute force-constructive algorithms,cojmsnd_qw,Java 8,140,0,OK
+47186059,1088,1545107705,1385,B,1000,implementation-sortings,Vandit_Shihora,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47185976,1088,1545107370,1050,B,1000,implementation-sortings,Vandit_Shihora,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47185563,1088,1545105704,2147483647,B,1000,implementation-sortings,MmoProgramador,Java 8,1000,3993600,TIME_LIMIT_EXCEEDED
+47174709,1088,1545065639,2147483647,C,1400,constructive algorithms-greedy-math,malikabhishek273,Java 8,171,0,OK
+47174668,1088,1545065562,2147483647,C,1400,constructive algorithms-greedy-math,Beta_Tumse_Na_Ho_Paega,Java 8,171,0,OK
+47170193,1088,1545057188,2147483647,A,800,brute force-constructive algorithms,Hazard10,Java 8,109,0,OK
+47169963,1088,1545056754,2147483647,B,1000,implementation-sortings,zekigurbuz,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47165071,1088,1545048453,2147483647,B,1000,implementation-sortings,droneKingxiiiiiiiDaddy,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47165035,1088,1545048383,2783,B,1000,implementation-sortings,_S_T_O_C_H_A_S_T_I_C_,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47164689,1088,1545047704,2104,B,1000,implementation-sortings,_S_T_O_C_H_A_S_T_I_C_,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47164593,1088,1545047526,1926,B,1000,implementation-sortings,_S_T_O_C_H_A_S_T_I_C_,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47164178,1088,1545046832,1232,B,1000,implementation-sortings,_S_T_O_C_H_A_S_T_I_C_,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47163756,1088,1545046030,430,A,800,brute force-constructive algorithms,_S_T_O_C_H_A_S_T_I_C_,Java 8,140,0,OK
+47091193,1088,1544940182,2147483647,B,1000,implementation-sortings,benpr99,Java 8,280,0,OK
+47089407,1088,1544934440,2147483647,B,1000,implementation-sortings,Hazard10,Java 8,811,0,OK
+47082526,1088,1544908221,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,858,6348800,OK
+47082499,1088,1544908113,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,857,6348800,OK
+47082490,1088,1544908075,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,888,6246400,OK
+47080517,1088,1544902118,2147483647,C,1400,constructive algorithms-greedy-math,sancho20021,Java 8,171,0,OK
+47079469,1088,1544899521,2147483647,A,800,brute force-constructive algorithms,ankyy_0103,Java 8,140,0,OK
+47079099,1088,1544898715,2147483647,B,1000,implementation-sortings,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47078412,1088,1544897371,2147483647,B,1000,implementation-sortings,sancho20021,Java 8,982,3481600,OK
+47075286,1088,1544893165,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,857,6348800,OK
+47073992,1088,1544891948,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,873,6348800,OK
+47039567,1088,1544882442,5802,C,1400,constructive algorithms-greedy-math,SRI,Java 8,140,0,OK
+47038391,1088,1544880534,3894,B,1000,implementation-sortings,SRI,Java 8,857,0,OK
+47037956,1088,1544879820,3180,B,1000,implementation-sortings,SRI,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47037404,1088,1544878706,2066,A,800,brute force-constructive algorithms,SRI,Java 8,124,0,OK
+47028799,1088,1544862820,2147483647,C,1400,constructive algorithms-greedy-math,kira456,Java 8,171,0,OK
+47023770,1088,1544851603,2147483647,E,2400,dp-greedy-math-trees,xodiac,Java 8,966,204288000,OK
+47022485,1088,1544846864,2147483647,A,800,brute force-constructive algorithms,benpr99,Java 8,140,0,OK
+47021568,1088,1544842180,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,xodiac,Java 8,124,0,OK
+47021019,1088,1544838667,2147483647,C,1400,constructive algorithms-greedy-math,xodiac,Java 8,420,36147200,OK
+47019852,1088,1544829230,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,sweiss,Java 8,124,0,OK
+47011237,1088,1544805422,2147483647,E,2400,dp-greedy-math-trees,Seven,Java 8,405,29081600,OK
+47011190,1088,1544805299,2147483647,A,800,brute force-constructive algorithms,agarwal19,Java 8,124,0,OK
+47010586,1088,1544804126,2147483647,B,1000,implementation-sortings,Ziklon,Java 8,421,4710400,OK
+47010475,1088,1544803909,2147483647,B,1000,implementation-sortings,Ziklon,Java 8,436,4710400,OK
+47009541,1088,1544802189,2147483647,A,800,brute force-constructive algorithms,Ziklon,Java 8,140,0,OK
+47009501,1088,1544802122,2147483647,A,800,brute force-constructive algorithms,Ziklon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46990752,1088,1544759445,2147483647,E,2400,dp-greedy-math-trees,flyman3046,Java 8,452,43110400,OK
+46990650,1088,1544758952,2147483647,B,1000,implementation-sortings,quackity,Java 8,779,0,OK
+46990620,1088,1544758736,2147483647,E,2400,dp-greedy-math-trees,flyman3046,Java 8,1000,166912000,TIME_LIMIT_EXCEEDED
+46989769,1088,1544753744,5443,B,1000,implementation-sortings,hayderr,Java 8,982,0,OK
+46989646,1088,1544752687,2147483647,A,800,brute force-constructive algorithms,quackity,Java 8,109,0,OK
+46989593,1088,1544752275,3974,B,1000,implementation-sortings,hayderr,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46989560,1088,1544751965,3665,B,1000,implementation-sortings,hayderr,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46989164,1088,1544749033,733,A,800,brute force-constructive algorithms,hayderr,Java 8,140,0,OK
+46986858,1088,1544734540,2147483647,B,1000,implementation-sortings,MeGoooO,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46980320,1088,1544728815,2147483647,B,1000,implementation-sortings,46_Sam,Java 8,998,0,OK
+46978479,1088,1544724409,2147483647,B,1000,implementation-sortings,aschugunov,Java 8,187,819200,OK
+46973323,1088,1544713595,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46973181,1088,1544713285,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,888,0,OK
+46972932,1088,1544712758,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,998,0,OK
+46972711,1088,1544712320,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46972624,1088,1544712124,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46972576,1088,1544712011,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46972425,1088,1544711735,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46972368,1088,1544711649,2147483647,B,1000,implementation-sortings,I_Love_Lera_Bulgakova,Java 8,998,0,OK
+46970753,1088,1544708551,2147483647,E,2400,dp-greedy-math-trees,revanthreddy85,Java 8,998,240435200,OK
+46968414,1088,1544704465,2147483647,B,1000,implementation-sortings,WeedWizard,Java 8,936,0,OK
+46968345,1088,1544704329,2147483647,B,1000,implementation-sortings,WeedWizard,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46966516,1088,1544701194,1433,B,1000,implementation-sortings,asparsa2,Java 8,982,0,OK
+46965942,1088,1544700145,385,A,800,brute force-constructive algorithms,asparsa2,Java 8,140,0,OK
+46965902,1088,1544700058,2147483647,A,800,brute force-constructive algorithms,WeedWizard,Java 8,140,0,OK
+46964029,1088,1544695860,2147483647,B,1000,implementation-sortings,Nord777,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46959538,1088,1544684939,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,revanthreddy85,Java 8,124,0,OK
+46958781,1088,1544683012,2147483647,B,1000,implementation-sortings,aschugunov,Java 8,1000,102400,TIME_LIMIT_EXCEEDED
+46957337,1088,1544678986,2086,C,1400,constructive algorithms-greedy-math,jey.inc,Java 8,155,0,OK
+46957074,1088,1544678084,2147483647,B,1000,implementation-sortings,aschugunov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46957043,1088,1544677948,2147483647,B,1000,implementation-sortings,aschugunov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46956932,1088,1544677615,2147483647,B,1000,implementation-sortings,aschugunov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46956918,1088,1544677569,669,B,1000,implementation-sortings,jey.inc,Java 8,171,0,OK
+46956780,1088,1544677107,207,A,800,brute force-constructive algorithms,jey.inc,Java 8,124,0,OK
+46956521,1088,1544676088,2147483647,B,1000,implementation-sortings,kotka_animesh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46951316,1088,1544647445,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,889,6348800,OK
+46943788,1088,1544639035,2147483647,A,800,brute force-constructive algorithms,aschugunov,Java 8,124,0,OK
+46942812,1088,1544636784,4284,C,1400,constructive algorithms-greedy-math,Jay_13,Java 8,124,0,OK
+46941592,1088,1544633892,2147483647,A,800,brute force-constructive algorithms,kotka_animesh,Java 8,124,0,OK
+46941301,1088,1544633236,736,B,1000,implementation-sortings,Jay_13,Java 8,155,0,OK
+46941044,1088,1544632684,184,A,800,brute force-constructive algorithms,Jay_13,Java 8,124,0,OK
+46939618,1088,1544629700,2147483647,A,800,brute force-constructive algorithms,AlexRutledge,Java 8,140,0,OK
+46934535,1088,1544620488,2147483647,A,800,brute force-constructive algorithms,_mahin_agrawal_,Java 8,124,0,OK
+46932295,1088,1544616869,2147483647,B,1000,implementation-sortings,JavaKurious,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46931995,1088,1544616356,2147483647,A,800,brute force-constructive algorithms,--HK--,Java 8,140,0,OK
+46927956,1088,1544608568,2147483647,B,1000,implementation-sortings,andrew.albert,Java 8,171,0,OK
+46926762,1088,1544605896,2147483647,C,1400,constructive algorithms-greedy-math,reldan,Java 8,155,0,OK
+46926355,1088,1544605005,2147483647,A,800,brute force-constructive algorithms,matom,Java 8,140,0,OK
+46923217,1088,1544597059,2147483647,C,1400,constructive algorithms-greedy-math,vivekiitian,Java 8,187,0,OK
+46918572,1088,1544575933,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,resendiz,Java 8,124,0,OK
+46918542,1088,1544575744,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,resendiz,Java 8,124,0,OK
+46917712,1088,1544569057,2147483647,A,800,brute force-constructive algorithms,sg915,Java 8,140,0,OK
+46917634,1088,1544568450,2147483647,E,2400,dp-greedy-math-trees,Mohammad_Af,Java 8,1000,30412800,TIME_LIMIT_EXCEEDED
+46917292,1088,1544565906,2147483647,E,2400,dp-greedy-math-trees,Mohammad_Af,Java 8,1000,30412800,TIME_LIMIT_EXCEEDED
+46917149,1088,1544564927,2147483647,E,2400,dp-greedy-math-trees,Mohammad_Af,Java 8,1000,25088000,TIME_LIMIT_EXCEEDED
+46916271,1088,1544561073,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,904,6246400,OK
+46915851,1088,1544559656,3056,C,1400,constructive algorithms-greedy-math,sweiss,Java 8,155,0,OK
+46915452,1088,1544558355,2147483647,F,3000,data structures-trees,whiteChicken,Java 8,2214,182988800,OK
+46915438,1088,1544558334,2147483647,F,3000,data structures-trees,whiteChicken,Java 8,2500,167014400,TIME_LIMIT_EXCEEDED
+46915394,1088,1544558146,2147483647,F,3000,data structures-trees,whiteChicken,Java 8,1840,219750400,OK
+46915129,1088,1544557288,688,B,1000,implementation-sortings,sweiss,Java 8,202,0,OK
+46914946,1088,1544556808,208,A,800,brute force-constructive algorithms,sweiss,Java 8,124,0,OK
+46914440,1088,1544555345,2147483647,F,3000,data structures-trees,whiteChicken,Java 8,2500,259072000,TIME_LIMIT_EXCEEDED
+46914216,1088,1544554706,2147483647,E,2400,dp-greedy-math-trees,Mohammad_Af,Java 8,1000,29491200,TIME_LIMIT_EXCEEDED
+46913560,1088,1544553013,2147483647,A,800,brute force-constructive algorithms,fuadashraful16,Java 8,140,0,OK
+46912780,1088,1544551104,2147483647,A,800,brute force-constructive algorithms,Kyochi,Java 8,140,0,OK
+46912196,1088,1544549789,2147483647,B,1000,implementation-sortings,Kyochi,Java 8,327,0,OK
+46911006,1088,1544547365,2147483647,A,800,brute force-constructive algorithms,Laurezhang,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46899323,1088,1544526437,2147483647,C,1400,constructive algorithms-greedy-math,MadChicken,Java 8,171,0,OK
+46895920,1088,1544519568,2147483647,B,1000,implementation-sortings,maruf_hassan,Java 8,171,0,OK
+46892058,1088,1544511046,2147483647,C,1400,constructive algorithms-greedy-math,abhi2601,Java 8,124,0,OK
+46890437,1088,1544506406,2147483647,B,1000,implementation-sortings,abhi2601,Java 8,187,0,OK
+46890145,1088,1544505355,2147483647,A,800,brute force-constructive algorithms,abhi2601,Java 8,124,0,OK
+46888236,1088,1544498440,2147483647,C,1400,constructive algorithms-greedy-math,resendiz,Java 8,124,0,OK
+46888087,1088,1544497978,2147483647,B,1000,implementation-sortings,resendiz,Java 8,186,0,OK
+46887911,1088,1544497328,2147483647,A,800,brute force-constructive algorithms,resendiz,Java 8,109,0,OK
+46883978,1088,1544477010,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,marcelubach,Java 8,140,0,OK
+46880055,1088,1544468910,2147483647,B,1000,implementation-sortings,ujjwal_sri,Java 8,967,0,OK
+46857342,1088,1544456470,2147483647,B,1000,implementation-sortings,ujjwal_sri,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46857041,1088,1544455800,2147483647,C,1400,constructive algorithms-greedy-math,Akash_UR,Java 8,171,0,OK
+46856964,1088,1544455641,2147483647,A,800,brute force-constructive algorithms,EzM0deLife,Java 8,140,0,OK
+46856496,1088,1544454681,2147483647,A,800,brute force-constructive algorithms,ujjwal_sri,Java 8,140,0,OK
+46850212,1088,1544442797,2147483647,B,1000,implementation-sortings,dmd161100,Java 8,171,0,OK
+46849774,1088,1544442299,2147483647,A,800,brute force-constructive algorithms,dmd161100,Java 8,109,0,OK
+46847794,1088,1544438148,2147483647,C,1400,constructive algorithms-greedy-math,ibyousre,Java 8,171,0,OK
+46839338,1088,1544422529,2147483647,C,1400,constructive algorithms-greedy-math,afrizal,Java 8,155,0,OK
+46839119,1088,1544421843,2147483647,A,800,brute force-constructive algorithms,afrizal,Java 8,124,0,OK
+46838329,1088,1544419261,2147483647,C,1400,constructive algorithms-greedy-math,itsmenatural,Java 8,171,0,OK
+46838020,1088,1544418163,2147483647,A,800,brute force-constructive algorithms,t.hollow,Java 8,140,0,OK
+46836407,1088,1544411098,2147483647,B,1000,implementation-sortings,vktennis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46836352,1088,1544410809,2147483647,B,1000,implementation-sortings,vktennis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46835121,1088,1544403881,2147483647,A,800,brute force-constructive algorithms,AllenYe,Java 8,140,0,OK
+46832458,1088,1544396782,2147483647,B,1000,implementation-sortings,ghangh,Java 8,233,0,OK
+46825660,1088,1544379035,2147483647,A,800,brute force-constructive algorithms,sancho20021,Java 8,140,0,OK
+46821898,1088,1544370574,2147483647,B,1000,implementation-sortings,neelbhallabos,Java 8,187,0,OK
+46821668,1088,1544370017,2147483647,A,800,brute force-constructive algorithms,neelbhallabos,Java 8,124,0,OK
+46820911,1088,1544368445,2147483647,C,1400,constructive algorithms-greedy-math,soumyab,Java 8,202,0,OK
+46815904,1088,1544358631,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,842,6553600,OK
+46815581,1088,1544358299,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,919,6656000,OK
+46815415,1088,1544358125,2147483647,A,800,brute force-constructive algorithms,CharlesDai,Java 8,124,0,OK
+46814553,1088,1544356983,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,1000,614400,TIME_LIMIT_EXCEEDED
+46814340,1088,1544356706,2147483647,B,1000,implementation-sortings,Tardimgg,Java 8,1000,307200,TIME_LIMIT_EXCEEDED
+46812760,1088,1544354726,2147483647,A,800,brute force-constructive algorithms,Tardimgg,Java 8,124,0,OK
+46797911,1088,1544348605,2147483647,B,1000,implementation-sortings,jain.charitra24,Java 8,811,0,OK
+46797316,1088,1544347915,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,thanhnam.csc,Java 8,124,0,OK
+46793836,1088,1544346407,2147483647,A,800,brute force-constructive algorithms,jain.charitra24,Java 8,124,0,OK
+46793074,1088,1544345627,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,thanhnam.csc,Java 8,124,0,OK
+46784826,1088,1544334105,2147483647,A,800,brute force-constructive algorithms,ShanThatos,Java 8,140,0,OK
+46784717,1088,1544333863,2147483647,B,1000,implementation-sortings,ShanThatos,Java 8,826,0,OK
+46784663,1088,1544333737,2147483647,B,1000,implementation-sortings,ShanThatos,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46784646,1088,1544333669,2147483647,B,1000,implementation-sortings,ShanThatos,Java 8,826,0,OK
+46784413,1088,1544332996,2147483647,B,1000,implementation-sortings,ShanThatos,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46784323,1088,1544332743,2147483647,B,1000,implementation-sortings,ShanThatos,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46783313,1088,1544329950,2147483647,A,800,brute force-constructive algorithms,sg915,Java 8,140,0,OK
+46783239,1088,1544329760,2147483647,A,800,brute force-constructive algorithms,sg915,Java 8,140,0,OK
+46783185,1088,1544329602,2147483647,A,800,brute force-constructive algorithms,sg915,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46783164,1088,1544329546,2147483647,A,800,brute force-constructive algorithms,sg915,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46782642,1088,1544328074,2147483647,A,800,brute force-constructive algorithms,ryanturner02,Java 8,124,0,OK
+46781720,1088,1544324865,2147483647,B,1000,implementation-sortings,cylar,Java 8,919,0,OK
+46781598,1088,1544324483,2147483647,A,800,brute force-constructive algorithms,cylar,Java 8,140,0,OK
+46779710,1088,1544315831,2147483647,A,800,brute force-constructive algorithms,ghangh,Java 8,140,0,OK
+46773449,1088,1544293569,2147483647,B,1000,implementation-sortings,abhisheksatam17,Java 8,202,0,OK
+46773186,1088,1544292892,5992,B,1000,implementation-sortings,ethantang,Java 8,873,5427200,OK
+46773095,1088,1544292679,5779,B,1000,implementation-sortings,ethantang,Java 8,1000,2764800,TIME_LIMIT_EXCEEDED
+46772777,1088,1544292002,2147483647,B,1000,implementation-sortings,Kyochi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46772768,1088,1544291987,2147483647,A,800,brute force-constructive algorithms,abhisheksatam17,Java 8,109,0,OK
+46772431,1088,1544291194,2147483647,B,1000,implementation-sortings,Kyochi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46771952,1088,1544290127,2147483647,A,800,brute force-constructive algorithms,saurabhk28,Java 8,155,0,OK
+46770703,1088,1544287724,2147483647,A,800,brute force-constructive algorithms,Kyochi,Java 8,140,0,OK
+46769896,1088,1544286152,2147483647,B,1000,implementation-sortings,praveenkulkarni,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46769803,1088,1544285907,2147483647,C,1400,constructive algorithms-greedy-math,iamyashh,Java 8,140,0,OK
+46768784,1088,1544283941,2147483647,A,800,brute force-constructive algorithms,praveenkulkarni,Java 8,139,0,OK
+46768685,1088,1544283772,2147483647,B,1000,implementation-sortings,fastwow,Java 8,935,0,OK
+46768104,1088,1544282702,2147483647,C,1400,constructive algorithms-greedy-math,Rajkin_Hossain,Java 8,140,0,OK
+46767828,1088,1544282244,2147483647,B,1000,implementation-sortings,fastwow,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46767123,1088,1544280862,2147483647,B,1000,implementation-sortings,fastwow,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46766188,1088,1544279335,2147483647,A,800,brute force-constructive algorithms,fastwow,Java 8,140,0,OK
+46765931,1088,1544278898,2147483647,B,1000,implementation-sortings,itsmenatural,Java 8,935,0,OK
+46765739,1088,1544278538,2147483647,E,2400,dp-greedy-math-trees,whiteChicken,Java 8,998,75878400,OK
+46764863,1088,1544276955,2147483647,B,1000,implementation-sortings,iamyashh,Java 8,811,0,OK
+46761410,1088,1544276311,2147483647,A,800,brute force-constructive algorithms,itsmenatural,Java 8,170,0,OK
+46760971,1088,1544275579,2147483647,B,1000,implementation-sortings,BaaaaaaanTedGuYYYYYYY,Java 8,795,0,OK
+46760957,1088,1544275555,2147483647,A,800,brute force-constructive algorithms,iamyashh,Java 8,124,0,OK
+46757375,1088,1544271907,2147483647,A,800,brute force-constructive algorithms,housni,Java 8,140,0,OK
+46757330,1088,1544271835,2147483647,C,1400,constructive algorithms-greedy-math,k_parikshith93,Java 8,186,0,OK
+46755576,1088,1544268738,2147483647,B,1000,implementation-sortings,di_halt,Java 8,187,0,OK
+46755470,1088,1544268551,2147483647,B,1000,implementation-sortings,di_halt,Java 8,233,0,OK
+46755374,1088,1544268358,2147483647,C,1400,constructive algorithms-greedy-math,marcelubach,Java 8,171,0,OK
+46752691,1088,1544263241,2147483647,A,800,brute force-constructive algorithms,di_halt,Java 8,171,0,OK
+46749454,1088,1544257826,2147483647,B,1000,implementation-sortings,K-Kowalski,Java 8,920,0,OK
+46749414,1088,1544257750,1030,B,1000,implementation-sortings,Sasuke-u,Java 8,171,0,OK
+46749004,1088,1544257043,323,A,800,brute force-constructive algorithms,Sasuke-u,Java 8,124,0,OK
+46748847,1088,1544256796,2147483647,A,800,brute force-constructive algorithms,K-Kowalski,Java 8,140,0,OK
+46748640,1088,1544256409,2147483647,C,1400,constructive algorithms-greedy-math,bdomokos,Java 8,187,0,OK
+46745651,1088,1544251114,2147483647,A,800,brute force-constructive algorithms,amolpratap007,Java 8,109,0,OK
+46745525,1088,1544250876,2147483647,B,1000,implementation-sortings,amolpratap007,Java 8,155,0,OK
+46745214,1088,1544250324,2147483647,C,1400,constructive algorithms-greedy-math,amolpratap007,Java 8,109,0,OK
+46745192,1088,1544250283,2147483647,C,1400,constructive algorithms-greedy-math,_codophobia_,Java 8,109,0,OK
+46742779,1088,1544244040,2147483647,B,1000,implementation-sortings,isku,Java 8,171,0,OK
+46742382,1088,1544242497,2147483647,B,1000,implementation-sortings,shin2903,Java 8,842,6553600,OK
+46742210,1088,1544241741,2147483647,B,1000,implementation-sortings,abhinavverma,Java 8,936,0,OK
+46742005,1088,1544240929,2147483647,A,800,brute force-constructive algorithms,shin2903,Java 8,124,0,OK
+46741413,1088,1544237951,2147483647,B,1000,implementation-sortings,abhinavverma,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46741082,1088,1544236428,2147483647,A,800,brute force-constructive algorithms,abhinavverma,Java 8,124,0,OK
+46737951,1088,1544219041,2147483647,B,1000,implementation-sortings,Filo13199,Java 8,249,0,OK
+46737677,1088,1544217981,2147483647,B,1000,implementation-sortings,zidan241,Java 8,233,0,OK
+46736116,1088,1544212872,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,alibaba,Java 8,124,0,OK
+46735890,1088,1544212361,2147483647,B,1000,implementation-sortings,bdomokos,Java 8,888,0,OK
+46735592,1088,1544211670,2147483647,B,1000,implementation-sortings,bdomokos,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46734443,1088,1544209485,2147483647,A,800,brute force-constructive algorithms,bdomokos,Java 8,140,0,OK
+46733825,1088,1544208421,2147483647,B,1000,implementation-sortings,bravo26,Java 8,998,0,OK
+46733766,1088,1544208284,2147483647,B,1000,implementation-sortings,bravo26,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46733638,1088,1544208006,2147483647,B,1000,implementation-sortings,mikkk,Java 8,264,0,OK
+46733618,1088,1544207975,2147483647,B,1000,implementation-sortings,bravo26,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46733588,1088,1544207920,2147483647,B,1000,implementation-sortings,bravo26,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46733372,1088,1544207574,2147483647,B,1000,implementation-sortings,bravo26,Java 8,982,0,OK
+46733286,1088,1544207447,2147483647,A,800,brute force-constructive algorithms,mikkk,Java 8,124,0,OK
+46733097,1088,1544207171,371,B,1000,implementation-sortings,darshan_shah,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46733079,1088,1544207142,342,A,800,brute force-constructive algorithms,darshan_shah,Java 8,140,0,OK
+46732596,1088,1544206411,2147483647,B,1000,implementation-sortings,darshan_shah,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46732430,1088,1544206168,2147483647,B,1000,implementation-sortings,bravo26,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46731929,1088,1544205218,2147483647,B,1000,implementation-sortings,Noureldin_Khaled,Java 8,155,0,OK
+46731121,1088,1544203825,2147483647,E,2400,dp-greedy-math-trees,mikkk,Java 8,951,77004800,OK
+46731022,1088,1544203666,2147483647,E,2400,dp-greedy-math-trees,mikkk,Java 8,1000,128819200,TIME_LIMIT_EXCEEDED
+46730934,1088,1544203527,2147483647,E,2400,dp-greedy-math-trees,mikkk,Java 8,1000,127590400,TIME_LIMIT_EXCEEDED
+46730776,1088,1544203278,2147483647,A,800,brute force-constructive algorithms,Noureldin_Khaled,Java 8,124,0,OK
+46730189,1088,1544202283,2147483647,B,1000,implementation-sortings,201501177,Java 8,140,0,OK
+46729484,1088,1544201022,2147483647,A,800,brute force-constructive algorithms,201501177,Java 8,140,0,OK
+46727717,1088,1544197900,2147483647,A,800,brute force-constructive algorithms,Pat119,Java 8,140,0,OK
+46725094,1088,1544193573,2147483647,B,1000,implementation-sortings,Hamkor,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46724348,1088,1544192489,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,Noureldin,Java 8,155,0,OK
+46723683,1088,1544191604,2147483647,A,800,brute force-constructive algorithms,Askander,Java 8,140,0,OK
+46723131,1088,1544190838,2147483647,B,1000,implementation-sortings,darshansampathkumar,Java 8,951,0,OK
+46722125,1088,1544189614,2147483647,B,1000,implementation-sortings,and_so_on,Java 8,436,0,OK
+46720982,1088,1544188247,2147483647,A,800,brute force-constructive algorithms,JavaKurious,Java 8,140,0,OK
+46719803,1088,1544186751,2147483647,A,800,brute force-constructive algorithms,and_so_on,Java 8,140,0,OK
+46717982,1088,1544184672,2147483647,B,1000,implementation-sortings,Rajyalakshmi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46717510,1088,1544184016,2147483647,C,1400,constructive algorithms-greedy-math,Vladimirr.Petrunko,Java 8,187,0,OK
+46715494,1088,1544180160,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,whiteChicken,Java 8,140,0,OK
+46715243,1088,1544179584,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,whiteChicken,Java 8,155,0,OK
+46714965,1088,1544179010,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,MadChicken,Java 8,140,0,OK
+46714294,1088,1544177510,2147483647,A,800,brute force-constructive algorithms,darshansampathkumar,Java 8,140,0,OK
+46713619,1088,1544175977,2147483647,C,1400,constructive algorithms-greedy-math,whiteChicken,Java 8,140,0,OK
+46713301,1088,1544175071,2147483647,B,1000,implementation-sortings,skaran,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46707778,1088,1544170800,2147483647,C,1400,constructive algorithms-greedy-math,Noureldin,Java 8,124,0,OK
+46706933,1088,1544168805,2147483647,C,1400,constructive algorithms-greedy-math,Noureldin,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46706855,1088,1544168624,2147483647,C,1400,constructive algorithms-greedy-math,Noureldin,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46706331,1088,1544167401,2147483647,B,1000,implementation-sortings,karthikgaddam4,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46706298,1088,1544167334,2147483647,A,800,brute force-constructive algorithms,devilinkitchen,Java 8,140,0,OK
+46705904,1088,1544166431,2147483647,B,1000,implementation-sortings,saratsista,Java 8,951,0,OK
+46705884,1088,1544166378,2147483647,B,1000,implementation-sortings,peterdang00,Java 8,967,0,OK
+46705126,1088,1544164453,2147483647,C,1400,constructive algorithms-greedy-math,4kara,Java 8,233,0,OK
+46705087,1088,1544164353,2147483647,C,1400,constructive algorithms-greedy-math,Pratik_Rajani,Java 8,124,0,OK
+46704788,1088,1544163549,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,SDU_Lucy,Java 8,155,0,OK
+46703474,1088,1544159754,2147483647,B,1000,implementation-sortings,Mackenzie,Java 8,826,0,OK
+46701514,1088,1544151961,2147483647,A,800,brute force-constructive algorithms,karthikgaddam4,Java 8,109,0,OK
+46701159,1088,1544150266,2147483647,B,1000,implementation-sortings,whiteChicken,Java 8,779,0,OK
+46701022,1088,1544149464,2147483647,A,800,brute force-constructive algorithms,jzy_204,Java 8,140,0,OK
+46700008,1088,1544143535,2147483647,C,1400,constructive algorithms-greedy-math,dyhu083,Java 8,171,0,OK
+46699819,1088,1544142507,2147483647,B,1000,implementation-sortings,Joao_Ribeiro,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46699469,1088,1544140471,2147483647,B,1000,implementation-sortings,dyhu083,Java 8,140,0,OK
+46699296,1088,1544139428,2147483647,A,800,brute force-constructive algorithms,dyhu083,Java 8,109,0,OK
+46697327,1088,1544129715,2147483647,B,1000,implementation-sortings,MmoProgramador,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46697299,1088,1544129617,3217,B,1000,implementation-sortings,Dug,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46697216,1088,1544129333,2147483647,C,1400,constructive algorithms-greedy-math,Rajkin_Hossain,Java 8,140,0,OK
+46695677,1088,1544124402,2147483647,B,1000,implementation-sortings,MmoProgramador,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46695259,1088,1544123290,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,romit17,Java 8,139,0,OK
+46695180,1088,1544123068,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,ulna,Java 8,124,0,OK
+46695171,1088,1544123045,2147483647,A,800,brute force-constructive algorithms,darshan_shah,Java 8,140,0,OK
+46693748,1088,1544119782,2147483647,C,1400,constructive algorithms-greedy-math,ulna,Java 8,124,0,OK
+46693384,1088,1544119008,2147483647,C,1400,constructive algorithms-greedy-math,ulna,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46692496,1088,1544117134,2147483647,B,1000,implementation-sortings,ulna,Java 8,171,0,OK
+46692301,1088,1544116761,2147483647,A,800,brute force-constructive algorithms,ulna,Java 8,109,0,OK
+46691437,1088,1544115027,2147483647,C,1400,constructive algorithms-greedy-math,alibaba,Java 8,140,0,OK
+46691145,1088,1544114409,2147483647,B,1000,implementation-sortings,Joao_Ribeiro,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46690789,1088,1544113630,2147483647,B,1000,implementation-sortings,TTipat,Java 8,904,0,OK
+46690754,1088,1544113545,2147483647,B,1000,implementation-sortings,Joao_Ribeiro,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46689624,1088,1544111084,4064,C,1400,constructive algorithms-greedy-math,Kharouba,Java 8,124,0,OK
+46689444,1088,1544110708,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,Sarah_Abdelkhalek,Java 8,155,0,OK
+46689366,1088,1544110555,655,A,800,brute force-constructive algorithms,mkkashef,Java 8,140,0,OK
+46688480,1088,1544108920,2147483647,C,1400,constructive algorithms-greedy-math,blackrise,Java 8,171,0,OK
+46688293,1088,1544108563,3403,C,1400,constructive algorithms-greedy-math,romit17,Java 8,124,0,OK
+46687801,1088,1544107757,737,B,1000,implementation-sortings,Kharouba,Java 8,218,0,OK
+46687536,1088,1544107282,262,A,800,brute force-constructive algorithms,Kharouba,Java 8,124,0,OK
+46687386,1088,1544107043,2147483647,B,1000,implementation-sortings,blackrise,Java 8,514,0,OK
+46687121,1088,1544106668,1508,B,1000,implementation-sortings,romit17,Java 8,140,0,OK
+46687098,1088,1544106638,2147483647,A,800,brute force-constructive algorithms,whiteChicken,Java 8,124,0,OK
+46686897,1088,1544106382,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,natsu.rox,Java 8,140,0,OK
+46686646,1088,1544105961,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,mikkk,Java 8,124,0,OK
+46686533,1088,1544105820,660,A,800,brute force-constructive algorithms,romit17,Java 8,140,0,OK
+46686418,1088,1544105639,2147483647,A,800,brute force-constructive algorithms,blackrise,Java 8,140,0,OK
+46686354,1088,1544105543,2147483647,A,800,brute force-constructive algorithms,blackrise,Java 8,140,0,OK
+46686053,1088,1544105048,2147483647,C,1400,constructive algorithms-greedy-math,Igsion,Java 8,187,0,OK
+46685304,1088,1544103939,2147483647,B,1000,implementation-sortings,AbdelMoneim7,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46683351,1088,1544101177,2147483647,B,1000,implementation-sortings,Igsion,Java 8,951,0,OK
+46683112,1088,1544100874,2147483647,B,1000,implementation-sortings,Igsion,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46682509,1088,1544100061,2147483647,C,1400,constructive algorithms-greedy-math,Ahmed_Diab,Java 8,109,0,OK
+46682494,1088,1544100043,2147483647,A,800,brute force-constructive algorithms,makhil,Java 8,140,0,OK
+46682022,1088,1544099364,2147483647,B,1000,implementation-sortings,Igsion,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46680371,1088,1544096941,5941,C,1400,constructive algorithms-greedy-math,SevenDeadlySins,Java 8,140,0,OK
+46680345,1088,1544096910,5910,C,1400,constructive algorithms-greedy-math,SevenDeadlySins,Java 8,155,0,OK
+46679288,1088,1544095277,2147483647,C,1400,constructive algorithms-greedy-math,james222424,Java 8,139,0,OK
+46678624,1088,1544094344,2147483647,A,800,brute force-constructive algorithms,AmmarKayaliite,Java 8,124,0,OK
+46678559,1088,1544094259,2147483647,B,1000,implementation-sortings,antonioandroid3a,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46678354,1088,1544093930,2147483647,A,800,brute force-constructive algorithms,Jay16299,Java 8,140,0,OK
+46677632,1088,1544092755,1755,B,1000,implementation-sortings,SevenDeadlySins,Java 8,810,4403200,OK
+46676858,1088,1544091210,210,A,800,brute force-constructive algorithms,SevenDeadlySins,Java 8,124,0,OK
+46676819,1088,1544091144,2147483647,C,1400,constructive algorithms-greedy-math,Radwan_,Java 8,140,0,OK
+46675544,1088,1544088765,2147483647,A,800,brute force-constructive algorithms,abhisam_95,Java 8,140,0,OK
+46675247,1088,1544088155,2147483647,A,800,brute force-constructive algorithms,Snow1,Java 8,109,0,OK
+46675130,1088,1544087969,2147483647,A,800,brute force-constructive algorithms,Piccadilly,Java 8,124,0,OK
+46675018,1088,1544087768,2147483647,A,800,brute force-constructive algorithms,nyeineihtwe,Java 8,124,0,OK
+46674908,1088,1544087556,2147483647,A,800,brute force-constructive algorithms,nyeineihtwe,Java 8,124,0,OK
+46674897,1088,1544087538,2147483647,B,1000,implementation-sortings,abhisam_95,Java 8,966,0,OK
+46672393,1088,1544081988,2147483647,E,2400,dp-greedy-math-trees,llamaoo7,Java 8,1000,77516800,TIME_LIMIT_EXCEEDED
+46671965,1088,1544080860,2147483647,C,1400,constructive algorithms-greedy-math,Anonymous,Java 8,124,0,OK
+46671953,1088,1544080823,2147483647,A,800,brute force-constructive algorithms,Anonymous,Java 8,155,0,OK
+46671899,1088,1544080709,2147483647,B,1000,implementation-sortings,Anonymous,Java 8,233,2969600,OK
+46671867,1088,1544080626,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,Anonymous,Java 8,140,0,OK
+46671525,1088,1544079849,2147483647,B,1000,implementation-sortings,saratsista,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46671495,1088,1544079750,2147483647,B,1000,implementation-sortings,Playfair,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46671374,1088,1544079443,2147483647,B,1000,implementation-sortings,Playfair,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46671221,1088,1544079066,2147483647,A,800,brute force-constructive algorithms,Playfair,Java 8,124,0,OK
+46671117,1088,1544078791,2147483647,A,800,brute force-constructive algorithms,Mintyice,Java 8,109,0,OK
+46670174,1088,1544076338,2147483647,C,1400,constructive algorithms-greedy-math,Ziax,Java 8,156,0,OK
+46669751,1088,1544075145,2147483647,A,800,brute force-constructive algorithms,saratsista,Java 8,140,0,OK
+46668364,1088,1544070783,2147483647,A,800,brute force-constructive algorithms,Thurain,Java 8,124,0,OK
+46667532,1088,1544068155,2147483647,B,1000,implementation-sortings,stringman228899,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46666437,1088,1544064138,3078,C,1400,constructive algorithms-greedy-math,gnad,Java 8,140,0,OK
+46665964,1088,1544061578,517,B,1000,implementation-sortings,gnad,Java 8,795,0,OK
+46665895,1088,1544061190,130,A,800,brute force-constructive algorithms,gnad,Java 8,109,0,OK
+46665229,1088,1544057251,2147483647,A,800,brute force-constructive algorithms,zabaldo,Java 8,109,0,OK
+46665204,1088,1544057083,2147483647,A,800,brute force-constructive algorithms,zabaldo,Java 8,124,0,OK
+46665106,1088,1544056586,2147483647,B,1000,implementation-sortings,zabaldo,Java 8,155,0,OK
+46665063,1088,1544056410,2147483647,B,1000,implementation-sortings,zabaldo,Java 8,187,1536000,OK
+46665037,1088,1544056233,2147483647,B,1000,implementation-sortings,zabaldo,Java 8,202,1536000,OK
+46664992,1088,1544055944,2147483647,B,1000,implementation-sortings,zabaldo,Java 8,171,1536000,OK
+46664602,1088,1544053518,2147483647,B,1000,implementation-sortings,zabaldo,Java 8,155,0,OK
+46664459,1088,1544052414,2147483647,B,1000,implementation-sortings,pk_sinha53,Java 8,780,0,OK
+46664453,1088,1544052363,2147483647,B,1000,implementation-sortings,zabaldo,Java 8,841,5632000,OK
+46664202,1088,1544050591,2147483647,A,800,brute force-constructive algorithms,pk_sinha53,Java 8,124,0,OK
+46663991,1088,1544049120,2147483647,B,1000,implementation-sortings,marcelubach,Java 8,997,0,OK
+46663393,1088,1544045664,2147483647,B,1000,implementation-sortings,A-Elkady,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46663361,1088,1544045479,2147483647,A,800,brute force-constructive algorithms,Hamkor,Java 8,140,0,OK
+46662241,1088,1544041234,2147483647,B,1000,implementation-sortings,__Paladin__,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46661794,1088,1544039848,2147483647,B,1000,implementation-sortings,TWO_POINTER,Java 8,186,5324800,OK
+46661315,1088,1544038488,2147483647,C,1400,constructive algorithms-greedy-math,marcose18,Java 8,109,0,OK
+46661097,1088,1544037883,2147483647,A,800,brute force-constructive algorithms,__Paladin__,Java 8,140,0,OK
+46660767,1088,1544036988,2147483647,B,1000,implementation-sortings,Ahmad-Abusbeih,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46659733,1088,1544034561,3561,C,1400,constructive algorithms-greedy-math,ShowStopper728,Java 8,717,0,OK
+46659385,1088,1544033771,2147483647,B,1000,implementation-sortings,marcose18,Java 8,249,5120000,OK
+46659280,1088,1544033537,2147483647,B,1000,implementation-sortings,_Arkadiy_,Java 8,904,0,OK
+46659221,1088,1544033379,2147483647,A,800,brute force-constructive algorithms,Ahmad-Abusbeih,Java 8,140,0,OK
+46659136,1088,1544033163,2147483647,B,1000,implementation-sortings,_Arkadiy_,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46658753,1088,1544032341,2147483647,A,800,brute force-constructive algorithms,marcose18,Java 8,109,0,OK
+46658514,1088,1544031797,797,B,1000,implementation-sortings,ShowStopper728,Java 8,140,0,OK
+46658464,1088,1544031713,2147483647,A,800,brute force-constructive algorithms,geekahmed1,Java 8,140,0,OK
+46658319,1088,1544031412,2147483647,B,1000,implementation-sortings,Noureldin,Java 8,234,0,OK
+46658299,1088,1544031362,362,A,800,brute force-constructive algorithms,ShowStopper728,Java 8,124,0,OK
+46658192,1088,1544031160,2147483647,A,800,brute force-constructive algorithms,Noureldin,Java 8,124,0,OK
+46657451,1088,1544029701,2147483647,A,800,brute force-constructive algorithms,EthanITargaryen,Java 8,140,0,OK
+46656807,1088,1544028389,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,AJ47,Java 8,140,0,OK
+46656712,1088,1544028184,2147483647,C,1400,constructive algorithms-greedy-math,VersionOne,Java 8,171,0,OK
+46656364,1088,1544027541,2147483647,C,1400,constructive algorithms-greedy-math,VersionOne,Java 8,187,0,OK
+46656179,1088,1544027182,2147483647,A,800,brute force-constructive algorithms,Joao_Ribeiro,Java 8,140,0,OK
+46655904,1088,1544026623,903,B,1000,implementation-sortings,emiya_007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46655426,1088,1544025792,72,A,800,brute force-constructive algorithms,emiya_007,Java 8,139,0,OK
+46654000,1088,1544023360,2147483647,B,1000,implementation-sortings,venkat_sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46653894,1088,1544023179,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,jenish9599,Java 8,124,0,OK
+46653392,1088,1544022305,2147483647,B,1000,implementation-sortings,james222424,Java 8,186,0,OK
+46653155,1088,1544021900,2147483647,B,1000,implementation-sortings,venkat_sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46653084,1088,1544021788,2147483647,B,1000,implementation-sortings,venkat_sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46652833,1088,1544021405,2147483647,E,2400,dp-greedy-math-trees,icpc_loser,Java 8,966,201011200,OK
+46652389,1088,1544020730,2147483647,A,800,brute force-constructive algorithms,james222424,Java 8,109,0,OK
+46652074,1088,1544020221,2147483647,E,2400,dp-greedy-math-trees,aman28rwt,Java 8,295,33894400,OK
+46652050,1088,1544020190,2147483647,E,2400,dp-greedy-math-trees,aman28rwt,Java 8,342,33894400,OK
+46651672,1088,1544019634,2147483647,A,800,brute force-constructive algorithms,venkat_sai,Java 8,140,0,OK
+46651664,1088,1544019621,2147483647,A,800,brute force-constructive algorithms,venkat_sai,Java 8,155,0,OK
+46651663,1088,1544019620,2147483647,C,1400,constructive algorithms-greedy-math,revanthreddy85,Java 8,124,0,OK
+46650475,1088,1544017632,2147483647,C,1400,constructive algorithms-greedy-math,icpc_loser,Java 8,171,0,OK
+46650453,1088,1544017591,2147483647,B,1000,implementation-sortings,myzgg,Java 8,967,0,OK
+46650272,1088,1544017316,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,icpc_loser,Java 8,124,0,OK
+46649076,1088,1544015375,2147483647,A,800,brute force-constructive algorithms,sree2018,Java 8,155,0,OK
+46649014,1088,1544015275,2147483647,B,1000,implementation-sortings,shaohang,Java 8,997,0,OK
+46648934,1088,1544015129,2147483647,B,1000,implementation-sortings,shaohang,Java 8,998,0,OK
+46648554,1088,1544014603,403,A,800,brute force-constructive algorithms,Shayri,Java 8,124,0,OK
+46648548,1088,1544014600,2147483647,B,1000,implementation-sortings,shaohang,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46648046,1088,1544013904,2147483647,B,1000,implementation-sortings,allen_richi,Java 8,171,0,OK
+46647295,1088,1544012826,2147483647,C,1400,constructive algorithms-greedy-math,mikkk,Java 8,124,0,OK
+46647171,1088,1544012675,2147483647,B,1000,implementation-sortings,N3verCC,Java 8,951,0,OK
+46646850,1088,1544012209,2147483647,B,1000,implementation-sortings,N3verCC,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46646741,1088,1544012066,2147483647,B,1000,implementation-sortings,N3verCC,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46646703,1088,1544012007,2147483647,A,800,brute force-constructive algorithms,shaohang,Java 8,155,0,OK
+46646440,1088,1544011645,2147483647,B,1000,implementation-sortings,deep319,Java 8,920,0,OK
+46646375,1088,1544011554,2147483647,A,800,brute force-constructive algorithms,allen_richi,Java 8,109,0,OK
+46645970,1088,1544011033,2147483647,A,800,brute force-constructive algorithms,N3verCC,Java 8,140,0,OK
+46645903,1088,1544010962,2147483647,B,1000,implementation-sortings,deep319,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46645777,1088,1544010797,2147483647,B,1000,implementation-sortings,deep319,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46645776,1088,1544010796,2147483647,E,2400,dp-greedy-math-trees,PrakharJain,Java 8,748,69939200,OK
+46645477,1088,1544010449,2147483647,B,1000,implementation-sortings,deep319,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46642958,1088,1544006871,2147483647,E,2400,dp-greedy-math-trees,wadissimo,Java 8,795,104038400,OK
+46642936,1088,1544006834,2147483647,C,1400,constructive algorithms-greedy-math,yellowjian,Java 8,124,0,OK
+46642473,1088,1544005889,2147483647,E,2400,dp-greedy-math-trees,wadissimo,Java 8,1000,104550400,TIME_LIMIT_EXCEEDED
+46642122,1088,1544005197,2147483647,C,1400,constructive algorithms-greedy-math,poikniok,Java 8,140,0,OK
+46641760,1088,1544004487,2147483647,B,1000,implementation-sortings,poikniok,Java 8,187,0,OK
+46641526,1088,1544003902,2147483647,A,800,brute force-constructive algorithms,poikniok,Java 8,124,0,OK
+46640081,1088,1544000801,2147483647,A,800,brute force-constructive algorithms,mDziewanowski,Java 8,140,0,OK
+46639984,1088,1544000610,7110,B,1000,implementation-sortings,_Yuanshuai_,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46639848,1088,1544000335,2147483647,E,2400,dp-greedy-math-trees,fnozoszzt,Java 8,998,109568000,OK
+46639657,1088,1543999948,6448,C,1400,constructive algorithms-greedy-math,_Yuanshuai_,Java 8,187,0,OK
+46639521,1088,1543999690,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,khokharnikunj8,Java 8,124,0,OK
+46639218,1088,1543999127,2147483647,E,2400,dp-greedy-math-trees,fnozoszzt,Java 8,1000,58368000,TIME_LIMIT_EXCEEDED
+46639052,1088,1543998795,5295,B,1000,implementation-sortings,_Yuanshuai_,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46638805,1088,1543998357,2147483647,A,800,brute force-constructive algorithms,ciproud,Java 8,140,0,OK
+46637976,1088,1543996615,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,wadissimo,Java 8,140,0,OK
+46637928,1088,1543996509,2147483647,C,1400,constructive algorithms-greedy-math,wadissimo,Java 8,139,0,OK
+46637919,1088,1543996490,2147483647,B,1000,implementation-sortings,wadissimo,Java 8,155,0,OK
+46637906,1088,1543996467,2147483647,A,800,brute force-constructive algorithms,wadissimo,Java 8,124,0,OK
+46637373,1088,1543995323,2147483647,F,3000,data structures-trees,alexjthat,Java 8,1778,108339200,OK
+46637051,1088,1543994660,2147483647,A,800,brute force-constructive algorithms,Ziax,Java 8,124,0,OK
+46636873,1088,1543994241,2147483647,B,1000,implementation-sortings,cs_tree,Java 8,998,3788800,OK
+46636760,1088,1543993973,2147483647,B,1000,implementation-sortings,cs_tree,Java 8,998,3891200,OK
+46636711,1088,1543993871,371,A,800,brute force-constructive algorithms,_Yuanshuai_,Java 8,139,0,OK
+46636580,1088,1543993577,2147483647,C,1400,constructive algorithms-greedy-math,aman28rwt,Java 8,124,0,OK
+46636468,1088,1543993363,2147483647,E,2400,dp-greedy-math-trees,llamaoo7,Java 8,1000,77414400,TIME_LIMIT_EXCEEDED
+46636400,1088,1543993206,2147483647,E,2400,dp-greedy-math-trees,llamaoo7,Java 8,1000,77414400,TIME_LIMIT_EXCEEDED
+46636276,1088,1543992841,2147483647,E,2400,dp-greedy-math-trees,llamaoo7,Java 8,1000,69120000,TIME_LIMIT_EXCEEDED
+46636227,1088,1543992720,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,aman28rwt,Java 8,124,0,OK
+46636178,1088,1543992627,2147483647,E,2400,dp-greedy-math-trees,llamaoo7,Java 8,1000,84582400,TIME_LIMIT_EXCEEDED
+46636067,1088,1543992389,989,B,1000,implementation-sortings,Sarah_Abdelkhalek,Java 8,842,0,OK
+46635781,1088,1543991724,324,A,800,brute force-constructive algorithms,Sarah_Abdelkhalek,Java 8,124,0,OK
+46635511,1088,1543991167,2147483647,E,2400,dp-greedy-math-trees,omelette,Java 8,763,73932800,OK
+46635435,1088,1543990973,2147483647,E,2400,dp-greedy-math-trees,omelette,Java 8,997,150732800,OK
+46635297,1088,1543990658,2147483647,E,2400,dp-greedy-math-trees,habibulka,Java 8,951,80588800,OK
+46634673,1088,1543989362,2147483647,B,1000,implementation-sortings,VersionOne,Java 8,904,0,OK
+46634332,1088,1543988656,2147483647,E,2400,dp-greedy-math-trees,habibulka,Java 8,1000,77004800,TIME_LIMIT_EXCEEDED
+46634327,1088,1543988641,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,yuanfei_1984,Java 8,155,0,OK
+46634253,1088,1543988448,2147483647,C,1400,constructive algorithms-greedy-math,niteshgowda,Java 8,171,0,OK
+46633896,1088,1543987623,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,cis_pie,Java 8,124,0,OK
+46633621,1088,1543986942,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,habibulka,Java 8,124,0,OK
+46633191,1088,1543985879,2147483647,A,800,brute force-constructive algorithms,eric_sweg_munny,Java 8,155,0,OK
+46632715,1088,1543984458,2147483647,B,1000,implementation-sortings,Jinada,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46632677,1088,1543984355,2147483647,B,1000,implementation-sortings,Jinada,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46632610,1088,1543984137,2147483647,B,1000,implementation-sortings,Jinada,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46632573,1088,1543983987,2147483647,B,1000,implementation-sortings,Jinada,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46632349,1088,1543983167,2147483647,B,1000,implementation-sortings,lohanipiyush15,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46632336,1088,1543983128,2147483647,B,1000,implementation-sortings,xyz_000,Java 8,171,0,OK
+46632279,1088,1543982919,2147483647,B,1000,implementation-sortings,lohanipiyush15,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46631902,1088,1543981816,2147483647,B,1000,implementation-sortings,stringman228899,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46631732,1088,1543981286,2147483647,A,800,brute force-constructive algorithms,stringman228899,Java 8,140,0,OK
+46631661,1088,1543981013,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,omelette,Java 8,124,0,OK
+46631437,1088,1543980285,2147483647,C,1400,constructive algorithms-greedy-math,bigsai,Java 8,156,0,OK
+46631329,1088,1543979917,2147483647,A,800,brute force-constructive algorithms,BaaaaaaanTedGuYYYYYYY,Java 8,124,0,OK
+46631131,1088,1543979388,2147483647,A,800,brute force-constructive algorithms,zabaldo,Java 8,109,0,OK
+46631117,1088,1543979352,2147483647,A,800,brute force-constructive algorithms,zabaldo,Java 8,124,0,OK
+46631079,1088,1543979250,2147483647,A,800,brute force-constructive algorithms,zabaldo,Java 8,139,0,OK
+46631018,1088,1543979059,2147483647,A,800,brute force-constructive algorithms,zabaldo,Java 8,109,0,OK
+46630878,1088,1543978621,2147483647,A,800,brute force-constructive algorithms,Anoque,Java 8,140,0,OK
+46630594,1088,1543977489,2147483647,B,1000,implementation-sortings,Java,Java 8,155,0,OK
+46630434,1088,1543976822,2147483647,A,800,brute force-constructive algorithms,Java,Java 8,140,0,OK
+46629876,1088,1543974698,2147483647,A,800,brute force-constructive algorithms,mhridoy,Java 8,109,0,OK
+46628631,1088,1543968628,2147483647,C,1400,constructive algorithms-greedy-math,MubtasimShahriar,Java 8,171,0,OK
+46628387,1088,1543967129,2147483647,A,800,brute force-constructive algorithms,marcelubach,Java 8,139,0,OK
+46628315,1088,1543966593,2147483647,A,800,brute force-constructive algorithms,0rnag,Java 8,140,0,OK
+46628118,1088,1543965421,2147483647,C,1400,constructive algorithms-greedy-math,cynteka,Java 8,171,0,OK
+46627996,1088,1543964725,2147483647,B,1000,implementation-sortings,tchenn,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46627963,1088,1543964547,2147483647,B,1000,implementation-sortings,tchenn,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46627905,1088,1543964258,2147483647,A,800,brute force-constructive algorithms,Mackenzie,Java 8,140,0,OK
+46627637,1088,1543962919,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,baobab,Java 8,124,0,OK
+46627539,1088,1543962486,2147483647,B,1000,implementation-sortings,Ahmed_Diab,Java 8,217,0,OK
+46627527,1088,1543962415,2147483647,A,800,brute force-constructive algorithms,Josh6789,Java 8,139,0,OK
+46627484,1088,1543962224,2147483647,A,800,brute force-constructive algorithms,Ahmed_Diab,Java 8,139,0,OK
+46627159,1088,1543960886,2147483647,C,1400,constructive algorithms-greedy-math,agarus,Java 8,155,0,OK
+46626386,1088,1543958057,2147483647,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46626363,1088,1543957981,4081,B,1000,implementation-sortings,Khizanag,Java 8,920,0,OK
+46626342,1088,1543957905,2147483647,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46626272,1088,1543957662,2147483647,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46626079,1088,1543957069,3169,B,1000,implementation-sortings,Khizanag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46625930,1088,1543956694,2147483647,B,1000,implementation-sortings,A-Khaled,Java 8,202,4710400,OK
+46625871,1088,1543956512,2612,B,1000,implementation-sortings,Khizanag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46625539,1088,1543955582,2147483647,C,1400,constructive algorithms-greedy-math,TTipat,Java 8,170,0,OK
+46625522,1088,1543955540,2147483647,A,800,brute force-constructive algorithms,parsaamir,Java 8,140,0,OK
+46625441,1088,1543955312,1412,A,800,brute force-constructive algorithms,Khizanag,Java 8,155,0,OK
+46625367,1088,1543955100,2147483647,A,800,brute force-constructive algorithms,Radwan_,Java 8,124,0,OK
+46625346,1088,1543955050,2147483647,B,1000,implementation-sortings,akash6019,Java 8,998,3481600,OK
+46625322,1088,1543954997,2147483647,C,1400,constructive algorithms-greedy-math,NatInTheHat,Java 8,186,0,OK
+46625291,1088,1543954908,2147483647,B,1000,implementation-sortings,WillyDolphin,Java 8,888,0,OK
+46625230,1088,1543954733,2147483647,B,1000,implementation-sortings,jwk,Java 8,967,0,OK
+46625197,1088,1543954636,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,Conceal,Java 8,124,0,OK
+46624991,1088,1543954090,2147483647,B,1000,implementation-sortings,mabubeih,Java 8,810,0,OK
+46624974,1088,1543954044,2147483647,A,800,brute force-constructive algorithms,jwk,Java 8,140,0,OK
+46624909,1088,1543953872,2147483647,B,1000,implementation-sortings,aditya2202,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46624819,1088,1543953661,2147483647,B,1000,implementation-sortings,aliawadhi,Java 8,295,0,OK
+46624643,1088,1543953259,2147483647,B,1000,implementation-sortings,MubtasimShahriar,Java 8,920,0,OK
+46624566,1088,1543953123,2147483647,A,800,brute force-constructive algorithms,msagimbekov,Java 8,170,0,OK
+46624547,1088,1543953077,2147483647,A,800,brute force-constructive algorithms,msagimbekov,Java 8,156,0,OK
+46624358,1088,1543952592,2147483647,A,800,brute force-constructive algorithms,mabubeih,Java 8,109,0,OK
+46624341,1088,1543952561,2147483647,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46624120,1088,1543952164,2147483647,B,1000,implementation-sortings,MubtasimShahriar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46624070,1088,1543952032,2147483647,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46624038,1088,1543951980,2147483647,C,1400,constructive algorithms-greedy-math,MoeAdel,Java 8,124,0,OK
+46623867,1088,1543951586,2147483647,B,1000,implementation-sortings,sark_01,Java 8,171,1536000,OK
+46623850,1088,1543951535,2147483647,C,1400,constructive algorithms-greedy-math,masterbios,Java 8,124,0,OK
+46623833,1088,1543951503,2147483647,B,1000,implementation-sortings,sark_01,Java 8,171,1536000,OK
+46623716,1088,1543951256,2147483647,E,2400,dp-greedy-math-trees,wadissimo,Java 8,1000,104550400,TIME_LIMIT_EXCEEDED
+46623556,1088,1543950996,2147483647,A,800,brute force-constructive algorithms,Mohamed_Saad62,Java 8,156,0,OK
+46623457,1088,1543950788,2147483647,C,1400,constructive algorithms-greedy-math,Hemose,Java 8,124,0,OK
+46623305,1088,1543950537,2147483647,B,1000,implementation-sortings,nesdi,Java 8,187,0,OK
+46623185,1088,1543950322,2147483647,B,1000,implementation-sortings,Radwan_,Java 8,545,0,OK
+46623132,1088,1543950237,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,fetetriste,Java 8,124,0,OK
+46623032,1088,1543950050,2147483647,A,800,brute force-constructive algorithms,maruf_hassan,Java 8,140,0,OK
+46622994,1088,1543949976,2147483647,C,1400,constructive algorithms-greedy-math,thisSideAnonymous,Java 8,124,0,OK
+46622991,1088,1543949970,1170,B,1000,implementation-sortings,kushalsingh007,Java 8,951,0,OK
+46622612,1088,1543949340,2147483647,B,1000,implementation-sortings,akash6019,Java 8,873,2867200,OK
+46622588,1088,1543949305,505,A,800,brute force-constructive algorithms,kushalsingh007,Java 8,140,0,OK
+46622401,1088,1543949039,2147483647,C,1400,constructive algorithms-greedy-math,muregad99,Java 8,124,0,OK
+46622369,1088,1543948986,2147483647,A,800,brute force-constructive algorithms,anand_prakash_yadav,Java 8,140,0,OK
+46622343,1088,1543948953,2147483647,C,1400,constructive algorithms-greedy-math,IDzekh,Java 8,139,0,OK
+46622323,1088,1543948929,2147483647,C,1400,constructive algorithms-greedy-math,karan1808,Java 8,186,0,OK
+46622256,1088,1543948839,2147483647,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46622218,1088,1543948793,2147483647,A,800,brute force-constructive algorithms,nesdi,Java 8,124,0,OK
+46621800,1088,1543948241,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,ibyousre,Java 8,155,0,OK
+46621732,1088,1543948168,2147483647,B,1000,implementation-sortings,ibyousre,Java 8,920,0,OK
+46621720,1088,1543948148,2147483647,B,1000,implementation-sortings,masterbios,Java 8,202,0,OK
+46621701,1088,1543948130,2147483647,A,800,brute force-constructive algorithms,Abdelfattah_Mohamed,Java 8,140,0,OK
+46621697,1088,1543948126,2147483647,A,800,brute force-constructive algorithms,ibyousre,Java 8,140,0,OK
+46621561,1088,1543947952,2147483647,A,800,brute force-constructive algorithms,VikramSaurabh,Java 8,109,0,OK
+46621401,1088,1543947751,2147483647,E,2400,dp-greedy-math-trees,zeyad_khattab,Java 8,997,147968000,OK
+46621392,1088,1543947739,2147483647,A,800,brute force-constructive algorithms,satyajiit,Java 8,155,0,OK
+46621303,1088,1543947636,2147483647,E,2400,dp-greedy-math-trees,zeyad_khattab,Java 8,1000,140595200,TIME_LIMIT_EXCEEDED
+46621264,1088,1543947606,2147483647,A,800,brute force-constructive algorithms,Eklas71,Java 8,140,0,OK
+46621222,1088,1543947563,2147483647,C,1400,constructive algorithms-greedy-math,YahiaBadr,Java 8,140,0,OK
+46621186,1088,1543947529,2147483647,C,1400,constructive algorithms-greedy-math,Piccadilly,Java 8,155,0,OK
+46621072,1088,1543947415,2147483647,B,1000,implementation-sortings,Eklas71,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46620960,1088,1543947315,2147483647,B,1000,implementation-sortings,Mazen_Ashraf,Java 8,171,0,OK
+46620874,1088,1543947268,2147483647,D,2000,bitmasks-constructive algorithms-implementation-interactive,shikharid,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46619096,1088,1543941298,7196,A,800,brute force-constructive algorithms,aps554,Java 8,140,0,OK
+46618992,1088,1543941282,7182,A,800,brute force-constructive algorithms,_Arkadiy_,Java 8,155,0,OK
+46618778,1088,1543941244,7144,C,1400,constructive algorithms-greedy-math,flyman3046,Java 8,124,0,OK
+46618766,1088,1543941241,7141,B,1000,implementation-sortings,shahdhairya678,Java 8,951,0,OK
+46618525,1088,1543941175,7075,B,1000,implementation-sortings,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46618228,1088,1543941094,6994,A,800,brute force-constructive algorithms,premnathcs,Java 8,140,0,OK
+46618163,1088,1543941076,6976,B,1000,implementation-sortings,Alirezax0098,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46618116,1088,1543941058,6958,B,1000,implementation-sortings,dmitriy0712,Java 8,171,0,OK
+46617919,1088,1543941001,6901,A,800,brute force-constructive algorithms,Seven,Java 8,124,0,OK
+46617867,1088,1543940979,6879,B,1000,implementation-sortings,Vijayendra_Sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46617818,1088,1543940961,6861,C,1400,constructive algorithms-greedy-math,coolmaksat,Java 8,155,0,OK
+46617718,1088,1543940929,6829,A,800,brute force-constructive algorithms,int_n,Java 8,140,0,OK
+46617705,1088,1543940925,6825,A,800,brute force-constructive algorithms,aps554,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46617682,1088,1543940917,6817,D,2000,bitmasks-constructive algorithms-implementation-interactive,jonsnow7,Java 8,139,0,OK
+46617596,1088,1543940886,6786,D,2000,bitmasks-constructive algorithms-implementation-interactive,shikharid,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46617411,1088,1543940828,6728,D,2000,bitmasks-constructive algorithms-implementation-interactive,shikharid,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46617288,1088,1543940791,6691,B,1000,implementation-sortings,Seven,Java 8,202,0,OK
+46617127,1088,1543940736,6636,B,1000,implementation-sortings,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46616868,1088,1543940639,6539,A,800,brute force-constructive algorithms,msvas,Java 8,140,0,OK
+46616818,1088,1543940616,6516,B,1000,implementation-sortings,LeantnJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46616803,1088,1543940611,6511,A,800,brute force-constructive algorithms,avwede,Java 8,140,0,OK
+46616669,1088,1543940564,6464,B,1000,implementation-sortings,Alirezax0098,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46616600,1088,1543940536,6436,B,1000,implementation-sortings,eeshwarasai,Java 8,187,1126400,OK
+46616513,1088,1543940506,6406,C,1400,constructive algorithms-greedy-math,bestjungle,Java 8,187,0,OK
+46616379,1088,1543940459,6359,C,1400,constructive algorithms-greedy-math,SDU_Lucy,Java 8,202,0,OK
+46616329,1088,1543940442,6342,A,800,brute force-constructive algorithms,Tossing,Java 8,155,0,OK
+46616291,1088,1543940428,6328,D,2000,bitmasks-constructive algorithms-implementation-interactive,fnozoszzt,Java 8,155,0,OK
+46616273,1088,1543940422,6322,B,1000,implementation-sortings,ZappSnapp,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46616268,1088,1543940420,6320,A,800,brute force-constructive algorithms,AkeenL,Java 8,155,0,OK
+46616208,1088,1543940397,6297,B,1000,implementation-sortings,LeantnJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46616202,1088,1543940395,6295,B,1000,implementation-sortings,Alirezax0098,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46616182,1088,1543940388,6288,B,1000,implementation-sortings,amitcode563,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46616172,1088,1543940385,6285,D,2000,bitmasks-constructive algorithms-implementation-interactive,Omar_Morsi,Java 8,140,0,OK
+46616060,1088,1543940344,6244,A,800,brute force-constructive algorithms,ajax145,Java 8,140,0,OK
+46615859,1088,1543940277,6177,B,1000,implementation-sortings,Alirezax0098,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46615798,1088,1543940258,6158,C,1400,constructive algorithms-greedy-math,Seven,Java 8,124,0,OK
+46615738,1088,1543940237,6136,B,1000,implementation-sortings,amar_bits,Java 8,1000,7168000,TIME_LIMIT_EXCEEDED
+46615720,1088,1543940232,6132,B,1000,implementation-sortings,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46615449,1088,1543940126,6026,D,2000,bitmasks-constructive algorithms-implementation-interactive,PrakharJain,Java 8,124,0,OK
+46615445,1088,1543940125,6025,D,2000,bitmasks-constructive algorithms-implementation-interactive,4149444f53,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46615422,1088,1543940119,6019,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46615353,1088,1543940094,5994,A,800,brute force-constructive algorithms,Josh6789,Java 8,139,0,OK
+46615247,1088,1543940052,5951,D,2000,bitmasks-constructive algorithms-implementation-interactive,Musin,Java 8,140,0,OK
+46615224,1088,1543940042,5942,B,1000,implementation-sortings,akseiner,Java 8,202,4710400,OK
+46615183,1088,1543940024,5924,C,1400,constructive algorithms-greedy-math,priyesh001,Java 8,124,0,OK
+46614908,1088,1543939910,5810,B,1000,implementation-sortings,premnathcs,Java 8,1000,8192000,TIME_LIMIT_EXCEEDED
+46614887,1088,1543939905,5805,B,1000,implementation-sortings,mouad123,Java 8,1000,7475200,TIME_LIMIT_EXCEEDED
+46614728,1088,1543939845,5745,C,1400,constructive algorithms-greedy-math,Alex_Gal,Java 8,124,0,OK
+46614725,1088,1543939842,5742,B,1000,implementation-sortings,msvas,Java 8,935,0,OK
+46614640,1088,1543939808,5707,B,1000,implementation-sortings,Akash_UR,Java 8,951,0,OK
+46614503,1088,1543939747,5647,B,1000,implementation-sortings,G.kishan,Java 8,951,0,OK
+46614252,1088,1543939636,5536,B,1000,implementation-sortings,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46614200,1088,1543939618,5518,B,1000,implementation-sortings,manubhai8876,Java 8,936,0,OK
+46614198,1088,1543939618,5518,C,1400,constructive algorithms-greedy-math,kocko,Java 8,171,0,OK
+46614173,1088,1543939604,5504,C,1400,constructive algorithms-greedy-math,habibulka,Java 8,124,0,OK
+46614138,1088,1543939591,5491,D,2000,bitmasks-constructive algorithms-implementation-interactive,aman28rwt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46614111,1088,1543939580,5480,A,800,brute force-constructive algorithms,Rajkin_Hossain,Java 8,124,0,OK
+46613785,1088,1543939471,5371,C,1400,constructive algorithms-greedy-math,cis_pie,Java 8,124,0,OK
+46613728,1088,1543939452,5352,D,2000,bitmasks-constructive algorithms-implementation-interactive,Seven,Java 8,139,0,OK
+46613696,1088,1543939443,5343,B,1000,implementation-sortings,Varada9100,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46613685,1088,1543939437,5337,A,800,brute force-constructive algorithms,dharam_7,Java 8,124,0,OK
+46613633,1088,1543939410,5310,C,1400,constructive algorithms-greedy-math,Psp_98,Java 8,124,0,OK
+46613511,1088,1543939360,5260,C,1400,constructive algorithms-greedy-math,jenish9599,Java 8,139,0,OK
+46613493,1088,1543939350,5250,B,1000,implementation-sortings,akash6019,Java 8,998,3481600,OK
+46613480,1088,1543939345,5245,A,800,brute force-constructive algorithms,Alirezax0098,Java 8,140,0,OK
+46613442,1088,1543939331,5231,B,1000,implementation-sortings,AhmedAbdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46613428,1088,1543939327,5227,B,1000,implementation-sortings,revanthreddy85,Java 8,187,0,OK
+46613336,1088,1543939290,5190,C,1400,constructive algorithms-greedy-math,Deimos,Java 8,140,0,OK
+46613167,1088,1543939229,5129,A,800,brute force-constructive algorithms,abhiiitr6002,Java 8,124,0,OK
+46613143,1088,1543939220,5120,B,1000,implementation-sortings,mouad123,Java 8,1000,8089600,TIME_LIMIT_EXCEEDED
+46613082,1088,1543939198,5098,B,1000,implementation-sortings,eeshwarasai,Java 8,1000,307200,TIME_LIMIT_EXCEEDED
+46613067,1088,1543939193,5093,A,800,brute force-constructive algorithms,leeym95,Java 8,124,0,OK
+46612976,1088,1543939161,5061,B,1000,implementation-sortings,amitcode563,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612956,1088,1543939154,5054,B,1000,implementation-sortings,samasnabith,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612942,1088,1543939150,5050,C,1400,constructive algorithms-greedy-math,Happy_Stove,Java 8,187,0,OK
+46612917,1088,1543939140,5040,D,2000,bitmasks-constructive algorithms-implementation-interactive,alexjthat,Java 8,124,0,OK
+46612816,1088,1543939106,5006,D,2000,bitmasks-constructive algorithms-implementation-interactive,zeyad_khattab,Java 8,124,0,OK
+46612797,1088,1543939097,4997,B,1000,implementation-sortings,myzgg,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612691,1088,1543939057,4957,B,1000,implementation-sortings,ileo,Java 8,998,0,OK
+46612589,1088,1543939019,4919,B,1000,implementation-sortings,Funtikov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612587,1088,1543939018,4918,B,1000,implementation-sortings,ZappSnapp,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612524,1088,1543938995,4895,C,1400,constructive algorithms-greedy-math,Washoum,Java 8,124,0,OK
+46612495,1088,1543938985,4885,B,1000,implementation-sortings,Martinho_mcm,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612486,1088,1543938983,4883,C,1400,constructive algorithms-greedy-math,Charmik,Java 8,140,0,OK
+46612464,1088,1543938972,4871,B,1000,implementation-sortings,MmoProgramador,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612352,1088,1543938923,4823,B,1000,implementation-sortings,maruf_hassan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46612347,1088,1543938921,4821,D,2000,bitmasks-constructive algorithms-implementation-interactive,nm21,Java 8,155,0,OK
+46612312,1088,1543938912,4812,C,1400,constructive algorithms-greedy-math,DHV,Java 8,156,0,OK
+46612284,1088,1543938903,4803,B,1000,implementation-sortings,leeym95,Java 8,811,0,OK
+46612206,1088,1543938874,4774,C,1400,constructive algorithms-greedy-math,BNL,Java 8,124,0,OK
+46612205,1088,1543938874,4774,A,800,brute force-constructive algorithms,samasnabith,Java 8,139,0,OK
+46612199,1088,1543938871,4771,B,1000,implementation-sortings,mdadil2019,Java 8,1000,7270400,TIME_LIMIT_EXCEEDED
+46611920,1088,1543938770,4670,B,1000,implementation-sortings,AhmedAbdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611918,1088,1543938769,4669,C,1400,constructive algorithms-greedy-math,rahul.golani09,Java 8,124,0,OK
+46611889,1088,1543938758,4658,B,1000,implementation-sortings,Funtikov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611760,1088,1543938719,4619,A,800,brute force-constructive algorithms,mohdafzal330,Java 8,124,0,OK
+46611680,1088,1543938692,4592,B,1000,implementation-sortings,Akash_UR,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611674,1088,1543938689,4589,B,1000,implementation-sortings,Ashish99,Java 8,950,0,OK
+46611633,1088,1543938678,4578,B,1000,implementation-sortings,MmoProgramador,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611609,1088,1543938670,4570,B,1000,implementation-sortings,Surya_Roshan,Java 8,951,0,OK
+46611570,1088,1543938657,4557,B,1000,implementation-sortings,samasnabith,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611538,1088,1543938647,4547,B,1000,implementation-sortings,Funtikov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611525,1088,1543938642,4542,C,1400,constructive algorithms-greedy-math,dmitriy0712,Java 8,124,0,OK
+46611481,1088,1543938625,4525,B,1000,implementation-sortings,AhmedAbdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611479,1088,1543938625,4525,B,1000,implementation-sortings,Hamkor,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611460,1088,1543938620,4520,C,1400,constructive algorithms-greedy-math,baobab,Java 8,124,0,OK
+46611409,1088,1543938606,4506,B,1000,implementation-sortings,myzgg,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611380,1088,1543938597,4497,B,1000,implementation-sortings,Danilaa56,Java 8,920,0,OK
+46611308,1088,1543938574,4474,B,1000,implementation-sortings,ZappSnapp,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611276,1088,1543938564,4464,B,1000,implementation-sortings,.jar,Java 8,327,6553600,OK
+46611249,1088,1543938558,4458,B,1000,implementation-sortings,Hamkor,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611214,1088,1543938550,4450,B,1000,implementation-sortings,jaswanth_sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611208,1088,1543938547,4447,B,1000,implementation-sortings,harshkumarlaldas,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611142,1088,1543938518,4418,B,1000,implementation-sortings,MadTomato,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611102,1088,1543938506,4406,B,1000,implementation-sortings,maruf_hassan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611094,1088,1543938504,4404,B,1000,implementation-sortings,shahdhairya678,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46611032,1088,1543938485,4385,B,1000,implementation-sortings,abhiiitr6002,Java 8,841,5529600,OK
+46611017,1088,1543938482,4382,B,1000,implementation-sortings,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46610991,1088,1543938476,4376,C,1400,constructive algorithms-greedy-math,michael.egorov,Java 8,156,0,OK
+46610813,1088,1543938412,4312,B,1000,implementation-sortings,thor1234,Java 8,1000,3481600,TIME_LIMIT_EXCEEDED
+46610718,1088,1543938373,4273,B,1000,implementation-sortings,ZappSnapp,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46610711,1088,1543938370,4270,C,1400,constructive algorithms-greedy-math,avijit_agarwal,Java 8,124,0,OK
+46610631,1088,1543938348,4248,A,800,brute force-constructive algorithms,aman110599,Java 8,140,0,OK
+46610556,1088,1543938321,4221,C,1400,constructive algorithms-greedy-math,ankuragarwal172,Java 8,218,0,OK
+46610552,1088,1543938320,4220,B,1000,implementation-sortings,akseiner,Java 8,1000,4300800,TIME_LIMIT_EXCEEDED
+46610505,1088,1543938310,4210,B,1000,implementation-sortings,aditya2202,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46610447,1088,1543938289,4189,C,1400,constructive algorithms-greedy-math,yuanfei_1984,Java 8,202,0,OK
+46610141,1088,1543938179,4079,B,1000,implementation-sortings,Varada9100,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46610117,1088,1543938168,4068,A,800,brute force-constructive algorithms,Ahmed_Abdou,Java 8,109,0,OK
+46610036,1088,1543938139,4039,B,1000,implementation-sortings,aman110599,Java 8,171,0,OK
+46609985,1088,1543938119,4019,B,1000,implementation-sortings,maruf_hassan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46609849,1088,1543938077,3977,B,1000,implementation-sortings,lalith_srinivas,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46609774,1088,1543938050,3950,B,1000,implementation-sortings,harshithakatakam,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46609593,1088,1543937987,3887,B,1000,implementation-sortings,karan1808,Java 8,951,0,OK
+46609483,1088,1543937949,3849,B,1000,implementation-sortings,samasnabith,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46609385,1088,1543937912,3812,C,1400,constructive algorithms-greedy-math,xpray,Java 8,187,0,OK
+46609307,1088,1543937886,3786,A,800,brute force-constructive algorithms,aliawadhi,Java 8,140,0,OK
+46609229,1088,1543937860,3760,B,1000,implementation-sortings,dharam_7,Java 8,857,0,OK
+46609210,1088,1543937853,3753,B,1000,implementation-sortings,k_parikshith93,Java 8,935,0,OK
+46609208,1088,1543937852,3752,B,1000,implementation-sortings,lusty_coder,Java 8,919,0,OK
+46609154,1088,1543937839,3739,B,1000,implementation-sortings,bigsai,Java 8,873,4198400,OK
+46609130,1088,1543937832,3732,C,1400,constructive algorithms-greedy-math,Klnsyf_Ego,Java 8,187,0,OK
+46608955,1088,1543937782,3682,B,1000,implementation-sortings,cynteka,Java 8,982,0,OK
+46608911,1088,1543937771,3671,B,1000,implementation-sortings,myzgg,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46608866,1088,1543937754,3654,C,1400,constructive algorithms-greedy-math,jdanielfandino,Java 8,124,0,OK
+46608738,1088,1543937707,3607,B,1000,implementation-sortings,Hasib_Ullah,Java 8,888,0,OK
+46608717,1088,1543937700,3600,C,1400,constructive algorithms-greedy-math,mennafadali,Java 8,139,0,OK
+46608715,1088,1543937700,3600,B,1000,implementation-sortings,karan1808,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46608663,1088,1543937684,3584,B,1000,implementation-sortings,aishu_8333,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46608527,1088,1543937638,3538,B,1000,implementation-sortings,soumyab,Java 8,919,0,OK
+46608406,1088,1543937601,3501,A,800,brute force-constructive algorithms,agarus,Java 8,124,0,OK
+46608373,1088,1543937593,3493,A,800,brute force-constructive algorithms,amar_bits,Java 8,140,0,OK
+46608087,1088,1543937522,3422,B,1000,implementation-sortings,Ahmed_Abdou,Java 8,951,0,OK
+46608084,1088,1543937521,3421,C,1400,constructive algorithms-greedy-math,DanilS,Java 8,187,0,OK
+46608062,1088,1543937515,3415,B,1000,implementation-sortings,aditya2202,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607941,1088,1543937490,3390,B,1000,implementation-sortings,kunallguptaaa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607901,1088,1543937467,3367,C,1400,constructive algorithms-greedy-math,shikharid,Java 8,155,0,OK
+46607853,1088,1543937437,3337,C,1400,constructive algorithms-greedy-math,msagimbekov,Java 8,171,0,OK
+46607810,1088,1543937407,3307,B,1000,implementation-sortings,harshithakatakam,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607790,1088,1543937401,3301,C,1400,constructive algorithms-greedy-math,Abdullah_Abu_Alrish,Java 8,124,0,OK
+46607741,1088,1543937384,3284,B,1000,implementation-sortings,Igsion,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607729,1088,1543937380,3280,C,1400,constructive algorithms-greedy-math,llamaoo7,Java 8,124,0,OK
+46607708,1088,1543937374,3273,A,800,brute force-constructive algorithms,Mahakarma,Java 8,124,0,OK
+46607694,1088,1543937369,3268,A,800,brute force-constructive algorithms,ileo,Java 8,140,0,OK
+46607659,1088,1543937357,3257,C,1400,constructive algorithms-greedy-math,jjluczyn,Java 8,140,0,OK
+46607651,1088,1543937355,3255,B,1000,implementation-sortings,brooksm,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607604,1088,1543937340,3240,B,1000,implementation-sortings,kunallguptaaa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607566,1088,1543937329,3229,B,1000,implementation-sortings,AhmedAbdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607564,1088,1543937327,3227,C,1400,constructive algorithms-greedy-math,BitchLasagna,Java 8,139,0,OK
+46607467,1088,1543937297,3197,B,1000,implementation-sortings,MihailKh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607463,1088,1543937296,3196,B,1000,implementation-sortings,MovingBit,Java 8,950,0,OK
+46607438,1088,1543937285,3185,C,1400,constructive algorithms-greedy-math,Shun_PI,Java 8,1000,8704000,TIME_LIMIT_EXCEEDED
+46607401,1088,1543937273,3173,A,800,brute force-constructive algorithms,Akash_UR,Java 8,155,0,OK
+46607380,1088,1543937266,3166,B,1000,implementation-sortings,bestjungle,Java 8,919,0,OK
+46607319,1088,1543937247,3147,A,800,brute force-constructive algorithms,Vijayendra_Sai,Java 8,140,0,OK
+46607310,1088,1543937244,3144,B,1000,implementation-sortings,Piccadilly,Java 8,795,0,OK
+46607275,1088,1543937235,3135,A,800,brute force-constructive algorithms,Funtikov,Java 8,171,0,OK
+46607221,1088,1543937220,3120,C,1400,constructive algorithms-greedy-math,aman28rwt,Java 8,124,0,OK
+46607192,1088,1543937210,3110,B,1000,implementation-sortings,abhi041,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607175,1088,1543937203,3103,B,1000,implementation-sortings,riyasnh,Java 8,826,6553600,OK
+46607091,1088,1543937180,3080,B,1000,implementation-sortings,brooksm,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46607063,1088,1543937170,3070,C,1400,constructive algorithms-greedy-math,Shun_PI,Java 8,1000,8806400,TIME_LIMIT_EXCEEDED
+46607004,1088,1543937155,3055,A,800,brute force-constructive algorithms,manubhai8876,Java 8,140,0,OK
+46606970,1088,1543937146,3046,B,1000,implementation-sortings,coolmaksat,Java 8,155,0,OK
+46606932,1088,1543937135,3035,B,1000,implementation-sortings,Vijayendra_Sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46606760,1088,1543937086,2986,B,1000,implementation-sortings,agarus,Java 8,826,0,OK
+46606742,1088,1543937078,2978,A,800,brute force-constructive algorithms,nathaliaceballosh,Java 8,155,0,OK
+46606555,1088,1543937014,2914,B,1000,implementation-sortings,MihailKh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46606516,1088,1543937003,2903,B,1000,implementation-sortings,AhmedAbdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46606511,1088,1543937002,2902,A,800,brute force-constructive algorithms,Varada9100,Java 8,140,0,OK
+46606502,1088,1543936999,2899,B,1000,implementation-sortings,jaswanth_sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46606498,1088,1543936997,2897,B,1000,implementation-sortings,Mohamed_AbdEl_Mohaimen,Java 8,982,0,OK
+46606311,1088,1543936940,2840,B,1000,implementation-sortings,G.kishan,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46606210,1088,1543936912,2812,A,800,brute force-constructive algorithms,ahmedTuring1,Java 8,124,0,OK
+46606177,1088,1543936905,2805,B,1000,implementation-sortings,prabhat236218,Java 8,155,38707200,OK
+46606176,1088,1543936904,2804,C,1400,constructive algorithms-greedy-math,reborn.chris,Java 8,171,0,OK
+46606165,1088,1543936902,2802,B,1000,implementation-sortings,skoarkid,Java 8,935,0,OK
+46606098,1088,1543936881,2781,B,1000,implementation-sortings,Dr.Code,Java 8,202,2252800,OK
+46606091,1088,1543936880,2780,B,1000,implementation-sortings,Mahakarma,Java 8,295,0,OK
+46605833,1088,1543936807,2707,C,1400,constructive algorithms-greedy-math,Shun_PI,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605829,1088,1543936805,2705,C,1400,constructive algorithms-greedy-math,khokharnikunj8,Java 8,124,0,OK
+46605826,1088,1543936804,2704,B,1000,implementation-sortings,its_me-_-,Java 8,811,0,OK
+46605806,1088,1543936800,2700,C,1400,constructive algorithms-greedy-math,nm21,Java 8,109,0,OK
+46605731,1088,1543936780,2680,B,1000,implementation-sortings,vaishnavi189,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605727,1088,1543936780,2680,A,800,brute force-constructive algorithms,Martinho_mcm,Java 8,140,0,OK
+46605725,1088,1543936780,2680,B,1000,implementation-sortings,bigsai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605698,1088,1543936770,2670,B,1000,implementation-sortings,MoeAdel,Java 8,295,0,OK
+46605668,1088,1543936763,2663,A,800,brute force-constructive algorithms,sivadeep,Java 8,140,0,OK
+46605658,1088,1543936761,2661,C,1400,constructive algorithms-greedy-math,hrustim25,Java 8,155,0,OK
+46605571,1088,1543936739,2639,B,1000,implementation-sortings,Procor,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605525,1088,1543936729,2629,B,1000,implementation-sortings,zabaldo,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605508,1088,1543936722,2622,B,1000,implementation-sortings,sajadur_duet,Java 8,982,0,OK
+46605504,1088,1543936721,2621,C,1400,constructive algorithms-greedy-math,ISSAM_LAKOUAM,Java 8,187,0,OK
+46605348,1088,1543936687,2587,B,1000,implementation-sortings,jb_2402,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605284,1088,1543936667,2567,B,1000,implementation-sortings,MihailKh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605275,1088,1543936666,2566,B,1000,implementation-sortings,Rajkin_Hossain,Java 8,187,0,OK
+46605206,1088,1543936643,2543,B,1000,implementation-sortings,jaswanth_sai,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46605144,1088,1543936625,2525,A,800,brute force-constructive algorithms,soumyab,Java 8,140,0,OK
+46605130,1088,1543936621,2521,C,1400,constructive algorithms-greedy-math,muhitsarwar,Java 8,171,0,OK
+46605058,1088,1543936602,2502,B,1000,implementation-sortings,baobab,Java 8,171,0,OK
+46604976,1088,1543936577,2477,C,1400,constructive algorithms-greedy-math,bhavyashah9873,Java 8,139,0,OK
+46604565,1088,1543936480,2380,C,1400,constructive algorithms-greedy-math,Ajudiya_13,Java 8,124,0,OK
+46604559,1088,1543936479,2379,B,1000,implementation-sortings,novice17,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46604447,1088,1543936459,2359,C,1400,constructive algorithms-greedy-math,Taran_1407,Java 8,140,0,OK
+46604404,1088,1543936452,2352,B,1000,implementation-sortings,Happy_Stove,Java 8,982,0,OK
+46604398,1088,1543936451,2351,B,1000,implementation-sortings,xpray,Java 8,998,0,OK
+46604306,1088,1543936420,2320,B,1000,implementation-sortings,msvas,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46604303,1088,1543936420,2320,C,1400,constructive algorithms-greedy-math,rentacat45,Java 8,124,0,OK
+46604300,1088,1543936420,2320,C,1400,constructive algorithms-greedy-math,GreatWhite,Java 8,140,0,OK
+46604293,1088,1543936418,2316,C,1400,constructive algorithms-greedy-math,thanhnam.csc,Java 8,156,0,OK
+46604291,1088,1543936415,2315,B,1000,implementation-sortings,semantyc,Java 8,951,12697600,OK
+46604286,1088,1543936412,2312,B,1000,implementation-sortings,Incepti0n,Java 8,342,0,OK
+46604200,1088,1543936389,2289,B,1000,implementation-sortings,NO-ONE,Java 8,919,0,OK
+46604137,1088,1543936374,2274,B,1000,implementation-sortings,MikeFaraday,Java 8,249,5939200,OK
+46604041,1088,1543936352,2252,B,1000,implementation-sortings,niteshgowda,Java 8,920,0,OK
+46603958,1088,1543936331,2231,B,1000,implementation-sortings,kanishgarg,Java 8,935,0,OK
+46603676,1088,1543936261,2161,B,1000,implementation-sortings,aps554,Java 8,920,0,OK
+46603490,1088,1543936222,2122,B,1000,implementation-sortings,satyajiit,Java 8,998,3584000,OK
+46603270,1088,1543936166,2066,B,1000,implementation-sortings,CodePal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46603260,1088,1543936165,2065,C,1400,constructive algorithms-greedy-math,avcb,Java 8,202,0,OK
+46602956,1088,1543936152,2052,B,1000,implementation-sortings,AkashGupta,Java 8,296,0,OK
+46602382,1088,1543936102,2002,A,800,brute force-constructive algorithms,Mazen_Ashraf,Java 8,124,0,OK
+46602139,1088,1543936046,1946,B,1000,implementation-sortings,kiranmayee912,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46602118,1088,1543936042,1942,B,1000,implementation-sortings,DanilS,Java 8,951,0,OK
+46602059,1088,1543936029,1929,C,1400,constructive algorithms-greedy-math,Omar_Morsi,Java 8,124,0,OK
+46602010,1088,1543936020,1920,B,1000,implementation-sortings,dip_kush04,Java 8,951,0,OK
+46601987,1088,1543936017,1917,A,800,brute force-constructive algorithms,MihailKh,Java 8,140,0,OK
+46601925,1088,1543936006,1906,B,1000,implementation-sortings,CodePal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46601922,1088,1543936005,1905,C,1400,constructive algorithms-greedy-math,jonsnow7,Java 8,124,0,OK
+46601851,1088,1543935992,1892,B,1000,implementation-sortings,Klnsyf_Ego,Java 8,858,0,OK
+46601835,1088,1543935987,1887,B,1000,implementation-sortings,jjluczyn,Java 8,171,5529600,OK
+46601813,1088,1543935983,1883,A,800,brute force-constructive algorithms,revanthreddy85,Java 8,124,0,OK
+46601788,1088,1543935979,1879,C,1400,constructive algorithms-greedy-math,fnozoszzt,Java 8,186,0,OK
+46601680,1088,1543935951,1851,A,800,brute force-constructive algorithms,.jar,Java 8,155,0,OK
+46601663,1088,1543935947,1847,A,800,brute force-constructive algorithms,myzgg,Java 8,155,0,OK
+46601647,1088,1543935944,1844,B,1000,implementation-sortings,kumarmonu0522,Java 8,935,0,OK
+46601616,1088,1543935937,1837,B,1000,implementation-sortings,rahul.golani09,Java 8,171,0,OK
+46601542,1088,1543935922,1822,B,1000,implementation-sortings,kunallguptaaa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46601536,1088,1543935920,1820,B,1000,implementation-sortings,xarr,Java 8,966,0,OK
+46601534,1088,1543935920,1820,B,1000,implementation-sortings,ahmedTuring1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46601529,1088,1543935919,1819,B,1000,implementation-sortings,---,Java 8,327,0,OK
+46601521,1088,1543935918,1818,B,1000,implementation-sortings,Artem_Chistyakov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46601460,1088,1543935907,1807,B,1000,implementation-sortings,nextcoder,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46601335,1088,1543935880,1780,B,1000,implementation-sortings,yellowjian,Java 8,155,0,OK
+46601308,1088,1543935874,1774,A,800,brute force-constructive algorithms,Hemose,Java 8,109,0,OK
+46601287,1088,1543935871,1771,B,1000,implementation-sortings,shahbaz275817,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46601243,1088,1543935864,1764,B,1000,implementation-sortings,caoash,Java 8,202,0,OK
+46601040,1088,1543935820,1720,A,800,brute force-constructive algorithms,eeshwarasai,Java 8,124,0,OK
+46601006,1088,1543935812,1712,B,1000,implementation-sortings,SDU_Lucy,Java 8,187,5632000,OK
+46600930,1088,1543935798,1698,B,1000,implementation-sortings,Abdullah_Abu_Alrish,Java 8,202,0,OK
+46600925,1088,1543935797,1697,A,800,brute force-constructive algorithms,aditya2202,Java 8,140,0,OK
+46600837,1088,1543935778,1678,A,800,brute force-constructive algorithms,LeantnJ,Java 8,155,0,OK
+46600820,1088,1543935774,1674,A,800,brute force-constructive algorithms,AhmedAbdou,Java 8,140,0,OK
+46600791,1088,1543935769,1669,B,1000,implementation-sortings,iamnair,Java 8,982,0,OK
+46600747,1088,1543935762,1662,C,1400,constructive algorithms-greedy-math,poketred12,Java 8,124,0,OK
+46600738,1088,1543935761,1660,C,1400,constructive algorithms-greedy-math,LockHeart,Java 8,186,0,OK
+46600615,1088,1543935738,1638,C,1400,constructive algorithms-greedy-math,zeyad_khattab,Java 8,140,0,OK
+46600576,1088,1543935729,1629,B,1000,implementation-sortings,michael.egorov,Java 8,810,0,OK
+46600441,1088,1543935702,1602,C,1400,constructive algorithms-greedy-math,PrakharJain,Java 8,124,0,OK
+46600430,1088,1543935700,1600,A,800,brute force-constructive algorithms,lusty_coder,Java 8,140,0,OK
+46600399,1088,1543935695,1595,A,800,brute force-constructive algorithms,Mohamed_Saad62,Java 8,140,0,OK
+46600300,1088,1543935676,1576,B,1000,implementation-sortings,parsaamir,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46600227,1088,1543935663,1563,C,1400,constructive algorithms-greedy-math,4149444f53,Java 8,124,0,OK
+46600193,1088,1543935658,1558,B,1000,implementation-sortings,---,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46600142,1088,1543935650,1549,A,800,brute force-constructive algorithms,LASM,Java 8,124,0,OK
+46600138,1088,1543935649,1549,B,1000,implementation-sortings,nextcoder,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46600119,1088,1543935646,1546,B,1000,implementation-sortings,AhmedAbdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46600018,1088,1543935626,1526,B,1000,implementation-sortings,Deimos,Java 8,155,0,OK
+46600017,1088,1543935626,1526,C,1400,constructive algorithms-greedy-math,mikit,Java 8,171,0,OK
+46599993,1088,1543935621,1521,A,800,brute force-constructive algorithms,riyasnh,Java 8,124,0,OK
+46599833,1088,1543935592,1492,B,1000,implementation-sortings,Mazen_Ashraf,Java 8,155,0,OK
+46599747,1088,1543935578,1478,B,1000,implementation-sortings,arcus,Java 8,233,0,OK
+46599744,1088,1543935578,1478,A,800,brute force-constructive algorithms,brooksm,Java 8,140,0,OK
+46599711,1088,1543935573,1473,B,1000,implementation-sortings,phongfrancis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46599669,1088,1543935565,1465,A,800,brute force-constructive algorithms,baobab,Java 8,124,0,OK
+46599646,1088,1543935560,1460,B,1000,implementation-sortings,jnisac,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46599544,1088,1543935544,1444,B,1000,implementation-sortings,kunallguptaaa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46599539,1088,1543935543,1443,C,1400,constructive algorithms-greedy-math,AJ47,Java 8,124,0,OK
+46599529,1088,1543935539,1439,A,800,brute force-constructive algorithms,coolmaksat,Java 8,124,0,OK
+46599452,1088,1543935524,1424,B,1000,implementation-sortings,jyoti_123,Java 8,530,0,OK
+46599449,1088,1543935524,1424,B,1000,implementation-sortings,llamaoo7,Java 8,170,0,OK
+46599434,1088,1543935521,1421,B,1000,implementation-sortings,cis_pie,Java 8,186,0,OK
+46599379,1088,1543935511,1411,B,1000,implementation-sortings,Psp_98,Java 8,265,0,OK
+46599378,1088,1543935510,1410,C,1400,constructive algorithms-greedy-math,alexjthat,Java 8,124,0,OK
+46599201,1088,1543935481,1381,B,1000,implementation-sortings,azooz97,Java 8,218,0,OK
+46599096,1088,1543935465,1365,C,1400,constructive algorithms-greedy-math,Kaktus23,Java 8,139,0,OK
+46599081,1088,1543935462,1362,A,800,brute force-constructive algorithms,novice17,Java 8,140,0,OK
+46598941,1088,1543935437,1337,A,800,brute force-constructive algorithms,Ashish99,Java 8,155,0,OK
+46598894,1088,1543935431,1331,B,1000,implementation-sortings,yuanfei_1984,Java 8,936,0,OK
+46598890,1088,1543935430,1330,A,800,brute force-constructive algorithms,semantyc,Java 8,155,0,OK
+46598884,1088,1543935429,1329,A,800,brute force-constructive algorithms,DanilS,Java 8,140,0,OK
+46598734,1088,1543935403,1303,B,1000,implementation-sortings,DHV,Java 8,295,0,OK
+46598686,1088,1543935394,1294,B,1000,implementation-sortings,reborn.chris,Java 8,171,0,OK
+46598659,1088,1543935390,1290,A,800,brute force-constructive algorithms,bestjungle,Java 8,170,0,OK
+46598538,1088,1543935370,1270,B,1000,implementation-sortings,Java,Java 8,811,0,OK
+46598511,1088,1543935366,1266,A,800,brute force-constructive algorithms,rohan03,Java 8,140,0,OK
+46598469,1088,1543935358,1258,B,1000,implementation-sortings,Hemose,Java 8,187,0,OK
+46598453,1088,1543935356,1256,A,800,brute force-constructive algorithms,reborn.chris,Java 8,124,0,OK
+46598365,1088,1543935340,1240,A,800,brute force-constructive algorithms,LeantnJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46598327,1088,1543935335,1235,A,800,brute force-constructive algorithms,rahul.golani09,Java 8,124,0,OK
+46598324,1088,1543935335,1235,B,1000,implementation-sortings,avijit_agarwal,Java 8,140,0,OK
+46598297,1088,1543935329,1229,C,1400,constructive algorithms-greedy-math,aminul,Java 8,140,0,OK
+46598219,1088,1543935316,1216,A,800,brute force-constructive algorithms,G.kishan,Java 8,170,0,OK
+46598150,1088,1543935306,1206,B,1000,implementation-sortings,rentacat45,Java 8,171,0,OK
+46598144,1088,1543935305,1205,A,800,brute force-constructive algorithms,its_me-_-,Java 8,124,0,OK
+46597880,1088,1543935263,1163,A,800,brute force-constructive algorithms,Igsion,Java 8,140,0,OK
+46597869,1088,1543935260,1160,A,800,brute force-constructive algorithms,LeantnJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46597821,1088,1543935253,1153,B,1000,implementation-sortings,Klnsyf_Ego,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46597803,1088,1543935251,1151,B,1000,implementation-sortings,Abdelfattah_Mohamed,Java 8,935,0,OK
+46597718,1088,1543935236,1136,A,800,brute force-constructive algorithms,xpray,Java 8,155,0,OK
+46597613,1088,1543935221,1121,B,1000,implementation-sortings,S010M,Java 8,202,0,OK
+46597423,1088,1543935198,1098,B,1000,implementation-sortings,Shun_PI,Java 8,795,0,OK
+46597390,1088,1543935195,1095,C,1400,constructive algorithms-greedy-math,Musin,Java 8,124,0,OK
+46597365,1088,1543935193,1092,B,1000,implementation-sortings,thisSideAnonymous,Java 8,217,3072000,OK
+46597363,1088,1543935192,1091,A,800,brute force-constructive algorithms,NreK,Java 8,140,0,OK
+46597328,1088,1543935180,1080,B,1000,implementation-sortings,priyesh001,Java 8,234,3686400,OK
+46597316,1088,1543935168,1068,B,1000,implementation-sortings,WillyDolphin,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46597293,1088,1543935163,1063,B,1000,implementation-sortings,Alex_Gal,Java 8,171,0,OK
+46597283,1088,1543935161,1061,B,1000,implementation-sortings,shikharid,Java 8,873,0,OK
+46597151,1088,1543935140,1040,A,800,brute force-constructive algorithms,Piccadilly,Java 8,124,0,OK
+46597146,1088,1543935139,1039,A,800,brute force-constructive algorithms,skoarkid,Java 8,155,0,OK
+46597145,1088,1543935139,1039,B,1000,implementation-sortings,YahiaBadr,Java 8,202,0,OK
+46597080,1088,1543935128,1028,B,1000,implementation-sortings,alexjthat,Java 8,171,0,OK
+46597069,1088,1543935128,1028,B,1000,implementation-sortings,vidyut_1,Java 8,171,0,OK
+46597057,1088,1543935126,1026,A,800,brute force-constructive algorithms,sark_01,Java 8,124,0,OK
+46597012,1088,1543935119,1019,A,800,brute force-constructive algorithms,mdadil2019,Java 8,140,0,OK
+46596972,1088,1543935113,1013,B,1000,implementation-sortings,rohan03,Java 8,795,0,OK
+46596950,1088,1543935109,1009,B,1000,implementation-sortings,avcb,Java 8,935,0,OK
+46596898,1088,1543935101,1001,B,1000,implementation-sortings,jdanielfandino,Java 8,187,5529600,OK
+46596866,1088,1543935096,996,B,1000,implementation-sortings,Klnsyf_Ego,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46596826,1088,1543935091,991,A,800,brute force-constructive algorithms,Roblox,Java 8,140,0,OK
+46596603,1088,1543935060,960,B,1000,implementation-sortings,4149444f53,Java 8,187,0,OK
+46596597,1088,1543935058,958,B,1000,implementation-sortings,jonsnow7,Java 8,186,0,OK
+46596547,1088,1543935051,951,B,1000,implementation-sortings,Washoum,Java 8,155,0,OK
+46596524,1088,1543935047,947,B,1000,implementation-sortings,Charmik,Java 8,156,0,OK
+46596486,1088,1543935041,941,B,1000,implementation-sortings,thanhnam.csc,Java 8,795,0,OK
+46596468,1088,1543935038,938,A,800,brute force-constructive algorithms,kardinall,Java 8,140,0,OK
+46596442,1088,1543935035,935,B,1000,implementation-sortings,PassedPawn,Java 8,842,0,OK
+46596441,1088,1543935035,935,A,800,brute force-constructive algorithms,alexjthat,Java 8,124,0,OK
+46596393,1088,1543935030,930,A,800,brute force-constructive algorithms,kocko,Java 8,139,0,OK
+46596387,1088,1543935029,929,A,800,brute force-constructive algorithms,shahbaz275817,Java 8,155,0,OK
+46596373,1088,1543935027,927,B,1000,implementation-sortings,hrustim25,Java 8,873,5427200,OK
+46596345,1088,1543935023,923,B,1000,implementation-sortings,Ajudiya_13,Java 8,234,0,OK
+46596245,1088,1543935010,910,A,800,brute force-constructive algorithms,iamnair,Java 8,155,0,OK
+46596223,1088,1543935007,907,B,1000,implementation-sortings,habibulka,Java 8,217,0,OK
+46596172,1088,1543935001,901,A,800,brute force-constructive algorithms,jjluczyn,Java 8,140,0,OK
+46596038,1088,1543934981,881,B,1000,implementation-sortings,NreK,Java 8,935,0,OK
+46596007,1088,1543934977,877,B,1000,implementation-sortings,BNL,Java 8,140,0,OK
+46595885,1088,1543934960,860,B,1000,implementation-sortings,mikit,Java 8,202,0,OK
+46595884,1088,1543934960,860,B,1000,implementation-sortings,ISSAM_LAKOUAM,Java 8,171,0,OK
+46595830,1088,1543934954,854,A,800,brute force-constructive algorithms,sajadur_duet,Java 8,140,0,OK
+46595825,1088,1543934953,853,A,800,brute force-constructive algorithms,MubtasimShahriar,Java 8,140,0,OK
+46595651,1088,1543934932,832,A,800,brute force-constructive algorithms,kumarmonu0522,Java 8,155,0,OK
+46595564,1088,1543934920,820,A,800,brute force-constructive algorithms,bigsai,Java 8,140,0,OK
+46595551,1088,1543934918,818,B,1000,implementation-sortings,icpc_loser,Java 8,155,0,OK
+46595521,1088,1543934914,814,A,800,brute force-constructive algorithms,michael.egorov,Java 8,124,0,OK
+46595507,1088,1543934913,813,B,1000,implementation-sortings,fnozoszzt,Java 8,967,0,OK
+46595505,1088,1543934912,812,B,1000,implementation-sortings,muhitsarwar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46595459,1088,1543934906,805,A,800,brute force-constructive algorithms,shahdhairya678,Java 8,140,0,OK
+46595456,1088,1543934906,806,B,1000,implementation-sortings,GreatWhite,Java 8,170,0,OK
+46595351,1088,1543934893,793,B,1000,implementation-sortings,jenish9599,Java 8,186,0,OK
+46595327,1088,1543934890,790,A,800,brute force-constructive algorithms,DHV,Java 8,140,0,OK
+46595318,1088,1543934889,789,A,800,brute force-constructive algorithms,akash6019,Java 8,140,0,OK
+46595298,1088,1543934885,785,A,800,brute force-constructive algorithms,jyoti_123,Java 8,124,0,OK
+46595281,1088,1543934883,783,A,800,brute force-constructive algorithms,dip_kush04,Java 8,155,0,OK
+46595106,1088,1543934862,762,B,1000,implementation-sortings,khokharnikunj8,Java 8,296,4505600,OK
+46595067,1088,1543934858,758,A,800,brute force-constructive algorithms,jnisac,Java 8,155,0,OK
+46595059,1088,1543934858,758,A,800,brute force-constructive algorithms,Surya_Roshan,Java 8,140,0,OK
+46594953,1088,1543934844,744,A,800,brute force-constructive algorithms,niteshgowda,Java 8,155,0,OK
+46594858,1088,1543934831,731,B,1000,implementation-sortings,zeyad_khattab,Java 8,202,0,OK
+46594843,1088,1543934829,729,B,1000,implementation-sortings,Anoque,Java 8,873,6860800,OK
+46594701,1088,1543934812,712,B,1000,implementation-sortings,AJ47,Java 8,171,0,OK
+46594698,1088,1543934812,711,B,1000,implementation-sortings,bhavyashah9873,Java 8,155,0,OK
+46594682,1088,1543934810,710,B,1000,implementation-sortings,flyman3046,Java 8,171,0,OK
+46594529,1088,1543934794,694,A,800,brute force-constructive algorithms,dmitriy0712,Java 8,124,0,OK
+46594428,1088,1543934783,683,A,800,brute force-constructive algorithms,CodePal,Java 8,140,0,OK
+46594237,1088,1543934762,662,B,1000,implementation-sortings,LockHeart,Java 8,1000,2969600,TIME_LIMIT_EXCEEDED
+46594205,1088,1543934759,659,A,800,brute force-constructive algorithms,nextcoder,Java 8,124,0,OK
+46594182,1088,1543934757,657,A,800,brute force-constructive algorithms,k_parikshith93,Java 8,155,0,OK
+46594132,1088,1543934753,653,B,1000,implementation-sortings,msagimbekov,Java 8,218,6758400,OK
+46593869,1088,1543934727,627,B,1000,implementation-sortings,Hoda_Hisham,Java 8,202,0,OK
+46593751,1088,1543934713,613,A,800,brute force-constructive algorithms,poketred12,Java 8,140,0,OK
+46593500,1088,1543934682,582,A,800,brute force-constructive algorithms,SDU_Lucy,Java 8,140,0,OK
+46593484,1088,1543934681,581,B,1000,implementation-sortings,mennafadali,Java 8,218,0,OK
+46593482,1088,1543934681,581,A,800,brute force-constructive algorithms,zabaldo,Java 8,124,0,OK
+46593404,1088,1543934671,571,B,1000,implementation-sortings,aminul,Java 8,186,0,OK
+46593359,1088,1543934666,566,B,1000,implementation-sortings,kocko,Java 8,233,0,OK
+46593350,1088,1543934665,565,A,800,brute force-constructive algorithms,akseiner,Java 8,124,0,OK
+46593297,1088,1543934658,558,B,1000,implementation-sortings,Kaktus23,Java 8,202,0,OK
+46593256,1088,1543934653,553,B,1000,implementation-sortings,aman28rwt,Java 8,202,0,OK
+46593193,1088,1543934646,546,A,800,brute force-constructive algorithms,phongfrancis,Java 8,140,0,OK
+46593160,1088,1543934641,541,A,800,brute force-constructive algorithms,AkashGupta,Java 8,140,0,OK
+46593156,1088,1543934641,541,B,1000,implementation-sortings,nm21,Java 8,140,0,OK
+46593135,1088,1543934639,539,A,800,brute force-constructive algorithms,---,Java 8,140,0,OK
+46593069,1088,1543934630,530,A,800,brute force-constructive algorithms,karan1808,Java 8,140,0,OK
+46593002,1088,1543934624,524,A,800,brute force-constructive algorithms,Happy_Stove,Java 8,140,0,OK
+46592962,1088,1543934618,518,B,1000,implementation-sortings,LockHeart,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46592945,1088,1543934617,517,A,800,brute force-constructive algorithms,DHV,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46592917,1088,1543934613,513,A,800,brute force-constructive algorithms,rentacat45,Java 8,124,0,OK
+46592905,1088,1543934612,512,B,1000,implementation-sortings,Musin,Java 8,233,0,OK
+46592888,1088,1543934610,510,A,800,brute force-constructive algorithms,yuanfei_1984,Java 8,140,0,OK
+46592822,1088,1543934601,501,A,800,brute force-constructive algorithms,Shun_PI,Java 8,124,0,OK
+46592794,1088,1543934598,498,A,800,brute force-constructive algorithms,Incepti0n,Java 8,140,0,OK
+46592768,1088,1543934595,495,A,800,brute force-constructive algorithms,Klnsyf_Ego,Java 8,155,0,OK
+46592688,1088,1543934586,486,A,800,brute force-constructive algorithms,llamaoo7,Java 8,124,0,OK
+46592667,1088,1543934583,483,A,800,brute force-constructive algorithms,Abdullah_Abu_Alrish,Java 8,124,0,OK
+46592550,1088,1543934571,471,B,1000,implementation-sortings,BitchLasagna,Java 8,186,0,OK
+46592538,1088,1543934570,470,A,800,brute force-constructive algorithms,Mohamed_AbdEl_Mohaimen,Java 8,155,0,OK
+46592510,1088,1543934568,468,A,800,brute force-constructive algorithms,thisSideAnonymous,Java 8,139,0,OK
+46592470,1088,1543934562,462,A,800,brute force-constructive algorithms,thanhnam.csc,Java 8,124,0,OK
+46592425,1088,1543934557,457,B,1000,implementation-sortings,Taran_1407,Java 8,202,0,OK
+46592364,1088,1543934550,450,B,1000,implementation-sortings,PrakharJain,Java 8,171,0,OK
+46592355,1088,1543934549,449,A,800,brute force-constructive algorithms,arcus,Java 8,140,0,OK
+46592284,1088,1543934540,440,A,800,brute force-constructive algorithms,caoash,Java 8,124,0,OK
+46592260,1088,1543934538,438,A,800,brute force-constructive algorithms,avijit_agarwal,Java 8,124,0,OK
+46592234,1088,1543934535,435,B,1000,implementation-sortings,poketred12,Java 8,186,0,OK
+46592214,1088,1543934534,434,A,800,brute force-constructive algorithms,Hasib_Ullah,Java 8,124,0,OK
+46592139,1088,1543934526,426,A,800,brute force-constructive algorithms,4149444f53,Java 8,124,0,OK
+46592135,1088,1543934526,426,A,800,brute force-constructive algorithms,jdanielfandino,Java 8,124,0,OK
+46592122,1088,1543934524,424,A,800,brute force-constructive algorithms,Artem_Chistyakov,Java 8,155,0,OK
+46592121,1088,1543934524,424,A,800,brute force-constructive algorithms,shikharid,Java 8,171,0,OK
+46592095,1088,1543934521,421,A,800,brute force-constructive algorithms,kunallguptaaa,Java 8,140,0,OK
+46592025,1088,1543934516,416,A,800,brute force-constructive algorithms,avcb,Java 8,140,0,OK
+46592024,1088,1543934516,416,A,800,brute force-constructive algorithms,icpc_loser,Java 8,124,0,OK
+46591992,1088,1543934512,412,A,800,brute force-constructive algorithms,priyesh001,Java 8,124,0,OK
+46591945,1088,1543934505,405,A,800,brute force-constructive algorithms,cis_pie,Java 8,124,0,OK
+46591912,1088,1543934503,403,A,800,brute force-constructive algorithms,ISSAM_LAKOUAM,Java 8,155,0,OK
+46591849,1088,1543934496,396,A,800,brute force-constructive algorithms,habibulka,Java 8,124,0,OK
+46591804,1088,1543934490,390,A,800,brute force-constructive algorithms,thor1234,Java 8,155,0,OK
+46591792,1088,1543934489,389,A,800,brute force-constructive algorithms,GreatWhite,Java 8,124,0,OK
+46591767,1088,1543934487,387,B,1000,implementation-sortings,Omar_Morsi,Java 8,187,0,OK
+46591705,1088,1543934480,380,A,800,brute force-constructive algorithms,cynteka,Java 8,156,0,OK
+46591622,1088,1543934470,370,A,800,brute force-constructive algorithms,Psp_98,Java 8,124,0,OK
+46591402,1088,1543934446,346,A,800,brute force-constructive algorithms,MovingBit,Java 8,140,0,OK
+46591361,1088,1543934441,341,A,800,brute force-constructive algorithms,bhavyashah9873,Java 8,124,0,OK
+46591303,1088,1543934435,335,A,800,brute force-constructive algorithms,muhitsarwar,Java 8,155,0,OK
+46591115,1088,1543934416,316,A,800,brute force-constructive algorithms,masterbios,Java 8,124,0,OK
+46591047,1088,1543934409,309,A,800,brute force-constructive algorithms,yellowjian,Java 8,124,0,OK
+46590958,1088,1543934402,302,A,800,brute force-constructive algorithms,S010M,Java 8,124,0,OK
+46590950,1088,1543934401,301,A,800,brute force-constructive algorithms,Deimos,Java 8,124,0,OK
+46590860,1088,1543934393,293,A,800,brute force-constructive algorithms,azooz97,Java 8,140,0,OK
+46590839,1088,1543934391,291,A,800,brute force-constructive algorithms,YahiaBadr,Java 8,124,0,OK
+46590838,1088,1543934391,291,A,800,brute force-constructive algorithms,prabhat236218,Java 8,155,38195200,OK
+46590819,1088,1543934389,289,A,800,brute force-constructive algorithms,Ajudiya_13,Java 8,124,0,OK
+46590773,1088,1543934384,284,A,800,brute force-constructive algorithms,WillyDolphin,Java 8,140,0,OK
+46590764,1088,1543934383,283,A,800,brute force-constructive algorithms,Washoum,Java 8,124,0,OK
+46590711,1088,1543934379,279,A,800,brute force-constructive algorithms,nm21,Java 8,124,0,OK
+46590684,1088,1543934377,277,A,800,brute force-constructive algorithms,vidyut_1,Java 8,124,0,OK
+46590605,1088,1543934369,269,A,800,brute force-constructive algorithms,Java,Java 8,140,0,OK
+46590485,1088,1543934357,257,A,800,brute force-constructive algorithms,PassedPawn,Java 8,139,0,OK
+46590484,1088,1543934357,257,A,800,brute force-constructive algorithms,MoeAdel,Java 8,124,0,OK
+46590475,1088,1543934356,256,A,800,brute force-constructive algorithms,jenish9599,Java 8,124,0,OK
+46590433,1088,1543934353,253,A,800,brute force-constructive algorithms,AJ47,Java 8,124,0,OK
+46590325,1088,1543934342,242,A,800,brute force-constructive algorithms,Musin,Java 8,358,0,OK
+46590312,1088,1543934341,241,A,800,brute force-constructive algorithms,mikit,Java 8,124,0,OK
+46590308,1088,1543934341,241,A,800,brute force-constructive algorithms,fnozoszzt,Java 8,140,0,OK
+46590274,1088,1543934338,238,A,800,brute force-constructive algorithms,Taran_1407,Java 8,155,0,OK
+46589992,1088,1543934318,218,A,800,brute force-constructive algorithms,zeyad_khattab,Java 8,140,0,OK
+46589839,1088,1543934309,209,A,800,brute force-constructive algorithms,jonsnow7,Java 8,124,0,OK
+46589790,1088,1543934301,201,A,800,brute force-constructive algorithms,Alex_Gal,Java 8,124,0,OK
+46589601,1088,1543934286,186,A,800,brute force-constructive algorithms,aminul,Java 8,124,0,OK
+46589600,1088,1543934286,186,A,800,brute force-constructive algorithms,flyman3046,Java 8,124,0,OK
+46589596,1088,1543934286,186,A,800,brute force-constructive algorithms,BNL,Java 8,124,0,OK
+46589571,1088,1543934283,183,A,800,brute force-constructive algorithms,hrustim25,Java 8,124,0,OK
+46589512,1088,1543934279,179,A,800,brute force-constructive algorithms,Hoda_Hisham,Java 8,124,0,OK
+46589360,1088,1543934266,166,A,800,brute force-constructive algorithms,MikeFaraday,Java 8,124,0,OK
+46589323,1088,1543934263,163,A,800,brute force-constructive algorithms,mennafadali,Java 8,124,0,OK
+46589299,1088,1543934262,162,A,800,brute force-constructive algorithms,LockHeart,Java 8,140,0,OK
+46589157,1088,1543934250,150,A,800,brute force-constructive algorithms,Charmik,Java 8,124,0,OK
+46589085,1088,1543934242,142,A,800,brute force-constructive algorithms,BitchLasagna,Java 8,124,0,OK
+46589069,1088,1543934241,141,A,800,brute force-constructive algorithms,Kaktus23,Java 8,124,0,OK
+46589025,1088,1543934237,137,A,800,brute force-constructive algorithms,khokharnikunj8,Java 8,124,0,OK
+46588952,1088,1543934228,128,A,800,brute force-constructive algorithms,PrakharJain,Java 8,124,0,OK
+46588905,1088,1543934221,121,A,800,brute force-constructive algorithms,Omar_Morsi,Java 8,124,0,OK
+46588873,1088,1543934217,117,A,800,brute force-constructive algorithms,aman28rwt,Java 8,124,0,OK

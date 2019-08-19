@@ -1,0 +1,267 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56836338,156,1562836531,2147483647,C,2100,combinatorics-dp,VladislavB,Java 8,436,0
+56039300,156,1561469634,2147483647,C,2100,combinatorics-dp,mennafadali,Java 8,310,0
+55841491,156,1561054588,2147483647,A,1700,brute force,Leks360,Java 8,310,0
+52630726,156,1555052081,2147483647,C,2100,combinatorics-dp,spar5h,Java 8,498,0
+52514520,156,1554782280,2147483647,B,1800,constructive algorithms-data structures-implementation,trillionaire,Java 8,310,0
+52514472,156,1554782046,2147483647,B,1800,constructive algorithms-data structures-implementation,jlewis6,Java 8,310,0
+52514418,156,1554781787,2147483647,B,1800,constructive algorithms-data structures-implementation,Huhls,Java 8,310,0
+46854499,156,1544450471,2147483647,C,2100,combinatorics-dp,ankurdua15,Java 8,312,0
+46773459,156,1544293590,2147483647,B,1800,constructive algorithms-data structures-implementation,KulikAlex,Java 8,280,0
+44423303,156,1539740166,2147483647,A,1700,brute force,ViciousCoder,Java 8,280,0
+43735162,156,1538581440,2147483647,C,2100,combinatorics-dp,qpalzmwoskxn,Java 8,310,0
+42727177,156,1536569119,2147483647,C,2100,combinatorics-dp,aabdelzaher,Java 8,404,0
+39580366,156,1529783342,2147483647,A,1700,brute force,KulikAlex,Java 8,280,0
+39420156,156,1529435149,2147483647,C,2100,combinatorics-dp,rahulDugar,Java 8,530,0
+34795933,156,1517474805,2147483647,C,2100,combinatorics-dp,zeyad_khattab,Java 8,530,20787200
+34795189,156,1517473498,2147483647,C,2100,combinatorics-dp,zeyad_khattab,Java 8,498,20787200
+34794981,156,1517473092,2147483647,C,2100,combinatorics-dp,zeyad_khattab,Java 8,498,20787200
+32128279,156,1510079994,2147483647,C,2100,combinatorics-dp,admiral_1995,Java 8,530,0
+29366676,156,1502505473,2147483647,B,1800,constructive algorithms-data structures-implementation,Maulik_Patel,Java 8,436,35532800
+28466927,156,1499846723,2147483647,B,1800,constructive algorithms-data structures-implementation,tomdmitriev,Java 8,310,25395200
+27967772,156,1498143233,2147483647,C,2100,combinatorics-dp,Noureldin,Java 8,342,20684800
+26670545,156,1493151970,2147483647,C,2100,combinatorics-dp,Kammola,Java 8,1122,20582400
+25417947,156,1489263913,2147483647,B,1800,constructive algorithms-data structures-implementation,AJ_Coder,Java 8,342,20684800
+24576424,156,1486753210,2147483647,C,2100,combinatorics-dp,Ahmad_Elsagheer,Java 8,372,20377600
+22199249,156,1479067703,2147483647,A,1700,brute force,AJ_Coder,Java 8,312,0
+20555530,156,1473708442,2147483647,A,1700,brute force,Corvus,Java 8,1870,147660800
+18704748,156,1466786906,2147483647,A,1700,brute force,ViruZ,Java 8,342,0
+18633376,156,1466526578,2147483647,A,1700,brute force,Safrout,Java 8,248,0
+18515062,156,1466063952,2147483647,A,1700,brute force,vjudge5,Java 8,312,0
+18515060,156,1466063949,2147483647,A,1700,brute force,vjudge2,Java 8,342,0
+18445326,156,1465888595,2147483647,A,1700,brute force,vjudge4,Java 8,310,20992000
+16682658,156,1457820282,2147483647,A,1700,brute force,Nirmit,Java 7,280,0
+15949951,156,1455163046,2147483647,D,2400,combinatorics-graphs,mkirsche,Java 7,310,0
+15036393,156,1451156779,2147483647,B,1800,constructive algorithms-data structures-implementation,xiaowuc1,Java 7,312,0
+14190390,156,1447191624,2147483647,B,1800,constructive algorithms-data structures-implementation,ATailouloute,Java 8,374,0
+14165872,156,1447051682,2147483647,C,2100,combinatorics-dp,joey2005,Java 8,404,0
+12891766,156,1441681049,2147483647,A,1700,brute force,davidarcila93,Java 7,528,54169600
+12845049,156,1441396574,2147483647,B,1800,constructive algorithms-data structures-implementation,DeadMan,Java 7,716,0
+11686909,156,1434835172,2147483647,A,1700,brute force,pitfall,Java 7,186,0
+11125152,156,1431859121,2147483647,B,1800,constructive algorithms-data structures-implementation,Sumeet.Varma,Java 7,218,0
+10925927,156,1430291866,2147483647,D,2400,combinatorics-graphs,A.Elahi,Java 8,434,65228800
+9932164,156,1424384675,2147483647,D,2400,combinatorics-graphs,AStepanov,Java 8,310,0
+9929644,156,1424368969,2147483647,C,2100,combinatorics-dp,AStepanov,Java 8,280,0
+9927456,156,1424358822,2147483647,C,2100,combinatorics-dp,alibaba,Java 7,404,0
+9736942,156,1423230973,2147483647,B,1800,constructive algorithms-data structures-implementation,a654889339,Java 6,436,0
+9732856,156,1423189324,2147483647,B,1800,constructive algorithms-data structures-implementation,vjudge4,Java 6,404,0
+9641981,156,1422706072,2147483647,A,1700,brute force,tomdmitriev,Java 8,310,0
+9610931,156,1422508967,5267,D,2400,combinatorics-graphs,AlexFetisov,Java 8,310,2867200
+9610832,156,1422507581,3881,C,2100,combinatorics-dp,AlexFetisov,Java 8,468,0
+9610598,156,1422504715,1014,B,1800,constructive algorithms-data structures-implementation,AlexFetisov,Java 8,310,0
+9610559,156,1422504146,446,A,1700,brute force,AlexFetisov,Java 8,498,0
+9021048,156,1418061861,2147483647,B,1800,constructive algorithms-data structures-implementation,upsolving,Java 7,248,0
+8774841,156,1416580306,2147483647,B,1800,constructive algorithms-data structures-implementation,GhpS,Java 7,248,0
+8628667,156,1415601751,2147483647,B,1800,constructive algorithms-data structures-implementation,alibaba,Java 7,280,204800
+8532169,156,1414999655,2147483647,A,1700,brute force,upsolving,Java 7,186,0
+8057649,156,1412255007,2147483647,D,2400,combinatorics-graphs,m.radwan,Java 8,560,2150400
+8057645,156,1412254995,2147483647,D,2400,combinatorics-graphs,fetetriste,Java 8,748,10137600
+7737894,156,1410385553,2147483647,C,2100,combinatorics-dp,IgorKoval,Java 8,810,2150400
+7737417,156,1410377874,2147483647,D,2400,combinatorics-graphs,IgorKoval,Java 7,434,24371200
+7737415,156,1410377870,2147483647,D,2400,combinatorics-graphs,IgorKoval,Java 6,404,24371200
+7737412,156,1410377793,2147483647,D,2400,combinatorics-graphs,IgorKoval,Java 6,404,11161600
+7737402,156,1410377719,2147483647,D,2400,combinatorics-graphs,IgorKoval,Java 7,374,11161600
+7056642,156,1404970652,2147483647,A,1700,brute force,alibaba,Java 7,216,0
+6542642,156,1399182755,2147483647,A,1700,brute force,nickbuelich,Java 8,312,0
+6131776,156,1395671719,2147483647,D,2400,combinatorics-graphs,hama-du,Java 7,186,0
+6126214,156,1395588915,2147483647,C,2100,combinatorics-dp,hama-du,Java 7,374,102400
+6126093,156,1395587635,2147483647,B,1800,constructive algorithms-data structures-implementation,hama-du,Java 7,528,204800
+6125990,156,1395586319,2147483647,A,1700,brute force,hama-du,Java 7,278,14233600
+6060979,156,1395146455,2147483647,D,2400,combinatorics-graphs,newSolar,Java 7,156,0
+6060970,156,1395146369,2147483647,D,2400,combinatorics-graphs,newSolar,Java 7,156,0
+6060964,156,1395146323,2147483647,D,2400,combinatorics-graphs,vjudge2,Java 7,156,0
+6060721,156,1395144222,2147483647,C,2100,combinatorics-dp,vjudge2,Java 7,374,0
+6060494,156,1395142183,2147483647,B,1800,constructive algorithms-data structures-implementation,vjudge3,Java 7,1652,307200
+6060342,156,1395140658,2147483647,A,1700,brute force,vjudge4,Java 7,218,0
+4551239,156,1380053131,2147483647,C,2100,combinatorics-dp,aladdin3,Java 7,404,0
+4547888,156,1380015848,2147483647,A,1700,brute force,aladdin3,Java 7,436,0
+4547412,156,1380009670,2147483647,D,2400,combinatorics-graphs,Azat_Yusupov,Java 7,468,12697600
+4239296,156,1375860126,2147483647,B,1800,constructive algorithms-data structures-implementation,DoublePointer,Java 7,312,204800
+4216346,156,1375431338,2147483647,A,1700,brute force,trunghieu11,Java 7,280,0
+4215900,156,1375426578,2147483647,A,1700,brute force,DoublePointer,Java 6,468,13004800
+4203367,156,1375174163,2147483647,A,1700,brute force,trunghieu11,Java 7,248,0
+4172939,156,1374897022,2147483647,A,1700,brute force,0p9o8i,Java 7,218,0
+4143306,156,1374615718,2147483647,B,1800,constructive algorithms-data structures-implementation,santjuan,Java 7,343,17100800
+4107991,156,1374254974,2147483647,B,1800,constructive algorithms-data structures-implementation,mkirsche,Java 6,234,307200
+4070596,156,1373821560,2147483647,A,1700,brute force,mkirsche,Java 6,562,0
+3478004,156,1365194392,2147483647,B,1800,constructive algorithms-data structures-implementation,yasser_adel,Java 7,218,3072000
+3417192,156,1364503761,2147483647,A,1700,brute force,xiaowuc1,Java 6,140,0
+2754863,156,1355321036,2147483647,A,1700,brute force,vjudge5,Java 7,171,14745600
+2754541,156,1355315882,2147483647,A,1700,brute force,vjudge2,Java 6,187,15155200
+2362609,156,1350369798,2147483647,A,1700,brute force,mingotlik,Java 6,234,102400
+2170865,156,1347688413,2147483647,C,2100,combinatorics-dp,Azat_Yusupov,Java 6,187,44134400
+2102151,156,1347011073,2147483647,A,1700,brute force,unit7,Java 6,125,43212800
+2099790,156,1346931128,2147483647,A,1700,brute force,Quvondiq_Otajonov,Java 6,280,45158400
+2001320,156,1344751988,2147483647,A,1700,brute force,ilovepink,Java 6,220,57958400
+1980712,156,1344262727,2147483647,A,1700,brute force,Azat_Yusupov,Java 6,230,43417600
+1906897,156,1342529735,6935,B,1800,constructive algorithms-data structures-implementation,sunnywkn,Java 7,250,45158400
+1906859,156,1342528645,5845,C,2100,combinatorics-dp,sunnywkn,Java 7,220,45056000
+1906856,156,1342528546,5746,C,2100,combinatorics-dp,sunnywkn,Java 7,300,45056000
+1809677,156,1340069406,2147483647,C,2100,combinatorics-dp,Ahmed_Salama,Java 6,330,43520000
+1765470,156,1338886600,2147483647,B,1800,constructive algorithms-data structures-implementation,av_life,Java 7,500,49561600
+1685113,156,1336857069,2147483647,B,1800,constructive algorithms-data structures-implementation,vans239,Java 7,640,45260800
+1679709,156,1336678052,2147483647,B,1800,constructive algorithms-data structures-implementation,orlova,Java 6,910,43622400
+1679689,156,1336677785,2147483647,B,1800,constructive algorithms-data structures-implementation,friedman,Java 6,910,43622400
+1679350,156,1336674610,2147483647,B,1800,constructive algorithms-data structures-implementation,friedman,Java 6,800,43622400
+1679291,156,1336674322,2147483647,B,1800,constructive algorithms-data structures-implementation,red_cheese,Java 7,190,44953600
+1672393,156,1336659223,2147483647,B,1800,constructive algorithms-data structures-implementation,pritykovskaya,Java 7,450,45158400
+1671718,156,1336623801,2147483647,B,1800,constructive algorithms-data structures-implementation,daddy-bear,Java 6,830,43622400
+1671716,156,1336623705,2147483647,B,1800,constructive algorithms-data structures-implementation,epiq.bear,Java 6,830,43622400
+1671607,156,1336601394,2147483647,B,1800,constructive algorithms-data structures-implementation,achugr,Java 6,860,43622400
+1671271,156,1336582742,2147483647,B,1800,constructive algorithms-data structures-implementation,ilya.c,Java 6,670,43622400
+1668447,156,1336425735,2147483647,B,1800,constructive algorithms-data structures-implementation,anton.m.alexeyev,Java 7,440,45158400
+1650019,156,1335997927,2147483647,B,1800,constructive algorithms-data structures-implementation,homutov,Java 7,170,44953600
+1647957,156,1335879467,2147483647,B,1800,constructive algorithms-data structures-implementation,anna239,Java 6,500,43520000
+1642917,156,1335642985,2147483647,B,1800,constructive algorithms-data structures-implementation,krasko,Java 7,190,45056000
+1642709,156,1335637049,2147483647,B,1800,constructive algorithms-data structures-implementation,hornswf,Java 6,170,43417600
+1641031,156,1335630012,2147483647,B,1800,constructive algorithms-data structures-implementation,dmitrii_tolmachev,Java 7,640,45056000
+1510869,156,1334211075,2147483647,A,1700,brute force,N0D1R,Java 6,250,43315200
+1509203,156,1334079607,2147483647,A,1700,brute force,littlepanda,Java 7,190,44953600
+1379978,156,1332184870,2147483647,A,1700,brute force,Venom,Java 6,140,43110400
+1372647,156,1331983367,2147483647,D,2400,combinatorics-graphs,Galkowsky,Java 6,980,65843200
+1361341,156,1331906635,2147483647,D,2400,combinatorics-graphs,OgieKako,Java 6,250,55808000
+1361336,156,1331906512,2147483647,D,2400,combinatorics-graphs,OgieKako,Java 6,250,55808000
+1361298,156,1331905377,2147483647,D,2400,combinatorics-graphs,OgieKako,Java 6,170,43110400
+1361286,156,1331904993,2147483647,D,2400,combinatorics-graphs,OgieKako,Java 6,140,43110400
+1350429,156,1331532236,2147483647,B,1800,constructive algorithms-data structures-implementation,hama-du,Java 6,630,58777600
+1350367,156,1331530545,2147483647,A,1700,brute force,hama-du,Java 6,110,43110400
+1340368,156,1331466741,2147483647,B,1800,constructive algorithms-data structures-implementation,OgieKako,Java 6,140,43417600
+1340356,156,1331466506,2147483647,B,1800,constructive algorithms-data structures-implementation,OgieKako,Java 6,500,43520000
+1340331,156,1331465967,2147483647,B,1800,constructive algorithms-data structures-implementation,OgieKako,Java 6,170,43417600
+1340325,156,1331465874,2147483647,B,1800,constructive algorithms-data structures-implementation,OgieKako,Java 6,220,43520000
+1337091,156,1331383602,2147483647,B,1800,constructive algorithms-data structures-implementation,vjudge5,Java 6,610,43520000
+1336715,156,1331380317,2147483647,C,2100,combinatorics-dp,vjudge2,Java 6,300,43417600
+1313674,156,1331240652,2147483647,D,2400,combinatorics-graphs,Galkowsky,Java 6,660,48025600
+1310639,156,1331169400,2147483647,A,1700,brute force,Naga,Java 7,170,44953600
+1310609,156,1331168406,2147483647,A,1700,brute force,fta2012,Java 7,670,45056000
+1310553,156,1331166325,2147483647,C,2100,combinatorics-dp,Darmani,Java 6,340,43520000
+1310538,156,1331165790,2147483647,D,2400,combinatorics-graphs,jonathanpaulson,Java 6,640,46387200
+1310528,156,1331165424,2147483647,C,2100,combinatorics-dp,jonathanpaulson,Java 6,420,43520000
+1310527,156,1331165411,2147483647,B,1800,constructive algorithms-data structures-implementation,torrentlord,Java 6,640,43520000
+1310506,156,1331164485,2147483647,A,1700,brute force,torrentlord,Java 6,130,43212800
+1309550,156,1331139911,2147483647,C,2100,combinatorics-dp,Viktor,Java 6,380,58060800
+1292621,156,1330988282,2147483647,C,2100,combinatorics-dp,islam-al-aarag,Java 6,340,45158400
+1292563,156,1330985120,2147483647,B,1800,constructive algorithms-data structures-implementation,islam-al-aarag,Java 6,280,55705600
+1292474,156,1330982126,2147483647,A,1700,brute force,islam-al-aarag,Java 6,140,45056000
+1290745,156,1330953778,2147483647,A,1700,brute force,kreep,Java 6,170,44851200
+1287682,156,1330899413,2147483647,A,1700,brute force,evgeniyzarubkin,Java 6,140,44851200
+1279618,156,1330867333,2147483647,D,2400,combinatorics-graphs,weiyecheng,Java 6,880,61235200
+1275896,156,1330856848,2147483647,C,2100,combinatorics-dp,ytau,Java 6,230,44953600
+1260596,156,1330785757,2147483647,A,1700,brute force,petr.bespechniy,Java 6,130,44851200
+1260396,156,1330781879,2147483647,B,1800,constructive algorithms-data structures-implementation,weiyecheng,Java 6,640,45158400
+1260363,156,1330781216,2147483647,C,2100,combinatorics-dp,Galkowsky,Java 6,280,45056000
+1260186,156,1330777958,2147483647,C,2100,combinatorics-dp,lwc626,Java 6,300,44953600
+1260043,156,1330775505,2147483647,B,1800,constructive algorithms-data structures-implementation,lwc626,Java 6,200,44953600
+1260016,156,1330775081,2147483647,A,1700,brute force,Galkowsky,Java 6,220,44953600
+1259984,156,1330774475,2147483647,A,1700,brute force,el-nino,Java 6,190,44953600
+1259794,156,1330770249,2147483647,B,1800,constructive algorithms-data structures-implementation,Galkowsky,Java 6,360,45260800
+1259791,156,1330770200,2147483647,A,1700,brute force,weiyecheng,Java 6,160,44953600
+1259458,156,1330762614,2147483647,A,1700,brute force,Oxidize,Java 6,190,44953600
+1259297,156,1330758360,2147483647,B,1800,constructive algorithms-data structures-implementation,OSt,Java 6,670,84582400
+1259186,156,1330753798,2147483647,A,1700,brute force,OSt,Java 6,200,44953600
+1259082,156,1330747687,3187,C,2100,combinatorics-dp,OgieKako,Java 6,330,45056000
+1259076,156,1330747001,2501,B,1800,constructive algorithms-data structures-implementation,OgieKako,Java 6,340,45056000
+1259022,156,1330744945,445,A,1700,brute force,OgieKako,Java 6,160,44953600
+1258272,156,1330717053,4052,A,1700,brute force,dmstarostin,Java 6,190,44953600
+1257517,156,1330702307,2147483647,A,1700,brute force,lwc626,Java 6,170,44851200
+1257333,156,1330699313,2147483647,A,1700,brute force,lazzrov,Java 6,160,44851200
+1254584,156,1330612851,2147483647,A,1700,brute force,knok16,Java 6,140,44851200
+1254499,156,1330611081,2147483647,B,1800,constructive algorithms-data structures-implementation,knok16,Java 6,200,45056000
+1254351,156,1330608580,2147483647,D,2400,combinatorics-graphs,steven,Java 6,190,44851200
+1254234,156,1330607235,2147483647,A,1700,brute force,timurtibeyev,Java 6,200,45056000
+1254155,156,1330606054,2147483647,B,1800,constructive algorithms-data structures-implementation,timurtibeyev,Java 6,480,45056000
+1253920,156,1330602312,2147483647,B,1800,constructive algorithms-data structures-implementation,raedselim,Java 6,630,45158400
+1253918,156,1330602301,2147483647,A,1700,brute force,raedselim,Java 6,190,44953600
+1253909,156,1330602157,2147483647,B,1800,constructive algorithms-data structures-implementation,m.radwan,Java 6,550,45056000
+1253900,156,1330601835,4035,C,2100,combinatorics-dp,Eledven,Java 6,190,44953600
+1253885,156,1330601484,3684,D,2400,combinatorics-graphs,Eledven,Java 6,170,44851200
+1253874,156,1330601269,2147483647,D,2400,combinatorics-graphs,Egor,Java 6,110,45056000
+1253777,156,1330598834,1034,B,1800,constructive algorithms-data structures-implementation,Eledven,Java 6,250,44953600
+1253748,156,1330598061,261,A,1700,brute force,Eledven,Java 6,140,43008000
+1253685,156,1330596633,2147483647,A,1700,brute force,originalFussywheat,Java 6,220,44851200
+1253498,156,1330591842,2147483647,B,1800,constructive algorithms-data structures-implementation,Azat_Yusupov,Java 6,190,45158400
+1253381,156,1330589881,2147483647,D,2400,combinatorics-graphs,Nova,Java 6,160,44953600
+1253370,156,1330589674,2147483647,A,1700,brute force,Lewin,Java 6,110,44851200
+1253369,156,1330589667,2147483647,B,1800,constructive algorithms-data structures-implementation,Lewin,Java 6,280,44953600
+1253367,156,1330589656,2147483647,C,2100,combinatorics-dp,Lewin,Java 6,250,44953600
+1253363,156,1330589586,2147483647,D,2400,combinatorics-graphs,Lewin,Java 6,110,49561600
+1252261,156,1330564943,2147483647,A,1700,brute force,jonathanpaulson,Java 6,140,45056000
+1252211,156,1330563957,2147483647,B,1800,constructive algorithms-data structures-implementation,jonathanpaulson,Java 6,780,53964800
+1252028,156,1330558595,2147483647,B,1800,constructive algorithms-data structures-implementation,Ahmed.Ibrahem,Java 6,610,45158400
+1252009,156,1330558005,2147483647,B,1800,constructive algorithms-data structures-implementation,VenusWithArms,Java 6,730,45158400
+1251967,156,1330557099,2147483647,A,1700,brute force,VenusWithArms,Java 6,130,44851200
+1251788,156,1330552048,2147483647,A,1700,brute force,antonio081014,Java 6,170,44851200
+1251776,156,1330551940,2147483647,A,1700,brute force,Nox,Java 6,110,44851200
+1251731,156,1330551482,2147483647,D,2400,combinatorics-graphs,dusty.and.rusty,Java 6,410,45363200
+1251683,156,1330550823,2147483647,A,1700,brute force,originalFussywheat,Java 6,270,44851200
+1251677,156,1330550768,2147483647,A,1700,brute force,Ahmed.Ibrahem,Java 6,590,111308800
+1251555,156,1330549610,2147483647,A,1700,brute force,Wahba,Java 6,130,44851200
+1251552,156,1330549583,2147483647,B,1800,constructive algorithms-data structures-implementation,nmacho,Java 6,560,45260800
+1251491,156,1330549214,2147483647,A,1700,brute force,peking2,Java 6,160,43212800
+1251420,156,1330548813,2147483647,B,1800,constructive algorithms-data structures-implementation,Nox,Java 6,220,45056000
+1251390,156,1330548687,2147483647,A,1700,brute force,cyon,Java 6,130,44953600
+1251383,156,1330548673,2147483647,A,1700,brute force,iksuy,Java 6,160,44851200
+1251331,156,1330548492,2147483647,D,2400,combinatorics-graphs,uwi,Java 6,140,44851200
+1251151,156,1330547809,2147483647,B,1800,constructive algorithms-data structures-implementation,phantom11,Java 6,340,45158400
+1250888,156,1330543739,7139,C,2100,combinatorics-dp,_jte_,Java 6,270,45158400
+1250696,156,1330543395,6795,C,2100,combinatorics-dp,piotr.kukla,Java 6,300,45158400
+1250357,156,1330542766,6166,A,1700,brute force,Seemann,Java 6,130,44851200
+1250216,156,1330542541,5941,D,2400,combinatorics-graphs,ivan.popelyshev,Java 6,200,45056000
+1249739,156,1330541704,5104,D,2400,combinatorics-graphs,bjin,Java 6,170,48435200
+1249726,156,1330541681,5081,C,2100,combinatorics-dp,SpookyCookie,Java 6,220,45158400
+1249634,156,1330541522,4922,C,2100,combinatorics-dp,mdldml,Java 6,200,44953600
+1249554,156,1330541388,4788,A,1700,brute force,m.radwan,Java 6,140,44953600
+1249228,156,1330540914,4314,B,1800,constructive algorithms-data structures-implementation,Tomik,Java 6,830,45158400
+1248995,156,1330540573,3973,A,1700,brute force,SpookyCookie,Java 6,130,45158400
+1248943,156,1330540504,3904,B,1800,constructive algorithms-data structures-implementation,uwi,Java 6,190,45056000
+1248905,156,1330540443,3843,C,2100,combinatorics-dp,Abra,Java 6,300,44953600
+1248625,156,1330540115,3515,B,1800,constructive algorithms-data structures-implementation,Slamur,Java 6,220,45568000
+1248566,156,1330540045,3445,A,1700,brute force,pyshnograev,Java 6,130,45158400
+1248552,156,1330540033,3433,B,1800,constructive algorithms-data structures-implementation,ant.ermilov,Java 6,200,45158400
+1248449,156,1330539923,3323,C,2100,combinatorics-dp,SergeyLazarev,Java 6,190,44953600
+1248287,156,1330539720,3120,C,2100,combinatorics-dp,Cepera,Java 6,390,45056000
+1248280,156,1330539713,3113,B,1800,constructive algorithms-data structures-implementation,Ahmed_Salama,Java 6,200,45056000
+1247988,156,1330539346,2746,A,1700,brute force,Abra,Java 6,170,44851200
+1247979,156,1330539336,2736,B,1800,constructive algorithms-data structures-implementation,bjin,Java 6,220,45260800
+1247920,156,1330539269,2669,C,2100,combinatorics-dp,spicyj,Java 6,300,45056000
+1247906,156,1330539255,2655,B,1800,constructive algorithms-data structures-implementation,pyshnograev,Java 6,200,45056000
+1247782,156,1330539147,2547,C,2100,combinatorics-dp,elizarov,Java 6,360,45056000
+1247754,156,1330539121,2521,B,1800,constructive algorithms-data structures-implementation,dusty.and.rusty,Java 6,480,45158400
+1247617,156,1330538992,2392,B,1800,constructive algorithms-data structures-implementation,calculus.saransh,Java 6,520,45158400
+1247609,156,1330538980,2380,B,1800,constructive algorithms-data structures-implementation,ivan.popelyshev,Java 6,190,45056000
+1247435,156,1330538823,2223,B,1800,constructive algorithms-data structures-implementation,piotr.kukla,Java 6,380,45158400
+1247423,156,1330538812,2212,B,1800,constructive algorithms-data structures-implementation,mdldml,Java 6,220,44953600
+1247232,156,1330538641,2041,B,1800,constructive algorithms-data structures-implementation,SpookyCookie,Java 6,220,45260800
+1247095,156,1330538522,1922,B,1800,constructive algorithms-data structures-implementation,Abra,Java 6,550,95232000
+1247076,156,1330538505,1905,C,2100,combinatorics-dp,uwi,Java 6,160,44953600
+1247075,156,1330538505,1905,B,1800,constructive algorithms-data structures-implementation,Cepera,Java 6,530,45056000
+1247015,156,1330538460,1860,C,2100,combinatorics-dp,ivan.popelyshev,Java 6,200,45056000
+1246822,156,1330538299,1699,B,1800,constructive algorithms-data structures-implementation,elizarov,Java 6,630,45158400
+1246803,156,1330538287,1687,A,1700,brute force,SergeyLazarev,Java 6,170,44851200
+1246722,156,1330538230,1630,B,1800,constructive algorithms-data structures-implementation,Seemann,Java 6,190,44953600
+1246666,156,1330538195,1595,A,1700,brute force,Slamur,Java 6,110,45363200
+1246644,156,1330538179,1579,A,1700,brute force,ilya.m,Java 6,190,45056000
+1246641,156,1330538177,1577,A,1700,brute force,spicyj,Java 6,110,44953600
+1246629,156,1330538170,1570,B,1800,constructive algorithms-data structures-implementation,pashkal,Java 6,200,45158400
+1246624,156,1330538167,1567,B,1800,constructive algorithms-data structures-implementation,twds,Java 6,770,45158400
+1246571,156,1330538117,1517,B,1800,constructive algorithms-data structures-implementation,SergeyLazarev,Java 6,200,44953600
+1246438,156,1330538018,1418,C,2100,combinatorics-dp,Narg,Java 6,200,44953600
+1246234,156,1330537878,1278,C,2100,combinatorics-dp,bjin,Java 6,220,45158400
+1246031,156,1330537758,1158,A,1700,brute force,dusty.and.rusty,Java 6,110,44851200
+1245889,156,1330537663,1063,A,1700,brute force,Aries512,Java 6,130,44851200
+1245761,156,1330537587,987,A,1700,brute force,Egor,Java 6,160,44851200
+1245723,156,1330537562,962,A,1700,brute force,Sinner,Java 6,110,44851200
+1245607,156,1330537515,915,A,1700,brute force,Navigabimus,Java 6,560,99123200
+1245411,156,1330537409,809,B,1800,constructive algorithms-data structures-implementation,Narg,Java 6,270,45158400
+1245326,156,1330537365,765,A,1700,brute force,elizarov,Java 6,130,44953600
+1245273,156,1330537339,739,B,1800,constructive algorithms-data structures-implementation,Egor,Java 6,160,44953600
+1245055,156,1330537234,634,A,1700,brute force,uwi,Java 6,110,44851200
+1244994,156,1330537206,606,A,1700,brute force,pashkal,Java 6,160,44851200
+1244961,156,1330537191,591,A,1700,brute force,EriKKo,Java 6,130,44851200
+1244941,156,1330537184,584,A,1700,brute force,calculus.saransh,Java 6,190,44953600
+1244796,156,1330537117,517,A,1700,brute force,bjin,Java 6,110,44953600
+1244764,156,1330537103,503,A,1700,brute force,Ahmed_Salama,Java 6,200,57753600
+1244599,156,1330537030,430,A,1700,brute force,Darko,Java 6,190,44953600
+1244542,156,1330537004,404,A,1700,brute force,ivan.popelyshev,Java 6,140,44851200
+1244405,156,1330536947,347,A,1700,brute force,Jokser,Java 6,140,44953600
+1244255,156,1330536890,290,C,2100,combinatorics-dp,Egor,Java 6,280,44953600

@@ -1,0 +1,946 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57258697,7,1563421565,2147483647,C,1800,math-number theory,ImNoob,Java 8,280,0
+56077426,7,1561555763,2147483647,A,1300,brute force-constructive algorithms,tobitherobot,Java 8,216,3584000
+55738356,7,1560923979,7179,D,2200,hashing-strings,divyang.timbadiya8394,Java 8,374,36249600
+54415124,7,1558354096,2147483647,A,1300,brute force-constructive algorithms,WuZei,Java 8,218,3686400
+54227377,7,1557990241,2147483647,A,1300,brute force-constructive algorithms,pd_1710,Java 8,248,3584000
+53868891,7,1557297908,2147483647,B,1700,implementation,defwaf,Java 8,218,3686400
+52933124,7,1555561049,2147483647,E,2500,dp-expression parsing-implementation,WuZei,Java 8,280,0
+52924183,7,1555529354,2147483647,B,1700,implementation,WuZei,Java 8,218,3686400
+52868124,7,1555433307,2147483647,A,1300,brute force-constructive algorithms,manikasharma09,Java 8,218,3584000
+51299511,7,1552571334,2147483647,A,1300,brute force-constructive algorithms,vjudge3,Java 8,216,3584000
+51295455,7,1552565876,2147483647,A,1300,brute force-constructive algorithms,vjudge4,Java 8,186,3686400
+50656631,7,1551470002,2147483647,A,1300,brute force-constructive algorithms,parthsingh287,Java 8,216,3584000
+50215063,7,1550634609,2147483647,A,1300,brute force-constructive algorithms,o.radwan,Java 8,216,3174400
+50003289,7,1550335682,2147483647,A,1300,brute force-constructive algorithms,zeyadhhabib,Java 8,218,3686400
+49668430,7,1549726445,2147483647,A,1300,brute force-constructive algorithms,newheathen,Java 8,218,3686400
+48558441,7,1547879066,2147483647,E,2500,dp-expression parsing-implementation,Mandir_Wahi_Banayenge,Java 8,248,0
+48558419,7,1547879042,2147483647,D,2200,hashing-strings,Mandir_Wahi_Banayenge,Java 8,436,29388800
+48558413,7,1547879025,2147483647,C,1800,math-number theory,Mandir_Wahi_Banayenge,Java 8,248,0
+48558389,7,1547879003,2147483647,B,1700,implementation,Mandir_Wahi_Banayenge,Java 8,186,3276800
+48558376,7,1547878983,2147483647,A,1300,brute force-constructive algorithms,Mandir_Wahi_Banayenge,Java 8,218,3174400
+47240877,7,1545183009,2147483647,A,1300,brute force-constructive algorithms,NVC541,Java 8,216,3584000
+47232603,7,1545158997,2147483647,A,1300,brute force-constructive algorithms,chriscode_8,Java 8,186,3686400
+46784590,7,1544333519,2147483647,A,1300,brute force-constructive algorithms,brandon71901,Java 8,218,3584000
+46619287,7,1543941784,2147483647,C,1800,math-number theory,KulikAlex,Java 8,248,0
+46595328,7,1543934890,2147483647,A,1300,brute force-constructive algorithms,Keti13,Java 8,218,3686400
+46272029,7,1543308780,2147483647,A,1300,brute force-constructive algorithms,Antony_w,Java 8,186,3584000
+46185862,7,1543096044,2147483647,D,2200,hashing-strings,BiIIy,Java 8,904,70451200
+46122398,7,1542992357,2147483647,C,1800,math-number theory,Laboon,Java 8,218,0
+46006636,7,1542734414,2147483647,D,2200,hashing-strings,omarnvidia,Java 8,436,33177600
+45978058,7,1542657836,2147483647,D,2200,hashing-strings,Ahmad,Java 8,528,58265600
+45978023,7,1542657739,2147483647,D,2200,hashing-strings,Ahmad,Java 8,716,58470400
+45667300,7,1542097509,2147483647,C,1800,math-number theory,coolmaksat,Java 8,404,0
+45205930,7,1541162649,2147483647,A,1300,brute force-constructive algorithms,vjudge2,Java 8,218,3686400
+44949165,7,1540638975,2147483647,B,1700,implementation,WDker,Java 8,218,3686400
+44288513,7,1539506537,2147483647,A,1300,brute force-constructive algorithms,vjudge4,Java 8,216,3686400
+43086558,7,1537374236,2147483647,A,1300,brute force-constructive algorithms,GreatWhite,Java 8,248,3174400
+42351117,7,1535865599,2147483647,A,1300,brute force-constructive algorithms,AmmarKayaliite,Java 8,280,3584000
+41895112,7,1534755801,2147483647,A,1300,brute force-constructive algorithms,Airung,Java 8,404,3584000
+41630118,7,1534353958,2147483647,A,1300,brute force-constructive algorithms,vjudge5,Java 8,280,3584000
+41609682,7,1534311747,2147483647,A,1300,brute force-constructive algorithms,vjudge1,Java 8,312,3584000
+40698350,7,1532423386,2147483647,A,1300,brute force-constructive algorithms,Naman_123,Java 8,280,3686400
+40180501,7,1531246887,2147483647,A,1300,brute force-constructive algorithms,suppio,Java 8,248,3174400
+40180387,7,1531246466,2147483647,A,1300,brute force-constructive algorithms,suppio,Java 8,248,3174400
+39597775,7,1529834134,2147483647,A,1300,brute force-constructive algorithms,sancho20021,Java 8,342,3584000
+39504214,7,1529633822,2147483647,A,1300,brute force-constructive algorithms,Kyrie_,Java 8,404,3584000
+39185907,7,1528794379,2147483647,A,1300,brute force-constructive algorithms,adibbatous,Java 8,310,3584000
+39083311,7,1528606465,2147483647,C,1800,math-number theory,Mazen_Tarek,Java 8,248,0
+38765309,7,1527668534,2147483647,B,1700,implementation,skywalker212,Java 8,340,26214400
+38763474,7,1527664629,2147483647,A,1300,brute force-constructive algorithms,skywalker212,Java 8,372,26214400
+38617881,7,1527281507,2147483647,A,1300,brute force-constructive algorithms,ShashankGoel.IITD,Java 8,280,3584000
+38579632,7,1527147744,2147483647,E,2500,dp-expression parsing-implementation,WlkMiCjKrT2rM5xv9k5AaIaa,Java 8,280,0
+37592621,7,1524649247,2147483647,B,1700,implementation,SevenDeadlySins,Java 8,248,26009600
+37557446,7,1524508790,2147483647,A,1300,brute force-constructive algorithms,flowshu,Java 8,310,26112000
+36856425,7,1522603565,2147483647,A,1300,brute force-constructive algorithms,SevenDeadlySins,Java 8,280,25907200
+36784266,7,1522532522,2147483647,A,1300,brute force-constructive algorithms,Anonymous,Java 8,310,26112000
+36509644,7,1521736675,2147483647,A,1300,brute force-constructive algorithms,KulikAlex,Java 8,248,26009600
+35925266,7,1520173003,2147483647,A,1300,brute force-constructive algorithms,anto777,Java 8,248,26009600
+35902348,7,1520112838,2147483647,A,1300,brute force-constructive algorithms,nbohdan999,Java 8,280,26112000
+35650114,7,1519485099,2147483647,C,1800,math-number theory,vjudge4,Java 8,310,20992000
+35649576,7,1519484135,2147483647,C,1800,math-number theory,vjudge4,Java 8,312,21094400
+35640749,7,1519471170,2147483647,B,1700,implementation,vjudge5,Java 8,310,26112000
+35640620,7,1519471101,2147483647,B,1700,implementation,vjudge4,Java 8,310,26112000
+35620065,7,1519465095,2147483647,A,1300,brute force-constructive algorithms,vjudge1,Java 8,342,26112000
+35586064,7,1519346377,2147483647,C,1800,math-number theory,Nesrin,Java 8,310,20992000
+35338672,7,1518787821,2147483647,B,1700,implementation,Nesrin,Java 8,280,26009600
+35290477,7,1518693255,2147483647,B,1700,implementation,lehar_11,Java 8,310,26316800
+35289356,7,1518690657,2147483647,A,1300,brute force-constructive algorithms,lehar_11,Java 8,280,26112000
+35181625,7,1518447715,2147483647,B,1700,implementation,Anonymous,Java 8,312,26112000
+35162875,7,1518379651,2147483647,B,1700,implementation,Ulyrssef,Java 8,248,26009600
+35135616,7,1518291105,2147483647,B,1700,implementation,mennafadali,Java 8,248,20275200
+35094016,7,1518187367,2147483647,B,1700,implementation,Ahmad_Elsagheer,Java 8,248,26009600
+34998766,7,1518008080,2147483647,A,1300,brute force-constructive algorithms,bystr1k,Java 8,342,20787200
+34998650,7,1518007852,2147483647,A,1300,brute force-constructive algorithms,Sallfet,Java 8,280,26112000
+34911905,7,1517708402,2147483647,E,2500,dp-expression parsing-implementation,youtarou,Java 8,248,20684800
+34561625,7,1516930910,2510,B,1700,implementation,totallynotan,Java 8,310,26214400
+34561214,7,1516928955,555,A,1300,brute force-constructive algorithms,totallynotan,Java 8,280,26112000
+34232935,7,1516136912,2147483647,A,1300,brute force-constructive algorithms,Aya_Mohammed,Java 8,312,20684800
+34184929,7,1515965364,2147483647,C,1800,math-number theory,Zer0Point,Java 8,248,20684800
+33981563,7,1515323963,2147483647,D,2200,hashing-strings,HenryGau,Java 8,498,60518400
+33826852,7,1514706116,2147483647,A,1300,brute force-constructive algorithms,Already,Java 8,248,26009600
+33794374,7,1514577832,2147483647,A,1300,brute force-constructive algorithms,CharlesDai,Java 8,248,26009600
+33244578,7,1513266188,2147483647,C,1800,math-number theory,HardikDobariya,Java 8,248,20889600
+33244005,7,1513264877,2147483647,B,1700,implementation,HardikDobariya,Java 8,248,20480000
+33227114,7,1513207014,414,A,1300,brute force-constructive algorithms,HardikDobariya,Java 8,248,26214400
+33089876,7,1512972292,2147483647,C,1800,math-number theory,tickey,Java 8,310,20992000
+32510200,7,1511208426,2147483647,C,1800,math-number theory,akshaykg42,Java 8,310,0
+32454930,7,1511090399,2147483647,D,2200,hashing-strings,youtarou,Java 8,684,153600000
+32142881,7,1510158891,2147483647,A,1300,brute force-constructive algorithms,Codeforce_123,Java 8,280,3686400
+32127434,7,1510077654,2147483647,A,1300,brute force-constructive algorithms,Abhi99,Java 8,280,3379200
+31528731,7,1508493014,2147483647,D,2200,hashing-strings,vjudge1,Java 8,716,141516800
+31527129,7,1508488333,2147483647,D,2200,hashing-strings,tomdmitriev,Java 8,778,133427200
+31300030,7,1507974048,2147483647,A,1300,brute force-constructive algorithms,ashcodish,Java 8,248,3686400
+30830173,7,1506691040,2147483647,A,1300,brute force-constructive algorithms,skywatcher,Java 8,218,3379200
+30660653,7,1506243133,2147483647,C,1800,math-number theory,youtarou,Java 8,218,0
+30572258,7,1505985762,2147483647,A,1300,brute force-constructive algorithms,katemamba,Java 8,218,3481600
+30548101,7,1505916497,2147483647,A,1300,brute force-constructive algorithms,captainTurtle,Java 8,248,3584000
+30491083,7,1505808081,2147483647,A,1300,brute force-constructive algorithms,RelyOnTheTruth,Java 8,280,3584000
+30122949,7,1504673684,2147483647,D,2200,hashing-strings,dedo,Java 8,404,36352000
+30121693,7,1504667306,2147483647,D,2200,hashing-strings,dedo,Java 8,436,36352000
+30121542,7,1504666524,2147483647,D,2200,hashing-strings,dedo,Java 8,436,36352000
+30021676,7,1504392933,2147483647,A,1300,brute force-constructive algorithms,MQstafa,Java 8,280,3686400
+29851912,7,1503944015,2147483647,C,1800,math-number theory,praveenkulkarni,Java 8,312,0
+29842427,7,1503913324,2147483647,B,1700,implementation,praveenkulkarni,Java 8,280,3686400
+29834727,7,1503866921,2147483647,C,1800,math-number theory,dedo,Java 8,280,0
+29828118,7,1503842631,2147483647,A,1300,brute force-constructive algorithms,castiel123,Java 8,280,3481600
+29824931,7,1503832273,2147483647,A,1300,brute force-constructive algorithms,praveenkulkarni,Java 8,248,3584000
+29667213,7,1503344590,2147483647,B,1700,implementation,dedo,Java 8,312,3584000
+29623002,7,1503238216,2147483647,A,1300,brute force-constructive algorithms,dedo,Java 8,248,3584000
+29555309,7,1503066094,2147483647,B,1700,implementation,youtarou,Java 8,218,3276800
+29369675,7,1502517767,2147483647,A,1300,brute force-constructive algorithms,moemen.alawad,Java 8,280,20480000
+29369493,7,1502517164,2147483647,A,1300,brute force-constructive algorithms,Zacle07,Java 8,248,20480000
+29236425,7,1502007872,2147483647,A,1300,brute force-constructive algorithms,youtarou,Java 8,218,19865600
+29034448,7,1501473234,2147483647,A,1300,brute force-constructive algorithms,Dwu123,Java 8,248,20172800
+29013189,7,1501430632,2147483647,B,1700,implementation,vuminhquang1997,Java 8,278,20787200
+28932545,7,1501166144,2147483647,A,1300,brute force-constructive algorithms,katooshka,Java 8,218,20172800
+28929600,7,1501156963,2147483647,D,2200,hashing-strings,vasste,Java 8,716,193536000
+28298195,7,1499241395,2147483647,B,1700,implementation,tomdmitriev,Java 8,218,25804800
+28248877,7,1499069959,2147483647,C,1800,math-number theory,vasste,Java 8,280,20889600
+28112757,7,1498643602,2147483647,A,1300,brute force-constructive algorithms,wanchai_chai,Java 8,310,26214400
+28112675,7,1498643307,2147483647,A,1300,brute force-constructive algorithms,vjudge5,Java 8,310,26112000
+27908696,7,1497889360,2147483647,C,1800,math-number theory,ashubeckham,Java 8,218,0
+27905809,7,1497879557,2147483647,B,1700,implementation,ashubeckham,Java 8,186,3174400
+27873381,7,1497746665,2147483647,A,1300,brute force-constructive algorithms,huangzr,Java 8,374,3584000
+27486266,7,1496325841,2147483647,C,1800,math-number theory,dftte,Java 8,248,0
+27430123,7,1496065365,2147483647,B,1700,implementation,vasste,Java 8,278,3686400
+27417689,7,1495994070,2147483647,A,1300,brute force-constructive algorithms,vasste,Java 8,248,3584000
+27152771,7,1494919798,2147483647,C,1800,math-number theory,ashwin9686,Java 8,218,0
+27070344,7,1494659864,2864,B,1700,implementation,ashwin9686,Java 8,216,3584000
+27069817,7,1494658125,1125,A,1300,brute force-constructive algorithms,ashwin9686,Java 8,218,3584000
+26807461,7,1493749172,2147483647,A,1300,brute force-constructive algorithms,pitfall,Java 8,248,26112000
+26528455,7,1492736245,2147483647,C,1800,math-number theory,pppepito86,Java 8,248,20889600
+26528114,7,1492733312,2147483647,C,1800,math-number theory,pppepito86,Java 8,248,20889600
+26495374,7,1492605339,2147483647,D,2200,hashing-strings,catchup,Java 8,498,113356800
+26494776,7,1492603658,2147483647,D,2200,hashing-strings,kunal_64,Java 8,404,58880000
+26493788,7,1492600592,2147483647,D,2200,hashing-strings,Kammola,Java 8,808,133427200
+26493476,7,1492599553,2147483647,D,2200,hashing-strings,Kammola,Java 8,872,173465600
+26463765,7,1492460162,2147483647,B,1700,implementation,ribak,Java 8,280,26214400
+26446010,7,1492405813,2147483647,A,1300,brute force-constructive algorithms,vjudge1,Java 8,248,26112000
+25432497,7,1489317102,2147483647,C,1800,math-number theory,tomdmitriev,Java 8,216,20275200
+25410794,7,1489247310,2147483647,A,1300,brute force-constructive algorithms,vjudge1,Java 8,248,26214400
+24881806,7,1487716730,2147483647,B,1700,implementation,charan_med,Java 8,374,26214400
+24878214,7,1487701629,4329,A,1300,brute force-constructive algorithms,charan_med,Java 8,342,26214400
+24811101,7,1487540074,2147483647,D,2200,hashing-strings,G.Mohamed,Java 8,904,153804800
+24787343,7,1487443838,2147483647,D,2200,hashing-strings,vircontest,Java 8,998,153804800
+24529918,7,1486566260,2147483647,A,1300,brute force-constructive algorithms,mahmoudsaa,Java 8,310,26112000
+24462169,7,1486354181,2147483647,A,1300,brute force-constructive algorithms,Mahakarma,Java 8,218,26112000
+24456958,7,1486317964,2147483647,A,1300,brute force-constructive algorithms,radwasherif3,Java 8,248,26112000
+24440394,7,1486237086,2147483647,C,1800,math-number theory,dubrovskieddie,Java 8,280,20992000
+23975152,7,1484863826,2147483647,D,2200,hashing-strings,melnique,Java 8,560,92364800
+23974695,7,1484861281,2147483647,D,2200,hashing-strings,roman.khlystik,Java 8,466,58880000
+23867257,7,1484510275,2147483647,D,2200,hashing-strings,hcoa,Java 8,716,114073600
+23861829,7,1484505046,2147483647,D,2200,hashing-strings,kyrylhol,Java 8,842,59289600
+23648833,7,1483890086,2147483647,A,1300,brute force-constructive algorithms,Yahima,Java 8,310,26214400
+23610175,7,1483727150,2147483647,A,1300,brute force-constructive algorithms,BumBumOpOp,Java 8,280,26214400
+23562874,7,1483649648,2147483647,A,1300,brute force-constructive algorithms,lusine.petrosyan1,Java 8,248,26316800
+23559704,7,1483637119,2147483647,D,2200,hashing-strings,dzharvis,Java 8,404,56115200
+23372953,7,1482911471,2147483647,B,1700,implementation,ishanchawla,Java 8,280,26419200
+23372722,7,1482910615,2147483647,B,1700,implementation,ishanchawla,Java 8,342,26419200
+23329438,7,1482703655,2147483647,D,2200,hashing-strings,Japanspy,Java 8,934,113356800
+23263613,7,1482555994,2147483647,A,1300,brute force-constructive algorithms,ishanchawla,Java 8,312,26419200
+23215726,7,1482370166,2147483647,D,2200,hashing-strings,alyaxey,Java 8,498,58880000
+22585046,7,1480366643,2147483647,A,1300,brute force-constructive algorithms,poco,Java 8,218,3584000
+22333164,7,1479572389,2147483647,E,2500,dp-expression parsing-implementation,vjudge3,Java 8,342,0
+22141212,7,1478748723,2147483647,A,1300,brute force-constructive algorithms,Vaild,Java 8,278,3686400
+22021199,7,1478200703,2147483647,C,1800,math-number theory,Corvus,Java 8,248,0
+21996155,7,1478102084,2147483647,E,2500,dp-expression parsing-implementation,fengdalu,Java 8,280,0
+21996041,7,1478101818,2147483647,E,2500,dp-expression parsing-implementation,fengdalu,Java 8,278,0
+21981536,7,1478059527,2147483647,E,2500,dp-expression parsing-implementation,SonodaUmi,Java 8,404,0
+21809971,7,1477527517,2147483647,B,1700,implementation,Vaild,Java 8,278,3788800
+21625596,7,1476987703,2147483647,B,1700,implementation,harish.sharma,Java 8,186,3276800
+21623035,7,1476981149,2147483647,A,1300,brute force-constructive algorithms,harish.sharma,Java 8,218,3379200
+21466675,7,1476561525,2147483647,A,1300,brute force-constructive algorithms,kuzAnatoliy,Java 8,248,26112000
+21442788,7,1476522213,2147483647,C,1800,math-number theory,luisligunas,Java 8,218,20480000
+21441093,7,1476516175,2147483647,C,1800,math-number theory,hadrianang,Java 8,248,20172800
+20998218,7,1475167043,2147483647,D,2200,hashing-strings,I_Need_Alex_R_Coleman,Java 8,840,110694400
+20945289,7,1474978417,2147483647,D,2200,hashing-strings,alexrcoleman,Java 8,684,118579200
+20945208,7,1474978196,2147483647,D,2200,hashing-strings,alexrcoleman,Java 8,904,110592000
+20779971,7,1474386957,2147483647,A,1300,brute force-constructive algorithms,Qazaqstan,Java 8,186,3481600
+20711940,7,1474127674,2147483647,B,1700,implementation,lehar,Java 8,248,3584000
+20711886,7,1474127346,2147483647,A,1300,brute force-constructive algorithms,lehar,Java 8,218,3584000
+20304651,7,1472651349,2147483647,A,1300,brute force-constructive algorithms,Derino,Java 8,466,3686400
+19755220,7,1470781475,2147483647,A,1300,brute force-constructive algorithms,slicedclementines,Java 8,156,25804800
+19733773,7,1470677729,2147483647,C,1800,math-number theory,slicedclementines,Java 8,248,20172800
+19613191,7,1470306135,2147483647,A,1300,brute force-constructive algorithms,Youmna_Elghandoor,Java 8,186,3481600
+19600450,7,1470236891,2147483647,A,1300,brute force-constructive algorithms,Kharouba,Java 8,218,3481600
+19600353,7,1470236581,2147483647,A,1300,brute force-constructive algorithms,Ahmed.Shawky,Java 8,186,3481600
+19599592,7,1470233984,2147483647,A,1300,brute force-constructive algorithms,m3eeza,Java 8,218,3584000
+19599283,7,1470233056,2147483647,A,1300,brute force-constructive algorithms,hala333,Java 8,186,3481600
+19599232,7,1470232893,2147483647,A,1300,brute force-constructive algorithms,Minaa,Java 8,186,3276800
+19105968,7,1468494706,2147483647,A,1300,brute force-constructive algorithms,hala333,Java 7,216,0
+19050843,7,1468326472,2147483647,A,1300,brute force-constructive algorithms,Harsh_Harry,Java 8,342,3584000
+18709425,7,1466799916,2147483647,C,1800,math-number theory,arrrhh,Java 8,310,0
+18296092,7,1465379485,2147483647,A,1300,brute force-constructive algorithms,PowerCoder,Java 8,218,26316800
+18249996,7,1465084079,2147483647,A,1300,brute force-constructive algorithms,Mohamed_KHLY,Java 7,216,38707200
+18243706,7,1465044013,2147483647,A,1300,brute force-constructive algorithms,OmarRadwan,Java 8,186,26112000
+18224185,7,1464910315,2147483647,A,1300,brute force-constructive algorithms,Omar_Kojak,Java 8,186,25907200
+18170318,7,1464705967,2147483647,A,1300,brute force-constructive algorithms,alaa_megahed,Java 8,248,26112000
+18155466,7,1464604375,2147483647,A,1300,brute force-constructive algorithms,Sherifmohamed1996,Java 8,218,26214400
+18152237,7,1464572581,2147483647,A,1300,brute force-constructive algorithms,michaelreda96,Java 8,248,26112000
+18149159,7,1464539177,2147483647,A,1300,brute force-constructive algorithms,Amr_Ayman,Java 8,218,26214400
+18148548,7,1464534675,2147483647,A,1300,brute force-constructive algorithms,hady1100,Java 8,186,25907200
+18144973,7,1464520233,2147483647,A,1300,brute force-constructive algorithms,mohamedazab,Java 8,186,26112000
+18144458,7,1464517310,2147483647,A,1300,brute force-constructive algorithms,ahmed_helmy,Java 8,186,26112000
+18144329,7,1464516581,2147483647,A,1300,brute force-constructive algorithms,hejaziak,Java 7,248,38604800
+18144193,7,1464515955,2147483647,A,1300,brute force-constructive algorithms,seif_hussam,Java 8,156,25907200
+18144190,7,1464515926,2147483647,A,1300,brute force-constructive algorithms,aboushawareb,Java 7,218,38502400
+18143979,7,1464514904,2147483647,A,1300,brute force-constructive algorithms,Minaa,Java 8,186,25907200
+18143924,7,1464514618,2147483647,A,1300,brute force-constructive algorithms,yasmineamr,Java 8,218,26112000
+18143827,7,1464514093,2147483647,A,1300,brute force-constructive algorithms,biba96,Java 8,218,26112000
+18143813,7,1464514012,2147483647,A,1300,brute force-constructive algorithms,Imaginary,Java 8,186,25907200
+18143792,7,1464513899,2147483647,A,1300,brute force-constructive algorithms,Hoda_Hisham,Java 8,248,25907200
+18143774,7,1464513837,2147483647,A,1300,brute force-constructive algorithms,mona_hashem,Java 8,248,26214400
+18143710,7,1464513466,2147483647,A,1300,brute force-constructive algorithms,ahmedayman96,Java 8,156,26112000
+18143680,7,1464513278,2147483647,A,1300,brute force-constructive algorithms,mariem_kandil,Java 8,186,26112000
+18143636,7,1464513073,2147483647,A,1300,brute force-constructive algorithms,Omar_Morsi,Java 8,186,25907200
+18143536,7,1464512533,2147483647,A,1300,brute force-constructive algorithms,AhmedSoliman,Java 8,184,26112000
+18143535,7,1464512522,2147483647,A,1300,brute force-constructive algorithms,abdo_shabrawy,Java 8,186,25907200
+18129509,7,1464428039,2147483647,A,1300,brute force-constructive algorithms,gw111zz,Java 7,248,38912000
+17979276,7,1463573358,2147483647,A,1300,brute force-constructive algorithms,danuwfna,Java 8,218,26112000
+17826632,7,1462848787,2147483647,A,1300,brute force-constructive algorithms,Fatemeh,Java 8,186,26112000
+17749925,7,1462483425,2147483647,A,1300,brute force-constructive algorithms,phillipp,Java 7,218,39014400
+17709938,7,1462373819,2147483647,A,1300,brute force-constructive algorithms,Ahmad_Elsagheer,Java 8,186,25907200
+17708971,7,1462369291,2147483647,A,1300,brute force-constructive algorithms,wonkyoung711,Java 7,218,38912000
+17478583,7,1461493794,2147483647,A,1300,brute force-constructive algorithms,OWSA,Java 7,248,49459200
+17292410,7,1460478125,2147483647,A,1300,brute force-constructive algorithms,AJ_Coder,Java 7,216,8396800
+17290014,7,1460466189,2147483647,A,1300,brute force-constructive algorithms,AJ_Coder,Java 7,248,0
+16595379,7,1457411736,2147483647,A,1300,brute force-constructive algorithms,neroargos,Java 7,248,0
+16581232,7,1457351936,2147483647,A,1300,brute force-constructive algorithms,Zer0Point,Java 7,218,0
+16550542,7,1457260553,2147483647,A,1300,brute force-constructive algorithms,yrjie,Java 7,248,0
+16534869,7,1457184776,2147483647,A,1300,brute force-constructive algorithms,roben_76,Java 8,280,0
+16516620,7,1457101103,2147483647,A,1300,brute force-constructive algorithms,AliaAbdelnassr,Java 8,278,0
+16379268,7,1456568728,2147483647,A,1300,brute force-constructive algorithms,vjudge4,Java 7,280,0
+16064524,7,1455674943,2147483647,A,1300,brute force-constructive algorithms,apikeda,Java 8,372,0
+16063839,7,1455667589,2147483647,A,1300,brute force-constructive algorithms,klin,Java 8,280,0
+16063618,7,1455665319,2147483647,A,1300,brute force-constructive algorithms,bwang95,Java 8,310,0
+16053014,7,1455612948,2147483647,A,1300,brute force-constructive algorithms,anjie,Java 7,248,0
+16045590,7,1455599590,2147483647,A,1300,brute force-constructive algorithms,chris.denny,Java 7,248,0
+16043456,7,1455583743,2147483647,A,1300,brute force-constructive algorithms,rishihahs,Java 8,248,0
+16043146,7,1455580129,2147483647,A,1300,brute force-constructive algorithms,dbthaker,Java 8,248,0
+16040040,7,1455569722,2147483647,A,1300,brute force-constructive algorithms,chrisyhsun,Java 8,278,0
+16022030,7,1455473290,2147483647,A,1300,brute force-constructive algorithms,brdleyb,Java 8,280,0
+16020964,7,1455468382,2147483647,A,1300,brute force-constructive algorithms,stevenzc,Java 8,248,0
+16017382,7,1455451108,2147483647,A,1300,brute force-constructive algorithms,Vincent_and_Kompany,Java 8,280,0
+16012378,7,1455423552,2147483647,A,1300,brute force-constructive algorithms,lincolnturner,Java 8,248,0
+16011551,7,1455416075,2147483647,A,1300,brute force-constructive algorithms,prabhat.nagarajan,Java 8,280,0
+16011544,7,1455415999,2147483647,A,1300,brute force-constructive algorithms,prabhat.nagarajan,Java 8,248,0
+16011489,7,1455415339,2147483647,A,1300,brute force-constructive algorithms,rperce,Java 8,374,0
+15979900,7,1455320986,2147483647,A,1300,brute force-constructive algorithms,giladoved,Java 8,280,0
+15963728,7,1455222760,2147483647,A,1300,brute force-constructive algorithms,zeehow,Java 8,248,0
+15962475,7,1455217263,2147483647,A,1300,brute force-constructive algorithms,cjkim,Java 7,186,0
+15962092,7,1455215864,2147483647,A,1300,brute force-constructive algorithms,osson1,Java 8,218,0
+15927260,7,1455099403,2147483647,A,1300,brute force-constructive algorithms,Mohamed_Assem,Java 8,310,0
+15905656,7,1454995223,2147483647,A,1300,brute force-constructive algorithms,kavsub,Java 7,218,0
+15500607,7,1453476544,2147483647,A,1300,brute force-constructive algorithms,jxk,Java 7,218,0
+15220455,7,1452138420,2147483647,A,1300,brute force-constructive algorithms,safarisoul,Java 8,248,0
+15143272,7,1451603574,2147483647,B,1700,implementation,HappyNewYearMike,Java 8,280,0
+15079463,7,1451362452,2147483647,A,1300,brute force-constructive algorithms,AUR,Java 8,218,0
+15020046,7,1451064695,2147483647,B,1700,implementation,vanloi999,Java 7,248,0
+14989424,7,1450976887,2147483647,A,1300,brute force-constructive algorithms,vanloi999,Java 7,218,0
+14894203,7,1450589212,2147483647,A,1300,brute force-constructive algorithms,partha_sarathi,Java 8,312,0
+14868177,7,1450472259,2147483647,A,1300,brute force-constructive algorithms,edorundo,Java 8,280,0
+14683919,7,1449478035,2147483647,A,1300,brute force-constructive algorithms,.counter,Java 8,278,0
+14621213,7,1449067659,2147483647,B,1700,implementation,.counter,Java 8,310,0
+14335134,7,1447891319,2147483647,E,2500,dp-expression parsing-implementation,mkirsche,Java 8,280,0
+14323215,7,1447837871,2147483647,B,1700,implementation,bnuvjudge2,Java 7,280,0
+14323202,7,1447837784,2147483647,B,1700,implementation,quailty,Java 8,278,0
+14322584,7,1447834659,2147483647,B,1700,implementation,Infinity25,Java 8,278,0
+14315030,7,1447774247,2147483647,B,1700,implementation,Green_Hand,Java 7,248,0
+14307099,7,1447727831,2147483647,A,1300,brute force-constructive algorithms,Ahmadjon,Java 7,342,0
+14219461,7,1447361326,1426,C,1800,math-number theory,karel,Java 8,280,0
+14219296,7,1447360241,341,A,1300,brute force-constructive algorithms,karel,Java 8,248,0
+14217308,7,1447348441,2147483647,C,1800,math-number theory,karel,Java 8,310,0
+14216389,7,1447344144,2147483647,A,1300,brute force-constructive algorithms,karel,Java 8,310,0
+14161730,7,1447016731,2147483647,C,1800,math-number theory,2357,Java 7,216,0
+14161223,7,1447013798,2147483647,B,1700,implementation,2357,Java 7,218,0
+14129345,7,1446923407,2147483647,A,1300,brute force-constructive algorithms,2357,Java 7,218,0
+14100313,7,1446792934,2147483647,B,1700,implementation,perillasy,Java 8,218,0
+13890688,7,1445950940,2147483647,D,2200,hashing-strings,di_halt,Java 8,746,57753600
+13720908,7,1445221216,2147483647,A,1300,brute force-constructive algorithms,lovestory2411,Java 7,186,0
+13535504,7,1444507416,2147483647,D,2200,hashing-strings,ATailouloute,Java 7,684,164044800
+13397952,7,1443946754,2147483647,A,1300,brute force-constructive algorithms,forgetfulness,Java 8,280,0
+13306685,7,1443568011,2147483647,A,1300,brute force-constructive algorithms,eslammb,Java 8,342,0
+13302351,7,1443546974,2147483647,A,1300,brute force-constructive algorithms,eslambahgat,Java 8,342,0
+13237039,7,1443275140,2147483647,C,1800,math-number theory,Yeison_Garcia,Java 7,154,0
+13236736,7,1443273884,2147483647,B,1700,implementation,zodiacleo,Java 7,154,0
+13218134,7,1443182520,2147483647,A,1300,brute force-constructive algorithms,Geno1024,Java 8,280,0
+13198172,7,1443065572,2147483647,A,1300,brute force-constructive algorithms,Kaelin,Java 8,248,0
+13197901,7,1443063100,2147483647,A,1300,brute force-constructive algorithms,rdatta,Java 8,248,0
+13197677,7,1443061048,2147483647,A,1300,brute force-constructive algorithms,jymin94,Java 8,248,0
+13197519,7,1443059997,2147483647,A,1300,brute force-constructive algorithms,kltang,Java 8,248,0
+13197124,7,1443057092,2147483647,A,1300,brute force-constructive algorithms,hayleycall,Java 7,186,0
+13196618,7,1443053186,2147483647,A,1300,brute force-constructive algorithms,kaelenhaag,Java 7,156,0
+13196612,7,1443053130,2147483647,A,1300,brute force-constructive algorithms,kaelenhaag,Java 7,186,0
+13180500,7,1442995093,2147483647,A,1300,brute force-constructive algorithms,ben.lin9,Java 7,186,0
+13180495,7,1442995061,2147483647,A,1300,brute force-constructive algorithms,Jleung,Java 8,280,0
+13178368,7,1442985289,2147483647,A,1300,brute force-constructive algorithms,DPortillo821,Java 7,186,0
+13178334,7,1442985153,2147483647,A,1300,brute force-constructive algorithms,haleyowen,Java 7,186,0
+13162250,7,1442943938,2147483647,A,1300,brute force-constructive algorithms,chaseterry,Java 8,248,0
+13135482,7,1442899529,2147483647,A,1300,brute force-constructive algorithms,idjango,Java 8,218,0
+13135122,7,1442896924,2147483647,A,1300,brute force-constructive algorithms,WiNDWAY,Java 8,280,0
+13134693,7,1442892627,2147483647,A,1300,brute force-constructive algorithms,falafelizer,Java 8,280,0
+13134686,7,1442892582,2147483647,A,1300,brute force-constructive algorithms,falafelizer,Java 8,310,0
+13134657,7,1442892284,2147483647,A,1300,brute force-constructive algorithms,ryanr1230,Java 8,280,0
+13115723,7,1442760346,2147483647,A,1300,brute force-constructive algorithms,hownl96,Java 7,184,0
+13105670,7,1442684424,2147483647,A,1300,brute force-constructive algorithms,trocha,Java 8,248,0
+13104638,7,1442679293,2147483647,A,1300,brute force-constructive algorithms,Gilbertm,Java 7,156,0
+13094080,7,1442615241,2147483647,A,1300,brute force-constructive algorithms,ryanzabcik,Java 7,156,0
+13089212,7,1442591224,2147483647,A,1300,brute force-constructive algorithms,MentalMegalodon,Java 7,156,0
+13081433,7,1442559186,2147483647,A,1300,brute force-constructive algorithms,andreassudihardjo,Java 8,280,0
+13080075,7,1442548989,2147483647,A,1300,brute force-constructive algorithms,vchang1,Java 8,310,0
+13075542,7,1442518941,2147483647,A,1300,brute force-constructive algorithms,mykobob,Java 7,156,0
+13075157,7,1442516778,2147483647,C,1800,math-number theory,ambar003,Java 8,218,0
+12990893,7,1442188472,2147483647,A,1300,brute force-constructive algorithms,Nirmit13cs30,Java 8,218,0
+12745436,7,1440861814,2147483647,D,2200,hashing-strings,f_rubilar,Java 7,716,208896000
+12727762,7,1440744541,2147483647,D,2200,hashing-strings,JPaulsen,Java 7,748,158822400
+12701921,7,1440544871,2147483647,C,1800,math-number theory,fiter,Java 8,248,0
+12642854,7,1440249652,2147483647,B,1700,implementation,cool_handle_much_wow,Java 8,280,0
+12551792,7,1439666731,2147483647,D,2200,hashing-strings,lajjyboy,Java 7,436,37580800
+12485896,7,1439431122,2147483647,B,1700,implementation,lajjyboy,Java 7,186,0
+12485883,7,1439430953,2147483647,B,1700,implementation,lajjyboy,Java 7,186,0
+12474082,7,1439358102,2147483647,A,1300,brute force-constructive algorithms,lajjyboy,Java 7,156,0
+12394948,7,1438900384,2147483647,D,2200,hashing-strings,mkauer,Java 7,530,77209600
+12340837,7,1438705215,2147483647,A,1300,brute force-constructive algorithms,.tx,Java 8,218,0
+12246417,7,1438048291,2147483647,C,1800,math-number theory,kws4679,Java 7,184,0
+11956611,7,1436252164,2147483647,A,1300,brute force-constructive algorithms,ZoeCUR,Java 7,186,0
+11867900,7,1435686110,2147483647,A,1300,brute force-constructive algorithms,TWO_POINTER,Java 7,186,0
+11833825,7,1435567246,2147483647,D,2200,hashing-strings,Slamur,Java 8,808,148684800
+11677851,7,1434780271,2147483647,D,2200,hashing-strings,marcose18,Java 7,998,208896000
+11617168,7,1434532451,2147483647,A,1300,brute force-constructive algorithms,fares,Java 7,156,0
+11608931,7,1434468505,2147483647,A,1300,brute force-constructive algorithms,a2910,Java 7,186,0
+11537861,7,1434056638,2147483647,A,1300,brute force-constructive algorithms,sweiss,Java 8,218,0
+11526984,7,1433984253,2147483647,A,1300,brute force-constructive algorithms,chessnuts,Java 8,248,0
+11489267,7,1433690242,2147483647,A,1300,brute force-constructive algorithms,cellist,Java 8,278,0
+11483664,7,1433665585,2147483647,A,1300,brute force-constructive algorithms,IrhamMA,Java 7,156,0
+11406924,7,1433364953,2147483647,B,1700,implementation,cool_handle_much_wow,Java 8,280,0
+11338236,7,1432841721,2147483647,E,2500,dp-expression parsing-implementation,Amr_Hassan,Java 8,280,0
+11177009,7,1432122604,2147483647,A,1300,brute force-constructive algorithms,aakashkhatri,Java 7,154,0
+11171222,7,1432085630,2147483647,A,1300,brute force-constructive algorithms,zhenyiluo,Java 8,310,0
+11144850,7,1432044466,2147483647,D,2200,hashing-strings,mkirsche,Java 7,560,123699200
+10979062,7,1430613617,2147483647,D,2200,hashing-strings,Lyserg.Z,Java 8,810,238489600
+10924409,7,1430271398,2147483647,D,2200,hashing-strings,OmniSliver,Java 7,778,257024000
+10914213,7,1430178324,2147483647,D,2200,hashing-strings,cristobal_munoz,Java 7,998,261427200
+10864783,7,1430007772,2147483647,A,1300,brute force-constructive algorithms,votick,Java 8,248,28364800
+10851762,7,1429902078,2147483647,D,2200,hashing-strings,cc4000,Java 7,778,256921600
+10839754,7,1429813981,2147483647,E,2500,dp-expression parsing-implementation,dspstanky,Java 7,156,47411200
+10795674,7,1429520200,2147483647,C,1800,math-number theory,msaldivar,Java 8,218,28569600
+10794917,7,1429514663,2147483647,B,1700,implementation,msaldivar,Java 8,248,28569600
+10776286,7,1429422254,2147483647,B,1700,implementation,poikniok,Java 8,218,28569600
+10776218,7,1429421918,2147483647,B,1700,implementation,poikniok,Java 8,218,28569600
+10724039,7,1429046656,2147483647,B,1700,implementation,dspstanky,Java 7,156,0
+10698790,7,1428962424,2147483647,C,1800,math-number theory,dspstanky,Java 7,154,0
+10657562,7,1428755337,2147483647,A,1300,brute force-constructive algorithms,hypo_code,Java 8,278,0
+10642842,7,1428602668,2147483647,A,1300,brute force-constructive algorithms,Silverdoe,Java 8,248,0
+10642703,7,1428601520,2147483647,A,1300,brute force-constructive algorithms,rylaur,Java 8,218,0
+10642186,7,1428597666,2147483647,A,1300,brute force-constructive algorithms,sea_dog,Java 8,186,0
+10638438,7,1428573346,2147483647,A,1300,brute force-constructive algorithms,DarkMatter70,Java 8,218,0
+10637699,7,1428567835,2147483647,A,1300,brute force-constructive algorithms,msaldivar,Java 8,218,0
+10637695,7,1428567766,2147483647,A,1300,brute force-constructive algorithms,Owmen,Java 8,218,0
+10637183,7,1428563337,2147483647,A,1300,brute force-constructive algorithms,viqer,Java 8,248,0
+10637167,7,1428563207,2147483647,A,1300,brute force-constructive algorithms,thenameipicked,Java 8,248,0
+10637045,7,1428562017,2147483647,A,1300,brute force-constructive algorithms,jdes,Java 7,154,0
+10636282,7,1428550273,2147483647,A,1300,brute force-constructive algorithms,jrthom18,Java 8,216,0
+10636157,7,1428548197,2147483647,A,1300,brute force-constructive algorithms,manncito,Java 8,248,0
+10635231,7,1428532767,2147483647,A,1300,brute force-constructive algorithms,jtg111,Java 8,218,0
+10633726,7,1428517740,2147483647,A,1300,brute force-constructive algorithms,shortyfin,Java 8,218,0
+10627158,7,1428467743,2147483647,A,1300,brute force-constructive algorithms,suin3g,Java 7,154,0
+10626878,7,1428462001,2147483647,A,1300,brute force-constructive algorithms,kingjames,Java 8,218,0
+10626684,7,1428458530,2147483647,A,1300,brute force-constructive algorithms,corrosive_e,Java 7,154,0
+10626676,7,1428458309,2147483647,A,1300,brute force-constructive algorithms,magnum50,Java 8,248,0
+10626420,7,1428453149,2147483647,A,1300,brute force-constructive algorithms,erdromian,Java 8,218,0
+10626351,7,1428451616,2147483647,A,1300,brute force-constructive algorithms,rehpotsirhc,Java 8,218,0
+10626290,7,1428450246,2147483647,A,1300,brute force-constructive algorithms,rustyfetty,Java 8,218,0
+10624455,7,1428432548,2147483647,A,1300,brute force-constructive algorithms,mystik3eb,Java 8,218,0
+10622857,7,1428421053,2147483647,A,1300,brute force-constructive algorithms,tbadams13,Java 8,248,0
+10618309,7,1428384444,2147483647,A,1300,brute force-constructive algorithms,jigwan,Java 8,218,0
+10617946,7,1428378286,2147483647,A,1300,brute force-constructive algorithms,makeyouparrish,Java 8,218,0
+10617908,7,1428377749,2147483647,A,1300,brute force-constructive algorithms,thundercloud89,Java 8,218,0
+10617635,7,1428372678,2147483647,A,1300,brute force-constructive algorithms,musicman783,Java 8,248,0
+10617587,7,1428371418,2147483647,A,1300,brute force-constructive algorithms,he_19,Java 8,248,0
+10617040,7,1428361612,2147483647,A,1300,brute force-constructive algorithms,abbas88,Java 8,248,0
+10616904,7,1428359424,2147483647,A,1300,brute force-constructive algorithms,usu_edwardsCam,Java 8,218,0
+10616689,7,1428356570,2147483647,A,1300,brute force-constructive algorithms,skateight,Java 8,216,0
+10615677,7,1428346650,2147483647,A,1300,brute force-constructive algorithms,zacneubert,Java 8,218,0
+10608185,7,1428295568,2147483647,A,1300,brute force-constructive algorithms,dsprufus,Java 8,218,0
+10607713,7,1428287989,2147483647,A,1300,brute force-constructive algorithms,kal_3l,Java 7,154,0
+10607088,7,1428274171,2147483647,A,1300,brute force-constructive algorithms,dspstanky,Java 7,154,0
+10597251,7,1428207088,2147483647,A,1300,brute force-constructive algorithms,cpt_fwiffo,Java 8,248,0
+10596868,7,1428202913,2147483647,A,1300,brute force-constructive algorithms,vjudge4,Java 7,310,0
+10596852,7,1428202782,2147483647,A,1300,brute force-constructive algorithms,vjudge5,Java 7,186,0
+10596835,7,1428202615,2147483647,A,1300,brute force-constructive algorithms,vjudge3,Java 7,156,0
+10596820,7,1428202507,2147483647,A,1300,brute force-constructive algorithms,vjudge4,Java 7,154,0
+10596815,7,1428202447,2147483647,A,1300,brute force-constructive algorithms,vjudge5,Java 7,156,0
+10596800,7,1428202339,2147483647,A,1300,brute force-constructive algorithms,vjudge2,Java 7,216,0
+10596799,7,1428202327,2147483647,A,1300,brute force-constructive algorithms,vjudge3,Java 7,154,0
+10596752,7,1428201882,2147483647,A,1300,brute force-constructive algorithms,vjudge5,Java 7,156,0
+10596621,7,1428200474,2147483647,A,1300,brute force-constructive algorithms,vjudge3,Java 7,184,0
+10574780,7,1428159818,2147483647,A,1300,brute force-constructive algorithms,vjudge1,Java 7,156,0
+10574540,7,1428158072,2147483647,A,1300,brute force-constructive algorithms,hapunajwej,Java 8,218,0
+10569027,7,1428118098,2147483647,A,1300,brute force-constructive algorithms,naiyt,Java 8,218,0
+10568828,7,1428114899,2147483647,A,1300,brute force-constructive algorithms,vjudge5,Java 8,280,0
+10564424,7,1428095821,2147483647,A,1300,brute force-constructive algorithms,caden311,Java 8,248,0
+10554862,7,1428005708,2147483647,A,1300,brute force-constructive algorithms,sjdp,Java 7,154,0
+10548884,7,1427963024,2147483647,A,1300,brute force-constructive algorithms,jbottel,Java 7,154,0
+10542289,7,1427895350,2147483647,A,1300,brute force-constructive algorithms,nguyenmanhphuc,Java 7,156,0
+10539910,7,1427878572,2147483647,A,1300,brute force-constructive algorithms,vjudge1,Java 7,156,0
+10539752,7,1427877622,2147483647,A,1300,brute force-constructive algorithms,vjudge3,Java 7,186,0
+10539178,7,1427872911,2147483647,A,1300,brute force-constructive algorithms,vjudge4,Java 8,310,0
+10287594,7,1426420787,2147483647,C,1800,math-number theory,andreic,Java 8,248,0
+10170161,7,1425587036,2147483647,A,1300,brute force-constructive algorithms,Aydin193,Java 7,184,0
+10170108,7,1425586551,2147483647,A,1300,brute force-constructive algorithms,Forcerar18,Java 7,186,0
+10168937,7,1425585122,2147483647,A,1300,brute force-constructive algorithms,CodeAce,Java 7,156,0
+10168934,7,1425585110,2147483647,A,1300,brute force-constructive algorithms,ramil.agger,Java 7,186,0
+10168630,7,1425583056,2147483647,A,1300,brute force-constructive algorithms,ramil.agger,Java 7,156,0
+10136839,7,1425408579,2147483647,A,1300,brute force-constructive algorithms,rghazaliii,Java 8,280,0
+10098516,7,1425226544,2147483647,E,2500,dp-expression parsing-implementation,ProjectYoung,Java 8,312,0
+10098443,7,1425226136,2147483647,E,2500,dp-expression parsing-implementation,ProjectYoung,Java 8,310,0
+10098313,7,1425225488,2147483647,E,2500,dp-expression parsing-implementation,ProjectYoung,Java 8,280,0
+10089360,7,1425159406,2147483647,D,2200,hashing-strings,ProjectYoung,Java 8,624,56115200
+10082665,7,1425136757,2147483647,A,1300,brute force-constructive algorithms,cool_guy,Java 7,184,0
+10064177,7,1425128347,2147483647,C,1800,math-number theory,ProjectYoung,Java 8,280,0
+10063323,7,1425124128,2147483647,B,1700,implementation,ProjectYoung,Java 8,280,0
+10057238,7,1425074344,2147483647,A,1300,brute force-constructive algorithms,ProjectYoung,Java 8,280,0
+10036259,7,1424975147,2147483647,D,2200,hashing-strings,hapunajwej,Java 8,530,96256000
+10035806,7,1424972503,2147483647,D,2200,hashing-strings,kal_3l,Java 7,530,97587200
+10035658,7,1424971700,2147483647,D,2200,hashing-strings,alibaba,Java 8,840,173363200
+10035326,7,1424970008,2147483647,D,2200,hashing-strings,msaldivar,Java 8,686,97996800
+10035311,7,1424969942,2147483647,D,2200,hashing-strings,msaldivar,Java 8,654,98099200
+10030548,7,1424943522,2147483647,D,2200,hashing-strings,dspstanky,Java 7,590,158822400
+10030516,7,1424943269,2147483647,D,2200,hashing-strings,bobbytables,Java 8,592,96256000
+10030419,7,1424942784,2147483647,D,2200,hashing-strings,tbadams13,Java 8,560,97996800
+10029874,7,1424939574,2147483647,D,2200,hashing-strings,suin3g,Java 7,592,97587200
+10028425,7,1424930389,2147483647,D,2200,hashing-strings,kal_3l,Java 7,528,97587200
+10028364,7,1424929851,2147483647,D,2200,hashing-strings,jatemdefleet,Java 8,590,97894400
+10028188,7,1424928387,2147483647,D,2200,hashing-strings,kingjames,Java 8,778,148172800
+10027843,7,1424925298,2147483647,D,2200,hashing-strings,musicman783,Java 8,560,97996800
+10027548,7,1424921832,2147483647,D,2200,hashing-strings,rehpotsirhc,Java 8,654,158208000
+10027386,7,1424919436,2147483647,D,2200,hashing-strings,dsprufus,Java 8,746,108032000
+10027198,7,1424917379,2147483647,D,2200,hashing-strings,zzkzkkzzkz,Java 8,436,35942400
+10027100,7,1424916049,2147483647,D,2200,hashing-strings,Hoser,Java 7,842,148684800
+10026914,7,1424913060,2147483647,D,2200,hashing-strings,lolcatz,Java 8,810,97996800
+10026756,7,1424909478,2147483647,D,2200,hashing-strings,naiyt,Java 7,810,127590400
+10026724,7,1424908640,2147483647,D,2200,hashing-strings,codecrack47,Java 8,842,143155200
+10026681,7,1424907850,2147483647,D,2200,hashing-strings,cpt_fwiffo,Java 8,778,183193600
+10025925,7,1424900768,2147483647,D,2200,hashing-strings,caden311,Java 8,592,97894400
+10025591,7,1424898538,2147483647,D,2200,hashing-strings,zacneubert,Java 8,810,133120000
+10019705,7,1424869469,2147483647,A,1300,brute force-constructive algorithms,ramil.agger,Java 7,186,0
+10015026,7,1424846760,2147483647,D,2200,hashing-strings,erdromian,Java 8,624,123084800
+10014205,7,1424842553,2147483647,D,2200,hashing-strings,deckeresq,Java 8,622,97894400
+10011628,7,1424828725,2147483647,D,2200,hashing-strings,knelson,Java 8,654,117964800
+10010576,7,1424817961,2147483647,D,2200,hashing-strings,abbas88,Java 8,560,98099200
+9976665,7,1424754874,2147483647,D,2200,hashing-strings,thundercloud89,Java 8,748,97996800
+9973594,7,1424722622,2147483647,D,2200,hashing-strings,arubberducky,Java 8,528,97996800
+9965679,7,1424669731,2147483647,A,1300,brute force-constructive algorithms,RezaCompress,Java 7,184,0
+9941654,7,1424460486,2147483647,A,1300,brute force-constructive algorithms,Tricky_Turtle,Java 8,280,0
+9939895,7,1424450901,2147483647,A,1300,brute force-constructive algorithms,xywang,Java 8,218,0
+9934189,7,1424413073,2147483647,D,2200,hashing-strings,he_19,Java 8,592,118067200
+9932496,7,1424387957,2147483647,A,1300,brute force-constructive algorithms,skllmaster,Java 7,156,0
+9923439,7,1424334690,2147483647,B,1700,implementation,andreic,Java 8,280,0
+9923279,7,1424333493,2147483647,A,1300,brute force-constructive algorithms,Hari_Sridhar,Java 7,186,0
+9922543,7,1424327481,2147483647,A,1300,brute force-constructive algorithms,andreic,Java 8,248,0
+9922160,7,1424324099,2147483647,A,1300,brute force-constructive algorithms,CameronReynoldson,Java 7,186,0
+9907160,7,1424209233,2147483647,A,1300,brute force-constructive algorithms,aikatai,Java 7,184,0
+9865323,7,1424044019,2147483647,A,1300,brute force-constructive algorithms,peytones,Java 7,186,0
+9822409,7,1423878970,2147483647,A,1300,brute force-constructive algorithms,schun,Java 7,186,0
+9813865,7,1423810954,2147483647,E,2500,dp-expression parsing-implementation,Dukkha,Java 8,248,0
+9809513,7,1423761208,2147483647,D,2200,hashing-strings,Dukkha,Java 8,592,96358400
+9776573,7,1423449051,2147483647,C,1800,math-number theory,Dukkha,Java 8,248,0
+9768894,7,1423379577,2147483647,B,1700,implementation,Dukkha,Java 8,218,0
+9768200,7,1423373166,2147483647,A,1300,brute force-constructive algorithms,Dukkha,Java 8,216,0
+9744729,7,1423313544,2147483647,A,1300,brute force-constructive algorithms,thabetx,Java 8,248,0
+9735556,7,1423219310,2147483647,E,2500,dp-expression parsing-implementation,niyaznigmatul,Java 8,218,0
+9721461,7,1423082446,2147483647,A,1300,brute force-constructive algorithms,jmslocum16,Java 6,156,0
+9426589,7,1421197816,2147483647,C,1800,math-number theory,AnishS,Java 7,124,0
+9400687,7,1420944683,2147483647,A,1300,brute force-constructive algorithms,AnishS,Java 7,154,0
+9268110,7,1419515723,2147483647,A,1300,brute force-constructive algorithms,TranCongDuy,Java 6,154,0
+9222373,7,1419244235,2147483647,A,1300,brute force-constructive algorithms,amanchik,Java 7,184,0
+9209552,7,1419100578,2147483647,A,1300,brute force-constructive algorithms,yak,Java 8,248,0
+9180506,7,1418855318,2147483647,A,1300,brute force-constructive algorithms,ashutosh907,Java 6,186,0
+9097638,7,1418429949,2147483647,A,1300,brute force-constructive algorithms,Mr.obeidat,Java 8,374,0
+9020389,7,1418056199,2147483647,A,1300,brute force-constructive algorithms,khaledzag,Java 7,186,0
+9016006,7,1418027173,2147483647,A,1300,brute force-constructive algorithms,Hartha,Java 7,184,0
+9007908,7,1417944471,2147483647,A,1300,brute force-constructive algorithms,stevegregg,Java 6,186,0
+8870075,7,1417095551,2147483647,A,1300,brute force-constructive algorithms,jia199474,Java 7,186,0
+8865188,7,1417051022,2147483647,D,2200,hashing-strings,Sherry0425,Java 6,374,37785600
+8855703,7,1416975826,2147483647,D,2200,hashing-strings,Sherry0425,Java 6,340,37888000
+8855661,7,1416974694,2147483647,D,2200,hashing-strings,Sherry0425,Java 6,466,37888000
+8830256,7,1416796427,2147483647,C,1800,math-number theory,Sherry0425,Java 6,186,0
+8807756,7,1416703077,2147483647,E,2500,dp-expression parsing-implementation,jia199474,Java 7,218,102400
+8793129,7,1416608343,2147483647,B,1700,implementation,Sherry0425,Java 6,216,0
+8770919,7,1416546538,2147483647,A,1300,brute force-constructive algorithms,Sherry0425,Java 6,186,0
+8677894,7,1415856505,2147483647,A,1300,brute force-constructive algorithms,mussabekovn,Java 8,372,102400
+8524545,7,1414940457,2147483647,B,1700,implementation,shishu94,Java 6,186,0
+8522693,7,1414929669,2147483647,D,2200,hashing-strings,shishu94,Java 6,654,104038400
+8455150,7,1414513669,2147483647,A,1300,brute force-constructive algorithms,archu.aspa,Java 6,154,0
+8447671,7,1414486777,2147483647,A,1300,brute force-constructive algorithms,bullshit.ass,Java 6,156,0
+8100105,7,1412548095,2147483647,D,2200,hashing-strings,Mamdou7,Java 8,560,102400
+7953642,7,1411714233,2147483647,E,2500,dp-expression parsing-implementation,darrensun,Java 7,186,0
+7952184,7,1411697201,2147483647,D,2200,hashing-strings,darrensun,Java 7,312,37888000
+7859495,7,1411164751,2147483647,A,1300,brute force-constructive algorithms,hydrotoast,Java 7,156,0
+7826641,7,1411050130,2147483647,C,1800,math-number theory,darrensun,Java 7,124,0
+7816428,7,1410947106,2147483647,B,1700,implementation,darrensun,Java 7,124,0
+7814781,7,1410930594,2147483647,A,1300,brute force-constructive algorithms,darrensun,Java 7,154,0
+7698457,7,1410077781,2147483647,A,1300,brute force-constructive algorithms,Piyuple,Java 7,156,0
+7573940,7,1408980992,2147483647,B,1700,implementation,vasu_didi,Java 6,186,0
+7512785,7,1408502725,2147483647,B,1700,implementation,aparna,Java 7,186,0
+7477688,7,1408144108,2147483647,B,1700,implementation,Phobophobia,Java 7,186,0
+7452864,7,1408102943,2147483647,A,1300,brute force-constructive algorithms,vasu_didi,Java 6,186,0
+7448454,7,1408057768,2147483647,A,1300,brute force-constructive algorithms,Phobophobia,Java 7,186,0
+7328406,7,1406983292,2147483647,A,1300,brute force-constructive algorithms,wrestler,Java 8,372,0
+7308320,7,1406904240,2147483647,A,1300,brute force-constructive algorithms,owenomar,Java 7,156,0
+7298278,7,1406797729,2147483647,A,1300,brute force-constructive algorithms,Mefodii,Java 8,342,0
+7235696,7,1406239344,2147483647,D,2200,hashing-strings,benelog,Java 8,998,23552000
+7235683,7,1406239113,2147483647,D,2200,hashing-strings,benelog,Java 8,904,23552000
+7215737,7,1406199091,2147483647,D,2200,hashing-strings,benelog,Java 8,966,23552000
+7215608,7,1406197974,2147483647,D,2200,hashing-strings,benelog,Java 8,936,23552000
+7207523,7,1406106518,2147483647,C,1800,math-number theory,pablyxa,Java 7,124,0
+7112161,7,1405465100,2147483647,B,1700,implementation,pablyxa,Java 7,186,0
+7112154,7,1405464957,2147483647,A,1300,brute force-constructive algorithms,pablyxa,Java 7,154,0
+7034607,7,1404670117,2147483647,D,2200,hashing-strings,owenomar,Java 7,622,134144000
+6995646,7,1404283776,2147483647,A,1300,brute force-constructive algorithms,csflily,Java 6,154,0
+6995482,7,1404281072,2147483647,B,1700,implementation,coolmaksat,Java 7,154,0
+6986788,7,1404138687,2147483647,B,1700,implementation,ShadowX21,Java 7,156,0
+6707625,7,1400972354,2147483647,D,2200,hashing-strings,miguelmaurizio,Java 8,592,204800
+6707366,7,1401008077,2147483647,D,2200,hashing-strings,miguelmaurizio,Java 8,592,204800
+6675908,7,1400693964,2147483647,A,1300,brute force-constructive algorithms,mikcorer,Java 7,124,0
+6606214,7,1399923749,2147483647,A,1300,brute force-constructive algorithms,HandleThis,Java 6,372,0
+6563560,7,1399393545,2147483647,A,1300,brute force-constructive algorithms,zahraawahshh,Java 6,124,0
+6398605,7,1397791598,2147483647,E,2500,dp-expression parsing-implementation,larvaboy,Java 7,186,102400
+6232616,7,1396372551,2147483647,D,2200,hashing-strings,larvaboy,Java 7,530,159334400
+6201436,7,1396316381,2147483647,D,2200,hashing-strings,Cricycle,Java 7,780,77721600
+6200307,7,1396293883,2147483647,C,1800,math-number theory,Cricycle,Java 7,156,0
+6198111,7,1396272881,2147483647,B,1700,implementation,upsolving,Java 7,154,0
+6195977,7,1396251719,2147483647,B,1700,implementation,Cricycle,Java 7,186,0
+6195765,7,1396249770,2147483647,A,1300,brute force-constructive algorithms,Cricycle,Java 7,154,0
+6103291,7,1395477652,2147483647,A,1300,brute force-constructive algorithms,the_fighter,Java 6,124,0
+6020179,7,1394882426,2147483647,A,1300,brute force-constructive algorithms,lamnguyen.rs,Java 7,154,0
+6017680,7,1394850492,2147483647,E,2500,dp-expression parsing-implementation,DooIt,Java 6,186,102400
+6008858,7,1394709832,2147483647,D,2200,hashing-strings,DooIt,Java 6,436,37990400
+6008313,7,1394704122,2147483647,C,1800,math-number theory,DooIt,Java 6,186,0
+5989455,7,1394474217,2147483647,C,1800,math-number theory,larvaboy,Java 7,248,0
+5965709,7,1394325824,2147483647,B,1700,implementation,larvaboy,Java 7,154,0
+5960194,7,1394244316,2147483647,A,1300,brute force-constructive algorithms,larvaboy,Java 7,154,0
+5960189,7,1394244133,2147483647,A,1300,brute force-constructive algorithms,larvaboy,Java 7,154,0
+5960185,7,1394243971,2147483647,A,1300,brute force-constructive algorithms,larvaboy,Java 7,124,0
+5960179,7,1394243733,2147483647,A,1300,brute force-constructive algorithms,larvaboy,Java 7,124,0
+5960141,7,1394243004,2147483647,A,1300,brute force-constructive algorithms,larvaboy,Java 7,184,0
+5906728,7,1391630358,2147483647,A,1300,brute force-constructive algorithms,yuhase,Java 7,154,102400
+5830681,7,1390984048,2147483647,A,1300,brute force-constructive algorithms,Shailaja,Java 6,154,2355200
+5734158,7,1390052649,2147483647,A,1300,brute force-constructive algorithms,tomash_em,Java 7,184,0
+5646377,7,1389285977,2147483647,A,1300,brute force-constructive algorithms,Laila1994,Java 6,92,0
+5634158,7,1389120106,2147483647,B,1700,implementation,teetora,Java 7,156,102400
+5634146,7,1389119906,2147483647,A,1300,brute force-constructive algorithms,sultann,Java 6,92,0
+5519220,7,1387978561,2147483647,A,1300,brute force-constructive algorithms,tomdmitriev,Java 7,156,102400
+5473820,7,1387441784,2147483647,A,1300,brute force-constructive algorithms,porepore1984,Java 7,124,102400
+5449766,7,1387193559,2147483647,B,1700,implementation,Anastasia93,Java 7,156,0
+5377769,7,1386437697,2147483647,D,2200,hashing-strings,sandeepandey,Java 7,998,209305600
+5377742,7,1386437501,2147483647,D,2200,hashing-strings,sandeepandey,Java 7,936,209305600
+5324676,7,1385937670,2147483647,D,2200,hashing-strings,Safrout,Java 7,686,149504000
+5184629,7,1385035784,2147483647,B,1700,implementation,vvenkai,Java 7,124,0
+5138907,7,1384740077,2147483647,E,2500,dp-expression parsing-implementation,judge,Java 7,186,102400
+5138901,7,1384739961,2147483647,E,2500,dp-expression parsing-implementation,Lquartz,Java 7,186,102400
+5116235,7,1384514259,2147483647,A,1300,brute force-constructive algorithms,DeathMoon,Java 7,124,0
+5114506,7,1384500503,2147483647,A,1300,brute force-constructive algorithms,vvenkai,Java 7,124,0
+5018692,7,1383774921,2147483647,D,2200,hashing-strings,santjuan,Java 7,560,84070400
+4951074,7,1383310303,2147483647,B,1700,implementation,DeathMoon,Java 7,156,0
+4951056,7,1383310167,2147483647,B,1700,implementation,DeathMoon,Java 7,156,0
+4931872,7,1383108369,2147483647,C,1800,math-number theory,alibaba,Java 6,78,0
+4929182,7,1383054917,2147483647,C,1800,math-number theory,alibaba,Java 6,78,0
+4917058,7,1382906042,2147483647,D,2200,hashing-strings,segrey,Java 7,280,99123200
+4908754,7,1382822786,2147483647,C,1800,math-number theory,segrey,Java 7,62,0
+4897305,7,1382736632,2147483647,A,1300,brute force-constructive algorithms,Gallion,Java 7,156,102400
+4856141,7,1382559070,2147483647,B,1700,implementation,segrey,Java 7,124,0
+4846183,7,1382468546,2147483647,A,1300,brute force-constructive algorithms,segrey,Java 7,124,0
+4818717,7,1382091408,2147483647,A,1300,brute force-constructive algorithms,vjudge1,Java 7,124,0
+4782989,7,1381746982,2147483647,C,1800,math-number theory,cupcup,Java 7,124,0
+4782607,7,1381742602,2147483647,B,1700,implementation,cupcup,Java 7,156,0
+4765632,7,1381660880,2147483647,A,1300,brute force-constructive algorithms,cupcup,Java 7,248,0
+4700072,7,1381135328,2147483647,B,1700,implementation,mr_caos,Java 7,218,102400
+4617949,7,1380612219,2147483647,A,1300,brute force-constructive algorithms,mr_caos,Java 7,186,0
+4533570,7,1379793536,2147483647,B,1700,implementation,alibaba,Java 6,156,0
+4533255,7,1379790139,2147483647,A,1300,brute force-constructive algorithms,alibaba,Java 6,156,0
+4525549,7,1379718083,2147483647,C,1800,math-number theory,vvenkai,Java 7,156,0
+4406904,7,1378328672,2147483647,D,2200,hashing-strings,santjuan,Java 7,686,159436800
+4405228,7,1378298058,2147483647,A,1300,brute force-constructive algorithms,Togrul-BSU,Java 7,186,0
+4365741,7,1377776605,2147483647,A,1300,brute force-constructive algorithms,Akzhol,Java 6,186,0
+4359802,7,1377663952,2147483647,B,1700,implementation,Spartar,Java 6,218,0
+4337103,7,1377456571,2147483647,D,2200,hashing-strings,Zyflair,Java 7,468,57958400
+4337056,7,1377455182,2147483647,C,1800,math-number theory,Zyflair,Java 7,156,0
+4326409,7,1377200302,2147483647,B,1700,implementation,Zyflair,Java 7,186,0
+4321817,7,1377125547,2147483647,A,1300,brute force-constructive algorithms,Zyflair,Java 7,156,0
+4280130,7,1376535185,2147483647,D,2200,hashing-strings,DoublePointer,Java 7,530,77926400
+4262904,7,1376164023,2147483647,A,1300,brute force-constructive algorithms,ssohn,Java 7,156,0
+4203473,7,1375175743,2147483647,C,1800,math-number theory,trunghieu11,Java 7,156,0
+4161205,7,1374732540,2147483647,A,1300,brute force-constructive algorithms,yano0oyan,Java 6,109,102400
+4128982,7,1374407211,2147483647,D,2200,hashing-strings,qwerty787788,Java 7,656,184422400
+4102131,7,1374204211,2147483647,C,1800,math-number theory,mkirsche,Java 6,93,2252800
+4101303,7,1374187981,2147483647,B,1700,implementation,santjuan,Java 7,78,0
+4087587,7,1374074105,2147483647,B,1700,implementation,mkirsche,Java 6,93,0
+4082625,7,1374008439,2147483647,C,1800,math-number theory,santjuan,Java 7,62,0
+4082598,7,1374007573,2147483647,A,1300,brute force-constructive algorithms,santjuan,Java 7,78,0
+3970478,7,1372415333,2147483647,A,1300,brute force-constructive algorithms,akashm,Java 6,109,102400
+3928698,7,1371730946,2147483647,A,1300,brute force-constructive algorithms,sonhuytran,Java 7,93,0
+3857711,7,1370959035,2147483647,B,1700,implementation,lovefly1983,Java 7,78,0
+3812122,7,1370106634,2147483647,B,1700,implementation,pvpcrusader,Java 7,109,102400
+3803321,7,1369937721,2147483647,A,1300,brute force-constructive algorithms,pvpcrusader,Java 7,93,102400
+3665812,7,1367605373,2147483647,C,1800,math-number theory,sergio3010,Java 6,109,2355200
+3588064,7,1366572371,2147483647,E,2500,dp-expression parsing-implementation,bendyna.ivan,Java 7,125,307200
+3417008,7,1364499624,2147483647,A,1300,brute force-constructive algorithms,kullalok,Java 6,78,2150400
+3416619,7,1364491309,2147483647,D,2200,hashing-strings,bendyna.ivan,Java 7,593,71680000
+3379090,7,1363942309,2147483647,D,2200,hashing-strings,floatingfire,Java 7,625,134144000
+3329805,7,1363515012,2147483647,A,1300,brute force-constructive algorithms,CurbStomp,Java 7,93,0
+3327682,7,1363467144,6864,C,1800,math-number theory,bendyna.ivan,Java 6,78,0
+3327451,7,1363462910,2630,B,1700,implementation,bendyna.ivan,Java 6,78,0
+3327334,7,1363460742,462,A,1300,brute force-constructive algorithms,bendyna.ivan,Java 6,93,0
+3326372,7,1363446706,1606,C,1800,math-number theory,N0D1R,Java 6,93,0
+3326329,7,1363445707,607,A,1300,brute force-constructive algorithms,N0D1R,Java 6,93,0
+3257705,7,1362558228,2147483647,E,2500,dp-expression parsing-implementation,carber,Java 7,109,102400
+3205121,7,1362031262,2147483647,B,1700,implementation,su_58,Java 6,78,2252800
+3203867,7,1361989691,2147483647,A,1300,brute force-constructive algorithms,mkirsche,Java 6,93,0
+3060700,7,1359759273,2147483647,A,1300,brute force-constructive algorithms,zidan200,Java 7,109,0
+2922275,7,1358110853,2147483647,A,1300,brute force-constructive algorithms,fabiankasUN,Java 6,93,2457600
+2799175,7,1356016864,2147483647,D,2200,hashing-strings,Mostafa.Ali,Java 6,437,149299200
+2796772,7,1355979228,2147483647,D,2200,hashing-strings,hama-du,Java 6,405,78233600
+2794710,7,1355922366,3966,C,1800,math-number theory,hama-du,Java 6,93,0
+2794535,7,1355919804,1404,B,1700,implementation,hama-du,Java 6,93,0
+2794466,7,1355918705,305,A,1300,brute force-constructive algorithms,hama-du,Java 6,78,0
+2746998,7,1355139651,2147483647,C,1800,math-number theory,vjudge5,Java 7,109,0
+2717450,7,1354905201,2147483647,A,1300,brute force-constructive algorithms,alexyz,Java 7,93,0
+2692897,7,1354590362,2147483647,A,1300,brute force-constructive algorithms,SaiL,Java 6,93,0
+2654674,7,1353876038,2147483647,A,1300,brute force-constructive algorithms,Spellbound,Java 6,109,0
+2531253,7,1352573221,2147483647,A,1300,brute force-constructive algorithms,ivanvasilev,Java 6,109,0
+2529717,7,1352541442,2147483647,A,1300,brute force-constructive algorithms,qazxc,Java 7,109,0
+2529176,7,1352519651,2147483647,A,1300,brute force-constructive algorithms,goodsky,Java 7,109,0
+2528231,7,1352480338,2147483647,A,1300,brute force-constructive algorithms,Shersh,Java 6,78,0
+2517327,7,1352274479,2147483647,A,1300,brute force-constructive algorithms,su_58,Java 7,93,0
+2360251,7,1350288237,2147483647,A,1300,brute force-constructive algorithms,Zobl,Java 7,93,0
+2338698,7,1349955481,2147483647,A,1300,brute force-constructive algorithms,lemonsuper,Java 7,109,0
+2318877,7,1349631373,2147483647,A,1300,brute force-constructive algorithms,hiukim,Java 6,93,0
+2290019,7,1349160185,2147483647,C,1800,math-number theory,vjudge4,Java 6,109,0
+2225658,7,1348211370,2147483647,D,2200,hashing-strings,Eulerdora,Java 6,421,86528000
+2221582,7,1348113715,2147483647,B,1700,implementation,Eulerdora,Java 6,78,43724800
+2221369,7,1348108173,2147483647,A,1300,brute force-constructive algorithms,Eulerdora,Java 6,93,43724800
+2171862,7,1347704502,2147483647,B,1700,implementation,judge,Java 6,109,43929600
+2145318,7,1347384181,2147483647,A,1300,brute force-constructive algorithms,tryagainlater,Java 6,110,43110400
+2109057,7,1347287617,2147483647,B,1700,implementation,vjudge2,Java 6,160,43315200
+2108659,7,1347280610,2147483647,B,1700,implementation,wcp1231,Java 6,130,43110400
+2107874,7,1347253134,2147483647,A,1300,brute force-constructive algorithms,vjudge4,Java 6,160,43315200
+2022508,7,1345225014,2147483647,B,1700,implementation,uwi,Java 6,130,43212800
+2022323,7,1345218548,2147483647,C,1800,math-number theory,uwi,Java 6,110,43212800
+2018157,7,1345089245,2147483647,D,2200,hashing-strings,wackloner,Java 6,470,81203200
+2018147,7,1345088950,2147483647,D,2200,hashing-strings,wackloner,Java 6,500,81305600
+2000449,7,1344699497,2147483647,B,1700,implementation,di_halt,Java 6,160,43315200
+1999953,7,1344686925,525,A,1300,brute force-constructive algorithms,di_halt,Java 6,140,43315200
+1943939,7,1343373928,2147483647,A,1300,brute force-constructive algorithms,deus,Java 6,110,43110400
+1838497,7,1340979245,2147483647,A,1300,brute force-constructive algorithms,jonosuke,Java 7,140,45056000
+1752496,7,1338673900,2147483647,A,1300,brute force-constructive algorithms,fxpo,Java 6,90,43212800
+1736736,7,1338212767,5467,C,1800,math-number theory,mingotlik,Java 6,90,43212800
+1736725,7,1338212566,5266,A,1300,brute force-constructive algorithms,mingotlik,Java 6,110,43212800
+1668322,7,1336417274,2147483647,B,1700,implementation,bidzilya,Java 7,90,44953600
+1668283,7,1336415520,2147483647,A,1300,brute force-constructive algorithms,bidzilya,Java 7,90,44851200
+1667377,7,1336371056,2147483647,A,1300,brute force-constructive algorithms,carber,Java 7,110,44953600
+1667369,7,1336370403,2147483647,B,1700,implementation,carber,Java 7,110,44953600
+1650064,7,1336005009,2147483647,B,1700,implementation,nickbuelich,Java 6,90,43110400
+1516342,7,1334266252,2147483647,B,1700,implementation,Izot_NNSTU,Java 6,80,43110400
+1389603,7,1332512074,2147483647,A,1300,brute force-constructive algorithms,kenthang,Java 6,90,43212800
+1292499,7,1330982852,2147483647,C,1800,math-number theory,Mostafa.Ali,Java 6,110,43110400
+1292308,7,1330978233,2147483647,A,1300,brute force-constructive algorithms,Mostafa.Ali,Java 6,110,45056000
+1242797,7,1330496455,2147483647,B,1700,implementation,peking2,Java 6,110,44953600
+1237909,7,1330292618,2147483647,A,1300,brute force-constructive algorithms,peking2,Java 6,110,44953600
+1150146,7,1328400586,2147483647,A,1300,brute force-constructive algorithms,afrocentrix,Java 6,110,43212800
+1147514,7,1328286377,2147483647,D,2200,hashing-strings,Omar.Darwish,Java 6,970,202444800
+1119094,7,1327589449,2147483647,C,1800,math-number theory,todo,Java 6,90,43110400
+1114395,7,1327406024,2147483647,A,1300,brute force-constructive algorithms,Betlista,Java 6,90,43110400
+1099230,7,1327152822,4422,B,1700,implementation,Azat_Yusupov,Java 6,90,43212800
+1099103,7,1327149304,904,A,1300,brute force-constructive algorithms,Azat_Yusupov,Java 6,90,43212800
+1045043,7,1326538483,2147483647,A,1300,brute force-constructive algorithms,todo,Java 6,130,43110400
+994817,7,1325508998,2147483647,C,1800,math-number theory,mostafa_fahim,Java 6,90,43110400
+993335,7,1325355477,2147483647,B,1700,implementation,mostafa_fahim,Java 6,90,43110400
+993174,7,1325343014,2147483647,A,1300,brute force-constructive algorithms,upsolving,Java 6,90,43008000
+989877,7,1325087995,2147483647,B,1700,implementation,Navigabimus,Java 6,110,43110400
+989612,7,1325072020,2147483647,A,1300,brute force-constructive algorithms,Navigabimus,Java 6,90,43212800
+986116,7,1324840502,2147483647,A,1300,brute force-constructive algorithms,ilovepink,Java 6,90,43212800
+969208,7,1324381812,2147483647,C,1800,math-number theory,tsukuno,Java 6,90,43110400
+956617,7,1323960253,2147483647,A,1300,brute force-constructive algorithms,almaty,Java 6,110,43110400
+952149,7,1323640153,53503453,A,1300,brute force-constructive algorithms,stevenkplus,Java 6,130,43110400
+951783,7,1323615457,53478757,D,2200,hashing-strings,mostafa_fahim,Java 6,670,202342400
+951602,7,1323608361,53471661,D,2200,hashing-strings,islam-al-aarag,Java 6,550,192409600
+935232,7,1323327641,53190941,B,1700,implementation,nativea,Java 6,130,35123200
+908965,7,1322492401,52355701,B,1700,implementation,userlond,Java 6,130,35225600
+889413,7,1322142630,52005930,A,1300,brute force-constructive algorithms,nativea,Java 6,110,43212800
+884230,7,1321880134,51743434,A,1300,brute force-constructive algorithms,_jte_,Java 6,110,35020800
+872806,7,1321406365,51269665,C,1800,math-number theory,islam-al-aarag,Java 6,130,43110400
+863087,7,1321264149,51127449,D,2200,hashing-strings,Azat_Yusupov,Java 6,750,244531200
+860363,7,1321107531,50970831,C,1800,math-number theory,Azat_Yusupov,Java 6,140,43110400
+856240,7,1320941063,50804363,A,1300,brute force-constructive algorithms,edem.kwadzo,Java 6,130,35328000
+855523,7,1320925342,50788642,A,1300,brute force-constructive algorithms,userlond,Java 6,90,43110400
+843250,7,1320849290,50712590,C,1800,math-number theory,acl,Java 6,130,43110400
+841630,7,1320765476,50628776,A,1300,brute force-constructive algorithms,islamhamdi,Java 6,140,43110400
+835603,7,1320459951,50323251,C,1800,math-number theory,Navigabimus,Java 6,140,43110400
+835601,7,1320459903,50323203,C,1800,math-number theory,Navigabimus,Java 6,140,43110400
+835599,7,1320459763,50323063,C,1800,math-number theory,Navigabimus,Java 6,130,43110400
+819587,7,1319981807,49845107,D,2200,hashing-strings,o_logn,Java 6,380,73216000
+819541,7,1319980762,49844062,C,1800,math-number theory,o_logn,Java 6,110,35225600
+819370,7,1319975830,49839130,A,1300,brute force-constructive algorithms,o_logn,Java 6,130,35225600
+798515,7,1319713495,49576795,B,1700,implementation,ACMCN,Java 6,130,35328000
+792629,7,1319423182,49286482,A,1300,brute force-constructive algorithms,Izot_NNSTU,Java 6,130,43212800
+789094,7,1319214992,49078292,A,1300,brute force-constructive algorithms,wackloner,Java 6,110,43110400
+781217,7,1318941141,48804441,A,1300,brute force-constructive algorithms,idapro,Java 6,130,43110400
+757195,7,1318444254,48307554,B,1700,implementation,Anya,Java 6,140,35328000
+756273,7,1318385321,48248621,B,1700,implementation,idapro,Java 6,140,35328000
+752431,7,1318145171,48008471,B,1700,implementation,Lengdon,Java 6,160,35328000
+736223,7,1270138203,1503,B,1700,implementation,shevchen,Java 6,130,35225600
+736197,7,1270136996,296,A,1300,brute force-constructive algorithms,shevchen,Java 6,110,35225600
+733027,7,1317467157,47330457,B,1700,implementation,kiko91_7,Java 6,110,35225600
+731678,7,1317387119,47250419,D,2200,hashing-strings,dalex,Java 6,580,245248000
+731520,7,1317381503,47244803,C,1800,math-number theory,dalex,Java 6,110,35737600
+731518,7,1317381412,47244712,C,1800,math-number theory,dalex,Java 6,110,35737600
+731490,7,1317379338,47242638,B,1700,implementation,dalex,Java 6,130,35737600
+713588,7,1316783177,46646477,A,1300,brute force-constructive algorithms,Wahba,Java 6,110,35225600
+706959,7,1316302300,46165600,A,1300,brute force-constructive algorithms,Okihita,Java 6,130,35328000
+706648,7,1316279302,46142602,A,1300,brute force-constructive algorithms,mishka,Java 6,130,35328000
+691187,7,1315838099,45701399,A,1300,brute force-constructive algorithms,AbdelrahmanAsal,Java 6,130,35020800
+691161,7,1315837477,45700777,A,1300,brute force-constructive algorithms,ahmad_mamdouh,Java 6,110,35020800
+687028,7,1315596910,45460210,B,1700,implementation,ahmad_mamdouh,Java 6,110,35225600
+654853,7,1314887278,44750578,E,2500,dp-expression parsing-implementation,OgieKako,Java 6,130,35328000
+625096,7,1313958367,43821667,A,1300,brute force-constructive algorithms,Sinner,Java 6,90,34918400
+623098,7,1313831566,43694866,A,1300,brute force-constructive algorithms,Eugene_nik,Java 6,80,35020800
+615566,7,1313763953,43627253,C,1800,math-number theory,xiaowuc1,Java 6,110,34816000
+614324,7,1313671253,43534553,A,1300,brute force-constructive algorithms,boost,Java 6,130,35225600
+613957,7,1313636641,43499941,B,1700,implementation,DoublePointer,Java 6,110,35328000
+613048,7,1313505418,43368718,B,1700,implementation,altais,Java 6,110,34918400
+612622,7,1313475501,43338801,A,1300,brute force-constructive algorithms,skl0123,Java 6,90,35225600
+612234,7,1313425159,43288459,C,1800,math-number theory,DoublePointer,Java 6,110,35225600
+612233,7,1313425121,43288421,C,1800,math-number theory,DoublePointer,Java 6,130,35225600
+612225,7,1313424807,43288107,C,1800,math-number theory,DoublePointer,Java 6,140,35225600
+612222,7,1313424485,43287785,C,1800,math-number theory,DoublePointer,Java 6,130,35225600
+604624,7,1313210683,43073983,A,1300,brute force-constructive algorithms,Ahmed_Salama,Java 6,110,35225600
+604511,7,1313190931,43054231,B,1700,implementation,tux1986,Java 6,110,34918400
+599531,7,1312835270,42698570,A,1300,brute force-constructive algorithms,donald_d,Java 6,90,44748800
+598144,7,1312793036,42656336,A,1300,brute force-constructive algorithms,Dunaril,Java 6,110,35225600
+573695,7,1312102167,41965467,B,1700,implementation,islam-al-aarag,Java 6,130,43110400
+569497,7,1311943936,41807236,B,1700,implementation,Nox,Java 6,110,43008000
+567154,7,1311764881,41628181,B,1700,implementation,JoKe,Java 6,130,43110400
+565771,7,1311637627,41500927,A,1300,brute force-constructive algorithms,xiaowuc1,Java 6,110,43008000
+564208,7,1311538811,41402111,A,1300,brute force-constructive algorithms,islam-al-aarag,Java 6,90,43008000
+549849,7,1310953171,40816471,A,1300,brute force-constructive algorithms,spark_coder,Java 6,90,43008000
+545440,7,1310663256,40526556,A,1300,brute force-constructive algorithms,Nox,Java 6,90,43008000
+543791,7,1310519848,40383148,A,1300,brute force-constructive algorithms,kiko91_7,Java 6,90,43008000
+530623,7,1310044667,39907967,A,1300,brute force-constructive algorithms,edwinlunando,Java 6,110,43008000
+530205,7,1309986203,39849503,A,1300,brute force-constructive algorithms,nickbuelich,Java 6,110,43110400
+529344,7,1309913911,39777211,B,1700,implementation,sroyal,Java 6,130,35328000
+529337,7,1309912165,39775465,A,1300,brute force-constructive algorithms,sroyal,Java 6,110,35328000
+527540,7,1309757495,39620795,D,2200,hashing-strings,S.Yesipenko,Java 6,380,55296000
+527529,7,1309756852,39620152,D,2200,hashing-strings,S.Yesipenko,Java 6,530,119091200
+526971,7,1309695785,39559085,A,1300,brute force-constructive algorithms,altais,Java 6,110,43008000
+511386,7,1309096539,38959839,B,1700,implementation,Slamur,Java 6,90,43008000
+510687,7,1309016681,38879981,B,1700,implementation,Slamur,Java 6,90,43008000
+496853,7,1308382620,38245920,A,1300,brute force-constructive algorithms,flash36,Java 6,130,35225600
+496607,7,1308348205,38211505,A,1300,brute force-constructive algorithms,foldel,Java 6,110,43008000
+495458,7,1308294237,38157537,C,1800,math-number theory,Slamur,Java 6,110,43008000
+486978,7,1307983940,37847240,D,2200,hashing-strings,Satayev,Java 6,530,244531200
+486956,7,1307982011,37845311,C,1800,math-number theory,Satayev,Java 6,130,35225600
+486950,7,1307981409,37844709,B,1700,implementation,Satayev,Java 6,130,35328000
+486937,7,1307979022,37842322,A,1300,brute force-constructive algorithms,Satayev,Java 6,80,34816000
+474624,7,1307034573,36897873,B,1700,implementation,bairdarmaev,Java 6,110,43315200
+470657,7,1306435213,36298513,D,2200,hashing-strings,niyaznigmatul,Java 6,640,187289600
+469364,7,1306254021,36117321,A,1300,brute force-constructive algorithms,DoublePointer,Java 6,110,35225600
+468886,7,1306208341,36071641,A,1300,brute force-constructive algorithms,Larx,Java 6,90,34918400
+455606,7,1305420888,35284188,C,1800,math-number theory,tehqin,Java 6,80,43417600
+455591,7,1305413971,35277271,B,1700,implementation,tehqin,Java 6,90,43417600
+455585,7,1305411379,35274679,A,1300,brute force-constructive algorithms,tehqin,Java 6,80,43417600
+444347,7,1305030336,34893636,D,2200,hashing-strings,kioa,Java 6,440,232652800
+378136,7,1302539548,32402848,A,1300,brute force-constructive algorithms,elrodeo,Java 6,90,43315200
+352687,7,1300902437,30765737,B,1700,implementation,Alexanderrrr,Java 6,110,43315200
+331444,7,1299912727,29776027,A,1300,brute force-constructive algorithms,Slamur,Java 6,90,43417600
+331331,7,1299883650,29746950,B,1700,implementation,eldonnadie,Java 6,130,43315200
+331221,7,1299875332,29738632,A,1300,brute force-constructive algorithms,frankycrm,Java 6,90,43315200
+328035,7,1299552546,29415846,A,1300,brute force-constructive algorithms,Sammarize,Java 6,90,43315200
+265842,7,1296070727,25934027,A,1300,brute force-constructive algorithms,Nenash,Java 6,90,43315200
+265810,7,1296068101,25931401,A,1300,brute force-constructive algorithms,hydrastuff,Java 6,190,43315200
+260558,7,1295808935,25672235,C,1800,math-number theory,I-juice,Java 6,90,43417600
+260550,7,1295808201,25671501,B,1700,implementation,I-juice,Java 6,90,43417600
+252424,7,1295066511,24929811,C,1800,math-number theory,hydrastuff,Java 6,80,43417600
+252423,7,1295066440,24929740,C,1800,math-number theory,hydrastuff,Java 6,90,43417600
+242339,7,1294508398,24371698,A,1300,brute force-constructive algorithms,dalex,Java 6,90,43315200
+242205,7,1294498731,24362031,A,1300,brute force-constructive algorithms,Abra,Java 6,80,43315200
+241683,7,1294435103,24298403,C,1800,math-number theory,logN,Java 6,80,43315200
+34072,7,1292588494,22451794,A,1300,brute force-constructive algorithms,marque,Java 6,90,43315200
+33951,7,1287210021,17073321,A,1300,brute force-constructive algorithms,igor_kz,Java 6,110,43315200
+33949,7,1287057386,16920686,B,1700,implementation,dr.madis,Java 6,90,43315200
+33942,7,1287052739,16916039,A,1300,brute force-constructive algorithms,dr.madis,Java 6,90,43315200
+33937,7,1286882598,16745898,B,1700,implementation,msagimbekov,Java 6,110,43315200
+33929,7,1286876687,16739987,A,1300,brute force-constructive algorithms,msagimbekov,Java 6,110,43315200
+33756,7,1281518433,11381733,C,1800,math-number theory,caustique,Java 6,80,43008000
+33753,7,1281027093,10890393,C,1800,math-number theory,pyshnograev,Java 6,80,43008000
+33752,7,1281027025,10890325,C,1800,math-number theory,pyshnograev,Java 6,90,43008000
+33751,7,1281026972,10890272,C,1800,math-number theory,pyshnograev,Java 6,90,43008000
+33750,7,1281026603,10889903,C,1800,math-number theory,pyshnograev,Java 6,80,43008000
+33683,7,1277812721,7676021,C,1800,math-number theory,yoshibo-,Java 6,80,42905600
+33675,7,1277809161,7672461,B,1700,implementation,yoshibo-,Java 6,60,42905600
+33671,7,1277805881,7669181,A,1300,brute force-constructive algorithms,yoshibo-,Java 6,80,42905600
+33618,7,1274328980,4192280,D,2200,hashing-strings,SkyFire,Java 6,830,138035200
+33599,7,1273589073,3452373,C,1800,math-number theory,Vasya.V,Java 6,80,33792000
+33593,7,1273389558,3252858,A,1300,brute force-constructive algorithms,satoshii,Java 6,90,33792000
+33514,7,1271341644,1204944,C,1800,math-number theory,Zhukov_Dmitry,Java 6,90,30720000
+33513,7,1271341573,1204873,C,1800,math-number theory,Zhukov_Dmitry,Java 6,80,30720000
+33510,7,1271340879,1204179,C,1800,math-number theory,Zhukov_Dmitry,Java 6,90,30720000
+33496,7,1271050944,914244,C,1800,math-number theory,pyshnograev,Java 6,90,30720000
+33392,7,1270710565,573865,A,1300,brute force-constructive algorithms,mikevalladolid,Java 6,80,30720000
+33343,7,1270629698,492998,A,1300,brute force-constructive algorithms,ffx,Java 6,80,30822400
+33234,7,1270455367,318667,D,2200,hashing-strings,Vasya.V,Java 6,300,69120000
+33233,7,1270454469,317769,C,1800,math-number theory,lis1,Java 6,80,30822400
+33224,7,1270411411,274711,A,1300,brute force-constructive algorithms,Nick,Java 6,60,30822400
+33206,7,1270334321,197621,A,1300,brute force-constructive algorithms,lis1,Java 6,60,30822400
+33202,7,1270333323,196623,E,2500,dp-expression parsing-implementation,DmitryKlenov,Java 6,90,30822400
+33179,7,1270305781,169081,C,1800,math-number theory,dev_il,Java 6,60,30822400
+33117,7,1270244706,108006,B,1700,implementation,mohamed.gaber,Java 6,110,30822400
+32959,7,1270209020,72320,D,2200,hashing-strings,winger,Java 6,640,115814400
+32954,7,1270208221,71521,C,1800,math-number theory,winger,Java 6,60,30720000
+32951,7,1270207918,71218,B,1700,implementation,winger,Java 6,80,30720000
+32949,7,1270207413,70713,A,1300,brute force-constructive algorithms,winger,Java 6,60,30720000
+32920,7,1270200131,63431,D,2200,hashing-strings,alexey.enkov,Java 6,420,167526400
+32887,7,1270195351,58651,B,1700,implementation,artie,Java 6,90,30720000
+32881,7,1270193640,56940,A,1300,brute force-constructive algorithms,artie,Java 6,140,30720000
+32865,7,1270187897,51197,C,1800,math-number theory,anhdt,Java 6,60,30720000
+32848,7,1270186810,50110,C,1800,math-number theory,anhdt,Java 6,80,30720000
+32827,7,1270182767,46067,E,2500,dp-expression parsing-implementation,yiuyuho,Java 6,130,31129600
+32805,7,1270179386,42686,D,2200,hashing-strings,yiuyuho,Java 6,530,90419200
+32768,7,1270175420,38720,C,1800,math-number theory,S.Yesipenko,Java 6,60,30720000
+32749,7,1270171403,34703,A,1300,brute force-constructive algorithms,kazu.yamazaki,Java 6,60,30720000
+32706,7,1270156523,19823,B,1700,implementation,Rior,Java 6,80,30720000
+32680,7,1270153824,17124,E,2500,dp-expression parsing-implementation,izbyshev,Java 6,90,30720000
+32596,7,1270150420,13720,B,1700,implementation,knightry,Java 6,90,30720000
+32423,7,1270146019,9319,A,1300,brute force-constructive algorithms,knightry,Java 6,90,30720000
+32356,7,1270145255,8555,E,2500,dp-expression parsing-implementation,wata,Java 6,90,30720000
+32198,7,1270143896,7196,E,2500,dp-expression parsing-implementation,Egor,Java 6,130,31129600
+32074,7,1270143645,6945,C,1800,math-number theory,rockaustin2k6,Java 6,90,30720000
+32018,7,1270143502,6802,C,1800,math-number theory,anhdt,Java 6,60,30720000
+32015,7,1270143493,6793,B,1700,implementation,nise_nabe,Java 6,90,30720000
+31959,7,1270143359,6659,C,1800,math-number theory,Duc,Java 6,80,30720000
+31895,7,1270143211,6511,E,2500,dp-expression parsing-implementation,ivan.popelyshev,Java 6,80,30720000
+31874,7,1270143158,6458,D,2200,hashing-strings,Efgen,Java 6,590,137830400
+31867,7,1270143133,6433,C,1800,math-number theory,wistful23,Java 6,60,30720000
+31856,7,1270143110,6410,E,2500,dp-expression parsing-implementation,ktuan,Java 6,90,30720000
+31758,7,1270142839,6139,D,2200,hashing-strings,dimozzz,Java 6,800,224460800
+31576,7,1270142351,5651,B,1700,implementation,shindo,Java 6,60,30720000
+31526,7,1270142224,5524,B,1700,implementation,kozima,Java 6,60,30720000
+31520,7,1270142201,5501,D,2200,hashing-strings,izbyshev,Java 6,470,156057600
+31517,7,1270142195,5495,B,1700,implementation,mikhailOK,Java 6,80,30720000
+31486,7,1270142112,5412,D,2200,hashing-strings,DmitryKlenov,Java 6,720,151961600
+31418,7,1270141908,5208,C,1800,math-number theory,shindo,Java 6,90,30720000
+31354,7,1270141779,5079,C,1800,math-number theory,Efgen,Java 6,80,30720000
+31314,7,1270141697,4997,B,1700,implementation,pyshnograev,Java 6,80,30720000
+31313,7,1270141696,4996,D,2200,hashing-strings,mikhailOK,Java 6,640,224460800
+31257,7,1270141582,4882,B,1700,implementation,lolotp,Java 6,80,30720000
+31254,7,1270141577,4877,D,2200,hashing-strings,SpookyCookie,Java 6,360,69120000
+31127,7,1270141185,4485,B,1700,implementation,Vasya.V,Java 6,80,30720000
+31097,7,1270141126,4426,D,2200,hashing-strings,dAnton,Java 6,420,81408000
+31021,7,1270140941,4241,D,2200,hashing-strings,Egor,Java 6,590,155955200
+30961,7,1270140803,4103,C,1800,math-number theory,dimozzz,Java 6,60,30720000
+30923,7,1270140729,4029,B,1700,implementation,dev_il,Java 6,80,30720000
+30913,7,1270140706,4006,D,2200,hashing-strings,MaxBuzz,Java 6,480,82022400
+30884,7,1270140633,3933,B,1700,implementation,wistful23,Java 6,60,30720000
+30883,7,1270140630,3930,B,1700,implementation,ivan.popelyshev,Java 6,60,30720000
+30851,7,1270140556,3856,C,1800,math-number theory,DmitryKlenov,Java 6,80,30720000
+30847,7,1270140549,3849,D,2200,hashing-strings,ivan.popelyshev,Java 6,520,188313600
+30818,7,1270140493,3793,C,1800,math-number theory,izbyshev,Java 6,60,30720000
+30791,7,1270140420,3720,C,1800,math-number theory,TomConerly,Java 6,60,30720000
+30783,7,1270140407,3707,C,1800,math-number theory,kozima,Java 6,60,30720000
+30720,7,1270140236,3536,E,2500,dp-expression parsing-implementation,Petr,Java 6,80,30720000
+30671,7,1270140134,3434,B,1700,implementation,Duc,Java 6,90,30720000
+30645,7,1270140100,3400,B,1700,implementation,anhdt,Java 6,60,30720000
+30543,7,1270139867,3167,C,1800,math-number theory,mikhailOK,Java 6,80,30720000
+30506,7,1270139789,3089,A,1300,brute force-constructive algorithms,Sk1talec,Java 6,80,30720000
+30504,7,1270139783,3083,B,1700,implementation,niyaznigmatul,Java 6,60,30720000
+30503,7,1270139779,3079,B,1700,implementation,Efgen,Java 6,80,30720000
+30495,7,1270139762,3062,D,2200,hashing-strings,vot,Java 6,630,115712000
+30368,7,1270139432,2732,D,2200,hashing-strings,ivan.metelsky,Java 6,720,155852800
+30264,7,1270139200,2500,C,1800,math-number theory,SpookyCookie,Java 6,80,30720000
+30245,7,1270139163,2463,B,1700,implementation,DmitryKlenov,Java 6,60,30720000
+30222,7,1270139114,2414,C,1800,math-number theory,yiuyuho,Java 6,90,30720000
+30193,7,1270139057,2357,C,1800,math-number theory,MaxBuzz,Java 6,60,30720000
+30184,7,1270139039,2339,B,1700,implementation,dAnton,Java 6,80,30720000
+30119,7,1270138906,2206,B,1700,implementation,TomConerly,Java 6,90,30720000
+30116,7,1270138901,2201,B,1700,implementation,S.Yesipenko,Java 6,60,30720000
+30091,7,1270138854,2154,C,1800,math-number theory,ivan.popelyshev,Java 6,60,30720000
+30082,7,1270138822,2122,D,2200,hashing-strings,wata,Java 6,660,101478400
+30078,7,1270138814,2114,C,1800,math-number theory,ktuan,Java 6,80,30720000
+30045,7,1270138747,2047,C,1800,math-number theory,Egor,Java 6,80,30720000
+29949,7,1270138595,1895,B,1700,implementation,SpookyCookie,Java 6,60,30720000
+29942,7,1270138581,1881,C,1800,math-number theory,ivan.metelsky,Java 6,80,30720000
+29925,7,1270138547,1847,B,1700,implementation,yiuyuho,Java 6,80,30720000
+29909,7,1270138527,1827,C,1800,math-number theory,vot,Java 6,60,30720000
+29903,7,1270138520,1820,B,1700,implementation,xiaowuc1,Java 6,80,30720000
+29886,7,1270138482,1782,B,1700,implementation,izbyshev,Java 6,60,30720000
+29879,7,1270138466,1766,A,1300,brute force-constructive algorithms,winterflame,Java 6,60,30720000
+29858,7,1270138430,1730,A,1300,brute force-constructive algorithms,mohamed.gaber,Java 6,60,30720000
+29841,7,1270138391,1691,B,1700,implementation,dimozzz,Java 6,60,30720000
+29833,7,1270138380,1680,A,1300,brute force-constructive algorithms,LoKi,Java 6,60,30720000
+29779,7,1270138249,1549,B,1700,implementation,ktuan,Java 6,80,30720000
+29763,7,1270138218,1518,A,1300,brute force-constructive algorithms,ipaponov,Java 6,80,30720000
+29747,7,1270138180,1480,B,1700,implementation,MaxBuzz,Java 6,60,30720000
+29721,7,1270138133,1433,A,1300,brute force-constructive algorithms,lolotp,Java 6,80,30720000
+29714,7,1270138118,1418,D,2200,hashing-strings,Petr,Java 6,390,61337600
+29700,7,1270138082,1382,C,1800,math-number theory,wata,Java 6,80,30720000
+29681,7,1270138036,1336,B,1700,implementation,vot,Java 6,60,30720000
+29657,7,1270137981,1281,C,1800,math-number theory,niyaznigmatul,Java 6,60,30720000
+29655,7,1270137977,1277,C,1800,math-number theory,Vasya.V,Java 6,80,30720000
+29638,7,1270137935,1235,B,1700,implementation,Egor,Java 6,90,30720000
+29609,7,1270137858,1158,A,1300,brute force-constructive algorithms,shindo,Java 6,60,30720000
+29608,7,1270137855,1155,A,1300,brute force-constructive algorithms,OSt,Java 6,80,30720000
+29597,7,1270137833,1133,A,1300,brute force-constructive algorithms,kozima,Java 6,60,30720000
+29595,7,1270137832,1132,C,1800,math-number theory,dAnton,Java 6,90,30720000
+29573,7,1270137783,1083,C,1800,math-number theory,Petr,Java 6,60,30720000
+29566,7,1270137775,1075,B,1700,implementation,wata,Java 6,80,30720000
+29546,7,1270137744,1044,B,1700,implementation,ivan.metelsky,Java 6,80,30720000
+29506,7,1270137655,955,A,1300,brute force-constructive algorithms,niyaznigmatul,Java 6,60,30720000
+29499,7,1270137639,939,A,1300,brute force-constructive algorithms,mikhailOK,Java 6,80,30720000
+29480,7,1270137592,892,A,1300,brute force-constructive algorithms,nise_nabe,Java 6,80,30720000
+29479,7,1270137591,891,A,1300,brute force-constructive algorithms,dev_il,Java 6,110,30720000
+29467,7,1270137569,869,A,1300,brute force-constructive algorithms,S.Yesipenko,Java 6,60,30720000
+29448,7,1270137533,833,A,1300,brute force-constructive algorithms,wistful23,Java 6,60,30720000
+29412,7,1270137468,768,A,1300,brute force-constructive algorithms,pyshnograev,Java 6,60,30720000
+29376,7,1270137402,702,A,1300,brute force-constructive algorithms,danmana,Java 6,80,30720000
+29367,7,1270137392,692,A,1300,brute force-constructive algorithms,SpookyCookie,Java 6,60,30720000
+29334,7,1270137335,635,A,1300,brute force-constructive algorithms,Duc,Java 6,60,30720000
+29328,7,1270137324,624,A,1300,brute force-constructive algorithms,anhdt,Java 6,60,30720000
+29297,7,1270137270,570,A,1300,brute force-constructive algorithms,yiuyuho,Java 6,80,30720000
+29285,7,1270137252,552,B,1700,implementation,Petr,Java 6,60,30720000
+29267,7,1270137216,516,A,1300,brute force-constructive algorithms,DmitryKlenov,Java 6,80,30720000
+29243,7,1270137166,466,A,1300,brute force-constructive algorithms,dAnton,Java 6,90,30720000
+29232,7,1270137153,453,A,1300,brute force-constructive algorithms,Vasya.V,Java 6,60,30720000
+29230,7,1270137151,451,A,1300,brute force-constructive algorithms,dimozzz,Java 6,60,30720000
+29203,7,1270137096,396,A,1300,brute force-constructive algorithms,vot,Java 6,90,30720000
+29182,7,1270137057,357,A,1300,brute force-constructive algorithms,wata,Java 6,140,30720000
+29180,7,1270137055,355,A,1300,brute force-constructive algorithms,tirmen,Java 6,60,30720000
+29173,7,1270137046,346,A,1300,brute force-constructive algorithms,Egor,Java 6,80,30720000
+29166,7,1270137039,339,A,1300,brute force-constructive algorithms,ivan.popelyshev,Java 6,60,30720000
+29157,7,1270137003,303,A,1300,brute force-constructive algorithms,izbyshev,Java 6,80,30720000
+29156,7,1270137003,303,A,1300,brute force-constructive algorithms,MaxBuzz,Java 6,80,30720000
+29155,7,1270137002,302,A,1300,brute force-constructive algorithms,Efgen,Java 6,60,30720000
+29148,7,1270136982,282,A,1300,brute force-constructive algorithms,ktuan,Java 6,80,30720000
+29139,7,1270136952,252,A,1300,brute force-constructive algorithms,TomConerly,Java 6,130,30720000
+29132,7,1270136906,206,A,1300,brute force-constructive algorithms,Petr,Java 6,90,30720000
+29129,7,1270136884,184,A,1300,brute force-constructive algorithms,ivan.metelsky,Java 6,130,30720000

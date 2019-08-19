@@ -1,0 +1,44 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+45918271,1053,1542553367,2147483647,B,2100,data structures-divide and conquer-dp,RedWF,Java 8,498,33280000,OK
+45915487,1053,1542548874,3114,A,1700,geometry,RedWF,Java 8,124,0,OK
+44481773,1053,1539859347,2147483647,B,2100,data structures-divide and conquer-dp,Noureldin,Java 8,483,137216000,OK
+44424073,1053,1539743777,2147483647,C,2600,binary search-data structures,xodiac,Java 8,623,0,OK
+44401632,1053,1539694955,2147483647,B,2100,data structures-divide and conquer-dp,wadissimo,Java 8,468,35123200,OK
+44396554,1053,1539687959,2147483647,B,2100,data structures-divide and conquer-dp,wadissimo,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+44395231,1053,1539685726,2147483647,A,1700,geometry,wadissimo,Java 8,109,0,OK
+44379361,1053,1539654882,2147483647,B,2100,data structures-divide and conquer-dp,xodiac,Java 8,327,4915200,OK
+44277987,1053,1539477125,2825,A,1700,geometry,xodiac,Java 8,124,0,OK
+44267796,1053,1539451741,2147483647,B,2100,data structures-divide and conquer-dp,spar5h,Java 8,685,5529600,OK
+44251287,1053,1539427079,2159,A,1700,geometry,spar5h,Java 8,109,0,OK
+44095784,1053,1539216167,2147483647,D,3000,constructive algorithms-number theory,alexrcoleman,Java 8,421,25497600,OK
+43744353,1053,1538595718,2147483647,A,1700,geometry,alpushka,Java 8,186,0,OK
+43743591,1053,1538593881,2147483647,A,1700,geometry,alpushka,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+43547653,1053,1538166069,2147483647,A,1700,geometry,SrapZark,Java 8,140,0,OK
+43507353,1053,1538078972,2147483647,A,1700,geometry,PrakharJain,Java 8,171,0,OK
+43494495,1053,1538056993,2147483647,A,1700,geometry,NUOUN,Java 8,155,0,OK
+43455451,1053,1537973431,2147483647,A,1700,geometry,Suzukaze,Java 8,139,0,OK
+43405167,1053,1537873589,2147483647,A,1700,geometry,Tsumiki,Java 8,187,0,OK
+43376988,1053,1537808164,2147483647,B,2100,data structures-divide and conquer-dp,IDzekh,Java 8,546,39116800,OK
+43376795,1053,1537807889,2147483647,B,2100,data structures-divide and conquer-dp,IDzekh,Java 8,826,40038400,OK
+43376740,1053,1537807825,2147483647,B,2100,data structures-divide and conquer-dp,IDzekh,Java 8,826,40038400,OK
+43376620,1053,1537807669,2147483647,B,2100,data structures-divide and conquer-dp,IDzekh,Java 8,904,40038400,OK
+43355664,1053,1537769350,2147483647,C,2600,binary search-data structures,PrakharJain,Java 8,2500,25600000,TIME_LIMIT_EXCEEDED
+43351810,1053,1537757858,2147483647,A,1700,geometry,gcanovas,Java 8,171,0,OK
+43347191,1053,1537737772,2147483647,B,2100,data structures-divide and conquer-dp,AQT,Java 8,529,0,OK
+43347147,1053,1537737635,2147483647,B,2100,data structures-divide and conquer-dp,AQT,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+43343579,1053,1537729246,2147483647,B,2100,data structures-divide and conquer-dp,PrakharJain,Java 8,482,0,OK
+43339490,1053,1537722607,2147483647,A,1700,geometry,Kharouba,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+43339371,1053,1537722474,2147483647,A,1700,geometry,Kharouba,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+43331567,1053,1537714300,6400,B,2100,data structures-divide and conquer-dp,TheColemanClassic,Java 8,857,35635200,OK
+43324442,1053,1537712659,4759,B,2100,data structures-divide and conquer-dp,AuroraGarden,Java 8,358,2252800,OK
+43322369,1053,1537712189,4289,B,2100,data structures-divide and conquer-dp,guptautkarsh028,Java 8,405,3072000,OK
+43318322,1053,1537711328,3428,B,2100,data structures-divide and conquer-dp,indy256,Java 8,545,5734400,OK
+43318194,1053,1537711299,3399,A,1700,geometry,TheColemanClassic,Java 8,140,0,OK
+43313383,1053,1537710416,2516,B,2100,data structures-divide and conquer-dp,DicksOut4Harambe,Java 8,1279,0,OK
+43311085,1053,1537710002,2102,A,1700,geometry,AuroraGarden,Java 8,139,0,OK
+43307703,1053,1537709478,1578,A,1700,geometry,finnlidbetter,Java 8,140,0,OK
+43307479,1053,1537709445,1545,A,1700,geometry,AuroraGarden,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+43304609,1053,1537709016,1116,A,1700,geometry,AkshajK,Java 8,156,0,OK
+43304172,1053,1537708953,1053,A,1700,geometry,DicksOut4Harambe,Java 8,187,0,OK
+43303000,1053,1537708789,889,A,1700,geometry,indy256,Java 8,155,0,OK
+43300647,1053,1537708444,544,A,1700,geometry,guptautkarsh028,Java 8,140,0,OK

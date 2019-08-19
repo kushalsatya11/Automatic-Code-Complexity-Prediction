@@ -1,0 +1,736 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57905342,1081,1564334601,2147483647,A,800,constructive algorithms-math,Codestar_shivam,Java 8,140,0,OK
+57824587,1081,1564193536,2147483647,C,1600,combinatorics-dp-math,vjudge3,Java 8,187,37171200,OK
+57560121,1081,1563838530,2147483647,A,800,constructive algorithms-math,AllenYe,Java 8,140,0,OK
+57485680,1081,1563772327,2147483647,B,1500,constructive algorithms-implementation,salmani,Java 8,592,0,OK
+57475552,1081,1563743623,2147483647,B,1500,constructive algorithms-implementation,salmani,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57427478,1081,1563657917,2147483647,C,1600,combinatorics-dp-math,vjvjain0,Java 8,155,38502400,OK
+57310526,1081,1563517019,2147483647,A,800,constructive algorithms-math,S_Adik_K,Java 8,140,0,OK
+57063489,1081,1563132958,2147483647,A,800,constructive algorithms-math,beykus,Java 8,140,0,OK
+56856771,1081,1562871291,2147483647,A,800,constructive algorithms-math,ujjwalsingh30,Java 8,109,0,OK
+56668932,1081,1562501515,2147483647,H,3500,data structures-hashing-strings,ilvaman,Java 8,2500,0,TIME_LIMIT_EXCEEDED
+56619839,1081,1562412731,2147483647,A,800,constructive algorithms-math,lusty_coder,Java 8,139,0,OK
+56532251,1081,1562272500,2147483647,A,800,constructive algorithms-math,g10ria,Java 8,124,0,OK
+56487767,1081,1562181730,2147483647,A,800,constructive algorithms-math,ashcodish,Java 8,140,0,OK
+56254563,1081,1561786310,230,A,800,constructive algorithms-math,Smurferino,Java 8,124,0,OK
+56251185,1081,1561778257,2147483647,C,1600,combinatorics-dp-math,applemelon,Java 8,218,39526400,OK
+55940863,1081,1561221186,2147483647,C,1600,combinatorics-dp-math,nagabhushan,Java 8,264,38707200,OK
+55848164,1081,1561077224,2147483647,D,1800,dsu-graphs-shortest paths-sortings,brandon71901,Java 8,280,921600,OK
+55840490,1081,1561052624,2147483647,B,1500,constructive algorithms-implementation,brandon71901,Java 8,171,0,OK
+55815390,1081,1561011166,2147483647,A,800,constructive algorithms-math,brandon71901,Java 8,109,0,OK
+55681344,1081,1560777183,2147483647,D,1800,dsu-graphs-shortest paths-sortings,nagabhushan,Java 8,998,8499200,OK
+55095002,1081,1559666263,2147483647,A,800,constructive algorithms-math,Mared_Coder,Java 8,124,0,OK
+54882314,1081,1559314924,2147483647,H,3500,data structures-hashing-strings,t.karen.bro,Java 8,2500,348672000,TIME_LIMIT_EXCEEDED
+54824289,1081,1559194193,2147483647,A,800,constructive algorithms-math,goalboy,Java 8,139,0,OK
+54752406,1081,1559050104,2147483647,A,800,constructive algorithms-math,hctep,Java 8,140,0,OK
+54720381,1081,1558976730,2147483647,B,1500,constructive algorithms-implementation,typedef_2000,Java 8,171,3481600,OK
+54532914,1081,1558634750,2147483647,C,1600,combinatorics-dp-math,LeontiBrechko,Java 8,187,0,OK
+54079985,1081,1557799080,2147483647,A,800,constructive algorithms-math,bashar99,Java 8,155,0,OK
+54002918,1081,1557596176,2147483647,A,800,constructive algorithms-math,XsLel,Java 8,140,0,OK
+54002910,1081,1557596152,2147483647,A,800,constructive algorithms-math,vjudge3,Java 8,140,0,OK
+54002786,1081,1557595905,2147483647,A,800,constructive algorithms-math,XsLel,Java 8,140,0,OK
+54002636,1081,1557595603,2147483647,A,800,constructive algorithms-math,XsLel,Java 8,140,0,OK
+54002586,1081,1557595474,2147483647,A,800,constructive algorithms-math,vjudge2,Java 8,140,0,OK
+54002523,1081,1557595315,2147483647,A,800,constructive algorithms-math,vjudge1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54002417,1081,1557595044,2147483647,A,800,constructive algorithms-math,vjudge4,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54002340,1081,1557594857,2147483647,A,800,constructive algorithms-math,vjudge5,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54002308,1081,1557594768,2147483647,A,800,constructive algorithms-math,vjudge3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54001733,1081,1557593347,2147483647,A,800,constructive algorithms-math,vjudge4,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+53904492,1081,1557403328,2147483647,A,800,constructive algorithms-math,bondry,Java 8,140,0,OK
+53899192,1081,1557389227,2147483647,C,1600,combinatorics-dp-math,Sasuke-u,Java 8,217,38809600,OK
+53852999,1081,1557239091,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,mikkk,Java 8,155,0,OK
+53841074,1081,1557214320,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,Sasuke-u,Java 8,1044,138035200,OK
+53828913,1081,1557166721,2147483647,A,800,constructive algorithms-math,avr99,Java 8,109,0,OK
+53827766,1081,1557163643,2147483647,B,1500,constructive algorithms-implementation,Leks360,Java 8,608,4300800,OK
+53568973,1081,1556633060,2147483647,B,1500,constructive algorithms-implementation,zmurzagaliev,Java 8,483,0,OK
+52942599,1081,1555581567,2147483647,A,800,constructive algorithms-math,raiyan.2005,Java 8,124,0,OK
+52874419,1081,1555440641,2147483647,A,800,constructive algorithms-math,stolis,Java 8,140,0,OK
+52724782,1081,1555195737,2147483647,H,3500,data structures-hashing-strings,FatalityNT,Java 8,2500,275763200,TIME_LIMIT_EXCEEDED
+52628855,1081,1555047995,2147483647,C,1600,combinatorics-dp-math,vjudge1,Java 8,170,37171200,OK
+52628845,1081,1555047967,2147483647,C,1600,combinatorics-dp-math,mlstudio,Java 8,171,37171200,OK
+52628646,1081,1555047463,2147483647,C,1600,combinatorics-dp-math,mlstudio,Java 8,2000,163737600,TIME_LIMIT_EXCEEDED
+52628591,1081,1555047328,2147483647,C,1600,combinatorics-dp-math,mlstudio,Java 8,2000,79872000,TIME_LIMIT_EXCEEDED
+52624733,1081,1555035124,2147483647,C,1600,combinatorics-dp-math,mlstudio,Java 8,2000,188108800,TIME_LIMIT_EXCEEDED
+51841569,1081,1553553019,2147483647,C,1600,combinatorics-dp-math,neelbhallabos,Java 8,202,38809600,OK
+51839269,1081,1553544946,2147483647,C,1600,combinatorics-dp-math,woidjoe,Java 8,202,37171200,OK
+51830368,1081,1553529244,2147483647,H,3500,data structures-hashing-strings,TheUselessCoder,Java 8,2500,0,TIME_LIMIT_EXCEEDED
+51829502,1081,1553527849,2147483647,H,3500,data structures-hashing-strings,TheUselessCoder,Java 8,2500,0,TIME_LIMIT_EXCEEDED
+51753821,1081,1553337938,2147483647,D,1800,dsu-graphs-shortest paths-sortings,satya26,Java 8,608,51302400,OK
+51380530,1081,1552752081,2147483647,A,800,constructive algorithms-math,Yukimoto,Java 8,124,0,OK
+51292721,1081,1552562133,2147483647,A,800,constructive algorithms-math,pulkitaggarwal65,Java 8,140,0,OK
+51280543,1081,1552533706,2147483647,A,800,constructive algorithms-math,MDSP,Java 8,139,0,OK
+51161894,1081,1552308320,2147483647,C,1600,combinatorics-dp-math,tsumit023,Java 8,156,38809600,OK
+51148774,1081,1552284588,2147483647,C,1600,combinatorics-dp-math,xpray,Java 8,187,37171200,OK
+51061458,1081,1552101310,2147483647,A,800,constructive algorithms-math,jonahliu,Java 8,139,0,OK
+50782962,1081,1551701520,2147483647,A,800,constructive algorithms-math,batkhuyag,Java 8,140,0,OK
+50680060,1081,1551524638,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,polyakoff,Java 8,296,0,OK
+50277520,1081,1550746832,2147483647,B,1500,constructive algorithms-implementation,mikkk,Java 8,171,6963200,OK
+50253864,1081,1550687700,2147483647,B,1500,constructive algorithms-implementation,Harbin,Java 8,155,0,OK
+50246583,1081,1550675576,2147483647,A,800,constructive algorithms-math,samez,Java 8,109,0,OK
+50209751,1081,1550613630,2147483647,B,1500,constructive algorithms-implementation,gaurav.gk5826,Java 8,608,0,OK
+50208793,1081,1550610378,2147483647,A,800,constructive algorithms-math,gaurav.gk5826,Java 8,140,0,OK
+50133206,1081,1550512725,2147483647,H,3500,data structures-hashing-strings,stavan93,Java 8,2500,1068236800,TIME_LIMIT_EXCEEDED
+50133046,1081,1550512566,2147483647,H,3500,data structures-hashing-strings,stavan93,Java 8,2500,1068236800,TIME_LIMIT_EXCEEDED
+50076420,1081,1550440838,2147483647,D,1800,dsu-graphs-shortest paths-sortings,woidjoe,Java 8,982,35123200,OK
+50076235,1081,1550440020,2147483647,D,1800,dsu-graphs-shortest paths-sortings,woidjoe,Java 8,1000,34508800,TIME_LIMIT_EXCEEDED
+50076180,1081,1550439761,2147483647,D,1800,dsu-graphs-shortest paths-sortings,woidjoe,Java 8,1000,35942400,TIME_LIMIT_EXCEEDED
+50075947,1081,1550438571,2147483647,D,1800,dsu-graphs-shortest paths-sortings,woidjoe,Java 8,1000,33894400,TIME_LIMIT_EXCEEDED
+50075886,1081,1550438308,2147483647,D,1800,dsu-graphs-shortest paths-sortings,woidjoe,Java 8,1000,31539200,TIME_LIMIT_EXCEEDED
+49937430,1081,1550217522,2147483647,C,1600,combinatorics-dp-math,poketred12,Java 8,171,38809600,OK
+49876921,1081,1550074753,2147483647,A,800,constructive algorithms-math,KaungKhantThar,Java 8,155,0,OK
+49842175,1081,1549998229,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,revanthreddy85,Java 8,654,62054400,OK
+49827583,1081,1549974316,2147483647,B,1500,constructive algorithms-implementation,Mohamed_Saad62,Java 8,608,0,OK
+49815586,1081,1549950000,2147483647,A,800,constructive algorithms-math,vjudge4,Java 8,140,0,OK
+49813743,1081,1549943612,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,SelenaZ,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+49739079,1081,1549823062,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Shaykhutdinov-T-I,Java 8,233,0,OK
+49733975,1081,1549818720,2147483647,C,1600,combinatorics-dp-math,r9729104234,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+49690099,1081,1549795225,2147483647,D,1800,dsu-graphs-shortest paths-sortings,revanthreddy85,Java 8,234,5120000,OK
+49676698,1081,1549743387,2147483647,C,1600,combinatorics-dp-math,revanthreddy85,Java 8,280,39936000,OK
+49656831,1081,1549707832,2147483647,B,1500,constructive algorithms-implementation,revanthreddy85,Java 8,140,0,OK
+49648622,1081,1549693519,319,A,800,constructive algorithms-math,revanthreddy85,Java 8,124,0,OK
+49642973,1081,1549672677,2147483647,A,800,constructive algorithms-math,Nonnna,Java 8,109,0,OK
+49600001,1081,1549558167,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,harshkumarlaldas,Java 8,202,0,OK
+49599515,1081,1549557715,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,Intrincantation,Java 8,202,0,OK
+49555131,1081,1549530479,2147483647,D,1800,dsu-graphs-shortest paths-sortings,tusharjape007,Java 8,998,0,OK
+49554769,1081,1549529535,2147483647,D,1800,dsu-graphs-shortest paths-sortings,tusharjape007,Java 8,1000,32460800,TIME_LIMIT_EXCEEDED
+49554719,1081,1549529422,2147483647,D,1800,dsu-graphs-shortest paths-sortings,tusharjape007,Java 8,1000,32563200,TIME_LIMIT_EXCEEDED
+49554574,1081,1549529139,2147483647,D,1800,dsu-graphs-shortest paths-sortings,tusharjape007,Java 8,1000,4198400,TIME_LIMIT_EXCEEDED
+49508922,1081,1549393347,2147483647,B,1500,constructive algorithms-implementation,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49508739,1081,1549392972,2147483647,B,1500,constructive algorithms-implementation,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49507476,1081,1549390553,2147483647,B,1500,constructive algorithms-implementation,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49506316,1081,1549388397,2147483647,C,1600,combinatorics-dp-math,arvind_rvs,Java 8,217,38809600,OK
+49442073,1081,1549230913,2147483647,A,800,constructive algorithms-math,ahmedsakr3645,Java 8,140,0,OK
+49366144,1081,1549120052,2147483647,A,800,constructive algorithms-math,sabehahshaik,Java 8,140,0,OK
+49174792,1081,1548791434,2147483647,B,1500,constructive algorithms-implementation,Vishal_dhanani,Java 8,639,0,OK
+49165771,1081,1548779155,2147483647,A,800,constructive algorithms-math,Vishal_dhanani,Java 8,155,0,OK
+49140475,1081,1548755816,2147483647,C,1600,combinatorics-dp-math,mikkk,Java 8,171,38809600,OK
+49072373,1081,1548626979,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,Deido___,Java 8,326,0,OK
+49064789,1081,1548608985,2147483647,C,1600,combinatorics-dp-math,Intrincantation,Java 8,202,37068800,OK
+49056684,1081,1548596151,2147483647,A,800,constructive algorithms-math,DavidVictor2004,Java 8,139,0,OK
+49037735,1081,1548564449,2147483647,D,1800,dsu-graphs-shortest paths-sortings,happybelly,Java 8,280,0,OK
+49037442,1081,1548563535,2147483647,D,1800,dsu-graphs-shortest paths-sortings,happybelly,Java 8,265,0,OK
+49037261,1081,1548562951,2147483647,D,1800,dsu-graphs-shortest paths-sortings,happybelly,Java 8,280,0,OK
+48973981,1081,1548493127,2147483647,A,800,constructive algorithms-math,MANAV2000,Java 8,140,0,OK
+48707084,1081,1548138646,2147483647,C,1600,combinatorics-dp-math,happybelly,Java 8,171,0,OK
+48705076,1081,1548135144,2147483647,B,1500,constructive algorithms-implementation,happybelly,Java 8,155,0,OK
+48704174,1081,1548133209,2147483647,A,800,constructive algorithms-math,happybelly,Java 8,109,0,OK
+48644681,1081,1548003096,2147483647,B,1500,constructive algorithms-implementation,housni,Java 8,608,0,OK
+48642314,1081,1547999494,2147483647,B,1500,constructive algorithms-implementation,housni,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48548126,1081,1547847200,2147483647,C,1600,combinatorics-dp-math,palakmjn,Java 8,202,38809600,OK
+48515933,1081,1547783887,2147483647,C,1600,combinatorics-dp-math,satya26,Java 8,202,38707200,OK
+48515333,1081,1547781513,2147483647,C,1600,combinatorics-dp-math,satya26,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48509275,1081,1547753704,2147483647,A,800,constructive algorithms-math,KamelSamara,Java 8,139,0,OK
+48504260,1081,1547743710,2147483647,B,1500,constructive algorithms-implementation,StOlEn_KiNg,Java 8,218,0,OK
+48487848,1081,1547716388,2147483647,A,800,constructive algorithms-math,danny2019,Java 8,140,0,OK
+48464755,1081,1547656785,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,Tarun,Java 8,2000,262963200,TIME_LIMIT_EXCEEDED
+48456667,1081,1547643330,2147483647,C,1600,combinatorics-dp-math,hongquanntct,Java 8,452,258764800,OK
+48431853,1081,1547574827,2147483647,A,800,constructive algorithms-math,rairay,Java 8,140,0,OK
+48096583,1081,1546967681,2147483647,A,800,constructive algorithms-math,gauravbing,Java 8,124,0,OK
+48068996,1081,1546892455,2147483647,A,800,constructive algorithms-math,jpss2018,Java 8,124,0,OK
+48067246,1081,1546887371,2147483647,A,800,constructive algorithms-math,Luan89,Java 8,140,0,OK
+48029124,1081,1546773183,2147483647,A,800,constructive algorithms-math,ayushkesarwani1000,Java 8,139,0,OK
+48019027,1081,1546745469,2147483647,A,800,constructive algorithms-math,I.A.K.O.V,Java 8,124,0,OK
+47956260,1081,1546669306,2147483647,A,800,constructive algorithms-math,hetshah25,Java 8,140,0,OK
+47920356,1081,1546615267,2147483647,A,800,constructive algorithms-math,StarLord_07,Java 8,155,0,OK
+47897282,1081,1546601525,2147483647,C,1600,combinatorics-dp-math,sameep17264,Java 8,187,38809600,OK
+47889947,1081,1546579420,2147483647,C,1600,combinatorics-dp-math,Kavi.Prajapati,Java 8,217,38707200,OK
+47889649,1081,1546578290,2147483647,A,800,constructive algorithms-math,Kavi.Prajapati,Java 8,124,0,OK
+47888455,1081,1546572361,2147483647,A,800,constructive algorithms-math,natan.jr,Java 8,109,0,OK
+47887515,1081,1546567172,2147483647,A,800,constructive algorithms-math,arcus,Java 8,139,0,OK
+47887049,1081,1546563923,2147483647,A,800,constructive algorithms-math,jpss2018,Java 8,140,0,OK
+47886805,1081,1546562181,2147483647,A,800,constructive algorithms-math,leogoncalves2711,Java 8,139,0,OK
+47886388,1081,1546559047,2147483647,A,800,constructive algorithms-math,rafasam,Java 8,140,0,OK
+47885999,1081,1546556565,2147483647,A,800,constructive algorithms-math,brixtal,Java 8,140,0,OK
+47875231,1081,1546527621,2147483647,A,800,constructive algorithms-math,vitormach,Java 8,124,0,OK
+47874767,1081,1546526698,2147483647,A,800,constructive algorithms-math,vitormach,Java 8,1000,268390400,TIME_LIMIT_EXCEEDED
+47873817,1081,1546524920,2147483647,A,800,constructive algorithms-math,rodrigolopesx,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47873345,1081,1546524094,2147483647,A,800,constructive algorithms-math,rodrigolopesx,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47873098,1081,1546523681,2147483647,A,800,constructive algorithms-math,alfabr90,Java 8,155,0,OK
+47872884,1081,1546523354,2147483647,A,800,constructive algorithms-math,gabriel-almeida,Java 8,155,0,OK
+47872612,1081,1546522862,2147483647,A,800,constructive algorithms-math,rodrigolopesx,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47859098,1081,1546488105,2147483647,A,800,constructive algorithms-math,poketred12,Java 8,109,0,OK
+47854435,1081,1546460108,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,Ahmed_Diab,Java 8,280,0,OK
+47843892,1081,1546436282,2147483647,B,1500,constructive algorithms-implementation,raceldog,Java 8,624,0,OK
+47843552,1081,1546435712,2147483647,B,1500,constructive algorithms-implementation,raceldog,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47843479,1081,1546435604,2147483647,B,1500,constructive algorithms-implementation,raceldog,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47843376,1081,1546435428,2147483647,B,1500,constructive algorithms-implementation,raceldog,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47829263,1081,1546405143,2147483647,A,800,constructive algorithms-math,tiagoss2005,Java 8,124,0,OK
+47818344,1081,1546358204,2147483647,C,1600,combinatorics-dp-math,Hapsidra,Java 8,1357,173875200,OK
+47818039,1081,1546357409,2147483647,C,1600,combinatorics-dp-math,Hapsidra,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47815656,1081,1546352043,2147483647,C,1600,combinatorics-dp-math,Vaibhav96,Java 8,187,37171200,OK
+47804566,1081,1546321540,2147483647,A,800,constructive algorithms-math,tiagoss2005,Java 8,139,0,OK
+47787929,1081,1546256736,336,A,800,constructive algorithms-math,Sina.Majdieh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47782920,1081,1546247320,2147483647,C,1600,combinatorics-dp-math,raceldog,Java 8,218,37068800,OK
+47777835,1081,1546235177,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,benpr99,Java 8,202,0,OK
+47775274,1081,1546225733,2147483647,D,1800,dsu-graphs-shortest paths-sortings,benpr99,Java 8,249,0,OK
+47772624,1081,1546212277,2147483647,A,800,constructive algorithms-math,dmytro.prytula,Java 8,124,0,OK
+47722580,1081,1546172221,2147483647,A,800,constructive algorithms-math,abhinavsharma629,Java 8,155,0,OK
+47720358,1081,1546167090,450,A,800,constructive algorithms-math,holyfuck,Java 8,140,0,OK
+47701532,1081,1546102989,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,AnshDivya,Java 8,701,56934400,OK
+47684593,1081,1546092121,2147483647,D,1800,dsu-graphs-shortest paths-sortings,polyakoff,Java 8,280,9420800,OK
+47683355,1081,1546089484,2147483647,A,800,constructive algorithms-math,MikeFaraday,Java 8,124,0,OK
+47681440,1081,1546086037,2147483647,A,800,constructive algorithms-math,Player0109,Java 8,109,0,OK
+47670306,1081,1546060751,2147483647,A,800,constructive algorithms-math,shubhammitt,Java 8,140,0,OK
+47622938,1081,1546004456,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,YahiaBadr,Java 8,280,0,OK
+47622863,1081,1546004340,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,YahiaBadr,Java 8,280,0,OK
+47617674,1081,1545996073,2147483647,B,1500,constructive algorithms-implementation,Klnsyf_Ego,Java 8,795,0,OK
+47608050,1081,1545978768,1968,B,1500,constructive algorithms-implementation,norty,Java 8,483,0,OK
+47607118,1081,1545976983,183,A,800,constructive algorithms-math,norty,Java 8,124,0,OK
+47594227,1081,1545932425,2147483647,D,1800,dsu-graphs-shortest paths-sortings,AnshDivya,Java 8,592,5939200,OK
+47547320,1081,1545908205,2147483647,A,800,constructive algorithms-math,reemsaado,Java 8,140,0,OK
+47531860,1081,1545854017,2147483647,A,800,constructive algorithms-math,Fuad_Islam,Java 8,139,0,OK
+47528175,1081,1545844247,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,boltUsain,Java 8,295,0,OK
+47493228,1081,1545744549,2147483647,D,1800,dsu-graphs-shortest paths-sortings,YahiaBadr,Java 8,545,70963200,OK
+47491819,1081,1545741440,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,icpc_loser,Java 8,421,106188800,OK
+47491651,1081,1545741033,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,icpc_loser,Java 8,2000,47923200,TIME_LIMIT_EXCEEDED
+47478973,1081,1545703761,2147483647,A,800,constructive algorithms-math,AllenYe,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47468877,1081,1545682770,2147483647,D,1800,dsu-graphs-shortest paths-sortings,YahiaBadr,Java 8,264,4608000,OK
+47461579,1081,1545665065,3265,D,1800,dsu-graphs-shortest paths-sortings,icpc_loser,Java 8,280,34816000,OK
+47461515,1081,1545664902,2147483647,A,800,constructive algorithms-math,RabihJJ,Java 8,140,0,OK
+47461279,1081,1545664465,2147483647,A,800,constructive algorithms-math,divakarprasadashish,Java 8,140,0,OK
+47460895,1081,1545663739,1939,C,1600,combinatorics-dp-math,icpc_loser,Java 8,186,39321600,OK
+47460600,1081,1545663177,1376,B,1500,constructive algorithms-implementation,icpc_loser,Java 8,202,7577600,OK
+47459936,1081,1545661955,155,A,800,constructive algorithms-math,icpc_loser,Java 8,108,0,OK
+47457394,1081,1545657480,2147483647,A,800,constructive algorithms-math,RabihJJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47457011,1081,1545656870,2147483647,C,1600,combinatorics-dp-math,saurabh0611,Java 8,218,37273600,OK
+47449131,1081,1545639950,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Taran_1407,Java 8,295,819200,OK
+47438863,1081,1545600436,2147483647,A,800,constructive algorithms-math,Harbin,Java 8,124,0,OK
+47434770,1081,1545588702,2147483647,C,1600,combinatorics-dp-math,arvind_rvs,Java 8,2000,4608000,TIME_LIMIT_EXCEEDED
+47431802,1081,1545582662,2147483647,A,800,constructive algorithms-math,Tabshir_Bin_Bashar,Java 8,140,0,OK
+47431319,1081,1545582048,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,wolfib,Java 8,655,65433600,OK
+47430095,1081,1545580092,2147483647,A,800,constructive algorithms-math,IBatJ,Java 8,140,0,OK
+47398101,1081,1545568267,2147483647,C,1600,combinatorics-dp-math,malikabhishek273,Java 8,405,38195200,OK
+47398013,1081,1545568075,2147483647,A,800,constructive algorithms-math,CharlesDai,Java 8,109,0,OK
+47397887,1081,1545567839,2147483647,D,1800,dsu-graphs-shortest paths-sortings,KulikAlex,Java 8,545,34099200,OK
+47391721,1081,1545553779,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,wolfib,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47391401,1081,1545553139,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,wolfib,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47391344,1081,1545553039,2147483647,A,800,constructive algorithms-math,hnust_zhouchaoyuan,Java 8,156,0,OK
+47378063,1081,1545504322,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Ajudiya_13,Java 8,233,4915200,OK
+47372730,1081,1545491684,2147483647,H,3500,data structures-hashing-strings,MAEEN,Java 8,2500,0,TIME_LIMIT_EXCEEDED
+47372114,1081,1545490419,2147483647,C,1600,combinatorics-dp-math,kocko,Java 8,280,38604800,OK
+47371527,1081,1545489223,6043,E,1900,binary search-constructive algorithms-greedy-math-number theory,zeyad_khattab,Java 8,171,0,OK
+47370156,1081,1545486554,3374,D,1800,dsu-graphs-shortest paths-sortings,zeyad_khattab,Java 8,296,512000,OK
+47369366,1081,1545484916,1736,B,1500,constructive algorithms-implementation,zeyad_khattab,Java 8,186,7065600,OK
+47369133,1081,1545484474,1294,C,1600,combinatorics-dp-math,zeyad_khattab,Java 8,202,16793600,OK
+47368587,1081,1545483350,170,A,800,constructive algorithms-math,zeyad_khattab,Java 8,109,0,OK
+47366955,1081,1545480108,2147483647,D,1800,dsu-graphs-shortest paths-sortings,afrizal,Java 8,373,5427200,OK
+47366656,1081,1545479519,2147483647,B,1500,constructive algorithms-implementation,Pratik_Rajani,Java 8,140,0,OK
+47363638,1081,1545473610,2147483647,A,800,constructive algorithms-math,Pratik_Rajani,Java 8,124,0,OK
+47361096,1081,1545468382,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,SevenDeadlySins,Java 8,2000,2662400,TIME_LIMIT_EXCEEDED
+47361027,1081,1545468267,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Ahmed_Diab,Java 8,249,0,OK
+47361003,1081,1545468231,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Ahmed_Diab,Java 8,233,0,OK
+47360840,1081,1545467915,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,SevenDeadlySins,Java 8,2000,2662400,TIME_LIMIT_EXCEEDED
+47360749,1081,1545467775,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,SevenDeadlySins,Java 8,2000,4198400,TIME_LIMIT_EXCEEDED
+47360157,1081,1545466575,2147483647,B,1500,constructive algorithms-implementation,abhi2601,Java 8,249,4915200,OK
+47354266,1081,1545455896,2296,C,1600,combinatorics-dp-math,SevenDeadlySins,Java 8,124,0,OK
+47354138,1081,1545455644,4084,C,1600,combinatorics-dp-math,Tarun,Java 8,140,0,OK
+47353829,1081,1545454861,3301,C,1600,combinatorics-dp-math,Tarun,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47353455,1081,1545453899,2339,B,1500,constructive algorithms-implementation,Tarun,Java 8,171,4812800,OK
+47353430,1081,1545453839,239,A,800,constructive algorithms-math,SevenDeadlySins,Java 8,109,0,OK
+47352542,1081,1545451806,246,A,800,constructive algorithms-math,Tarun,Java 8,109,0,OK
+47351929,1081,1545449857,2147483647,D,1800,dsu-graphs-shortest paths-sortings,boltUsain,Java 8,561,31539200,OK
+47349862,1081,1545441071,2147483647,D,1800,dsu-graphs-shortest paths-sortings,flyman3046,Java 8,218,0,OK
+47349194,1081,1545436863,2147483647,B,1500,constructive algorithms-implementation,flyman3046,Java 8,186,7270400,OK
+47342439,1081,1545415037,2147483647,C,1600,combinatorics-dp-math,SalahSalama,Java 8,155,0,OK
+47340963,1081,1545412722,2147483647,A,800,constructive algorithms-math,riyamish16,Java 8,139,0,OK
+47334954,1081,1545403307,2147483647,C,1600,combinatorics-dp-math,prakhar897,Java 8,124,0,OK
+47334900,1081,1545403226,2147483647,A,800,constructive algorithms-math,abhi2601,Java 8,124,0,OK
+47330376,1081,1545395800,2147483647,B,1500,constructive algorithms-implementation,kocko,Java 8,187,6246400,OK
+47318709,1081,1545372965,2147483647,A,800,constructive algorithms-math,manikasharma09,Java 8,155,0,OK
+47318704,1081,1545372956,2147483647,A,800,constructive algorithms-math,aryanvichare,Java 8,140,0,OK
+47311803,1081,1545337893,2147483647,A,800,constructive algorithms-math,Igsion,Java 8,139,0,OK
+47304424,1081,1545321339,2147483647,D,1800,dsu-graphs-shortest paths-sortings,bhautik_77,Java 8,420,49766400,OK
+47303985,1081,1545320533,2147483647,A,800,constructive algorithms-math,kocko,Java 8,109,0,OK
+47298361,1081,1545311049,2147483647,A,800,constructive algorithms-math,Ox.,Java 8,124,0,OK
+47298296,1081,1545310942,2147483647,A,800,constructive algorithms-math,Ox.,Java 8,124,0,OK
+47296645,1081,1545308288,2147483647,A,800,constructive algorithms-math,sooraj10,Java 8,124,0,OK
+47294152,1081,1545303871,2147483647,H,3500,data structures-hashing-strings,ernesto.zeferino,Java 8,2500,81510400,TIME_LIMIT_EXCEEDED
+47293420,1081,1545302486,2147483647,H,3500,data structures-hashing-strings,ernesto.zeferino,Java 8,2500,76902400,TIME_LIMIT_EXCEEDED
+47289828,1081,1545294638,2147483647,H,3500,data structures-hashing-strings,ernesto.zeferino,Java 8,2500,20070400,TIME_LIMIT_EXCEEDED
+47289746,1081,1545294478,2147483647,B,1500,constructive algorithms-implementation,agarwal19,Java 8,467,0,OK
+47283919,1081,1545280142,2147483647,A,800,constructive algorithms-math,r_jain.forces,Java 8,140,0,OK
+47276347,1081,1545248202,2147483647,D,1800,dsu-graphs-shortest paths-sortings,alibaba,Java 8,655,54374400,OK
+47273201,1081,1545241687,2147483647,A,800,constructive algorithms-math,isabellaqian,Java 8,140,0,OK
+47268732,1081,1545233685,4845,E,1900,binary search-constructive algorithms-greedy-math-number theory,Kharouba,Java 8,295,0,OK
+47268618,1081,1545233490,2147483647,C,1600,combinatorics-dp-math,satyamkmr326,Java 8,264,37068800,OK
+47268115,1081,1545232668,2147483647,A,800,constructive algorithms-math,Behnam1999,Java 8,140,0,OK
+47267196,1081,1545231130,2290,D,1800,dsu-graphs-shortest paths-sortings,Kharouba,Java 8,997,65536000,OK
+47266549,1081,1545230034,1194,C,1600,combinatorics-dp-math,Kharouba,Java 8,280,38502400,OK
+47266206,1081,1545229585,745,B,1500,constructive algorithms-implementation,Kharouba,Java 8,155,0,OK
+47265801,1081,1545228979,138,A,800,constructive algorithms-math,Kharouba,Java 8,109,0,OK
+47265730,1081,1545228879,2147483647,A,800,constructive algorithms-math,satyamkmr326,Java 8,140,0,OK
+47265283,1081,1545228208,2147483647,B,1500,constructive algorithms-implementation,satyamkmr326,Java 8,608,4300800,OK
+47257637,1081,1545217491,2147483647,A,800,constructive algorithms-math,vjudge3,Java 8,140,0,OK
+47255779,1081,1545214958,2147483647,B,1500,constructive algorithms-implementation,Hatsujime487,Java 8,202,1740800,OK
+47250275,1081,1545206110,2147483647,A,800,constructive algorithms-math,tejas10p,Java 8,139,0,OK
+47247260,1081,1545201064,2147483647,B,1500,constructive algorithms-implementation,zephyr_23,Java 8,483,0,OK
+47239868,1081,1545178409,2147483647,B,1500,constructive algorithms-implementation,enricogi,Java 8,670,0,OK
+47239230,1081,1545175639,2147483647,B,1500,constructive algorithms-implementation,enricogi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47239063,1081,1545174930,3330,D,1800,dsu-graphs-shortest paths-sortings,Atharvar,Java 8,249,0,OK
+47238734,1081,1545173590,1990,C,1600,combinatorics-dp-math,Atharvar,Java 8,124,0,OK
+47238627,1081,1545173205,2147483647,B,1500,constructive algorithms-implementation,enricogi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47238410,1081,1545172337,737,B,1500,constructive algorithms-implementation,Atharvar,Java 8,265,7987200,OK
+47238281,1081,1545171761,161,A,800,constructive algorithms-math,Atharvar,Java 8,109,0,OK
+47237508,1081,1545168894,2147483647,B,1500,constructive algorithms-implementation,jatin.jain9414,Java 8,608,0,OK
+47237268,1081,1545168138,2147483647,B,1500,constructive algorithms-implementation,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47237165,1081,1545167815,2147483647,B,1500,constructive algorithms-implementation,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47233063,1081,1545159745,2147483647,B,1500,constructive algorithms-implementation,Maaddy,Java 8,186,0,OK
+47226197,1081,1545150965,2147483647,A,800,constructive algorithms-math,dinesh_raj7,Java 8,124,0,OK
+47195039,1081,1545142036,2147483647,B,1500,constructive algorithms-implementation,prakhar897,Java 8,171,0,OK
+47194558,1081,1545141255,2147483647,A,800,constructive algorithms-math,darshansampathkumar,Java 8,155,0,OK
+47193544,1081,1545139709,2147483647,A,800,constructive algorithms-math,nidhi_099,Java 8,139,0,OK
+47190561,1081,1545134615,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,jenish9599,Java 8,296,0,OK
+47189555,1081,1545132646,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Musin,Java 8,249,0,OK
+47189434,1081,1545132427,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Musin,Java 8,343,1740800,OK
+47189304,1081,1545132171,2147483647,A,800,constructive algorithms-math,Ahmed_Abdou,Java 8,140,0,OK
+47188194,1081,1545114917,2147483647,D,1800,dsu-graphs-shortest paths-sortings,james222424,Java 8,295,5324800,OK
+47187922,1081,1545113265,2147483647,D,1800,dsu-graphs-shortest paths-sortings,james222424,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47187363,1081,1545111747,2147483647,C,1600,combinatorics-dp-math,suja_12358,Java 8,280,37171200,OK
+47187345,1081,1545111689,2147483647,C,1600,combinatorics-dp-math,suja_12358,Java 8,280,37171200,OK
+47187319,1081,1545111609,2147483647,C,1600,combinatorics-dp-math,suja_12358,Java 8,326,37171200,OK
+47186755,1081,1545110101,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,SrapZark,Java 8,374,41369600,OK
+47186708,1081,1545109967,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,SrapZark,Java 8,389,41369600,OK
+47186682,1081,1545109865,2147483647,C,1600,combinatorics-dp-math,benpr99,Java 8,1107,186777600,OK
+47186488,1081,1545109251,2147483647,C,1600,combinatorics-dp-math,SrapZark,Java 8,108,0,OK
+47186152,1081,1545108043,2147483647,A,800,constructive algorithms-math,Gautam_009,Java 8,140,0,OK
+47184603,1081,1545101026,2147483647,C,1600,combinatorics-dp-math,Taran_1407,Java 8,139,0,OK
+47184526,1081,1545100665,2147483647,C,1600,combinatorics-dp-math,Taran_1407,Java 8,233,36966400,OK
+47184431,1081,1545100232,2147483647,B,1500,constructive algorithms-implementation,Taran_1407,Java 8,186,7372800,OK
+47184340,1081,1545099717,2147483647,A,800,constructive algorithms-math,Taran_1407,Java 8,124,0,OK
+47183403,1081,1545093262,2147483647,B,1500,constructive algorithms-implementation,benpr99,Java 8,140,0,OK
+47183099,1081,1545091282,2147483647,A,800,constructive algorithms-math,O_E,Java 8,109,0,OK
+47183064,1081,1545090968,2147483647,D,1800,dsu-graphs-shortest paths-sortings,khokharnikunj8,Java 8,217,5427200,OK
+47183016,1081,1545090649,2147483647,D,1800,dsu-graphs-shortest paths-sortings,khokharnikunj8,Java 8,358,36864000,OK
+47182258,1081,1545085676,2147483647,A,800,constructive algorithms-math,vvvenom,Java 8,109,0,OK
+47182217,1081,1545085402,2147483647,A,800,constructive algorithms-math,vvvenom,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47182204,1081,1545085329,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,vvvenom,Java 8,311,0,OK
+47181675,1081,1545082666,4066,E,1900,binary search-constructive algorithms-greedy-math-number theory,khokharnikunj8,Java 8,124,0,OK
+47181547,1081,1545082170,2147483647,C,1600,combinatorics-dp-math,jebaited,Java 8,140,38707200,OK
+47181078,1081,1545080220,1620,C,1600,combinatorics-dp-math,khokharnikunj8,Java 8,124,0,OK
+47180865,1081,1545079502,902,B,1500,constructive algorithms-implementation,khokharnikunj8,Java 8,155,5017600,OK
+47180635,1081,1545078721,121,A,800,constructive algorithms-math,khokharnikunj8,Java 8,124,0,OK
+47180107,1081,1545077045,2147483647,B,1500,constructive algorithms-implementation,jebaited,Java 8,483,8294400,OK
+47180089,1081,1545077013,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Deimos,Java 8,265,0,OK
+47180046,1081,1545076881,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Deimos,Java 8,265,0,OK
+47177125,1081,1545070162,2147483647,C,1600,combinatorics-dp-math,alibaba,Java 8,233,38809600,OK
+47176623,1081,1545069198,2147483647,B,1500,constructive algorithms-implementation,sustech_plus,Java 8,155,4096000,OK
+47176501,1081,1545068912,2147483647,B,1500,constructive algorithms-implementation,arry_stark,Java 8,592,3993600,OK
+47176376,1081,1545068649,2147483647,A,800,constructive algorithms-math,jebaited,Java 8,109,0,OK
+47176275,1081,1545068429,2147483647,A,800,constructive algorithms-math,mohdafzal330,Java 8,109,0,OK
+47176206,1081,1545068296,2147483647,C,1600,combinatorics-dp-math,amirah,Java 8,2000,38604800,TIME_LIMIT_EXCEEDED
+47175802,1081,1545067590,2147483647,B,1500,constructive algorithms-implementation,Akash_UR,Java 8,171,3788800,OK
+47175263,1081,1545066644,2147483647,C,1600,combinatorics-dp-math,Akash_UR,Java 8,124,0,OK
+47174558,1081,1545065377,2147483647,A,800,constructive algorithms-math,nesdi,Java 8,124,0,OK
+47174233,1081,1545064703,2147483647,A,800,constructive algorithms-math,devanshagar783,Java 8,140,0,OK
+47173905,1081,1545064133,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,weird_penguin,Java 8,483,0,OK
+47173563,1081,1545063505,2147483647,A,800,constructive algorithms-math,sustech_plus,Java 8,124,0,OK
+47171614,1081,1545059844,2147483647,A,800,constructive algorithms-math,archit1jain,Java 8,124,0,OK
+47171229,1081,1545059217,2147483647,A,800,constructive algorithms-math,sn1pejkeee,Java 8,109,0,OK
+47171068,1081,1545058870,2147483647,C,1600,combinatorics-dp-math,thesparkboy,Java 8,155,38809600,OK
+47170220,1081,1545057237,2147483647,C,1600,combinatorics-dp-math,Anonymous,Java 8,124,0,OK
+47170184,1081,1545057176,2147483647,C,1600,combinatorics-dp-math,james222424,Java 8,186,38809600,OK
+47169309,1081,1545055605,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,aman28rwt,Java 8,171,0,OK
+47169286,1081,1545055564,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,aman28rwt,Java 8,187,0,OK
+47169163,1081,1545055358,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,aman28rwt,Java 8,202,0,OK
+47168450,1081,1545054149,2147483647,D,1800,dsu-graphs-shortest paths-sortings,aman28rwt,Java 8,218,5939200,OK
+47168170,1081,1545053681,2147483647,C,1600,combinatorics-dp-math,I_Love_evoL_I,Java 8,124,0,OK
+47167414,1081,1545052312,2147483647,B,1500,constructive algorithms-implementation,BaaaaaaanTedGuYYYYYYY,Java 8,483,0,OK
+47166570,1081,1545051009,2147483647,A,800,constructive algorithms-math,Keep_distance,Java 8,139,0,OK
+47165626,1081,1545049408,2147483647,B,1500,constructive algorithms-implementation,james222424,Java 8,171,8192000,OK
+47164549,1081,1545047458,2147483647,A,800,constructive algorithms-math,Nrgn,Java 8,140,0,OK
+47164180,1081,1545046833,2147483647,A,800,constructive algorithms-math,I_Love_evoL_I,Java 8,124,0,OK
+47163741,1081,1545045988,2147483647,A,800,constructive algorithms-math,saifulislamtarek,Java 8,171,0,OK
+47163370,1081,1545045325,2147483647,C,1600,combinatorics-dp-math,weird_penguin,Java 8,124,0,OK
+47162488,1081,1545043474,2147483647,A,800,constructive algorithms-math,kotka_animesh,Java 8,139,0,OK
+47161916,1081,1545042277,2147483647,A,800,constructive algorithms-math,PersonOfInterest,Java 8,140,0,OK
+47161853,1081,1545042174,2147483647,C,1600,combinatorics-dp-math,slava812,Java 8,124,0,OK
+47160256,1081,1545038672,2147483647,C,1600,combinatorics-dp-math,zephyr_23,Java 8,249,37273600,OK
+47160224,1081,1545038616,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Rajib_119,Java 8,248,0,OK
+47159822,1081,1545037694,2147483647,C,1600,combinatorics-dp-math,_S_T_O_C_H_A_S_T_I_C_,Java 8,265,37171200,OK
+47159809,1081,1545037671,2147483647,B,1500,constructive algorithms-implementation,_S_T_O_C_H_A_S_T_I_C_,Java 8,639,4300800,OK
+47159788,1081,1545037644,2147483647,A,800,constructive algorithms-math,_S_T_O_C_H_A_S_T_I_C_,Java 8,140,0,OK
+47159430,1081,1545036968,2147483647,D,1800,dsu-graphs-shortest paths-sortings,reborn.chris,Java 8,311,6246400,OK
+47157994,1081,1545034013,2147483647,C,1600,combinatorics-dp-math,zephyr_23,Java 8,124,0,OK
+47157558,1081,1545033069,2147483647,D,1800,dsu-graphs-shortest paths-sortings,bhavyashah9873,Java 8,686,48332800,OK
+47157497,1081,1545032889,2147483647,D,1800,dsu-graphs-shortest paths-sortings,Rutvik_Kothari,Java 8,607,48435200,OK
+47157336,1081,1545032547,2147483647,A,800,constructive algorithms-math,Anonymous,Java 8,108,0,OK
+47156830,1081,1545031451,2147483647,B,1500,constructive algorithms-implementation,bhavyashah9873,Java 8,156,0,OK
+47155613,1081,1545028538,2147483647,A,800,constructive algorithms-math,amolpratap007,Java 8,124,0,OK
+47155531,1081,1545028327,2147483647,B,1500,constructive algorithms-implementation,amolpratap007,Java 8,140,4710400,OK
+47155476,1081,1545028182,2147483647,A,800,constructive algorithms-math,cosinechicken,Java 8,140,0,OK
+47155402,1081,1545028027,2147483647,B,1500,constructive algorithms-implementation,yashu024,Java 8,218,9830400,OK
+47149949,1081,1545027007,2147483647,D,1800,dsu-graphs-shortest paths-sortings,llamaoo7,Java 8,280,6246400,OK
+47149874,1081,1545026855,2147483647,A,800,constructive algorithms-math,benpr99,Java 8,139,0,OK
+47149856,1081,1545026806,2147483647,C,1600,combinatorics-dp-math,amolpratap007,Java 8,171,38502400,OK
+47149664,1081,1545026306,2147483647,D,1800,dsu-graphs-shortest paths-sortings,mennafadali,Java 8,405,31334400,OK
+47149554,1081,1545025971,2147483647,C,1600,combinatorics-dp-math,mug,Java 8,202,16179200,OK
+47149451,1081,1545025704,2147483647,B,1500,constructive algorithms-implementation,bhautik_77,Java 8,140,0,OK
+47149424,1081,1545025646,2147483647,B,1500,constructive algorithms-implementation,typedef_2000,Java 8,140,0,OK
+47149025,1081,1545024597,2147483647,C,1600,combinatorics-dp-math,typedef_2000,Java 8,187,37888000,OK
+47148148,1081,1545021814,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,xodiac,Java 8,686,60313600,OK
+47147814,1081,1545020602,2147483647,D,1800,dsu-graphs-shortest paths-sortings,amolpratap007,Java 8,296,17305600,OK
+47147167,1081,1545018193,2147483647,A,800,constructive algorithms-math,saurabhk28,Java 8,140,0,OK
+47147135,1081,1545018088,2147483647,F,2500,constructive algorithms-implementation-interactive,fnozoszzt,Java 8,234,0,OK
+47146630,1081,1545016073,2147483647,A,800,constructive algorithms-math,anony9906,Java 8,140,0,OK
+47145868,1081,1545012854,2147483647,A,800,constructive algorithms-math,alecs6k,Java 8,140,0,OK
+47145738,1081,1545012230,2147483647,A,800,constructive algorithms-math,Mohammad_Hasan,Java 8,139,0,OK
+47145518,1081,1545011198,2147483647,D,1800,dsu-graphs-shortest paths-sortings,xodiac,Java 8,202,0,OK
+47145386,1081,1545010540,2147483647,A,800,constructive algorithms-math,arry_stark,Java 8,124,0,OK
+47144802,1081,1545007252,2147483647,A,800,constructive algorithms-math,Ahmed_Diab,Java 8,109,0,OK
+47144690,1081,1545006573,2147483647,B,1500,constructive algorithms-implementation,poikniok,Java 8,217,4710400,OK
+47144626,1081,1545006200,2147483647,B,1500,constructive algorithms-implementation,Ahmed_Diab,Java 8,155,0,OK
+47144600,1081,1545006071,2147483647,B,1500,constructive algorithms-implementation,Ahmed_Diab,Java 8,155,0,OK
+47144531,1081,1545005757,2147483647,A,800,constructive algorithms-math,poikniok,Java 8,124,0,OK
+47144435,1081,1545005202,2147483647,C,1600,combinatorics-dp-math,poikniok,Java 8,109,0,OK
+47144097,1081,1545002849,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,mikit,Java 8,2000,7372800,TIME_LIMIT_EXCEEDED
+47143511,1081,1544999047,2147483647,A,800,constructive algorithms-math,Joao_Ribeiro,Java 8,140,0,OK
+47143470,1081,1544998798,2147483647,A,800,constructive algorithms-math,qwerty12345qwerty,Java 8,155,0,OK
+47143453,1081,1544998696,2147483647,A,800,constructive algorithms-math,muregad99,Java 8,109,0,OK
+47143439,1081,1544998614,2147483647,A,800,constructive algorithms-math,qwerty12345qwerty,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47143378,1081,1544998315,2147483647,A,800,constructive algorithms-math,jwk,Java 8,140,0,OK
+47143309,1081,1544997862,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,flyman3046,Java 8,889,95334400,OK
+47143302,1081,1544997845,2147483647,A,800,constructive algorithms-math,avwede,Java 8,124,0,OK
+47143089,1081,1544996763,2147483647,A,800,constructive algorithms-math,Ahmed_Diab,Java 8,140,0,OK
+47143049,1081,1544996594,2147483647,C,1600,combinatorics-dp-math,Ahmed_Diab,Java 8,202,16179200,OK
+47142939,1081,1544996122,2147483647,C,1600,combinatorics-dp-math,amanchik,Java 8,171,39219200,OK
+47142715,1081,1544995354,2147483647,B,1500,constructive algorithms-implementation,PrakharJain,Java 8,140,4300800,OK
+47142642,1081,1544995135,2147483647,C,1600,combinatorics-dp-math,Serh.kry,Java 8,109,0,OK
+47142561,1081,1544994819,2147483647,A,800,constructive algorithms-math,juanmc2007,Java 8,140,0,OK
+47142422,1081,1544994388,2147483647,A,800,constructive algorithms-math,Shivam_72,Java 8,109,0,OK
+47141898,1081,1544992926,2147483647,A,800,constructive algorithms-math,MHariri,Java 8,140,0,OK
+47141790,1081,1544992595,2147483647,A,800,constructive algorithms-math,Java,Java 8,140,0,OK
+47141049,1081,1544990716,2147483647,A,800,constructive algorithms-math,ay839065,Java 8,109,0,OK
+47140999,1081,1544990618,2147483647,E,1900,binary search-constructive algorithms-greedy-math-number theory,wadissimo,Java 8,280,0,OK
+47140815,1081,1544990279,2147483647,A,800,constructive algorithms-math,Abdelfattah_Mohamed,Java 8,140,0,OK
+47140800,1081,1544990239,2147483647,A,800,constructive algorithms-math,ujjwal_sri,Java 8,140,0,OK
+47140678,1081,1544989982,2147483647,A,800,constructive algorithms-math,di_halt,Java 8,124,0,OK
+47140272,1081,1544989293,2147483647,A,800,constructive algorithms-math,Tardimgg,Java 8,124,0,OK
+47140244,1081,1544989255,2147483647,A,800,constructive algorithms-math,Mackenzie,Java 8,109,0,OK
+47139803,1081,1544988554,2147483647,D,1800,dsu-graphs-shortest paths-sortings,shikharid,Java 8,623,5734400,OK
+47139671,1081,1544988370,2147483647,D,1800,dsu-graphs-shortest paths-sortings,shikharid,Java 8,655,6656000,OK
+47139498,1081,1544988161,2147483647,C,1600,combinatorics-dp-math,helllo,Java 8,155,16793600,OK
+47139355,1081,1544988005,2147483647,D,1800,dsu-graphs-shortest paths-sortings,shikharid,Java 8,1000,2969600,TIME_LIMIT_EXCEEDED
+47136535,1081,1544979884,8984,A,800,constructive algorithms-math,maddyj24,Java 8,140,0,OK
+47136067,1081,1544979745,8845,B,1500,constructive algorithms-implementation,Maaddy,Java 8,1000,8089600,TIME_LIMIT_EXCEEDED
+47135868,1081,1544979666,8766,D,1800,dsu-graphs-shortest paths-sortings,SaveVMK,Java 8,327,154931200,OK
+47135487,1081,1544979511,8611,E,1900,binary search-constructive algorithms-greedy-math-number theory,---,Java 8,249,0,OK
+47135461,1081,1544979501,8601,E,1900,binary search-constructive algorithms-greedy-math-number theory,PrakharJain,Java 8,311,0,OK
+47135284,1081,1544979415,8515,C,1600,combinatorics-dp-math,msagimbekov,Java 8,265,37580800,OK
+47135263,1081,1544979406,8506,B,1500,constructive algorithms-implementation,tmak_54,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47135167,1081,1544979367,8467,H,3500,data structures-hashing-strings,Vijayendra_Sai,Java 8,2500,921600,TIME_LIMIT_EXCEEDED
+47134837,1081,1544979219,8319,B,1500,constructive algorithms-implementation,qwerty12345qwerty,Java 8,623,3686400,OK
+47134785,1081,1544979192,8291,B,1500,constructive algorithms-implementation,Vladimirr.Petrunko,Java 8,623,0,OK
+47134452,1081,1544979029,8129,A,800,constructive algorithms-math,Seven,Java 8,124,0,OK
+47134446,1081,1544979025,8125,B,1500,constructive algorithms-implementation,shanky_ty,Java 8,296,0,OK
+47134414,1081,1544979011,8111,C,1600,combinatorics-dp-math,droneKingxiiiiiiiDaddy,Java 8,264,37171200,OK
+47134132,1081,1544978864,7964,C,1600,combinatorics-dp-math,thetansquared,Java 8,109,0,OK
+47134077,1081,1544978835,7935,B,1500,constructive algorithms-implementation,Seven,Java 8,156,0,OK
+47133847,1081,1544978713,7813,E,1900,binary search-constructive algorithms-greedy-math-number theory,kubusgol,Java 8,810,79360000,OK
+47133788,1081,1544978685,7785,C,1600,combinatorics-dp-math,LM.10,Java 8,124,0,OK
+47133441,1081,1544978499,7599,C,1600,combinatorics-dp-math,p1p13,Java 8,218,38912000,OK
+47133119,1081,1544978329,7429,A,800,constructive algorithms-math,hemantjain759,Java 8,140,0,OK
+47132916,1081,1544978241,7341,C,1600,combinatorics-dp-math,Mohammad_Af,Java 8,186,0,OK
+47132638,1081,1544978090,7190,B,1500,constructive algorithms-implementation,KharYusuf,Java 8,140,0,OK
+47132275,1081,1544977914,7014,E,1900,binary search-constructive algorithms-greedy-math-number theory,Seven,Java 8,311,0,OK
+47132270,1081,1544977912,7012,C,1600,combinatorics-dp-math,dyominov,Java 8,171,38809600,OK
+47132034,1081,1544977800,6900,E,1900,binary search-constructive algorithms-greedy-math-number theory,hiromi_ayase,Java 8,405,0,OK
+47132029,1081,1544977798,6898,E,1900,binary search-constructive algorithms-greedy-math-number theory,fnozoszzt,Java 8,358,0,OK
+47131854,1081,1544977709,6809,D,1800,dsu-graphs-shortest paths-sortings,uwi,Java 8,187,0,OK
+47131845,1081,1544977704,6804,C,1600,combinatorics-dp-math,romit17,Java 8,124,0,OK
+47131766,1081,1544977656,6756,E,1900,binary search-constructive algorithms-greedy-math-number theory,hiromi_ayase,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47131757,1081,1544977650,6750,B,1500,constructive algorithms-implementation,shahdhairya678,Java 8,624,0,OK
+47131534,1081,1544977545,6645,C,1600,combinatorics-dp-math,mennafadali,Java 8,217,16793600,OK
+47131449,1081,1544977500,6600,E,1900,binary search-constructive algorithms-greedy-math-number theory,indy256,Java 8,171,0,OK
+47131391,1081,1544977470,6570,E,1900,binary search-constructive algorithms-greedy-math-number theory,mikit,Java 8,2000,7475200,TIME_LIMIT_EXCEEDED
+47131275,1081,1544977415,6515,B,1500,constructive algorithms-implementation,p1p13,Java 8,763,0,OK
+47131274,1081,1544977415,6514,C,1600,combinatorics-dp-math,Klnsyf_Ego,Java 8,156,38707200,OK
+47131129,1081,1544977350,6450,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,608,4198400,OK
+47131097,1081,1544977335,6435,C,1600,combinatorics-dp-math,aman28rwt,Java 8,233,39014400,OK
+47130952,1081,1544977271,6371,C,1600,combinatorics-dp-math,Grut,Java 8,826,0,OK
+47130892,1081,1544977240,6340,B,1500,constructive algorithms-implementation,last-phoenix,Java 8,592,0,OK
+47130782,1081,1544977192,6292,E,1900,binary search-constructive algorithms-greedy-math-number theory,AkshajK,Java 8,233,0,OK
+47130763,1081,1544977183,6283,B,1500,constructive algorithms-implementation,dyominov,Java 8,233,204800,OK
+47130435,1081,1544977027,6127,D,1800,dsu-graphs-shortest paths-sortings,rentacat45,Java 8,592,27852800,OK
+47130383,1081,1544977003,6103,B,1500,constructive algorithms-implementation,xXAyushiXx,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47130316,1081,1544976975,6075,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,2000,262144000,TIME_LIMIT_EXCEEDED
+47130243,1081,1544976945,6045,D,1800,dsu-graphs-shortest paths-sortings,karamkontar,Java 8,608,2048000,OK
+47130198,1081,1544976918,6018,C,1600,combinatorics-dp-math,Ajudiya_13,Java 8,124,0,OK
+47129814,1081,1544976731,5831,B,1500,constructive algorithms-implementation,droneKingxiiiiiiiDaddy,Java 8,624,4198400,OK
+47129747,1081,1544976701,5801,B,1500,constructive algorithms-implementation,SrapZark,Java 8,155,4198400,OK
+47129650,1081,1544976656,5756,B,1500,constructive algorithms-implementation,SRI,Java 8,202,0,OK
+47129647,1081,1544976655,5755,C,1600,combinatorics-dp-math,shikharid,Java 8,139,0,OK
+47129577,1081,1544976614,5714,B,1500,constructive algorithms-implementation,0123456hahaha0123456,Java 8,607,0,OK
+47128933,1081,1544976306,5406,B,1500,constructive algorithms-implementation,Mohammad_Af,Java 8,624,4300800,OK
+47128876,1081,1544976280,5380,C,1600,combinatorics-dp-math,Maaddy,Java 8,218,38912000,OK
+47128692,1081,1544976202,5302,C,1600,combinatorics-dp-math,Ajudiya_13,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47128564,1081,1544976144,5244,E,1900,binary search-constructive algorithms-greedy-math-number theory,Musin,Java 8,1232,3686400,OK
+47128517,1081,1544976125,5225,H,3500,data structures-hashing-strings,radmirnovii,Java 8,2500,102400,TIME_LIMIT_EXCEEDED
+47128444,1081,1544976089,5189,A,800,constructive algorithms-math,Rikudou,Java 8,140,0,OK
+47128394,1081,1544976068,5168,C,1600,combinatorics-dp-math,prakhar897,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47128233,1081,1544975996,5096,B,1500,constructive algorithms-implementation,xXAyushiXx,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47128174,1081,1544975967,5067,A,800,constructive algorithms-math,SrapZark,Java 8,124,0,OK
+47128161,1081,1544975961,5061,B,1500,constructive algorithms-implementation,nirenamid,Java 8,920,0,OK
+47127988,1081,1544975889,4989,D,1800,dsu-graphs-shortest paths-sortings,wadissimo,Java 8,233,0,OK
+47127943,1081,1544975870,4970,F,2500,constructive algorithms-implementation-interactive,uwi,Java 8,280,0,OK
+47127915,1081,1544975858,4958,D,1800,dsu-graphs-shortest paths-sortings,SrapZark,Java 8,248,0,OK
+47127861,1081,1544975834,4934,D,1800,dsu-graphs-shortest paths-sortings,wolfib,Java 8,296,6656000,OK
+47127696,1081,1544975761,4861,B,1500,constructive algorithms-implementation,mennafadali,Java 8,171,7987200,OK
+47127642,1081,1544975739,4839,E,1900,binary search-constructive algorithms-greedy-math-number theory,SaveVMK,Java 8,608,52838400,OK
+47127435,1081,1544975649,4749,D,1800,dsu-graphs-shortest paths-sortings,hiromi_ayase,Java 8,342,512000,OK
+47127414,1081,1544975640,4740,D,1800,dsu-graphs-shortest paths-sortings,aman28rwt,Java 8,295,16281600,OK
+47127402,1081,1544975634,4734,B,1500,constructive algorithms-implementation,PDDMain,Java 8,187,7987200,OK
+47127128,1081,1544975514,4614,B,1500,constructive algorithms-implementation,Shaykhutdinov-T-I,Java 8,171,0,OK
+47127063,1081,1544975482,4582,B,1500,constructive algorithms-implementation,llamaoo7,Java 8,155,0,OK
+47126928,1081,1544975422,4522,B,1500,constructive algorithms-implementation,romit17,Java 8,233,18432000,OK
+47126903,1081,1544975410,4509,C,1600,combinatorics-dp-math,---,Java 8,124,0,OK
+47126872,1081,1544975400,4500,A,800,constructive algorithms-math,Tossing,Java 8,140,0,OK
+47126824,1081,1544975378,4478,B,1500,constructive algorithms-implementation,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47126758,1081,1544975350,4450,A,800,constructive algorithms-math,Dapu,Java 8,140,0,OK
+47126649,1081,1544975304,4404,D,1800,dsu-graphs-shortest paths-sortings,fnozoszzt,Java 8,904,0,OK
+47126611,1081,1544975289,4389,B,1500,constructive algorithms-implementation,Serh.kry,Java 8,202,8704000,OK
+47126602,1081,1544975286,4386,B,1500,constructive algorithms-implementation,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47126364,1081,1544975187,4287,C,1600,combinatorics-dp-math,Maaddy,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47126332,1081,1544975174,4274,E,1900,binary search-constructive algorithms-greedy-math-number theory,iakovlev.zakhar,Java 8,202,0,OK
+47126207,1081,1544975122,4222,E,1900,binary search-constructive algorithms-greedy-math-number theory,abacabadabacaba,Java 8,296,0,OK
+47126053,1081,1544975057,4156,B,1500,constructive algorithms-implementation,shikharid,Java 8,483,4198400,OK
+47126027,1081,1544975048,4148,D,1800,dsu-graphs-shortest paths-sortings,PrakharJain,Java 8,264,0,OK
+47125938,1081,1544975011,4111,C,1600,combinatorics-dp-math,TechSupport,Java 8,218,38707200,OK
+47125896,1081,1544974993,4093,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,2000,22732800,TIME_LIMIT_EXCEEDED
+47125837,1081,1544974974,4074,D,1800,dsu-graphs-shortest paths-sortings,indy256,Java 8,343,15769600,OK
+47125829,1081,1544974972,4072,A,800,constructive algorithms-math,Guru_Randhawa,Java 8,155,0,OK
+47125724,1081,1544974932,4032,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,2000,22835200,TIME_LIMIT_EXCEEDED
+47125592,1081,1544974887,3987,C,1600,combinatorics-dp-math,Deimos,Java 8,857,0,OK
+47125571,1081,1544974876,3976,B,1500,constructive algorithms-implementation,bdomokos,Java 8,967,0,OK
+47125482,1081,1544974840,3940,D,1800,dsu-graphs-shortest paths-sortings,indy256,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47125239,1081,1544974745,3845,B,1500,constructive algorithms-implementation,reborn.chris,Java 8,249,3584000,OK
+47125186,1081,1544974726,3826,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47125027,1081,1544974657,3757,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47124963,1081,1544974637,3737,A,800,constructive algorithms-math,Yatharth3297,Java 8,124,0,OK
+47124585,1081,1544974500,3600,C,1600,combinatorics-dp-math,jonsnow7,Java 8,202,38707200,OK
+47124575,1081,1544974498,3598,B,1500,constructive algorithms-implementation,SaveVMK,Java 8,373,16691200,OK
+47124555,1081,1544974490,3590,C,1600,combinatorics-dp-math,llamaoo7,Java 8,155,17100800,OK
+47124436,1081,1544974442,3542,E,1900,binary search-constructive algorithms-greedy-math-number theory,Omar_Morsi,Java 8,701,0,OK
+47124387,1081,1544974425,3525,F,2500,constructive algorithms-implementation-interactive,abacabadabacaba,Java 8,233,0,OK
+47124317,1081,1544974404,3504,B,1500,constructive algorithms-implementation,kb4shubham,Java 8,1000,259379200,TIME_LIMIT_EXCEEDED
+47124306,1081,1544974400,3500,B,1500,constructive algorithms-implementation,aman28rwt,Java 8,218,0,OK
+47124170,1081,1544974348,3448,C,1600,combinatorics-dp-math,YahiaBadr,Java 8,186,38502400,OK
+47123658,1081,1544974179,3279,C,1600,combinatorics-dp-math,rentacat45,Java 8,233,38809600,OK
+47123600,1081,1544974158,3258,B,1500,constructive algorithms-implementation,LM.10,Java 8,187,0,OK
+47123365,1081,1544974061,3161,C,1600,combinatorics-dp-math,YahiaBadr,Java 8,2000,4710400,TIME_LIMIT_EXCEEDED
+47123329,1081,1544974046,3146,D,1800,dsu-graphs-shortest paths-sortings,Musin,Java 8,639,17100800,OK
+47123322,1081,1544974045,3145,B,1500,constructive algorithms-implementation,Hiren.Vaghela,Java 8,155,0,OK
+47123072,1081,1544973950,3050,B,1500,constructive algorithms-implementation,anunay469,Java 8,498,0,OK
+47122902,1081,1544973897,2997,C,1600,combinatorics-dp-math,pj21,Java 8,156,38809600,OK
+47122896,1081,1544973896,2996,A,800,constructive algorithms-math,rajpar29,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47122860,1081,1544973887,2987,A,800,constructive algorithms-math,alecs6k,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47122813,1081,1544973871,2971,C,1600,combinatorics-dp-math,xodiac,Java 8,171,0,OK
+47122710,1081,1544973839,2939,C,1600,combinatorics-dp-math,kubusgol,Java 8,218,17100800,OK
+47122635,1081,1544973817,2917,B,1500,constructive algorithms-implementation,mvv056,Java 8,202,0,OK
+47122574,1081,1544973800,2900,A,800,constructive algorithms-math,rajpar29,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47122448,1081,1544973762,2862,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47122398,1081,1544973745,2845,A,800,constructive algorithms-math,carlos44,Java 8,139,0,OK
+47122394,1081,1544973744,2844,C,1600,combinatorics-dp-math,indy256,Java 8,187,16691200,OK
+47122250,1081,1544973694,2794,A,800,constructive algorithms-math,rajpar29,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47122169,1081,1544973671,2771,A,800,constructive algorithms-math,LASM,Java 8,109,0,OK
+47122139,1081,1544973658,2758,A,800,constructive algorithms-math,dead_loser,Java 8,140,0,OK
+47122045,1081,1544973628,2728,C,1600,combinatorics-dp-math,PrakharJain,Java 8,249,38809600,OK
+47121989,1081,1544973605,2705,B,1500,constructive algorithms-implementation,hiromi_ayase,Java 8,171,0,OK
+47121907,1081,1544973583,2683,D,1800,dsu-graphs-shortest paths-sortings,iakovlev.zakhar,Java 8,514,44441600,OK
+47121625,1081,1544973491,2591,C,1600,combinatorics-dp-math,fnozoszzt,Java 8,265,37068800,OK
+47121540,1081,1544973462,2562,A,800,constructive algorithms-math,SaveVMK,Java 8,140,0,OK
+47121481,1081,1544973444,2544,C,1600,combinatorics-dp-math,boltUsain,Java 8,249,38809600,OK
+47121435,1081,1544973430,2530,A,800,constructive algorithms-math,paramvirsingh1,Java 8,140,0,OK
+47121298,1081,1544973389,2489,B,1500,constructive algorithms-implementation,jonsnow7,Java 8,155,0,OK
+47121233,1081,1544973375,2475,A,800,constructive algorithms-math,mohan_bera,Java 8,140,0,OK
+47121189,1081,1544973359,2459,A,800,constructive algorithms-math,gandotraa762,Java 8,140,0,OK
+47121136,1081,1544973344,2444,A,800,constructive algorithms-math,Sahajj16,Java 8,156,0,OK
+47120972,1081,1544973301,2401,E,1900,binary search-constructive algorithms-greedy-math-number theory,uwi,Java 8,218,4096000,OK
+47120906,1081,1544973280,2380,A,800,constructive algorithms-math,cmohamed,Java 8,140,0,OK
+47120889,1081,1544973275,2375,B,1500,constructive algorithms-implementation,msagimbekov,Java 8,249,7782400,OK
+47120858,1081,1544973269,2369,B,1500,constructive algorithms-implementation,S010M,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47120773,1081,1544973246,2346,C,1600,combinatorics-dp-math,reborn.chris,Java 8,124,0,OK
+47120665,1081,1544973217,2317,B,1500,constructive algorithms-implementation,last-phoenix,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47120524,1081,1544973178,2278,C,1600,combinatorics-dp-math,Musin,Java 8,202,17100800,OK
+47120514,1081,1544973175,2275,A,800,constructive algorithms-math,kb4shubham,Java 8,139,0,OK
+47120385,1081,1544973137,2237,B,1500,constructive algorithms-implementation,Ajudiya_13,Java 8,171,4710400,OK
+47120353,1081,1544973128,2228,E,1900,binary search-constructive algorithms-greedy-math-number theory,Vladimirr.Petrunko,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47120252,1081,1544973101,2201,B,1500,constructive algorithms-implementation,radmirnovii,Java 8,280,0,OK
+47120242,1081,1544973099,2199,B,1500,constructive algorithms-implementation,xXAyushiXx,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47120199,1081,1544973087,2187,C,1600,combinatorics-dp-math,flyman3046,Java 8,264,0,OK
+47120147,1081,1544973073,2173,B,1500,constructive algorithms-implementation,rentacat45,Java 8,187,0,OK
+47120043,1081,1544973042,2142,A,800,constructive algorithms-math,Codeforces_Sucks,Java 8,140,0,OK
+47119951,1081,1544973014,2114,A,800,constructive algorithms-math,ConstantinAlexuta,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47119918,1081,1544973002,2102,B,1500,constructive algorithms-implementation,indy256,Java 8,156,4198400,OK
+47119803,1081,1544972972,2072,C,1600,combinatorics-dp-math,Shun_PI,Java 8,124,0,OK
+47119751,1081,1544972959,2059,B,1500,constructive algorithms-implementation,TechSupport,Java 8,514,2969600,OK
+47119735,1081,1544972957,2057,C,1600,combinatorics-dp-math,SaveVMK,Java 8,202,37171200,OK
+47119733,1081,1544972956,2056,C,1600,combinatorics-dp-math,wolfib,Java 8,124,0,OK
+47119584,1081,1544972905,2005,B,1500,constructive algorithms-implementation,slava812,Java 8,155,0,OK
+47119569,1081,1544972899,1999,B,1500,constructive algorithms-implementation,Klnsyf_Ego,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47119551,1081,1544972895,1995,B,1500,constructive algorithms-implementation,fnozoszzt,Java 8,280,4915200,OK
+47119402,1081,1544972853,1953,A,800,constructive algorithms-math,rajpar29,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47119339,1081,1544972837,1936,B,1500,constructive algorithms-implementation,---,Java 8,1000,16486400,TIME_LIMIT_EXCEEDED
+47119289,1081,1544972822,1922,B,1500,constructive algorithms-implementation,karamkontar,Java 8,499,0,OK
+47119213,1081,1544972800,1900,B,1500,constructive algorithms-implementation,p1p13,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47119180,1081,1544972790,1890,A,800,constructive algorithms-math,vkv007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47118998,1081,1544972735,1835,A,800,constructive algorithms-math,TaplierShiru,Java 8,109,0,OK
+47118976,1081,1544972730,1830,C,1600,combinatorics-dp-math,AkshajK,Java 8,124,0,OK
+47118897,1081,1544972709,1809,A,800,constructive algorithms-math,enricogi,Java 8,140,0,OK
+47118775,1081,1544972677,1777,C,1600,combinatorics-dp-math,wadissimo,Java 8,186,38809600,OK
+47118758,1081,1544972674,1774,C,1600,combinatorics-dp-math,Shaykhutdinov-T-I,Java 8,140,0,OK
+47118733,1081,1544972667,1767,A,800,constructive algorithms-math,bdomokos,Java 8,140,0,OK
+47118727,1081,1544972667,1767,A,800,constructive algorithms-math,akshita00,Java 8,140,0,OK
+47118684,1081,1544972656,1756,B,1500,constructive algorithms-implementation,YahiaBadr,Java 8,155,0,OK
+47118660,1081,1544972651,1751,A,800,constructive algorithms-math,KharYusuf,Java 8,109,0,OK
+47118622,1081,1544972642,1742,C,1600,combinatorics-dp-math,hiromi_ayase,Java 8,218,39014400,OK
+47118507,1081,1544972603,1703,C,1600,combinatorics-dp-math,Seven,Java 8,124,0,OK
+47118467,1081,1544972595,1695,C,1600,combinatorics-dp-math,Conceal,Java 8,187,17203200,OK
+47118111,1081,1544972511,1611,C,1600,combinatorics-dp-math,Hiren.Vaghela,Java 8,218,39014400,OK
+47118076,1081,1544972502,1602,H,3500,data structures-hashing-strings,kb4shubham,Java 8,2500,259788800,TIME_LIMIT_EXCEEDED
+47118034,1081,1544972493,1593,A,800,constructive algorithms-math,sumit17171,Java 8,140,0,OK
+47117931,1081,1544972467,1567,A,800,constructive algorithms-math,Gundaswami,Java 8,140,0,OK
+47117823,1081,1544972443,1543,B,1500,constructive algorithms-implementation,kubusgol,Java 8,233,9216000,OK
+47117776,1081,1544972434,1534,A,800,constructive algorithms-math,Cyberjunkie,Java 8,155,0,OK
+47117601,1081,1544972385,1485,B,1500,constructive algorithms-implementation,Musin,Java 8,140,4096000,OK
+47117443,1081,1544972347,1447,D,1800,dsu-graphs-shortest paths-sortings,abacabadabacaba,Java 8,202,0,OK
+47117410,1081,1544972337,1437,C,1600,combinatorics-dp-math,bhavyashah9873,Java 8,202,36966400,OK
+47117409,1081,1544972336,1436,B,1500,constructive algorithms-implementation,boltUsain,Java 8,186,6348800,OK
+47117387,1081,1544972332,1432,C,1600,combinatorics-dp-math,karamkontar,Java 8,218,37888000,OK
+47117368,1081,1544972327,1427,A,800,constructive algorithms-math,AatmikJain,Java 8,140,0,OK
+47117266,1081,1544972299,1399,A,800,constructive algorithms-math,premnathcs,Java 8,140,0,OK
+47117217,1081,1544972287,1387,B,1500,constructive algorithms-implementation,Deimos,Java 8,186,0,OK
+47117156,1081,1544972277,1377,C,1600,combinatorics-dp-math,mikit,Java 8,109,0,OK
+47117060,1081,1544972256,1356,A,800,constructive algorithms-math,typedef_2000,Java 8,124,0,OK
+47117007,1081,1544972244,1344,B,1500,constructive algorithms-implementation,xodiac,Java 8,155,4300800,OK
+47116940,1081,1544972225,1325,B,1500,constructive algorithms-implementation,wolfib,Java 8,187,0,OK
+47116748,1081,1544972172,1272,A,800,constructive algorithms-math,tmak_54,Java 8,140,0,OK
+47116516,1081,1544972112,1212,A,800,constructive algorithms-math,maruf_hassan,Java 8,124,0,OK
+47116436,1081,1544972098,1198,B,1500,constructive algorithms-implementation,Shun_PI,Java 8,810,3481600,OK
+47116258,1081,1544972057,1157,A,800,constructive algorithms-math,nysn,Java 8,140,0,OK
+47116254,1081,1544972056,1156,A,800,constructive algorithms-math,dhoni072,Java 8,124,0,OK
+47116230,1081,1544972047,1147,B,1500,constructive algorithms-implementation,wadissimo,Java 8,155,0,OK
+47116171,1081,1544972035,1134,A,800,constructive algorithms-math,jatin.jain9414,Java 8,140,0,OK
+47116123,1081,1544972022,1122,B,1500,constructive algorithms-implementation,Conceal,Java 8,171,8089600,OK
+47116067,1081,1544972009,1109,A,800,constructive algorithms-math,S010M,Java 8,124,0,OK
+47116017,1081,1544971998,1098,A,800,constructive algorithms-math,shanky_ty,Java 8,140,0,OK
+47115842,1081,1544971956,1056,B,1500,constructive algorithms-implementation,parsaamir,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47115816,1081,1544971948,1048,A,800,constructive algorithms-math,BaaaaaaanTedGuYYYYYYY,Java 8,124,0,OK
+47115802,1081,1544971946,1046,A,800,constructive algorithms-math,Ad-007,Java 8,140,0,OK
+47115712,1081,1544971925,1025,A,800,constructive algorithms-math,Vijayendra_Sai,Java 8,156,0,OK
+47115706,1081,1544971924,1024,A,800,constructive algorithms-math,ajax145,Java 8,140,0,OK
+47115699,1081,1544971922,1022,C,1600,combinatorics-dp-math,iakovlev.zakhar,Java 8,171,38809600,OK
+47115611,1081,1544971902,1002,B,1500,constructive algorithms-implementation,jdurie,Java 8,639,0,OK
+47115585,1081,1544971896,996,B,1500,constructive algorithms-implementation,mikit,Java 8,218,5222400,OK
+47115351,1081,1544971839,939,A,800,constructive algorithms-math,BaaaaaaanTedGuYYYYYYY,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47115320,1081,1544971831,931,A,800,constructive algorithms-math,yashu024,Java 8,124,0,OK
+47115266,1081,1544971818,918,A,800,constructive algorithms-math,fnozoszzt,Java 8,140,0,OK
+47115004,1081,1544971758,858,A,800,constructive algorithms-math,vrajparesh,Java 8,171,0,OK
+47114979,1081,1544971750,850,C,1600,combinatorics-dp-math,uwi,Java 8,124,0,OK
+47114946,1081,1544971744,844,A,800,constructive algorithms-math,aliawadhi,Java 8,140,0,OK
+47114853,1081,1544971729,829,A,800,constructive algorithms-math,Dhairya472,Java 8,124,0,OK
+47114849,1081,1544971728,828,A,800,constructive algorithms-math,__Paladin__,Java 8,140,0,OK
+47114836,1081,1544971726,826,C,1600,combinatorics-dp-math,abacabadabacaba,Java 8,124,0,OK
+47114793,1081,1544971717,817,A,800,constructive algorithms-math,deepthecoder,Java 8,140,0,OK
+47114711,1081,1544971699,799,A,800,constructive algorithms-math,Ajudiya_13,Java 8,109,0,OK
+47114650,1081,1544971689,789,A,800,constructive algorithms-math,Nicklauss,Java 8,139,0,OK
+47114633,1081,1544971685,785,A,800,constructive algorithms-math,last-phoenix,Java 8,140,0,OK
+47114482,1081,1544971650,750,A,800,constructive algorithms-math,romit17,Java 8,124,0,OK
+47114459,1081,1544971646,746,A,800,constructive algorithms-math,urgd4,Java 8,124,0,OK
+47114416,1081,1544971635,735,A,800,constructive algorithms-math,Nitesh1,Java 8,140,0,OK
+47114293,1081,1544971609,709,A,800,constructive algorithms-math,pompi,Java 8,140,0,OK
+47114287,1081,1544971608,708,A,800,constructive algorithms-math,qwerty12345qwerty,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47114231,1081,1544971594,694,A,800,constructive algorithms-math,shreyas_21,Java 8,140,0,OK
+47114224,1081,1544971593,693,A,800,constructive algorithms-math,_cataphract_,Java 8,140,0,OK
+47114169,1081,1544971582,682,A,800,constructive algorithms-math,rentacat45,Java 8,109,0,OK
+47114112,1081,1544971571,671,A,800,constructive algorithms-math,mvv056,Java 8,124,0,OK
+47114100,1081,1544971569,669,A,800,constructive algorithms-math,grindthecode,Java 8,140,0,OK
+47114069,1081,1544971562,662,A,800,constructive algorithms-math,shahdhairya678,Java 8,139,0,OK
+47114049,1081,1544971558,658,B,1500,constructive algorithms-implementation,Omar_Morsi,Java 8,202,7372800,OK
+47114025,1081,1544971554,654,A,800,constructive algorithms-math,radmirnovii,Java 8,140,0,OK
+47114004,1081,1544971551,651,B,1500,constructive algorithms-implementation,iakovlev.zakhar,Java 8,171,0,OK
+47113992,1081,1544971548,648,A,800,constructive algorithms-math,nirenamid,Java 8,140,0,OK
+47113881,1081,1544971529,629,A,800,constructive algorithms-math,xXAyushiXx,Java 8,140,0,OK
+47113838,1081,1544971522,622,A,800,constructive algorithms-math,slava812,Java 8,109,0,OK
+47113709,1081,1544971493,593,A,800,constructive algorithms-math,AnanthDhruva,Java 8,140,0,OK
+47113687,1081,1544971489,589,A,800,constructive algorithms-math,anunay469,Java 8,124,0,OK
+47113581,1081,1544971465,565,A,800,constructive algorithms-math,indy256,Java 8,124,0,OK
+47113550,1081,1544971457,557,B,1500,constructive algorithms-implementation,uwi,Java 8,155,0,OK
+47113539,1081,1544971455,555,A,800,constructive algorithms-math,amanverma1999,Java 8,140,0,OK
+47113493,1081,1544971446,546,A,800,constructive algorithms-math,krishnarb3,Java 8,140,0,OK
+47113319,1081,1544971407,507,A,800,constructive algorithms-math,hayderr,Java 8,140,0,OK
+47113252,1081,1544971392,492,A,800,constructive algorithms-math,DeSali,Java 8,140,0,OK
+47113180,1081,1544971378,478,A,800,constructive algorithms-math,j_man,Java 8,140,0,OK
+47113166,1081,1544971374,474,A,800,constructive algorithms-math,megasoch,Java 8,139,0,OK
+47113115,1081,1544971364,464,A,800,constructive algorithms-math,codeforcessup,Java 8,140,0,OK
+47113000,1081,1544971344,444,A,800,constructive algorithms-math,d_smorodinnikov,Java 8,140,0,OK
+47112980,1081,1544971341,441,A,800,constructive algorithms-math,goyalakash1997,Java 8,155,0,OK
+47112973,1081,1544971339,439,A,800,constructive algorithms-math,LM.10,Java 8,124,0,OK
+47112952,1081,1544971335,435,A,800,constructive algorithms-math,anshri,Java 8,140,0,OK
+47112911,1081,1544971328,428,A,800,constructive algorithms-math,samasnabith,Java 8,109,0,OK
+47112901,1081,1544971326,426,B,1500,constructive algorithms-implementation,abacabadabacaba,Java 8,187,0,OK
+47112853,1081,1544971318,418,A,800,constructive algorithms-math,Akash_UR,Java 8,124,0,OK
+47112832,1081,1544971313,413,A,800,constructive algorithms-math,Musin,Java 8,124,0,OK
+47112786,1081,1544971305,405,A,800,constructive algorithms-math,qwerty12345qwerty,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47112731,1081,1544971294,394,A,800,constructive algorithms-math,VikramVarun,Java 8,155,0,OK
+47112684,1081,1544971286,386,A,800,constructive algorithms-math,Shun_PI,Java 8,156,0,OK
+47112661,1081,1544971280,380,A,800,constructive algorithms-math,Hatsujime487,Java 8,124,0,OK
+47112656,1081,1544971280,380,A,800,constructive algorithms-math,j_man,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47112633,1081,1544971275,375,A,800,constructive algorithms-math,yellowjian,Java 8,124,0,OK
+47112599,1081,1544971271,371,A,800,constructive algorithms-math,wolfib,Java 8,124,0,OK
+47112515,1081,1544971260,360,A,800,constructive algorithms-math,rishabh101,Java 8,124,0,OK
+47112484,1081,1544971256,356,A,800,constructive algorithms-math,reborn.chris,Java 8,124,0,OK
+47112415,1081,1544971247,347,A,800,constructive algorithms-math,james222424,Java 8,124,0,OK
+47112402,1081,1544971244,344,A,800,constructive algorithms-math,fc-lib_xyz,Java 8,140,0,OK
+47112391,1081,1544971242,342,A,800,constructive algorithms-math,0123456hahaha0123456,Java 8,140,0,OK
+47112292,1081,1544971227,327,A,800,constructive algorithms-math,Mohamed_Saad62,Java 8,155,0,OK
+47112264,1081,1544971225,324,A,800,constructive algorithms-math,parsaamir,Java 8,139,0,OK
+47112244,1081,1544971222,322,A,800,constructive algorithms-math,Mohammad_Af,Java 8,140,0,OK
+47112192,1081,1544971214,314,A,800,constructive algorithms-math,dyominov,Java 8,124,0,OK
+47112124,1081,1544971203,303,A,800,constructive algorithms-math,webstorms,Java 8,109,0,OK
+47111894,1081,1544971180,280,A,800,constructive algorithms-math,mikit,Java 8,124,0,OK
+47111879,1081,1544971178,278,A,800,constructive algorithms-math,rr459595,Java 8,140,0,OK
+47111863,1081,1544971176,276,A,800,constructive algorithms-math,shikharid,Java 8,139,0,OK
+47111838,1081,1544971173,273,A,800,constructive algorithms-math,_olOlo_,Java 8,109,0,OK
+47111790,1081,1544971169,269,A,800,constructive algorithms-math,karamkontar,Java 8,109,0,OK
+47111725,1081,1544971162,262,A,800,constructive algorithms-math,mennafadali,Java 8,109,0,OK
+47111719,1081,1544971161,261,A,800,constructive algorithms-math,wadissimo,Java 8,124,0,OK
+47111604,1081,1544971150,250,A,800,constructive algorithms-math,---,Java 8,124,0,OK
+47111535,1081,1544971143,243,A,800,constructive algorithms-math,p1p13,Java 8,124,0,OK
+47111517,1081,1544971142,242,A,800,constructive algorithms-math,abacabadabacaba,Java 8,124,0,OK
+47111475,1081,1544971140,240,A,800,constructive algorithms-math,0shine0,Java 8,140,0,OK
+47111470,1081,1544971139,239,A,800,constructive algorithms-math,PrakharJain,Java 8,124,0,OK
+47111404,1081,1544971132,232,A,800,constructive algorithms-math,SRI,Java 8,155,0,OK
+47111259,1081,1544971118,218,A,800,constructive algorithms-math,jonsnow7,Java 8,124,0,OK
+47111249,1081,1544971118,218,A,800,constructive algorithms-math,llamaoo7,Java 8,140,0,OK
+47111157,1081,1544971111,211,A,800,constructive algorithms-math,Klnsyf_Ego,Java 8,124,0,OK
+47111114,1081,1544971108,208,A,800,constructive algorithms-math,almas.shaikh,Java 8,124,0,OK
+47111087,1081,1544971106,206,A,800,constructive algorithms-math,hiromi_ayase,Java 8,109,0,OK
+47111080,1081,1544971105,205,A,800,constructive algorithms-math,uwi,Java 8,124,0,OK
+47110898,1081,1544971092,192,A,800,constructive algorithms-math,boltUsain,Java 8,109,0,OK
+47110895,1081,1544971092,192,A,800,constructive algorithms-math,Serh.kry,Java 8,109,0,OK
+47110876,1081,1544971090,190,A,800,constructive algorithms-math,noobied,Java 8,124,0,OK
+47110854,1081,1544971089,189,A,800,constructive algorithms-math,flyman3046,Java 8,124,0,OK
+47110835,1081,1544971087,187,A,800,constructive algorithms-math,weird_penguin,Java 8,109,0,OK
+47110733,1081,1544971078,178,A,800,constructive algorithms-math,kubusgol,Java 8,109,0,OK
+47110703,1081,1544971076,176,A,800,constructive algorithms-math,xodiac,Java 8,124,0,OK
+47110644,1081,1544971072,172,A,800,constructive algorithms-math,Incepti0n,Java 8,140,0,OK
+47110613,1081,1544971070,170,A,800,constructive algorithms-math,prakhar897,Java 8,124,0,OK
+47110565,1081,1544971067,167,A,800,constructive algorithms-math,Shaykhutdinov-T-I,Java 8,124,0,OK
+47110525,1081,1544971064,164,A,800,constructive algorithms-math,Deimos,Java 8,109,0,OK
+47110350,1081,1544971054,154,A,800,constructive algorithms-math,YahiaBadr,Java 8,109,0,OK
+47110343,1081,1544971053,153,A,800,constructive algorithms-math,msagimbekov,Java 8,170,0,OK
+47110311,1081,1544971051,151,A,800,constructive algorithms-math,droneKingxiiiiiiiDaddy,Java 8,156,0,OK
+47110265,1081,1544971049,149,A,800,constructive algorithms-math,iakovlev.zakhar,Java 8,109,0,OK
+47110180,1081,1544971043,143,A,800,constructive algorithms-math,Psp_98,Java 8,124,0,OK
+47109956,1081,1544971025,125,A,800,constructive algorithms-math,iamyashh,Java 8,124,0,OK
+47109893,1081,1544971021,121,A,800,constructive algorithms-math,bhavyashah9873,Java 8,124,0,OK
+47109794,1081,1544971016,116,A,800,constructive algorithms-math,Vladimirr.Petrunko,Java 8,140,0,OK
+47109769,1081,1544971014,114,A,800,constructive algorithms-math,ExplodingFreeze,Java 8,124,0,OK
+47109765,1081,1544971014,114,A,800,constructive algorithms-math,jdurie,Java 8,140,0,OK
+47109761,1081,1544971013,113,A,800,constructive algorithms-math,aman28rwt,Java 8,124,0,OK
+47109709,1081,1544971010,110,A,800,constructive algorithms-math,programbhavan,Java 8,140,0,OK
+47109663,1081,1544971008,108,A,800,constructive algorithms-math,Omar_Morsi,Java 8,109,0,OK
+47109571,1081,1544971002,102,A,800,constructive algorithms-math,Conceal,Java 8,124,0,OK
+47109561,1081,1544971001,101,A,800,constructive algorithms-math,AkshajK,Java 8,124,0,OK
+47109544,1081,1544971000,100,A,800,constructive algorithms-math,rohan03,Java 8,124,0,OK
+47109350,1081,1544970986,86,A,800,constructive algorithms-math,TechSupport,Java 8,109,0,OK

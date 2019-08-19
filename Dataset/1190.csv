@@ -1,0 +1,96 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57903641,1190,1564332198,2147483647,A,1500,implementation-two pointers,princeraj8583,Java 8,342,0,OK
+57772435,1190,1564105122,2147483647,C,2400,brute force-games-greedy,Seven,Java 8,171,0,OK
+57759615,1190,1564075868,2147483647,D,2200,data structures-divide and conquer-sortings-two pointers,Seven,Java 8,873,52633600,OK
+57755833,1190,1564071337,4355,B,1800,games,Seven,Java 8,171,0,OK
+57753346,1190,1564068506,1526,A,1500,implementation-two pointers,Seven,Java 8,171,2969600,OK
+57679412,1190,1563983307,2147483647,D,2200,data structures-divide and conquer-sortings-two pointers,tryptophan,Java 8,1918,259584000,OK
+57655643,1190,1563979933,2147483647,D,2200,data structures-divide and conquer-sortings-two pointers,tryptophan,Java 8,3000,2048000,TIME_LIMIT_EXCEEDED
+57642425,1190,1563973496,2147483647,B,1800,games,tryptophan,Java 8,155,0,OK
+57638888,1190,1563969294,2147483647,A,1500,implementation-two pointers,tryptophan,Java 8,171,2969600,OK
+57587080,1190,1563879805,2147483647,B,1800,games,LAKOUAM_IMAD,Java 8,280,0,OK
+57483746,1190,1563767811,2147483647,A,1500,implementation-two pointers,geekymanas,Java 8,327,0,OK
+57462226,1190,1563718115,2147483647,A,1500,implementation-two pointers,zmurzagaliev,Java 8,171,2969600,OK
+57373969,1190,1563623496,2147483647,A,1500,implementation-two pointers,LAKOUAM_IMAD,Java 8,389,0,OK
+57361896,1190,1563609700,2147483647,A,1500,implementation-two pointers,di_halt,Java 8,187,2969600,OK
+57320474,1190,1563529666,2147483647,C,2400,brute force-games-greedy,zeyad_khattab,Java 8,124,0,OK
+57292044,1190,1563469903,2147483647,A,1500,implementation-two pointers,onur.atamer,Java 8,404,0,OK
+57288455,1190,1563464122,2147483647,A,1500,implementation-two pointers,sxruti,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57284895,1190,1563459150,2147483647,A,1500,implementation-two pointers,tushar04,Java 8,1000,5427200,TIME_LIMIT_EXCEEDED
+57284616,1190,1563458763,2147483647,A,1500,implementation-two pointers,tushar04,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57284333,1190,1563458357,2147483647,B,1800,games,Shadalion,Java 8,389,7987200,OK
+57282125,1190,1563455371,2147483647,A,1500,implementation-two pointers,ramimourani36,Java 8,1000,237977600,TIME_LIMIT_EXCEEDED
+57274115,1190,1563444397,2147483647,A,1500,implementation-two pointers,shivanshu.bohara,Java 8,342,0,OK
+57272130,1190,1563441406,2147483647,A,1500,implementation-two pointers,shivanshu.bohara,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57200878,1190,1563370884,2147483647,A,1500,implementation-two pointers,ahmed1902,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57199655,1190,1563369573,2147483647,A,1500,implementation-two pointers,ahmed1902,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57181438,1190,1563348153,2147483647,D,2200,data structures-divide and conquer-sortings-two pointers,zeyad_khattab,Java 8,982,33996800,OK
+57181150,1190,1563347857,2147483647,D,2200,data structures-divide and conquer-sortings-two pointers,zeyad_khattab,Java 8,1060,33996800,OK
+57164746,1190,1563312690,2147483647,D,2200,data structures-divide and conquer-sortings-two pointers,zeyad_khattab,Java 8,2963,227532800,OK
+57141989,1190,1563276517,2147483647,B,1800,games,Taran_1407,Java 8,171,0,OK
+57082578,1190,1563176588,2147483647,B,1800,games,Ad-007,Java 8,280,0,OK
+57080074,1190,1563173727,2147483647,A,1500,implementation-two pointers,Ad-007,Java 8,327,0,OK
+57079916,1190,1563173555,2147483647,A,1500,implementation-two pointers,Ad-007,Java 8,327,0,OK
+57078986,1190,1563172350,2147483647,A,1500,implementation-two pointers,Ad-007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57064087,1190,1563134287,2147483647,A,1500,implementation-two pointers,beroul,Java 8,140,0,OK
+57064025,1190,1563134166,2147483647,A,1500,implementation-two pointers,beroul,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57063845,1190,1563133748,2147483647,A,1500,implementation-two pointers,beroul,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57019600,1190,1563110541,2147483647,A,1500,implementation-two pointers,thanhqng,Java 8,342,0,OK
+57015872,1190,1563104118,2147483647,A,1500,implementation-two pointers,XsliferX,Java 8,342,0,OK
+57014590,1190,1563102087,3387,C,2400,brute force-games-greedy,Nutella3000,Java 8,109,0,OK
+57013409,1190,1563100025,1325,B,1800,games,Nutella3000,Java 8,139,0,OK
+57012881,1190,1563099065,365,A,1500,implementation-two pointers,Nutella3000,Java 8,233,2867200,OK
+56997724,1190,1563065170,2147483647,C,2400,brute force-games-greedy,garrett7,Java 8,187,0,OK
+56992065,1190,1563044167,2147483647,A,1500,implementation-two pointers,khokharnikunj8,Java 8,140,0,OK
+56981038,1190,1563026082,2147483647,C,2400,brute force-games-greedy,kuailezhish,Java 8,140,0,OK
+56980517,1190,1563025453,2147483647,C,2400,brute force-games-greedy,kuailezhish,Java 8,139,0,OK
+56971189,1190,1563013241,2147483647,B,1800,games,zeyad_khattab,Java 8,217,6348800,OK
+56966002,1190,1563006132,2147483647,B,1800,games,mikit,Java 8,202,0,OK
+56965168,1190,1563005177,857,A,1500,implementation-two pointers,zeyad_khattab,Java 8,171,2969600,OK
+56963629,1190,1563003289,2147483647,A,1500,implementation-two pointers,samez,Java 8,171,2969600,OK
+56957126,1190,1562994756,2147483647,A,1500,implementation-two pointers,hashdroid,Java 8,342,0,OK
+56956439,1190,1562993811,2147483647,A,1500,implementation-two pointers,hashdroid,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56953033,1190,1562987175,3494,B,1800,games,jdurie,Java 8,187,1024000,OK
+56951947,1190,1562985411,1731,A,1500,implementation-two pointers,jdurie,Java 8,171,2969600,OK
+56948815,1190,1562979664,2147483647,B,1800,games,xfx_98,Java 8,451,0,OK
+56943840,1190,1562963774,2147483647,C,2400,brute force-games-greedy,fetetriste,Java 8,155,0,OK
+56941722,1190,1562959969,2147483647,A,1500,implementation-two pointers,Dukkha,Java 8,421,0,OK
+56934687,1190,1562949045,6945,C,2400,brute force-games-greedy,Musin,Java 8,202,0,OK
+56933717,1190,1562948889,6789,D,2200,data structures-divide and conquer-sortings-two pointers,AleksBolosFan,Java 8,1965,19148800,OK
+56933317,1190,1562948820,6720,D,2200,data structures-divide and conquer-sortings-two pointers,dalt,Java 8,405,0,OK
+56927365,1190,1562947710,5610,D,2200,data structures-divide and conquer-sortings-two pointers,tanzaku,Java 8,654,18432000,OK
+56927228,1190,1562947684,5584,C,2400,brute force-games-greedy,Xylenox,Java 8,171,0,OK
+56924985,1190,1562947275,5175,C,2400,brute force-games-greedy,AkshajK,Java 8,170,0,OK
+56924263,1190,1562947140,5040,D,2200,data structures-divide and conquer-sortings-two pointers,fetetriste,Java 8,592,5939200,OK
+56924089,1190,1562947104,5004,D,2200,data structures-divide and conquer-sortings-two pointers,Musin,Java 8,545,39526400,OK
+56923427,1190,1562946970,4865,D,2200,data structures-divide and conquer-sortings-two pointers,Tlatoani,Java 8,1450,25600000,OK
+56922183,1190,1562946746,4646,D,2200,data structures-divide and conquer-sortings-two pointers,Taran_1407,Java 8,966,36556800,OK
+56919200,1190,1562946223,4123,B,1800,games,AleksBolosFan,Java 8,265,0,OK
+56918219,1190,1562946056,3956,C,2400,brute force-games-greedy,tanzaku,Java 8,140,0,OK
+56917933,1190,1562946004,3904,C,2400,brute force-games-greedy,dalt,Java 8,202,0,OK
+56915792,1190,1562945662,3562,D,2200,data structures-divide and conquer-sortings-two pointers,Xylenox,Java 8,2324,93593600,OK
+56913377,1190,1562945273,3173,B,1800,games,wphsucf,Java 8,187,0,OK
+56907762,1190,1562944453,2353,A,1500,implementation-two pointers,fetetriste,Java 8,171,2969600,OK
+56907436,1190,1562944410,2310,B,1800,games,tanzaku,Java 8,311,0,OK
+56906925,1190,1562944338,2238,A,1500,implementation-two pointers,AkshajK,Java 8,186,2969600,OK
+56906922,1190,1562944338,2238,B,1800,games,Musin,Java 8,140,0,OK
+56906362,1190,1562944256,2156,C,2400,brute force-games-greedy,niyaznigmatul,Java 8,171,0,OK
+56905978,1190,1562944199,2099,B,1800,games,Tlatoani,Java 8,327,0,OK
+56904850,1190,1562944033,1933,D,2200,data structures-divide and conquer-sortings-two pointers,Egor,Java 8,794,14745600,OK
+56904231,1190,1562943952,1852,B,1800,games,fetetriste,Java 8,248,0,OK
+56903198,1190,1562943810,1710,B,1800,games,dalt,Java 8,140,0,OK
+56902239,1190,1562943690,1590,B,1800,games,Xylenox,Java 8,171,0,OK
+56900963,1190,1562943521,1421,B,1800,games,AkshajK,Java 8,187,0,OK
+56900623,1190,1562943476,1376,A,1500,implementation-two pointers,tanzaku,Java 8,124,0,OK
+56900514,1190,1562943459,1359,A,1500,implementation-two pointers,wphsucf,Java 8,156,2867200,OK
+56899990,1190,1562943392,1292,A,1500,implementation-two pointers,niyaznigmatul,Java 8,171,0,OK
+56898692,1190,1562943215,1115,B,1800,games,niyaznigmatul,Java 8,140,0,OK
+56896594,1190,1562942929,829,A,1500,implementation-two pointers,Xylenox,Java 8,171,2969600,OK
+56896181,1190,1562942867,767,A,1500,implementation-two pointers,Egor,Java 8,140,0,OK
+56896161,1190,1562942864,764,A,1500,implementation-two pointers,mikit,Java 8,171,2969600,OK
+56895807,1190,1562942817,717,B,1800,games,Egor,Java 8,202,0,OK
+56895487,1190,1562942777,677,A,1500,implementation-two pointers,AleksBolosFan,Java 8,171,0,OK
+56894493,1190,1562942670,570,A,1500,implementation-two pointers,Musin,Java 8,140,0,OK
+56894491,1190,1562942670,570,A,1500,implementation-two pointers,Taran_1407,Java 8,202,3379200,OK
+56894116,1190,1562942627,527,A,1500,implementation-two pointers,dalt,Java 8,171,0,OK
+56893865,1190,1562942601,501,A,1500,implementation-two pointers,Tlatoani,Java 8,358,0,OK

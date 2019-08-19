@@ -1,0 +1,129 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+56308816,1098,1561901702,2147483647,F,3500,string suffix structures-strings,mermaid_tear,Java 8,6000,4915200,TIME_LIMIT_EXCEEDED
+56297192,1098,1561877103,2147483647,F,3500,string suffix structures-strings,mermaid_tear,Java 8,6000,4915200,TIME_LIMIT_EXCEEDED
+55501983,1098,1560353713,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,hasan5788,Java 8,264,33382400,OK
+55466777,1098,1560271606,2147483647,F,3500,string suffix structures-strings,mahmednabil109,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+55466537,1098,1560271308,2147483647,F,3500,string suffix structures-strings,mahmednabil109,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+54636119,1098,1558803995,6095,B,2300,brute force-constructive algorithms-greedy-math,Xylenox,Java 8,265,8192000,OK
+54636078,1098,1558803901,6001,B,2300,brute force-constructive algorithms-greedy-math,Xylenox,Java 8,1000,7372800,TIME_LIMIT_EXCEEDED
+54633737,1098,1558799345,1445,A,1600,constructive algorithms-dfs and similar-greedy-trees,Xylenox,Java 8,420,4915200,OK
+53820880,1098,1557147965,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,zmurzagaliev,Java 8,249,52736000,OK
+53683382,1098,1556831248,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,Punit_sharma,Java 8,249,27750400,OK
+52655595,1098,1555094573,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,saiharish,Java 8,483,59904000,OK
+52637459,1098,1555066440,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,dtsarun,Java 8,296,21401600,OK
+52349951,1098,1554473417,2147483647,B,2300,brute force-constructive algorithms-greedy-math,LAKOUAM_IMAD,Java 8,436,0,OK
+52113448,1098,1554046423,2147483647,F,3500,string suffix structures-strings,mahmednabil109,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+51547433,1098,1553029279,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,woidjoe,Java 8,452,53248000,OK
+50885245,1098,1551869952,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,Tooc0ld,Java 8,280,79155200,OK
+50694863,1098,1551548076,2147483647,F,3500,string suffix structures-strings,mahmednabil109,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+50693552,1098,1551545551,2147483647,F,3500,string suffix structures-strings,mahmednabil109,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+50692831,1098,1551544256,2147483647,F,3500,string suffix structures-strings,mahmednabil109,Java 8,6000,0,TIME_LIMIT_EXCEEDED
+50663013,1098,1551490208,2147483647,D,2700,data structures,Dukkha,Java 8,1419,36454400,OK
+50662898,1098,1551489758,2147483647,D,2700,data structures,Dukkha,Java 8,3000,36352000,TIME_LIMIT_EXCEEDED
+50530700,1098,1551187936,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,ramez,Java 8,311,83865600,OK
+50432287,1098,1551019358,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,whyo,Java 8,156,0,OK
+50085515,1098,1550473940,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,JNUzzh,Java 8,233,0,OK
+50056535,1098,1550399870,2147483647,B,2300,brute force-constructive algorithms-greedy-math,JNUzzh,Java 8,186,3072000,OK
+50055977,1098,1550398849,2147483647,B,2300,brute force-constructive algorithms-greedy-math,JNUzzh,Java 8,1000,2969600,TIME_LIMIT_EXCEEDED
+50052429,1098,1550392974,2147483647,B,2300,brute force-constructive algorithms-greedy-math,JNUzzh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50039018,1098,1550359657,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,mikkk,Java 8,202,19456000,OK
+49997180,1098,1550331109,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,JNUzzh,Java 8,327,0,OK
+49683890,1098,1549776950,2147483647,B,2300,brute force-constructive algorithms-greedy-math,travm1100,Java 8,264,0,OK
+49557976,1098,1549536783,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,palakmjn,Java 8,218,51609600,OK
+49480970,1098,1549319586,6486,B,2300,brute force-constructive algorithms-greedy-math,I_love_AuroraGarden,Java 8,389,10956800,OK
+49480911,1098,1549319299,6199,B,2300,brute force-constructive algorithms-greedy-math,I_love_AuroraGarden,Java 8,1000,10956800,TIME_LIMIT_EXCEEDED
+49480657,1098,1549318098,4998,B,2300,brute force-constructive algorithms-greedy-math,Ahmad,Java 8,295,65024000,OK
+49480094,1098,1549316484,3384,A,1600,constructive algorithms-dfs and similar-greedy-trees,I_love_AuroraGarden,Java 8,187,36249600,OK
+49480033,1098,1549316309,3209,A,1600,constructive algorithms-dfs and similar-greedy-trees,Ahmad,Java 8,171,5734400,OK
+49027214,1098,1548531640,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,Gr8tor,Java 8,202,14438400,OK
+48900944,1098,1548352846,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,younesbmz,Java 8,233,22220800,OK
+48669600,1098,1548064940,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,zqert,Java 8,577,0,OK
+48669287,1098,1548064092,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,zqert,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48669136,1098,1548063706,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,zqert,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48668245,1098,1548061978,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,zqert,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48663122,1098,1548053562,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,zqert,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48495342,1098,1547729044,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,zqert,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48414382,1098,1547544732,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,Taran_1407,Java 8,171,204800,OK
+48317777,1098,1547364716,2147483647,F,3500,string suffix structures-strings,macomeback,Java 8,6000,5120000,TIME_LIMIT_EXCEEDED
+48287564,1098,1547292014,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,358,21913600,OK
+48268836,1098,1547247628,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,ragad_ag,Java 8,218,9011200,OK
+48212067,1098,1547210219,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,Naman_123,Java 8,233,9318400,OK
+48181370,1098,1547124071,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,xodiac,Java 8,171,5222400,OK
+48179738,1098,1547121015,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,10956800,TIME_LIMIT_EXCEEDED
+48178878,1098,1547119253,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,3686400,TIME_LIMIT_EXCEEDED
+48178737,1098,1547118937,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,5120000,TIME_LIMIT_EXCEEDED
+48178603,1098,1547118648,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,5017600,TIME_LIMIT_EXCEEDED
+48161828,1098,1547064386,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,MubtasimShahriar,Java 8,327,0,OK
+48106080,1098,1547010714,2147483647,B,2300,brute force-constructive algorithms-greedy-math,xodiac,Java 8,904,24268800,OK
+48099472,1098,1546975129,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,ruhan.habib39,Java 8,233,0,OK
+48098956,1098,1546973673,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,kumarmonu0522,Java 8,124,0,OK
+48095835,1098,1546965985,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,3686400,TIME_LIMIT_EXCEEDED
+48095593,1098,1546965447,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,10854400,TIME_LIMIT_EXCEEDED
+48095160,1098,1546964443,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,14336000,TIME_LIMIT_EXCEEDED
+48094807,1098,1546963581,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,7168000,TIME_LIMIT_EXCEEDED
+48094756,1098,1546963471,2147483647,B,2300,brute force-constructive algorithms-greedy-math,GreatWhite,Java 8,1000,8704000,TIME_LIMIT_EXCEEDED
+48093351,1098,1546960264,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,kumarmonu0522,Java 8,124,0,OK
+48093218,1098,1546959911,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,GreatWhite,Java 8,202,13414400,OK
+48092789,1098,1546958925,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,kumarmonu0522,Java 8,343,0,OK
+48079173,1098,1546928977,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,Vaibhav96,Java 8,467,28467200,OK
+48069717,1098,1546894907,2147483647,B,2300,brute force-constructive algorithms-greedy-math,wadissimo,Java 8,233,0,OK
+48062936,1098,1546878292,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,Dukkha,Java 8,124,0,OK
+48054168,1098,1546859660,2147483647,D,2700,data structures,mbrc,Java 8,3000,115404800,TIME_LIMIT_EXCEEDED
+48054005,1098,1546859324,2147483647,D,2700,data structures,mbrc,Java 8,3000,64307200,TIME_LIMIT_EXCEEDED
+48046412,1098,1546832585,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,sungodavi,Java 8,233,10956800,OK
+48038040,1098,1546794036,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,HinataHyuga,Java 8,155,0,OK
+48033380,1098,1546782824,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,kunal725725,Java 8,217,18534400,OK
+48029419,1098,1546773987,6927,D,2700,data structures,qwerty787788,Java 8,2261,49152000,OK
+48028957,1098,1546772727,5667,D,2700,data structures,qwerty787788,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48027414,1098,1546768811,1751,B,2300,brute force-constructive algorithms-greedy-math,qwerty787788,Java 8,202,5939200,OK
+48026805,1098,1546767428,368,A,1600,constructive algorithms-dfs and similar-greedy-trees,qwerty787788,Java 8,140,0,OK
+48020561,1098,1546751573,2147483647,A,1600,constructive algorithms-dfs and similar-greedy-trees,xodiac,Java 8,249,27750400,OK
+48015443,1098,1546726243,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,liymbear,Java 8,140,15360000,OK
+48013973,1098,1546721901,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,dusty.and.rusty,Java 8,234,0,OK
+48013276,1098,1546720602,2147483647,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,dusty.and.rusty,Java 8,1000,260096000,TIME_LIMIT_EXCEEDED
+48013196,1098,1546720480,2147483647,D,2700,data structures,Lewin,Java 8,3000,20684800,TIME_LIMIT_EXCEEDED
+48013177,1098,1546720438,2147483647,B,2300,brute force-constructive algorithms-greedy-math,Yusufjon_Nazarov,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48013060,1098,1546720268,2147483647,B,2300,brute force-constructive algorithms-greedy-math,AkshajK,Java 8,342,8806400,OK
+48010964,1098,1546714993,8893,D,2700,data structures,ilyakor,Java 8,2901,178688000,OK
+48010449,1098,1546714831,8731,B,2300,brute force-constructive algorithms-greedy-math,Intrincantation,Java 8,186,0,OK
+48009170,1098,1546714384,8284,E,3400,binary search-implementation-math-number theory,Petr,Java 8,405,10547200,OK
+48008225,1098,1546714017,7917,B,2300,brute force-constructive algorithms-greedy-math,mikit,Java 8,186,3788800,OK
+48006950,1098,1546713529,7429,B,2300,brute force-constructive algorithms-greedy-math,Lewin,Java 8,405,7884800,OK
+48006818,1098,1546713477,7377,B,2300,brute force-constructive algorithms-greedy-math,Lewin,Java 8,1000,10444800,TIME_LIMIT_EXCEEDED
+48006663,1098,1546713421,7321,D,2700,data structures,uwi,Java 8,997,33177600,OK
+48006609,1098,1546713404,7304,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,Lewin,Java 8,187,0,OK
+48006551,1098,1546713386,7286,B,2300,brute force-constructive algorithms-greedy-math,ankurdua15,Java 8,389,8908800,OK
+48005278,1098,1546712933,6833,B,2300,brute force-constructive algorithms-greedy-math,poikniok,Java 8,249,5120000,OK
+48004493,1098,1546712665,6565,B,2300,brute force-constructive algorithms-greedy-math,Dukkha,Java 8,202,4198400,OK
+48004273,1098,1546712591,6491,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,liymbear,Java 8,155,21708800,OK
+48004135,1098,1546712543,6443,B,2300,brute force-constructive algorithms-greedy-math,dusty.and.rusty,Java 8,498,14848000,OK
+48003028,1098,1546712150,6050,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,liymbear,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48002758,1098,1546712056,5956,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,liymbear,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48002242,1098,1546711884,5784,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,fetetriste,Java 8,202,15974400,OK
+48002041,1098,1546711816,5716,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,liymbear,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48000609,1098,1546711377,5277,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,ilyakor,Java 8,1000,15052800,TIME_LIMIT_EXCEEDED
+48000525,1098,1546711352,5252,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,liymbear,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47999619,1098,1546711069,4969,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,uwi,Java 8,156,0,OK
+47998624,1098,1546710783,4683,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,liymbear,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47996961,1098,1546710305,4205,D,2700,data structures,Petr,Java 8,826,15872000,OK
+47994641,1098,1546709720,3620,A,1600,constructive algorithms-dfs and similar-greedy-trees,Dukkha,Java 8,140,0,OK
+47994370,1098,1546709657,3557,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,mmaxio,Java 8,140,0,OK
+47992023,1098,1546709136,3036,A,1600,constructive algorithms-dfs and similar-greedy-trees,mikit,Java 8,264,16384000,OK
+47991270,1098,1546708973,2873,A,1600,constructive algorithms-dfs and similar-greedy-trees,poikniok,Java 8,249,50892800,OK
+47989444,1098,1546708577,2477,C,2300,binary search-constructive algorithms-dfs and similar-graphs-greedy-trees,Petr,Java 8,140,0,OK
+47988716,1098,1546708430,2330,A,1600,constructive algorithms-dfs and similar-greedy-trees,dusty.and.rusty,Java 8,265,5222400,OK
+47988241,1098,1546708339,2239,A,1600,constructive algorithms-dfs and similar-greedy-trees,Intrincantation,Java 8,233,2355200,OK
+47987162,1098,1546708120,2019,B,2300,brute force-constructive algorithms-greedy-math,ilyakor,Java 8,467,0,OK
+47986882,1098,1546708067,1967,B,2300,brute force-constructive algorithms-greedy-math,mmaxio,Java 8,202,0,OK
+47986182,1098,1546707946,1846,B,2300,brute force-constructive algorithms-greedy-math,uwi,Java 8,655,26009600,OK
+47983560,1098,1546707498,1398,A,1600,constructive algorithms-dfs and similar-greedy-trees,AkshajK,Java 8,202,11161600,OK
+47983074,1098,1546707422,1322,B,2300,brute force-constructive algorithms-greedy-math,Petr,Java 8,218,1331200,OK
+47982587,1098,1546707353,1253,A,1600,constructive algorithms-dfs and similar-greedy-trees,Yugioh,Java 8,295,80076800,OK
+47978577,1098,1546706838,738,A,1600,constructive algorithms-dfs and similar-greedy-trees,Suzukaze,Java 8,233,27033600,OK
+47978144,1098,1546706787,687,A,1600,constructive algorithms-dfs and similar-greedy-trees,fetetriste,Java 8,155,0,OK
+47977721,1098,1546706745,645,A,1600,constructive algorithms-dfs and similar-greedy-trees,liymbear,Java 8,155,0,OK
+47976739,1098,1546706640,540,A,1600,constructive algorithms-dfs and similar-greedy-trees,uwi,Java 8,140,0,OK
+47976459,1098,1546706610,510,A,1600,constructive algorithms-dfs and similar-greedy-trees,Lewin,Java 8,233,6246400,OK
+47975812,1098,1546706545,445,A,1600,constructive algorithms-dfs and similar-greedy-trees,mmaxio,Java 8,124,0,OK
+47975308,1098,1546706495,395,A,1600,constructive algorithms-dfs and similar-greedy-trees,Petr,Java 8,171,0,OK
+47974956,1098,1546706453,353,A,1600,constructive algorithms-dfs and similar-greedy-trees,ilyakor,Java 8,124,0,OK

@@ -1,0 +1,199 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57560283,123,1563839356,2147483647,D,2300,string suffix structures,Ahmed_Diab,Java 8,436,37273600
+52632568,123,1555055996,2147483647,A,1600,implementation-number theory-strings,Verdusk,Java 8,340,0
+52631287,123,1555053270,2147483647,A,1600,implementation-number theory-strings,Verdusk,Java 8,280,0
+50419752,123,1550996733,2147483647,A,1600,implementation-number theory-strings,mandark27,Java 8,248,0
+46637094,123,1543994741,2147483647,D,2300,string suffix structures,qiyue,Java 8,590,38092800
+43095567,123,1537398742,2147483647,A,1600,implementation-number theory-strings,wrong_lemma,Java 8,280,0
+42810341,123,1536781025,2147483647,B,1900,math,KulikAlex,Java 8,280,0
+42247539,123,1535559259,2147483647,A,1600,implementation-number theory-strings,adityagupta1089,Java 8,374,0
+39500302,123,1529613351,2147483647,A,1600,implementation-number theory-strings,KulikAlex,Java 8,280,0
+37136463,123,1523339192,2147483647,A,1600,implementation-number theory-strings,amolpratap007,Java 8,280,25088000
+36714869,123,1522316948,2147483647,D,2300,string suffix structures,dalt,Java 8,654,60928000
+36349781,123,1521280067,2147483647,A,1600,implementation-number theory-strings,ShafinKhadem,Java 8,280,20684800
+35442858,123,1518949368,2147483647,A,1600,implementation-number theory-strings,parth_15,Java 8,248,20684800
+35330404,123,1518768783,2147483647,D,2300,string suffix structures,Omar_Morsi,Java 8,746,92160000
+34729740,123,1517384176,2147483647,D,2300,string suffix structures,NR_1995,Java 8,872,77516800
+34706063,123,1517310587,2147483647,D,2300,string suffix structures,aabdelzaher,Java 8,810,68505600
+34693298,123,1517272187,2147483647,D,2300,string suffix structures,G.Mohamed,Java 8,748,75059200
+34664246,123,1517235457,2147483647,D,2300,string suffix structures,mariem_kandil,Java 8,746,72396800
+34663496,123,1517233885,2147483647,D,2300,string suffix structures,Hoda_Hisham,Java 8,716,72089600
+34661782,123,1517230640,2147483647,D,2300,string suffix structures,Minaa,Java 8,778,70451200
+34661755,123,1517230572,2147483647,D,2300,string suffix structures,catchup,Java 8,810,144588800
+34661718,123,1517230483,2147483647,D,2300,string suffix structures,AhmedGhazaly,Java 8,622,67891200
+34661131,123,1517229305,2147483647,D,2300,string suffix structures,Imaginary,Java 8,746,77619200
+34660541,123,1517228051,2147483647,D,2300,string suffix structures,Kharouba,Java 8,778,70451200
+34241606,123,1516171718,2147483647,A,1600,implementation-number theory-strings,rahulkhairwar,Java 8,374,22425600
+33795059,123,1514579774,2147483647,A,1600,implementation-number theory-strings,vjudge5,Java 8,342,21299200
+33794442,123,1514577970,2147483647,A,1600,implementation-number theory-strings,moniba,Java 8,310,21196800
+33754861,123,1514536671,2147483647,A,1600,implementation-number theory-strings,vjudge4,Java 8,310,21913600
+33744936,123,1514490671,2147483647,A,1600,implementation-number theory-strings,vjudge1,Java 8,310,21913600
+33682898,123,1514395119,2147483647,A,1600,implementation-number theory-strings,vjudge5,Java 8,342,21094400
+33663474,123,1514361095,2147483647,A,1600,implementation-number theory-strings,vjudge5,Java 8,310,20992000
+31913211,123,1509435210,2147483647,D,2300,string suffix structures,tomdmitriev,Java 8,778,45465600
+31475807,123,1508320728,2147483647,A,1600,implementation-number theory-strings,System_test_failed,Java 8,248,20582400
+30653238,123,1506199040,2147483647,A,1600,implementation-number theory-strings,kunalk,Java 8,340,17408000
+27719894,123,1497179801,2147483647,A,1600,implementation-number theory-strings,poikniok,Java 8,342,0
+25439086,123,1489336151,2147483647,A,1600,implementation-number theory-strings,tomdmitriev,Java 8,218,20480000
+23503740,123,1483378358,2147483647,A,1600,implementation-number theory-strings,rahulkhairwar,Java 8,280,20582400
+23501917,123,1483371112,2147483647,A,1600,implementation-number theory-strings,bhishma,Java 8,248,20582400
+22304786,123,1479467371,2147483647,A,1600,implementation-number theory-strings,AJ_Coder,Java 8,280,0
+22032368,123,1478257612,2147483647,E,2600,dfs and similar-dp-probabilities-trees,JShinjuro,Java 8,404,6041600
+20307353,123,1472660179,2147483647,E,2600,dfs and similar-dp-probabilities-trees,AlexFetisov,Java 8,374,11878400
+18368928,123,1465621630,2147483647,A,1600,implementation-number theory-strings,FabianConP,Java 8,342,20582400
+18368813,123,1465620717,2147483647,A,1600,implementation-number theory-strings,Yeison_Garcia,Java 7,248,39321600
+18180363,123,1464776259,2147483647,A,1600,implementation-number theory-strings,Corvus,Java 8,342,20582400
+15512832,123,1453546545,2147483647,A,1600,implementation-number theory-strings,Empress,Java 8,248,0
+15457277,123,1453311659,2147483647,B,1900,math,mkirsche,Java 7,218,0
+12909498,123,1441802704,2147483647,A,1600,implementation-number theory-strings,Hartha,Java 7,184,0
+11990464,123,1436474322,2147483647,D,2300,string suffix structures,pashka,Java 8,342,26112000
+11990087,123,1436471156,2147483647,D,2300,string suffix structures,pashka,Java 8,374,108032000
+11498335,123,1433770287,2147483647,A,1600,implementation-number theory-strings,marcose18,Java 7,186,0
+11351188,123,1432938659,2147483647,D,2300,string suffix structures,hama-du,Java 8,654,0
+11327833,123,1432783099,2147483647,C,2300,combinatorics-dp-greedy,hama-du,Java 8,280,0
+10532582,123,1427801387,2147483647,C,2300,combinatorics-dp-greedy,A.Elahi,Java 8,312,0
+10531908,123,1427795497,2147483647,B,1900,math,A.Elahi,Java 8,342,0
+10206211,123,1425818315,2147483647,D,2300,string suffix structures,vjudge5,Java 8,342,18636800
+10206175,123,1425818224,2147483647,D,2300,string suffix structures,a654889339,Java 7,248,19968000
+9495837,123,1421866450,2147483647,A,1600,implementation-number theory-strings,upsolving,Java 7,186,0
+9213106,123,1419144795,2147483647,C,2300,combinatorics-dp-greedy,AlexFetisov,Java 8,374,0
+9212804,123,1419141525,4185,D,2300,string suffix structures,AlexFetisov,Java 8,374,18636800
+9212681,123,1419139579,2239,B,1900,math,AlexFetisov,Java 8,248,0
+9212609,123,1419138291,951,A,1600,implementation-number theory-strings,AlexFetisov,Java 8,248,0
+8476821,123,1414655134,2147483647,D,2300,string suffix structures,vjudge5,Java 6,310,3174400
+8476819,123,1414655094,2147483647,D,2300,string suffix structures,meijun,Java 6,280,3276800
+7034955,123,1404673584,2147483647,A,1600,implementation-number theory-strings,xiaowuc1,Java 6,248,0
+6901856,123,1402980576,2147483647,A,1600,implementation-number theory-strings,alibaba,Java 7,186,0
+6861852,123,1402449154,2147483647,D,2300,string suffix structures,uwi,Java 7,466,15360000
+6690231,123,1400896792,2147483647,A,1600,implementation-number theory-strings,miguelmaurizio,Java 8,310,0
+6519825,123,1398998756,2147483647,A,1600,implementation-number theory-strings,nickbuelich,Java 8,372,0
+5623804,123,1388947971,2147483647,C,2300,combinatorics-dp-greedy,yarrr,Java 7,218,0
+5397115,123,1386594794,2147483647,A,1600,implementation-number theory-strings,Javanochka,Java 7,156,102400
+4564365,123,1380154723,2147483647,A,1600,implementation-number theory-strings,vvenkai,Java 7,156,102400
+4406859,123,1378327652,2147483647,A,1600,implementation-number theory-strings,mkirsche,Java 6,156,0
+3883056,123,1371212457,2147483647,A,1600,implementation-number theory-strings,AekdyCoin,Java 7,109,204800
+2983685,123,1358858945,2147483647,D,2300,string suffix structures,Egor,Java 6,171,14131200
+2927524,123,1358266394,6794,E,2600,dfs and similar-dp-probabilities-trees,uwi,Java 6,125,0
+2927494,123,1358265295,5695,D,2300,string suffix structures,uwi,Java 6,312,2252800
+2927414,123,1358263330,3730,C,2300,combinatorics-dp-greedy,uwi,Java 6,125,2252800
+2927361,123,1358262016,2416,B,1900,math,uwi,Java 6,93,2252800
+2927320,123,1358261346,1746,A,1600,implementation-number theory-strings,uwi,Java 6,93,2252800
+2789685,123,1355811111,2147483647,E,2600,dfs and similar-dp-probabilities-trees,qiandichen,Java 7,249,204800
+2789648,123,1355810266,2147483647,E,2600,dfs and similar-dp-probabilities-trees,qiandichen,Java 7,265,7680000
+1913126,123,1342758667,2147483647,B,1900,math,Azat_Yusupov,Java 6,140,43315200
+1825632,123,1340549477,2147483647,B,1900,math,Ahmed_Salama,Java 6,140,43315200
+1824501,123,1340471651,2147483647,A,1600,implementation-number theory-strings,Ahmed_Salama,Java 6,140,43315200
+1215517,123,1329891893,2147483647,A,1600,implementation-number theory-strings,peking2,Java 6,130,45056000
+1095711,123,1327023506,2147483647,E,2600,dfs and similar-dp-probabilities-trees,Darooha,Java 6,420,64307200
+1058566,123,1326720576,2147483647,A,1600,implementation-number theory-strings,nativea,Java 6,90,43008000
+953911,123,1323778379,3445379,E,2600,dfs and similar-dp-probabilities-trees,FattyPenguin,Java 6,300,43212800
+933667,123,1323202603,2869603,A,1600,implementation-number theory-strings,Izot_NNSTU,Java 6,130,35328000
+912958,123,1322745901,2412901,C,2300,combinatorics-dp-greedy,zhymaoiing,Java 6,160,35430400
+912956,123,1322745849,2412849,C,2300,combinatorics-dp-greedy,zhymaoiing,Java 6,160,35328000
+912950,123,1322745640,2412640,C,2300,combinatorics-dp-greedy,zhymaoiing,Java 6,190,35328000
+910918,123,1322615177,2282177,C,2300,combinatorics-dp-greedy,UESTC_Defense,Java 6,230,43417600
+890625,123,1322207052,1874052,C,2300,combinatorics-dp-greedy,wangyongliang,Java 6,280,35532800
+888477,123,1322103771,1770771,B,1900,math,wangyongliang,Java 6,130,43212800
+887202,123,1322038993,1705993,A,1600,implementation-number theory-strings,wangyongliang,Java 6,140,43315200
+880520,123,1321792819,1459819,B,1900,math,Slamur,Java 6,110,43724800
+877753,123,1321632868,1299868,B,1900,math,islam-al-aarag,Java 6,140,43110400
+871895,123,1321366167,1033167,A,1600,implementation-number theory-strings,kiko91_7,Java 6,140,43110400
+864299,123,1321319150,986150,A,1600,implementation-number theory-strings,islam-al-aarag,Java 6,110,43110400
+862827,123,1321255182,922182,A,1600,implementation-number theory-strings,sadkangaroo,Java 6,110,35225600
+861687,123,1321185692,852692,C,2300,combinatorics-dp-greedy,sayuan,Java 6,190,43212800
+861685,123,1321185637,852637,C,2300,combinatorics-dp-greedy,sayuan,Java 6,190,43212800
+860704,123,1321123299,790299,A,1600,implementation-number theory-strings,Azat_Yusupov,Java 6,140,43315200
+857396,123,1320992674,659674,A,1600,implementation-number theory-strings,psucoder,Java 6,130,35225600
+855619,123,1320338549,5549,C,2300,combinatorics-dp-greedy,ika,Java 6,170,35532800
+855472,123,1320335996,2996,B,1900,math,ika,Java 6,130,43315200
+855411,123,1320334663,1663,A,1600,implementation-number theory-strings,ika,Java 6,130,43520000
+843597,123,1320857679,524679,E,2600,dfs and similar-dp-probabilities-trees,uwi,Java 6,220,43110400
+842826,123,1320827687,494687,B,1900,math,ABD.Luo,Java 6,140,43110400
+841709,123,1320767931,434931,B,1900,math,uwi,Java 6,130,43110400
+840361,123,1320697005,364005,C,2300,combinatorics-dp-greedy,torrentlord,Java 6,250,43417600
+839801,123,1320678624,345624,A,1600,implementation-number theory-strings,Wahba,Java 6,110,35225600
+839454,123,1320668386,335386,A,1600,implementation-number theory-strings,ABD.Luo,Java 6,160,35328000
+838722,123,1320627270,294270,C,2300,combinatorics-dp-greedy,partizan22,Java 6,230,43520000
+838668,123,1320619806,286806,B,1900,math,partizan22,Java 6,140,43110400
+838654,123,1320618347,285347,A,1600,implementation-number theory-strings,partizan22,Java 6,130,43315200
+838508,123,1320609664,276664,B,1900,math,Sinner,Java 6,130,43110400
+838085,123,1320591500,258500,E,2600,dfs and similar-dp-probabilities-trees,Darooha,Java 6,420,64307200
+837794,123,1320578683,245683,B,1900,math,Ahmed.Ibrahem,Java 6,140,43212800
+837149,123,1320528273,195273,B,1900,math,torrentlord,Java 6,140,43110400
+837148,123,1320528248,195248,A,1600,implementation-number theory-strings,torrentlord,Java 6,130,43110400
+837133,123,1320526878,193878,A,1600,implementation-number theory-strings,cyon,Java 6,140,43110400
+837068,123,1320522818,189818,C,2300,combinatorics-dp-greedy,Kornacker,Java 6,250,43520000
+835621,123,1320461072,128072,B,1900,math,anhdt,Java 6,110,43110400
+835300,123,1320441949,108949,A,1600,implementation-number theory-strings,mostafa_fahim,Java 6,140,43110400
+835252,123,1320438148,105148,B,1900,math,mostafa_fahim,Java 6,140,43110400
+834877,123,1320422365,89365,A,1600,implementation-number theory-strings,anhdt,Java 6,110,43110400
+834869,123,1320422080,89080,A,1600,implementation-number theory-strings,anhdt,Java 6,130,43110400
+834860,123,1320421625,88625,A,1600,implementation-number theory-strings,anhdt,Java 6,130,43110400
+834276,123,1320406035,73035,B,1900,math,wiye.cheng,Java 6,140,43110400
+834228,123,1320404027,71027,A,1600,implementation-number theory-strings,wiye.cheng,Java 6,160,43110400
+833799,123,1320388969,55969,C,2300,combinatorics-dp-greedy,unicef,Java 6,170,43417600
+833738,123,1320387662,54662,A,1600,implementation-number theory-strings,Sinner,Java 6,130,43008000
+833723,123,1320387118,54118,B,1900,math,unicef,Java 6,130,43110400
+833367,123,1320374644,41644,A,1600,implementation-number theory-strings,calculus.saransh,Java 6,130,43315200
+833164,123,1320363672,30672,B,1900,math,Aksenov239,Java 6,130,43110400
+833129,123,1320361945,28945,A,1600,implementation-number theory-strings,Aksenov239,Java 6,110,43008000
+832976,123,1320354344,21344,A,1600,implementation-number theory-strings,Ahmed.Ibrahem,Java 6,140,43622400
+832956,123,1320353049,20049,A,1600,implementation-number theory-strings,OgieKako,Java 6,110,43008000
+832942,123,1320352294,19294,A,1600,implementation-number theory-strings,epizend,Java 6,200,43212800
+832882,123,1320350918,17918,C,2300,combinatorics-dp-greedy,khanhptnk,Java 6,190,43110400
+832725,123,1320348458,15458,B,1900,math,khanhptnk,Java 6,110,43110400
+832676,123,1320347727,14727,B,1900,math,yarrr,Java 6,130,43110400
+832636,123,1320347226,14226,A,1600,implementation-number theory-strings,khanhptnk,Java 6,130,43110400
+832611,123,1320346898,13898,E,2600,dfs and similar-dp-probabilities-trees,Petr,Java 6,280,44544000
+832542,123,1320346179,13179,A,1600,implementation-number theory-strings,SergeyLazarev,Java 6,220,43724800
+832322,123,1320344834,11834,B,1900,math,P___,Java 6,110,43110400
+832318,123,1320344821,11821,B,1900,math,DoublePointer,Java 6,140,43212800
+832296,123,1320344758,11758,C,2300,combinatorics-dp-greedy,SergeyLazarev,Java 6,950,43110400
+832262,123,1320344674,11674,A,1600,implementation-number theory-strings,Nox,Java 6,110,43212800
+832259,123,1320344673,11673,B,1900,math,Egor,Java 6,130,43110400
+832238,123,1320344636,11636,C,2300,combinatorics-dp-greedy,Di735,Java 6,190,43315200
+832213,123,1320344598,11598,C,2300,combinatorics-dp-greedy,uwi,Java 6,250,43008000
+832187,123,1320344543,11543,B,1900,math,dalex,Java 6,110,43622400
+832154,123,1320344483,11483,A,1600,implementation-number theory-strings,dalex,Java 6,130,43622400
+831999,123,1320340055,7055,D,2300,string suffix structures,uwi,Java 6,310,43110400
+831764,123,1320339636,6636,B,1900,math,piotr.kukla,Java 6,130,43110400
+831740,123,1320339568,6568,C,2300,combinatorics-dp-greedy,OgieKako,Java 6,190,43008000
+831462,123,1320338925,5925,B,1900,math,mastersobg,Java 6,140,43110400
+831435,123,1320338874,5874,B,1900,math,S.Yesipenko,Java 6,170,43212800
+831405,123,1320338817,5817,A,1600,implementation-number theory-strings,chavit,Java 6,130,43008000
+831122,123,1320338250,5250,B,1900,math,Di735,Java 6,130,43110400
+830828,123,1320337645,4645,B,1900,math,sayuan,Java 6,130,43110400
+830775,123,1320337535,4535,B,1900,math,AlexanderBolshakov,Java 6,110,43008000
+830771,123,1320337528,4528,B,1900,math,EriKKo,Java 6,110,43008000
+830767,123,1320337523,4523,C,2300,combinatorics-dp-greedy,Petr,Java 6,190,43110400
+830759,123,1320337503,4503,D,2300,string suffix structures,OgieKako,Java 6,280,43212800
+830709,123,1320337422,4422,B,1900,math,vyxaryx,Java 6,110,43110400
+830346,123,1320336719,3719,A,1600,implementation-number theory-strings,sayuan,Java 6,140,43110400
+830339,123,1320336712,3712,A,1600,implementation-number theory-strings,Di735,Java 6,130,43212800
+830332,123,1320336697,3697,A,1600,implementation-number theory-strings,dalex,Java 6,130,43622400
+830326,123,1320336676,3676,D,2300,string suffix structures,Petr,Java 6,390,43520000
+830170,123,1320336393,3393,A,1600,implementation-number theory-strings,Darko,Java 6,140,43417600
+830169,123,1320336391,3391,A,1600,implementation-number theory-strings,pius_88,Java 6,110,43212800
+830066,123,1320336237,3237,A,1600,implementation-number theory-strings,Slamur,Java 6,140,43622400
+830063,123,1320336232,3232,B,1900,math,chavit,Java 6,130,43008000
+829956,123,1320336093,3093,A,1600,implementation-number theory-strings,vanchope,Java 6,140,64614400
+829953,123,1320336090,3090,A,1600,implementation-number theory-strings,Omar.Darwish,Java 6,130,43212800
+829874,123,1320335978,2978,A,1600,implementation-number theory-strings,vyxaryx,Java 6,130,43212800
+829645,123,1320335613,2613,B,1900,math,shavkat,Java 6,140,43110400
+829621,123,1320335578,2578,A,1600,implementation-number theory-strings,piotr.kukla,Java 6,110,43110400
+829571,123,1320335513,2513,A,1600,implementation-number theory-strings,anhdt,Java 6,130,43110400
+829347,123,1320335209,2209,A,1600,implementation-number theory-strings,EriKKo,Java 6,130,43008000
+829344,123,1320335206,2206,B,1900,math,OgieKako,Java 6,130,43008000
+829233,123,1320335090,2090,A,1600,implementation-number theory-strings,S.Yesipenko,Java 6,130,43212800
+829206,123,1320335056,2056,A,1600,implementation-number theory-strings,_jte_,Java 6,200,44032000
+829011,123,1320334844,1844,A,1600,implementation-number theory-strings,timmy,Java 6,170,43212800
+828960,123,1320334793,1793,A,1600,implementation-number theory-strings,DoublePointer,Java 6,140,43110400
+828849,123,1320334697,1697,A,1600,implementation-number theory-strings,Kornacker,Java 6,140,43212800
+828815,123,1320334664,1664,B,1900,math,Nox,Java 6,130,43008000
+828631,123,1320334509,1509,A,1600,implementation-number theory-strings,shavkat,Java 6,160,43315200
+828472,123,1320334330,1330,A,1600,implementation-number theory-strings,AlexanderBolshakov,Java 6,130,43110400
+828323,123,1320334216,1216,A,1600,implementation-number theory-strings,unicef,Java 6,110,43110400
+828109,123,1320334067,1067,A,1600,implementation-number theory-strings,yarrr,Java 6,110,43110400
+827896,123,1320333913,913,A,1600,implementation-number theory-strings,uwi,Java 6,130,43110400
+827787,123,1320333841,841,B,1900,math,Petr,Java 6,130,43008000
+827355,123,1320333589,589,A,1600,implementation-number theory-strings,Petr,Java 6,130,43110400

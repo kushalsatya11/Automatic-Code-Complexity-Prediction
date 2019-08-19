@@ -1,0 +1,300 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+55874824,85,1561136079,2147483647,A,1400,constructive algorithms-implementation,newheathen,Java 8,248,0
+55220083,85,1559847551,2147483647,B,1800,data structures-greedy,puzink,Java 8,560,0
+47469150,85,1545683605,2147483647,B,1800,data structures-greedy,KulikAlex,Java 8,686,6348800
+45373926,85,1541503495,2147483647,B,1800,data structures-greedy,vjudge3,Java 8,686,1433600
+31556775,85,1508573945,2147483647,D,2200,binary search-brute force-data structures-implementation,vjudge2,Java 8,934,61337600
+25837153,85,1490614736,2147483647,A,1400,constructive algorithms-implementation,Kammola,Java 8,218,20582400
+25707165,85,1490174211,2147483647,D,2200,binary search-brute force-data structures-implementation,vjudge4,Java 8,1590,84275200
+24409718,85,1486124356,2147483647,B,1800,data structures-greedy,tomdmitriev,Java 8,622,23347200
+24093458,85,1485268176,2147483647,B,1800,data structures-greedy,Chapecoense,Java 8,654,31744000
+24093427,85,1485268081,2147483647,A,1400,constructive algorithms-implementation,Chapecoense,Java 8,310,20582400
+20739355,85,1474215179,2147483647,A,1400,constructive algorithms-implementation,Ahmad_Elsagheer,Java 8,248,0
+19288506,85,1469049609,2147483647,C,2200,binary search-dfs and similar-probabilities-sortings-trees,pitfall,Java 8,1964,74444800
+16984076,85,1459154593,2147483647,D,2200,binary search-brute force-data structures-implementation,owf147,Java 8,1434,31744000
+16399319,85,1456648414,2147483647,A,1400,constructive algorithms-implementation,poikniok,Java 8,248,0
+16062794,85,1455658886,2147483647,A,1400,constructive algorithms-implementation,stacy992,Java 7,248,0
+12716130,85,1440659581,2147483647,D,2200,binary search-brute force-data structures-implementation,alibaba,Java 8,1246,30208000
+11394878,85,1433277516,2147483647,C,2200,binary search-dfs and similar-probabilities-sortings-trees,AStepanov,Java 8,872,2048000
+10426107,85,1427222485,2147483647,D,2200,binary search-brute force-data structures-implementation,AStepanov,Java 8,902,31744000
+10402871,85,1427042182,2147483647,B,1800,data structures-greedy,AlexFetisov,Java 8,748,1433600
+10218003,85,1425907931,2147483647,C,2200,binary search-dfs and similar-probabilities-sortings-trees,vjudge5,Java 7,1590,3891200
+8535131,85,1415016738,2147483647,B,1800,data structures-greedy,qingwen,Java 7,434,0
+7559155,85,1408791626,2147483647,B,1800,data structures-greedy,marcose18,Java 6,560,102400
+7486059,85,1408209235,2147483647,A,1400,constructive algorithms-implementation,owenomar,Java 7,216,0
+7009651,85,1404466414,2147483647,D,2200,binary search-brute force-data structures-implementation,I_love_Malika,Java 7,778,54169600
+7009627,85,1404466108,2147483647,D,2200,binary search-brute force-data structures-implementation,I_love_Malika,Java 7,872,54169600
+6721128,85,1401192142,2147483647,A,1400,constructive algorithms-implementation,vvenkai,Java 7,154,0
+5480724,85,1387543166,2147483647,B,1800,data structures-greedy,I_love_Malika,Java 6,280,4608000
+5479926,85,1387531747,2147483647,B,1800,data structures-greedy,alibaba,Java 6,248,102400
+5069197,85,1384182552,2147483647,A,1400,constructive algorithms-implementation,alibaba,Java 6,156,3891200
+4238121,85,1375824637,2147483647,A,1400,constructive algorithms-implementation,santjuan,Java 7,156,0
+4206562,85,1375235167,2147483647,B,1800,data structures-greedy,trunghieu11,Java 7,186,0
+4164908,85,1374769144,2147483647,B,1800,data structures-greedy,gcd_fuck,Java 7,203,0
+4108314,85,1374263696,2147483647,B,1800,data structures-greedy,mkirsche,Java 6,328,512000
+4094866,85,1374096701,2147483647,B,1800,data structures-greedy,santjuan,Java 7,937,102400
+3962375,85,1372221748,2147483647,A,1400,constructive algorithms-implementation,kullalok,Java 6,93,0
+3497000,85,1365520654,2147483647,A,1400,constructive algorithms-implementation,mkirsche,Java 6,78,0
+3126453,85,1360820089,2147483647,A,1400,constructive algorithms-implementation,Spellbound,Java 7,78,0
+2819811,85,1356281967,2147483647,B,1800,data structures-greedy,xiaowuc1,Java 6,234,2457600
+2390732,85,1350742066,2147483647,A,1400,constructive algorithms-implementation,goodsky,Java 7,109,0
+2382916,85,1350552516,2147483647,A,1400,constructive algorithms-implementation,lemonsuper,Java 7,109,0
+2361891,85,1350328730,2510,A,1400,constructive algorithms-implementation,di_halt,Java 6,109,0
+2174367,85,1347777863,2147483647,D,2200,binary search-brute force-data structures-implementation,jki14,Java 6,1000,88473600
+2002762,85,1344799691,2147483647,B,1800,data structures-greedy,originalFussywheat,Java 7,270,57036800
+2001806,85,1344768429,3129,B,1800,data structures-greedy,harsh19,Java 7,250,57036800
+1752516,85,1338674638,2147483647,C,2200,binary search-dfs and similar-probabilities-sortings-trees,mostafa_fahim,Java 7,1360,48537600
+1750680,85,1338618277,2147483647,B,1800,data structures-greedy,jiangzhijie,Java 7,140,44953600
+1707791,85,1337603773,2147483647,B,1800,data structures-greedy,bidzilya,Java 7,170,45158400
+1667381,85,1336371437,2147483647,A,1400,constructive algorithms-implementation,bidzilya,Java 7,80,44851200
+1570781,85,1334759181,2147483647,D,2200,binary search-brute force-data structures-implementation,Di735,Java 7,890,45056000
+1570765,85,1334758938,2147483647,D,2200,binary search-brute force-data structures-implementation,Di735,Java 7,1000,45056000
+1570708,85,1334757727,2147483647,D,2200,binary search-brute force-data structures-implementation,Di735,Java 7,1170,45158400
+1220790,85,1330079155,2147483647,A,1400,constructive algorithms-implementation,tis,Java 6,90,44953600
+1152272,85,1328504105,2147483647,B,1800,data structures-greedy,ilovepink,Java 6,640,43315200
+1124864,85,1327820220,2147483647,A,1400,constructive algorithms-implementation,jcomputer000,Java 6,90,43110400
+1111526,85,1327274226,2147483647,A,1400,constructive algorithms-implementation,Sabelan,Java 6,110,43212800
+995493,85,1325574676,3676,A,1400,constructive algorithms-implementation,Azat_Yusupov,Java 6,90,43110400
+973410,85,1324664832,2147483647,A,1400,constructive algorithms-implementation,ilovepink,Java 6,90,43212800
+969620,85,1324402174,2147483647,A,1400,constructive algorithms-implementation,Betlista,Java 6,90,43008000
+955325,85,1323877969,2147483647,D,2200,binary search-brute force-data structures-implementation,islam-al-aarag,Java 6,2260,150528000
+936647,85,1323411328,17507728,A,1400,constructive algorithms-implementation,stevenkplus,Java 6,160,35225600
+934504,85,1323271778,17368178,C,2200,binary search-dfs and similar-probabilities-sortings-trees,islam-al-aarag,Java 6,860,39628800
+907995,85,1322392711,16489111,A,1400,constructive algorithms-implementation,pasha,Java 6,140,43212800
+885063,85,1321922040,16018440,A,1400,constructive algorithms-implementation,xiaowuc1,Java 6,110,43008000
+875743,85,1321531213,15627613,B,1800,data structures-greedy,Izot_NNSTU,Java 6,520,38707200
+875132,85,1321505083,15601483,A,1400,constructive algorithms-implementation,michael_tan,Java 6,130,43110400
+754433,85,1318266315,12362715,A,1400,constructive algorithms-implementation,Izot_NNSTU,Java 6,130,35328000
+740400,85,1317981586,12077986,A,1400,constructive algorithms-implementation,cyon,Java 6,140,35328000
+738015,85,1317798456,11894856,A,1400,constructive algorithms-implementation,rurik,Java 6,130,35328000
+723299,85,1316906223,11002623,A,1400,constructive algorithms-implementation,wackloner,Java 6,130,35328000
+708665,85,1316443342,10539742,A,1400,constructive algorithms-implementation,KaVaBUnGO,Java 6,110,35225600
+706326,85,1316254220,10350620,D,2200,binary search-brute force-data structures-implementation,yarrr,Java 6,2660,35840000
+688495,85,1315664075,9760475,C,2200,binary search-dfs and similar-probabilities-sortings-trees,anhdt,Java 6,1010,38297600
+687934,85,1315647481,9743881,C,2200,binary search-dfs and similar-probabilities-sortings-trees,anhdt,Java 6,1080,38400000
+641141,85,1314562079,8658479,A,1400,constructive algorithms-implementation,Sinner,Java 6,110,34918400
+638338,85,1314315880,8412280,A,1400,constructive algorithms-implementation,spark_coder,Java 6,90,34918400
+604553,85,1313198270,7294670,A,1400,constructive algorithms-implementation,nickbuelich,Java 6,90,35225600
+588529,85,1312656628,6753028,A,1400,constructive algorithms-implementation,Nox,Java 6,80,43008000
+577673,85,1312378450,6474850,A,1400,constructive algorithms-implementation,Dunaril,Java 6,130,43008000
+568790,85,1311886376,5982776,A,1400,constructive algorithms-implementation,tux1986,Java 6,110,43212800
+566822,85,1311740801,5837201,B,1800,data structures-greedy,islam-al-aarag,Java 6,190,43110400
+564274,85,1311542878,5639278,B,1800,data structures-greedy,kiko91_7,Java 6,440,43212800
+552615,85,1311188719,5285119,A,1400,constructive algorithms-implementation,islam-al-aarag,Java 6,110,43008000
+549119,85,1310889737,4986137,A,1400,constructive algorithms-implementation,Slamur,Java 6,110,43008000
+543406,85,1310485333,4581733,A,1400,constructive algorithms-implementation,sas4eka,Java 6,110,43008000
+529478,85,1309931026,4027426,B,1800,data structures-greedy,tirmen,Java 6,420,35430400
+529299,85,1309898590,3994990,A,1400,constructive algorithms-implementation,tirmen,Java 6,110,35020800
+526532,85,1309662435,3758835,B,1800,data structures-greedy,DoublePointer,Java 6,630,43520000
+514320,85,1309419277,3515677,A,1400,constructive algorithms-implementation,altais,Java 6,110,34918400
+512339,85,1309198020,3294420,B,1800,data structures-greedy,Aries512,Java 6,160,43212800
+508169,85,1308766138,2862538,A,1400,constructive algorithms-implementation,Abra,Java 6,90,43008000
+505778,85,1308636785,2733185,A,1400,constructive algorithms-implementation,Darko,Java 6,130,35225600
+505762,85,1308636057,2732457,A,1400,constructive algorithms-implementation,DoublePointer,Java 6,110,35225600
+478270,85,1307460936,1557336,A,1400,constructive algorithms-implementation,cornflow,Java 6,130,43417600
+473560,85,1306864407,960807,B,1800,data structures-greedy,SkorKNURE,Java 6,530,49561600
+473548,85,1306862048,958448,A,1400,constructive algorithms-implementation,SkorKNURE,Java 6,90,43315200
+469089,85,1306232662,329062,D,2200,binary search-brute force-data structures-implementation,OgieKako,Java 6,780,55500800
+469021,85,1306226403,322803,A,1400,constructive algorithms-implementation,OgieKako,Java 6,110,35328000
+468214,85,1306133930,230330,D,2200,binary search-brute force-data structures-implementation,uwi,Java 6,840,56115200
+465676,85,1306007143,103543,A,1400,constructive algorithms-implementation,kyprah,Java 6,90,43315200
+465672,85,1306006685,103085,A,1400,constructive algorithms-implementation,kyprah,Java 6,80,43315200
+465570,85,1305992820,89220,A,1400,constructive algorithms-implementation,kiko91_7,Java 6,110,43315200
+465508,85,1305987735,84135,C,2200,binary search-dfs and similar-probabilities-sortings-trees,ostrovski.alex,Java 6,2360,43929600
+465417,85,1305982367,78767,D,2200,binary search-brute force-data structures-implementation,SergeyLazarev,Java 6,720,43417600
+465399,85,1305981478,77878,D,2200,binary search-brute force-data structures-implementation,hydrastuff,Java 6,560,60006400
+465341,85,1305976696,73096,B,1800,data structures-greedy,ostrovski.alex,Java 6,550,43417600
+465338,85,1305976600,73000,C,2200,binary search-dfs and similar-probabilities-sortings-trees,segrey,Java 6,950,45977600
+465327,85,1305976005,72405,D,2200,binary search-brute force-data structures-implementation,hydrastuff,Java 6,880,43315200
+465292,85,1305972185,68585,A,1400,constructive algorithms-implementation,ostrovski.alex,Java 6,110,35328000
+465228,85,1305966054,62454,E,2600,binary search-dsu-geometry-graphs-sortings,S.Yesipenko,Java 6,360,35532800
+464992,85,1305933933,30333,C,2200,binary search-dfs and similar-probabilities-sortings-trees,mipt.vi002,Java 6,980,47001600
+464972,85,1305928397,24797,C,2200,binary search-dfs and similar-probabilities-sortings-trees,fetetriste,Java 6,1360,75264000
+464947,85,1305926290,22690,D,2200,binary search-brute force-data structures-implementation,it4.kp,Java 6,750,92364800
+464921,85,1305924445,20845,C,2200,binary search-dfs and similar-probabilities-sortings-trees,hydrastuff,Java 6,1170,43724800
+464825,85,1305919212,15612,A,1400,constructive algorithms-implementation,htrinh,Java 6,90,43315200
+464728,85,1305917265,13665,C,2200,binary search-dfs and similar-probabilities-sortings-trees,madkite,Java 6,890,46387200
+464725,85,1305917178,13578,A,1400,constructive algorithms-implementation,Aries512,Java 6,90,43315200
+464675,85,1305916112,12512,B,1800,data structures-greedy,dgozman,Java 6,450,50892800
+464673,85,1305916083,12483,B,1800,data structures-greedy,dgozman,Java 6,450,50892800
+464605,85,1305914832,11232,B,1800,data structures-greedy,vanchope,Java 6,170,43315200
+464564,85,1305914392,10792,B,1800,data structures-greedy,vanchope,Java 6,160,43315200
+464546,85,1305914139,10539,C,2200,binary search-dfs and similar-probabilities-sortings-trees,zibada,Java 6,610,43724800
+464529,85,1305913931,10331,B,1800,data structures-greedy,darnley,Java 6,420,43315200
+464468,85,1305913252,9652,D,2200,binary search-brute force-data structures-implementation,S.Yesipenko,Java 6,440,43315200
+464324,85,1305912481,8881,A,1400,constructive algorithms-implementation,Narg,Java 6,90,43315200
+464278,85,1305912294,8694,C,2200,binary search-dfs and similar-probabilities-sortings-trees,Xazker,Java 6,640,88883200
+464273,85,1305912285,8685,B,1800,data structures-greedy,Di735,Java 6,140,43315200
+464245,85,1305912106,8506,D,2200,binary search-brute force-data structures-implementation,VArtem,Java 6,2470,45568000
+464180,85,1305911897,8297,C,2200,binary search-dfs and similar-probabilities-sortings-trees,Di735,Java 6,1110,62464000
+464178,85,1305911885,8285,B,1800,data structures-greedy,madkite,Java 6,200,43315200
+464177,85,1305911881,8281,B,1800,data structures-greedy,Aries512,Java 6,230,43315200
+464176,85,1305911873,8273,A,1400,constructive algorithms-implementation,madkite,Java 6,90,43315200
+464162,85,1305911841,8241,B,1800,data structures-greedy,asml,Java 6,730,43315200
+464096,85,1305911611,8011,A,1400,constructive algorithms-implementation,dened,Java 6,90,34816000
+464088,85,1305911596,7996,C,2200,binary search-dfs and similar-probabilities-sortings-trees,ArtemKadeev,Java 6,730,60006400
+463966,85,1305910714,7114,C,2200,binary search-dfs and similar-probabilities-sortings-trees,SkyFire,Java 6,1250,87347200
+463903,85,1305910648,7048,C,2200,binary search-dfs and similar-probabilities-sortings-trees,uwi,Java 6,1410,43724800
+463867,85,1305910617,7017,C,2200,binary search-dfs and similar-probabilities-sortings-trees,dened,Java 6,880,45772800
+463742,85,1305910433,6833,B,1800,data structures-greedy,dmitry.uvarov,Java 6,1110,57036800
+463581,85,1305910240,6640,C,2200,binary search-dfs and similar-probabilities-sortings-trees,yiuyuho,Java 6,1760,43622400
+463560,85,1305910207,6607,E,2600,binary search-dsu-geometry-graphs-sortings,andrewzta,Java 6,110,43315200
+463533,85,1305910150,6550,B,1800,data structures-greedy,ivan.metelsky,Java 6,420,43315200
+463530,85,1305910142,6542,D,2200,binary search-brute force-data structures-implementation,chavit,Java 6,590,80179200
+463503,85,1305910087,6487,B,1800,data structures-greedy,fetetriste,Java 6,630,43315200
+463472,85,1305910039,6439,A,1400,constructive algorithms-implementation,madkite,Java 6,90,43315200
+463461,85,1305910020,6420,E,2600,binary search-dsu-geometry-graphs-sortings,Petr,Java 6,130,43315200
+463458,85,1305910017,6417,B,1800,data structures-greedy,chronotable,Java 6,140,43315200
+463409,85,1305909916,6316,B,1800,data structures-greedy,air,Java 6,160,43315200
+463356,85,1305909807,6207,B,1800,data structures-greedy,itoasquall,Java 6,750,45465600
+463345,85,1305909778,6178,C,2200,binary search-dfs and similar-probabilities-sortings-trees,SergeyLazarev,Java 6,520,46489600
+463286,85,1305909658,6058,B,1800,data structures-greedy,rajatag12,Java 6,140,43315200
+463268,85,1305909630,6030,C,2200,binary search-dfs and similar-probabilities-sortings-trees,S.Yesipenko,Java 6,640,66048000
+463258,85,1305909617,6017,D,2200,binary search-brute force-data structures-implementation,Narg,Java 6,830,43315200
+463177,85,1305909424,5824,C,2200,binary search-dfs and similar-probabilities-sortings-trees,hydrastuff,Java 6,980,46080000
+463176,85,1305909422,5822,D,2200,binary search-brute force-data structures-implementation,Egor,Java 6,640,43315200
+463166,85,1305909401,5801,C,2200,binary search-dfs and similar-probabilities-sortings-trees,mmaxio,Java 6,1030,43417600
+463165,85,1305909400,5800,B,1800,data structures-greedy,niyaznigmatul,Java 6,920,87859200
+463122,85,1305909327,5727,C,2200,binary search-dfs and similar-probabilities-sortings-trees,SpookyCookie,Java 6,580,46796800
+463112,85,1305909303,5703,D,2200,binary search-brute force-data structures-implementation,ivan.metelsky,Java 6,590,43315200
+463031,85,1305909143,5543,D,2200,binary search-brute force-data structures-implementation,darnley,Java 6,1030,82227200
+463005,85,1305909081,5481,C,2200,binary search-dfs and similar-probabilities-sortings-trees,alexey.enkov,Java 6,1140,44236800
+462995,85,1305909066,5466,B,1800,data structures-greedy,svilen,Java 6,590,35430400
+462994,85,1305909064,5464,B,1800,data structures-greedy,barsuk2,Java 6,140,43417600
+462959,85,1305909002,5402,D,2200,binary search-brute force-data structures-implementation,dgozman,Java 6,980,43520000
+462945,85,1305908983,5383,B,1800,data structures-greedy,val,Java 6,440,43315200
+462931,85,1305908952,5352,D,2200,binary search-brute force-data structures-implementation,wata,Java 6,980,54169600
+462889,85,1305908858,5258,D,2200,binary search-brute force-data structures-implementation,ivan.popelyshev,Java 6,640,43417600
+462876,85,1305908805,5205,C,2200,binary search-dfs and similar-probabilities-sortings-trees,cerealguy,Java 6,770,55193600
+462852,85,1305908761,5161,A,1400,constructive algorithms-implementation,shomeser,Java 6,110,43315200
+462833,85,1305908724,5124,C,2200,binary search-dfs and similar-probabilities-sortings-trees,air,Java 6,560,43417600
+462792,85,1305908631,5031,C,2200,binary search-dfs and similar-probabilities-sortings-trees,Petr,Java 6,980,47616000
+462788,85,1305908619,5019,D,2200,binary search-brute force-data structures-implementation,fetetriste,Java 6,750,189132800
+462779,85,1305908584,4984,D,2200,binary search-brute force-data structures-implementation,Xazker,Java 6,690,44032000
+462749,85,1305908503,4903,A,1400,constructive algorithms-implementation,lordklotski,Java 6,110,43315200
+462739,85,1305908480,4880,C,2200,binary search-dfs and similar-probabilities-sortings-trees,niyaznigmatul,Java 6,800,54169600
+462587,85,1305908123,4523,C,2200,binary search-dfs and similar-probabilities-sortings-trees,wata,Java 6,1950,43724800
+462578,85,1305908089,4489,C,2200,binary search-dfs and similar-probabilities-sortings-trees,ivan.metelsky,Java 6,950,44134400
+462558,85,1305908026,4426,B,1800,data structures-greedy,pius_88,Java 6,360,43315200
+462548,85,1305908018,4418,B,1800,data structures-greedy,kozima,Java 6,410,43315200
+462543,85,1305908000,4400,D,2200,binary search-brute force-data structures-implementation,andrewzta,Java 6,720,43315200
+462495,85,1305907855,4255,B,1800,data structures-greedy,mipt.vi002,Java 6,190,43315200
+462494,85,1305907854,4254,C,2200,binary search-dfs and similar-probabilities-sortings-trees,Dumpty,Java 6,630,43622400
+462479,85,1305907819,4219,B,1800,data structures-greedy,segrey,Java 6,160,43315200
+462447,85,1305907724,4124,C,2200,binary search-dfs and similar-probabilities-sortings-trees,Alexus,Java 6,1360,45363200
+462416,85,1305907653,4053,A,1400,constructive algorithms-implementation,barsuk2,Java 6,90,43417600
+462405,85,1305907618,4018,D,2200,binary search-brute force-data structures-implementation,cerealguy,Java 6,500,49356800
+462388,85,1305907562,3962,C,2200,binary search-dfs and similar-probabilities-sortings-trees,TomConerly,Java 6,1010,58777600
+462339,85,1305907445,3845,B,1800,data structures-greedy,shevchen,Java 6,420,43315200
+462332,85,1305907434,3834,B,1800,data structures-greedy,TheRaven,Java 6,730,43315200
+462300,85,1305907360,3760,B,1800,data structures-greedy,AlexErofeev,Java 6,770,55603200
+462289,85,1305907333,3733,C,2200,binary search-dfs and similar-probabilities-sortings-trees,darnley,Java 6,1660,46284800
+462286,85,1305907325,3725,C,2200,binary search-dfs and similar-probabilities-sortings-trees,dgozman,Java 6,580,43622400
+462256,85,1305907268,3668,A,1400,constructive algorithms-implementation,marque,Java 6,90,43315200
+462240,85,1305907238,3638,A,1400,constructive algorithms-implementation,rajatag12,Java 6,90,43315200
+462237,85,1305907232,3632,B,1800,data structures-greedy,Sammarize,Java 6,170,35225600
+462216,85,1305907188,3588,B,1800,data structures-greedy,yiuyuho,Java 6,940,43724800
+462211,85,1305907174,3574,B,1800,data structures-greedy,wistful23,Java 6,220,43315200
+462201,85,1305907155,3555,B,1800,data structures-greedy,Nil_ct,Java 6,190,43315200
+462158,85,1305907072,3472,B,1800,data structures-greedy,Narg,Java 6,780,43417600
+462153,85,1305907056,3456,E,2600,binary search-dsu-geometry-graphs-sortings,Sammarize,Java 6,110,43315200
+462145,85,1305907042,3442,B,1800,data structures-greedy,Sergey.Bankevich,Java 6,830,43520000
+462102,85,1305906950,3350,B,1800,data structures-greedy,yarrr,Java 6,410,43315200
+462096,85,1305906938,3338,A,1400,constructive algorithms-implementation,WCoder,Java 6,110,43315200
+462087,85,1305906914,3314,D,2200,binary search-brute force-data structures-implementation,niyaznigmatul,Java 6,660,43417600
+462069,85,1305906887,3287,B,1800,data structures-greedy,ArtemKadeev,Java 6,340,43417600
+462055,85,1305906852,3252,B,1800,data structures-greedy,chavit,Java 6,860,61440000
+462028,85,1305906791,3191,C,2200,binary search-dfs and similar-probabilities-sortings-trees,ivan.popelyshev,Java 6,810,47206400
+462023,85,1305906772,3172,A,1400,constructive algorithms-implementation,fetetriste,Java 6,80,43315200
+462012,85,1305906757,3157,C,2200,binary search-dfs and similar-probabilities-sortings-trees,Egor,Java 6,1010,48128000
+461957,85,1305906638,3038,A,1400,constructive algorithms-implementation,ferr,Java 6,90,43315200
+461942,85,1305906622,3022,C,2200,binary search-dfs and similar-probabilities-sortings-trees,andrewzta,Java 6,560,43315200
+461941,85,1305906621,3021,B,1800,data structures-greedy,Kandyman,Java 6,250,43315200
+461909,85,1305906561,2961,A,1400,constructive algorithms-implementation,vanchope,Java 6,80,43315200
+461894,85,1305906537,2937,B,1800,data structures-greedy,it4.kp,Java 6,440,43315200
+461878,85,1305906496,2896,A,1400,constructive algorithms-implementation,mipt.vi002,Java 6,110,43315200
+461859,85,1305906447,2847,A,1400,constructive algorithms-implementation,lady_inceptum,Java 6,140,43315200
+461816,85,1305906371,2771,B,1800,data structures-greedy,S.Yesipenko,Java 6,970,78233600
+461798,85,1305906326,2726,B,1800,data structures-greedy,adavydow,Java 6,910,43315200
+461787,85,1305906303,2703,B,1800,data structures-greedy,alexey.enkov,Java 6,140,43315200
+461778,85,1305906288,2688,B,1800,data structures-greedy,Petr,Java 6,160,43315200
+461654,85,1305906069,2469,A,1400,constructive algorithms-implementation,kozima,Java 6,130,43315200
+461648,85,1305906060,2460,B,1800,data structures-greedy,madkite,Java 6,190,43315200
+461610,85,1305905963,2363,B,1800,data structures-greedy,mmaxio,Java 6,190,43315200
+461588,85,1305905918,2318,B,1800,data structures-greedy,wata,Java 6,700,43315200
+461576,85,1305905897,2297,B,1800,data structures-greedy,SergeyLazarev,Java 6,140,43315200
+461553,85,1305905861,2261,A,1400,constructive algorithms-implementation,SkyFire,Java 6,90,43315200
+461531,85,1305905828,2228,B,1800,data structures-greedy,Xazker,Java 6,160,43724800
+461515,85,1305905795,2195,A,1400,constructive algorithms-implementation,val,Java 6,110,43315200
+461511,85,1305905786,2186,B,1800,data structures-greedy,SpookyCookie,Java 6,440,43315200
+461498,85,1305905760,2160,A,1400,constructive algorithms-implementation,chronotable,Java 6,110,43315200
+461497,85,1305905760,2160,B,1800,data structures-greedy,VArtem,Java 6,160,43315200
+461425,85,1305905646,2046,D,2200,binary search-brute force-data structures-implementation,Petr,Java 6,840,43417600
+461420,85,1305905639,2039,A,1400,constructive algorithms-implementation,MSPA,Java 6,110,43315200
+461409,85,1305905626,2026,B,1800,data structures-greedy,cerealguy,Java 6,480,43315200
+461390,85,1305905587,1987,A,1400,constructive algorithms-implementation,svilen,Java 6,110,43315200
+461388,85,1305905586,1986,B,1800,data structures-greedy,wjomlex,Java 6,780,43417600
+461249,85,1305905373,1773,A,1400,constructive algorithms-implementation,Nil_ct,Java 6,110,43315200
+461217,85,1305905340,1740,A,1400,constructive algorithms-implementation,asml,Java 6,130,43315200
+461211,85,1305905333,1733,A,1400,constructive algorithms-implementation,Daiki_Ando,Java 6,90,43315200
+461206,85,1305905320,1720,A,1400,constructive algorithms-implementation,segrey,Java 6,110,43315200
+461139,85,1305905218,1618,A,1400,constructive algorithms-implementation,TomConerly,Java 6,130,43315200
+461129,85,1305905210,1610,B,1800,data structures-greedy,andrewzta,Java 6,140,43315200
+461126,85,1305905207,1607,A,1400,constructive algorithms-implementation,yarrr,Java 6,90,43315200
+461112,85,1305905194,1594,A,1400,constructive algorithms-implementation,pius_88,Java 6,90,43315200
+461107,85,1305905182,1582,B,1800,data structures-greedy,Alexus,Java 6,450,43315200
+461105,85,1305905172,1572,A,1400,constructive algorithms-implementation,chavit,Java 6,110,43315200
+461104,85,1305905172,1572,B,1800,data structures-greedy,uwi,Java 6,280,43315200
+461031,85,1305905075,1475,B,1800,data structures-greedy,Egor,Java 6,110,43315200
+461029,85,1305905070,1470,A,1400,constructive algorithms-implementation,facepalmist,Java 6,90,43315200
+461028,85,1305905069,1469,A,1400,constructive algorithms-implementation,pyshnograev,Java 6,90,43315200
+461017,85,1305905043,1443,A,1400,constructive algorithms-implementation,Duke,Java 6,90,43315200
+460998,85,1305905013,1413,A,1400,constructive algorithms-implementation,msagimbekov,Java 6,110,43315200
+460932,85,1305904928,1328,B,1800,data structures-greedy,ktuan,Java 6,140,43315200
+460910,85,1305904897,1297,A,1400,constructive algorithms-implementation,Kandyman,Java 6,90,43315200
+460885,85,1305904863,1263,A,1400,constructive algorithms-implementation,wata,Java 6,110,43315200
+460862,85,1305904834,1234,B,1800,data structures-greedy,ivan.popelyshev,Java 6,170,43315200
+460858,85,1305904831,1231,A,1400,constructive algorithms-implementation,Aries512,Java 6,110,43315200
+460845,85,1305904814,1214,A,1400,constructive algorithms-implementation,TheRaven,Java 6,110,43315200
+460803,85,1305904755,1155,B,1800,data structures-greedy,TomConerly,Java 6,520,43315200
+460793,85,1305904746,1146,A,1400,constructive algorithms-implementation,caustique,Java 6,90,43315200
+460783,85,1305904734,1134,A,1400,constructive algorithms-implementation,ArtemKadeev,Java 6,110,43315200
+460781,85,1305904732,1132,A,1400,constructive algorithms-implementation,Nox,Java 6,90,43315200
+460778,85,1305904730,1130,A,1400,constructive algorithms-implementation,dAnton,Java 6,110,43315200
+460742,85,1305904692,1092,A,1400,constructive algorithms-implementation,m.sabouri,Java 6,110,43315200
+460741,85,1305904688,1088,A,1400,constructive algorithms-implementation,niyaznigmatul,Java 6,110,43315200
+460735,85,1305904677,1077,A,1400,constructive algorithms-implementation,yiuyuho,Java 6,110,43315200
+460732,85,1305904675,1075,A,1400,constructive algorithms-implementation,VArtem,Java 6,90,43315200
+460724,85,1305904666,1066,A,1400,constructive algorithms-implementation,Sammarize,Java 6,80,43315200
+460713,85,1305904658,1058,A,1400,constructive algorithms-implementation,SergeyLazarev,Java 6,90,43315200
+460686,85,1305904629,1029,A,1400,constructive algorithms-implementation,Nenash,Java 6,90,43315200
+460682,85,1305904626,1026,A,1400,constructive algorithms-implementation,it4.kp,Java 6,80,43315200
+460640,85,1305904592,992,A,1400,constructive algorithms-implementation,Thunder,Java 6,110,43315200
+460612,85,1305904563,963,A,1400,constructive algorithms-implementation,Egor,Java 6,90,43315200
+460611,85,1305904561,961,A,1400,constructive algorithms-implementation,Di735,Java 6,90,43315200
+460606,85,1305904559,959,A,1400,constructive algorithms-implementation,anhdt,Java 6,90,43315200
+460564,85,1305904513,913,A,1400,constructive algorithms-implementation,S.Yesipenko,Java 6,90,43315200
+460515,85,1305904465,865,A,1400,constructive algorithms-implementation,mmaxio,Java 6,110,34816000
+460509,85,1305904456,856,A,1400,constructive algorithms-implementation,RodionGork,Java 6,110,43315200
+460492,85,1305904437,837,A,1400,constructive algorithms-implementation,Alexus,Java 6,110,43315200
+460484,85,1305904426,826,A,1400,constructive algorithms-implementation,hydrastuff,Java 6,110,43315200
+460478,85,1305904421,821,A,1400,constructive algorithms-implementation,wistful23,Java 6,80,43315200
+460476,85,1305904416,816,A,1400,constructive algorithms-implementation,Dumpty,Java 6,90,43315200
+460461,85,1305904405,805,A,1400,constructive algorithms-implementation,Xazker,Java 6,110,43315200
+460450,85,1305904393,793,A,1400,constructive algorithms-implementation,AlexErofeev,Java 6,90,43315200
+460426,85,1305904375,775,A,1400,constructive algorithms-implementation,dmitry.uvarov,Java 6,90,43315200
+460390,85,1305904333,733,A,1400,constructive algorithms-implementation,wjomlex,Java 6,110,43315200
+460352,85,1305904294,694,A,1400,constructive algorithms-implementation,ivan.metelsky,Java 6,110,43315200
+460343,85,1305904286,686,A,1400,constructive algorithms-implementation,adavydow,Java 6,110,43315200
+460321,85,1305904261,661,A,1400,constructive algorithms-implementation,ivan.popelyshev,Java 6,90,43315200
+460288,85,1305904227,627,A,1400,constructive algorithms-implementation,ktuan,Java 6,90,43315200
+460285,85,1305904221,621,A,1400,constructive algorithms-implementation,alexey.enkov,Java 6,90,43315200
+460265,85,1305904196,596,A,1400,constructive algorithms-implementation,Petr,Java 6,80,43315200
+460240,85,1305904159,559,A,1400,constructive algorithms-implementation,air,Java 6,90,43315200
+460230,85,1305904139,539,A,1400,constructive algorithms-implementation,SpookyCookie,Java 6,110,34816000
+460200,85,1305904091,491,A,1400,constructive algorithms-implementation,cerealguy,Java 6,90,43315200
+460196,85,1305904078,478,A,1400,constructive algorithms-implementation,darnley,Java 6,110,43315200
+460194,85,1305904072,472,A,1400,constructive algorithms-implementation,andrewzta,Java 6,80,43315200
+460188,85,1305904061,461,A,1400,constructive algorithms-implementation,uwi,Java 6,110,43315200
+460176,85,1305904028,428,A,1400,constructive algorithms-implementation,dgozman,Java 6,80,43315200
+460162,85,1305904001,401,A,1400,constructive algorithms-implementation,Sergey.Bankevich,Java 6,110,43315200

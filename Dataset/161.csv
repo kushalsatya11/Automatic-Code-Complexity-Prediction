@@ -1,0 +1,693 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57737344,161,1564050093,2147483647,D,1800,dfs and similar-dp-trees,1damketthuc,Java 8,872,162611200
+57736864,161,1564049581,2147483647,D,1800,dfs and similar-dp-trees,1damketthuc,Java 8,1154,174284800
+57075076,161,1563165816,2147483647,A,1300,binary search-brute force-greedy-two pointers,pmkhoi,Java 8,2306,31027200
+56886045,161,1562935095,2147483647,A,1300,binary search-brute force-greedy-two pointers,BearPear,Java 8,1464,0
+56789532,161,1562752650,2147483647,A,1300,binary search-brute force-greedy-two pointers,kocko,Java 8,684,4812800
+56718867,161,1562600855,2147483647,D,1800,dfs and similar-dp-trees,Vaibhav96,Java 8,1120,137728000
+56128339,161,1561571033,2147483647,D,1800,dfs and similar-dp-trees,dmitrievanthony,Java 8,2526,128921600
+56031380,161,1561455811,2147483647,D,1800,dfs and similar-dp-trees,KingHO,Java 8,1214,174284800
+55957890,161,1561277314,2147483647,B,1700,constructive algorithms-greedy-sortings,shaurya024,Java 8,310,0
+55955356,161,1561271908,2147483647,A,1300,binary search-brute force-greedy-two pointers,shaurya024,Java 8,560,10342400
+55954915,161,1561270775,2147483647,D,1800,dfs and similar-dp-trees,shaurya024,Java 8,1370,284262400
+55330604,161,1560077097,2147483647,D,1800,dfs and similar-dp-trees,Playfair,Java 8,592,142336000
+54846652,161,1559225820,2147483647,D,1800,dfs and similar-dp-trees,h_elloworl_d,Java 8,622,148172800
+54516874,161,1558606884,2147483647,D,1800,dfs and similar-dp-trees,mennafadali,Java 8,904,148684800
+53969364,161,1557517371,2147483647,D,1800,dfs and similar-dp-trees,Punit_sharma,Java 8,748,149708800
+53647916,161,1556742952,2147483647,B,1700,constructive algorithms-greedy-sortings,mennafadali,Java 8,280,0
+53583698,161,1556644021,2147483647,D,1800,dfs and similar-dp-trees,Ahmed_Diab,Java 8,312,2150400
+52754843,161,1555258239,2147483647,A,1300,binary search-brute force-greedy-two pointers,incenger,Java 8,872,0
+52740063,161,1555230744,2147483647,A,1300,binary search-brute force-greedy-two pointers,Punit_sharma,Java 8,436,3584000
+52676405,161,1555148972,2147483647,A,1300,binary search-brute force-greedy-two pointers,amitt_yadav_,Java 8,248,0
+52524823,161,1554807426,2147483647,A,1300,binary search-brute force-greedy-two pointers,DuyHuynhMinh,Java 8,2152,0
+52458225,161,1554639864,2147483647,A,1300,binary search-brute force-greedy-two pointers,dungba,Java 8,840,0
+52457632,161,1554639685,2147483647,A,1300,binary search-brute force-greedy-two pointers,dungba,Java 8,2120,0
+52144753,161,1554108309,2147483647,A,1300,binary search-brute force-greedy-two pointers,kissscreen,Java 8,374,3584000
+51995505,161,1553909085,2147483647,D,1800,dfs and similar-dp-trees,satya26,Java 8,1402,266342400
+51413685,161,1552828001,2147483647,A,1300,binary search-brute force-greedy-two pointers,hienmv,Java 8,2090,4812800
+51372293,161,1552739509,2147483647,A,1300,binary search-brute force-greedy-two pointers,hienmv,Java 8,2152,4505600
+49991306,161,1550321873,2147483647,D,1800,dfs and similar-dp-trees,AWCXV,Java 8,1058,268185600
+49466702,161,1549293778,2147483647,A,1300,binary search-brute force-greedy-two pointers,viratK,Java 8,2150,0
+49153641,161,1548767030,2147483647,A,1300,binary search-brute force-greedy-two pointers,btcnhung.1299,Java 8,2308,3072000
+48374378,161,1547448346,2147483647,A,1300,binary search-brute force-greedy-two pointers,vhphuongcntt,Java 8,2090,4812800
+48200432,161,1547183072,2147483647,A,1300,binary search-brute force-greedy-two pointers,nguyendq,Java 8,2182,14643200
+48191653,161,1547144245,2147483647,A,1300,binary search-brute force-greedy-two pointers,McAsuka,Java 8,778,0
+47793270,161,1546267955,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge3,Java 8,2152,5017600
+47510276,161,1545804043,2147483647,A,1300,binary search-brute force-greedy-two pointers,programbhavan,Java 8,840,0
+47228697,161,1545153138,2147483647,A,1300,binary search-brute force-greedy-two pointers,thaihoc2105,Java 8,2120,5017600
+47005909,161,1544795647,2147483647,D,1800,dfs and similar-dp-trees,Alex_Gal,Java 8,1058,270233600
+45957594,161,1542621881,2147483647,D,1800,dfs and similar-dp-trees,SevenDeadlySins,Java 8,966,144486400
+45791530,161,1542353163,2147483647,A,1300,binary search-brute force-greedy-two pointers,peterdang00,Java 8,2246,11776000
+45581546,161,1541998888,2147483647,A,1300,binary search-brute force-greedy-two pointers,incenger,Java 8,872,1126400
+45543893,161,1541885860,2147483647,D,1800,dfs and similar-dp-trees,ShowStopper728,Java 8,654,148480000
+45227697,161,1541220804,2147483647,A,1300,binary search-brute force-greedy-two pointers,T______________T,Java 8,2152,3379200
+45214995,161,1541179203,2147483647,A,1300,binary search-brute force-greedy-two pointers,Playfair,Java 8,404,3174400
+45121778,161,1540962782,2147483647,A,1300,binary search-brute force-greedy-two pointers,thaole610,Java 8,934,1126400
+44993513,161,1540735778,2147483647,A,1300,binary search-brute force-greedy-two pointers,KingHO,Java 8,2182,3276800
+44045141,161,1539103688,2147483647,A,1300,binary search-brute force-greedy-two pointers,yorky,Java 8,1154,0
+44044192,161,1539101943,2147483647,A,1300,binary search-brute force-greedy-two pointers,kokokochet,Java 8,468,2252800
+43979579,161,1538961841,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge5,Java 8,2432,13107200
+43474172,161,1538012331,2147483647,A,1300,binary search-brute force-greedy-two pointers,icrackan,Java 8,2214,4915200
+43466681,161,1537988884,2147483647,D,1800,dfs and similar-dp-trees,aman28rwt,Java 8,904,139776000
+43376199,161,1537807132,2147483647,A,1300,binary search-brute force-greedy-two pointers,thiennust274,Java 8,2464,3276800
+43373366,161,1537803062,2147483647,A,1300,binary search-brute force-greedy-two pointers,dinhthe,Java 8,2308,13004800
+43371409,161,1537800069,2147483647,A,1300,binary search-brute force-greedy-two pointers,dinhthe,Java 8,2494,13004800
+43274853,161,1537652811,2147483647,D,1800,dfs and similar-dp-trees,mirak94,Java 8,1434,286310400
+43155517,161,1537472355,2147483647,D,1800,dfs and similar-dp-trees,BiIIy,Java 8,498,1638400
+42966376,161,1537147297,2147483647,D,1800,dfs and similar-dp-trees,vjudge5,Java 8,1434,172134400
+42965872,161,1537145254,2147483647,D,1800,dfs and similar-dp-trees,newpie,Java 8,1340,174284800
+42965623,161,1537143695,2147483647,D,1800,dfs and similar-dp-trees,newpie,Java 8,1060,34713600
+42965609,161,1537143607,2147483647,D,1800,dfs and similar-dp-trees,newpie,Java 8,590,19660800
+42657903,161,1536368229,2147483647,D,1800,dfs and similar-dp-trees,AQT,Java 8,592,26726400
+42360502,161,1535888165,2147483647,A,1300,binary search-brute force-greedy-two pointers,Dapu,Java 8,2056,0
+42341237,161,1535822500,2147483647,A,1300,binary search-brute force-greedy-two pointers,Dapu,Java 8,2120,0
+42142619,161,1535352155,2147483647,D,1800,dfs and similar-dp-trees,nm21,Java 8,996,409190400
+42142605,161,1535352105,2147483647,D,1800,dfs and similar-dp-trees,nm21,Java 8,1060,409088000
+42142479,161,1535351655,2147483647,D,1800,dfs and similar-dp-trees,nm21,Java 8,998,409190400
+42139876,161,1535343550,2147483647,A,1300,binary search-brute force-greedy-two pointers,vn_dev007,Java 8,2152,5939200
+42134275,161,1535319516,2147483647,D,1800,dfs and similar-dp-trees,MaxHeap,Java 8,1932,136806400
+41519937,161,1534062170,2147483647,A,1300,binary search-brute force-greedy-two pointers,vietdv272,Java 8,2088,11161600
+41411094,161,1533845889,2147483647,D,1800,dfs and similar-dp-trees,I_love_AuroraGarden,Java 8,1278,276684800
+41330891,161,1533717588,2147483647,D,1800,dfs and similar-dp-trees,prashantpiyush,Java 8,1028,255795200
+41319946,161,1533686253,2147483647,A,1300,binary search-brute force-greedy-two pointers,Tdo01,Java 8,1154,0
+41319928,161,1533686167,2147483647,A,1300,binary search-brute force-greedy-two pointers,TuanKyou,Java 8,1090,0
+41154060,161,1533293675,2147483647,A,1300,binary search-brute force-greedy-two pointers,hongquanntct,Java 8,778,10137600
+41153937,161,1533293349,2147483647,A,1300,binary search-brute force-greedy-two pointers,hongquanntct,Java 8,654,10137600
+40935498,161,1532925807,2147483647,A,1300,binary search-brute force-greedy-two pointers,btcnhung.1299,Java 8,2182,3174400
+40636739,161,1532265924,2147483647,A,1300,binary search-brute force-greedy-two pointers,williamtran892,Java 8,2870,0
+39931389,161,1530639339,2147483647,D,1800,dfs and similar-dp-trees,octopusPrime,Java 8,1060,264089600
+39857299,161,1530508117,2147483647,D,1800,dfs and similar-dp-trees,amolpratap007,Java 8,652,148275200
+39215571,161,1528891339,2147483647,A,1300,binary search-brute force-greedy-two pointers,pg_man,Java 8,2962,0
+39215491,161,1528891173,2147483647,A,1300,binary search-brute force-greedy-two pointers,pg_man,Java 8,2900,0
+39215132,161,1528890352,2147483647,A,1300,binary search-brute force-greedy-two pointers,pg_man,Java 8,2900,0
+39204994,161,1528858981,2147483647,D,1800,dfs and similar-dp-trees,dipankar12,Java 8,622,12390400
+39167834,161,1528731367,2147483647,A,1300,binary search-brute force-greedy-two pointers,xuanquang1999,Java 8,1060,3788800
+39138870,161,1528700162,2147483647,A,1300,binary search-brute force-greedy-two pointers,BrunoFcampos,Java 8,2526,19353600
+39076170,161,1528568746,2147483647,B,1700,constructive algorithms-greedy-sortings,mona_hashem,Java 8,310,0
+39036015,161,1528432457,2147483647,D,1800,dfs and similar-dp-trees,prabhat236218,Java 8,1092,393932800
+38909452,161,1528001141,2147483647,A,1300,binary search-brute force-greedy-two pointers,NhatPhan108,Java 8,2276,34508800
+38891844,161,1527945293,2147483647,A,1300,binary search-brute force-greedy-two pointers,vu_leenguyen,Java 8,2056,21196800
+38866781,161,1527886070,2147483647,A,1300,binary search-brute force-greedy-two pointers,vu_leenguyen,Java 8,1996,21196800
+38841331,161,1527865302,2147483647,B,1700,constructive algorithms-greedy-sortings,Nesrin,Java 8,404,21094400
+38822741,161,1527842781,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge3,Java 8,2120,25907200
+38786941,161,1527725592,2147483647,B,1700,constructive algorithms-greedy-sortings,unicorn20141,Java 8,280,20582400
+38779118,161,1527696319,2147483647,B,1700,constructive algorithms-greedy-sortings,Hoda_Hisham,Java 8,280,20787200
+38760649,161,1527658525,2147483647,A,1300,binary search-brute force-greedy-two pointers,NKK,Java 8,1216,26521600
+38757352,161,1527649330,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge4,Java 8,1154,29491200
+38757339,161,1527649296,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge2,Java 8,1154,37273600
+38757327,161,1527649243,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge4,Java 8,1122,36966400
+38757034,161,1527648328,2147483647,A,1300,binary search-brute force-greedy-two pointers,thachlp,Java 8,1122,29491200
+38756900,161,1527647906,2147483647,A,1300,binary search-brute force-greedy-two pointers,Anti_Nhi_Thuan,Java 8,1122,29491200
+38614153,161,1527265244,2147483647,A,1300,binary search-brute force-greedy-two pointers,taipham93,Java 8,2244,3174400
+38607218,161,1527247578,2147483647,A,1300,binary search-brute force-greedy-two pointers,phamleyennhi,Java 8,2182,15360000
+38111668,161,1526036033,2147483647,D,1800,dfs and similar-dp-trees,rahulkhairwar,Java 8,872,288563200
+38111550,161,1526035796,2147483647,D,1800,dfs and similar-dp-trees,rahulkhairwar,Java 8,966,288051200
+38111497,161,1526035611,2147483647,D,1800,dfs and similar-dp-trees,rahulkhairwar,Java 8,1278,302182400
+37895615,161,1525493752,2147483647,A,1300,binary search-brute force-greedy-two pointers,Anti_Nhi_Thuan,Java 8,2152,21299200
+37688124,161,1524924772,2147483647,D,1800,dfs and similar-dp-trees,DevilJin,Java 8,654,169062400
+37599836,161,1524665818,2147483647,A,1300,binary search-brute force-greedy-two pointers,KulikAlex,Java 8,528,25600000
+37552932,161,1524494738,2147483647,A,1300,binary search-brute force-greedy-two pointers,acnguyen,Java 8,2058,21299200
+37536331,161,1524412791,2147483647,A,1300,binary search-brute force-greedy-two pointers,duyot,Java 8,998,21196800
+37535724,161,1524408795,2147483647,A,1300,binary search-brute force-greedy-two pointers,baovan,Java 8,2184,21299200
+37487907,161,1524229294,2147483647,A,1300,binary search-brute force-greedy-two pointers,duyot,Java 8,1060,21196800
+36964905,161,1522854074,2147483647,A,1300,binary search-brute force-greedy-two pointers,Khang,Java 8,1060,26521600
+36766166,161,1522480511,2147483647,D,1800,dfs and similar-dp-trees,dalt,Java 8,748,35123200
+36764883,161,1522477418,2147483647,A,1300,binary search-brute force-greedy-two pointers,ViciousCoder,Java 8,310,20787200
+36625046,161,1522003177,2147483647,D,1800,dfs and similar-dp-trees,KulikAlex,Java 8,808,171417600
+36524468,161,1521792932,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge2,Java 8,2276,26214400
+36328256,161,1521209623,2147483647,B,1700,constructive algorithms-greedy-sortings,amolpratap007,Java 8,280,20684800
+36216555,161,1520838228,2147483647,A,1300,binary search-brute force-greedy-two pointers,TuanKyou,Java 8,2152,21299200
+36187153,161,1520747124,2147483647,A,1300,binary search-brute force-greedy-two pointers,lanphan,Java 8,1652,30208000
+35426582,161,1518888917,2147483647,A,1300,binary search-brute force-greedy-two pointers,ashcodish,Java 8,2028,21196800
+34624280,161,1517118165,2147483647,D,1800,dfs and similar-dp-trees,RP_9,Java 8,934,289280000
+34624003,161,1517117348,2147483647,D,1800,dfs and similar-dp-trees,RP_9,Java 8,528,52531200
+34397497,161,1516501358,2147483647,A,1300,binary search-brute force-greedy-two pointers,tungtinhoctre126,Java 8,1964,21299200
+34280095,161,1516290114,2147483647,A,1300,binary search-brute force-greedy-two pointers,ruakonzuize1211,Java 8,1652,33075200
+34209801,161,1516061896,2147483647,A,1300,binary search-brute force-greedy-two pointers,mal-vo,Java 8,2150,35020800
+34201509,161,1516032461,2147483647,A,1300,binary search-brute force-greedy-two pointers,prestonbui97,Java 8,1996,21299200
+33986796,161,1515341136,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge3,Java 8,2120,21196800
+33899398,161,1515057111,2147483647,D,1800,dfs and similar-dp-trees,karamkontar,Java 8,872,177971200
+33612867,161,1514193929,2147483647,D,1800,dfs and similar-dp-trees,coderbond007,Java 8,1060,268390400
+33538332,161,1514033813,2147483647,D,1800,dfs and similar-dp-trees,coderbond007,Java 8,1528,179814400
+33492061,161,1513899398,2147483647,A,1300,binary search-brute force-greedy-two pointers,longnguyen178,Java 8,2246,26624000
+33254312,161,1513311251,2147483647,A,1300,binary search-brute force-greedy-two pointers,hoanganhkhoil,Java 8,1964,21196800
+32312812,161,1510666068,2147483647,D,1800,dfs and similar-dp-trees,noobspotted,Java 8,780,147660800
+32104829,161,1509998575,2147483647,D,1800,dfs and similar-dp-trees,Abdullah_Abu_Alrish,Java 8,1152,273612800
+31791621,161,1509100338,2147483647,D,1800,dfs and similar-dp-trees,Hoda_Hisham,Java 8,840,150528000
+31189719,161,1507639178,2147483647,D,1800,dfs and similar-dp-trees,yashwanthbetha,Java 8,1526,157184000
+31151601,161,1507485534,2147483647,D,1800,dfs and similar-dp-trees,prakhar28,Java 8,778,159027200
+31037594,161,1507214568,2147483647,D,1800,dfs and similar-dp-trees,KT_13,Java 8,1152,270336000
+30998693,161,1507136582,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge2,Java 8,1464,4608000
+30739104,161,1506395498,2147483647,A,1300,binary search-brute force-greedy-two pointers,Saciscom,Java 8,1466,4505600
+30192055,161,1504826331,2147483647,A,1300,binary search-brute force-greedy-two pointers,MostafaAbdullah,Java 8,842,32665600
+29546017,161,1503043035,2147483647,A,1300,binary search-brute force-greedy-two pointers,zodiacleo,Java 8,716,27238400
+29506905,161,1502891259,2147483647,A,1300,binary search-brute force-greedy-two pointers,nxphuc,Java 8,2090,0
+29504599,161,1502885369,2147483647,A,1300,binary search-brute force-greedy-two pointers,Anti_Nhi_Thuan,Java 8,2090,0
+29499995,161,1502871156,2147483647,D,1800,dfs and similar-dp-trees,mualanhlung017,Java 8,404,21196800
+29421998,161,1502596280,2147483647,A,1300,binary search-brute force-greedy-two pointers,1damketthuc,Java 8,2276,21196800
+28802906,161,1500818845,2147483647,D,1800,dfs and similar-dp-trees,shravika27,Java 8,684,171622400
+28798847,161,1500807468,2147483647,D,1800,dfs and similar-dp-trees,o_v_shake,Java 8,654,173363200
+28798269,161,1500805861,2147483647,D,1800,dfs and similar-dp-trees,o_v_shake,Java 8,622,172646400
+28788556,161,1500769497,2147483647,D,1800,dfs and similar-dp-trees,raghavsood98,Java 8,964,166195200
+28779170,161,1500728318,2147483647,D,1800,dfs and similar-dp-trees,shailesh_jha,Java 8,2838,515276800
+28499346,161,1499942496,2147483647,D,1800,dfs and similar-dp-trees,demonKing,Java 8,778,177868800
+28331299,161,1499356561,2147483647,A,1300,binary search-brute force-greedy-two pointers,Indecchi,Java 8,2338,27955200
+28331145,161,1499356039,2147483647,A,1300,binary search-brute force-greedy-two pointers,Indecchi,Java 8,1746,24780800
+28322666,161,1499334092,2147483647,A,1300,binary search-brute force-greedy-two pointers,hcao,Java 8,2120,26009600
+28266534,161,1499127292,2147483647,A,1300,binary search-brute force-greedy-two pointers,nhaplycafedang,Java 8,2214,27750400
+28261659,161,1499103397,2147483647,A,1300,binary search-brute force-greedy-two pointers,nampham,Java 8,1652,24780800
+27689150,161,1497012099,2147483647,B,1700,constructive algorithms-greedy-sortings,bhishma,Java 8,404,0
+27574060,161,1496628379,2147483647,A,1300,binary search-brute force-greedy-two pointers,biba96,Java 8,1372,0
+27271021,161,1495386010,2147483647,D,1800,dfs and similar-dp-trees,zodiacleo,Java 8,1090,270028800
+27207516,161,1495167970,2147483647,A,1300,binary search-brute force-greedy-two pointers,Don_1234,Java 8,374,89395200
+26321073,161,1492011193,2147483647,D,1800,dfs and similar-dp-trees,U_Square,Java 8,904,294297600
+26215263,161,1491644295,2147483647,A,1300,binary search-brute force-greedy-two pointers,Omar_Morsi,Java 8,622,24576000
+25802889,161,1490462548,2147483647,A,1300,binary search-brute force-greedy-two pointers,Noureldin,Java 8,810,28774400
+25628784,161,1489867743,2147483647,D,1800,dfs and similar-dp-trees,MDL,Java 8,778,173260800
+25455134,161,1489412787,2147483647,B,1700,constructive algorithms-greedy-sortings,gboy123,Java 8,372,21094400
+24984857,161,1487946083,2147483647,E,2400,brute force-dp,antonkov,Java 8,2526,20377600
+24984838,161,1487946050,2147483647,E,2400,brute force-dp,antonkov,Java 8,2526,20377600
+24984784,161,1487945970,2147483647,E,2400,brute force-dp,antonkov,Java 8,2526,20377600
+24984499,161,1487945498,2147483647,E,2400,brute force-dp,antonkov,Java 8,2652,20275200
+24976126,161,1487936803,1963,D,1800,dfs and similar-dp-trees,antonkov,Java 8,998,291020800
+24972969,161,1487935351,511,A,1300,binary search-brute force-greedy-two pointers,antonkov,Java 8,528,26726400
+24452279,161,1486301654,2147483647,D,1800,dfs and similar-dp-trees,AJ_Coder,Java 8,684,36556800
+24242138,161,1485676975,2147483647,A,1300,binary search-brute force-greedy-two pointers,Aegon,Java 8,528,28057600
+24242109,161,1485676819,2147483647,A,1300,binary search-brute force-greedy-two pointers,Aegon,Java 8,466,27648000
+24212836,161,1485562853,2147483647,D,1800,dfs and similar-dp-trees,MostafaAbdullah,Java 8,1058,172953600
+24068955,161,1485168941,2147483647,A,1300,binary search-brute force-greedy-two pointers,ppppppppppppppp,Java 8,342,20889600
+23793624,161,1484340257,2147483647,D,1800,dfs and similar-dp-trees,pitfall,Java 8,810,35123200
+23787670,161,1484321513,2147483647,D,1800,dfs and similar-dp-trees,OmarRadwan,Java 8,778,171520000
+23784738,161,1484312049,2147483647,D,1800,dfs and similar-dp-trees,Kammola,Java 8,2808,517324800
+23779235,161,1484293737,2147483647,D,1800,dfs and similar-dp-trees,AhmedSoliman,Java 8,716,170496000
+23649279,161,1483892074,2147483647,B,1700,constructive algorithms-greedy-sortings,Ahmad_Elsagheer,Java 8,310,20992000
+23648223,161,1483887507,2147483647,D,1800,dfs and similar-dp-trees,Ahmad_Elsagheer,Java 8,528,27443200
+23639560,161,1483848099,2147483647,D,1800,dfs and similar-dp-trees,Togrul_Gasimov,Java 8,934,288358400
+23497212,161,1483353936,2147483647,D,1800,dfs and similar-dp-trees,ramil.agger,Java 8,904,173670400
+23470392,161,1483191661,2147483647,A,1300,binary search-brute force-greedy-two pointers,PassingBy,Java 8,436,25804800
+21968557,161,1478006682,2147483647,A,1300,binary search-brute force-greedy-two pointers,KruppInTheSky,Java 8,436,4812800
+21968456,161,1478006438,2147483647,A,1300,binary search-brute force-greedy-two pointers,BelkaVest,Java 8,434,4812800
+21367370,161,1476211425,2147483647,D,1800,dfs and similar-dp-trees,AJ_Coder,Java 8,1090,291635200
+21328927,161,1476063261,2147483647,D,1800,dfs and similar-dp-trees,picaso,Java 8,1216,177971200
+21245535,161,1475786265,2147483647,D,1800,dfs and similar-dp-trees,aminul,Java 8,654,150732800
+21182394,161,1475571175,2147483647,A,1300,binary search-brute force-greedy-two pointers,softmax,Java 8,436,5120000
+20377938,161,1472978397,2147483647,D,1800,dfs and similar-dp-trees,dumak,Java 8,748,145920000
+20328498,161,1472753872,2147483647,D,1800,dfs and similar-dp-trees,omarfarhat97,Java 8,996,266649600
+19754735,161,1470777891,2147483647,D,1800,dfs and similar-dp-trees,marcose18,Java 8,778,178073600
+19754615,161,1470777049,2147483647,D,1800,dfs and similar-dp-trees,marcose18,Java 8,810,177356800
+19754570,161,1470776687,2147483647,D,1800,dfs and similar-dp-trees,marcose18,Java 8,780,177254400
+19754515,161,1470776322,2147483647,D,1800,dfs and similar-dp-trees,marcose18,Java 8,778,177356800
+19667055,161,1470475929,2147483647,D,1800,dfs and similar-dp-trees,abdo_shabrawy,Java 8,934,289382400
+19659371,161,1470436502,2147483647,D,1800,dfs and similar-dp-trees,Omar_Morsi,Java 8,1122,288665600
+19659361,161,1470436412,2147483647,D,1800,dfs and similar-dp-trees,Omar_Morsi,Java 8,1122,288665600
+18242078,161,1465033582,2147483647,D,1800,dfs and similar-dp-trees,Rashi_Gupta,Java 8,1278,167424000
+18119868,161,1464359730,2147483647,A,1300,binary search-brute force-greedy-two pointers,HarshGaglani,Java 8,1746,30208000
+18021316,161,1463847117,2147483647,A,1300,binary search-brute force-greedy-two pointers,Ahmad_Elsagheer,Java 8,434,25702400
+18021270,161,1463846908,2147483647,A,1300,binary search-brute force-greedy-two pointers,Ahmad_Elsagheer,Java 8,466,28876800
+16844968,161,1458500673,2147483647,A,1300,binary search-brute force-greedy-two pointers,niting112,Java 7,2806,44544000
+16477063,161,1456984594,2147483647,D,1800,dfs and similar-dp-trees,poikniok,Java 8,2432,244121600
+16477053,161,1456984513,2147483647,D,1800,dfs and similar-dp-trees,poikniok,Java 8,2588,244121600
+16477008,161,1456984187,2147483647,D,1800,dfs and similar-dp-trees,poikniok,Java 8,2370,261017600
+16476892,161,1456983342,2147483647,D,1800,dfs and similar-dp-trees,poikniok,Java 8,2370,261017600
+16435842,161,1456810305,2147483647,D,1800,dfs and similar-dp-trees,user__name,Java 8,1122,354816000
+16268801,161,1456093722,2147483647,C,2400,divide and conquer,Aleks,Java 8,139,0
+15903504,161,1454973074,2147483647,D,1800,dfs and similar-dp-trees,mohieddine,Java 8,1060,181657600
+15775282,161,1454523322,2147483647,D,1800,dfs and similar-dp-trees,AhmedSoliman,Java 8,840,137932800
+15738000,161,1454351998,2147483647,D,1800,dfs and similar-dp-trees,stacy992,Java 7,592,2662400
+15632214,161,1453995312,2147483647,D,1800,dfs and similar-dp-trees,Coder.Kei,Java 7,840,49971200
+15551289,161,1453626281,2147483647,D,1800,dfs and similar-dp-trees,i_Love_Jaiman,Java 8,1246,328089600
+15417414,161,1453052138,2147483647,A,1300,binary search-brute force-greedy-two pointers,AJ_Coder,Java 7,374,0
+15074471,161,1451320918,2147483647,D,1800,dfs and similar-dp-trees,Nirmit,Java 8,1120,355840000
+13952955,161,1446210795,2147483647,A,1300,binary search-brute force-greedy-two pointers,dancingQueen,Java 8,466,4300800
+13063305,161,1442479125,2147483647,D,1800,dfs and similar-dp-trees,Shivendra_Panicker,Java 7,778,145715200
+12781567,161,1440966123,2147483647,B,1700,constructive algorithms-greedy-sortings,poikniok,Java 8,342,0
+12781536,161,1440965898,2147483647,B,1700,constructive algorithms-greedy-sortings,poikniok,Java 8,342,0
+12421929,161,1439102170,2147483647,A,1300,binary search-brute force-greedy-two pointers,analog,Java 8,342,0
+12348594,161,1438764257,2147483647,D,1800,dfs and similar-dp-trees,_jte_,Java 8,966,136601600
+12309034,161,1438479298,2147483647,A,1300,binary search-brute force-greedy-two pointers,.tx,Java 8,1248,14950400
+12104611,161,1437213234,2147483647,D,1800,dfs and similar-dp-trees,MedoN11,Java 8,1528,529203200
+11914748,161,1435948683,2147483647,D,1800,dfs and similar-dp-trees,sweiss,Java 7,872,186163200
+11914714,161,1435948513,2147483647,D,1800,dfs and similar-dp-trees,sweiss,Java 8,842,133427200
+11509986,161,1433853805,2147483647,B,1700,constructive algorithms-greedy-sortings,chqianu,Java 8,312,0
+11361621,161,1433030833,2147483647,A,1300,binary search-brute force-greedy-two pointers,sweiss,Java 8,560,8294400
+11004471,161,1430823830,2147483647,C,2400,divide and conquer,A.Elahi,Java 8,139,0
+10651251,161,1428687291,2147483647,D,1800,dfs and similar-dp-trees,MariaR,Java 7,1840,148377600
+10541777,161,1427892731,2147483647,A,1300,binary search-brute force-greedy-two pointers,turmoil,Java 8,466,1331200
+9570415,161,1422352098,2147483647,E,2400,brute force-dp,AlexFetisov,Java 8,996,0
+9567014,161,1422320962,2147483647,C,2400,divide and conquer,AlexFetisov,Java 8,109,0
+9566808,161,1422317797,2147483647,D,1800,dfs and similar-dp-trees,AlexFetisov,Java 8,1152,342937600
+9565152,161,1422302599,3018,B,1700,constructive algorithms-greedy-sortings,AlexFetisov,Java 8,248,0
+9564756,161,1422300224,643,A,1300,binary search-brute force-greedy-two pointers,AlexFetisov,Java 8,436,409600
+9542256,161,1422132438,2147483647,A,1300,binary search-brute force-greedy-two pointers,AIDOS,Java 8,466,8806400
+9363438,161,1420427377,2147483647,A,1300,binary search-brute force-greedy-two pointers,poikniok,Java 8,560,9728000
+9073937,161,1418228111,2147483647,A,1300,binary search-brute force-greedy-two pointers,IntueorDaniel,Java 8,1528,1433600
+8871988,161,1417105342,2147483647,D,1800,dfs and similar-dp-trees,GhpS,Java 7,560,8294400
+8871805,161,1417104178,2147483647,D,1800,dfs and similar-dp-trees,GhpS,Java 7,842,152576000
+8871547,161,1417102827,2147483647,D,1800,dfs and similar-dp-trees,GhpS,Java 7,436,38400000
+8871537,161,1417102779,2147483647,D,1800,dfs and similar-dp-trees,GhpS,Java 7,404,38400000
+8831495,161,1416811172,2147483647,D,1800,dfs and similar-dp-trees,upsolving,Java 7,778,153600000
+8292941,161,1413631123,2147483647,D,1800,dfs and similar-dp-trees,dalex,Java 7,748,146944000
+8292930,161,1413631031,2147483647,D,1800,dfs and similar-dp-trees,dalex,Java 7,872,146944000
+7598271,161,1409075711,2147483647,D,1800,dfs and similar-dp-trees,DeJw,Java 7,840,136704000
+7412058,161,1407658348,2147483647,A,1300,binary search-brute force-greedy-two pointers,prashanthv,Java 7,1964,307200
+7333310,161,1407023188,2147483647,B,1700,constructive algorithms-greedy-sortings,bufferedreader,Java 6,218,102400
+7301654,161,1406830739,2147483647,B,1700,constructive algorithms-greedy-sortings,miguelmaurizio,Java 7,186,102400
+7073164,161,1405242648,2147483647,D,1800,dfs and similar-dp-trees,I_love_Malika,Java 7,1154,337408000
+7073107,161,1405241760,2147483647,D,1800,dfs and similar-dp-trees,I_love_Malika,Java 7,1090,337408000
+7014703,161,1404547226,2147483647,B,1700,constructive algorithms-greedy-sortings,owenomar,Java 8,686,3584000
+6507006,161,1398789435,2147483647,D,1800,dfs and similar-dp-trees,ykcland,Java 7,872,172646400
+5995462,161,1394537793,2147483647,A,1300,binary search-brute force-greedy-two pointers,jakabfia,Java 7,1434,3788800
+5971158,161,1394398255,2147483647,D,1800,dfs and similar-dp-trees,mistasy,Java 7,1216,433152000
+5971132,161,1394397897,2147483647,D,1800,dfs and similar-dp-trees,mistasy,Java 7,1216,433459200
+5830718,161,1390984511,2147483647,A,1300,binary search-brute force-greedy-two pointers,VeraK,Java 7,436,19353600
+5707493,161,1389930268,2147483647,A,1300,binary search-brute force-greedy-two pointers,haowch,Java 6,280,2457600
+5682845,161,1389607233,2147483647,A,1300,binary search-brute force-greedy-two pointers,DooIt,Java 7,1310,307200
+5611997,161,1388773742,2147483647,A,1300,binary search-brute force-greedy-two pointers,bhimsen92,Java 7,1310,307200
+5532006,161,1388168402,2147483647,B,1700,constructive algorithms-greedy-sortings,alibaba,Java 6,156,409600
+5521470,161,1388007214,2147483647,A,1300,binary search-brute force-greedy-two pointers,pitfall,Java 7,312,6451200
+5458372,161,1387335386,2147483647,B,1700,constructive algorithms-greedy-sortings,upsolving,Java 7,186,102400
+5413336,161,1386831858,2147483647,D,1800,dfs and similar-dp-trees,alibaba,Java 6,654,176435200
+5379384,161,1386467512,2147483647,A,1300,binary search-brute force-greedy-two pointers,tomash_em,Java 7,936,307200
+5346166,161,1386143116,2147483647,A,1300,binary search-brute force-greedy-two pointers,mutarock,Java 6,748,2252800
+5317850,161,1385856626,2147483647,D,1800,dfs and similar-dp-trees,miguelmaurizio,Java 7,2808,385024000
+5208627,161,1385301133,2147483647,A,1300,binary search-brute force-greedy-two pointers,alibaba,Java 6,592,3276800
+5076003,161,1384253681,2147483647,A,1300,binary search-brute force-greedy-two pointers,numb3r,Java 7,872,102400
+5013381,161,1383752362,2147483647,A,1300,binary search-brute force-greedy-two pointers,tomdmitriev,Java 7,1652,409600
+4960073,161,1383367164,2147483647,A,1300,binary search-brute force-greedy-two pointers,vvenkai,Java 7,810,204800
+4944283,161,1383219340,2147483647,A,1300,binary search-brute force-greedy-two pointers,HAL9000,Java 7,218,0
+4749447,161,1381524592,2147483647,A,1300,binary search-brute force-greedy-two pointers,moatazshawky,Java 6,2932,512000
+4568980,161,1380218337,2147483647,A,1300,binary search-brute force-greedy-two pointers,Sabelan,Java 7,904,409600
+4551823,161,1380062980,2147483647,A,1300,binary search-brute force-greedy-two pointers,Stickman,Java 7,2558,1024000
+4551802,161,1380062584,2147483647,A,1300,binary search-brute force-greedy-two pointers,Stickman,Java 7,2620,1126400
+4546603,161,1379996503,2147483647,C,2400,divide and conquer,kyoo,Java 7,156,0
+4497964,161,1379523809,2147483647,A,1300,binary search-brute force-greedy-two pointers,esraa_maged,Java 7,1372,307200
+4493629,161,1379504435,2147483647,A,1300,binary search-brute force-greedy-two pointers,ameera,Java 7,1248,204800
+4488865,161,1379431374,2147483647,A,1300,binary search-brute force-greedy-two pointers,Arshd,Java 7,1216,307200
+4440448,161,1378842470,2147483647,A,1300,binary search-brute force-greedy-two pointers,santjuan,Java 7,904,11161600
+4400886,161,1378207125,2147483647,A,1300,binary search-brute force-greedy-two pointers,ihkus,Java 7,248,0
+4399303,161,1378173094,2147483647,D,1800,dfs and similar-dp-trees,trunghieu11,Java 7,686,140390400
+4337856,161,1377488567,2147483647,A,1300,binary search-brute force-greedy-two pointers,eynshteyn,Java 7,1716,512000
+4328842,161,1377259406,2147483647,A,1300,binary search-brute force-greedy-two pointers,Sokolov,Java 7,374,2867200
+4209425,161,1375275951,2147483647,A,1300,binary search-brute force-greedy-two pointers,akashm,Java 6,1528,512000
+3759073,161,1369269534,2147483647,A,1300,binary search-brute force-greedy-two pointers,zarhane,Java 7,781,204800
+3755904,161,1369203199,2147483647,D,1800,dfs and similar-dp-trees,santjuan,Java 7,1014,330444800
+3704267,161,1368308211,2147483647,A,1300,binary search-brute force-greedy-two pointers,maratmiki,Java 7,281,3891200
+3497245,161,1365524279,2147483647,B,1700,constructive algorithms-greedy-sortings,mkirsche,Java 6,109,102400
+3420006,161,1364574257,5957,A,1300,binary search-brute force-greedy-two pointers,Serjio,Java 7,250,1638400
+3296488,161,1363122798,2147483647,D,1800,dfs and similar-dp-trees,unsigma,Java 6,1328,421273600
+3292819,161,1363063439,2147483647,D,1800,dfs and similar-dp-trees,turistas05,Java 7,953,346828800
+3267504,161,1362779141,2147483647,A,1300,binary search-brute force-greedy-two pointers,Dunaril,Java 6,1575,66355200
+3221195,161,1362085545,2147483647,D,1800,dfs and similar-dp-trees,mkirsche,Java 6,2843,256409600
+3082601,161,1360302183,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge5,Java 7,1109,307200
+3080676,161,1360237157,2147483647,A,1300,binary search-brute force-greedy-two pointers,vjudge1,Java 7,1156,409600
+3044811,161,1359724388,2147483647,D,1800,dfs and similar-dp-trees,PlayLikeNeverB4,Java 7,1062,373248000
+3041594,161,1359650459,2147483647,A,1300,binary search-brute force-greedy-two pointers,Spacejoker,Java 6,296,2560000
+3034024,161,1359472370,2147483647,A,1300,binary search-brute force-greedy-two pointers,MiroO,Java 6,296,204800
+2867789,161,1357162969,2147483647,B,1700,constructive algorithms-greedy-sortings,xiaowuc1,Java 6,109,2457600
+2859486,161,1356904842,2147483647,D,1800,dfs and similar-dp-trees,aste,Java 7,1265,383078400
+2826696,161,1356458890,2147483647,A,1300,binary search-brute force-greedy-two pointers,mkirsche,Java 6,218,2457600
+2804946,161,1356127936,2147483647,D,1800,dfs and similar-dp-trees,xiaowuc1,Java 6,781,143257600
+2659003,161,1353939146,2147483647,D,1800,dfs and similar-dp-trees,todo,Java 6,984,190464000
+2659002,161,1353939146,2147483647,B,1700,constructive algorithms-greedy-sortings,todo,Java 6,125,307200
+2659000,161,1353939145,2147483647,A,1300,binary search-brute force-greedy-two pointers,todo,Java 6,781,307200
+2473447,161,1351673130,2147483647,D,1800,dfs and similar-dp-trees,trunghieu11,Java 7,562,147353600
+2468468,161,1351537244,2147483647,A,1300,binary search-brute force-greedy-two pointers,Tin_Tin,Java 6,1218,512000
+2406643,161,1350879306,2147483647,D,1800,dfs and similar-dp-trees,calculus.saransh,Java 6,1109,352870400
+2385674,161,1350613421,2147483647,D,1800,dfs and similar-dp-trees,lemonsuper,Java 7,1343,427929600
+2357929,161,1350203627,2147483647,A,1300,binary search-brute force-greedy-two pointers,TUITUF_Bahrom,Java 6,312,307200
+2350701,161,1350036371,2147483647,B,1700,constructive algorithms-greedy-sortings,lemonsuper,Java 7,203,14848000
+2300063,161,1349369563,2147483647,C,2400,divide and conquer,trunghieu11,Java 7,109,0
+2299945,161,1349367380,2147483647,B,1700,constructive algorithms-greedy-sortings,trunghieu11,Java 7,93,0
+2293079,161,1349195553,2147483647,A,1300,binary search-brute force-greedy-two pointers,Rodge,Java 6,843,409600
+2227697,161,1348249699,2147483647,A,1300,binary search-brute force-greedy-two pointers,Lindsey,Java 6,1343,44441600
+2227682,161,1348249428,2147483647,A,1300,binary search-brute force-greedy-two pointers,Lindsey,Java 6,1375,44441600
+2097178,161,1346844650,2147483647,D,1800,dfs and similar-dp-trees,mingotlik,Java 6,1010,293990400
+2068519,161,1346312645,2147483647,A,1300,binary search-brute force-greedy-two pointers,mingotlik,Java 6,590,45465600
+2065703,161,1346219861,2147483647,A,1300,binary search-brute force-greedy-two pointers,xwchen,Java 6,1160,45363200
+2050729,161,1346003988,2147483647,B,1700,constructive algorithms-greedy-sortings,Lindsey,Java 6,190,44441600
+2043123,161,1345652807,2147483647,E,2400,brute force-dp,jiangzhijie,Java 7,940,45875200
+2041038,161,1345576099,2147483647,D,1800,dfs and similar-dp-trees,mfv,Java 7,940,45158400
+2041036,161,1345575865,2147483647,D,1800,dfs and similar-dp-trees,mfv,Java 7,980,45158400
+2040988,161,1345574541,2147483647,D,1800,dfs and similar-dp-trees,mfv,Java 7,1360,45158400
+2040985,161,1345574485,2147483647,D,1800,dfs and similar-dp-trees,mfv,Java 7,1330,45158400
+2040981,161,1345574350,2147483647,D,1800,dfs and similar-dp-trees,mfv,Java 7,1050,45260800
+2038975,161,1345495055,2147483647,D,1800,dfs and similar-dp-trees,OSt,Java 6,1080,295833600
+2038958,161,1345494268,2147483647,D,1800,dfs and similar-dp-trees,OSt,Java 6,1060,300544000
+1995840,161,1344532354,2147483647,D,1800,dfs and similar-dp-trees,ilovepink,Java 6,1170,296243200
+1969411,161,1343868952,2147483647,B,1700,constructive algorithms-greedy-sortings,ilovepink,Java 6,200,43622400
+1962557,161,1343699064,2147483647,A,1300,binary search-brute force-greedy-two pointers,ilovepink,Java 6,1130,43622400
+1937324,161,1343169499,2147483647,A,1300,binary search-brute force-greedy-two pointers,tux1986,Java 6,690,46489600
+1911840,161,1342706753,2147483647,A,1300,binary search-brute force-greedy-two pointers,lemonsuper,Java 7,1090,45465600
+1909976,161,1342640011,2147483647,B,1700,constructive algorithms-greedy-sortings,unit7,Java 7,170,45260800
+1906759,161,1342525999,2147483647,A,1300,binary search-brute force-greedy-two pointers,littlepanda,Java 7,610,47104000
+1881217,161,1341909034,2147483647,B,1700,constructive algorithms-greedy-sortings,altais,Java 6,160,43520000
+1874472,161,1341690958,2147483647,A,1300,binary search-brute force-greedy-two pointers,tylerbrazill,Java 6,590,45875200
+1848063,161,1341168572,2147483647,A,1300,binary search-brute force-greedy-two pointers,OSt,Java 6,920,43724800
+1846842,161,1341080804,2147483647,A,1300,binary search-brute force-greedy-two pointers,AbdelrahmanAsal,Java 6,780,47104000
+1831284,161,1340599218,2147483647,A,1300,binary search-brute force-greedy-two pointers,travm12,Java 6,1170,43724800
+1812870,161,1340310215,2147483647,B,1700,constructive algorithms-greedy-sortings,AZerone,Java 6,160,43622400
+1812838,161,1340307756,2147483647,A,1300,binary search-brute force-greedy-two pointers,AZerone,Java 6,330,45568000
+1808166,161,1339994205,2147483647,A,1300,binary search-brute force-greedy-two pointers,xiaowuc1,Java 6,330,45260800
+1798521,161,1339532927,2147483647,D,1800,dfs and similar-dp-trees,Kornacker,Java 6,1330,468172800
+1798518,161,1339532781,2147483647,D,1800,dfs and similar-dp-trees,Kornacker,Java 6,1420,468172800
+1798482,161,1339531799,2147483647,D,1800,dfs and similar-dp-trees,Kornacker,Java 6,1470,471040000
+1798478,161,1339531633,2147483647,D,1800,dfs and similar-dp-trees,Kornacker,Java 6,1360,487321600
+1798467,161,1339531472,2147483647,D,1800,dfs and similar-dp-trees,Kornacker,Java 6,1670,521420800
+1768477,161,1339043876,2147483647,A,1300,binary search-brute force-greedy-two pointers,fxpo,Java 6,1140,43724800
+1767971,161,1339002293,2147483647,A,1300,binary search-brute force-greedy-two pointers,platinumsemen,Java 6,360,45772800
+1766881,161,1338956178,2147483647,A,1300,binary search-brute force-greedy-two pointers,GhpS,Java 6,360,45772800
+1765744,161,1338896651,2147483647,A,1300,binary search-brute force-greedy-two pointers,altais,Java 6,1110,138956800
+1765732,161,1338896392,2147483647,A,1300,binary search-brute force-greedy-two pointers,altais,Java 6,1090,138956800
+1764676,161,1338833171,2147483647,B,1700,constructive algorithms-greedy-sortings,islam-al-aarag,Java 6,190,43520000
+1764216,161,1338820362,2147483647,A,1300,binary search-brute force-greedy-two pointers,upsolving,Java 6,300,45260800
+1722808,161,1338055671,2147483647,A,1300,binary search-brute force-greedy-two pointers,agent3889,Java 6,1130,43622400
+1706813,161,1337544960,2147483647,A,1300,binary search-brute force-greedy-two pointers,Kelltrick,Java 6,1130,43622400
+1668197,161,1336410369,2147483647,A,1300,binary search-brute force-greedy-two pointers,SharpBlade,Java 6,390,49152000
+1627595,161,1335365798,2147483647,A,1300,binary search-brute force-greedy-two pointers,flash36,Java 6,220,43520000
+1617303,161,1335128841,2147483647,A,1300,binary search-brute force-greedy-two pointers,azneyes,Java 6,220,45772800
+1614020,161,1335121047,2147483647,E,2400,brute force-dp,Madiyar,Java 7,660,44851200
+1614010,161,1335120845,2147483647,E,2400,brute force-dp,Madiyar,Java 7,670,44851200
+1601967,161,1335024493,2147483647,C,2400,divide and conquer,Madiyar,Java 7,90,44851200
+1593470,161,1335012450,2147483647,B,1700,constructive algorithms-greedy-sortings,Madiyar,Java 7,110,44953600
+1574346,161,1334786794,2147483647,A,1300,binary search-brute force-greedy-two pointers,nickbuelich,Java 6,730,43622400
+1516305,161,1334261174,2147483647,B,1700,constructive algorithms-greedy-sortings,Azat_Yusupov,Java 6,160,43520000
+1516083,161,1334249402,2147483647,D,1800,dfs and similar-dp-trees,igorkulev,Java 6,1110,447180800
+1479105,161,1333693284,2147483647,D,1800,dfs and similar-dp-trees,Izot_NNSTU,Java 6,1170,410521600
+1422766,161,1332854193,2147483647,A,1300,binary search-brute force-greedy-two pointers,tis,Java 6,1090,43622400
+1409039,161,1332687598,2147483647,A,1300,binary search-brute force-greedy-two pointers,Narg,Java 7,310,52326400
+1408966,161,1332685828,2147483647,A,1300,binary search-brute force-greedy-two pointers,uwi,Java 7,230,44953600
+1408916,161,1332684751,2147483647,E,2400,brute force-dp,uwi,Java 7,2630,44851200
+1408860,161,1332683177,2147483647,D,1800,dfs and similar-dp-trees,uwi,Java 7,890,370176000
+1408695,161,1332680998,2147483647,C,2400,divide and conquer,uwi,Java 7,90,44851200
+1408523,161,1332677357,2147483647,B,1700,constructive algorithms-greedy-sortings,uwi,Java 7,90,44953600
+1408442,161,1332674804,2147483647,A,1300,binary search-brute force-greedy-two pointers,uwi,Java 7,360,45158400
+1386210,161,1332399104,2147483647,D,1800,dfs and similar-dp-trees,OgieKako,Java 6,440,47001600
+1385867,161,1332378854,2147483647,A,1300,binary search-brute force-greedy-two pointers,rang,Java 6,1160,43622400
+1385824,161,1332375796,2147483647,E,2400,brute force-dp,jonathanpaulson,Java 6,1860,43520000
+1385780,161,1332372501,2147483647,A,1300,binary search-brute force-greedy-two pointers,anket.dhulekar,Java 6,920,58777600
+1378534,161,1332136279,2147483647,C,2400,divide and conquer,carber,Java 6,90,43212800
+1374281,161,1332031790,2147483647,D,1800,dfs and similar-dp-trees,OgieKako,Java 6,380,46899200
+1371276,161,1331956741,2147483647,E,2400,brute force-dp,Lymphz,Java 7,2810,44851200
+1361293,161,1331905180,2147483647,E,2400,brute force-dp,Lymphz,Java 7,2830,44851200
+1360847,161,1331895072,2147483647,A,1300,binary search-brute force-greedy-two pointers,Viktor,Java 6,1200,43622400
+1360722,161,1331891820,2147483647,B,1700,constructive algorithms-greedy-sortings,Galkowsky,Java 6,160,43520000
+1359211,161,1331822921,2147483647,A,1300,binary search-brute force-greedy-two pointers,akaki,Java 6,1050,43724800
+1358609,161,1331804307,2147483647,D,1800,dfs and similar-dp-trees,zhendeaini6001,Java 6,1090,192716800
+1358598,161,1331803927,2147483647,D,1800,dfs and similar-dp-trees,zhendeaini6001,Java 6,1250,391987200
+1358597,161,1331803805,2147483647,D,1800,dfs and similar-dp-trees,zhendeaini6001,Java 6,1200,392089600
+1358581,161,1331802896,2147483647,D,1800,dfs and similar-dp-trees,zhendeaini6001,Java 6,1190,299212800
+1356073,161,1331683503,2147483647,E,2400,brute force-dp,Navigabimus,Java 6,860,43315200
+1356064,161,1331683104,2147483647,E,2400,brute force-dp,jcomputer000,Java 6,860,43212800
+1355046,161,1331648684,2147483647,B,1700,constructive algorithms-greedy-sortings,cyon,Java 6,200,43520000
+1354875,161,1331645427,2147483647,B,1700,constructive algorithms-greedy-sortings,Kelang,Java 7,160,45363200
+1354622,161,1331639481,2147483647,A,1300,binary search-brute force-greedy-two pointers,cyon,Java 6,660,46592000
+1354504,161,1331636180,2147483647,D,1800,dfs and similar-dp-trees,andrey_s,Java 7,830,211968000
+1354373,161,1331632395,2147483647,A,1300,binary search-brute force-greedy-two pointers,shnell,Java 6,1050,43622400
+1354146,161,1331626619,2147483647,D,1800,dfs and similar-dp-trees,tehqin,Java 6,840,72601600
+1353777,161,1331613892,2147483647,A,1300,binary search-brute force-greedy-two pointers,Illuminati_chk,Java 6,280,46592000
+1352395,161,1331566141,2147483647,E,2400,brute force-dp,fetetriste,Java 7,1830,44953600
+1352377,161,1331565870,2147483647,E,2400,brute force-dp,fetetriste,Java 6,1810,43212800
+1352153,161,1331562620,2147483647,C,2400,divide and conquer,tanzaku,Java 6,80,43110400
+1351900,161,1331558786,2147483647,E,2400,brute force-dp,partizan22,Java 6,720,43110400
+1351829,161,1331557513,2147483647,B,1700,constructive algorithms-greedy-sortings,tanzaku,Java 6,90,43212800
+1351667,161,1331555104,2147483647,D,1800,dfs and similar-dp-trees,Azat_Yusupov,Java 6,770,190873600
+1351648,161,1331554767,2147483647,A,1300,binary search-brute force-greedy-two pointers,tanzaku,Java 6,280,43520000
+1351213,161,1331547271,2147483647,B,1700,constructive algorithms-greedy-sortings,Di735,Java 7,130,45056000
+1351134,161,1331545644,2147483647,B,1700,constructive algorithms-greedy-sortings,chronotable,Java 6,220,43622400
+1351111,161,1331545127,2147483647,B,1700,constructive algorithms-greedy-sortings,lwc626,Java 7,110,45056000
+1351060,161,1331544260,2147483647,A,1300,binary search-brute force-greedy-two pointers,Azat_Yusupov,Java 6,300,43417600
+1351001,161,1331543178,2147483647,A,1300,binary search-brute force-greedy-two pointers,chronotable,Java 6,1390,43622400
+1350993,161,1331543017,2147483647,A,1300,binary search-brute force-greedy-two pointers,LinkovMih,Java 6,1830,43622400
+1350911,161,1331541686,2147483647,A,1300,binary search-brute force-greedy-two pointers,Skater,Java 6,1050,43622400
+1350747,161,1331538659,2147483647,A,1300,binary search-brute force-greedy-two pointers,lwc626,Java 6,270,45260800
+1350462,161,1331533276,2147483647,D,1800,dfs and similar-dp-trees,peking2,Java 7,1220,466534400
+1350422,161,1331532005,2147483647,D,1800,dfs and similar-dp-trees,cholerikasi,Java 6,1340,391884800
+1350353,161,1331530334,2147483647,B,1700,constructive algorithms-greedy-sortings,Nova,Java 6,110,43315200
+1350347,161,1331530170,2147483647,A,1300,binary search-brute force-greedy-two pointers,knok16,Java 6,250,45260800
+1350343,161,1331530037,2147483647,D,1800,dfs and similar-dp-trees,knok16,Java 6,1090,389529600
+1350328,161,1331529819,2147483647,B,1700,constructive algorithms-greedy-sortings,phantom11,Java 7,160,45158400
+1350182,161,1331525778,2147483647,B,1700,constructive algorithms-greedy-sortings,xDEMONx,Java 6,110,43315200
+1350063,161,1331522912,2147483647,A,1300,binary search-brute force-greedy-two pointers,a_bekzat,Java 6,780,43520000
+1350013,161,1331521015,2147483647,A,1300,binary search-brute force-greedy-two pointers,vab,Java 6,800,43520000
+1349934,161,1331518941,2147483647,D,1800,dfs and similar-dp-trees,hama-du,Java 6,800,189337600
+1349752,161,1331513332,2147483647,C,2400,divide and conquer,partizan22,Java 6,90,43110400
+1349710,161,1331510975,2147483647,E,2400,brute force-dp,mmaxio,Java 7,860,45056000
+1349660,161,1331507186,2147483647,D,1800,dfs and similar-dp-trees,cyon,Java 6,840,43212800
+1349627,161,1331505447,2147483647,B,1700,constructive algorithms-greedy-sortings,arbesfeld,Java 6,130,43520000
+1349492,161,1331500722,2147483647,D,1800,dfs and similar-dp-trees,Omar.Darwish,Java 6,1060,399769600
+1349482,161,1331500352,2147483647,D,1800,dfs and similar-dp-trees,EriKKo,Java 6,1170,470220800
+1349463,161,1331499472,2147483647,A,1300,binary search-brute force-greedy-two pointers,Mostafa.Ali,Java 6,1090,43622400
+1349395,161,1331497670,2147483647,A,1300,binary search-brute force-greedy-two pointers,ZorN,Java 6,780,43520000
+1349329,161,1331496762,2147483647,E,2400,brute force-dp,abacabadabacaba,Java 6,80,43110400
+1349271,161,1331496110,2147483647,A,1300,binary search-brute force-greedy-two pointers,cholerikasi,Java 6,1970,43827200
+1349257,161,1331495923,2147483647,A,1300,binary search-brute force-greedy-two pointers,kirilchukvadim,Java 7,270,47001600
+1349237,161,1331495695,2147483647,B,1700,constructive algorithms-greedy-sortings,peking2,Java 7,160,45158400
+1349224,161,1331495503,2147483647,B,1700,constructive algorithms-greedy-sortings,peking2,Java 7,160,45158400
+1349127,161,1331494389,2147483647,B,1700,constructive algorithms-greedy-sortings,marque,Java 6,140,43520000
+1349072,161,1331493853,2147483647,A,1300,binary search-brute force-greedy-two pointers,Omar.Darwish,Java 6,520,43520000
+1349022,161,1331493362,2147483647,E,2400,brute force-dp,yaro,Java 7,2670,45772800
+1349013,161,1331493314,2147483647,C,2400,divide and conquer,chavit,Java 6,80,43110400
+1348978,161,1331493105,2147483647,A,1300,binary search-brute force-greedy-two pointers,Venom,Java 6,610,48844800
+1348964,161,1331493014,2147483647,D,1800,dfs and similar-dp-trees,islam-al-aarag,Java 7,1140,397107200
+1348951,161,1331492941,2147483647,D,1800,dfs and similar-dp-trees,yarrr,Java 7,690,192819200
+1348946,161,1331492926,2147483647,B,1700,constructive algorithms-greedy-sortings,Omar.Darwish,Java 6,110,43417600
+1348911,161,1331492708,2147483647,D,1800,dfs and similar-dp-trees,SergeyLazarev,Java 6,410,82432000
+1348857,161,1331492391,2147483647,A,1300,binary search-brute force-greedy-two pointers,Ahmed.Ibrahem,Java 7,230,47308800
+1348852,161,1331492369,2147483647,E,2400,brute force-dp,Joshik,Java 6,2140,43520000
+1348806,161,1331492129,2147483647,A,1300,binary search-brute force-greedy-two pointers,nodirbek,Java 6,440,43520000
+1348796,161,1331492089,2147483647,B,1700,constructive algorithms-greedy-sortings,kreep,Java 6,110,43417600
+1348789,161,1331492063,2147483647,B,1700,constructive algorithms-greedy-sortings,kreep,Java 7,110,44953600
+1348766,161,1331491850,650,A,1300,binary search-brute force-greedy-two pointers,nyama,Java 6,1140,43622400
+1348678,161,1331491330,2147483647,A,1300,binary search-brute force-greedy-two pointers,dgjv1,Java 6,1050,43622400
+1348635,161,1331490892,2147483647,E,2400,brute force-dp,OgieKako,Java 6,110,43212800
+1348619,161,1331490795,2147483647,A,1300,binary search-brute force-greedy-two pointers,dgjv1,Java 6,1060,43622400
+1348473,161,1331489957,2147483647,D,1800,dfs and similar-dp-trees,wata,Java 6,360,46899200
+1348432,161,1331489739,2147483647,D,1800,dfs and similar-dp-trees,AlexErofeev,Java 6,980,388812800
+1348383,161,1331489595,2147483647,D,1800,dfs and similar-dp-trees,jonathanpaulson,Java 6,1380,420352000
+1348336,161,1331489472,2147483647,D,1800,dfs and similar-dp-trees,dalex,Java 6,750,210432000
+1348334,161,1331489471,2147483647,B,1700,constructive algorithms-greedy-sortings,dalex,Java 6,110,43929600
+1348333,161,1331489470,2147483647,A,1300,binary search-brute force-greedy-two pointers,dalex,Java 6,280,45875200
+1348253,161,1331489306,2147483647,D,1800,dfs and similar-dp-trees,Kornacker,Java 6,1640,446976000
+1348241,161,1331489275,2147483647,D,1800,dfs and similar-dp-trees,Abra,Java 6,1110,281804800
+1347754,161,1331485354,7054,C,2400,divide and conquer,niyaznigmatul,Java 6,80,43110400
+1347717,161,1331485334,7034,B,1700,constructive algorithms-greedy-sortings,Nox,Java 6,110,43315200
+1347615,161,1331485267,6967,C,2400,divide and conquer,anton.akhi,Java 6,130,43110400
+1347433,161,1331485130,6830,C,2400,divide and conquer,abacabadabacaba,Java 6,90,43110400
+1347388,161,1331485096,6796,B,1700,constructive algorithms-greedy-sortings,sroyal,Java 6,160,43520000
+1347370,161,1331485085,6785,A,1300,binary search-brute force-greedy-two pointers,gmmendez007,Java 6,250,43417600
+1347193,161,1331484951,6651,B,1700,constructive algorithms-greedy-sortings,winger,Java 6,110,43417600
+1347027,161,1331484786,6486,B,1700,constructive algorithms-greedy-sortings,sbatten,Java 6,170,43520000
+1346984,161,1331484735,6435,B,1700,constructive algorithms-greedy-sortings,yasser_adel,Java 6,170,43520000
+1346930,161,1331484682,6382,D,1800,dfs and similar-dp-trees,AlexanderBolshakov,Java 6,780,191385600
+1346917,161,1331484655,6355,E,2400,brute force-dp,TomConerly,Java 6,1280,43315200
+1346914,161,1331484652,6352,D,1800,dfs and similar-dp-trees,shavkat,Java 6,910,187801600
+1346891,161,1331484622,6322,A,1300,binary search-brute force-greedy-two pointers,slavcho92,Java 6,1080,43622400
+1346789,161,1331484510,6210,B,1700,constructive algorithms-greedy-sortings,Skater,Java 6,170,58163200
+1346748,161,1331484473,6173,C,2400,divide and conquer,mmaxio,Java 7,90,44851200
+1346727,161,1331484454,6154,B,1700,constructive algorithms-greedy-sortings,ahmad_mamdouh,Java 6,170,43520000
+1346665,161,1331484387,6087,D,1800,dfs and similar-dp-trees,_jte_,Java 7,860,190566400
+1346656,161,1331484382,6082,C,2400,divide and conquer,cerealguy,Java 6,90,43110400
+1346643,161,1331484369,6069,B,1700,constructive algorithms-greedy-sortings,SergeyLazarev,Java 6,110,43417600
+1346633,161,1331484353,6053,B,1700,constructive algorithms-greedy-sortings,VArtem,Java 6,110,43417600
+1346615,161,1331484333,6033,D,1800,dfs and similar-dp-trees,kreep,Java 6,2720,387788800
+1346546,161,1331484263,5963,D,1800,dfs and similar-dp-trees,lwc626,Java 6,1190,393932800
+1346512,161,1331484216,5916,D,1800,dfs and similar-dp-trees,DoublePointer,Java 6,950,213504000
+1346504,161,1331484207,5907,B,1700,constructive algorithms-greedy-sortings,ArtemKadeev,Java 6,90,43417600
+1346501,161,1331484203,5903,D,1800,dfs and similar-dp-trees,tehqin,Java 6,1480,75878400
+1346497,161,1331484199,5899,B,1700,constructive algorithms-greedy-sortings,pschuprikov,Java 6,110,43212800
+1346449,161,1331484165,5865,B,1700,constructive algorithms-greedy-sortings,julsa,Java 6,140,43417600
+1346328,161,1331484035,5735,D,1800,dfs and similar-dp-trees,abacabadabacaba,Java 6,390,47820800
+1346320,161,1331484029,5729,E,2400,brute force-dp,shevchen,Java 6,910,43110400
+1346292,161,1331484001,5701,C,2400,divide and conquer,wata,Java 6,110,43212800
+1346281,161,1331483985,5685,B,1700,constructive algorithms-greedy-sortings,dlevshunov,Java 7,140,45260800
+1346151,161,1331483850,5550,D,1800,dfs and similar-dp-trees,dalex,Java 6,800,210432000
+1346127,161,1331483819,5519,B,1700,constructive algorithms-greedy-sortings,Aksenov239,Java 6,110,43417600
+1346051,161,1331483733,5433,D,1800,dfs and similar-dp-trees,wjomlex,Java 6,1190,471347200
+1346041,161,1331483723,5423,B,1700,constructive algorithms-greedy-sortings,S.Yesipenko,Java 6,380,164249600
+1346030,161,1331483705,5405,B,1700,constructive algorithms-greedy-sortings,OgieKako,Java 6,110,43315200
+1345958,161,1331483633,5333,D,1800,dfs and similar-dp-trees,todo,Java 6,940,232448000
+1345936,161,1331483608,5308,B,1700,constructive algorithms-greedy-sortings,ttim,Java 6,160,43315200
+1345925,161,1331483586,5286,D,1800,dfs and similar-dp-trees,Sammarize,Java 6,830,160153600
+1345877,161,1331483540,5240,B,1700,constructive algorithms-greedy-sortings,zhendeaini6001,Java 6,140,43417600
+1345848,161,1331483512,5212,D,1800,dfs and similar-dp-trees,ika,Java 6,920,142643200
+1345784,161,1331483435,5135,B,1700,constructive algorithms-greedy-sortings,mostafa_fahim,Java 7,160,45056000
+1345746,161,1331483396,5096,B,1700,constructive algorithms-greedy-sortings,hama-du,Java 6,160,43520000
+1345698,161,1331483331,5031,B,1700,constructive algorithms-greedy-sortings,Slamur,Java 6,110,43929600
+1345603,161,1331483218,4918,D,1800,dfs and similar-dp-trees,GR1n,Java 6,2690,389529600
+1345524,161,1331483089,4789,D,1800,dfs and similar-dp-trees,Jokser,Java 6,950,194764800
+1345507,161,1331483070,4770,D,1800,dfs and similar-dp-trees,fetetriste,Java 6,590,144076800
+1345473,161,1331483018,4718,A,1300,binary search-brute force-greedy-two pointers,knok16,Java 6,270,45260800
+1345457,161,1331482998,4698,D,1800,dfs and similar-dp-trees,torrentlord,Java 6,1470,387481600
+1345437,161,1331482970,4670,B,1700,constructive algorithms-greedy-sortings,taras.klaskovsky,Java 6,110,43929600
+1345435,161,1331482970,4670,A,1300,binary search-brute force-greedy-two pointers,peking2,Java 7,810,45158400
+1345363,161,1331482891,4591,B,1700,constructive algorithms-greedy-sortings,val,Java 6,190,43520000
+1345343,161,1331482868,4568,D,1800,dfs and similar-dp-trees,OgieKako,Java 6,1010,390041600
+1345336,161,1331482864,4564,D,1800,dfs and similar-dp-trees,alexey.enkov,Java 7,670,193536000
+1345313,161,1331482838,4537,A,1300,binary search-brute force-greedy-two pointers,shtorm941,Java 6,250,44134400
+1345235,161,1331482741,4441,D,1800,dfs and similar-dp-trees,shevchen,Java 6,1470,202854400
+1345186,161,1331482691,4391,D,1800,dfs and similar-dp-trees,yaro,Java 7,720,193331200
+1345029,161,1331482500,4200,C,2400,divide and conquer,TomConerly,Java 6,90,43212800
+1345006,161,1331482473,4173,B,1700,constructive algorithms-greedy-sortings,wjomlex,Java 6,170,43417600
+1344975,161,1331482438,4138,B,1700,constructive algorithms-greedy-sortings,jcomputer000,Java 6,140,43315200
+1344956,161,1331482415,4115,B,1700,constructive algorithms-greedy-sortings,Kornacker,Java 6,160,43520000
+1344953,161,1331482404,4104,B,1700,constructive algorithms-greedy-sortings,katalexey,Java 6,160,43417600
+1344915,161,1331482372,4072,C,2400,divide and conquer,Egor,Java 6,80,43110400
+1344881,161,1331482347,4047,B,1700,constructive algorithms-greedy-sortings,chavit,Java 6,110,43417600
+1344838,161,1331482299,3999,B,1700,constructive algorithms-greedy-sortings,Joshik,Java 6,110,43520000
+1344778,161,1331482226,3926,B,1700,constructive algorithms-greedy-sortings,EriKKo,Java 6,110,43212800
+1344744,161,1331482201,3901,B,1700,constructive algorithms-greedy-sortings,wata,Java 6,110,43315200
+1344709,161,1331482172,3872,B,1700,constructive algorithms-greedy-sortings,Koyaah,Java 6,140,43417600
+1344699,161,1331482165,3865,D,1800,dfs and similar-dp-trees,nsmikhailov,Java 7,1110,391168000
+1344694,161,1331482157,3857,D,1800,dfs and similar-dp-trees,dmitry.uvarov,Java 6,1140,389939200
+1344688,161,1331482150,3850,A,1300,binary search-brute force-greedy-two pointers,sas4eka,Java 6,440,57139200
+1344671,161,1331482119,3819,A,1300,binary search-brute force-greedy-two pointers,nsmikhailov,Java 7,280,47104000
+1344527,161,1331481976,3676,B,1700,constructive algorithms-greedy-sortings,goodsky,Java 6,170,43520000
+1344469,161,1331481917,3617,B,1700,constructive algorithms-greedy-sortings,mmaxio,Java 7,110,44953600
+1344444,161,1331481885,3585,A,1300,binary search-brute force-greedy-two pointers,parusnikita,Java 7,310,47718400
+1344356,161,1331481807,3507,D,1800,dfs and similar-dp-trees,Hadi_Asiaie,Java 6,810,221900800
+1344351,161,1331481802,3502,D,1800,dfs and similar-dp-trees,ArtemKadeev,Java 6,860,190771200
+1344338,161,1331481794,3494,B,1700,constructive algorithms-greedy-sortings,abacabadabacaba,Java 6,110,43417600
+1344325,161,1331481786,3486,B,1700,constructive algorithms-greedy-sortings,shavkat,Java 6,160,43520000
+1344275,161,1331481740,3440,D,1800,dfs and similar-dp-trees,S.Yesipenko,Java 6,750,208691200
+1344236,161,1331481706,3406,B,1700,constructive algorithms-greedy-sortings,DoublePointer,Java 6,110,43417600
+1344230,161,1331481699,3399,D,1800,dfs and similar-dp-trees,Egor,Java 6,630,188620800
+1344219,161,1331481684,3384,B,1700,constructive algorithms-greedy-sortings,Egor,Java 6,110,43315200
+1344199,161,1331481662,3362,A,1300,binary search-brute force-greedy-two pointers,Egor,Java 6,270,43417600
+1344176,161,1331481645,3345,D,1800,dfs and similar-dp-trees,Di735,Java 7,1390,391884800
+1344115,161,1331481576,3276,D,1800,dfs and similar-dp-trees,qujun51319,Java 7,1010,394752000
+1344104,161,1331481564,3264,A,1300,binary search-brute force-greedy-two pointers,deNULL,Java 6,640,50585600
+1344085,161,1331481546,3246,A,1300,binary search-brute force-greedy-two pointers,sabbathist,Java 6,440,46694400
+1344071,161,1331481532,3232,D,1800,dfs and similar-dp-trees,Nova,Java 6,1010,394240000
+1344046,161,1331481515,3215,B,1700,constructive algorithms-greedy-sortings,fetetriste,Java 6,140,43622400
+1344026,161,1331481496,3196,B,1700,constructive algorithms-greedy-sortings,Sammarize,Java 6,110,43520000
+1343991,161,1331481467,3167,A,1300,binary search-brute force-greedy-two pointers,Nivea,Java 6,1080,43622400
+1343987,161,1331481464,3164,B,1700,constructive algorithms-greedy-sortings,yarrr,Java 7,130,45056000
+1343965,161,1331481442,3142,A,1300,binary search-brute force-greedy-two pointers,marque,Java 6,690,46284800
+1343963,161,1331481441,3141,B,1700,constructive algorithms-greedy-sortings,Ahmed_Salama,Java 6,190,43520000
+1343928,161,1331481407,3107,A,1300,binary search-brute force-greedy-two pointers,phantom11,Java 7,810,45260800
+1343925,161,1331481405,3105,D,1800,dfs and similar-dp-trees,pschuprikov,Java 6,1970,187596800
+1343842,161,1331481327,3027,B,1700,constructive algorithms-greedy-sortings,yaro,Java 7,110,45056000
+1343829,161,1331481309,3009,B,1700,constructive algorithms-greedy-sortings,todo,Java 6,160,43417600
+1343790,161,1331481268,2968,B,1700,constructive algorithms-greedy-sortings,dmitry.uvarov,Java 6,110,43417600
+1343764,161,1331481232,2932,B,1700,constructive algorithms-greedy-sortings,Jokser,Java 6,130,43520000
+1343690,161,1331481145,2845,A,1300,binary search-brute force-greedy-two pointers,mukku,Java 6,1080,43622400
+1343644,161,1331481094,2794,B,1700,constructive algorithms-greedy-sortings,sas4eka,Java 6,110,43417600
+1343614,161,1331481067,2767,B,1700,constructive algorithms-greedy-sortings,Horuka,Java 6,110,43315200
+1343590,161,1331481041,2741,D,1800,dfs and similar-dp-trees,taras.klaskovsky,Java 6,1390,437555200
+1343551,161,1331481005,2705,B,1700,constructive algorithms-greedy-sortings,ika,Java 6,130,43520000
+1343546,161,1331481001,2701,B,1700,constructive algorithms-greedy-sortings,niyaznigmatul,Java 6,130,43315200
+1343530,161,1331480987,2687,B,1700,constructive algorithms-greedy-sortings,alexey.enkov,Java 7,110,44953600
+1343447,161,1331480886,2586,A,1300,binary search-brute force-greedy-two pointers,abacabadabacaba,Java 6,380,48640000
+1343356,161,1331480785,2485,D,1800,dfs and similar-dp-trees,Joshik,Java 6,780,212889600
+1343299,161,1331480729,2429,B,1700,constructive algorithms-greedy-sortings,dalex,Java 6,90,43929600
+1343234,161,1331480660,2360,D,1800,dfs and similar-dp-trees,wata,Java 6,410,46899200
+1343124,161,1331480549,2249,B,1700,constructive algorithms-greedy-sortings,jonathanpaulson,Java 6,170,43520000
+1343076,161,1331480490,2190,D,1800,dfs and similar-dp-trees,Slamur,Java 6,780,209203200
+1343049,161,1331480466,2166,A,1300,binary search-brute force-greedy-two pointers,trickShuffle,Java 7,1060,84582400
+1343041,161,1331480455,2155,B,1700,constructive algorithms-greedy-sortings,Abra,Java 6,110,43212800
+1343036,161,1331480454,2154,A,1300,binary search-brute force-greedy-two pointers,burdakovd,Java 6,690,43622400
+1343035,161,1331480454,2154,A,1300,binary search-brute force-greedy-two pointers,raviagarwal,Java 6,590,47718400
+1343019,161,1331480435,2135,A,1300,binary search-brute force-greedy-two pointers,etilen,Java 6,360,49766400
+1343015,161,1331480432,2132,B,1700,constructive algorithms-greedy-sortings,stevenkplus,Java 6,130,43417600
+1343003,161,1331480417,2117,D,1800,dfs and similar-dp-trees,cerealguy,Java 6,690,221798400
+1343000,161,1331480413,2113,B,1700,constructive algorithms-greedy-sortings,torrentlord,Java 6,130,43212800
+1342998,161,1331480410,2110,D,1800,dfs and similar-dp-trees,yarrr,Java 7,1060,393216000
+1342995,161,1331480407,2107,B,1700,constructive algorithms-greedy-sortings,deNULL,Java 6,140,43520000
+1342972,161,1331480390,2090,A,1300,binary search-brute force-greedy-two pointers,ant.ermilov,Java 6,1000,111001600
+1342921,161,1331480334,2034,B,1700,constructive algorithms-greedy-sortings,jma127,Java 6,200,43520000
+1342876,161,1331480286,1986,B,1700,constructive algorithms-greedy-sortings,anton.akhi,Java 6,140,43417600
+1342847,161,1331480250,1950,D,1800,dfs and similar-dp-trees,mmaxio,Java 7,2190,46182400
+1342834,161,1331480238,1938,A,1300,binary search-brute force-greedy-two pointers,EriKKo,Java 6,270,45670400
+1342813,161,1331480209,1909,A,1300,binary search-brute force-greedy-two pointers,GoomboCode,Java 7,310,54579200
+1342809,161,1331480205,1905,A,1300,binary search-brute force-greedy-two pointers,Narg,Java 6,330,46080000
+1342801,161,1331480187,1887,B,1700,constructive algorithms-greedy-sortings,shevchen,Java 6,110,43417600
+1342741,161,1331480129,1828,A,1300,binary search-brute force-greedy-two pointers,Nova,Java 6,360,50892800
+1342706,161,1331480085,1785,A,1300,binary search-brute force-greedy-two pointers,ahmad_mamdouh,Java 6,660,46592000
+1342696,161,1331480073,1773,B,1700,constructive algorithms-greedy-sortings,cerealguy,Java 6,110,43315200
+1342690,161,1331480059,1759,A,1300,binary search-brute force-greedy-two pointers,Sinner,Java 6,380,61644800
+1342685,161,1331480053,1752,D,1800,dfs and similar-dp-trees,chavit,Java 6,700,191078400
+1342672,161,1331480028,1728,A,1300,binary search-brute force-greedy-two pointers,pschuprikov,Java 6,310,45260800
+1342590,161,1331479942,1642,A,1300,binary search-brute force-greedy-two pointers,ttim,Java 6,840,43520000
+1342544,161,1331479888,1588,D,1800,dfs and similar-dp-trees,VArtem,Java 6,750,222617600
+1342508,161,1331479849,1549,A,1300,binary search-brute force-greedy-two pointers,Aries512,Java 6,200,43417600
+1342482,161,1331479815,1515,A,1300,binary search-brute force-greedy-two pointers,serafimkoo,Java 6,770,43520000
+1342442,161,1331479777,1477,A,1300,binary search-brute force-greedy-two pointers,semverchenko,Java 6,1420,43622400
+1342432,161,1331479765,1465,A,1300,binary search-brute force-greedy-two pointers,goodsky,Java 6,1080,43622400
+1342399,161,1331479734,1434,A,1300,binary search-brute force-greedy-two pointers,S.Yesipenko,Java 6,720,87961600
+1342381,161,1331479718,1418,A,1300,binary search-brute force-greedy-two pointers,katalexey,Java 6,910,45158400
+1342369,161,1331479705,1405,A,1300,binary search-brute force-greedy-two pointers,AlexanderBolshakov,Java 6,270,45363200
+1342362,161,1331479698,1398,A,1300,binary search-brute force-greedy-two pointers,m.radwan,Java 6,830,43520000
+1342346,161,1331479686,1386,A,1300,binary search-brute force-greedy-two pointers,islam-al-aarag,Java 7,280,47104000
+1342344,161,1331479685,1385,A,1300,binary search-brute force-greedy-two pointers,gerasimovd,Java 6,300,45056000
+1342314,161,1331479661,1361,A,1300,binary search-brute force-greedy-two pointers,icek,Java 6,1110,43622400
+1342294,161,1331479640,1340,A,1300,binary search-brute force-greedy-two pointers,mastersobg,Java 6,860,67584000
+1342281,161,1331479630,1330,A,1300,binary search-brute force-greedy-two pointers,xDEMONx,Java 6,310,43417600
+1342259,161,1331479611,1311,A,1300,binary search-brute force-greedy-two pointers,julsa,Java 6,560,45465600
+1342218,161,1331479579,1279,A,1300,binary search-brute force-greedy-two pointers,sbatten,Java 6,1090,43520000
+1342207,161,1331479573,1273,A,1300,binary search-brute force-greedy-two pointers,qujun51319,Java 7,270,46899200
+1342159,161,1331479529,1229,A,1300,binary search-brute force-greedy-two pointers,Nox,Java 6,330,43520000
+1342154,161,1331479525,1225,A,1300,binary search-brute force-greedy-two pointers,yasser_adel,Java 6,1250,43622400
+1342073,161,1331479464,1164,D,1800,dfs and similar-dp-trees,niyaznigmatul,Java 6,1060,284774400
+1342068,161,1331479460,1160,A,1300,binary search-brute force-greedy-two pointers,PolarNick,Java 6,530,45158400
+1342067,161,1331479459,1159,A,1300,binary search-brute force-greedy-two pointers,fetetriste,Java 6,380,58163200
+1342037,161,1331479440,1140,D,1800,dfs and similar-dp-trees,Narg,Java 6,2420,210739200
+1342026,161,1331479436,1136,A,1300,binary search-brute force-greedy-two pointers,DoublePointer,Java 6,1360,48230400
+1342001,161,1331479419,1119,A,1300,binary search-brute force-greedy-two pointers,Kelang,Java 6,250,45260800
+1341923,161,1331479366,1066,A,1300,binary search-brute force-greedy-two pointers,stevenkplus,Java 6,380,52428800
+1341904,161,1331479350,1050,A,1300,binary search-brute force-greedy-two pointers,Ahmed_Salama,Java 6,450,46592000
+1341889,161,1331479339,1039,A,1300,binary search-brute force-greedy-two pointers,yaro,Java 7,330,52633600
+1341861,161,1331479310,1010,A,1300,binary search-brute force-greedy-two pointers,mostafa_fahim,Java 7,1060,45158400
+1341831,161,1331479287,987,A,1300,binary search-brute force-greedy-two pointers,dlevshunov,Java 6,310,45363200
+1341826,161,1331479286,986,A,1300,binary search-brute force-greedy-two pointers,AdilbekZh,Java 6,1110,43622400
+1341823,161,1331479284,984,A,1300,binary search-brute force-greedy-two pointers,Sammarize,Java 6,330,43520000
+1341795,161,1331479267,967,A,1300,binary search-brute force-greedy-two pointers,igor_kz,Java 6,610,45772800
+1341779,161,1331479255,955,A,1300,binary search-brute force-greedy-two pointers,zhendeaini6001,Java 6,920,43622400
+1341765,161,1331479248,948,A,1300,binary search-brute force-greedy-two pointers,hama-du,Java 6,720,46489600
+1341746,161,1331479237,937,A,1300,binary search-brute force-greedy-two pointers,val,Java 6,1130,43622400
+1341730,161,1331479229,929,A,1300,binary search-brute force-greedy-two pointers,TomConerly,Java 6,1220,43724800
+1341646,161,1331479164,864,A,1300,binary search-brute force-greedy-two pointers,Izot_NNSTU,Java 6,380,55091200
+1341630,161,1331479156,856,A,1300,binary search-brute force-greedy-two pointers,Galkowsky,Java 6,770,43520000
+1341621,161,1331479151,851,A,1300,binary search-brute force-greedy-two pointers,todo,Java 6,800,43520000
+1341607,161,1331479140,840,A,1300,binary search-brute force-greedy-two pointers,Navigabimus,Java 6,1200,56217600
+1341593,161,1331479131,831,A,1300,binary search-brute force-greedy-two pointers,VArtem,Java 6,580,61542400
+1341586,161,1331479126,826,A,1300,binary search-brute force-greedy-two pointers,ika,Java 6,270,45465600
+1341582,161,1331479124,824,A,1300,binary search-brute force-greedy-two pointers,tehqin,Java 6,1160,43724800
+1341559,161,1331479108,808,A,1300,binary search-brute force-greedy-two pointers,taras.klaskovsky,Java 6,410,46592000
+1341549,161,1331479103,803,A,1300,binary search-brute force-greedy-two pointers,ArtemKadeev,Java 6,470,57139200
+1341488,161,1331479066,766,A,1300,binary search-brute force-greedy-two pointers,dmitry.uvarov,Java 6,300,45363200
+1341472,161,1331479054,754,A,1300,binary search-brute force-greedy-two pointers,cgy4ever,Java 7,800,45158400
+1341462,161,1331479051,751,A,1300,binary search-brute force-greedy-two pointers,Di735,Java 7,250,47104000
+1341458,161,1331479048,748,A,1300,binary search-brute force-greedy-two pointers,JustDoIt,Java 6,310,47718400
+1341453,161,1331479047,747,A,1300,binary search-brute force-greedy-two pointers,sroyal,Java 6,1220,43622400
+1341450,161,1331479047,746,A,1300,binary search-brute force-greedy-two pointers,Slamur,Java 6,340,47206400
+1341430,161,1331479033,733,A,1300,binary search-brute force-greedy-two pointers,jonathanpaulson,Java 6,1340,44032000
+1341428,161,1331479031,731,A,1300,binary search-brute force-greedy-two pointers,anton.akhi,Java 6,280,45260800
+1341413,161,1331479026,726,A,1300,binary search-brute force-greedy-two pointers,Koyaah,Java 6,420,43417600
+1341412,161,1331479026,726,A,1300,binary search-brute force-greedy-two pointers,wata,Java 6,250,43315200
+1341409,161,1331479024,724,A,1300,binary search-brute force-greedy-two pointers,Horuka,Java 6,330,43417600
+1341392,161,1331479016,716,A,1300,binary search-brute force-greedy-two pointers,shavkat,Java 6,640,43520000
+1341390,161,1331479015,715,A,1300,binary search-brute force-greedy-two pointers,jma127,Java 6,1560,45260800
+1341344,161,1331478987,687,A,1300,binary search-brute force-greedy-two pointers,chavit,Java 6,360,55398400
+1341343,161,1331478987,687,A,1300,binary search-brute force-greedy-two pointers,Aksenov239,Java 6,380,55091200
+1341325,161,1331478976,676,A,1300,binary search-brute force-greedy-two pointers,OgieKako,Java 6,270,43417600
+1341321,161,1331478974,674,A,1300,binary search-brute force-greedy-two pointers,winger,Java 6,310,45363200
+1341303,161,1331478967,667,A,1300,binary search-brute force-greedy-two pointers,dalex,Java 6,270,45875200
+1341301,161,1331478965,665,A,1300,binary search-brute force-greedy-two pointers,GR1n,Java 6,330,49766400
+1341272,161,1331478946,646,A,1300,binary search-brute force-greedy-two pointers,Andreos,Java 7,550,47104000
+1341264,161,1331478944,644,A,1300,binary search-brute force-greedy-two pointers,jcomputer000,Java 6,840,43520000
+1341246,161,1331478931,631,A,1300,binary search-brute force-greedy-two pointers,alexey.enkov,Java 7,250,50483200
+1341235,161,1331478924,624,A,1300,binary search-brute force-greedy-two pointers,AlexErofeev,Java 6,390,53145600
+1341231,161,1331478921,621,A,1300,binary search-brute force-greedy-two pointers,SergeyLazarev,Java 6,390,55091200
+1341146,161,1331478865,565,A,1300,binary search-brute force-greedy-two pointers,torrentlord,Java 6,1190,43622400
+1341138,161,1331478859,559,A,1300,binary search-brute force-greedy-two pointers,Joshik,Java 6,530,65331200
+1341088,161,1331478829,529,A,1300,binary search-brute force-greedy-two pointers,mmaxio,Java 7,360,54169600
+1341079,161,1331478817,517,A,1300,binary search-brute force-greedy-two pointers,niyaznigmatul,Java 6,480,50995200
+1341064,161,1331478803,503,A,1300,binary search-brute force-greedy-two pointers,Seemann,Java 6,250,45158400
+1341034,161,1331478778,478,A,1300,binary search-brute force-greedy-two pointers,kreep,Java 6,360,45260800
+1341024,161,1331478770,470,A,1300,binary search-brute force-greedy-two pointers,yarrr,Java 7,270,47206400
+1341023,161,1331478769,469,A,1300,binary search-brute force-greedy-two pointers,Jokser,Java 6,270,45363200
+1341018,161,1331478766,466,A,1300,binary search-brute force-greedy-two pointers,Kornacker,Java 6,890,43622400
+1340933,161,1331478712,412,A,1300,binary search-brute force-greedy-two pointers,cerealguy,Java 6,330,46080000
+1340917,161,1331478694,394,A,1300,binary search-brute force-greedy-two pointers,shevchen,Java 6,330,46080000
+1340915,161,1331478690,390,A,1300,binary search-brute force-greedy-two pointers,wjomlex,Java 6,1170,43622400
+1340903,161,1331478673,373,A,1300,binary search-brute force-greedy-two pointers,bjin,Java 7,500,47104000

@@ -1,0 +1,655 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57560593,17,1563840765,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,o.radwan,Java 8,186,3379200
+57315500,17,1563523467,2147483647,A,1100,brute force-math-number theory,Black_Arrow502,Java 8,216,3584000
+56150175,17,1561622000,2147483647,A,1100,brute force-math-number theory,tobitherobot,Java 8,218,3686400
+55554182,17,1560502796,2147483647,A,1100,brute force-math-number theory,ajkdrag,Java 8,154,3174400
+55554083,17,1560502604,2147483647,A,1100,brute force-math-number theory,ajkdrag,Java 8,186,3174400
+55014434,17,1559562008,2147483647,A,1100,brute force-math-number theory,Sakhi_Java,Java 8,218,3584000
+54662394,17,1558870051,2147483647,A,1100,brute force-math-number theory,Orion1234,Java 8,216,3584000
+54585349,17,1558766356,2147483647,A,1100,brute force-math-number theory,Ironman002,Java 8,216,3686400
+54525179,17,1558620575,2147483647,A,1100,brute force-math-number theory,SKrPl,Java 8,218,3584000
+52999294,17,1555654319,2147483647,A,1100,brute force-math-number theory,KyawKyawKhaing1,Java 8,186,3276800
+52559093,17,1554888071,2147483647,A,1100,brute force-math-number theory,hloog,Java 8,218,3584000
+52349774,17,1554473198,2147483647,A,1100,brute force-math-number theory,ghenrique,Java 8,218,3584000
+52138324,17,1554095120,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,ayanaadylova,Java 8,342,3686400
+52137570,17,1554092330,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,ayanaadylova,Java 8,310,3788800
+50700738,17,1551561267,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,parthsingh287,Java 8,278,3788800
+50480627,17,1551084433,2147483647,A,1100,brute force-math-number theory,parthsingh287,Java 8,218,3584000
+50203903,17,1550600401,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,vjudge5,Java 8,216,3481600
+49773246,17,1549895140,2147483647,A,1100,brute force-math-number theory,newheathen,Java 8,218,3686400
+49680109,17,1549756707,2147483647,A,1100,brute force-math-number theory,housni,Java 8,216,3584000
+48909343,17,1548375594,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,PranavMathur,Java 8,280,3788800
+48559835,17,1547880948,2147483647,E,2900,strings,Mandir_Wahi_Banayenge,Java 8,592,44441600
+48322887,17,1547374692,1092,A,1100,brute force-math-number theory,anshh31,Java 8,216,3584000
+48088492,17,1546950662,2147483647,A,1100,brute force-math-number theory,Keti13,Java 8,186,3584000
+48035449,17,1546787473,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kunal725725,Java 8,216,3481600
+47534541,17,1545865366,2147483647,A,1100,brute force-math-number theory,chriscode_8,Java 8,218,3584000
+47348445,17,1545431468,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,ShowStopper728,Java 8,186,3379200
+46467268,17,1543725026,2147483647,A,1100,brute force-math-number theory,ghangh,Java 8,218,3584000
+46417764,17,1543609267,2147483647,A,1100,brute force-math-number theory,stolis,Java 8,216,3584000
+45653334,17,1542081618,2147483647,A,1100,brute force-math-number theory,I.A.K.O.V,Java 8,186,3276800
+44715722,17,1540243837,2147483647,A,1100,brute force-math-number theory,_bacali,Java 8,186,3276800
+44359368,17,1539611654,2147483647,A,1100,brute force-math-number theory,AhmedNa,Java 8,218,3584000
+43907519,17,1538836898,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Officer_K,Java 8,434,3788800
+43803049,17,1538677084,2147483647,A,1100,brute force-math-number theory,Yasmine.afify,Java 8,248,3276800
+43636104,17,1538383507,2147483647,A,1100,brute force-math-number theory,greatindian,Java 8,310,3174400
+43342599,17,1537727404,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,housni,Java 8,280,3276800
+43342530,17,1537727273,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,housni,Java 8,310,3276800
+43341980,17,1537726276,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,housni,Java 8,374,3788800
+42350525,17,1535863431,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,hongquanntct,Java 8,248,3891200
+42143476,17,1535354407,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Anonymous,Java 8,404,3686400
+42141526,17,1535349201,2147483647,A,1100,brute force-math-number theory,Anonymous,Java 8,310,3584000
+42067337,17,1535142846,2147483647,A,1100,brute force-math-number theory,o.radwan,Java 8,310,3686400
+42028946,17,1535120351,2147483647,A,1100,brute force-math-number theory,_ma7moud_tarek97,Java 8,218,3174400
+41976709,17,1534966424,2147483647,A,1100,brute force-math-number theory,elnashar,Java 8,280,3481600
+41976473,17,1534965593,2147483647,A,1100,brute force-math-number theory,RehamNaguib,Java 8,280,3584000
+41935256,17,1534855057,2147483647,A,1100,brute force-math-number theory,mustafa11,Java 8,310,3584000
+41934126,17,1534852868,2147483647,A,1100,brute force-math-number theory,osamaa.nadeer,Java 8,310,3584000
+41741577,17,1534571136,2147483647,A,1100,brute force-math-number theory,DadSoul,Java 8,310,3584000
+41628318,17,1534349287,2147483647,A,1100,brute force-math-number theory,Jarik,Java 8,248,3276800
+41588368,17,1534250611,2147483647,A,1100,brute force-math-number theory,luteroelavoco90,Java 8,434,3686400
+41555595,17,1534158411,2147483647,A,1100,brute force-math-number theory,vjudge1,Java 8,310,3584000
+41555580,17,1534158372,2147483647,A,1100,brute force-math-number theory,Ahmed_Galal,Java 8,310,3584000
+41506917,17,1534022692,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,mesmail,Java 8,280,3481600
+41439624,17,1533921765,2147483647,A,1100,brute force-math-number theory,vjudge3,Java 8,434,3686400
+41438537,17,1533919073,2147483647,A,1100,brute force-math-number theory,vjudge2,Java 8,310,3584000
+41437712,17,1533917274,2147483647,A,1100,brute force-math-number theory,vjudge2,Java 8,310,3481600
+41436733,17,1533915277,2147483647,A,1100,brute force-math-number theory,hms1523,Java 8,248,3174400
+41436666,17,1533915141,2147483647,A,1100,brute force-math-number theory,hms1523,Java 8,278,3276800
+41436562,17,1533914888,2147483647,A,1100,brute force-math-number theory,vjudge5,Java 8,312,3584000
+41308645,17,1533652348,2147483647,A,1100,brute force-math-number theory,prabhat236218,Java 8,280,44032000
+41122804,17,1533214014,2147483647,A,1100,brute force-math-number theory,sancho20021,Java 8,310,3686400
+41003831,17,1533026209,2147483647,A,1100,brute force-math-number theory,4mda4mda,Java 8,248,3174400
+40473275,17,1531823727,2147483647,A,1100,brute force-math-number theory,RRRRRR,Java 8,310,3584000
+39982081,17,1530789600,2147483647,A,1100,brute force-math-number theory,adibbatous,Java 8,310,3584000
+39981955,17,1530789370,2147483647,A,1100,brute force-math-number theory,adibbatous,Java 8,340,3686400
+39234240,17,1528961128,2147483647,A,1100,brute force-math-number theory,adibbatous,Java 8,310,3584000
+39146553,17,1528720681,2147483647,A,1100,brute force-math-number theory,KulikAlex,Java 8,248,3174400
+39145899,17,1528719238,2147483647,A,1100,brute force-math-number theory,KulikAlex,Java 8,248,3174400
+38825784,17,1527851424,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,skywalker212,Java 8,1152,26316800
+38824409,17,1527847752,2147483647,A,1100,brute force-math-number theory,skywalker212,Java 8,312,26214400
+37984777,17,1525667161,2147483647,A,1100,brute force-math-number theory,yongkiattay,Java 8,310,26009600
+36983669,17,1522885170,2147483647,A,1100,brute force-math-number theory,overnite.runner,Java 8,310,26009600
+36757124,17,1522436975,2147483647,A,1100,brute force-math-number theory,totallynotan,Java 8,248,26009600
+36184964,17,1520741719,2147483647,A,1100,brute force-math-number theory,anto777,Java 8,248,26009600
+36181602,17,1520726709,2147483647,A,1100,brute force-math-number theory,S010M,Java 8,248,26009600
+36061941,17,1520488831,2147483647,A,1100,brute force-math-number theory,rastogi.fresh88,Java 8,248,26009600
+35978451,17,1520291761,2147483647,A,1100,brute force-math-number theory,omar21,Java 8,342,26112000
+35464520,17,1519026043,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,lehar_11,Java 8,466,26316800
+35464320,17,1519025443,2147483647,A,1100,brute force-math-number theory,lehar_11,Java 8,280,26009600
+35276265,17,1518641558,2147483647,A,1100,brute force-math-number theory,sebe97,Java 8,280,20582400
+35275965,17,1518640491,2147483647,A,1100,brute force-math-number theory,Officer_K,Java 8,310,26112000
+34958200,17,1517879829,2147483647,A,1100,brute force-math-number theory,Yoyo2014,Java 8,530,26112000
+34615989,17,1517081259,2147483647,A,1100,brute force-math-number theory,I_Love_evoL_I,Java 8,248,26009600
+34615906,17,1517081029,2147483647,A,1100,brute force-math-number theory,I_Love_evoL_I,Java 8,248,26009600
+34612932,17,1517073733,2147483647,A,1100,brute force-math-number theory,I_Love_evoL_I,Java 8,248,26009600
+34150776,17,1515855326,2147483647,A,1100,brute force-math-number theory,FIIAurelian,Java 8,248,20275200
+33390888,17,1513625781,2147483647,A,1100,brute force-math-number theory,Dwu123,Java 8,248,20275200
+32652688,17,1511628332,2147483647,A,1100,brute force-math-number theory,Mohd.,Java 8,248,26009600
+32149905,17,1510195081,2147483647,A,1100,brute force-math-number theory,tituschristian,Java 8,280,3686400
+31369353,17,1508078754,2147483647,A,1100,brute force-math-number theory,ashcodish,Java 8,280,26112000
+30899955,17,1506838071,2147483647,A,1100,brute force-math-number theory,vec_tor,Java 8,280,3686400
+30281370,17,1505204480,2147483647,A,1100,brute force-math-number theory,Stolaine,Java 8,278,3584000
+30238277,17,1505021270,2147483647,A,1100,brute force-math-number theory,praveenkulkarni,Java 8,280,3584000
+30202645,17,1504875106,2147483647,A,1100,brute force-math-number theory,IDzekh,Java 8,248,3584000
+30086058,17,1504565301,2147483647,A,1100,brute force-math-number theory,Bibhuti,Java 8,248,3481600
+30050642,17,1504519597,2147483647,A,1100,brute force-math-number theory,MQstafa,Java 8,280,3584000
+29812996,17,1503772955,2147483647,A,1100,brute force-math-number theory,pinerojuancruz1988,Java 8,310,3584000
+29223697,17,1501951739,2147483647,A,1100,brute force-math-number theory,AbdoSamii,Java 8,280,20480000
+29096559,17,1501584020,2147483647,A,1100,brute force-math-number theory,sarah_eldafrawy,Java 8,248,20480000
+28559471,17,1500079280,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,helmy,Java 8,434,26316800
+28391073,17,1499618361,2147483647,A,1100,brute force-math-number theory,amribrahim333,Java 8,280,26214400
+28372772,17,1499529718,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,HishamGhazy,Java 8,374,26214400
+28332311,17,1499359569,2147483647,A,1100,brute force-math-number theory,ashubeckham,Java 8,248,26009600
+28291571,17,1499216603,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,HishamGhazy,Java 8,436,26214400
+28007792,17,1498317777,2147483647,A,1100,brute force-math-number theory,Ebraheem95,Java 8,248,26112000
+27685218,17,1496996804,2147483647,A,1100,brute force-math-number theory,erickalv21,Java 8,218,3481600
+27677482,17,1496948081,5081,A,1100,brute force-math-number theory,Intrincantation,Java 8,248,3584000
+26965244,17,1494282052,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,pitfall,Java 8,248,3584000
+26944958,17,1494185240,2147483647,A,1100,brute force-math-number theory,zodiacleo,Java 8,218,3481600
+26944822,17,1494185115,2147483647,A,1100,brute force-math-number theory,zodiacleo,Java 8,218,3481600
+26525534,17,1492717811,2147483647,A,1100,brute force-math-number theory,pppepito86,Java 8,278,26112000
+26447379,17,1492410931,2147483647,A,1100,brute force-math-number theory,Scruel,Java 8,248,26214400
+26447256,17,1492410515,2147483647,A,1100,brute force-math-number theory,Scruel,Java 8,280,26112000
+26323554,17,1492020275,2147483647,A,1100,brute force-math-number theory,AhmedSoliman,Java 8,186,25804800
+26176422,17,1491500753,2147483647,A,1100,brute force-math-number theory,da_201501181,Java 8,218,26316800
+25889504,17,1490771417,2147483647,A,1100,brute force-math-number theory,buoy,Java 8,218,26316800
+25857905,17,1490639704,2147483647,D,2300,number theory,alexrcoleman,Java 8,654,31744000
+25600647,17,1489841740,2147483647,A,1100,brute force-math-number theory,Kammola,Java 8,218,26009600
+25595437,17,1489828486,2147483647,A,1100,brute force-math-number theory,ekaanshkhosla,Java 8,218,25702400
+25108480,17,1488308464,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,parth_1,Java 8,218,26112000
+24893504,17,1487768738,2147483647,A,1100,brute force-math-number theory,Amman20,Java 8,280,26112000
+24681541,17,1487106793,2147483647,A,1100,brute force-math-number theory,Hazemzz,Java 8,342,26112000
+24677154,17,1487093212,2147483647,A,1100,brute force-math-number theory,brijeshpanara24,Java 8,342,26214400
+23998835,17,1484946933,2147483647,A,1100,brute force-math-number theory,pitfall,Java 8,310,26726400
+23872227,17,1484536598,2147483647,E,2900,strings,hama-du,Java 8,622,90624000
+23279142,17,1482611202,2147483647,A,1100,brute force-math-number theory,dentei,Java 8,342,26214400
+22891552,17,1481480811,2147483647,A,1100,brute force-math-number theory,Ferrumit,Java 8,248,3584000
+22413380,17,1479852182,2147483647,A,1100,brute force-math-number theory,TeachMe,Java 8,216,3481600
+22034442,17,1478263723,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kocko,Java 8,340,3891200
+21983522,17,1478068559,2147483647,A,1100,brute force-math-number theory,ahmedshihab7,Java 8,186,3686400
+21983285,17,1478067693,2147483647,A,1100,brute force-math-number theory,ahmedshihab7,Java 8,248,3686400
+21981419,17,1478058787,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,EmThoDau,Java 8,218,3584000
+21977427,17,1478030564,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,thanhld94,Java 8,342,3788800
+21883377,17,1477776828,2147483647,A,1100,brute force-math-number theory,Corvus,Java 8,186,3481600
+21777032,17,1477416038,2147483647,A,1100,brute force-math-number theory,Petruchcho,Java 8,156,3584000
+21226693,17,1475732594,2147483647,A,1100,brute force-math-number theory,lynsrz,Java 8,248,3686400
+21102388,17,1475363977,2147483647,A,1100,brute force-math-number theory,KimoKomo,Java 8,248,3584000
+20795034,17,1474462754,2147483647,D,2300,number theory,Ahmad_Elsagheer,Java 8,748,11776000
+20778345,17,1474382052,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Ahmad_Elsagheer,Java 8,218,3379200
+20776453,17,1474377025,2147483647,A,1100,brute force-math-number theory,Hoda_Hisham,Java 8,218,3276800
+20490923,17,1473487810,2147483647,A,1100,brute force-math-number theory,Qazaqstan,Java 8,216,3481600
+20445593,17,1473280234,2147483647,C,2500,dp,mkirsche,Java 8,2930,46080000
+20289618,17,1472589298,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,stacy992,Java 8,186,3584000
+20264317,17,1472502803,2147483647,A,1100,brute force-math-number theory,stacy992,Java 8,248,3686400
+19872701,17,1471193978,2147483647,A,1100,brute force-math-number theory,Malbera,Java 8,186,25907200
+19564181,17,1470066784,2147483647,A,1100,brute force-math-number theory,gamal_abdelhamid,Java 7,280,0
+19562676,17,1470061454,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kunj_pansuriya,Java 8,404,3686400
+19562651,17,1470061375,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kunj_pansuriya,Java 8,434,3686400
+19547099,17,1470005027,2147483647,A,1100,brute force-math-number theory,h_mohamed,Java 8,218,3584000
+19546839,17,1470002796,2147483647,A,1100,brute force-math-number theory,h_mohamed,Java 8,248,3584000
+19538866,17,1469971276,2147483647,A,1100,brute force-math-number theory,Aiaa,Java 8,218,3584000
+19380062,17,1469349474,2147483647,A,1100,brute force-math-number theory,aias,Java 8,218,3584000
+19380034,17,1469349402,2147483647,A,1100,brute force-math-number theory,vjudge4,Java 8,218,3584000
+19188577,17,1468751974,2147483647,A,1100,brute force-math-number theory,anjali121,Java 8,218,3584000
+19188555,17,1468751889,2147483647,A,1100,brute force-math-number theory,system121,Java 8,216,3584000
+18658352,17,1466665103,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,abdoucoder,Java 8,374,3686400
+18640584,17,1466572712,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Ron_M,Java 8,342,3686400
+18617705,17,1466440890,2147483647,A,1100,brute force-math-number theory,alexrcoleman,Java 8,218,3788800
+18278196,17,1465271643,2147483647,A,1100,brute force-math-number theory,TVH,Java 8,218,26214400
+17988159,17,1463647827,2147483647,A,1100,brute force-math-number theory,danuwfna,Java 8,186,26112000
+17930593,17,1463398364,2147483647,A,1100,brute force-math-number theory,AJ_Coder,Java 7,216,38604800
+17472344,17,1461430228,2147483647,A,1100,brute force-math-number theory,HAZEM_GUC,Java 8,218,26214400
+17135908,17,1459624146,2147483647,A,1100,brute force-math-number theory,niting112,Java 7,248,39014400
+16862441,17,1458586296,2147483647,A,1100,brute force-math-number theory,Ahmad_Elsagheer,Java 8,216,25907200
+16681040,17,1457813273,2147483647,A,1100,brute force-math-number theory,anuj64,Java 8,216,3686400
+16681012,17,1457813176,2147483647,A,1100,brute force-math-number theory,anuj64,Java 7,218,0
+16553346,17,1457273008,2147483647,A,1100,brute force-math-number theory,love11mishra,Java 8,342,0
+16428755,17,1456760995,2147483647,A,1100,brute force-math-number theory,Don_Vader_is_Me,Java 7,248,0
+16428744,17,1456760935,2147483647,A,1100,brute force-math-number theory,Zlobber,Java 8,280,0
+16333580,17,1456415634,2147483647,A,1100,brute force-math-number theory,Reyiz,Java 8,280,0
+16333493,17,1456415310,2147483647,A,1100,brute force-math-number theory,Reyiz,Java 8,280,0
+16329416,17,1456400879,2147483647,A,1100,brute force-math-number theory,Reyiz,Java 8,248,0
+16300021,17,1456261754,2147483647,A,1100,brute force-math-number theory,Reyiz,Java 8,280,0
+15952061,17,1455176361,2147483647,A,1100,brute force-math-number theory,kavsub,Java 7,342,0
+15853501,17,1454829449,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Ereke,Java 7,216,0
+15842304,17,1454762191,2147483647,A,1100,brute force-math-number theory,Ereke,Java 7,218,0
+15842269,17,1454762020,2147483647,A,1100,brute force-math-number theory,Ereke,Java 7,216,0
+15448267,17,1453268710,2147483647,A,1100,brute force-math-number theory,Nussi,Java 8,248,0
+15444173,17,1453237684,2147483647,A,1100,brute force-math-number theory,dsprufus,Java 8,248,0
+15443127,17,1453230274,2147483647,A,1100,brute force-math-number theory,unsupo,Java 7,186,0
+15442822,17,1453228366,2147483647,A,1100,brute force-math-number theory,pyro_Vertigo7,Java 8,218,0
+15430643,17,1453137992,2147483647,A,1100,brute force-math-number theory,ATailouloute,Java 8,248,0
+15345269,17,1452780537,2147483647,C,2500,dp,sroyal,Java 8,2026,128819200
+15220703,17,1452142130,2147483647,A,1100,brute force-math-number theory,safarisoul,Java 8,218,0
+15141637,17,1451598240,2147483647,A,1100,brute force-math-number theory,HappyNewYearMike,Java 8,216,0
+14964294,17,1450935757,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,poikniok,Java 8,312,0
+14922000,17,1450770164,2147483647,A,1100,brute force-math-number theory,partha_sarathi,Java 8,280,0
+13903182,17,1445969656,2147483647,A,1100,brute force-math-number theory,ankitiitd03,Java 8,248,0
+13662133,17,1444989260,2147483647,A,1100,brute force-math-number theory,SergeevM,Java 8,340,0
+13311072,17,1443604745,2147483647,D,2300,number theory,jetblack20,Java 8,1246,0
+13226047,17,1443222840,2147483647,A,1100,brute force-math-number theory,finalidol,Java 8,248,0
+13107622,17,1442695791,2147483647,A,1100,brute force-math-number theory,dedo,Java 8,280,0
+13102856,17,1442671947,2147483647,A,1100,brute force-math-number theory,TWO_POINTER,Java 8,218,0
+12956325,17,1441964823,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,jetblack20,Java 8,404,0
+12680931,17,1440401256,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,di_halt,Java 8,312,0
+12674036,17,1440338476,2147483647,A,1100,brute force-math-number theory,di_halt,Java 8,248,0
+12331016,17,1438638179,2147483647,A,1100,brute force-math-number theory,.tx,Java 8,218,0
+12129406,17,1437390732,2147483647,D,2300,number theory,andreas.chelsau,Java 8,1154,0
+11948478,17,1436188631,2147483647,A,1100,brute force-math-number theory,Empress,Java 7,186,0
+11888305,17,1435787943,2147483647,A,1100,brute force-math-number theory,Aya_Osama,Java 8,248,0
+11869406,17,1435688499,2147483647,A,1100,brute force-math-number theory,safaa,Java 8,280,0
+11861367,17,1435680296,2147483647,A,1100,brute force-math-number theory,safaa,Java 8,280,0
+11851095,17,1435671598,2147483647,A,1100,brute force-math-number theory,sheroukelshiekh,Java 7,186,0
+11844101,17,1435630229,2147483647,A,1100,brute force-math-number theory,MennaElKammah,Java 8,280,0
+11839019,17,1435593855,2147483647,A,1100,brute force-math-number theory,AmirA_Fathi,Java 8,248,0
+11598889,17,1434398226,2147483647,A,1100,brute force-math-number theory,Gendo.,Java 7,154,0
+11513426,17,1433869796,2147483647,A,1100,brute force-math-number theory,sking32,Java 8,218,0
+11382329,17,1433183323,2147483647,A,1100,brute force-math-number theory,IrhamMA,Java 7,186,0
+11380526,17,1433171337,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,tomdmitriev,Java 8,218,0
+11364972,17,1433066368,2147483647,C,2500,dp,ProjectYoung,Java 8,2650,132608000
+11361268,17,1433023645,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,ProjectYoung,Java 8,248,0
+11327045,17,1432771448,2147483647,E,2900,strings,ProjectYoung,Java 8,810,113049600
+11308069,17,1432669290,2147483647,E,2900,strings,ProjectYoung,Java 8,872,112947200
+11229580,17,1432335981,2147483647,D,2300,number theory,ProjectYoung,Java 8,748,2048000
+11142577,17,1432030591,2147483647,A,1100,brute force-math-number theory,aakashkhatri,Java 7,186,0
+11142570,17,1432030548,2147483647,A,1100,brute force-math-number theory,aakashkhatri,Java 7,156,0
+11101744,17,1431630985,1585,B,1600,dfs and similar-dsu-greedy-shortest paths,ProjectYoung,Java 8,248,0
+11101634,17,1431629849,449,A,1100,brute force-math-number theory,ProjectYoung,Java 8,248,0
+10900918,17,1430092812,2147483647,E,2900,strings,dspstanky,Java 7,810,121753600
+10900458,17,1430086169,2147483647,C,2500,dp,dspstanky,Java 7,1372,49664000
+10737356,17,1429153303,2147483647,D,2300,number theory,dspstanky,Java 7,842,3379200
+10737228,17,1429149728,2147483647,D,2300,number theory,dspstanky,Java 7,842,3379200
+10649526,17,1428676535,2147483647,A,1100,brute force-math-number theory,Abu-Gasem1,Java 8,278,0
+10623897,17,1428428388,2147483647,A,1100,brute force-math-number theory,numnuts,Java 8,280,0
+10623872,17,1428428258,2147483647,D,2300,number theory,deckeresq,Java 8,904,2150400
+10623793,17,1428427755,2147483647,A,1100,brute force-math-number theory,BeastPansy,Java 8,280,0
+10623790,17,1428427737,2147483647,A,1100,brute force-math-number theory,stoneman3,Java 8,278,0
+10623687,17,1428427060,2147483647,A,1100,brute force-math-number theory,erdromian,Java 8,218,0
+10623657,17,1428426864,2147483647,A,1100,brute force-math-number theory,SlapHappySid,Java 7,186,0
+10623630,17,1428426659,2147483647,A,1100,brute force-math-number theory,akri,Java 8,248,0
+10623629,17,1428426650,2147483647,A,1100,brute force-math-number theory,Bottleface,Java 8,248,0
+10623627,17,1428426638,2147483647,A,1100,brute force-math-number theory,grymn,Java 7,186,0
+10623539,17,1428426144,2147483647,A,1100,brute force-math-number theory,robdraven,Java 8,312,0
+10623510,17,1428425900,2147483647,A,1100,brute force-math-number theory,knelson,Java 8,248,0
+10623494,17,1428425791,2147483647,A,1100,brute force-math-number theory,sellout1,Java 7,154,0
+10623386,17,1428424929,2147483647,A,1100,brute force-math-number theory,deckeresq,Java 8,248,0
+10607325,17,1428279506,2147483647,A,1100,brute force-math-number theory,cgarrido,Java 7,154,0
+10596256,17,1428195783,2147483647,A,1100,brute force-math-number theory,dspstanky,Java 7,154,0
+10555591,17,1428012581,2147483647,D,2300,number theory,Dukkha,Java 8,842,2048000
+10555224,17,1428008742,2147483647,A,1100,brute force-math-number theory,Dukkha,Java 8,218,0
+10471016,17,1427392215,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,rylaur,Java 8,248,0
+10466301,17,1427390027,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,jdes,Java 7,278,0
+10463898,17,1427389105,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,DarkMatter70,Java 8,248,0
+10461423,17,1427388292,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,magnum50,Java 8,248,0
+10459206,17,1427386863,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,a00938472,Java 8,248,0
+10458702,17,1427383914,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,msaldivar,Java 8,310,0
+10458074,17,1427379250,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,jtg111,Java 8,248,0
+10455308,17,1427359423,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,suin3g,Java 7,156,0
+10453941,17,1427343689,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,viqer,Java 8,248,0
+10453808,17,1427341482,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kingjames,Java 8,312,0
+10453745,17,1427340573,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,manncito,Java 8,248,0
+10453536,17,1427337114,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,makeyouparrish,Java 8,248,0
+10453408,17,1427334453,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,corrosive_e,Java 7,156,0
+10453398,17,1427334353,2147483647,A,1100,brute force-math-number theory,ralonso,Java 8,218,0
+10452689,17,1427320734,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,zacneubert,Java 8,248,0
+10452196,17,1427315310,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,codecrack47,Java 8,342,0
+10451789,17,1427312171,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Owmen,Java 8,248,0
+10450865,17,1427305524,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kal_3l,Java 7,186,0
+10450664,17,1427303570,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,caden311,Java 8,280,0
+10450616,17,1427303165,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,bobbytables,Java 8,374,0
+10450413,17,1427301658,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,dspstanky,Java 7,156,0
+10429640,17,1427267516,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Silverdoe,Java 8,248,0
+10429086,17,1427261073,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,jrthom18,Java 8,248,0
+10428987,17,1427259390,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,sea_dog,Java 8,310,0
+10428682,17,1427253333,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,sheri74,Java 8,248,0
+10428655,17,1427252896,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,naiyt,Java 8,404,0
+10428618,17,1427252139,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,sjdp,Java 7,218,0
+10428494,17,1427248795,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,tbadams13,Java 8,248,0
+10428360,17,1427246416,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,jbottel,Java 7,186,0
+10427989,17,1427240373,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,cpt_fwiffo,Java 8,248,0
+10425718,17,1427219735,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,thundercloud89,Java 8,248,0
+10425630,17,1427219080,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,dsprufus,Java 8,280,0
+10418506,17,1427160916,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,rehpotsirhc,Java 8,248,0
+10418503,17,1427160875,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,rehpotsirhc,Java 8,280,0
+10413395,17,1427135149,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,abbas88,Java 8,310,0
+10407347,17,1427094365,2147483647,A,1100,brute force-math-number theory,PTaiba,Java 7,154,0
+10406657,17,1427086470,2147483647,A,1100,brute force-math-number theory,OmniSliver,Java 7,154,0
+10406453,17,1427083269,2147483647,A,1100,brute force-math-number theory,frodriguez,Java 8,218,0
+10406376,17,1427082108,2147483647,A,1100,brute force-math-number theory,javierl,Java 8,218,0
+10405545,17,1427069842,2147483647,A,1100,brute force-math-number theory,Phuepe,Java 7,154,0
+10405361,17,1427066337,2147483647,A,1100,brute force-math-number theory,etneciv,Java 8,216,0
+10404691,17,1427058086,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,he_19,Java 8,218,0
+10404637,17,1427057570,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,he_19,Java 8,218,0
+10402975,17,1427042913,2147483647,A,1100,brute force-math-number theory,francosep,Java 8,218,0
+10401264,17,1427033157,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,erdromian,Java 8,280,0
+10401250,17,1427033116,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,erdromian,Java 8,248,0
+10391447,17,1426994195,2147483647,A,1100,brute force-math-number theory,Daniton,Java 8,248,0
+10390829,17,1426988157,2147483647,A,1100,brute force-math-number theory,antoniaF,Java 8,280,0
+10390758,17,1426987442,2147483647,A,1100,brute force-math-number theory,evilchezv,Java 7,156,0
+10364754,17,1426845842,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,hapunajwej,Java 8,248,0
+10362556,17,1426824836,2147483647,A,1100,brute force-math-number theory,adderou,Java 8,280,0
+10362355,17,1426821800,2147483647,A,1100,brute force-math-number theory,Naix99,Java 7,154,0
+10362167,17,1426818974,2147483647,A,1100,brute force-math-number theory,inanc,Java 7,186,0
+10361531,17,1426807013,2147483647,A,1100,brute force-math-number theory,nachovalde,Java 7,154,0
+10361163,17,1426801867,2147483647,A,1100,brute force-math-number theory,Kasanizo,Java 8,218,0
+10360838,17,1426798562,2147483647,A,1100,brute force-math-number theory,emoreno,Java 8,218,0
+10356846,17,1426790847,2147483647,A,1100,brute force-math-number theory,dvasquez,Java 8,218,0
+10350737,17,1426780857,2147483647,A,1100,brute force-math-number theory,CParra,Java 7,154,0
+10343522,17,1426717304,2147483647,A,1100,brute force-math-number theory,spenafiel,Java 7,154,0
+10342259,17,1426706778,2147483647,A,1100,brute force-math-number theory,Thibo,Java 7,186,0
+10341369,17,1426701738,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Dukkha,Java 8,248,0
+10331902,17,1426648194,2147483647,A,1100,brute force-math-number theory,Lyserg.Z,Java 8,218,0
+10307160,17,1426571356,2147483647,A,1100,brute force-math-number theory,Sorombo,Java 7,154,0
+10304666,17,1426534695,2147483647,A,1100,brute force-math-number theory,Jocca,Java 8,340,0
+10033950,17,1424962989,2147483647,A,1100,brute force-math-number theory,RezaCompress,Java 7,186,0
+9945959,17,1424507271,2147483647,A,1100,brute force-math-number theory,poikniok,Java 8,248,0
+9870128,17,1424084755,2147483647,A,1100,brute force-math-number theory,vjudge1,Java 8,248,0
+9737929,17,1423237899,2147483647,A,1100,brute force-math-number theory,LuuNhatPhi,Java 7,154,0
+9276184,17,1419601210,2147483647,A,1100,brute force-math-number theory,TranCongDuy,Java 6,154,0
+9149875,17,1418725619,2147483647,A,1100,brute force-math-number theory,shishu94,Java 6,186,0
+9051369,17,1418084866,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Badry,Java 7,186,0
+8855236,17,1416964769,2147483647,A,1100,brute force-math-number theory,Mhammad1,Java 8,374,102400
+8847666,17,1416928809,2147483647,A,1100,brute force-math-number theory,thnkndblv,Java 7,218,0
+8831429,17,1416810672,2147483647,A,1100,brute force-math-number theory,stevegregg,Java 6,186,0
+8749501,17,1416335281,2147483647,A,1100,brute force-math-number theory,amaury.vegzav,Java 7,156,0
+8556233,17,1415180528,2147483647,A,1100,brute force-math-number theory,ganeshpachpind,Java 6,186,0
+8455161,17,1414513715,2147483647,A,1100,brute force-math-number theory,archu.aspa,Java 6,436,0
+8409302,17,1414235039,2147483647,A,1100,brute force-math-number theory,bullshit.ass,Java 6,498,0
+8047824,17,1412171584,2147483647,A,1100,brute force-math-number theory,ankitstone,Java 7,154,0
+8032077,17,1412052860,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,mikcorer,Java 7,186,0
+7847490,17,1411095172,2147483647,A,1100,brute force-math-number theory,santjuan,Java 7,156,0
+7476816,17,1408135332,2147483647,C,2500,dp,AlexFetisov,Java 8,2152,921600
+7430508,17,1407789146,2147483647,A,1100,brute force-math-number theory,JuanCa11,Java 7,154,0
+7414916,17,1407687042,2147483647,A,1100,brute force-math-number theory,Piyuple,Java 7,154,0
+7053362,17,1404911544,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,vjudge5,Java 7,310,102400
+7053320,17,1404911109,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,vjudge1,Java 7,280,102400
+7053135,17,1404909027,2147483647,A,1100,brute force-math-number theory,vjudge4,Java 7,216,0
+7016544,17,1404570253,2147483647,A,1100,brute force-math-number theory,csflily,Java 6,154,0
+7004942,17,1404398030,2147483647,A,1100,brute force-math-number theory,Pimpom,Java 8,280,0
+6951791,17,1403600672,2147483647,A,1100,brute force-math-number theory,marcose18,Java 7,186,0
+6947290,17,1403524216,2147483647,A,1100,brute force-math-number theory,OnceMoreTime,Java 7,216,0
+6890435,17,1402753258,2147483647,A,1100,brute force-math-number theory,robert_nabil20022002,Java 7,186,0
+6868901,17,1402579431,2147483647,A,1100,brute force-math-number theory,Spacejoker,Java 7,156,0
+6737266,17,1401401470,2147483647,A,1100,brute force-math-number theory,zahraawahshh,Java 6,154,0
+6677473,17,1400705817,2147483647,A,1100,brute force-math-number theory,HandleThis,Java 6,216,0
+6415151,17,1397883787,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,ykcland,Java 7,280,512000
+6248009,17,1396509440,2147483647,A,1100,brute force-math-number theory,the_fighter,Java 6,124,0
+6085250,17,1395281267,2147483647,C,2500,dp,Cricycle,Java 7,1776,64614400
+5970764,17,1394392447,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kyoo,Java 7,1090,1740800
+5970282,17,1394385950,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,rosita1802,Java 7,310,204800
+5854936,17,1391157082,2147483647,A,1100,brute force-math-number theory,VeraK,Java 7,124,0
+5782991,17,1390546140,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,teetora,Java 7,280,102400
+5780863,17,1390518659,2147483647,A,1100,brute force-math-number theory,bli0042,Java 6,156,0
+5528185,17,1388119996,2147483647,A,1100,brute force-math-number theory,porepore1984,Java 7,124,0
+5527052,17,1388089887,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,GhpS,Java 7,156,0
+5500382,17,1387865118,2147483647,A,1100,brute force-math-number theory,tomdmitriev,Java 7,156,102400
+5379346,17,1386466287,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,upsolving,Java 7,248,0
+5196303,17,1385185474,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,yona,Java 7,156,0
+5196244,17,1385184667,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,pancakes,Java 7,248,409600
+5196143,17,1385183496,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,hadrianang,Java 7,156,0
+5196071,17,1385182313,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,veeann,Java 7,124,0
+5195744,17,1385176795,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,ginree,Java 7,156,204800
+5195478,17,1385172602,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,kylesky,Java 7,124,0
+5021350,17,1383814551,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,cupcup,Java 7,280,204800
+4995601,17,1383676791,2147483647,A,1100,brute force-math-number theory,cupcup,Java 6,218,204800
+4916993,17,1382904980,2147483647,A,1100,brute force-math-number theory,VictorMMorant,Java 7,78,0
+4841630,17,1382435451,2147483647,A,1100,brute force-math-number theory,mr_caos,Java 7,156,102400
+4812061,17,1381995773,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,xnike,Java 7,374,102400
+4790358,17,1381839230,2147483647,A,1100,brute force-math-number theory,garusiv,Java 7,156,102400
+4788002,17,1381823476,2147483647,A,1100,brute force-math-number theory,xnike,Java 7,156,0
+4676843,17,1380941947,2147483647,A,1100,brute force-math-number theory,feline,Java 6,156,0
+4653683,17,1380857239,2147483647,A,1100,brute force-math-number theory,atubo,Java 6,186,0
+4569710,17,1380227777,2147483647,A,1100,brute force-math-number theory,snooze,Java 7,156,0
+4554475,17,1380107380,2147483647,D,2300,number theory,alibaba,Java 6,1216,4096000
+4548118,17,1380020492,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,alibaba,Java 6,280,102400
+4546897,17,1380002079,2147483647,A,1100,brute force-math-number theory,alibaba,Java 6,186,0
+4478784,17,1379262066,2147483647,A,1100,brute force-math-number theory,Ahmed.Youssry,Java 7,186,19968000
+4436238,17,1378742183,2147483647,A,1100,brute force-math-number theory,sorin,Java 6,156,0
+4370629,17,1377868761,2147483647,C,2500,dp,Zyflair,Java 7,1840,2048000
+4366707,17,1377790733,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Zyflair,Java 7,186,0
+4366422,17,1377786470,2147483647,A,1100,brute force-math-number theory,Zyflair,Java 7,156,0
+4359270,17,1377648887,2147483647,A,1100,brute force-math-number theory,travm12,Java 7,218,0
+4331464,17,1377330315,2147483647,A,1100,brute force-math-number theory,vvenkai,Java 7,156,0
+4270130,17,1376319992,2147483647,A,1100,brute force-math-number theory,ssohn,Java 7,156,0
+4231717,17,1375685318,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,pretorium,Java 7,342,204800
+4231673,17,1375684871,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,pretorium,Java 7,312,204800
+4231655,17,1375684683,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,pretorium,Java 7,342,409600
+4229194,17,1375636819,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,pretorium,Java 7,312,102400
+4147970,17,1374679029,2147483647,D,2300,number theory,cxlove,Java 7,187,3993600
+4147956,17,1374678898,2147483647,D,2300,number theory,cxlove,Java 7,203,3993600
+4082474,17,1374004877,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,mkirsche,Java 6,93,2355200
+4039479,17,1373296919,2147483647,A,1100,brute force-math-number theory,sonhuytran,Java 7,109,102400
+3966646,17,1372326088,2147483647,A,1100,brute force-math-number theory,av.driftking,Java 7,78,0
+3962135,17,1372214737,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,ilovepink,Java 7,218,204800
+3823604,17,1370407104,2147483647,A,1100,brute force-math-number theory,0p9o8i,Java 7,156,102400
+3713332,17,1368377142,2147483647,A,1100,brute force-math-number theory,Enavik,Java 7,78,0
+3701398,17,1368263344,2147483647,A,1100,brute force-math-number theory,CurbStomp,Java 7,93,0
+3354637,17,1363663799,2147483647,A,1100,brute force-math-number theory,FabianConP,Java 6,78,0
+3326283,17,1363444799,2147483647,A,1100,brute force-math-number theory,FabianConP,Java 6,93,0
+3323423,17,1363401909,2147483647,A,1100,brute force-math-number theory,Maikol1804,Java 7,140,0
+3323378,17,1363398145,2147483647,A,1100,brute force-math-number theory,fabiankasUN,Java 6,156,716800
+3222692,17,1362118343,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,su_58,Java 6,109,0
+3174570,17,1361581661,2147483647,A,1100,brute force-math-number theory,mkirsche,Java 6,93,0
+3139238,17,1361100518,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,z7oka,Java 6,187,102400
+3138481,17,1361065424,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,z7oka,Java 6,203,102400
+2927747,17,1358271977,2147483647,D,2300,number theory,hama-du,Java 6,703,6451200
+2927639,17,1358268818,2147483647,C,2500,dp,hama-du,Java 6,2901,2457600
+2927631,17,1358268668,2147483647,C,2500,dp,hama-du,Java 6,2953,102400
+2878463,17,1357479768,2147483647,A,1100,brute force-math-number theory,xamxam23,Java 6,125,2457600
+2850749,17,1356730586,2147483647,C,2500,dp,niyaznigmatul,Java 7,1109,2457600
+2830621,17,1356544666,1666,B,1600,dfs and similar-dsu-greedy-shortest paths,hama-du,Java 6,187,204800
+2830489,17,1356543385,385,A,1100,brute force-math-number theory,hama-du,Java 6,109,0
+2822709,17,1356360257,2147483647,E,2900,strings,mostafa_fahim,Java 7,562,63897600
+2551080,17,1352796975,2147483647,A,1100,brute force-math-number theory,TUITUF_Bahrom,Java 6,93,0
+2521689,17,1352359305,2147483647,A,1100,brute force-math-number theory,su_58,Java 7,93,0
+2453669,17,1351363099,2299,B,1600,dfs and similar-dsu-greedy-shortest paths,aste,Java 7,187,102400
+2453593,17,1351361520,720,A,1100,brute force-math-number theory,aste,Java 7,109,0
+2359160,17,1350233588,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,Bambam,Java 7,109,0
+2157053,17,1347508329,2147483647,A,1100,brute force-math-number theory,lemonsuper,Java 7,140,45772800
+2145775,17,1347387674,2147483647,A,1100,brute force-math-number theory,tryagainlater,Java 6,130,43110400
+2129342,17,1347347933,1732,A,1100,brute force-math-number theory,mingotlik,Java 6,160,43315200
+1911303,17,1342695411,2147483647,D,2300,number theory,Azat_Yusupov,Java 6,1880,47308800
+1666544,17,1336309805,2147483647,A,1100,brute force-math-number theory,bidzilya,Java 7,90,44851200
+1613299,17,1335094798,2147483647,A,1100,brute force-math-number theory,anna239,Java 6,90,43110400
+1478559,17,1333652729,2147483647,A,1100,brute force-math-number theory,littlepanda,Java 7,90,44851200
+1431814,17,1332867471,2147483647,A,1100,brute force-math-number theory,Polaris,Java 6,110,43212800
+1422820,17,1332855346,2147483647,A,1100,brute force-math-number theory,Amarchuk,Java 7,130,44851200
+1422511,17,1332848777,2147483647,A,1100,brute force-math-number theory,pritykovskaya,Java 6,90,43212800
+1422462,17,1332847688,2147483647,A,1100,brute force-math-number theory,orlova,Java 6,90,43212800
+1419852,17,1332765252,2147483647,A,1100,brute force-math-number theory,knop,Java 6,90,43212800
+1419287,17,1332754703,2147483647,A,1100,brute force-math-number theory,daddy-bear,Java 6,90,43212800
+1419243,17,1332753936,2147483647,A,1100,brute force-math-number theory,achugr,Java 6,90,43212800
+1416753,17,1332698637,2147483647,A,1100,brute force-math-number theory,vans239,Java 6,90,43212800
+1405735,17,1332606618,2147483647,A,1100,brute force-math-number theory,epiq.bear,Java 6,90,43212800
+1378381,17,1332126482,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,todo,Java 6,190,43417600
+1375155,17,1332066788,2147483647,A,1100,brute force-math-number theory,fofanova.mn,Java 6,90,43315200
+1372599,17,1331982656,2147483647,A,1100,brute force-math-number theory,dmitrii_tolmachev,Java 7,90,44851200
+1258059,17,1330712643,6843,B,1600,dfs and similar-dsu-greedy-shortest paths,Azat_Yusupov,Java 6,220,45056000
+1257734,17,1330706399,599,A,1100,brute force-math-number theory,Azat_Yusupov,Java 6,90,44953600
+1256198,17,1330671653,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,peking2,Java 6,200,45056000
+1252033,17,1330558718,2147483647,A,1100,brute force-math-number theory,peking2,Java 6,110,44953600
+1239696,17,1330360382,2147483647,A,1100,brute force-math-number theory,tis,Java 6,110,44953600
+1218242,17,1329956147,2147483647,D,2300,number theory,partizan22,Java 6,410,48844800
+1124946,17,1327823816,2147483647,A,1100,brute force-math-number theory,jcomputer000,Java 6,110,43110400
+1119847,17,1327636586,2147483647,A,1100,brute force-math-number theory,todo,Java 6,90,43110400
+1115190,17,1327424091,2147483647,A,1100,brute force-math-number theory,Venom,Java 6,190,43622400
+1028635,17,1326226561,2147483647,A,1100,brute force-math-number theory,panther.uz,Java 6,90,43110400
+1013441,17,1325782442,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,stevenkplus,Java 6,220,43212800
+995669,17,1325589020,2147483647,A,1100,brute force-math-number theory,Betlista,Java 6,90,43008000
+988180,17,1324985259,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,mostafa_fahim,Java 6,230,43315200
+973656,17,1324696426,2147483647,A,1100,brute force-math-number theory,ilovepink,Java 6,110,43212800
+970530,17,1324471812,2147483647,B,1600,dfs and similar-dsu-greedy-shortest paths,nativea,Java 6,90,43212800
+936677,17,1323412728,47230728,A,1100,brute force-math-number theory,stevenkplus,Java 6,130,43110400
+933252,17,1323184480,47002480,A,1100,brute force-math-number theory,upsolving,Java 6,110,35225600
+914349,17,1322835913,46653913,A,1100,brute force-math-number theory,pasha,Java 6,140,35328000
+884820,17,1321905495,45723495,B,1600,dfs and similar-dsu-greedy-shortest paths,Izot_NNSTU,Java 6,190,43212800
+877711,17,1321631371,45449371,A,1100,brute force-math-number theory,michael_tan,Java 6,140,43110400
+856903,17,1320958852,44776852,A,1100,brute force-math-number theory,userlond,Java 6,110,43110400
+833422,17,1320376722,44194722,D,2300,number theory,DoublePointer,Java 6,890,43110400
+756079,17,1318363977,42181977,A,1100,brute force-math-number theory,Izot_NNSTU,Java 6,130,35328000
+752066,17,1318106535,41924535,A,1100,brute force-math-number theory,wackloner,Java 6,130,35328000
+737381,17,1317742553,41560553,D,2300,number theory,kiko91_7,Java 6,690,39219200
+736977,17,1317722863,41540863,D,2300,number theory,islam-al-aarag,Java 6,580,35225600
+691757,17,1315870459,39688459,E,2900,strings,OgieKako,Java 6,770,109056000
+691753,17,1315870147,39688147,E,2900,strings,OgieKako,Java 6,690,109056000
+691534,17,1315855430,39673430,C,2500,dp,OgieKako,Java 6,2360,35225600
+686678,17,1315588116,39406116,B,1600,dfs and similar-dsu-greedy-shortest paths,ahmad_mamdouh,Java 6,190,35430400
+641606,17,1314612814,38430814,A,1100,brute force-math-number theory,Sinner,Java 6,90,34918400
+638680,17,1314343816,38161816,A,1100,brute force-math-number theory,boost,Java 6,110,35328000
+638669,17,1314343376,38161376,A,1100,brute force-math-number theory,boost,Java 6,110,35328000
+614904,17,1313728315,37546315,B,1600,dfs and similar-dsu-greedy-shortest paths,Ahmed_Salama,Java 6,230,35328000
+603432,17,1313114251,36932251,A,1100,brute force-math-number theory,Ahmed_Salama,Java 6,110,44748800
+587569,17,1312613921,36431921,D,2300,number theory,jackiesteed,Java 6,630,43110400
+585801,17,1312507258,36325258,B,1600,dfs and similar-dsu-greedy-shortest paths,tux1986,Java 6,110,43110400
+584901,17,1312464621,36282621,A,1100,brute force-math-number theory,Dunaril,Java 6,130,43008000
+574387,17,1312166812,35984812,A,1100,brute force-math-number theory,spark_coder,Java 6,130,43008000
+567893,17,1311826670,35644670,B,1600,dfs and similar-dsu-greedy-shortest paths,islam-al-aarag,Java 6,170,43212800
+566412,17,1311695884,35513884,B,1600,dfs and similar-dsu-greedy-shortest paths,kiko91_7,Java 6,200,43212800
+552834,17,1311227331,35045331,A,1100,brute force-math-number theory,islam-al-aarag,Java 6,110,43008000
+552554,17,1311183205,35001205,B,1600,dfs and similar-dsu-greedy-shortest paths,Nox,Java 6,110,43212800
+544077,17,1310545660,34363660,A,1100,brute force-math-number theory,altais,Java 6,90,43008000
+543575,17,1310495248,34313248,A,1100,brute force-math-number theory,Nox,Java 6,90,43008000
+528513,17,1309843722,33661722,A,1100,brute force-math-number theory,Darko,Java 6,110,43008000
+514639,17,1309440638,33258638,A,1100,brute force-math-number theory,sroyal,Java 6,110,43008000
+514245,17,1309372739,33190739,A,1100,brute force-math-number theory,keep.deep,Java 6,110,43008000
+497201,17,1308409959,32227959,A,1100,brute force-math-number theory,kiko91_7,Java 6,90,43008000
+495319,17,1308291382,32109382,B,1600,dfs and similar-dsu-greedy-shortest paths,Slamur,Java 6,110,43110400
+494763,17,1308256094,32074094,B,1600,dfs and similar-dsu-greedy-shortest paths,Slamur,Java 6,130,43110400
+484896,17,1307707333,31525333,D,2300,number theory,UESTC_Defense,Java 6,380,35225600
+484855,17,1307704944,31522944,B,1600,dfs and similar-dsu-greedy-shortest paths,UESTC_Defense,Java 6,220,35328000
+484844,17,1307703634,31521634,A,1100,brute force-math-number theory,UESTC_Defense,Java 6,110,35225600
+474655,17,1307037615,30855615,A,1100,brute force-math-number theory,Larx,Java 6,90,43315200
+473932,17,1306930183,30748183,A,1100,brute force-math-number theory,golyj_na_stole,Java 6,110,43315200
+473930,17,1306930130,30748130,A,1100,brute force-math-number theory,golyj_na_stole,Java 6,90,43315200
+473838,17,1306917593,30735593,A,1100,brute force-math-number theory,elrodeo,Java 6,110,43315200
+470207,17,1306381896,30199896,B,1600,dfs and similar-dsu-greedy-shortest paths,DoublePointer,Java 6,230,35328000
+470191,17,1306379296,30197296,B,1600,dfs and similar-dsu-greedy-shortest paths,tehqin,Java 6,220,35328000
+470182,17,1306376303,30194303,A,1100,brute force-math-number theory,tehqin,Java 6,130,35225600
+470181,17,1306376087,30194087,A,1100,brute force-math-number theory,DoublePointer,Java 6,110,35225600
+459600,17,1305825234,29643234,A,1100,brute force-math-number theory,lady_inceptum,Java 6,130,35225600
+458536,17,1305709923,29527923,A,1100,brute force-math-number theory,kyprah,Java 6,80,43315200
+407600,17,1303751854,27569854,A,1100,brute force-math-number theory,Wahba,Java 6,1630,43724800
+382690,17,1302698417,26516417,A,1100,brute force-math-number theory,flash36,Java 6,110,43315200
+347516,17,1300738752,24556752,B,1600,dfs and similar-dsu-greedy-shortest paths,hari6988,Java 6,270,43315200
+347498,17,1300737374,24555374,A,1100,brute force-math-number theory,hari6988,Java 6,90,43315200
+332267,17,1300018278,23836278,A,1100,brute force-math-number theory,ahmedkotb,Java 6,110,43315200
+331918,17,1299963777,23781777,A,1100,brute force-math-number theory,Slamur,Java 6,90,43417600
+284436,17,1297645931,21463931,A,1100,brute force-math-number theory,ahmad_mamdouh,Java 6,80,43315200
+276906,17,1297101990,20919990,A,1100,brute force-math-number theory,marque,Java 6,110,43417600
+274730,17,1296798290,20616290,A,1100,brute force-math-number theory,Sulta,Java 6,110,43417600
+259504,17,1295696201,19514201,A,1100,brute force-math-number theory,rinigan,Java 6,130,43417600
+253587,17,1295214986,19032986,A,1100,brute force-math-number theory,nickbuelich,Java 6,110,43417600
+252444,17,1295068310,18886310,A,1100,brute force-math-number theory,dart,Java 6,130,43417600
+247897,17,1294849324,18667324,B,1600,dfs and similar-dsu-greedy-shortest paths,caustique,Java 6,90,43417600
+243750,17,1294662622,18480622,A,1100,brute force-math-number theory,dalex,Java 6,90,43417600
+240521,17,1294362152,18180152,A,1100,brute force-math-number theory,caustique,Java 6,200,43622400
+240520,17,1294362125,18180125,A,1100,brute force-math-number theory,Hadi_Asiaie,Java 6,200,43622400
+79540,17,1292437339,16255339,B,1600,dfs and similar-dsu-greedy-shortest paths,Spacejoker,Java 6,160,43315200
+79479,17,1288060837,11878837,A,1100,brute force-math-number theory,Dominator008,Java 6,90,43315200
+79478,17,1288060747,11878747,A,1100,brute force-math-number theory,Dominator008,Java 6,110,43315200
+79470,17,1288054746,11872746,A,1100,brute force-math-number theory,choice,Java 6,110,43315200
+79468,17,1288054539,11872539,A,1100,brute force-math-number theory,choice,Java 6,130,43315200
+79462,17,1288053295,11871295,A,1100,brute force-math-number theory,choice,Java 6,110,43315200
+79460,17,1288052821,11870821,A,1100,brute force-math-number theory,choice,Java 6,90,43315200
+79455,17,1288050930,11868930,A,1100,brute force-math-number theory,choice,Java 6,90,43315200
+79453,17,1288050748,11868748,A,1100,brute force-math-number theory,choice,Java 6,90,43315200
+79452,17,1288050040,11868040,A,1100,brute force-math-number theory,choice,Java 6,110,43315200
+79451,17,1288049807,11867807,A,1100,brute force-math-number theory,choice,Java 6,90,43315200
+79450,17,1288049738,11867738,A,1100,brute force-math-number theory,choice,Java 6,90,43315200
+79448,17,1288049501,11867501,A,1100,brute force-math-number theory,choice,Java 6,90,43315200
+79447,17,1288049249,11867249,A,1100,brute force-math-number theory,choice,Java 6,110,43315200
+79417,17,1285358076,9176076,B,1600,dfs and similar-dsu-greedy-shortest paths,satoshii,Java 6,190,42905600
+79414,17,1285248652,9066652,B,1600,dfs and similar-dsu-greedy-shortest paths,satoshii,Java 6,170,42905600
+79402,17,1284043115,7861115,A,1100,brute force-math-number theory,msagimbekov,Java 6,90,42905600
+79400,17,1283858984,7676984,D,2300,number theory,anhdt,Java 6,690,65433600
+79311,17,1280646812,4464812,B,1600,dfs and similar-dsu-greedy-shortest paths,i.nagata110,Java 6,200,43008000
+79310,17,1280645859,4463859,A,1100,brute force-math-number theory,i.nagata110,Java 6,90,43008000
+79133,17,1277379285,1197285,B,1600,dfs and similar-dsu-greedy-shortest paths,diggin,Java 6,130,43008000
+79114,17,1277316161,1134161,A,1100,brute force-math-number theory,diggin,Java 6,60,42905600
+78878,17,1276514667,332667,B,1600,dfs and similar-dsu-greedy-shortest paths,Mex-Mans,Java 6,170,42393600
+78877,17,1276512744,330744,A,1100,brute force-math-number theory,ivoryxiong,Java 6,90,42393600
+78490,17,1276250350,68350,D,2300,number theory,uwi,Java 6,970,42393600
+78485,17,1276246364,64364,A,1100,brute force-math-number theory,rahulsharma21,Java 6,90,42393600
+78461,17,1276238981,56981,D,2300,number theory,hydrastuff,Java 6,520,45772800
+78458,17,1276238614,56614,D,2300,number theory,uwi,Java 6,380,42393600
+78377,17,1276230914,48914,B,1600,dfs and similar-dsu-greedy-shortest paths,swcai,Java 6,170,42393600
+78283,17,1276220030,38030,A,1100,brute force-math-number theory,swcai,Java 6,90,42393600
+78279,17,1276219635,37635,D,2300,number theory,S.Yesipenko,Java 6,470,45772800
+78271,17,1276217995,35995,A,1100,brute force-math-number theory,uwi,Java 6,90,42393600
+78268,17,1276217484,35484,B,1600,dfs and similar-dsu-greedy-shortest paths,uwi,Java 6,160,42393600
+78265,17,1276217117,35117,B,1600,dfs and similar-dsu-greedy-shortest paths,rexim,Java 6,80,42393600
+78252,17,1276212045,30045,D,2300,number theory,mipt.vi002,Java 6,560,45772800
+78222,17,1276207341,25341,B,1600,dfs and similar-dsu-greedy-shortest paths,mipt.vi002,Java 6,80,42393600
+78188,17,1276202609,20609,B,1600,dfs and similar-dsu-greedy-shortest paths,joncalhoun,Java 6,230,42393600
+78172,17,1276201379,19379,A,1100,brute force-math-number theory,joncalhoun,Java 6,90,42393600
+78168,17,1276200761,18761,B,1600,dfs and similar-dsu-greedy-shortest paths,mipt.vi002,Java 6,140,42393600
+78161,17,1276199880,17880,D,2300,number theory,Vasya.V,Java 6,530,45772800
+78159,17,1276199747,17747,D,2300,number theory,Vasya.V,Java 6,530,45772800
+78148,17,1276198716,16716,A,1100,brute force-math-number theory,mipt.vi002,Java 6,90,42393600
+78105,17,1276195946,13946,D,2300,number theory,mastersobg,Java 6,640,45772800
+78060,17,1276193671,11671,D,2300,number theory,kyo_key,Java 6,730,42393600
+78048,17,1276193306,11306,A,1100,brute force-math-number theory,JavaLinkers,Java 6,90,42393600
+77993,17,1276191456,9456,A,1100,brute force-math-number theory,mohitdayal,Java 6,90,42393600
+77991,17,1276191425,9425,B,1600,dfs and similar-dsu-greedy-shortest paths,yoshibo-,Java 6,140,42393600
+77974,17,1276191071,9071,D,2300,number theory,cmd,Java 6,470,45465600
+77950,17,1276190773,8773,D,2300,number theory,SpookyCookie,Java 6,450,42393600
+77928,17,1276190502,8502,B,1600,dfs and similar-dsu-greedy-shortest paths,mastersobg,Java 6,90,42393600
+77876,17,1276189963,7963,B,1600,dfs and similar-dsu-greedy-shortest paths,mastersobg,Java 6,90,42393600
+77781,17,1276189344,7344,D,2300,number theory,hos.lyric,Java 6,360,42393600
+77780,17,1276189336,7336,B,1600,dfs and similar-dsu-greedy-shortest paths,z-unit,Java 6,200,42393600
+77777,17,1276189325,7325,A,1100,brute force-math-number theory,z-unit,Java 6,90,42393600
+77746,17,1276189241,7241,A,1100,brute force-math-number theory,yoshibo-,Java 6,80,42393600
+77551,17,1276188913,6913,E,2900,strings,ivan.popelyshev,Java 6,560,85708800
+77301,17,1276188428,6428,B,1600,dfs and similar-dsu-greedy-shortest paths,kozima,Java 6,170,42393600
+77278,17,1276188382,6382,B,1600,dfs and similar-dsu-greedy-shortest paths,S.Yesipenko,Java 6,110,42393600
+77042,17,1276187759,5759,E,2900,strings,winger,Java 6,660,115712000
+76939,17,1276187458,5458,B,1600,dfs and similar-dsu-greedy-shortest paths,kyo_key,Java 6,200,42393600
+76846,17,1276187196,5196,D,2300,number theory,vot,Java 6,190,45465600
+76564,17,1276186360,4360,A,1100,brute force-math-number theory,nise_nabe,Java 6,90,42393600
+76563,17,1276186360,4360,D,2300,number theory,ivan.popelyshev,Java 6,230,42393600
+76561,17,1276186359,4359,A,1100,brute force-math-number theory,nise_nabe,Java 6,80,42393600
+76508,17,1276186191,4191,B,1600,dfs and similar-dsu-greedy-shortest paths,Efgen,Java 6,130,42393600
+76439,17,1276185958,3958,B,1600,dfs and similar-dsu-greedy-shortest paths,rien,Java 6,220,42393600
+76435,17,1276185953,3953,A,1100,brute force-math-number theory,4ndrew,Java 6,60,42393600
+76427,17,1276185913,3913,B,1600,dfs and similar-dsu-greedy-shortest paths,fetetriste,Java 6,90,42393600
+76414,17,1276185864,3864,B,1600,dfs and similar-dsu-greedy-shortest paths,fetetriste,Java 6,90,42393600
+76278,17,1276185435,3435,B,1600,dfs and similar-dsu-greedy-shortest paths,todo,Java 6,190,42393600
+76263,17,1276185404,3404,C,2500,dp,winger,Java 6,1880,42393600
+76237,17,1276185330,3330,B,1600,dfs and similar-dsu-greedy-shortest paths,Aksenov239,Java 6,90,42393600
+76159,17,1276185211,3211,B,1600,dfs and similar-dsu-greedy-shortest paths,KTR,Java 6,130,42393600
+76150,17,1276185059,3059,B,1600,dfs and similar-dsu-greedy-shortest paths,choice,Java 6,220,42393600
+76121,17,1276184927,2927,B,1600,dfs and similar-dsu-greedy-shortest paths,Vasya.V,Java 6,90,42393600
+76062,17,1276184739,2739,C,2500,dp,ivan.popelyshev,Java 6,590,42393600
+75992,17,1276184515,2515,B,1600,dfs and similar-dsu-greedy-shortest paths,yaro,Java 6,80,42393600
+75977,17,1276184465,2465,B,1600,dfs and similar-dsu-greedy-shortest paths,Melamori,Java 6,90,42393600
+75971,17,1276184450,2450,A,1100,brute force-math-number theory,sirhally,Java 6,80,42393600
+75935,17,1276184331,2331,B,1600,dfs and similar-dsu-greedy-shortest paths,ryuzmukhametov,Java 6,190,42393600
+75932,17,1276184324,2324,D,2300,number theory,winger,Java 6,500,45772800
+75931,17,1276184315,2315,A,1100,brute force-math-number theory,jhtan,Java 6,80,42393600
+75916,17,1276184272,2272,B,1600,dfs and similar-dsu-greedy-shortest paths,alexey.enkov,Java 6,110,42393600
+75906,17,1276184249,2249,B,1600,dfs and similar-dsu-greedy-shortest paths,Shafer,Java 6,110,42393600
+75862,17,1276184117,2117,B,1600,dfs and similar-dsu-greedy-shortest paths,shindo,Java 6,110,42393600
+75808,17,1276183990,1990,B,1600,dfs and similar-dsu-greedy-shortest paths,anhdt,Java 6,130,42188800
+75776,17,1276183911,1911,B,1600,dfs and similar-dsu-greedy-shortest paths,artie,Java 6,90,42393600
+75769,17,1276183895,1895,B,1600,dfs and similar-dsu-greedy-shortest paths,yiuyuho,Java 6,220,42393600
+75749,17,1276183854,1854,B,1600,dfs and similar-dsu-greedy-shortest paths,Sammarize,Java 6,220,42393600
+75737,17,1276183830,1830,B,1600,dfs and similar-dsu-greedy-shortest paths,SergeyLazarev,Java 6,80,42188800
+75730,17,1276183821,1821,B,1600,dfs and similar-dsu-greedy-shortest paths,z-unit,Java 6,200,42393600
+75683,17,1276183719,1719,B,1600,dfs and similar-dsu-greedy-shortest paths,Egor,Java 6,90,42393600
+75678,17,1276183709,1709,B,1600,dfs and similar-dsu-greedy-shortest paths,tomerun,Java 6,220,42393600
+75667,17,1276183684,1684,B,1600,dfs and similar-dsu-greedy-shortest paths,SpookyCookie,Java 6,90,42393600
+75633,17,1276183604,1604,B,1600,dfs and similar-dsu-greedy-shortest paths,mastersobg,Java 6,80,42393600
+75606,17,1276183535,1535,A,1100,brute force-math-number theory,rien,Java 6,80,42393600
+75603,17,1276183527,1527,B,1600,dfs and similar-dsu-greedy-shortest paths,AlexErofeev,Java 6,140,42393600
+75600,17,1276183512,1512,B,1600,dfs and similar-dsu-greedy-shortest paths,wjomlex,Java 6,220,42393600
+75581,17,1276183475,1475,B,1600,dfs and similar-dsu-greedy-shortest paths,vlad.gazer,Java 6,170,42393600
+75578,17,1276183462,1462,A,1100,brute force-math-number theory,todo,Java 6,80,42393600
+75541,17,1276183383,1383,A,1100,brute force-math-number theory,KTR,Java 6,60,42393600
+75532,17,1276183347,1347,A,1100,brute force-math-number theory,eteran,Java 6,80,42393600
+75513,17,1276183313,1313,A,1100,brute force-math-number theory,Melamori,Java 6,60,42393600
+75508,17,1276183305,1305,B,1600,dfs and similar-dsu-greedy-shortest paths,dimozzz,Java 6,110,42393600
+75493,17,1276183274,1274,B,1600,dfs and similar-dsu-greedy-shortest paths,Kandyman,Java 6,110,42393600
+75477,17,1276183241,1241,A,1100,brute force-math-number theory,kyo_key,Java 6,90,42393600
+75422,17,1276183128,1128,A,1100,brute force-math-number theory,wrick,Java 6,80,42393600
+75413,17,1276183098,1098,A,1100,brute force-math-number theory,Egor,Java 6,80,42393600
+75391,17,1276183051,1051,A,1100,brute force-math-number theory,nativea,Java 6,80,42393600
+75390,17,1276183047,1047,B,1600,dfs and similar-dsu-greedy-shortest paths,niyaznigmatul,Java 6,90,42393600
+75377,17,1276183024,1024,A,1100,brute force-math-number theory,Mex-Mans,Java 6,90,42393600
+75345,17,1276182964,964,A,1100,brute force-math-number theory,kozima,Java 6,80,42393600
+75338,17,1276182952,952,B,1600,dfs and similar-dsu-greedy-shortest paths,vot,Java 6,110,42393600
+75299,17,1276182896,896,A,1100,brute force-math-number theory,choice,Java 6,90,42393600
+75290,17,1276182889,889,A,1100,brute force-math-number theory,Shafer,Java 6,80,42393600
+75278,17,1276182866,866,A,1100,brute force-math-number theory,Sammarize,Java 6,90,42393600
+75246,17,1276182808,808,A,1100,brute force-math-number theory,yaro,Java 6,80,42393600
+75232,17,1276182771,771,A,1100,brute force-math-number theory,z-unit,Java 6,90,42393600
+75220,17,1276182751,751,B,1600,dfs and similar-dsu-greedy-shortest paths,ivan.popelyshev,Java 6,90,42393600
+75201,17,1276182719,719,B,1600,dfs and similar-dsu-greedy-shortest paths,MaxBuzz,Java 6,90,42188800
+75193,17,1276182707,707,A,1100,brute force-math-number theory,Vasya.V,Java 6,80,42393600
+75158,17,1276182651,651,B,1600,dfs and similar-dsu-greedy-shortest paths,xiaowuc1,Java 6,80,42393600
+75140,17,1276182628,628,A,1100,brute force-math-number theory,ryuzmukhametov,Java 6,80,42393600
+75095,17,1276182551,551,A,1100,brute force-math-number theory,Kandyman,Java 6,80,42393600
+75075,17,1276182523,523,A,1100,brute force-math-number theory,S.Yesipenko,Java 6,80,42393600
+75066,17,1276182513,513,A,1100,brute force-math-number theory,alexey.enkov,Java 6,60,42393600
+75049,17,1276182491,491,A,1100,brute force-math-number theory,vlad.gazer,Java 6,80,42393600
+75047,17,1276182485,485,A,1100,brute force-math-number theory,wjomlex,Java 6,90,42393600
+75043,17,1276182481,481,A,1100,brute force-math-number theory,anhdt,Java 6,90,42393600
+75042,17,1276182480,480,A,1100,brute force-math-number theory,tomerun,Java 6,90,42393600
+75038,17,1276182475,475,B,1600,dfs and similar-dsu-greedy-shortest paths,winger,Java 6,110,42393600
+75018,17,1276182447,447,A,1100,brute force-math-number theory,Efgen,Java 6,80,42393600
+75002,17,1276182426,426,A,1100,brute force-math-number theory,shindo,Java 6,80,42393600
+74998,17,1276182416,416,A,1100,brute force-math-number theory,dimozzz,Java 6,80,42393600
+74997,17,1276182413,413,A,1100,brute force-math-number theory,yiuyuho,Java 6,90,42393600
+74993,17,1276182407,407,A,1100,brute force-math-number theory,SergeyLazarev,Java 6,60,42393600
+74978,17,1276182387,387,A,1100,brute force-math-number theory,niyaznigmatul,Java 6,60,42393600
+74956,17,1276182358,358,A,1100,brute force-math-number theory,ivan.popelyshev,Java 6,60,42393600
+74954,17,1276182355,355,A,1100,brute force-math-number theory,Aksenov239,Java 6,80,42393600
+74953,17,1276182354,354,A,1100,brute force-math-number theory,vot,Java 6,80,42393600
+74948,17,1276182350,350,A,1100,brute force-math-number theory,AlexErofeev,Java 6,80,42393600
+74930,17,1276182332,332,A,1100,brute force-math-number theory,mastersobg,Java 6,90,42188800
+74918,17,1276182309,309,A,1100,brute force-math-number theory,fetetriste,Java 6,60,42393600
+74905,17,1276182289,289,A,1100,brute force-math-number theory,MaxBuzz,Java 6,80,42393600
+74902,17,1276182277,277,A,1100,brute force-math-number theory,artie,Java 6,80,42393600
+74896,17,1276182244,244,A,1100,brute force-math-number theory,winger,Java 6,80,42393600
+74894,17,1276182242,242,A,1100,brute force-math-number theory,SpookyCookie,Java 6,60,42393600
+74887,17,1276182168,168,A,1100,brute force-math-number theory,xiaowuc1,Java 6,80,42393600

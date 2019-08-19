@@ -1,0 +1,312 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56717001,65,1562598203,2147483647,C,2100,binary search-geometry,Veresless,Java 8,342,0
+47018302,65,1544820931,2147483647,A,1800,implementation-math,KulikAlex,Java 8,248,0
+45094629,65,1540898268,2147483647,A,1800,implementation-math,lambooze,Java 8,218,0
+43635482,65,1538382129,2147483647,D,2200,brute force-dfs and similar-hashing,Ajudiya_13,Java 8,217,307200
+42244076,65,1535551970,2147483647,C,2100,binary search-geometry,YasmineMaheeb,Java 8,310,0
+42118323,65,1535281621,2147483647,C,2100,binary search-geometry,mennafadali,Java 8,342,0
+39656853,65,1529948920,2147483647,C,2100,binary search-geometry,Nesrin,Java 8,342,0
+39539900,65,1529753302,2147483647,C,2100,binary search-geometry,zeyad_khattab,Java 8,372,0
+37622401,65,1524705162,2147483647,B,1700,brute force-greedy-implementation,Y-R,Java 8,234,21913600
+37587930,65,1524632800,2147483647,A,1800,implementation-math,Y-R,Java 8,342,21094400
+36783956,65,1522530614,2147483647,A,1800,implementation-math,totallynotan,Java 8,280,20684800
+36213231,65,1520818717,2147483647,C,2100,binary search-geometry,Hoda_Hisham,Java 8,312,20992000
+36140768,65,1520665600,2147483647,A,1800,implementation-math,lehar_11,Java 8,312,21094400
+33940511,65,1515167393,2147483647,B,1700,brute force-greedy-implementation,sfmunera,Java 8,171,21094400
+33909904,65,1515092007,2147483647,B,1700,brute force-greedy-implementation,sfmunera,Java 8,186,21094400
+30130208,65,1504698097,2147483647,A,1800,implementation-math,MQstafa,Java 8,280,0
+28262092,65,1499104826,2147483647,B,1700,brute force-greedy-implementation,tomdmitriev,Java 8,140,20582400
+28261911,65,1499104271,2147483647,B,1700,brute force-greedy-implementation,tomdmitriev,Java 8,171,20582400
+27968279,65,1498145208,2147483647,A,1800,implementation-math,tomdmitriev,Java 8,248,20582400
+24824619,65,1487602556,2147483647,B,1700,brute force-greedy-implementation,di_halt,Java 8,249,21299200
+24162151,65,1485473458,2147483647,C,2100,binary search-geometry,Chapecoense,Java 8,466,21913600
+20341834,65,1472823668,2147483647,C,2100,binary search-geometry,Ahmad_Elsagheer,Java 8,342,0
+20334950,65,1472792731,2147483647,B,1700,brute force-greedy-implementation,Ahmad_Elsagheer,Java 8,124,0
+20334873,65,1472792158,2147483647,B,1700,brute force-greedy-implementation,Ahmad_Elsagheer,Java 8,139,0
+20334481,65,1472788978,2147483647,A,1800,implementation-math,Ahmad_Elsagheer,Java 8,310,0
+19931181,65,1471450214,2147483647,D,2200,brute force-dfs and similar-hashing,throwaways,Java 8,140,20582400
+18651758,65,1466622490,2147483647,D,2200,brute force-dfs and similar-hashing,atarw,Java 8,155,0
+18640503,65,1466572242,2147483647,A,1800,implementation-math,kavsub,Java 7,280,0
+18043414,65,1464006316,2147483647,A,1800,implementation-math,I_love_sqrtdecompton,Java 8,310,20992000
+18022173,65,1463851657,2147483647,D,2200,brute force-dfs and similar-hashing,icyinlatedecember,Java 8,155,20684800
+16191063,65,1455851395,2147483647,C,2100,binary search-geometry,mkirsche,Java 7,248,0
+15031068,65,1451130492,2147483647,A,1800,implementation-math,ian9696,Java 8,218,0
+13779453,65,1445450875,2147483647,B,1700,brute force-greedy-implementation,tjohnson314,Java 8,170,0
+12319443,65,1438562893,2147483647,D,2200,brute force-dfs and similar-hashing,hama-du,Java 8,140,0
+12319238,65,1438559240,2147483647,C,2100,binary search-geometry,hama-du,Java 8,342,0
+12316577,65,1438530660,2147483647,B,1700,brute force-greedy-implementation,hama-du,Java 8,109,0
+12316464,65,1438529824,2147483647,A,1800,implementation-math,hama-du,Java 8,218,0
+11604234,65,1434445409,2147483647,C,2100,binary search-geometry,thocevar,Java 8,280,0
+10794507,65,1429511288,2147483647,A,1800,implementation-math,poikniok,Java 8,248,28569600
+10794464,65,1429510905,2147483647,A,1800,implementation-math,poikniok,Java 8,248,28672000
+10767127,65,1429358112,5712,D,2200,brute force-dfs and similar-hashing,Pryanic,Java 7,93,0
+10621148,65,1428410302,2147483647,B,1700,brute force-greedy-implementation,Ahed-Alrashaida,Java 7,124,0
+10543632,65,1427904015,2147483647,B,1700,brute force-greedy-implementation,fnch,Java 8,109,0
+8981506,65,1417698743,2147483647,A,1800,implementation-math,saichandu6,Java 8,280,0
+8928506,65,1417503544,2147483647,A,1800,implementation-math,alibaba,Java 7,186,0
+7599350,65,1409082983,2147483647,A,1800,implementation-math,1e9,Java 7,154,0
+7599336,65,1409082895,2147483647,A,1800,implementation-math,1e9,Java 7,154,0
+7599316,65,1409082800,2147483647,A,1800,implementation-math,1e9,Java 7,1746,0
+7475287,65,1408128707,2147483647,C,2100,binary search-geometry,alaashafaee92,Java 7,434,512000
+6987641,65,1404149221,2147483647,A,1800,implementation-math,owenomar,Java 7,156,0
+6518192,65,1398966698,2147483647,B,1700,brute force-greedy-implementation,nickbuelich,Java 8,187,1536000
+6518065,65,1398965550,2147483647,A,1800,implementation-math,nickbuelich,Java 8,310,0
+6149845,65,1395852623,2147483647,A,1800,implementation-math,tomash_em,Java 7,154,0
+5730647,65,1390045920,2147483647,B,1700,brute force-greedy-implementation,hashvip,Java 6,216,307200
+4845860,65,1382464530,2147483647,C,2100,binary search-geometry,alibaba,Java 6,186,102400
+4811329,65,1381984218,2147483647,B,1700,brute force-greedy-implementation,alibaba,Java 6,186,307200
+4811328,65,1381984218,2147483647,B,1700,brute force-greedy-implementation,alibaba,Java 6,218,307200
+4485622,65,1379368712,2147483647,C,2100,binary search-geometry,DoublePointer,Java 7,218,716800
+4449162,65,1379007318,2147483647,A,1800,implementation-math,vvenkai,Java 7,156,0
+4274866,65,1376425702,2147483647,C,2100,binary search-geometry,brett1479,Java 6,280,409600
+4163960,65,1374756520,2147483647,B,1700,brute force-greedy-implementation,vjudge2,Java 7,140,102400
+4163857,65,1374755429,2147483647,B,1700,brute force-greedy-implementation,D3XT3R,Java 7,140,204800
+4076243,65,1373900440,2147483647,A,1800,implementation-math,mkirsche,Java 6,93,2252800
+4066976,65,1373777561,2147483647,B,1700,brute force-greedy-implementation,mkirsche,Java 6,593,2252800
+3859128,65,1371009740,2147483647,C,2100,binary search-geometry,Footman,Java 7,140,409600
+3562261,65,1366327986,2147483647,C,2100,binary search-geometry,DiegoAE,Java 6,140,307200
+3562247,65,1366327193,2147483647,C,2100,binary search-geometry,DiegoAE,Java 6,125,307200
+3501789,65,1365649874,2147483647,A,1800,implementation-math,DiegoAE,Java 6,93,0
+3501728,65,1365647987,2147483647,B,1700,brute force-greedy-implementation,DiegoAE,Java 6,109,204800
+3501726,65,1365647942,2147483647,B,1700,brute force-greedy-implementation,santjuan,Java 6,140,307200
+3501674,65,1365644015,2147483647,A,1800,implementation-math,santjuan,Java 6,93,0
+3414104,65,1364447567,2147483647,A,1800,implementation-math,xiaowuc1,Java 6,93,2150400
+2866821,65,1357138563,3963,A,1800,implementation-math,malcolm,Java 7,78,0
+2866778,65,1357137580,2980,C,2100,binary search-geometry,malcolm,Java 7,156,102400
+2866690,65,1357136101,1501,B,1700,brute force-greedy-implementation,malcolm,Java 7,109,0
+2093607,65,1346694510,2147483647,A,1800,implementation-math,impiry,Java 6,110,45158400
+2067686,65,1346266146,2147483647,B,1700,brute force-greedy-implementation,Slamur,Java 6,110,45260800
+2043908,65,1345701388,6988,C,2100,binary search-geometry,Azat_Yusupov,Java 6,280,43417600
+2043844,65,1345697588,3188,B,1700,brute force-greedy-implementation,Azat_Yusupov,Java 6,220,43622400
+1976449,65,1344084329,2147483647,B,1700,brute force-greedy-implementation,unit7,Java 7,130,45260800
+1834381,65,1340789947,2147483647,B,1700,brute force-greedy-implementation,jiangzhijie,Java 7,130,44953600
+1689009,65,1337081791,2147483647,A,1800,implementation-math,bidzilya,Java 7,110,44851200
+1688820,65,1337075196,2147483647,B,1700,brute force-greedy-implementation,bidzilya,Java 7,110,44851200
+1646866,65,1335828928,2147483647,A,1800,implementation-math,Sane,Java 7,110,44851200
+1306478,65,1331072769,2147483647,B,1700,brute force-greedy-implementation,peking2,Java 6,90,45056000
+1203343,65,1329638479,2147483647,A,1800,implementation-math,vjudge1,Java 6,90,44953600
+1152095,65,1328492313,2147483647,B,1700,brute force-greedy-implementation,Ahmed_Salama,Java 6,160,43417600
+1152091,65,1328492169,2147483647,B,1700,brute force-greedy-implementation,Ahmed_Salama,Java 6,140,43417600
+1149975,65,1328386932,2147483647,C,2100,binary search-geometry,mostafa_fahim,Java 6,190,43212800
+1058632,65,1326722738,2147483647,B,1700,brute force-greedy-implementation,Wahba,Java 6,140,43417600
+1046700,65,1326638391,2147483647,C,2100,binary search-geometry,wackloner,Java 6,300,43417600
+992634,65,1325303634,2147483647,A,1800,implementation-math,ilovepink,Java 6,90,43110400
+991511,65,1325217925,2147483647,B,1700,brute force-greedy-implementation,ilovepink,Java 6,140,43520000
+990288,65,1325126685,2147483647,A,1800,implementation-math,stevenkplus,Java 6,110,43212800
+989112,65,1325038407,2147483647,B,1700,brute force-greedy-implementation,stevenkplus,Java 6,160,43520000
+973452,65,1324668432,2147483647,B,1700,brute force-greedy-implementation,ahmad_mamdouh,Java 6,110,43315200
+950779,65,1323567360,24226560,C,2100,binary search-geometry,islam-al-aarag,Java 6,660,43622400
+927995,65,1322947567,23606767,B,1700,brute force-greedy-implementation,evgeny11,Java 6,130,43008000
+927916,65,1322945561,23604761,A,1800,implementation-math,evgeny11,Java 6,130,43110400
+883149,65,1321819454,22478654,A,1800,implementation-math,djjoleM,Java 6,110,43008000
+879637,65,1321726655,22385855,A,1800,implementation-math,wackloner,Java 6,110,43008000
+861464,65,1321174274,21833474,C,2100,binary search-geometry,Azat_Yusupov,Java 6,160,43315200
+856675,65,1320950808,21610008,A,1800,implementation-math,Izot_NNSTU,Java 6,170,43110400
+840319,65,1320695257,21354457,B,1700,brute force-greedy-implementation,Izot_NNSTU,Java 6,160,43110400
+756237,65,1318381284,19040484,A,1800,implementation-math,tux1986,Java 6,130,35328000
+656919,65,1315041189,15700389,A,1800,implementation-math,Sinner,Java 6,110,34918400
+654224,65,1314840639,15499839,A,1800,implementation-math,Ahmed_Salama,Java 6,130,35328000
+652498,65,1314716074,15375274,B,1700,brute force-greedy-implementation,altais,Java 6,110,35532800
+609979,65,1313276423,13935623,A,1800,implementation-math,Dunaril,Java 6,110,35225600
+608385,65,1313254709,13913909,B,1700,brute force-greedy-implementation,Dunaril,Java 6,130,35225600
+599261,65,1312824477,13483677,B,1700,brute force-greedy-implementation,tux1986,Java 6,90,44748800
+598977,65,1312814879,13474079,B,1700,brute force-greedy-implementation,tehqin,Java 6,160,44748800
+598884,65,1312812854,13472054,A,1800,implementation-math,tehqin,Java 6,130,44748800
+585798,65,1312507006,13166206,C,2100,binary search-geometry,xiaowuc1,Java 6,110,43110400
+585030,65,1312468660,13127860,A,1800,implementation-math,JoKe,Java 6,140,43008000
+570605,65,1312007902,12667102,B,1700,brute force-greedy-implementation,xiaowuc1,Java 6,140,43212800
+565839,65,1311643620,12302820,A,1800,implementation-math,islam-al-aarag,Java 6,110,43008000
+564119,65,1311531983,12191183,A,1800,implementation-math,kiko91_7,Java 6,110,43110400
+564114,65,1311531745,12190945,A,1800,implementation-math,kiko91_7,Java 6,130,43110400
+555168,65,1311337592,11996792,B,1700,brute force-greedy-implementation,kiko91_7,Java 6,160,43315200
+551801,65,1311102822,11762022,A,1800,implementation-math,Nox,Java 6,110,43008000
+548938,65,1310850060,11509260,B,1700,brute force-greedy-implementation,Nox,Java 6,110,43008000
+541707,65,1310369910,11029110,A,1800,implementation-math,altais,Java 6,90,43008000
+528057,65,1309792052,10451252,B,1700,brute force-greedy-implementation,Sammarize,Java 6,140,43212800
+509356,65,1308890859,9550059,A,1800,implementation-math,DoublePointer,Java 6,110,43008000
+508365,65,1308796235,9455435,B,1700,brute force-greedy-implementation,DoublePointer,Java 6,170,43110400
+459074,65,1305771362,6430562,B,1700,brute force-greedy-implementation,TomConerly,Java 6,160,35532800
+459073,65,1305770974,6430174,A,1800,implementation-math,TomConerly,Java 6,130,35225600
+455554,65,1305407569,6066769,B,1700,brute force-greedy-implementation,flash36,Java 6,140,43417600
+431106,65,1304514105,5173305,A,1800,implementation-math,Sammarize,Java 6,90,43315200
+408003,65,1303827927,4487127,A,1800,implementation-math,rogerfgm,Java 6,90,43315200
+339601,65,1300401958,1061158,C,2100,binary search-geometry,adavydow,Java 6,110,43520000
+339595,65,1300400201,1059401,B,1700,brute force-greedy-implementation,adavydow,Java 6,110,43315200
+339590,65,1300398993,1058193,A,1800,implementation-math,adavydow,Java 6,80,43315200
+337520,65,1300160793,819993,C,2100,binary search-geometry,partizan22,Java 6,200,43315200
+337482,65,1300153640,812840,B,1700,brute force-greedy-implementation,partizan22,Java 6,160,43417600
+337451,65,1300149371,808571,A,1800,implementation-math,partizan22,Java 6,110,43315200
+331908,65,1299962656,621856,D,2200,brute force-dfs and similar-hashing,pius_88,Java 6,110,43724800
+331813,65,1299954853,614053,C,2100,binary search-geometry,pius_88,Java 6,110,43315200
+331632,65,1299934782,593982,A,1800,implementation-math,mostafa_fahim,Java 6,130,43315200
+329527,65,1299685211,344411,A,1800,implementation-math,Xerxes,Java 6,90,43315200
+329228,65,1299658910,318110,B,1700,brute force-greedy-implementation,Xerxes,Java 6,80,43315200
+329015,65,1299618522,277722,B,1700,brute force-greedy-implementation,marque,Java 6,130,43315200
+328971,65,1299613636,272836,C,2100,binary search-geometry,diggin,Java 6,170,43827200
+327653,65,1299528903,188103,D,2200,brute force-dfs and similar-hashing,ondrah,Java 6,110,43827200
+323266,65,1299491727,150927,D,2200,brute force-dfs and similar-hashing,sayuan,Java 6,130,43315200
+323229,65,1299489119,148319,C,2100,binary search-geometry,chronotable,Java 6,160,43520000
+323155,65,1299482714,141914,B,1700,brute force-greedy-implementation,chronotable,Java 6,140,43417600
+323145,65,1299481044,140244,A,1800,implementation-math,chronotable,Java 6,110,43315200
+323052,65,1299467390,126590,C,2100,binary search-geometry,Hadi_Asiaie,Java 6,220,43315200
+323039,65,1299463378,122578,C,2100,binary search-geometry,Hadi_Asiaie,Java 6,110,43315200
+323020,65,1299461144,120344,C,2100,binary search-geometry,Hadi_Asiaie,Java 6,250,43417600
+323018,65,1299460918,120118,C,2100,binary search-geometry,Hadi_Asiaie,Java 6,270,43315200
+322981,65,1299453292,112492,C,2100,binary search-geometry,yaro,Java 6,110,43622400
+322960,65,1299451224,110424,B,1700,brute force-greedy-implementation,yaro,Java 6,110,43520000
+322952,65,1299450305,109505,A,1800,implementation-math,yaro,Java 6,90,43315200
+322934,65,1299447224,106424,D,2200,brute force-dfs and similar-hashing,madkite,Java 6,130,43417600
+322743,65,1299432637,91837,D,2200,brute force-dfs and similar-hashing,hydrastuff,Java 6,860,43315200
+322715,65,1299429895,89095,A,1800,implementation-math,shou,Java 6,130,43315200
+322548,65,1299419718,78918,C,2100,binary search-geometry,ahmed.abdrabo,Java 6,220,43315200
+322471,65,1299415332,74532,E,2900,dfs and similar-implementation,alexey.enkov,Java 6,1060,108851200
+322384,65,1299409330,68530,D,2200,brute force-dfs and similar-hashing,CAQ,Java 6,340,43417600
+322361,65,1299407394,66594,D,2200,brute force-dfs and similar-hashing,mdldml,Java 6,110,43315200
+322327,65,1299405410,64610,B,1700,brute force-greedy-implementation,mdldml,Java 6,110,43315200
+322306,65,1299402665,61865,C,2100,binary search-geometry,CAQ,Java 6,340,43417600
+322297,65,1299401998,61198,B,1700,brute force-greedy-implementation,Spacejoker,Java 6,90,43315200
+322285,65,1299401272,60472,A,1800,implementation-math,Spacejoker,Java 6,90,43315200
+322252,65,1299397378,56578,B,1700,brute force-greedy-implementation,CAQ,Java 6,140,43417600
+322226,65,1299396015,55215,A,1800,implementation-math,CAQ,Java 6,140,43315200
+322160,65,1299392802,52002,A,1800,implementation-math,nise_nabe,Java 6,110,43315200
+322151,65,1299392061,51261,B,1700,brute force-greedy-implementation,sayuan,Java 6,130,43315200
+322107,65,1299386565,45765,A,1800,implementation-math,Di735,Java 6,90,43315200
+322098,65,1299385438,44638,C,2100,binary search-geometry,darkl0rd,Java 6,390,43520000
+322004,65,1299378559,37759,D,2200,brute force-dfs and similar-hashing,madkite,Java 6,130,43315200
+321982,65,1299376234,35434,B,1700,brute force-greedy-implementation,Hadi_Asiaie,Java 6,130,43315200
+321970,65,1299375650,34850,C,2100,binary search-geometry,Hadi_Asiaie,Java 6,270,43315200
+321955,65,1299374214,33414,B,1700,brute force-greedy-implementation,darkl0rd,Java 6,130,43417600
+321953,65,1299374156,33356,D,2200,brute force-dfs and similar-hashing,Hadi_Asiaie,Java 6,130,43520000
+321937,65,1299372510,31710,B,1700,brute force-greedy-implementation,darkl0rd,Java 6,140,43417600
+321892,65,1299368663,27863,A,1800,implementation-math,darkl0rd,Java 6,110,43315200
+321859,65,1299366464,25664,B,1700,brute force-greedy-implementation,xhunter,Java 6,130,43417600
+321850,65,1299366023,25223,B,1700,brute force-greedy-implementation,madkite,Java 6,90,43315200
+321811,65,1299363701,22901,A,1800,implementation-math,madkite,Java 6,90,43315200
+321794,65,1299362965,22165,B,1700,brute force-greedy-implementation,diggin,Java 6,90,43315200
+321666,65,1299357784,16984,C,2100,binary search-geometry,a1429385,Java 6,110,43315200
+321658,65,1299357615,16815,C,2100,binary search-geometry,Shlakoblock,Java 6,110,44236800
+321638,65,1299357278,16478,C,2100,binary search-geometry,SkyFire,Java 6,130,43417600
+321627,65,1299357070,16270,C,2100,binary search-geometry,SkyFire,Java 6,130,43417600
+321617,65,1299356920,16120,C,2100,binary search-geometry,SkyFire,Java 6,130,43417600
+321570,65,1299355924,15124,A,1800,implementation-math,nerve,Java 6,90,43315200
+321568,65,1299355902,15102,B,1700,brute force-greedy-implementation,Shlakoblock,Java 6,90,43417600
+321553,65,1299355645,14845,C,2100,binary search-geometry,ktuan,Java 6,130,43315200
+321502,65,1299354775,13975,A,1800,implementation-math,Shlakoblock,Java 6,90,43417600
+321370,65,1299353124,12324,D,2200,brute force-dfs and similar-hashing,Di735,Java 6,270,83353600
+321348,65,1299352864,12064,D,2200,brute force-dfs and similar-hashing,uwi,Java 6,160,43315200
+321344,65,1299352795,11995,A,1800,implementation-math,Abra,Java 6,90,43315200
+321337,65,1299352693,11893,A,1800,implementation-math,lijunle,Java 6,110,43315200
+321264,65,1299351788,10988,B,1700,brute force-greedy-implementation,lijunle,Java 6,170,43417600
+321124,65,1299350784,9984,C,2100,binary search-geometry,Hadi_Asiaie,Java 6,270,43315200
+321107,65,1299350702,9902,B,1700,brute force-greedy-implementation,Daiki_Ando,Java 6,170,43417600
+321001,65,1299350263,9463,C,2100,binary search-geometry,Daiki_Ando,Java 6,220,43315200
+320977,65,1299350188,9388,A,1800,implementation-math,pius_88,Java 6,90,43315200
+320973,65,1299350180,9380,D,2200,brute force-dfs and similar-hashing,S.Yesipenko,Java 6,1230,43315200
+320967,65,1299350167,9367,B,1700,brute force-greedy-implementation,a1429385,Java 6,80,43417600
+320956,65,1299350115,9315,D,2200,brute force-dfs and similar-hashing,S.Yesipenko,Java 6,90,43315200
+320943,65,1299350089,9289,C,2100,binary search-geometry,hydrastuff,Java 6,410,43315200
+320900,65,1299349929,9129,C,2100,binary search-geometry,alexey.enkov,Java 6,230,43315200
+320860,65,1299349808,9008,A,1800,implementation-math,Rania_Salama,Java 6,110,43315200
+320846,65,1299349762,8962,A,1800,implementation-math,shevchen,Java 6,110,43315200
+320842,65,1299349748,8948,A,1800,implementation-math,Wahba,Java 6,90,43417600
+320840,65,1299349743,8943,C,2100,binary search-geometry,MaxBuzz,Java 6,130,43520000
+320839,65,1299349743,8943,A,1800,implementation-math,a1429385,Java 6,110,43315200
+320807,65,1299349641,8841,C,2100,binary search-geometry,mmaxio,Java 6,170,43315200
+320799,65,1299349622,8822,B,1700,brute force-greedy-implementation,shevchen,Java 6,130,43315200
+320792,65,1299349611,8811,A,1800,implementation-math,xhunter,Java 6,80,43315200
+320783,65,1299349599,8799,B,1700,brute force-greedy-implementation,MaxBuzz,Java 6,110,43315200
+320771,65,1299349575,8775,A,1800,implementation-math,Di735,Java 6,90,43315200
+320745,65,1299349523,8723,C,2100,binary search-geometry,Hieu,Java 6,130,43315200
+320726,65,1299349478,8678,A,1800,implementation-math,sayuan,Java 6,110,43315200
+320721,65,1299349466,8666,C,2100,binary search-geometry,VArtem,Java 6,110,43315200
+320717,65,1299349456,8656,A,1800,implementation-math,niyaznigmatul,Java 6,90,43315200
+320709,65,1299349437,8637,C,2100,binary search-geometry,dalex,Java 6,160,43417600
+320707,65,1299349428,8628,B,1700,brute force-greedy-implementation,dalex,Java 6,130,43315200
+320700,65,1299349420,8620,C,2100,binary search-geometry,S.Yesipenko,Java 6,190,43417600
+320698,65,1299349417,8617,A,1800,implementation-math,dalex,Java 6,80,43315200
+320697,65,1299349416,8616,C,2100,binary search-geometry,sayuan,Java 6,220,43315200
+320692,65,1299349405,8605,C,2100,binary search-geometry,Egor,Java 6,110,43315200
+320679,65,1299349384,8584,C,2100,binary search-geometry,S.Yesipenko,Java 6,330,43417600
+320633,65,1299349251,8451,A,1800,implementation-math,S.Yesipenko,Java 6,110,43315200
+320614,65,1299349219,8419,C,2100,binary search-geometry,Di735,Java 6,130,43417600
+320613,65,1299349217,8417,C,2100,binary search-geometry,niyaznigmatul,Java 6,140,43315200
+320574,65,1299349133,8333,D,2200,brute force-dfs and similar-hashing,niyaznigmatul,Java 6,140,43417600
+320479,65,1299347912,7112,A,1800,implementation-math,nise_nabe,Java 6,90,43315200
+320418,65,1299347819,7019,A,1800,implementation-math,mmaxio,Java 6,80,43315200
+320269,65,1299347574,6774,D,2200,brute force-dfs and similar-hashing,alexey.enkov,Java 6,130,43315200
+320179,65,1299347441,6641,C,2100,binary search-geometry,dalex,Java 6,160,43417600
+320120,65,1299347340,6540,D,2200,brute force-dfs and similar-hashing,VArtem,Java 6,130,43315200
+320030,65,1299347157,6357,A,1800,implementation-math,marque,Java 6,110,43315200
+319998,65,1299347096,6296,D,2200,brute force-dfs and similar-hashing,hydrastuff,Java 6,860,43315200
+319991,65,1299347082,6282,B,1700,brute force-greedy-implementation,Horuka,Java 6,90,43315200
+319951,65,1299347002,6202,C,2100,binary search-geometry,ArtemKadeev,Java 6,130,43520000
+319815,65,1299346788,5988,D,2200,brute force-dfs and similar-hashing,OgieKako,Java 6,110,43315200
+319793,65,1299346739,5939,D,2200,brute force-dfs and similar-hashing,ktuan,Java 6,160,43315200
+319753,65,1299346643,5843,B,1700,brute force-greedy-implementation,a1429385,Java 6,90,43417600
+319675,65,1299346476,5676,C,2100,binary search-geometry,Abra,Java 6,110,43315200
+319624,65,1299346359,5559,B,1700,brute force-greedy-implementation,ichattopadhyaya,Java 6,140,43417600
+319600,65,1299346291,5491,D,2200,brute force-dfs and similar-hashing,shevchen,Java 6,160,43315200
+319506,65,1299346051,5251,C,2100,binary search-geometry,MaxBuzz,Java 6,110,43520000
+319471,65,1299345991,5191,B,1700,brute force-greedy-implementation,Omar.Darwish,Java 6,130,43417600
+319427,65,1299345909,5109,B,1700,brute force-greedy-implementation,pius_88,Java 6,130,43315200
+319299,65,1299345656,4856,A,1800,implementation-math,yarrr,Java 6,80,43315200
+319238,65,1299345524,4724,A,1800,implementation-math,hydrastuff,Java 6,80,43315200
+319188,65,1299345429,4629,A,1800,implementation-math,diggin,Java 6,110,43315200
+319068,65,1299345229,4429,C,2100,binary search-geometry,ktuan,Java 6,140,43315200
+319062,65,1299345216,4416,A,1800,implementation-math,SkyFire,Java 6,90,43315200
+319051,65,1299345198,4398,D,2200,brute force-dfs and similar-hashing,Hieu,Java 6,110,43417600
+319017,65,1299345126,4326,B,1700,brute force-greedy-implementation,vfix,Java 6,90,43315200
+318986,65,1299345062,4262,A,1800,implementation-math,Melamori,Java 6,110,43315200
+318922,65,1299344977,4177,D,2200,brute force-dfs and similar-hashing,Egor,Java 6,110,43724800
+318879,65,1299344914,4114,A,1800,implementation-math,ferr,Java 6,90,43315200
+318873,65,1299344900,4100,A,1800,implementation-math,Daiki_Ando,Java 6,110,43315200
+318811,65,1299344790,3990,B,1700,brute force-greedy-implementation,nise_nabe,Java 6,140,43417600
+318792,65,1299344767,3967,C,2100,binary search-geometry,OgieKako,Java 6,110,43315200
+318718,65,1299344649,3849,B,1700,brute force-greedy-implementation,Hitrez,Java 6,110,43315200
+318701,65,1299344615,3815,C,2100,binary search-geometry,shevchen,Java 6,190,43520000
+318561,65,1299344392,3592,A,1800,implementation-math,pyshnograev,Java 6,80,43315200
+318533,65,1299344346,3546,A,1800,implementation-math,VArtem,Java 6,110,43315200
+318473,65,1299344263,3463,C,2100,binary search-geometry,ferr,Java 6,110,43417600
+318437,65,1299344205,3405,B,1700,brute force-greedy-implementation,ahmed.abdrabo,Java 6,140,43417600
+318435,65,1299344199,3399,B,1700,brute force-greedy-implementation,chavit,Java 6,90,43315200
+318305,65,1299343988,3188,C,2100,binary search-geometry,uwi,Java 6,170,43315200
+318264,65,1299343926,3126,B,1700,brute force-greedy-implementation,cswudi_java,Java 6,220,43417600
+318255,65,1299343914,3114,A,1800,implementation-math,Horuka,Java 6,90,43315200
+318059,65,1299343612,2812,A,1800,implementation-math,Hadi_Asiaie,Java 6,90,43315200
+318057,65,1299343612,2812,B,1700,brute force-greedy-implementation,z7oka,Java 6,130,43417600
+318056,65,1299343610,2810,B,1700,brute force-greedy-implementation,ktuan,Java 6,130,43315200
+317906,65,1299343418,2618,A,1800,implementation-math,Slamur,Java 6,90,43417600
+317865,65,1299343350,2550,B,1700,brute force-greedy-implementation,alexey.enkov,Java 6,90,43315200
+317767,65,1299343217,2417,B,1700,brute force-greedy-implementation,islam-al-aarag,Java 6,160,43315200
+317716,65,1299343138,2338,A,1800,implementation-math,Shlakoblock,Java 6,90,43417600
+317557,65,1299342922,2122,A,1800,implementation-math,ktuan,Java 6,110,43315200
+317542,65,1299342912,2112,B,1700,brute force-greedy-implementation,Di735,Java 6,110,43315200
+317524,65,1299342890,2090,B,1700,brute force-greedy-implementation,yarrr,Java 6,270,43315200
+317495,65,1299342851,2051,A,1800,implementation-math,Xazker,Java 6,80,43315200
+317460,65,1299342806,2006,B,1700,brute force-greedy-implementation,ArtemKadeev,Java 6,90,43315200
+317402,65,1299342731,1931,B,1700,brute force-greedy-implementation,pyshnograev,Java 6,90,43315200
+317389,65,1299342719,1919,A,1800,implementation-math,dalex,Java 6,90,43315200
+317384,65,1299342713,1913,B,1700,brute force-greedy-implementation,mmaxio,Java 6,90,43315200
+317379,65,1299342707,1907,B,1700,brute force-greedy-implementation,Hieu,Java 6,130,43315200
+317367,65,1299342694,1894,B,1700,brute force-greedy-implementation,OgieKako,Java 6,130,43417600
+317353,65,1299342681,1881,B,1700,brute force-greedy-implementation,VArtem,Java 6,90,43315200
+317325,65,1299342635,1835,A,1800,implementation-math,uwi,Java 6,110,43315200
+317320,65,1299342630,1830,B,1700,brute force-greedy-implementation,ferr,Java 6,90,43315200
+317304,65,1299342613,1813,B,1700,brute force-greedy-implementation,timmy,Java 6,130,43417600
+317253,65,1299342556,1756,B,1700,brute force-greedy-implementation,Egor,Java 6,90,43315200
+317214,65,1299342504,1704,B,1700,brute force-greedy-implementation,Shlakoblock,Java 6,110,43417600
+317059,65,1299342294,1494,B,1700,brute force-greedy-implementation,SkyFire,Java 6,110,43315200
+316967,65,1299342175,1375,B,1700,brute force-greedy-implementation,Abra,Java 6,110,43315200
+316806,65,1299341940,1140,B,1700,brute force-greedy-implementation,hydrastuff,Java 6,110,43315200
+316785,65,1299341914,1114,B,1700,brute force-greedy-implementation,niyaznigmatul,Java 6,140,43315200
+316774,65,1299341903,1103,B,1700,brute force-greedy-implementation,S.Yesipenko,Java 6,90,43315200
+316773,65,1299341902,1102,B,1700,brute force-greedy-implementation,Hadi_Asiaie,Java 6,250,58572800
+316726,65,1299341828,1028,A,1800,implementation-math,OgieKako,Java 6,110,43315200
+316719,65,1299341824,1024,A,1800,implementation-math,alexey.enkov,Java 6,90,43315200
+316710,65,1299341816,1016,B,1700,brute force-greedy-implementation,m.sabouri,Java 6,160,43417600
+316688,65,1299341776,976,B,1700,brute force-greedy-implementation,dalex,Java 6,80,43315200
+316605,65,1299341661,861,A,1800,implementation-math,Hitrez,Java 6,90,43315200
+316536,65,1299341587,787,A,1800,implementation-math,mdldml,Java 6,90,43315200
+316494,65,1299341536,736,B,1700,brute force-greedy-implementation,uwi,Java 6,110,43315200
+316320,65,1299341333,533,A,1800,implementation-math,MaxBuzz,Java 6,90,43315200
+316297,65,1299341310,510,B,1700,brute force-greedy-implementation,Xazker,Java 6,130,43520000

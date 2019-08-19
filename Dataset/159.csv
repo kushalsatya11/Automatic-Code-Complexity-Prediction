@@ -1,0 +1,919 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56072764,159,1561547981,2147483647,B,1800,*special-greedy-sortings,echikawa,Java 8,1090,4403200
+56072090,159,1561546819,2147483647,B,1800,*special-greedy-sortings,echikawa,Java 8,1060,6451200
+56067507,159,1561538581,2147483647,B,1800,*special-greedy-sortings,gaidash,Java 8,280,0
+54909403,159,1559384584,2147483647,D,2000,*special-brute force-dp-strings,dmitrievanthony,Java 8,1152,106803200
+53974676,159,1557542988,2147483647,D,2000,*special-brute force-dp-strings,Verdusk,Java 8,436,38604800
+53732995,159,1556957244,2147483647,B,1800,*special-greedy-sortings,mennafadali,Java 8,530,3174400
+53195447,159,1556031651,2147483647,B,1800,*special-greedy-sortings,zhongzh13,Java 8,966,4403200
+51963339,159,1553848093,2147483647,D,2000,*special-brute force-dp-strings,bhautik_77,Java 8,1590,239820800
+51622278,159,1553180282,2147483647,D,2000,*special-brute force-dp-strings,lixx336,Java 8,280,0
+51360410,159,1552719420,2147483647,B,1800,*special-greedy-sortings,Vaibhav96,Java 8,1308,2457600
+51128020,159,1552221205,2147483647,B,1800,*special-greedy-sortings,AWCXV,Java 8,404,1945600
+50143460,159,1550538476,2147483647,D,2000,*special-brute force-dp-strings,zhongzh13,Java 8,342,0
+49638068,159,1549655258,2147483647,D,2000,*special-brute force-dp-strings,iitiansam,Java 8,280,0
+47440004,159,1545606474,2147483647,D,2000,*special-brute force-dp-strings,Kharouba,Java 8,248,0
+46629022,159,1543970499,2147483647,D,2000,*special-brute force-dp-strings,flyman3046,Java 8,280,0
+46628288,159,1543966424,2147483647,D,2000,*special-brute force-dp-strings,flyman3046,Java 8,686,0
+46464615,159,1543712578,2147483647,D,2000,*special-brute force-dp-strings,BiIIy,Java 8,248,0
+46044781,159,1542845576,2147483647,B,1800,*special-greedy-sortings,ViciousCoder,Java 8,342,2560000
+44421249,159,1539730648,2147483647,C,2000,*special-binary search-brute force-data structures-strings,ViciousCoder,Java 8,436,39321600
+43932187,159,1538898409,2147483647,C,2000,*special-binary search-brute force-data structures-strings,onetwothree,Java 8,1402,17715200
+43362621,159,1537784917,2147483647,B,1800,*special-greedy-sortings,ShowStopper728,Java 8,310,0
+43362540,159,1537784701,2147483647,B,1800,*special-greedy-sortings,ShowStopper728,Java 8,310,0
+43362474,159,1537784632,2147483647,B,1800,*special-greedy-sortings,ShowStopper728,Java 8,310,0
+42740979,159,1536596092,2147483647,D,2000,*special-brute force-dp-strings,Nesrin,Java 8,310,0
+42377039,159,1535900559,2147483647,E,2100,*special-data structures-greedy-sortings,hongquanntct,Java 8,389,16076800
+42357631,159,1535881337,2147483647,D,2000,*special-brute force-dp-strings,hongquanntct,Java 8,1184,93388800
+42357061,159,1535880270,2147483647,D,2000,*special-brute force-dp-strings,hongquanntct,Java 8,1466,93900800
+40929529,159,1532902417,2147483647,C,2000,*special-binary search-brute force-data structures-strings,prabhat236218,Java 8,998,166092800
+40719189,159,1532472425,2147483647,D,2000,*special-brute force-dp-strings,Hoda_Hisham,Java 8,342,4710400
+39463810,159,1529588468,2147483647,A,1700,*special-greedy-implementation,ashcodish,Java 8,342,0
+39044701,159,1528458129,2147483647,C,2000,*special-binary search-brute force-data structures-strings,kanak893,Java 8,372,32768000
+39044508,159,1528457717,2147483647,C,2000,*special-binary search-brute force-data structures-strings,kanak893,Java 8,372,32768000
+39042326,159,1528452492,2147483647,C,2000,*special-binary search-brute force-data structures-strings,kanak893,Java 8,1184,0
+38937618,159,1528098291,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Golmol,Java 8,466,20582400
+38329986,159,1526494692,2147483647,B,1800,*special-greedy-sortings,KulikAlex,Java 8,902,26726400
+38147937,159,1526157721,2147483647,C,2000,*special-binary search-brute force-data structures-strings,reyad,Java 8,654,40140800
+38147889,159,1526157459,2147483647,C,2000,*special-binary search-brute force-data structures-strings,reyad,Java 8,654,40140800
+38147848,159,1526157248,2147483647,C,2000,*special-binary search-brute force-data structures-strings,reyad,Java 8,654,40140800
+38121443,159,1526063514,2147483647,D,2000,*special-brute force-dp-strings,KulikAlex,Java 8,278,20684800
+38114508,159,1526042918,2147483647,C,2000,*special-binary search-brute force-data structures-strings,reyad,Java 8,840,169472000
+37926536,159,1525604139,2147483647,D,2000,*special-brute force-dp-strings,DevilJin,Java 8,310,20684800
+36775299,159,1522503212,2147483647,E,2100,*special-data structures-greedy-sortings,Kammola,Java 8,1216,89702400
+36388511,159,1521376593,2147483647,B,1800,*special-greedy-sortings,ashcodish,Java 8,1278,21094400
+35925789,159,1520174587,2147483647,D,2000,*special-brute force-dp-strings,SrapZark,Java 8,248,20684800
+35913159,159,1520152690,2147483647,D,2000,*special-brute force-dp-strings,SrapZark,Java 8,374,39731200
+35913142,159,1520152620,2147483647,D,2000,*special-brute force-dp-strings,SrapZark,Java 8,372,39731200
+35912992,159,1520152243,2147483647,D,2000,*special-brute force-dp-strings,SrapZark,Java 8,374,40140800
+35909875,159,1520149129,2147483647,D,2000,*special-brute force-dp-strings,SrapZark,Java 8,716,100352000
+35909095,159,1520147796,2147483647,D,2000,*special-brute force-dp-strings,SrapZark,Java 8,716,100352000
+35909003,159,1520147483,2147483647,D,2000,*special-brute force-dp-strings,SrapZark,Java 8,716,100556800
+34479286,159,1516706137,2147483647,C,2000,*special-binary search-brute force-data structures-strings,prabhat236218,Java 8,372,60928000
+33233992,159,1513240593,2147483647,D,2000,*special-brute force-dp-strings,onkarN,Java 8,2368,94310400
+32332599,159,1510751483,2147483647,D,2000,*special-brute force-dp-strings,onetwothree,Java 8,310,0
+31876424,159,1509307538,2147483647,A,1700,*special-greedy-implementation,Kammola,Java 8,248,0
+31865292,159,1509277515,2147483647,D,2000,*special-brute force-dp-strings,jay321,Java 8,310,18124800
+30010873,159,1504349405,2147483647,D,2000,*special-brute force-dp-strings,flydzt,Java 8,280,0
+29551203,159,1503051527,2147483647,D,2000,*special-brute force-dp-strings,Maulik_Patel,Java 8,280,0
+29374960,159,1502534180,2147483647,D,2000,*special-brute force-dp-strings,prakhar28,Java 8,498,38809600
+29307603,159,1502287649,2147483647,C,2000,*special-binary search-brute force-data structures-strings,bhishma,Java 8,436,24985600
+28773939,159,1500713326,2147483647,B,1800,*special-greedy-sortings,Bitway,Java 8,374,27648000
+28152193,159,1498754941,2147483647,D,2000,*special-brute force-dp-strings,vaibhav28,Java 8,248,20480000
+27873596,159,1497748227,2147483647,A,1700,*special-greedy-implementation,alihashem,Java 8,560,0
+27550736,159,1496516489,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Ajudiya_13,Java 8,2340,0
+27476404,159,1496283952,2147483647,A,1700,*special-greedy-implementation,Ebraheem95,Java 8,310,0
+27449724,159,1496153168,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Maulik_Patel,Java 8,1528,10854400
+27191320,159,1495089325,2147483647,A,1700,*special-greedy-implementation,bhishma,Java 8,342,0
+27106601,159,1494765308,2147483647,D,2000,*special-brute force-dp-strings,dhruvil_1bhuptani,Java 8,498,39833600
+26413710,159,1492348695,2147483647,C,2000,*special-binary search-brute force-data structures-strings,zodiacleo,Java 8,2682,23142400
+26233622,159,1491729525,2147483647,D,2000,*special-brute force-dp-strings,Kammola,Java 8,248,20582400
+26077073,159,1491133806,2147483647,D,2000,*special-brute force-dp-strings,ChajkaMaksim,Java 8,2212,20889600
+26066404,159,1491089836,2147483647,D,2000,*special-brute force-dp-strings,Andrew666,Java 8,2212,20889600
+25676843,159,1490044476,2147483647,E,2100,*special-data structures-greedy-sortings,pitfall,Java 8,373,39014400
+25676498,159,1490042901,2147483647,C,2000,*special-binary search-brute force-data structures-strings,pitfall,Java 8,590,27340800
+25676323,159,1490042187,2147483647,D,2000,*special-brute force-dp-strings,pitfall,Java 8,218,20582400
+25274144,159,1488748001,2147483647,A,1700,*special-greedy-implementation,pitfall,Java 8,466,20582400
+24470534,159,1486392642,2147483647,C,2000,*special-binary search-brute force-data structures-strings,AJ_Coder,Java 8,434,59392000
+23786652,159,1484317694,2147483647,D,2000,*special-brute force-dp-strings,Ahmad_Elsagheer,Java 8,310,20275200
+23786572,159,1484317435,2147483647,D,2000,*special-brute force-dp-strings,Ahmad_Elsagheer,Java 8,466,61440000
+23416807,159,1483092617,2147483647,D,2000,*special-brute force-dp-strings,bhishma,Java 8,310,20582400
+23398950,159,1483015175,2147483647,D,2000,*special-brute force-dp-strings,rahulkhairwar,Java 8,2308,20582400
+23398640,159,1483014153,2147483647,D,2000,*special-brute force-dp-strings,rahulkhairwar,Java 8,2276,20684800
+22184827,159,1478985905,2147483647,C,2000,*special-binary search-brute force-data structures-strings,MDL,Java 8,310,17715200
+21774779,159,1477409896,2147483647,D,2000,*special-brute force-dp-strings,MDL,Java 8,248,0
+21707710,159,1477218478,2147483647,C,2000,*special-binary search-brute force-data structures-strings,dhruvil_1bhuptani,Java 8,2214,0
+21386537,159,1476289025,2147483647,D,2000,*special-brute force-dp-strings,rudrakh97,Java 8,436,38707200
+21325566,159,1476040588,2147483647,D,2000,*special-brute force-dp-strings,Soumendu.Sinha,Java 8,278,20172800
+21014295,159,1475239718,2147483647,D,2000,*special-brute force-dp-strings,prateek1985,Java 8,590,39116800
+20930518,159,1474909641,2147483647,B,1800,*special-greedy-sortings,da_201501181,Java 8,436,5017600
+20923843,159,1474889049,2147483647,A,1700,*special-greedy-implementation,dhruvil_1bhuptani,Java 8,404,0
+20923218,159,1474886507,2147483647,B,1800,*special-greedy-sortings,dhruvil_1bhuptani,Java 8,310,5017600
+20551915,159,1473694719,2147483647,D,2000,*special-brute force-dp-strings,Corvus,Java 8,434,16998400
+20477741,159,1473422961,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Corvus,Java 8,466,100352000
+19928583,159,1471442281,2147483647,B,1800,*special-greedy-sortings,mariem_kandil,Java 8,404,27545600
+19911608,159,1471365768,2147483647,C,2000,*special-binary search-brute force-data structures-strings,grover_irusta,Java 8,2588,23040000
+19651744,159,1470400848,2147483647,C,2000,*special-binary search-brute force-data structures-strings,grover_irusta,Java 8,2992,23040000
+19642833,159,1470368037,2147483647,B,1800,*special-greedy-sortings,Kharouba,Java 8,372,20582400
+19637127,159,1470332446,2147483647,B,1800,*special-greedy-sortings,Ahmed.Shawky,Java 8,716,38195200
+19600091,159,1470235679,2147483647,B,1800,*special-greedy-sortings,Amr_Ayman,Java 8,872,6246400
+19599239,159,1470232924,2147483647,B,1800,*special-greedy-sortings,Minaa,Java 8,560,0
+18932616,159,1467828536,2147483647,D,2000,*special-brute force-dp-strings,arrrhh,Java 8,496,38809600
+18752203,159,1467030675,2147483647,C,2000,*special-binary search-brute force-data structures-strings,i_Love_Jaiman,Java 8,1652,0
+18633745,159,1466528315,2147483647,D,2000,*special-brute force-dp-strings,i_Love_Jaiman,Java 8,1934,63692800
+18616978,159,1466437980,2147483647,B,1800,*special-greedy-sortings,Hoda_Hisham,Java 8,374,0
+18616182,159,1466434831,2147483647,B,1800,*special-greedy-sortings,mona_hashem,Java 8,1714,0
+18332143,159,1465427222,2147483647,D,2000,*special-brute force-dp-strings,frktry,Java 7,218,39116800
+18230548,159,1464954026,2147483647,B,1800,*special-greedy-sortings,Omar_Kojak,Java 8,528,27750400
+18175225,159,1464733274,2147483647,B,1800,*special-greedy-sortings,alaa_megahed,Java 8,466,20787200
+18175071,159,1464731213,2147483647,B,1800,*special-greedy-sortings,alaa_megahed,Java 8,466,20787200
+18174976,159,1464730667,2147483647,B,1800,*special-greedy-sortings,alaa_megahed,Java 8,528,20787200
+18157345,159,1464613466,2147483647,B,1800,*special-greedy-sortings,biba96,Java 8,530,20684800
+18151818,159,1464563703,2147483647,B,1800,*special-greedy-sortings,hady1100,Java 8,530,20684800
+18150287,159,1464547149,2147483647,B,1800,*special-greedy-sortings,ahmed_helmy,Java 8,530,20787200
+18148731,159,1464536000,2147483647,B,1800,*special-greedy-sortings,Imaginary,Java 8,872,27136000
+18148608,159,1464535055,2147483647,B,1800,*special-greedy-sortings,mohamedazab,Java 8,590,20684800
+18148136,159,1464532054,2147483647,B,1800,*special-greedy-sortings,Minaa,Java 8,560,20684800
+18144294,159,1464516421,2147483647,B,1800,*special-greedy-sortings,Omar_Morsi,Java 8,498,20480000
+18144232,159,1464516173,2147483647,B,1800,*special-greedy-sortings,AhmedSoliman,Java 8,560,34406400
+18144223,159,1464516137,2147483647,B,1800,*special-greedy-sortings,Omar_Morsi,Java 8,404,20480000
+17933713,159,1463413504,2147483647,B,1800,*special-greedy-sortings,Ahmad_Elsagheer,Java 8,498,20992000
+17933640,159,1463413154,2147483647,B,1800,*special-greedy-sortings,Ahmad_Elsagheer,Java 8,530,21094400
+17323081,159,1460702994,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Nirmit,Java 7,1184,614400
+17189968,159,1459952221,2147483647,D,2000,*special-brute force-dp-strings,abhishek125,Java 8,2120,20889600
+16836715,159,1458472571,2147483647,D,2000,*special-brute force-dp-strings,videogamez,Java 8,342,39936000
+16306452,159,1456307819,2147483647,C,2000,*special-binary search-brute force-data structures-strings,mag20174301,Java 8,2682,0
+16194109,159,1455865048,2147483647,D,2000,*special-brute force-dp-strings,mag20174301,Java 8,372,12083200
+15782969,159,1454571248,2147483647,B,1800,*special-greedy-sortings,AJ_Coder,Java 7,1402,0
+15230604,159,1452204209,2147483647,A,1700,*special-greedy-implementation,user__name,Java 8,404,0
+15169710,159,1451832998,2147483647,A,1700,*special-greedy-implementation,cellist,Java 8,342,0
+14932186,159,1450834993,2147483647,D,2000,*special-brute force-dp-strings,Phicar,Java 7,312,0
+14856666,159,1450414699,2147483647,D,2000,*special-brute force-dp-strings,dhrumil140396,Java 8,310,11468800
+14847321,159,1450363456,2147483647,D,2000,*special-brute force-dp-strings,Sumeet.Varma,Java 8,218,0
+14636088,159,1449157113,2147483647,D,2000,*special-brute force-dp-strings,Nirmit,Java 8,2058,0
+14439360,159,1448369463,2147483647,D,2000,*special-brute force-dp-strings,Sehnsucht,Java 7,218,0
+14439216,159,1448368809,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Sehnsucht,Java 7,372,0
+14176971,159,1447100555,2147483647,C,2000,*special-binary search-brute force-data structures-strings,omarnvidia,Java 7,1276,8089600
+14174890,159,1447089368,2147483647,A,1700,*special-greedy-implementation,omarnvidia,Java 7,310,0
+13915153,159,1446037843,2147483647,A,1700,*special-greedy-implementation,Mantree,Java 8,434,0
+13236445,159,1443272664,2147483647,D,2000,*special-brute force-dp-strings,biswajitdebnath8,Java 7,218,14233600
+13076208,159,1442523472,2147483647,D,2000,*special-brute force-dp-strings,ddragomir01,Java 8,404,21299200
+12899005,159,1441722855,2147483647,A,1700,*special-greedy-implementation,Pablo_alexis,Java 8,404,0
+12898997,159,1441722833,2147483647,A,1700,*special-greedy-implementation,Pablo_alexis,Java 8,436,0
+12817327,159,1441207896,2147483647,A,1700,*special-greedy-implementation,Gendo.,Java 7,310,0
+12768839,159,1440895132,2147483647,A,1700,*special-greedy-implementation,Lonjinus,Java 7,218,0
+12735908,159,1440793588,2147483647,D,2000,*special-brute force-dp-strings,Phuepe,Java 7,248,0
+12730112,159,1440759523,2147483647,D,2000,*special-brute force-dp-strings,JPaulsen,Java 7,1590,148480000
+12679158,159,1440385279,2147483647,A,1700,*special-greedy-implementation,wizerwolf,Java 8,466,0
+12385050,159,1438850287,2147483647,D,2000,*special-brute force-dp-strings,.tx,Java 8,248,0
+12309073,159,1438479647,2147483647,B,1800,*special-greedy-sortings,.tx,Java 8,436,0
+11657181,159,1434659531,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Sumeet.Varma,Java 7,280,0
+11534792,159,1434034679,2147483647,D,2000,*special-brute force-dp-strings,LuuNhatPhi,Java 7,248,0
+11406644,159,1433362575,2147483647,E,2100,*special-data structures-greedy-sortings,sweiss,Java 8,374,41267200
+11405977,159,1433357292,2147483647,C,2000,*special-binary search-brute force-data structures-strings,sweiss,Java 8,280,0
+11392151,159,1433258662,2147483647,A,1700,*special-greedy-implementation,sweiss,Java 8,248,0
+11391907,159,1433257353,2147483647,D,2000,*special-brute force-dp-strings,sweiss,Java 8,248,0
+11391233,159,1433254082,2147483647,B,1800,*special-greedy-sortings,sweiss,Java 8,560,0
+11258223,159,1432498406,2147483647,C,2000,*special-binary search-brute force-data structures-strings,tempTest1,Java 7,466,0
+11253730,159,1432469510,2147483647,C,2000,*special-binary search-brute force-data structures-strings,tempTest1,Java 7,2058,0
+11170195,159,1432071506,2147483647,C,2000,*special-binary search-brute force-data structures-strings,thocevar,Java 7,312,0
+11170165,159,1432071327,2147483647,C,2000,*special-binary search-brute force-data structures-strings,thocevar,Java 7,434,0
+11060265,159,1431238519,2147483647,D,2000,*special-brute force-dp-strings,PTNK13091996,Java 8,342,21196800
+10820859,159,1429697158,2147483647,E,2100,*special-data structures-greedy-sortings,alibaba,Java 8,452,44236800
+10601806,159,1428238070,2147483647,B,1800,*special-greedy-sortings,turmoil,Java 8,372,0
+10538354,159,1427861816,2147483647,A,1700,*special-greedy-implementation,poikniok,Java 8,310,0
+10514446,159,1427626206,2147483647,B,1800,*special-greedy-sortings,georgy.ivanov,Java 8,372,0
+10510163,159,1427593260,2147483647,A,1700,*special-greedy-implementation,omarnvidia,Java 7,280,0
+10341860,159,1426704292,2147483647,D,2000,*special-brute force-dp-strings,poikniok,Java 8,312,0
+10223425,159,1425962401,2147483647,D,2000,*special-brute force-dp-strings,biltharesatyendra,Java 8,310,11059200
+10119917,159,1425304921,2147483647,A,1700,*special-greedy-implementation,RokS,Java 7,280,0
+9956881,159,1424588659,2147483647,B,1800,*special-greedy-sortings,vjudge2,Java 7,1184,0
+9956870,159,1424588617,2147483647,B,1800,*special-greedy-sortings,vjudge3,Java 7,1214,0
+9956869,159,1424588615,2147483647,B,1800,*special-greedy-sortings,vjudge5,Java 7,310,0
+9637687,159,1422684682,2147483647,C,2000,*special-binary search-brute force-data structures-strings,tomdmitriev,Java 8,560,0
+9503406,159,1421938822,2147483647,D,2000,*special-brute force-dp-strings,AIDOS,Java 8,310,10752000
+9487735,159,1421783966,2147483647,B,1800,*special-greedy-sortings,AIDOS,Java 8,404,0
+9439713,159,1421372044,2147483647,B,1800,*special-greedy-sortings,poikniok,Java 8,404,0
+9280517,159,1419653926,2147483647,D,2000,*special-brute force-dp-strings,darsh,Java 7,404,13926400
+9213407,159,1419148011,2147483647,A,1700,*special-greedy-implementation,stevegregg,Java 6,310,0
+8805616,159,1416680964,2147483647,B,1800,*special-greedy-sortings,makhlas,Java 7,1184,102400
+8762041,159,1416472725,2147483647,C,2000,*special-binary search-brute force-data structures-strings,GhpS,Java 7,186,0
+8632234,159,1415633580,2147483647,D,2000,*special-brute force-dp-strings,fillets,Java 7,218,0
+8547960,159,1415111882,2147483647,E,2100,*special-data structures-greedy-sortings,qingwen,Java 7,234,14336000
+8347077,159,1413938771,2147483647,B,1800,*special-greedy-sortings,stevegregg,Java 6,466,512000
+8337357,159,1413866450,2147483647,A,1700,*special-greedy-implementation,MachineBio,Java 7,278,307200
+8165185,159,1412943137,2147483647,B,1800,*special-greedy-sortings,dcr,Java 8,652,1843200
+8063097,159,1412281962,2147483647,A,1700,*special-greedy-implementation,NoCakeNoCode,Java 7,404,102400
+7956739,159,1411735759,2147483647,B,1800,*special-greedy-sortings,GasDuracell,Java 8,622,2048000
+7812950,159,1410897840,2147483647,B,1800,*special-greedy-sortings,baggi,Java 8,592,2048000
+7807299,159,1410857036,2147483647,B,1800,*special-greedy-sortings,Kida,Java 8,686,2048000
+7148936,159,1405687116,2147483647,A,1700,*special-greedy-implementation,owenomar,Java 7,374,102400
+7120172,159,1405567914,2147483647,D,2000,*special-brute force-dp-strings,trunghieu11,Java 7,186,0
+7014320,159,1404543596,2147483647,E,2100,*special-data structures-greedy-sortings,I_love_Malika,Java 7,171,409600
+6974052,159,1403944425,2147483647,D,2000,*special-brute force-dp-strings,monsterspy,Java 7,2026,0
+6968788,159,1403863143,2147483647,D,2000,*special-brute force-dp-strings,vamshiiisc,Java 7,310,0
+6646590,159,1400375883,2147483647,D,2000,*special-brute force-dp-strings,vvenkai,Java 7,154,0
+6640335,159,1400305788,2147483647,D,2000,*special-brute force-dp-strings,teetora,Java 7,2058,0
+6381108,159,1397684933,2147483647,A,1700,*special-greedy-implementation,jcomputer000,Java 7,216,102400
+6360634,159,1397513071,2147483647,D,2000,*special-brute force-dp-strings,jcomputer000,Java 7,186,0
+6262105,159,1396675388,2147483647,D,2000,*special-brute force-dp-strings,cmouli,Java 6,2462,0
+6192694,159,1396202741,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nikchee1,Java 7,1216,0
+6192555,159,1396201041,2147483647,C,2000,*special-binary search-brute force-data structures-strings,random.johnnyh,Java 8,748,9318400
+6020197,159,1394882660,2147483647,A,1700,*special-greedy-implementation,turingcomplete,Java 7,186,102400
+5945721,159,1394047848,2147483647,D,2000,*special-brute force-dp-strings,tomash_em,Java 7,186,0
+5923701,159,1393938146,2147483647,B,1800,*special-greedy-sortings,l3o,Java 6,1122,102400
+5902669,159,1391595911,2147483647,A,1700,*special-greedy-implementation,Slamur,Java 7,248,307200
+5902440,159,1391593410,2147483647,D,2000,*special-brute force-dp-strings,Slamur,Java 7,186,204800
+5729017,159,1390028921,2147483647,B,1800,*special-greedy-sortings,haowch,Java 6,278,0
+5660787,159,1389460102,2147483647,A,1700,*special-greedy-implementation,tomash_em,Java 7,312,307200
+5639621,159,1389212382,2147483647,B,1800,*special-greedy-sortings,Slamur,Java 7,404,307200
+5516865,159,1387953488,2147483647,D,2000,*special-brute force-dp-strings,upsolving,Java 7,156,0
+5498113,159,1387817575,2147483647,A,1700,*special-greedy-implementation,tomdmitriev,Java 7,156,0
+5441142,159,1387046993,2147483647,B,1800,*special-greedy-sortings,tomash_em,Java 7,1340,307200
+5407105,159,1386728975,2147483647,B,1800,*special-greedy-sortings,mutarock,Java 6,248,0
+5357683,159,1386291123,2147483647,D,2000,*special-brute force-dp-strings,mikeyg263,Java 7,1248,75571200
+5354376,159,1386250416,2147483647,B,1800,*special-greedy-sortings,1e9,Java 6,248,0
+5353824,159,1386245719,2147483647,A,1700,*special-greedy-implementation,1e9,Java 6,218,307200
+5308704,159,1385773580,2147483647,D,2000,*special-brute force-dp-strings,miguelmaurizio,Java 7,248,14233600
+5283818,159,1385612182,2147483647,D,2000,*special-brute force-dp-strings,alibaba,Java 6,342,55193600
+5273576,159,1385563946,2147483647,C,2000,*special-binary search-brute force-data structures-strings,upsolving,Java 7,156,0
+5262932,159,1385499802,2147483647,B,1800,*special-greedy-sortings,pitfall,Java 7,312,0
+5193963,159,1385143917,2147483647,C,2000,*special-binary search-brute force-data structures-strings,alibaba,Java 6,2184,5529600
+5193809,159,1385142372,2147483647,B,1800,*special-greedy-sortings,alibaba,Java 6,374,1740800
+5193497,159,1385139215,2147483647,A,1700,*special-greedy-implementation,alibaba,Java 6,248,2764800
+5094617,159,1384411739,2147483647,B,1800,*special-greedy-sortings,vvenkai,Java 7,248,0
+5057450,159,1384146306,2147483647,C,2000,*special-binary search-brute force-data structures-strings,fabiankasUN,Java 7,1122,102400
+5056673,159,1384132648,2147483647,C,2000,*special-binary search-brute force-data structures-strings,FabianConP,Java 7,1216,41984000
+4988413,159,1383590895,2147483647,B,1800,*special-greedy-sortings,MatveyKr,Java 7,1154,102400
+4988384,159,1383590575,2147483647,B,1800,*special-greedy-sortings,MatveyKr,Java 7,1154,102400
+4974426,159,1383434674,2147483647,B,1800,*special-greedy-sortings,Alga,Java 7,1122,307200
+4956297,159,1383334140,2147483647,D,2000,*special-brute force-dp-strings,Nevidimka,Java 6,186,1331200
+4948408,159,1383275802,2147483647,B,1800,*special-greedy-sortings,HAL9000,Java 7,218,102400
+4787169,159,1381806209,2147483647,D,2000,*special-brute force-dp-strings,lovesf,Java 7,156,0
+4676371,159,1380935706,2147483647,B,1800,*special-greedy-sortings,Stickman,Java 7,280,0
+4647083,159,1380783689,2147483647,D,2000,*special-brute force-dp-strings,Sokolov,Java 7,186,0
+4646653,159,1380778305,2147483647,A,1700,*special-greedy-implementation,feline,Java 6,186,204800
+4569787,159,1380228890,2147483647,B,1800,*special-greedy-sortings,Sabelan,Java 7,342,102400
+4510899,159,1379690322,2147483647,A,1700,*special-greedy-implementation,Sokolov,Java 7,248,204800
+4449669,159,1379017683,2147483647,D,2000,*special-brute force-dp-strings,sroyal,Java 6,312,0
+4442976,159,1378906249,2147483647,A,1700,*special-greedy-implementation,vvenkai,Java 7,186,102400
+4430422,159,1378612179,2147483647,A,1700,*special-greedy-implementation,CurbStomp,Java 7,280,0
+4412707,159,1378419122,2147483647,E,2100,*special-data structures-greedy-sortings,santjuan,Java 7,1248,38297600
+4411655,159,1378394454,2147483647,D,2000,*special-brute force-dp-strings,atinjca,Java 7,998,0
+4401287,159,1378213174,2147483647,B,1800,*special-greedy-sortings,ihkus,Java 7,186,0
+4366126,159,1377782242,2147483647,C,2000,*special-binary search-brute force-data structures-strings,FabianConP,Java 7,1216,42086400
+4366114,159,1377782060,2147483647,C,2000,*special-binary search-brute force-data structures-strings,FabianConP,Java 7,1122,102400
+4366077,159,1377781474,2147483647,C,2000,*special-binary search-brute force-data structures-strings,FabianConP,Java 7,1184,102400
+4366047,159,1377781071,2147483647,C,2000,*special-binary search-brute force-data structures-strings,FabianConP,Java 7,1248,204800
+4364685,159,1377741283,2147483647,C,2000,*special-binary search-brute force-data structures-strings,fabiankasUN,Java 7,1184,0
+4339601,159,1377523552,2147483647,B,1800,*special-greedy-sortings,Sokolov,Java 7,280,0
+4338013,159,1377494336,2147483647,B,1800,*special-greedy-sortings,eynshteyn,Java 7,1216,102400
+4326889,159,1377213731,2147483647,D,2000,*special-brute force-dp-strings,travm12,Java 7,280,102400
+4322241,159,1377139642,2147483647,A,1700,*special-greedy-implementation,DiegoAE,Java 6,186,307200
+4322002,159,1377134193,2147483647,A,1700,*special-greedy-implementation,santjuan,Java 7,280,0
+4317798,159,1377044545,2147483647,A,1700,*special-greedy-implementation,travm12,Java 7,280,49459200
+4308138,159,1376826182,2147483647,D,2000,*special-brute force-dp-strings,nitricworm,Java 7,186,0
+4304801,159,1376760715,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1404,102400
+4304797,159,1376760647,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1590,204800
+4304771,159,1376760394,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1434,102400
+4304764,159,1376760338,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1496,204800
+4304628,159,1376758744,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1340,204800
+4304622,159,1376758693,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1340,204800
+4304591,159,1376758175,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1466,102400
+4304534,159,1376757063,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1340,204800
+4304528,159,1376756982,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1404,204800
+4304523,159,1376756838,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1560,204800
+4304500,159,1376756518,2147483647,C,2000,*special-binary search-brute force-data structures-strings,nitricworm,Java 7,1560,102400
+4287537,159,1376668806,2147483647,B,1800,*special-greedy-sortings,nitricworm,Java 7,312,0
+4286818,159,1376659262,2147483647,A,1700,*special-greedy-implementation,nitricworm,Java 7,280,0
+4282770,159,1376582484,2147483647,D,2000,*special-brute force-dp-strings,MaxMiller,Java 7,186,0
+4278647,159,1376496907,2147483647,D,2000,*special-brute force-dp-strings,atinjca,Java 7,218,0
+4270906,159,1376343702,2147483647,C,2000,*special-binary search-brute force-data structures-strings,akashm,Java 6,2714,307200
+4264023,159,1376197735,2147483647,E,2100,*special-data structures-greedy-sortings,DoublePointer,Java 7,780,37580800
+4234271,159,1375719578,2147483647,D,2000,*special-brute force-dp-strings,ali_hasan,Java 6,248,0
+4233226,159,1375705400,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,404,0
+4229480,159,1375641361,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,404,0
+4229477,159,1375641257,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,530,2764800
+4229149,159,1375636147,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,560,2867200
+4228949,159,1375632560,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,780,9523200
+4228926,159,1375632136,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,780,9625600
+4228783,159,1375629376,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,1028,17100800
+4228777,159,1375629264,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,1154,16691200
+4228729,159,1375628501,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,1154,17408000
+4193786,159,1375003230,2147483647,C,2000,*special-binary search-brute force-data structures-strings,0p9o8i,Java 7,1340,17203200
+4141764,159,1374591850,2147483647,B,1800,*special-greedy-sortings,akashm,Java 6,1046,102400
+4055821,159,1373647720,2147483647,B,1800,*special-greedy-sortings,sroyal,Java 6,1078,102400
+4053857,159,1373616654,2147483647,C,2000,*special-binary search-brute force-data structures-strings,gcd_fuck,Java 7,171,0
+4053478,159,1373610550,2147483647,D,2000,*special-brute force-dp-strings,gcd_fuck,Java 7,125,0
+4030756,159,1373111400,2147483647,C,2000,*special-binary search-brute force-data structures-strings,av.driftking,Java 7,1515,409600
+3997910,159,1372634963,2147483647,C,2000,*special-binary search-brute force-data structures-strings,DoublePointer,Java 6,437,9625600
+3962533,159,1372226814,2147483647,D,2000,*special-brute force-dp-strings,DoublePointer,Java 6,203,14643200
+3959730,159,1372164224,2147483647,A,1700,*special-greedy-implementation,akashm,Java 6,359,307200
+3958846,159,1372154444,2147483647,D,2000,*special-brute force-dp-strings,kyacout,Java 7,187,14848000
+3956234,159,1372088143,2147483647,D,2000,*special-brute force-dp-strings,Mostafa.Gabriel,Java 7,203,14848000
+3934627,159,1371884880,2147483647,C,2000,*special-binary search-brute force-data structures-strings,ihkus,Java 7,1781,102400
+3929078,159,1371738967,2147483647,D,2000,*special-brute force-dp-strings,av.driftking,Java 7,125,0
+3825152,159,1370441881,2147483647,D,2000,*special-brute force-dp-strings,allegea,Java 7,531,103424000
+3821835,159,1370354635,2147483647,D,2000,*special-brute force-dp-strings,Zhansun,Java 6,125,102400
+3820150,159,1370303407,2147483647,B,1800,*special-greedy-sortings,travm12,Java 7,1062,204800
+3789476,159,1369794863,2147483647,D,2000,*special-brute force-dp-strings,sfmunera,Java 6,484,55296000
+3767568,159,1369436903,2147483647,B,1800,*special-greedy-sortings,zarhane,Java 7,1234,204800
+3754774,159,1369196861,2147483647,D,2000,*special-brute force-dp-strings,santjuan,Java 7,156,14848000
+3750018,159,1369055436,2147483647,B,1800,*special-greedy-sortings,CurbStomp,Java 7,187,0
+3729042,159,1368769220,2147483647,A,1700,*special-greedy-implementation,0p9o8i,Java 7,171,102400
+3705347,159,1368347379,2147483647,A,1700,*special-greedy-implementation,fake,Java 6,171,307200
+3696271,159,1368105013,2147483647,B,1800,*special-greedy-sortings,maratmiki,Java 7,1326,307200
+3671510,159,1367739238,2147483647,B,1800,*special-greedy-sortings,MiroO,Java 6,265,2252800
+3501834,159,1365651627,2147483647,C,2000,*special-binary search-brute force-data structures-strings,zulkan,Java 6,2028,512000
+3501828,159,1365651394,2147483647,C,2000,*special-binary search-brute force-data structures-strings,zulkan,Java 6,2812,921600
+3174656,159,1361585420,2147483647,C,2000,*special-binary search-brute force-data structures-strings,mkirsche,Java 6,1875,307200
+3136643,159,1361019822,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Spellbound,Java 7,1859,409600
+3081179,159,1360245705,2147483647,B,1800,*special-greedy-sortings,vjudge1,Java 7,218,0
+3080733,159,1360238003,2147483647,B,1800,*special-greedy-sortings,alik,Java 7,1078,204800
+3080718,159,1360237753,2147483647,B,1800,*special-greedy-sortings,vjudge2,Java 7,1093,102400
+3080717,159,1360237717,2147483647,B,1800,*special-greedy-sortings,vjudge2,Java 7,1109,204800
+3070111,159,1359970204,2147483647,D,2000,*special-brute force-dp-strings,Spacejoker,Java 6,250,14745600
+3044073,159,1359713092,2147483647,A,1700,*special-greedy-implementation,Spacejoker,Java 6,1312,307200
+3041778,159,1359653323,2147483647,B,1800,*special-greedy-sortings,Spacejoker,Java 6,280,102400
+3041669,159,1359651632,2147483647,B,1800,*special-greedy-sortings,Spacejoker,Java 6,281,102400
+3041660,159,1359651513,2147483647,B,1800,*special-greedy-sortings,Spacejoker,Java 6,281,102400
+3041656,159,1359651432,2147483647,B,1800,*special-greedy-sortings,Spacejoker,Java 6,265,102400
+3035972,159,1359531978,2147483647,D,2000,*special-brute force-dp-strings,peace_to_world,Java 6,156,2457600
+3034882,159,1359489253,2147483647,D,2000,*special-brute force-dp-strings,diego.link,Java 7,156,0
+3015758,159,1359281983,2147483647,B,1800,*special-greedy-sortings,akke,Java 6,218,102400
+3015751,159,1359281875,2147483647,B,1800,*special-greedy-sortings,akke,Java 6,250,102400
+2899090,159,1357729554,2147483647,B,1800,*special-greedy-sortings,Arsenal911,Java 7,1093,204800
+2892054,159,1357665475,2147483647,A,1700,*special-greedy-implementation,mkirsche,Java 6,125,2355200
+2876586,159,1357442698,2147483647,C,2000,*special-binary search-brute force-data structures-strings,mingotlik,Java 7,1421,307200
+2858937,159,1356890024,2147483647,D,2000,*special-brute force-dp-strings,aste,Java 7,187,14438400
+2845947,159,1356645666,2147483647,C,2000,*special-binary search-brute force-data structures-strings,xiaowuc1,Java 6,1703,307200
+2827491,159,1356488629,2147483647,B,1800,*special-greedy-sortings,mkirsche,Java 6,1109,16281600
+2638182,159,1353769485,2147483647,C,2000,*special-binary search-brute force-data structures-strings,ahmad_mamdouh,Java 7,546,15155200
+2607902,159,1353452770,41470,D,2000,*special-brute force-dp-strings,di_halt,Java 7,281,55091200
+2607636,159,1353444392,33092,C,2000,*special-binary search-brute force-data structures-strings,di_halt,Java 7,1468,204800
+2606557,159,1353426365,15065,B,1800,*special-greedy-sortings,di_halt,Java 7,218,0
+2605973,159,1353420699,9398,A,1700,*special-greedy-implementation,di_halt,Java 7,109,0
+2468231,159,1351533479,2147483647,B,1800,*special-greedy-sortings,Tin_Tin,Java 6,390,204800
+2466146,159,1351504696,2147483647,E,2100,*special-data structures-greedy-sortings,Azat_Yusupov,Java 6,281,512000
+2387834,159,1350659159,2147483647,A,1700,*special-greedy-implementation,TUITUF_Bahrom,Java 6,312,307200
+2350139,159,1350026488,2147483647,B,1800,*special-greedy-sortings,agent3889,Java 6,421,204800
+2333947,159,1349860179,2147483647,B,1800,*special-greedy-sortings,TUITUF_Bahrom,Java 6,203,204800
+2297910,159,1349330914,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Bambam,Java 7,1656,102400
+2235985,159,1348449918,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Bugman,Java 6,546,307200
+2230035,159,1348326784,2147483647,E,2100,*special-data structures-greedy-sortings,jiangzhijie,Java 7,343,59494400
+2228000,159,1348261163,2147483647,D,2000,*special-brute force-dp-strings,Lindsey,Java 6,187,44032000
+2227921,159,1348257410,2147483647,D,2000,*special-brute force-dp-strings,Lindsey,Java 6,125,44032000
+2173691,159,1347737101,2147483647,B,1800,*special-greedy-sortings,AbdelrahmanAsal,Java 6,1515,69324800
+2171781,159,1347702602,2147483647,A,1700,*special-greedy-implementation,AbdelrahmanAsal,Java 6,250,44339200
+2170189,159,1347653017,2147483647,C,2000,*special-binary search-brute force-data structures-strings,AbdelrahmanAsal,Java 6,2578,44441600
+2170186,159,1347652948,2147483647,C,2000,*special-binary search-brute force-data structures-strings,AbdelrahmanAsal,Java 6,2828,44646400
+2152542,159,1347433828,2147483647,C,2000,*special-binary search-brute force-data structures-strings,lemonsuper,Java 7,500,45260800
+2095281,159,1346765248,2147483647,D,2000,*special-brute force-dp-strings,lemonsuper,Java 7,110,45158400
+2092486,159,1346669993,2147483647,D,2000,*special-brute force-dp-strings,mingotlik,Java 6,170,45158400
+2051193,159,1346035863,2147483647,A,1700,*special-greedy-implementation,lemonsuper,Java 7,160,45977600
+2049471,159,1345956827,2147483647,B,1800,*special-greedy-sortings,Lindsey,Java 6,1200,44236800
+2034172,159,1345370951,2147483647,A,1700,*special-greedy-implementation,DoublePointer,Java 6,410,43520000
+2033167,159,1345327779,2147483647,B,1800,*special-greedy-sortings,DoublePointer,Java 6,1220,43520000
+2021699,159,1345198997,2147483647,B,1800,*special-greedy-sortings,N0D1R,Java 6,1220,43417600
+1997428,159,1344591563,2147483647,A,1700,*special-greedy-implementation,jiangzhijie,Java 7,220,45875200
+1969846,159,1343881567,2147483647,C,2000,*special-binary search-brute force-data structures-strings,ilovepink,Java 6,1720,43724800
+1968687,159,1343837103,2147483647,D,2000,*special-brute force-dp-strings,ilovepink,Java 6,560,43417600
+1965832,159,1343757967,2147483647,A,1700,*special-greedy-implementation,ilovepink,Java 6,1190,203161600
+1962431,159,1343696486,2147483647,B,1800,*special-greedy-sortings,ilovepink,Java 6,1170,97689600
+1913049,159,1342753784,2147483647,B,1800,*special-greedy-sortings,lemonsuper,Java 7,1160,45260800
+1874469,159,1341690749,2147483647,C,2000,*special-binary search-brute force-data structures-strings,rockstartiwari,Java 6,330,43622400
+1873783,159,1341665536,2147483647,C,2000,*special-binary search-brute force-data structures-strings,PERNEKHAN,Java 6,280,43520000
+1831033,159,1340589858,2147483647,A,1700,*special-greedy-implementation,fxpo,Java 6,280,43520000
+1811968,159,1340260378,2147483647,D,2000,*special-brute force-dp-strings,xiaowuc1,Java 6,130,43212800
+1769954,159,1339088591,2147483647,B,1800,*special-greedy-sortings,rockstartiwari,Java 6,220,43417600
+1768943,159,1339059099,2147483647,A,1700,*special-greedy-implementation,altais,Java 6,220,43315200
+1768044,159,1339004962,2147483647,B,1800,*special-greedy-sortings,GhpS,Java 6,450,43520000
+1766146,159,1338910267,2147483647,B,1800,*special-greedy-sortings,altais,Java 6,270,43520000
+1753164,159,1338716256,2147483647,A,1700,*special-greedy-implementation,tis,Java 6,160,43520000
+1749064,159,1338538043,2147483647,B,1800,*special-greedy-sortings,tis,Java 6,1050,43315200
+1706830,159,1337546672,2147483647,A,1700,*special-greedy-implementation,goodsky,Java 6,160,43520000
+1688548,159,1337055230,2147483647,B,1800,*special-greedy-sortings,goodsky,Java 6,1130,43315200
+1648951,159,1335952471,2147483647,D,2000,*special-brute force-dp-strings,ArtPetroff,Java 6,130,43110400
+1646640,159,1335815122,2147483647,A,1700,*special-greedy-implementation,nise_nabe,Java 6,480,43520000
+1592598,159,1334990026,2147483647,E,2100,*special-data structures-greedy-sortings,uwi,Java 7,660,57651200
+1586329,159,1334934121,2147483647,D,2000,*special-brute force-dp-strings,bohuss,Java 6,140,43110400
+1497836,159,1333890758,2147483647,B,1800,*special-greedy-sortings,Dunaril,Java 6,1230,43724800
+1449155,159,1333283966,2147483647,A,1700,*special-greedy-implementation,onixred,Java 7,230,45056000
+1443039,159,1333101464,2147483647,A,1700,*special-greedy-implementation,ArtPetroff,Java 6,360,44544000
+1422373,159,1332845462,2147483647,A,1700,*special-greedy-implementation,shnell,Java 6,380,43520000
+1385464,159,1332355869,2147483647,A,1700,*special-greedy-implementation,wackloner,Java 6,160,43417600
+1385445,159,1332355038,2147483647,B,1800,*special-greedy-sortings,wackloner,Java 6,220,43315200
+1382794,159,1332273349,2147483647,B,1800,*special-greedy-sortings,Fantaghiro,Java 6,280,43315200
+1382600,159,1332267487,2147483647,A,1700,*special-greedy-implementation,Fantaghiro,Java 6,110,43520000
+1374044,159,1332018113,2147483647,C,2000,*special-binary search-brute force-data structures-strings,zamzam,Java 6,1660,43622400
+1361350,159,1331906811,2147483647,E,2100,*special-data structures-greedy-sortings,Nova,Java 6,470,58060800
+1360289,159,1331875566,2147483647,D,2000,*special-brute force-dp-strings,luyi0619,Java 7,110,44851200
+1360287,159,1331875549,2147483647,D,2000,*special-brute force-dp-strings,luyi0619,Java 6,110,43110400
+1359984,159,1331856404,2147483647,A,1700,*special-greedy-implementation,cougarhead2003,Java 6,160,43520000
+1359056,159,1331817787,2147483647,B,1800,*special-greedy-sortings,demuri11,Java 6,1140,43315200
+1358928,159,1331814647,2147483647,B,1800,*special-greedy-sortings,vab,Java 6,1060,43315200
+1358036,159,1331775372,2147483647,A,1700,*special-greedy-implementation,DiegoAE,Java 6,110,43417600
+1357982,159,1331770741,2147483647,E,2100,*special-data structures-greedy-sortings,DiegoAE,Java 6,500,56729600
+1357613,159,1331751440,2147483647,A,1700,*special-greedy-implementation,asimali246,Java 6,190,43417600
+1355193,159,1331651602,2147483647,A,1700,*special-greedy-implementation,knok16,Java 6,110,43212800
+1353862,159,1331618715,2147483647,B,1800,*special-greedy-sortings,skyhacker,Java 6,1060,43315200
+1353312,159,1331583889,2147483647,B,1800,*special-greedy-sortings,Quick_Coder,Java 7,280,45158400
+1353311,159,1331583784,2147483647,B,1800,*special-greedy-sortings,Quick_Coder,Java 6,300,43212800
+1353302,159,1331583379,2147483647,B,1800,*special-greedy-sortings,igor.pisarev,Java 7,310,45056000
+1353158,159,1331579393,2147483647,B,1800,*special-greedy-sortings,Quick_Coder,Java 6,330,43212800
+1353136,159,1331579090,2147483647,D,2000,*special-brute force-dp-strings,Quick_Coder,Java 7,170,44851200
+1353030,159,1331576181,2147483647,B,1800,*special-greedy-sortings,AlexErofeev,Java 6,220,43520000
+1352984,159,1331575366,2147483647,A,1700,*special-greedy-implementation,AlexErofeev,Java 6,90,43417600
+1352951,159,1331574752,2147483647,A,1700,*special-greedy-implementation,AlexErofeev,Java 6,130,43622400
+1350628,159,1331536669,2147483647,E,2100,*special-data structures-greedy-sortings,Lymphz,Java 6,340,57958400
+1350192,159,1331526087,2147483647,B,1800,*special-greedy-sortings,qcdisciple,Java 6,1300,44339200
+1349832,159,1331516027,2147483647,C,2000,*special-binary search-brute force-data structures-strings,uwi,Java 6,170,43417600
+1349599,159,1331504036,2147483647,C,2000,*special-binary search-brute force-data structures-strings,ahmedAbdallah,Java 6,1780,43520000
+1349591,159,1331503773,2147483647,C,2000,*special-binary search-brute force-data structures-strings,ahmedAbdallah,Java 6,1940,43520000
+1349449,159,1331498998,2147483647,A,1700,*special-greedy-implementation,Sammarize,Java 6,420,43417600
+1349405,159,1331497874,2147483647,A,1700,*special-greedy-implementation,Sammarize,Java 6,220,43520000
+1349209,159,1331495287,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Rodge,Java 6,500,43520000
+1349078,159,1331493894,2147483647,E,2100,*special-data structures-greedy-sortings,qcdisciple,Java 6,1000,55705600
+1348908,159,1331492691,2147483647,B,1800,*special-greedy-sortings,Strannik,Java 6,1060,43315200
+1340841,159,1331477668,2147483647,E,2100,*special-data structures-greedy-sortings,trickShuffle,Java 7,940,46284800
+1340828,159,1331477347,2147483647,E,2100,*special-data structures-greedy-sortings,trickShuffle,Java 7,410,46080000
+1340821,159,1331477124,2147483647,D,2000,*special-brute force-dp-strings,OgieKako,Java 6,110,43008000
+1340665,159,1331473928,2147483647,D,2000,*special-brute force-dp-strings,uwi,Java 6,720,43110400
+1340574,159,1331471356,2147483647,D,2000,*special-brute force-dp-strings,K_operafan,Java 6,1800,123801600
+1340567,159,1331471012,2147483647,A,1700,*special-greedy-implementation,Fridenn,Java 6,420,43315200
+1340481,159,1331469205,2147483647,C,2000,*special-binary search-brute force-data structures-strings,K_operafan,Java 6,1140,77516800
+1340470,159,1331469025,2147483647,B,1800,*special-greedy-sortings,uwi,Java 6,160,43110400
+1340328,159,1331465911,2147483647,A,1700,*special-greedy-implementation,uwi,Java 6,140,58470400
+1340326,159,1331465898,2147483647,D,2000,*special-brute force-dp-strings,Rex,Java 6,90,43110400
+1340225,159,1331462856,2147483647,B,1800,*special-greedy-sortings,bogdan.sumy.ua,Java 7,270,45158400
+1340220,159,1331462650,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Mostafa.Ali,Java 6,1640,43520000
+1339775,159,1331450608,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Rex,Java 6,270,43417600
+1339715,159,1331449300,2147483647,D,2000,*special-brute force-dp-strings,_jte_,Java 7,90,45056000
+1339694,159,1331449063,2147483647,B,1800,*special-greedy-sortings,cholerikasi,Java 6,2730,43622400
+1339546,159,1331446793,2147483647,C,2000,*special-binary search-brute force-data structures-strings,jcomputer000,Java 6,550,43417600
+1339104,159,1331423800,2147483647,C,2000,*special-binary search-brute force-data structures-strings,partizan22,Java 6,160,43417600
+1339090,159,1331422184,2147483647,E,2100,*special-data structures-greedy-sortings,partizan22,Java 6,610,43622400
+1338949,159,1331412929,2147483647,A,1700,*special-greedy-implementation,qcdisciple,Java 6,520,43417600
+1338915,159,1331410432,2147483647,B,1800,*special-greedy-sortings,keks,Java 6,330,43417600
+1338891,159,1331409953,2147483647,A,1700,*special-greedy-implementation,bogdan.sumy.ua,Java 7,130,45056000
+1338814,159,1331408028,2147483647,C,2000,*special-binary search-brute force-data structures-strings,peking2,Java 7,1500,45260800
+1338779,159,1331407245,2147483647,D,2000,*special-brute force-dp-strings,yarrr,Java 7,140,44851200
+1338778,159,1331407211,2147483647,C,2000,*special-binary search-brute force-data structures-strings,yarrr,Java 7,270,45056000
+1338772,159,1331407157,2147483647,E,2100,*special-data structures-greedy-sortings,yarrr,Java 7,530,97587200
+1338770,159,1331407117,2147483647,E,2100,*special-data structures-greedy-sortings,yarrr,Java 7,630,97587200
+1338769,159,1331407091,2147483647,E,2100,*special-data structures-greedy-sortings,yarrr,Java 6,580,95641600
+1338766,159,1331407033,2147483647,E,2100,*special-data structures-greedy-sortings,yarrr,Java 7,520,97587200
+1338706,159,1331406146,2147483647,B,1800,*special-greedy-sortings,Galkowsky,Java 6,1050,43315200
+1338662,159,1331405421,21,A,1700,*special-greedy-implementation,cougarhead2003,Java 6,160,43417600
+1338649,159,1331405274,2147483647,C,2000,*special-binary search-brute force-data structures-strings,stevenkplus,Java 6,170,43622400
+1338589,159,1331404484,2147483647,A,1700,*special-greedy-implementation,Galkowsky,Java 6,220,43212800
+1338495,159,1331402840,2147483647,A,1700,*special-greedy-implementation,Rodge,Java 6,160,43315200
+1338478,159,1331402555,2147483647,D,2000,*special-brute force-dp-strings,Rodge,Java 6,130,43110400
+1338319,159,1331399626,2147483647,E,2100,*special-data structures-greedy-sortings,fetetriste,Java 6,280,43724800
+1337986,159,1331394111,2147483647,A,1700,*special-greedy-implementation,balazstx,Java 6,130,43315200
+1337943,159,1331393493,2147483647,C,2000,*special-binary search-brute force-data structures-strings,mostafa_fahim,Java 7,280,45260800
+1337938,159,1331393457,2147483647,C,2000,*special-binary search-brute force-data structures-strings,mostafa_fahim,Java 6,310,43417600
+1337795,159,1331391564,2147483647,A,1700,*special-greedy-implementation,mahmoudhanafi,Java 6,140,43417600
+1337793,159,1331391546,2147483647,A,1700,*special-greedy-implementation,jcomputer000,Java 6,1110,203059200
+1337757,159,1331391029,2147483647,E,2100,*special-data structures-greedy-sortings,islam-al-aarag,Java 6,800,43520000
+1337728,159,1331390529,2147483647,A,1700,*special-greedy-implementation,sroyal,Java 6,160,43417600
+1337717,159,1331390391,2147483647,A,1700,*special-greedy-implementation,sroyal,Java 6,160,43417600
+1337629,159,1331389406,2147483647,B,1800,*special-greedy-sortings,jcomputer000,Java 6,1170,43315200
+1337608,159,1331389186,2147483647,D,2000,*special-brute force-dp-strings,islam-al-aarag,Java 6,170,43110400
+1337574,159,1331388838,2147483647,C,2000,*special-binary search-brute force-data structures-strings,islam-al-aarag,Java 6,390,43520000
+1337518,159,1331388081,2147483647,C,2000,*special-binary search-brute force-data structures-strings,SharpBlade,Java 6,1660,43520000
+1337507,159,1331387836,2147483647,B,1800,*special-greedy-sortings,islam-al-aarag,Java 6,1080,43315200
+1337443,159,1331387280,2147483647,A,1700,*special-greedy-implementation,vab,Java 6,140,43315200
+1337436,159,1331387122,2147483647,A,1700,*special-greedy-implementation,islam-al-aarag,Java 6,250,43417600
+1337392,159,1331386667,2147483647,C,2000,*special-binary search-brute force-data structures-strings,mahmoudhanafi,Java 6,1670,84480000
+1337255,159,1331385114,2147483647,A,1700,*special-greedy-implementation,Wahba,Java 6,300,43417600
+1337017,159,1331382848,2147483647,E,2100,*special-data structures-greedy-sortings,OgieKako,Java 6,310,43417600
+1336971,159,1331382407,2147483647,D,2000,*special-brute force-dp-strings,mostafa_fahim,Java 6,190,58265600
+1336846,159,1331381279,2147483647,D,2000,*special-brute force-dp-strings,partizan22,Java 6,330,43110400
+1336818,159,1331381043,2147483647,A,1700,*special-greedy-implementation,_jte_,Java 7,140,45158400
+1336784,159,1331380818,2147483647,D,2000,*special-brute force-dp-strings,_jte_,Java 7,90,45056000
+1336776,159,1331380756,2147483647,B,1800,*special-greedy-sortings,_jte_,Java 7,230,45056000
+1336763,159,1331380664,2147483647,D,2000,*special-brute force-dp-strings,Nova,Java 6,130,43008000
+1336756,159,1331380632,2147483647,C,2000,*special-binary search-brute force-data structures-strings,Nova,Java 6,250,43417600
+1336751,159,1331380573,2147483647,B,1800,*special-greedy-sortings,Nova,Java 6,200,43212800
+1336695,159,1331380161,2147483647,E,2100,*special-data structures-greedy-sortings,Jokser,Java 6,1010,55910400
+1336682,159,1331380026,2147483647,A,1700,*special-greedy-implementation,Di735,Java 7,110,45158400
+1336657,159,1331379853,2147483647,A,1700,*special-greedy-implementation,Nova,Java 6,110,43417600
+1336508,159,1331378483,2147483647,C,2000,*special-binary search-brute force-data structures-strings,phantom11,Java 7,360,45158400
+1336405,159,1331377755,2147483647,B,1800,*special-greedy-sortings,mostafa_fahim,Java 6,1190,43315200
+1336381,159,1331377582,2147483647,E,2100,*special-data structures-greedy-sortings,lwc626,Java 6,770,78438400
+1336362,159,1331377431,2147483647,E,2100,*special-data structures-greedy-sortings,lwc626,Java 6,750,78540800
+1336255,159,1331376794,2147483647,C,2000,*special-binary search-brute force-data structures-strings,trickShuffle,Java 7,280,45158400
+1336218,159,1331376500,2147483647,C,2000,*special-binary search-brute force-data structures-strings,korniltsev,Java 6,470,43622400
+1336211,159,1331376478,2147483647,B,1800,*special-greedy-sortings,korniltsev,Java 6,340,43724800
+1336207,159,1331376457,2147483647,A,1700,*special-greedy-implementation,korniltsev,Java 6,130,43417600
+1336144,159,1331375966,2147483647,A,1700,*special-greedy-implementation,unbuffed,Java 7,140,45158400
+1336103,159,1331375643,2147483647,A,1700,*special-greedy-implementation,kyprah,Java 6,110,43417600
+1336072,159,1331375400,2147483647,A,1700,*special-greedy-implementation,mostafa_fahim,Java 6,170,43417600
+1335976,159,1331374792,2147483647,A,1700,*special-greedy-implementation,dennytwix,Java 6,200,43417600
+1335721,159,1331373151,2147483647,A,1700,*special-greedy-implementation,TwCode,Java 6,170,98713600
+1335700,159,1331373077,2147483647,A,1700,*special-greedy-implementation,peking2,Java 6,170,43212800
+1335636,159,1331372768,2147483647,B,1800,*special-greedy-sortings,SharpBlade,Java 6,550,49152000
+1335623,159,1331372720,2147483647,A,1700,*special-greedy-implementation,-Starlight-,Java 6,250,43212800
+1335521,159,1331372149,2147483647,D,2000,*special-brute force-dp-strings,nsmikhailov,Java 7,1760,171110400
+1335482,159,1331371976,2147483647,C,2000,*special-binary search-brute force-data structures-strings,trickShuffle,Java 7,2670,45568000
+1335449,159,1331371864,2147483647,E,2100,*special-data structures-greedy-sortings,alexey.enkov,Java 7,280,45158400
+1335446,159,1331371847,2147483647,E,2100,*special-data structures-greedy-sortings,PeterGriffin,Java 6,590,67584000
+1335442,159,1331371838,2147483647,E,2100,*special-data structures-greedy-sortings,nsmikhailov,Java 7,630,128307200
+1335440,159,1331371789,2147483647,D,2000,*special-brute force-dp-strings,alexey.enkov,Java 7,90,44851200
+1335430,159,1331371753,2147483647,B,1800,*special-greedy-sortings,alexey.enkov,Java 7,190,44953600
+1335426,159,1331371738,2147483647,B,1800,*special-greedy-sortings,trickShuffle,Java 7,1330,45260800
+1335384,159,1331371530,2147483647,D,2000,*special-brute force-dp-strings,marque,Java 6,140,43212800
+1335362,159,1331371403,2147483647,C,2000,*special-binary search-brute force-data structures-strings,marque,Java 6,1630,43520000
+1335355,159,1331371374,2147483647,B,1800,*special-greedy-sortings,marque,Java 6,420,43417600
+1335349,159,1331371352,2147483647,A,1700,*special-greedy-implementation,marque,Java 6,340,43417600
+1335166,159,1331366294,86294,C,2000,*special-binary search-brute force-data structures-strings,trickShuffle,Java 7,2640,45670400
+1335147,159,1331366252,86252,C,2000,*special-binary search-brute force-data structures-strings,fkorotkov,Java 6,1840,43520000
+1335133,159,1331366189,86189,C,2000,*special-binary search-brute force-data structures-strings,-Starlight-,Java 6,380,212480000
+1335127,159,1331366177,86177,D,2000,*special-brute force-dp-strings,phantom11,Java 7,670,188518400
+1335096,159,1331366120,86120,E,2100,*special-data structures-greedy-sortings,Narg,Java 6,580,79052800
+1334992,159,1331365817,85817,D,2000,*special-brute force-dp-strings,Horuka,Java 6,300,43110400
+1334868,159,1331365444,85444,A,1700,*special-greedy-implementation,dlevshunov,Java 6,90,43315200
+1334865,159,1331365438,85438,C,2000,*special-binary search-brute force-data structures-strings,fetetriste,Java 6,190,43622400
+1334846,159,1331365378,85378,D,2000,*special-brute force-dp-strings,AdilbekZh,Java 6,140,43315200
+1334818,159,1331365296,85296,E,2100,*special-data structures-greedy-sortings,-Starlight-,Java 6,530,64614400
+1334647,159,1331364673,84673,A,1700,*special-greedy-implementation,keks,Java 6,220,43315200
+1334628,159,1331364593,84593,E,2100,*special-data structures-greedy-sortings,winger,Java 6,440,62771200
+1334590,159,1331364415,84415,E,2100,*special-data structures-greedy-sortings,stevenkplus,Java 6,550,79564800
+1334573,159,1331364339,84339,D,2000,*special-brute force-dp-strings,-Starlight-,Java 6,110,43110400
+1334474,159,1331363919,83919,B,1800,*special-greedy-sortings,Raggi,Java 6,220,43315200
+1334402,159,1331363588,83588,C,2000,*special-binary search-brute force-data structures-strings,winger,Java 6,190,43520000
+1334395,159,1331363563,83563,B,1800,*special-greedy-sortings,-Starlight-,Java 6,230,43212800
+1334387,159,1331363533,83533,D,2000,*special-brute force-dp-strings,dlevshunov,Java 6,110,43212800
+1334381,159,1331363518,83518,C,2000,*special-binary search-brute force-data structures-strings,dlevshunov,Java 6,340,43622400
+1334376,159,1331363507,83507,B,1800,*special-greedy-sortings,dlevshunov,Java 6,200,43417600
+1334351,159,1331363392,83392,D,2000,*special-brute force-dp-strings,winger,Java 6,410,43110400
+1334309,159,1331363182,83182,A,1700,*special-greedy-implementation,Raggi,Java 6,160,43417600
+1334272,159,1331363020,83020,C,2000,*special-binary search-brute force-data structures-strings,shouhm,Java 7,500,45056000
+1334177,159,1331362678,82678,D,2000,*special-brute force-dp-strings,zhendeaini6001,Java 6,200,43315200
+1334087,159,1331362246,82246,D,2000,*special-brute force-dp-strings,stevenkplus,Java 6,110,43110400
+1334065,159,1331362166,82165,C,2000,*special-binary search-brute force-data structures-strings,pashkal,Java 6,280,43417600
+1334013,159,1331361898,81898,A,1700,*special-greedy-implementation,askart,Java 6,160,43417600
+1333976,159,1331361791,81791,E,2100,*special-data structures-greedy-sortings,Kelang,Java 6,580,79769600
+1333895,159,1331361491,81491,B,1800,*special-greedy-sortings,zhendeaini6001,Java 6,1130,43315200
+1333861,159,1331361375,81375,A,1700,*special-greedy-implementation,zhendeaini6001,Java 6,170,43520000
+1333854,159,1331361339,81339,A,1700,*special-greedy-implementation,Skater,Java 6,170,43417600
+1333831,159,1331361235,81235,D,2000,*special-brute force-dp-strings,trickShuffle,Java 7,230,44851200
+1333767,159,1331360882,80882,B,1800,*special-greedy-sortings,pashkal,Java 6,230,43212800
+1333715,159,1331360547,80547,D,2000,*special-brute force-dp-strings,flash36,Java 6,130,43212800
+1333708,159,1331360509,80509,B,1800,*special-greedy-sortings,flash36,Java 6,590,43315200
+1333666,159,1331360295,80295,B,1800,*special-greedy-sortings,shouhm,Java 7,1080,45056000
+1333642,159,1331360172,80172,C,2000,*special-binary search-brute force-data structures-strings,cougarhead2003,Java 6,410,43622400
+1333621,159,1331360050,80050,D,2000,*special-brute force-dp-strings,wjomlex,Java 6,230,97792000
+1333600,159,1331359925,79925,D,2000,*special-brute force-dp-strings,Konovalov_Nik,Java 6,110,43212800
+1333515,159,1331359341,79341,D,2000,*special-brute force-dp-strings,flash36_CSharp,Java 6,140,43212800
+1333508,159,1331359305,79305,B,1800,*special-greedy-sortings,We.Pepsi.Infi,Java 6,220,43212800
+1333466,159,1331359030,79030,A,1700,*special-greedy-implementation,shouhm,Java 7,200,45056000
+1333411,159,1331358708,78708,C,2000,*special-binary search-brute force-data structures-strings,Fantaghiro,Java 6,440,43520000
+1333370,159,1331358526,78526,C,2000,*special-binary search-brute force-data structures-strings,munkoev.mikhail,Java 6,420,43417600
+1333336,159,1331358408,78408,A,1700,*special-greedy-implementation,We.Pepsi.Infi,Java 6,1260,43520000
+1333287,159,1331358090,78090,C,2000,*special-binary search-brute force-data structures-strings,wjomlex,Java 6,520,109875200
+1333204,159,1331357667,77667,B,1800,*special-greedy-sortings,stevenkplus,Java 6,340,43520000
+1333025,159,1331356370,76370,D,2000,*special-brute force-dp-strings,qcdisciple,Java 6,920,186675200
+1332879,159,1331355174,75174,D,2000,*special-brute force-dp-strings,munkoev.mikhail,Java 6,130,43212800
+1332821,159,1331354653,74653,D,2000,*special-brute force-dp-strings,Lymphz,Java 7,160,44851200
+1332758,159,1331354114,74114,D,2000,*special-brute force-dp-strings,yasser_adel,Java 6,530,88064000
+1332723,159,1331353809,73809,B,1800,*special-greedy-sortings,nickbuelich,Java 6,1140,43315200
+1332648,159,1331353172,73172,D,2000,*special-brute force-dp-strings,sfarma_pietre,Java 6,1140,43315200
+1332413,159,1331350796,70796,A,1700,*special-greedy-implementation,julsa,Java 6,130,43417600
+1332338,159,1331350195,70195,D,2000,*special-brute force-dp-strings,-messi-,Java 6,220,43520000
+1332303,159,1331349948,69948,D,2000,*special-brute force-dp-strings,sbatten,Java 6,780,122880000
+1332258,159,1331349489,69489,D,2000,*special-brute force-dp-strings,bob5990,Java 6,690,122880000
+1332211,159,1331348946,68946,D,2000,*special-brute force-dp-strings,rubbaltherebel,Java 6,230,58265600
+1332185,159,1331348694,68694,A,1700,*special-greedy-implementation,nickbuelich,Java 6,160,58470400
+1332120,159,1331348057,68057,D,2000,*special-brute force-dp-strings,mkirsche,Java 6,140,43315200
+1332098,159,1331347873,67873,B,1800,*special-greedy-sortings,julsa,Java 6,200,43315200
+1331984,159,1331346555,66555,D,2000,*special-brute force-dp-strings,slavcho92,Java 6,170,43212800
+1331948,159,1331346167,66167,B,1800,*special-greedy-sortings,sfarma_pietre,Java 6,1080,43315200
+1331899,159,1331345665,65665,E,2100,*special-data structures-greedy-sortings,arbesfeld,Java 6,390,43827200
+1331860,159,1331345304,65304,A,1700,*special-greedy-implementation,amitsaharana,Java 6,340,43315200
+1331850,159,1331345228,65228,C,2000,*special-binary search-brute force-data structures-strings,julsa,Java 6,1630,43520000
+1331750,159,1331344099,64099,B,1800,*special-greedy-sortings,sabbathist,Java 6,230,43315200
+1331658,159,1331343180,63180,C,2000,*special-binary search-brute force-data structures-strings,sammiched,Java 6,1980,44032000
+1331655,159,1331343151,63151,E,2100,*special-data structures-greedy-sortings,taras.klaskovsky,Java 6,280,44032000
+1331566,159,1331341924,61924,B,1800,*special-greedy-sortings,di.matsiuk,Java 6,420,43315200
+1331454,159,1331340422,60422,A,1700,*special-greedy-implementation,lub0v,Java 6,130,43520000
+1331434,159,1331340164,60164,B,1800,*special-greedy-sortings,dmeng,Java 6,1420,43622400
+1331411,159,1331339937,59937,C,2000,*special-binary search-brute force-data structures-strings,chviktor,Java 6,190,43520000
+1331403,159,1331339833,59833,B,1800,*special-greedy-sortings,ZorN,Java 6,1160,43315200
+1331364,159,1331339320,59320,C,2000,*special-binary search-brute force-data structures-strings,ant.ermilov,Java 6,300,43520000
+1331309,159,1331338836,58836,B,1800,*special-greedy-sortings,slavcho92,Java 6,1780,46182400
+1331283,159,1331338532,58532,C,2000,*special-binary search-brute force-data structures-strings,GeLo,Java 6,340,43520000
+1331260,159,1331338381,58381,D,2000,*special-brute force-dp-strings,julsa,Java 6,80,43110400
+1331173,159,1331337575,57575,C,2000,*special-binary search-brute force-data structures-strings,taras.klaskovsky,Java 6,190,55296000
+1331133,159,1331337185,57185,A,1700,*special-greedy-implementation,jma127,Java 6,280,43417600
+1331124,159,1331337106,57106,D,2000,*special-brute force-dp-strings,TwCode,Java 6,230,58368000
+1331122,159,1331337092,57092,D,2000,*special-brute force-dp-strings,yozh,Java 6,2730,266240000
+1331104,159,1331336920,56920,A,1700,*special-greedy-implementation,dmeng,Java 6,190,43520000
+1331048,159,1331336434,56434,B,1800,*special-greedy-sortings,taras.klaskovsky,Java 6,250,43827200
+1331006,159,1331335973,55973,B,1800,*special-greedy-sortings,ant.ermilov,Java 6,230,43212800
+1331001,159,1331335921,55921,A,1700,*special-greedy-implementation,taras.klaskovsky,Java 6,110,43827200
+1330986,159,1331335686,55686,A,1700,*special-greedy-implementation,canfkoyuncu,Java 6,300,43417600
+1330976,159,1331335587,55587,B,1800,*special-greedy-sortings,Crist,Java 6,220,43315200
+1330963,159,1331335443,55443,A,1700,*special-greedy-implementation,ant.ermilov,Java 6,140,97484800
+1330931,159,1331335103,55103,D,2000,*special-brute force-dp-strings,archytector,Java 6,250,97689600
+1330926,159,1331335071,55071,C,2000,*special-binary search-brute force-data structures-strings,archytector,Java 6,380,43622400
+1330924,159,1331335046,55046,B,1800,*special-greedy-sortings,archytector,Java 6,360,43929600
+1330918,159,1331335024,55024,A,1700,*special-greedy-implementation,archytector,Java 6,110,43724800
+1330911,159,1331334921,54921,D,2000,*special-brute force-dp-strings,arbesfeld,Java 6,110,43110400
+1330804,159,1331334015,54015,B,1800,*special-greedy-sortings,mdldml,Java 6,200,43212800
+1330793,159,1331333952,53952,D,2000,*special-brute force-dp-strings,dkorduban,Java 6,200,43212800
+1330786,159,1331333892,53892,B,1800,*special-greedy-sortings,cougarhead2003,Java 6,2940,43929600
+1330764,159,1331333679,53679,D,2000,*special-brute force-dp-strings,Crist,Java 6,90,43110400
+1330744,159,1331333478,53478,B,1800,*special-greedy-sortings,chviktor,Java 6,310,43315200
+1330740,159,1331333415,53415,D,2000,*special-brute force-dp-strings,ant.ermilov,Java 6,90,43110400
+1330736,159,1331333382,53382,C,2000,*special-binary search-brute force-data structures-strings,sbatten,Java 6,470,43520000
+1330716,159,1331333252,53252,D,2000,*special-brute force-dp-strings,fetetriste,Java 6,160,43212800
+1330710,159,1331333235,53235,B,1800,*special-greedy-sortings,fetetriste,Java 6,230,43417600
+1330708,159,1331333229,53229,A,1700,*special-greedy-implementation,fetetriste,Java 6,110,43520000
+1330681,159,1331333038,53038,D,2000,*special-brute force-dp-strings,tigrenka,Java 6,110,43315200
+1330561,159,1331332159,52159,B,1800,*special-greedy-sortings,m_a_s_91,Java 6,220,43212800
+1330526,159,1331331864,51864,E,2100,*special-data structures-greedy-sortings,VArtem,Java 6,580,52224000
+1330489,159,1331331519,51519,B,1800,*special-greedy-sortings,wjomlex,Java 6,1140,43315200
+1330485,159,1331331477,51477,D,2000,*special-brute force-dp-strings,mdldml,Java 6,90,43110400
+1330473,159,1331331381,51381,B,1800,*special-greedy-sortings,winger,Java 6,270,43212800
+1330463,159,1331331296,51296,D,2000,*special-brute force-dp-strings,originalFussywheat,Java 6,190,43110400
+1330342,159,1331330265,50265,A,1700,*special-greedy-implementation,winger,Java 6,130,43417600
+1330330,159,1331330201,50201,B,1800,*special-greedy-sortings,Kostia,Java 6,270,43417600
+1330316,159,1331330135,50135,C,2000,*special-binary search-brute force-data structures-strings,Ahmed.Ibrahem,Java 6,380,43520000
+1330305,159,1331330039,50039,B,1800,*special-greedy-sortings,Demetrius,Java 6,220,43315200
+1330300,159,1331330003,50003,B,1800,*special-greedy-sortings,alexyz,Java 6,1010,43417600
+1330274,159,1331329801,49801,D,2000,*special-brute force-dp-strings,evgeniyzarubkin,Java 6,110,43315200
+1330261,159,1331329729,49729,D,2000,*special-brute force-dp-strings,Goerge,Java 6,90,43110400
+1330249,159,1331329695,49695,B,1800,*special-greedy-sortings,sammiched,Java 6,1090,43315200
+1330219,159,1331329457,49457,C,2000,*special-binary search-brute force-data structures-strings,AdilbekZh,Java 6,380,43520000
+1330189,159,1331329216,49216,C,2000,*special-binary search-brute force-data structures-strings,GoomboCode,Java 6,250,43827200
+1330169,159,1331329050,49050,A,1700,*special-greedy-implementation,Demetrius,Java 6,280,43315200
+1330167,159,1331329028,49028,A,1700,*special-greedy-implementation,sammiched,Java 6,250,43417600
+1330156,159,1331328981,48981,C,2000,*special-binary search-brute force-data structures-strings,yozh,Java 6,2380,43520000
+1330128,159,1331328777,48777,B,1800,*special-greedy-sortings,tigrenka,Java 6,220,43417600
+1330094,159,1331328516,48516,D,2000,*special-brute force-dp-strings,VArtem,Java 6,200,43417600
+1330080,159,1331328378,48378,B,1800,*special-greedy-sortings,arbesfeld,Java 6,230,43315200
+1330046,159,1331328203,48203,A,1700,*special-greedy-implementation,Kostia,Java 6,310,43417600
+1330042,159,1331328190,48190,A,1700,*special-greedy-implementation,alexyz,Java 6,200,58470400
+1330036,159,1331328170,48170,E,2100,*special-data structures-greedy-sortings,katalexey,Java 6,630,56115200
+1329993,159,1331327839,47839,A,1700,*special-greedy-implementation,jkee,Java 6,160,43520000
+1329978,159,1331327760,47760,A,1700,*special-greedy-implementation,arbesfeld,Java 6,170,43417600
+1329971,159,1331327721,47721,B,1800,*special-greedy-sortings,themonkey,Java 6,250,43724800
+1329894,159,1331327314,47314,C,2000,*special-binary search-brute force-data structures-strings,Joshik,Java 6,440,106188800
+1329867,159,1331327157,47157,C,2000,*special-binary search-brute force-data structures-strings,ahmedAbdallah,Java 6,1970,43520000
+1329851,159,1331327071,47071,A,1700,*special-greedy-implementation,themonkey,Java 6,110,43929600
+1329803,159,1331326848,46848,A,1700,*special-greedy-implementation,yasser_adel,Java 6,140,43417600
+1329789,159,1331326752,46752,D,2000,*special-brute force-dp-strings,jkee,Java 6,2160,123801600
+1329766,159,1331326632,46632,A,1700,*special-greedy-implementation,tigrenka,Java 6,230,43417600
+1329522,159,1331325376,45376,B,1800,*special-greedy-sortings,kyprah,Java 6,360,43724800
+1329289,159,1331324109,44109,B,1800,*special-greedy-sortings,sbatten,Java 6,1140,43315200
+1329114,159,1331323251,43251,A,1700,*special-greedy-implementation,megabochka,Java 6,130,43212800
+1329108,159,1331323220,43220,C,2000,*special-binary search-brute force-data structures-strings,Kelang,Java 6,170,43520000
+1329083,159,1331323035,43035,B,1800,*special-greedy-sortings,loay,Java 6,200,43212800
+1329074,159,1331322991,42991,A,1700,*special-greedy-implementation,slavcho92,Java 6,360,43417600
+1329058,159,1331322910,42910,C,2000,*special-binary search-brute force-data structures-strings,Evgesko,Java 6,670,43622400
+1329057,159,1331322908,42908,D,2000,*special-brute force-dp-strings,Kelang,Java 6,420,43212800
+1329023,159,1331322729,42728,B,1800,*special-greedy-sortings,evgeniyzarubkin,Java 6,550,43417600
+1328961,159,1331322438,42438,C,2000,*special-binary search-brute force-data structures-strings,yasser_adel,Java 6,1670,43520000
+1328942,159,1331322344,42343,D,2000,*special-brute force-dp-strings,peking2,Java 6,140,43315200
+1328892,159,1331322114,42114,C,2000,*special-binary search-brute force-data structures-strings,VArtem,Java 6,420,44953600
+1328891,159,1331322113,42113,D,2000,*special-brute force-dp-strings,GeLo,Java 6,130,43212800
+1328854,159,1331321918,41918,E,2100,*special-data structures-greedy-sortings,megabochka,Java 6,660,57344000
+1328786,159,1331321696,41696,E,2100,*special-data structures-greedy-sortings,GoomboCode,Java 7,560,84787200
+1328727,159,1331321427,41427,B,1800,*special-greedy-sortings,N-canTER,Java 6,1060,43315200
+1328710,159,1331321342,41342,E,2100,*special-data structures-greedy-sortings,anton.akhi,Java 6,520,82944000
+1328640,159,1331321000,41000,D,2000,*special-brute force-dp-strings,OSt,Java 6,160,43212800
+1328626,159,1331320927,40927,C,2000,*special-binary search-brute force-data structures-strings,evgeniyzarubkin,Java 6,1720,43622400
+1328602,159,1331320844,40844,B,1800,*special-greedy-sortings,Ahmed.Ibrahem,Java 6,230,43315200
+1328595,159,1331320823,40823,B,1800,*special-greedy-sortings,azneyes,Java 7,300,45158400
+1328589,159,1331320792,40792,D,2000,*special-brute force-dp-strings,fayyaz,Java 6,140,43110400
+1328502,159,1331320427,40427,C,2000,*special-binary search-brute force-data structures-strings,Pshenichnoe,Java 6,1830,53657600
+1328493,159,1331320387,40387,D,2000,*special-brute force-dp-strings,yaivanov,Java 6,130,43212800
+1328490,159,1331320378,40378,B,1800,*special-greedy-sortings,Illuminati_chk,Java 6,230,43315200
+1328461,159,1331320259,40259,B,1800,*special-greedy-sortings,Rex,Java 6,130,43110400
+1328445,159,1331320190,40190,C,2000,*special-binary search-brute force-data structures-strings,Gantz,Java 7,340,45260800
+1328346,159,1331319751,39751,D,2000,*special-brute force-dp-strings,gokjer,Java 6,130,43212800
+1328345,159,1331319748,39748,C,2000,*special-binary search-brute force-data structures-strings,kyprah,Java 6,500,43622400
+1328342,159,1331319740,39740,D,2000,*special-brute force-dp-strings,anton.akhi,Java 6,750,43110400
+1328321,159,1331319667,39667,D,2000,*special-brute force-dp-strings,fushar,Java 6,130,43110400
+1328297,159,1331319574,39574,B,1800,*special-greedy-sortings,VArtem,Java 6,230,43212800
+1328282,159,1331319513,39513,C,2000,*special-binary search-brute force-data structures-strings,slavcho92,Java 6,310,43520000
+1328269,159,1331319477,39477,B,1800,*special-greedy-sortings,munkoev.mikhail,Java 6,1060,43315200
+1328241,159,1331319383,39383,A,1700,*special-greedy-implementation,yozh,Java 6,160,43417600
+1328038,159,1331318534,38534,B,1800,*special-greedy-sortings,Wahba,Java 6,410,43827200
+1327948,159,1331318169,38169,E,2100,*special-data structures-greedy-sortings,LinkovMih,Java 6,1080,62361600
+1327924,159,1331318064,38064,C,2000,*special-binary search-brute force-data structures-strings,anton.akhi,Java 6,280,106086400
+1327795,159,1331317594,37594,B,1800,*special-greedy-sortings,Rodge,Java 6,1090,43622400
+1327760,159,1331317435,37435,A,1700,*special-greedy-implementation,wjomlex,Java 6,410,43417600
+1327722,159,1331317309,37309,D,2000,*special-brute force-dp-strings,Joshik,Java 6,110,43212800
+1327692,159,1331317141,37141,C,2000,*special-binary search-brute force-data structures-strings,LemurCatta,Java 6,520,43520000
+1327684,159,1331317107,37107,D,2000,*special-brute force-dp-strings,kirilchukvadim,Java 7,130,44851200
+1327626,159,1331316850,36850,B,1800,*special-greedy-sortings,anton.akhi,Java 6,250,43315200
+1327564,159,1331316560,36560,B,1800,*special-greedy-sortings,Gantz,Java 7,200,45056000
+1327533,159,1331316466,36466,B,1800,*special-greedy-sortings,yasser_adel,Java 6,470,43417600
+1327521,159,1331316421,36421,A,1700,*special-greedy-implementation,VArtem,Java 6,170,43417600
+1327506,159,1331316359,36359,C,2000,*special-binary search-brute force-data structures-strings,PolarNick,Java 6,550,43520000
+1327504,159,1331316349,36349,E,2100,*special-data structures-greedy-sortings,Joshik,Java 6,560,78950400
+1327482,159,1331316263,36263,C,2000,*special-binary search-brute force-data structures-strings,bknarendra,Java 6,440,43417600
+1327445,159,1331316087,36087,A,1700,*special-greedy-implementation,Rex,Java 6,110,43315200
+1327439,159,1331316069,36069,E,2100,*special-data structures-greedy-sortings,timurtibeyev,Java 6,330,43724800
+1327379,159,1331315893,35893,C,2000,*special-binary search-brute force-data structures-strings,TwCode,Java 6,360,43417600
+1327231,159,1331315327,35327,D,2000,*special-brute force-dp-strings,zamzam,Java 6,380,98508800
+1327090,159,1331314852,34852,A,1700,*special-greedy-implementation,trickShuffle,Java 7,640,45260800
+1327062,159,1331314735,34735,B,1800,*special-greedy-sortings,truba_shatal,Java 7,1160,44953600
+1327061,159,1331314732,34732,B,1800,*special-greedy-sortings,Joshik,Java 6,280,43417600
+1327039,159,1331314638,34638,B,1800,*special-greedy-sortings,AdilbekZh,Java 6,1160,43315200
+1326979,159,1331314424,34424,B,1800,*special-greedy-sortings,tarekegypte,Java 6,230,58368000
+1326896,159,1331314185,34185,A,1700,*special-greedy-implementation,krum,Java 7,390,45056000
+1326877,159,1331314129,34129,A,1700,*special-greedy-implementation,Oleksandr,Java 6,160,43520000
+1326868,159,1331314098,34098,A,1700,*special-greedy-implementation,evgeniyzarubkin,Java 6,270,43417600
+1326771,159,1331313808,33808,A,1700,*special-greedy-implementation,Crist,Java 6,410,43417600
+1326612,159,1331313252,33252,A,1700,*special-greedy-implementation,stevenkplus,Java 6,250,43315200
+1326604,159,1331313232,33232,A,1700,*special-greedy-implementation,tematik,Java 7,1510,45260800
+1326552,159,1331313052,33052,C,2000,*special-binary search-brute force-data structures-strings,bozgul,Java 6,1940,169676800
+1326518,159,1331312906,32906,A,1700,*special-greedy-implementation,Rodge,Java 6,330,43520000
+1326510,159,1331312849,32849,B,1800,*special-greedy-sortings,m.radwan,Java 6,1160,43315200
+1326509,159,1331312846,32846,B,1800,*special-greedy-sortings,LemurCatta,Java 6,1130,43315200
+1326457,159,1331312646,32646,A,1700,*special-greedy-implementation,Swifty,Java 6,330,43520000
+1326452,159,1331312635,32635,B,1800,*special-greedy-sortings,trickShuffle,Java 7,280,45260800
+1326450,159,1331312627,32627,A,1700,*special-greedy-implementation,m.radwan,Java 6,270,43417600
+1326444,159,1331312603,32603,B,1800,*special-greedy-sortings,rubbaltherebel,Java 6,360,43724800
+1326440,159,1331312600,32600,E,2100,*special-data structures-greedy-sortings,m.radwan,Java 6,360,43929600
+1326379,159,1331312344,32344,E,2100,*special-data structures-greedy-sortings,knok16,Java 6,250,43520000
+1326346,159,1331312203,32203,A,1700,*special-greedy-implementation,Gantz,Java 6,140,43520000
+1326309,159,1331312066,32066,D,2000,*special-brute force-dp-strings,mohamed.gaber,Java 6,90,43110400
+1326288,159,1331311999,31999,C,2000,*special-binary search-brute force-data structures-strings,PeterGriffin,Java 6,420,43520000
+1326287,159,1331311997,31997,B,1800,*special-greedy-sortings,kroxa,Java 7,1130,45056000
+1326286,159,1331311996,31996,C,2000,*special-binary search-brute force-data structures-strings,GR1n,Java 6,410,43520000
+1326229,159,1331311784,31784,D,2000,*special-brute force-dp-strings,raedselim,Java 6,1920,58265600
+1326193,159,1331311646,31646,B,1800,*special-greedy-sortings,abodeltae,Java 6,270,43315200
+1326174,159,1331311595,31595,B,1800,*special-greedy-sortings,gokjer,Java 6,560,44134400
+1326118,159,1331311394,31394,C,2000,*special-binary search-brute force-data structures-strings,al__gol,Java 6,1860,43622400
+1326109,159,1331311372,31372,A,1700,*special-greedy-implementation,AdilbekZh,Java 6,200,43520000
+1326042,159,1331311153,31153,B,1800,*special-greedy-sortings,mingotlik,Java 6,190,43417600
+1325701,159,1331309974,29974,B,1800,*special-greedy-sortings,Aline144,Java 6,270,43212800
+1325645,159,1331309778,29778,A,1700,*special-greedy-implementation,GeLo,Java 6,130,43520000
+1325632,159,1331309738,29738,B,1800,*special-greedy-sortings,csurfer,Java 6,1140,43315200
+1325507,159,1331309320,29320,A,1700,*special-greedy-implementation,eipie,Java 7,270,45056000
+1325466,159,1331309168,29168,A,1700,*special-greedy-implementation,Frozen_Spider,Java 6,190,43417600
+1325459,159,1331309147,29147,A,1700,*special-greedy-implementation,mohamed.gaber,Java 6,310,43315200
+1325422,159,1331309019,29019,D,2000,*special-brute force-dp-strings,timurtibeyev,Java 6,130,43212800
+1325328,159,1331308763,28763,D,2000,*special-brute force-dp-strings,Skater,Java 6,140,43315200
+1325202,159,1331308349,28349,C,2000,*special-binary search-brute force-data structures-strings,DiegoAE,Java 6,310,43417600
+1325154,159,1331308174,28174,E,2100,*special-data structures-greedy-sortings,wjomlex,Java 6,880,43520000
+1325146,159,1331308147,28147,A,1700,*special-greedy-implementation,m_a_s_91,Java 6,160,43315200
+1325133,159,1331308120,28120,B,1800,*special-greedy-sortings,flash36_CSharp,Java 6,670,43315200
+1325108,159,1331308008,28008,B,1800,*special-greedy-sortings,originalFussywheat,Java 6,280,43315200
+1325095,159,1331307977,27977,B,1800,*special-greedy-sortings,JKesha,Java 6,250,43315200
+1324978,159,1331307583,27583,B,1800,*special-greedy-sortings,peking2,Java 6,1360,43827200
+1324928,159,1331307415,27415,B,1800,*special-greedy-sortings,nsmikhailov,Java 7,250,45158400
+1324923,159,1331307399,27399,B,1800,*special-greedy-sortings,fayyaz,Java 6,450,43929600
+1324918,159,1331307391,27391,D,2000,*special-brute force-dp-strings,PeterGriffin,Java 6,130,43110400
+1324852,159,1331307148,27148,D,2000,*special-brute force-dp-strings,Simon.Alperovich,Java 7,160,44851200
+1324801,159,1331306996,26995,D,2000,*special-brute force-dp-strings,megasoch,Java 6,310,43212800
+1324790,159,1331306964,26964,D,2000,*special-brute force-dp-strings,megabochka,Java 6,90,43110400
+1324762,159,1331306833,26833,D,2000,*special-brute force-dp-strings,katalexey,Java 6,770,181964800
+1324748,159,1331306784,26784,A,1700,*special-greedy-implementation,Horuka,Java 6,110,43417600
+1324643,159,1331306394,26394,B,1800,*special-greedy-sortings,vasyab,Java 6,1060,43315200
+1324636,159,1331306368,26368,C,2000,*special-binary search-brute force-data structures-strings,Azat_Yusupov,Java 6,310,43520000
+1324525,159,1331305931,25931,A,1700,*special-greedy-implementation,upsolving,Java 6,250,43417600
+1324504,159,1331305843,25843,E,2100,*special-data structures-greedy-sortings,ika,Java 6,300,43827200
+1324492,159,1331305812,25812,B,1800,*special-greedy-sortings,upsolving,Java 6,770,43212800
+1324470,159,1331305751,25751,C,2000,*special-binary search-brute force-data structures-strings,nsmikhailov,Java 7,360,45158400
+1324410,159,1331305583,25583,D,2000,*special-brute force-dp-strings,Narg,Java 6,140,43110400
+1324378,159,1331305480,25480,A,1700,*special-greedy-implementation,timelord,Java 6,470,43520000
+1324345,159,1331305408,25408,D,2000,*special-brute force-dp-strings,Evgesko,Java 6,190,58060800
+1324331,159,1331305376,25376,B,1800,*special-greedy-sortings,PeterGriffin,Java 6,200,43315200
+1324315,159,1331305314,25314,A,1700,*special-greedy-implementation,bozgul,Java 6,190,58163200
+1324297,159,1331305266,25266,A,1700,*special-greedy-implementation,vasyab,Java 6,310,43417600
+1324292,159,1331305250,25250,A,1700,*special-greedy-implementation,yiting.star,Java 6,160,43520000
+1324281,159,1331305198,25198,B,1800,*special-greedy-sortings,raedselim,Java 6,1200,43315200
+1324252,159,1331305091,25091,D,2000,*special-brute force-dp-strings,knok16,Java 6,90,43110400
+1324232,159,1331305013,25013,C,2000,*special-binary search-brute force-data structures-strings,timurtibeyev,Java 6,250,43520000
+1324011,159,1331304287,24287,D,2000,*special-brute force-dp-strings,igor_kz,Java 6,110,43110400
+1324008,159,1331304279,24279,B,1800,*special-greedy-sortings,kirilchukvadim,Java 6,220,43212800
+1323940,159,1331304075,24075,B,1800,*special-greedy-sortings,ahmad_mamdouh,Java 6,560,43520000
+1323913,159,1331304009,24009,B,1800,*special-greedy-sortings,kireligo,Java 6,220,43315200
+1323833,159,1331303720,23720,C,2000,*special-binary search-brute force-data structures-strings,Konovalov_Nik,Java 6,1910,43520000
+1323821,159,1331303683,23683,D,2000,*special-brute force-dp-strings,LinkovMih,Java 6,520,97587200
+1323766,159,1331303494,23494,A,1700,*special-greedy-implementation,ahmad_mamdouh,Java 6,2910,43520000
+1323747,159,1331303448,23448,C,2000,*special-binary search-brute force-data structures-strings,Narg,Java 6,230,54784000
+1323644,159,1331303198,23198,D,2000,*special-brute force-dp-strings,Ahmed.Ibrahem,Java 6,280,58265600
+1323616,159,1331303120,23120,D,2000,*special-brute force-dp-strings,ahmad_mamdouh,Java 6,130,43110400
+1323591,159,1331303045,23045,C,2000,*special-binary search-brute force-data structures-strings,nyama,Java 6,1030,43622400
+1323567,159,1331302983,22983,B,1800,*special-greedy-sortings,Daiki_Ando,Java 7,1090,58368000
+1323516,159,1331302807,22807,A,1700,*special-greedy-implementation,Aline144,Java 6,130,43315200
+1323468,159,1331302650,22650,A,1700,*special-greedy-implementation,PeterGriffin,Java 6,190,43417600
+1323446,159,1331302596,22596,C,2000,*special-binary search-brute force-data structures-strings,Ragvena,Java 6,340,43417600
+1323310,159,1331302290,22290,B,1800,*special-greedy-sortings,nodirbek,Java 6,310,43417600
+1323282,159,1331302216,22216,D,2000,*special-brute force-dp-strings,Azat_Yusupov,Java 6,170,43212800
+1323251,159,1331302131,22131,A,1700,*special-greedy-implementation,Narg,Java 6,90,43212800
+1323221,159,1331302061,22061,B,1800,*special-greedy-sortings,Narg,Java 6,190,43212800
+1323159,159,1331301841,21841,B,1800,*special-greedy-sortings,yaivanov,Java 6,1170,43315200
+1323129,159,1331301722,21722,D,2000,*special-brute force-dp-strings,serafimkoo,Java 6,160,58368000
+1322932,159,1331301034,21034,B,1800,*special-greedy-sortings,Horuka,Java 6,230,43315200
+1322846,159,1331300775,20775,C,2000,*special-binary search-brute force-data structures-strings,Skater,Java 6,610,43520000
+1322832,159,1331300722,20722,B,1800,*special-greedy-sortings,al__gol,Java 6,1190,43520000
+1322761,159,1331300498,20498,A,1700,*special-greedy-implementation,Pshenichnoe,Java 6,250,43520000
+1322695,159,1331300272,20272,D,2000,*special-brute force-dp-strings,Mostafa.Ali,Java 6,110,43110400
+1322676,159,1331300198,20198,A,1700,*special-greedy-implementation,Ahmed_Salama,Java 6,160,43417600
+1322617,159,1331299980,19980,D,2000,*special-brute force-dp-strings,SharpBlade,Java 6,1700,58368000
+1322556,159,1331299850,19850,C,2000,*special-binary search-brute force-data structures-strings,marser,Java 6,310,43520000
+1322552,159,1331299831,19831,A,1700,*special-greedy-implementation,nodirbek,Java 6,110,43417600
+1322424,159,1331299435,19435,B,1800,*special-greedy-sortings,Venom,Java 6,200,43212800
+1322404,159,1331299375,19375,B,1800,*special-greedy-sortings,Ahmed_Salama,Java 6,530,43417600
+1322346,159,1331299205,19205,B,1800,*special-greedy-sortings,GoomboCode,Java 6,310,43622400
+1322299,159,1331299053,19053,B,1800,*special-greedy-sortings,zamzam,Java 6,560,43417600
+1322290,159,1331299024,19024,B,1800,*special-greedy-sortings,Goerge,Java 6,200,43212800
+1322265,159,1331298956,18956,A,1700,*special-greedy-implementation,rubbaltherebel,Java 6,190,58265600
+1322252,159,1331298924,18924,D,2000,*special-brute force-dp-strings,Ragvena,Java 6,390,43110400
+1322243,159,1331298894,18894,A,1700,*special-greedy-implementation,ardhian777,Java 6,450,43520000
+1322193,159,1331298669,18669,D,2000,*special-brute force-dp-strings,ika,Java 6,160,43315200
+1322187,159,1331298650,18650,C,2000,*special-binary search-brute force-data structures-strings,OSt,Java 6,580,90112000
+1322168,159,1331298596,18596,A,1700,*special-greedy-implementation,GoomboCode,Java 6,90,43520000
+1322013,159,1331298096,18096,A,1700,*special-greedy-implementation,al__gol,Java 6,140,43417600
+1321971,159,1331297977,17977,C,2000,*special-binary search-brute force-data structures-strings,igor_kz,Java 6,1610,43417600
+1321898,159,1331297778,17778,A,1700,*special-greedy-implementation,yaivanov,Java 6,160,43417600
+1321884,159,1331297719,17719,B,1800,*special-greedy-sortings,CountZero,Java 6,1250,43417600
+1321828,159,1331297597,17597,B,1800,*special-greedy-sortings,Evgesko,Java 6,1110,43315200
+1321694,159,1331297149,17149,B,1800,*special-greedy-sortings,phantom11,Java 6,1090,43315200
+1321666,159,1331297037,17037,D,2000,*special-brute force-dp-strings,m.radwan,Java 6,700,137216000
+1321617,159,1331296879,16879,C,2000,*special-binary search-brute force-data structures-strings,Lymphz,Java 7,1670,45260800
+1321601,159,1331296824,16824,B,1800,*special-greedy-sortings,ArtPetroff,Java 6,730,84377600
+1321505,159,1331296535,16535,B,1800,*special-greedy-sortings,marser,Java 6,1060,43315200
+1321441,159,1331296302,16302,D,2000,*special-brute force-dp-strings,GR1n,Java 6,250,43110400
+1321400,159,1331296204,16204,A,1700,*special-greedy-implementation,chavit,Java 6,130,43315200
+1321367,159,1331296097,16097,A,1700,*special-greedy-implementation,pseudopenggy,Java 6,160,43315200
+1321357,159,1331296080,16080,B,1800,*special-greedy-sortings,Lymphz,Java 7,220,44953600
+1321353,159,1331296071,16071,D,2000,*special-brute force-dp-strings,hota911,Java 6,110,43212800
+1321305,159,1331295928,15928,C,2000,*special-binary search-brute force-data structures-strings,Ahmed_Salama,Java 6,360,43520000
+1321083,159,1331295253,15253,A,1700,*special-greedy-implementation,marser,Java 6,310,43417600
+1321034,159,1331295112,15112,C,2000,*special-binary search-brute force-data structures-strings,ika,Java 6,170,43622400
+1321028,159,1331295102,15102,A,1700,*special-greedy-implementation,Prof,Java 6,190,43417600
+1321021,159,1331295085,15085,C,2000,*special-binary search-brute force-data structures-strings,kirilchukvadim,Java 6,1390,43520000
+1320968,159,1331294910,14910,B,1800,*special-greedy-sortings,nyama,Java 6,1230,43315200
+1320927,159,1331294779,14779,A,1700,*special-greedy-implementation,zamzam,Java 6,130,43417600
+1320909,159,1331294708,14708,B,1800,*special-greedy-sortings,Kelang,Java 6,330,43315200
+1320897,159,1331294662,14662,C,2000,*special-binary search-brute force-data structures-strings,knok16,Java 6,220,43417600
+1320867,159,1331294581,14581,A,1700,*special-greedy-implementation,mingotlik,Java 6,130,43417600
+1320864,159,1331294565,14565,A,1700,*special-greedy-implementation,phantom11,Java 6,310,43520000
+1320826,159,1331294423,14423,D,2000,*special-brute force-dp-strings,PolarNick,Java 6,160,43110400
+1320784,159,1331294311,14311,A,1700,*special-greedy-implementation,dkorduban,Java 6,380,43417600
+1320773,159,1331294265,14265,D,2000,*special-brute force-dp-strings,Ahmed_Salama,Java 6,140,43110400
+1320746,159,1331294196,14196,B,1800,*special-greedy-sortings,megabochka,Java 6,480,43417600
+1320713,159,1331294080,14080,B,1800,*special-greedy-sortings,katalexey,Java 6,440,43417600
+1320702,159,1331294058,14058,B,1800,*special-greedy-sortings,chavit,Java 6,200,43212800
+1320694,159,1331294025,14025,A,1700,*special-greedy-implementation,sergeyotro,Java 6,170,43417600
+1320613,159,1331293781,13781,B,1800,*special-greedy-sortings,balazstx,Java 6,330,43315200
+1320611,159,1331293781,13781,C,2000,*special-binary search-brute force-data structures-strings,dkorduban,Java 6,410,43520000
+1320610,159,1331293778,13778,B,1800,*special-greedy-sortings,igor_kz,Java 6,270,43315200
+1320576,159,1331293646,13646,C,2000,*special-binary search-brute force-data structures-strings,chavit,Java 6,170,43417600
+1320475,159,1331293297,13297,E,2100,*special-data structures-greedy-sortings,Ahmed_Salama,Java 6,720,57651200
+1320438,159,1331293156,13156,B,1800,*special-greedy-sortings,TwCode,Java 6,190,43212800
+1320360,159,1331292935,12935,A,1700,*special-greedy-implementation,sundifi,Java 6,160,43520000
+1320336,159,1331292863,12863,C,2000,*special-binary search-brute force-data structures-strings,megasoch,Java 6,530,43520000
+1320327,159,1331292848,12848,B,1800,*special-greedy-sortings,Skater,Java 6,1220,97689600
+1320315,159,1331292797,12797,B,1800,*special-greedy-sortings,dkorduban,Java 6,1140,43315200
+1320313,159,1331292796,12796,A,1700,*special-greedy-implementation,mochi_suna,Java 6,420,43417600
+1320302,159,1331292777,12777,B,1800,*special-greedy-sortings,ika,Java 6,230,43417600
+1320193,159,1331292404,12404,D,2000,*special-brute force-dp-strings,rinatvalitov,Java 7,250,45363200
+1320117,159,1331292165,12165,D,2000,*special-brute force-dp-strings,chavit,Java 6,140,43110400
+1320097,159,1331292105,12105,E,2100,*special-data structures-greedy-sortings,dalex,Java 6,500,50688000
+1319990,159,1331291755,11755,A,1700,*special-greedy-implementation,sknictik,Java 6,250,43417600
+1319921,159,1331291542,11542,E,2100,*special-data structures-greedy-sortings,yarrr,Java 6,590,95641600
+1319849,159,1331291286,11286,A,1700,*special-greedy-implementation,katalexey,Java 6,140,43417600
+1319829,159,1331291204,11204,E,2100,*special-data structures-greedy-sortings,chavit,Java 6,280,43417600
+1319763,159,1331290991,10991,B,1800,*special-greedy-sortings,Kelltrick,Java 6,1110,43315200
+1319714,159,1331290810,10810,B,1800,*special-greedy-sortings,timurtibeyev,Java 6,230,43212800
+1319708,159,1331290777,10777,A,1700,*special-greedy-implementation,Kelang,Java 6,270,43417600
+1319553,159,1331290222,10222,B,1800,*special-greedy-sortings,knok16,Java 6,200,43212800
+1319511,159,1331290081,10081,A,1700,*special-greedy-implementation,timurtibeyev,Java 6,110,43417600
+1319433,159,1331289792,9792,B,1800,*special-greedy-sortings,GR1n,Java 6,270,58368000
+1319399,159,1331289664,9664,B,1800,*special-greedy-sortings,OSt,Java 6,1110,43315200
+1319368,159,1331289543,9543,E,2100,*special-data structures-greedy-sortings,Di735,Java 6,440,76595200
+1319247,159,1331289130,9130,A,1700,*special-greedy-implementation,nyama,Java 6,230,43417600
+1319084,159,1331288557,8557,A,1700,*special-greedy-implementation,OSt,Java 6,2530,43520000
+1319065,159,1331288477,8477,C,2000,*special-binary search-brute force-data structures-strings,serafimkoo,Java 6,380,43417600
+1319059,159,1331288452,8452,B,1800,*special-greedy-sortings,Azat_Yusupov,Java 6,200,43315200
+1319053,159,1331288428,8428,D,2000,*special-brute force-dp-strings,lwc626,Java 6,90,43110400
+1319033,159,1331288378,8378,C,2000,*special-binary search-brute force-data structures-strings,yarrr,Java 6,270,43520000
+1319017,159,1331288338,8338,B,1800,*special-greedy-sortings,yarrr,Java 6,220,43212800
+1318985,159,1331288217,8217,D,2000,*special-brute force-dp-strings,dalex,Java 6,440,97484800
+1318941,159,1331288080,8080,A,1700,*special-greedy-implementation,yarrr,Java 6,170,43212800
+1318938,159,1331288065,8065,D,2000,*special-brute force-dp-strings,yarrr,Java 6,160,43110400
+1318881,159,1331287898,7898,C,2000,*special-binary search-brute force-data structures-strings,LinkovMih,Java 6,1510,43724800
+1318697,159,1331287360,7360,B,1800,*special-greedy-sortings,megasoch,Java 6,2410,70246400
+1318691,159,1331287334,7334,A,1700,*special-greedy-implementation,Rtfm,Java 6,220,43417600
+1318679,159,1331287297,7297,C,2000,*special-binary search-brute force-data structures-strings,lwc626,Java 6,1360,43929600
+1318666,159,1331287232,7232,B,1800,*special-greedy-sortings,fake,Java 6,1140,43315200
+1318657,159,1331287200,7200,A,1700,*special-greedy-implementation,Azat_Yusupov,Java 6,140,43315200
+1318533,159,1331286820,6820,A,1700,*special-greedy-implementation,Nike,Java 6,160,43417600
+1318379,159,1331286355,6355,A,1700,*special-greedy-implementation,Ernestas,Java 6,160,43520000
+1318375,159,1331286343,6343,B,1800,*special-greedy-sortings,Eugene_nik,Java 7,200,45158400
+1318259,159,1331286000,6000,C,2000,*special-binary search-brute force-data structures-strings,dalex,Java 6,310,58572800
+1318082,159,1331285423,5423,B,1800,*special-greedy-sortings,serafimkoo,Java 6,1170,43315200
+1318060,159,1331285359,5359,D,2000,*special-brute force-dp-strings,Di735,Java 6,140,43212800
+1317963,159,1331285019,5019,B,1800,*special-greedy-sortings,spongebob,Java 6,190,43212800
+1317933,159,1331284928,4928,A,1700,*special-greedy-implementation,ahmedAbdallah,Java 6,200,43520000
+1317882,159,1331284792,4792,B,1800,*special-greedy-sortings,xiaowuc1,Java 6,220,43315200
+1317720,159,1331284357,4357,A,1700,*special-greedy-implementation,xiaowuc1,Java 6,200,43315200
+1317701,159,1331284313,4313,C,2000,*special-binary search-brute force-data structures-strings,Di735,Java 6,300,43622400
+1317679,159,1331284221,4221,B,1800,*special-greedy-sortings,Mostafa.Ali,Java 6,1080,43315200
+1317647,159,1331284135,4135,A,1700,*special-greedy-implementation,spongebob,Java 6,300,43417600
+1317639,159,1331284101,4101,B,1800,*special-greedy-sortings,PolarNick,Java 6,220,43212800
+1317628,159,1331284061,4061,A,1700,*special-greedy-implementation,kroxa,Java 7,330,45260800
+1316723,159,1331283865,3863,B,1800,*special-greedy-sortings,dalex,Java 6,270,43827200
+1316669,159,1331283720,3720,B,1800,*special-greedy-sortings,lwc626,Java 6,530,57344000
+1316595,159,1331283517,3517,B,1800,*special-greedy-sortings,rinatvalitov,Java 7,1720,57241600
+1316586,159,1331283504,3504,A,1700,*special-greedy-implementation,pumpkin,Java 6,160,43315200
+1316576,159,1331283487,3487,B,1800,*special-greedy-sortings,Ragvena,Java 6,230,43315200
+1316566,159,1331283466,3466,A,1700,*special-greedy-implementation,SharpBlade,Java 6,340,43417600
+1316492,159,1331283296,3296,B,1800,*special-greedy-sortings,LinkovMih,Java 6,1640,43827200
+1316415,159,1331283086,3086,A,1700,*special-greedy-implementation,dalex,Java 6,170,43929600
+1316347,159,1331282874,2874,A,1700,*special-greedy-implementation,nemat,Java 6,190,56627200
+1316287,159,1331282697,2697,A,1700,*special-greedy-implementation,PolarNick,Java 6,130,43417600
+1316285,159,1331282689,2689,B,1800,*special-greedy-sortings,Di735,Java 6,390,43315200
+1315167,159,1331281908,1908,A,1700,*special-greedy-implementation,LinkovMih,Java 6,270,59289600
+1315063,159,1331281580,1580,A,1700,*special-greedy-implementation,Wahba,Java 6,300,43417600
+1315055,159,1331281542,1542,A,1700,*special-greedy-implementation,lwc626,Java 6,310,43315200

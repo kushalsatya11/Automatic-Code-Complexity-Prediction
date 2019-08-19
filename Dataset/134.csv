@@ -1,0 +1,256 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57126161,134,1563251610,2147483647,B,1800,brute force-dfs and similar-math-number theory,santoo1234,Java 8,311,0
+53005250,134,1555665309,2147483647,C,2200,constructive algorithms-graphs-greedy,hongquanntct,Java 8,466,6246400
+47431137,134,1545581836,2147483647,B,1800,brute force-dfs and similar-math-number theory,KulikAlex,Java 8,312,0
+46954973,134,1544668848,2147483647,A,1300,brute force-implementation,vktennis,Java 8,966,0
+46954932,134,1544668587,2147483647,A,1300,brute force-implementation,RichardBot7000,Java 8,982,0
+46001752,134,1542725464,2147483647,A,1300,brute force-implementation,ghangh,Java 8,998,6963200
+45916145,134,1542550020,2147483647,B,1800,brute force-dfs and similar-math-number theory,Vaibhav96,Java 8,249,0
+38573228,134,1527116292,2147483647,A,1300,brute force-implementation,Md_Ibrahim_Khan,Java 8,967,0
+38007491,134,1525729798,2147483647,B,1800,brute force-dfs and similar-math-number theory,ViciousCoder,Java 8,405,20684800
+37471945,134,1524167352,2147483647,A,1300,brute force-implementation,ViciousCoder,Java 8,171,20787200
+36748111,134,1522416570,2147483647,B,1800,brute force-dfs and similar-math-number theory,Ahmad_Elsagheer,Java 8,249,20684800
+34952665,134,1517856143,2147483647,A,1300,brute force-implementation,CharlesDai,Java 8,155,25497600
+32238601,134,1510476936,2147483647,A,1300,brute force-implementation,Omar_Morsi,Java 8,202,2867200
+29291183,134,1502214958,2147483647,A,1300,brute force-implementation,_S1MPLE_,Java 8,998,21094400
+29290955,134,1502214214,2147483647,A,1300,brute force-implementation,_S1MPLE_,Java 8,982,21094400
+27894536,134,1497841646,2147483647,B,1800,brute force-dfs and similar-math-number theory,Abkreno94,Java 8,217,0
+27892523,134,1497829351,2147483647,B,1800,brute force-dfs and similar-math-number theory,Kharouba,Java 8,186,0
+26065508,134,1491083468,2147483647,C,2200,constructive algorithms-graphs-greedy,kunal_khatri,Java 8,622,30924800
+26065492,134,1491083396,2147483647,C,2200,constructive algorithms-graphs-greedy,kunal_khatri,Java 8,652,30924800
+26054545,134,1491052872,2147483647,B,1800,brute force-dfs and similar-math-number theory,kunal_khatri,Java 8,265,20275200
+26054401,134,1491052610,2147483647,B,1800,brute force-dfs and similar-math-number theory,aya_cool,Java 8,389,20480000
+26054106,134,1491052000,2147483647,B,1800,brute force-dfs and similar-math-number theory,RP_9,Java 8,202,20480000
+26035446,134,1490992062,2147483647,B,1800,brute force-dfs and similar-math-number theory,Don_1234,Java 8,373,20889600
+25302829,134,1488832477,2147483647,A,1300,brute force-implementation,pitfall,Java 8,202,25497600
+24561030,134,1486694404,2147483647,A,1300,brute force-implementation,di_halt,Java 8,327,34611200
+20916270,134,1474842445,2147483647,A,1300,brute force-implementation,Hazemzz,Java 8,202,0
+19168206,134,1468654258,2147483647,A,1300,brute force-implementation,anjali121,Java 8,982,0
+17801573,134,1462677086,2147483647,A,1300,brute force-implementation,chrisyhsun,Java 8,858,27033600
+12964974,134,1442001147,2147483647,B,1800,brute force-dfs and similar-math-number theory,alibaba,Java 7,187,0
+12821587,134,1441234640,2147483647,A,1300,brute force-implementation,ig_dug,Java 8,951,0
+12244446,134,1438026173,2147483647,A,1300,brute force-implementation,sweiss,Java 8,187,0
+12242531,134,1438012379,2147483647,A,1300,brute force-implementation,TWO_POINTER,Java 8,951,0
+11398576,134,1433319502,2147483647,A,1300,brute force-implementation,Hartha,Java 8,156,5836800
+11250774,134,1432464803,2147483647,B,1800,brute force-dfs and similar-math-number theory,vjudge3,Java 7,187,0
+11250759,134,1432464746,2147483647,B,1800,brute force-dfs and similar-math-number theory,NotHere,Java 8,233,0
+11250755,134,1432464713,2147483647,B,1800,brute force-dfs and similar-math-number theory,NotHere,Java 7,202,0
+11240237,134,1432394269,2147483647,A,1300,brute force-implementation,pawandubey,Java 7,202,14028800
+11066240,134,1431293186,2147483647,A,1300,brute force-implementation,poikniok,Java 8,171,0
+10690727,134,1428909370,2147483647,A,1300,brute force-implementation,phanikumar,Java 7,935,0
+10690708,134,1428909262,2147483647,A,1300,brute force-implementation,phanikumar,Java 7,936,0
+10543943,134,1427906074,2147483647,C,2200,constructive algorithms-graphs-greedy,A.Elahi,Java 8,498,0
+10538494,134,1427864448,2147483647,C,2200,constructive algorithms-graphs-greedy,Yeison_Garcia,Java 7,466,22835200
+10212395,134,1425847911,2147483647,A,1300,brute force-implementation,flyman3046,Java 8,202,0
+9626315,134,1422621736,2147483647,A,1300,brute force-implementation,moatazshawky,Java 6,998,0
+9543200,134,1422142794,2147483647,A,1300,brute force-implementation,aboodmanna,Java 8,405,0
+7957279,134,1411738736,2147483647,A,1300,brute force-implementation,zCode,Java 7,763,11366400
+7092177,134,1405268379,2147483647,A,1300,brute force-implementation,waledsaleh,Java 7,218,2560000
+6929820,134,1403284850,2147483647,C,2200,constructive algorithms-graphs-greedy,Plan,Java 7,780,2969600
+6926836,134,1403258838,3438,A,1300,brute force-implementation,williard,Java 6,310,0
+6926524,134,1403255639,239,A,1300,brute force-implementation,Plan,Java 7,810,2764800
+6891429,134,1402766029,2147483647,A,1300,brute force-implementation,Petruchcho,Java 8,746,1433600
+6712430,134,1401061085,2147483647,A,1300,brute force-implementation,vvenkai,Java 7,310,0
+6712263,134,1401056652,2147483647,A,1300,brute force-implementation,marcose18,Java 7,808,204800
+6399265,134,1397799530,2147483647,A,1300,brute force-implementation,jcomputer000,Java 7,310,0
+5776458,134,1390472506,2147483647,A,1300,brute force-implementation,togrul,Java 7,372,0
+5243889,134,1385475622,2147483647,A,1300,brute force-implementation,0p9o8i,Java 7,218,0
+5243878,134,1385475566,2147483647,A,1300,brute force-implementation,0p9o8i,Java 7,186,0
+5243845,134,1385475376,2147483647,A,1300,brute force-implementation,0p9o8i,Java 7,248,4505600
+5243810,134,1385475124,2147483647,A,1300,brute force-implementation,0p9o8i,Java 7,312,12595200
+5163812,134,1384883404,2147483647,A,1300,brute force-implementation,alibaba,Java 6,436,1740800
+4839719,134,1382391586,2147483647,B,1800,brute force-dfs and similar-math-number theory,nolliepoper,Java 7,998,204800
+4835452,134,1382305452,2147483647,A,1300,brute force-implementation,tare2Ashraf,Java 7,280,13312000
+4764011,134,1381642836,2147483647,B,1800,brute force-dfs and similar-math-number theory,mkirsche,Java 6,996,0
+4601441,134,1380408383,2147483647,B,1800,brute force-dfs and similar-math-number theory,nodirt,Java 7,654,307200
+4473621,134,1379201609,2147483647,A,1300,brute force-implementation,Togrul-BSU,Java 7,342,102400
+4366525,134,1377787837,2147483647,B,1800,brute force-dfs and similar-math-number theory,DoublePointer,Java 7,342,0
+3957661,134,1372127747,2147483647,A,1300,brute force-implementation,mkirsche,Java 6,265,2252800
+3237774,134,1362398895,2147483647,A,1300,brute force-implementation,zulkan,Java 6,359,5836800
+3223513,134,1362128335,2147483647,A,1300,brute force-implementation,Gotzillaz,Java 7,1000,204800
+3202329,134,1361964604,2147483647,A,1300,brute force-implementation,Spellbound,Java 7,203,307200
+2869780,134,1357226841,2147483647,A,1300,brute force-implementation,MiroO,Java 6,609,307200
+2552339,134,1352805064,2147483647,B,1800,brute force-dfs and similar-math-number theory,Azat_Yusupov,Java 6,234,0
+2468613,134,1351539428,2147483647,A,1300,brute force-implementation,Tin_Tin,Java 6,1015,307200
+2272579,134,1349082232,232,A,1300,brute force-implementation,Azat_Yusupov,Java 6,250,307200
+2085505,134,1346469683,2147483647,A,1300,brute force-implementation,goodsky,Java 7,980,45260800
+2045216,134,1345747893,2147483647,A,1300,brute force-implementation,DoublePointer,Java 6,300,43622400
+2031220,134,1345290143,2147483647,B,1800,brute force-dfs and similar-math-number theory,m.radwan,Java 6,390,43212800
+1967369,134,1343807799,2147483647,B,1800,brute force-dfs and similar-math-number theory,egaeus,Java 6,270,43212800
+1945829,134,1343444560,2147483647,B,1800,brute force-dfs and similar-math-number theory,jiangzhijie,Java 7,300,45875200
+1835130,134,1340816628,2147483647,A,1300,brute force-implementation,fxpo,Java 6,1050,43724800
+1802533,134,1339681172,2147483647,A,1300,brute force-implementation,rockstartiwari,Java 6,640,43520000
+1668752,134,1336456296,2147483647,A,1300,brute force-implementation,bidzilya,Java 7,220,44953600
+1619182,134,1335238248,2147483647,A,1300,brute force-implementation,slex,Java 6,690,43622400
+1379029,134,1332156885,2147483647,A,1300,brute force-implementation,Abra,Java 7,250,45056000
+1290945,134,1330956689,2147483647,A,1300,brute force-implementation,dkhaburdzania,Java 6,910,45158400
+1275069,134,1330854534,2147483647,B,1800,brute force-dfs and similar-math-number theory,zulkan,Java 6,220,43212800
+1274835,134,1330853883,2147483647,B,1800,brute force-dfs and similar-math-number theory,zulkan,Java 6,230,44953600
+1268193,134,1330828876,2147483647,A,1300,brute force-implementation,cuiaoxiang,Java 6,230,45056000
+1204977,134,1329714199,2147483647,A,1300,brute force-implementation,Aphrodite.S,Java 6,950,45158400
+1204739,134,1329695515,2147483647,B,1800,brute force-dfs and similar-math-number theory,partizan22,Java 6,250,44851200
+1175243,134,1329122171,2147483647,A,1300,brute force-implementation,demuri11,Java 6,950,43520000
+1157079,134,1328682405,2147483647,A,1300,brute force-implementation,peking2,Java 6,950,43520000
+1119795,134,1327628742,2147483647,A,1300,brute force-implementation,tux1986,Java 6,660,52326400
+1073485,134,1326800615,2147483647,A,1300,brute force-implementation,PushistikTima,Java 6,1030,43520000
+1051666,134,1326715258,2147483647,A,1300,brute force-implementation,damithk,Java 6,640,45670400
+1029202,134,1326273241,2147483647,A,1300,brute force-implementation,andy_ex,Java 6,980,43520000
+997309,134,1325628887,2147483647,B,1800,brute force-dfs and similar-math-number theory,mancgupta,Java 6,220,43008000
+994009,134,1325431124,2147483647,A,1300,brute force-implementation,rurik,Java 6,670,43520000
+990252,134,1325122437,2147483647,B,1800,brute force-dfs and similar-math-number theory,_jte_,Java 6,230,43212800
+990251,134,1325122364,2147483647,A,1300,brute force-implementation,_jte_,Java 6,250,43622400
+990247,134,1325121937,2147483647,A,1300,brute force-implementation,Crist,Java 6,250,43417600
+988354,134,1324993408,2147483647,A,1300,brute force-implementation,nin_ten,Java 6,1200,43622400
+987671,134,1324941191,2147483647,A,1300,brute force-implementation,ilovepink,Java 6,910,43520000
+974195,134,1324726257,2147483647,A,1300,brute force-implementation,mukku,Java 6,1030,43520000
+974030,134,1324720077,2147483647,B,1800,brute force-dfs and similar-math-number theory,malcolm,Java 6,230,43110400
+974022,134,1324719711,2147483647,A,1300,brute force-implementation,malcolm,Java 6,880,43622400
+971044,134,1324505975,2147483647,A,1300,brute force-implementation,Navigabimus,Java 6,1060,43520000
+965022,134,1324105936,2147483647,A,1300,brute force-implementation,xiaowuc1,Java 6,590,43520000
+962956,134,1324034928,2147483647,A,1300,brute force-implementation,Jamolbek,Java 6,920,43520000
+957045,134,1323981801,2147483647,A,1300,brute force-implementation,andrewdormidormi,Java 6,1000,43520000
+956407,134,1323951082,2147483647,B,1800,brute force-dfs and similar-math-number theory,stould,Java 6,170,43110400
+954642,134,1323834185,996185,A,1300,brute force-implementation,altais,Java 6,280,43417600
+954361,134,1323799968,961968,B,1800,brute force-dfs and similar-math-number theory,mahmoudhanafi,Java 6,480,43110400
+950893,134,1323577770,739770,A,1300,brute force-implementation,mahmoudhanafi,Java 6,200,43417600
+947373,134,1323466647,628647,B,1800,brute force-dfs and similar-math-number theory,Ahmed_Salama,Java 6,1340,75059200
+937110,134,1323430909,592909,B,1800,brute force-dfs and similar-math-number theory,myIdols-TimAndArul,Java 6,660,42905600
+935273,134,1323330926,492926,A,1300,brute force-implementation,Andreos,Java 6,780,35532800
+933922,134,1323237446,399446,B,1800,brute force-dfs and similar-math-number theory,rajatag12,Java 6,470,35225600
+933348,134,1323187587,349587,A,1300,brute force-implementation,Sammax,Java 6,800,35737600
+932308,134,1323146779,308779,A,1300,brute force-implementation,neustroev_ai,Java 6,730,35532800
+932201,134,1323139620,301620,B,1800,brute force-dfs and similar-math-number theory,pele,Java 6,270,35328000
+932110,134,1323128707,290707,B,1800,brute force-dfs and similar-math-number theory,stevenkplus,Java 6,190,35328000
+931906,134,1323111704,273704,B,1800,brute force-dfs and similar-math-number theory,SharpBlade,Java 6,200,35328000
+931877,134,1323110258,272258,C,2200,constructive algorithms-graphs-greedy,I_love_Malika,Java 6,590,46899200
+931570,134,1323100736,262736,B,1800,brute force-dfs and similar-math-number theory,I_love_Malika,Java 6,340,35225600
+931279,134,1323091528,253528,A,1300,brute force-implementation,SharpBlade,Java 6,720,35532800
+931174,134,1323088642,250642,A,1300,brute force-implementation,ilyakryukov,Java 6,840,36044800
+931096,134,1322840602,2602,A,1300,brute force-implementation,CountZero,Java 6,1280,35532800
+930979,134,1323079915,241915,A,1300,brute force-implementation,pele,Java 6,1010,35635200
+930256,134,1323032713,194713,A,1300,brute force-implementation,stevenkplus,Java 6,590,43520000
+930191,134,1323028506,190506,C,2200,constructive algorithms-graphs-greedy,uwi,Java 6,440,57651200
+930115,134,1323025657,187657,B,1800,brute force-dfs and similar-math-number theory,uwi,Java 6,300,43008000
+929950,134,1323020669,182669,A,1300,brute force-implementation,wangyongliang,Java 6,1230,43520000
+926894,134,1322933694,95694,A,1300,brute force-implementation,evgeny11,Java 6,390,46182400
+924953,134,1322929462,91462,A,1300,brute force-implementation,sr.icaro,Java 6,630,43417600
+924870,134,1322929368,91368,A,1300,brute force-implementation,sr.icaro,Java 6,670,43417600
+918847,134,1322923915,85915,A,1300,brute force-implementation,uwi,Java 6,250,43212800
+918767,134,1322921637,83637,B,1800,brute force-dfs and similar-math-number theory,AlexanderBolshakov,Java 6,300,43008000
+918706,134,1322920298,82298,C,2200,constructive algorithms-graphs-greedy,YuukaKazami,Java 6,660,49561600
+918639,134,1322919505,81505,B,1800,brute force-dfs and similar-math-number theory,YuukaKazami,Java 6,410,35225600
+918618,134,1322919175,81175,A,1300,brute force-implementation,YuukaKazami,Java 6,310,35532800
+918557,134,1322917866,79866,B,1800,brute force-dfs and similar-math-number theory,Sammax,Java 6,390,35328000
+918540,134,1322917569,79569,B,1800,brute force-dfs and similar-math-number theory,Sammax,Java 6,640,35328000
+918531,134,1322917428,79428,B,1800,brute force-dfs and similar-math-number theory,RodionGork,Java 6,270,35328000
+918340,134,1322911896,73896,B,1800,brute force-dfs and similar-math-number theory,it4.kp,Java 6,250,43008000
+918256,134,1322909339,71339,B,1800,brute force-dfs and similar-math-number theory,andreyrmg,Java 6,250,43008000
+918201,134,1322907827,69827,A,1300,brute force-implementation,lpeter,Java 6,280,43315200
+918183,134,1322838539,539,A,1300,brute force-implementation,Skater,Java 6,970,43417600
+917949,134,1322899547,61547,A,1300,brute force-implementation,andreyrmg,Java 6,250,43315200
+917913,134,1322897713,59713,A,1300,brute force-implementation,Zer0Point,Java 6,1080,43417600
+917856,134,1322894108,56108,A,1300,brute force-implementation,tehqin,Java 6,750,43417600
+917692,134,1322840312,2312,C,2200,constructive algorithms-graphs-greedy,Jokser,Java 6,500,49766400
+917668,134,1322838812,812,B,1800,brute force-dfs and similar-math-number theory,Jokser,Java 6,360,43212800
+917656,134,1322838211,211,A,1300,brute force-implementation,Jokser,Java 6,330,43417600
+917638,134,1322884904,46904,A,1300,brute force-implementation,Nastaya,Java 6,700,43417600
+917565,134,1322879916,41916,B,1800,brute force-dfs and similar-math-number theory,gripleaf,Java 6,200,43110400
+917316,134,1322839508,1508,B,1800,brute force-dfs and similar-math-number theory,_jte_,Java 6,270,43212800
+917308,134,1322862405,24405,A,1300,brute force-implementation,pasha,Java 6,1030,43417600
+917306,134,1322838392,392,A,1300,brute force-implementation,_jte_,Java 6,270,43417600
+917303,134,1322861622,23622,A,1300,brute force-implementation,nickbuelich,Java 6,730,43417600
+917247,134,1322838234,234,A,1300,brute force-implementation,Izot_NNSTU,Java 6,310,43315200
+917231,134,1322856430,18430,A,1300,brute force-implementation,Alex_by,Java 6,230,35430400
+917219,134,1322856165,18165,C,2200,constructive algorithms-graphs-greedy,ArtemKadeev,Java 6,500,44339200
+917211,134,1322841134,3134,C,2200,constructive algorithms-graphs-greedy,Kornacker,Java 6,890,43520000
+917188,134,1322839236,1236,B,1800,brute force-dfs and similar-math-number theory,Kornacker,Java 6,340,43110400
+917173,134,1322853378,15378,B,1800,brute force-dfs and similar-math-number theory,ArtemKadeev,Java 6,270,43315200
+917164,134,1322838301,301,A,1300,brute force-implementation,Kornacker,Java 6,890,43520000
+917151,134,1322852661,14661,A,1300,brute force-implementation,ArtemKadeev,Java 6,300,43520000
+917128,134,1322852032,14032,A,1300,brute force-implementation,mancgupta,Java 6,280,43315200
+917041,134,1322849913,11913,A,1300,brute force-implementation,story_teller,Java 6,1010,43417600
+917036,134,1322849825,11825,C,2200,constructive algorithms-graphs-greedy,mostafa_fahim,Java 6,330,43315200
+916963,134,1322848147,10147,A,1300,brute force-implementation,dusty.and.rusty,Java 6,770,43417600
+916959,134,1322848114,10114,A,1300,brute force-implementation,dusty.and.rusty,Java 6,720,43417600
+916956,134,1322848057,10057,A,1300,brute force-implementation,dusty.and.rusty,Java 6,750,43417600
+916952,134,1322848002,10002,A,1300,brute force-implementation,dusty.and.rusty,Java 6,1030,43417600
+916911,134,1322847202,9202,B,1800,brute force-dfs and similar-math-number theory,dusty.and.rusty,Java 6,390,43110400
+916909,134,1322847152,9152,A,1300,brute force-implementation,dusty.and.rusty,Java 6,730,43417600
+916900,134,1322846915,8915,A,1300,brute force-implementation,dusty.and.rusty,Java 6,360,44339200
+916895,134,1322846839,8839,A,1300,brute force-implementation,dusty.and.rusty,Java 6,330,45568000
+916882,134,1322846595,8595,A,1300,brute force-implementation,dusty.and.rusty,Java 6,360,45772800
+916873,134,1322846425,8425,A,1300,brute force-implementation,dusty.and.rusty,Java 6,770,45772800
+916853,134,1322846120,8120,A,1300,brute force-implementation,dusty.and.rusty,Java 6,780,43417600
+916820,134,1322845640,7640,A,1300,brute force-implementation,dusty.and.rusty,Java 6,360,45772800
+916774,134,1322838325,325,A,1300,brute force-implementation,Mega4alik,Java 6,970,43417600
+916772,134,1322845210,7210,B,1800,brute force-dfs and similar-math-number theory,Omar.Darwish,Java 6,580,35225600
+916766,134,1322845172,7172,A,1300,brute force-implementation,Wahba,Java 6,880,43417600
+916731,134,1322844898,6898,A,1300,brute force-implementation,Mony--ejele,Java 6,1050,43417600
+916621,134,1322844044,6044,A,1300,brute force-implementation,Dunaril,Java 6,1010,43417600
+916611,134,1322844010,6010,B,1800,brute force-dfs and similar-math-number theory,cyon,Java 6,970,43110400
+916607,134,1322843983,5983,A,1300,brute force-implementation,m_a_s_91,Java 6,580,43417600
+916590,134,1322843889,5889,C,2200,constructive algorithms-graphs-greedy,S.Yesipenko,Java 6,470,47718400
+916588,134,1322843884,5884,C,2200,constructive algorithms-graphs-greedy,Ahmed_Salama,Java 6,1690,44441600
+916565,134,1322843798,5798,B,1800,brute force-dfs and similar-math-number theory,Di735,Java 6,500,43110400
+916558,134,1322843771,5771,C,2200,constructive algorithms-graphs-greedy,Ahmed_Salama,Java 6,840,43929600
+916483,134,1322843435,5435,A,1300,brute force-implementation,agent3889,Java 6,1250,35635200
+916455,134,1322843343,5343,B,1800,brute force-dfs and similar-math-number theory,Ahmed_Salama,Java 6,1190,67174400
+916440,134,1322843278,5278,A,1300,brute force-implementation,stould,Java 6,670,37171200
+916431,134,1322843253,5253,A,1300,brute force-implementation,Venom,Java 6,580,35430400
+916426,134,1322843238,5238,A,1300,brute force-implementation,marque,Java 6,640,37068800
+916418,134,1322843222,5222,C,2200,constructive algorithms-graphs-greedy,khanhptnk,Java 6,610,54272000
+916417,134,1322843222,5222,B,1800,brute force-dfs and similar-math-number theory,Aries512,Java 6,560,35328000
+916414,134,1322843207,5207,A,1300,brute force-implementation,Ahmed_Salama,Java 6,1250,35635200
+916410,134,1322843195,5195,C,2200,constructive algorithms-graphs-greedy,Slamur,Java 6,330,36249600
+916358,134,1322843046,5046,B,1800,brute force-dfs and similar-math-number theory,mostafa_fahim,Java 6,220,35328000
+916167,134,1322841366,3366,A,1300,brute force-implementation,ahmad_mamdouh,Java 6,690,37888000
+916148,134,1322841320,3320,A,1300,brute force-implementation,zulkan,Java 6,770,45568000
+916031,134,1322841095,3095,C,2200,constructive algorithms-graphs-greedy,S.Yesipenko,Java 6,470,47718400
+916020,134,1322841082,3082,C,2200,constructive algorithms-graphs-greedy,islam-al-aarag,Java 6,610,36966400
+916003,134,1322841070,3070,C,2200,constructive algorithms-graphs-greedy,Di735,Java 6,300,35532800
+915954,134,1322840832,2832,A,1300,brute force-implementation,Slamur,Java 6,300,36352000
+915927,134,1322840767,2767,B,1800,brute force-dfs and similar-math-number theory,khanhptnk,Java 6,640,35225600
+915906,134,1322840715,2715,C,2200,constructive algorithms-graphs-greedy,Egor,Java 6,250,35430400
+915882,134,1322840631,2631,A,1300,brute force-implementation,nanikaka,Java 6,1030,35635200
+915879,134,1322840627,2627,B,1800,brute force-dfs and similar-math-number theory,Berestinsky,Java 6,190,35225600
+915830,134,1322840486,2486,A,1300,brute force-implementation,wackloner,Java 6,580,35532800
+915801,134,1322840408,2408,B,1800,brute force-dfs and similar-math-number theory,OgieKako,Java 6,250,35225600
+915747,134,1322840275,2275,B,1800,brute force-dfs and similar-math-number theory,zgw,Java 6,300,35328000
+915731,134,1322840243,2243,A,1300,brute force-implementation,JKesha,Java 6,230,35430400
+915724,134,1322840226,2226,B,1800,brute force-dfs and similar-math-number theory,tanzaku,Java 6,220,35328000
+915707,134,1322840189,2189,A,1300,brute force-implementation,Aries512,Java 6,270,35430400
+915699,134,1322840177,2177,C,2200,constructive algorithms-graphs-greedy,shevchen,Java 6,450,40243200
+915693,134,1322840158,2158,B,1800,brute force-dfs and similar-math-number theory,shavkat,Java 6,270,35328000
+915489,134,1322839686,1686,B,1800,brute force-dfs and similar-math-number theory,Egor,Java 6,170,35225600
+915338,134,1322839360,1360,A,1300,brute force-implementation,khanhptnk,Java 6,250,35430400
+915277,134,1322839224,1224,A,1300,brute force-implementation,Sammax,Java 6,1250,35737600
+915200,134,1322839101,1101,A,1300,brute force-implementation,upsolving,Java 6,440,48742400
+915146,134,1322839016,1016,A,1300,brute force-implementation,wistful23,Java 6,300,35532800
+915108,134,1322838947,947,A,1300,brute force-implementation,userlond,Java 6,360,35532800
+915068,134,1322838889,889,A,1300,brute force-implementation,Andreus,Java 6,780,35532800
+915056,134,1322838862,862,A,1300,brute force-implementation,tanzaku,Java 6,1030,35532800
+915032,134,1322838825,825,B,1800,brute force-dfs and similar-math-number theory,S.Yesipenko,Java 6,280,35328000
+915029,134,1322838819,819,B,1800,brute force-dfs and similar-math-number theory,shevchen,Java 6,380,35225600
+914969,134,1322838736,736,A,1300,brute force-implementation,cyon,Java 6,690,35532800
+914932,134,1322838699,699,A,1300,brute force-implementation,tus-team,Java 6,1090,35635200
+914888,134,1322838661,661,B,1800,brute force-dfs and similar-math-number theory,islam-al-aarag,Java 6,300,35328000
+914859,134,1322838631,631,A,1300,brute force-implementation,gripleaf,Java 6,1230,35532800
+914843,134,1322838609,609,A,1300,brute force-implementation,bohuss,Java 6,560,35430400
+914806,134,1322838559,559,A,1300,brute force-implementation,Egor,Java 6,220,35430400
+914727,134,1322838480,480,A,1300,brute force-implementation,flash36,Java 6,590,35532800
+914714,134,1322838468,468,A,1300,brute force-implementation,zgw,Java 6,1060,35635200
+914669,134,1322838431,431,A,1300,brute force-implementation,shavkat,Java 6,330,35430400
+914655,134,1322838418,418,A,1300,brute force-implementation,Berestinsky,Java 6,300,44236800
+914602,134,1322838373,373,A,1300,brute force-implementation,PolarNick,Java 6,610,35430400
+914598,134,1322838370,370,A,1300,brute force-implementation,mostafa_fahim,Java 6,1190,35635200
+914589,134,1322838360,360,A,1300,brute force-implementation,Di735,Java 6,300,35840000
+914586,134,1322838359,359,A,1300,brute force-implementation,I_love_Malika,Java 6,270,35430400
+914557,134,1322838330,330,A,1300,brute force-implementation,Omar.Darwish,Java 6,780,38604800
+914530,134,1322838303,303,A,1300,brute force-implementation,Sinner,Java 6,230,35430400
+914529,134,1322838303,303,A,1300,brute force-implementation,AlexanderBolshakov,Java 6,560,35532800
+914497,134,1322838270,270,A,1300,brute force-implementation,mohamed.gaber,Java 6,610,35430400
+914468,134,1322838237,237,A,1300,brute force-implementation,islam-al-aarag,Java 6,1000,35532800
+914464,134,1322838229,229,A,1300,brute force-implementation,OgieKako,Java 6,270,35430400
+914462,134,1322838226,226,A,1300,brute force-implementation,Ignorance,Java 6,830,37273600
+914405,134,1322838143,143,A,1300,brute force-implementation,shevchen,Java 6,310,35532800
+914403,134,1322838136,136,A,1300,brute force-implementation,S.Yesipenko,Java 6,300,35532800

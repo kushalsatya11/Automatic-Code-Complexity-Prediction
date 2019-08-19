@@ -1,0 +1,51 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+45443983,1074,1541680216,2147483647,D,2600,data structures-dsu-hashing,spar5h,Java 8,451,79052800,OK
+45443439,1074,1541679362,2147483647,D,2600,data structures-dsu-hashing,spar5h,Java 8,2000,259686400,TIME_LIMIT_EXCEEDED
+45420570,1074,1541609929,3529,F,2600,data structures-trees,sardar_sardarov,Java 8,6000,113459200,TIME_LIMIT_EXCEEDED
+45420322,1074,1541609378,2978,F,2600,data structures-trees,sardar_sardarov,Java 8,6000,154316800,TIME_LIMIT_EXCEEDED
+45419614,1074,1541607848,1448,F,2600,data structures-trees,sardar_sardarov,Java 8,6000,150732800,TIME_LIMIT_EXCEEDED
+45419152,1074,1541606839,439,F,2600,data structures-trees,sardar_sardarov,Java 8,6000,150016000,TIME_LIMIT_EXCEEDED
+45377636,1074,1541509759,2147483647,D,2600,data structures-dsu-hashing,aminul,Java 8,873,130969600,OK
+45377494,1074,1541509528,2147483647,D,2600,data structures-dsu-hashing,aminul,Java 8,857,130969600,OK
+45353171,1074,1541490497,2147483647,A,1700,sortings-two pointers,PrakharJain,Java 8,389,24064000,OK
+45344982,1074,1541469594,2147483647,D,2600,data structures-dsu-hashing,tri,Java 8,1247,136089600,OK
+45340715,1074,1541450119,2147483647,B,1900,interactive-trees,PrakharJain,Java 8,186,0,OK
+45336025,1074,1541439678,2147483647,C,2200,brute force-dp-geometry,Ahmad,Java 8,514,27648000,OK
+45330836,1074,1541430473,2147483647,B,1900,interactive-trees,Ahmad,Java 8,218,0,OK
+45328476,1074,1541426651,2147483647,A,1700,sortings-two pointers,Ahmad,Java 8,343,13721600,OK
+45328348,1074,1541426426,2147483647,A,1700,sortings-two pointers,Ahmad,Java 8,327,13721600,OK
+45319755,1074,1541411859,2147483647,C,2200,brute force-dp-geometry,Azat_Yusupov,Java 8,343,0,OK
+45319219,1074,1541410914,2147483647,C,2200,brute force-dp-geometry,Musin,Java 8,249,2355200,OK
+45315615,1074,1541404266,2147483647,D,2600,data structures-dsu-hashing,Jeel_Vaishnav,Java 8,873,106393600,OK
+45307071,1074,1541371279,2147483647,D,2600,data structures-dsu-hashing,kessido,Java 8,873,28262400,OK
+45304151,1074,1541363582,8582,A,1700,sortings-two pointers,indy256,Java 8,187,0,OK
+45303746,1074,1541363327,8327,C,2200,brute force-dp-geometry,indy256,Java 8,233,12083200,OK
+45303103,1074,1541362882,7882,B,1900,interactive-trees,Musin,Java 8,202,0,OK
+45302649,1074,1541362553,7553,C,2200,brute force-dp-geometry,dusty.and.rusty,Java 8,717,37068800,OK
+45301755,1074,1541361890,6890,C,2200,brute force-dp-geometry,Jeel_Vaishnav,Java 8,265,5734400,OK
+45301678,1074,1541361834,6834,B,1900,interactive-trees,iakovlev.zakhar,Java 8,249,0,OK
+45301186,1074,1541361495,6495,B,1900,interactive-trees,Azat_Yusupov,Java 8,249,0,OK
+45299981,1074,1541360637,5637,C,2200,brute force-dp-geometry,tri,Java 8,311,0,OK
+45299559,1074,1541360348,5348,C,2200,brute force-dp-geometry,iakovlev.zakhar,Java 8,390,4096000,OK
+45299435,1074,1541360257,5257,B,1900,interactive-trees,Svyat,Java 8,218,0,OK
+45299415,1074,1541360238,5238,B,1900,interactive-trees,dusty.and.rusty,Java 8,374,102400,OK
+45299085,1074,1541360018,5018,C,2200,brute force-dp-geometry,kessido,Java 8,374,5120000,OK
+45298709,1074,1541359781,4781,B,1900,interactive-trees,indy256,Java 8,202,0,OK
+45297982,1074,1541359304,4304,B,1900,interactive-trees,spar5h,Java 8,233,0,OK
+45297869,1074,1541359239,4239,B,1900,interactive-trees,alexyz,Java 8,218,0,OK
+45297325,1074,1541358909,3909,B,1900,interactive-trees,Jeel_Vaishnav,Java 8,592,0,OK
+45297070,1074,1541358745,3745,B,1900,interactive-trees,EmThoDau,Java 8,264,0,OK
+45297052,1074,1541358736,3736,B,1900,interactive-trees,kessido,Java 8,249,0,OK
+45296196,1074,1541358248,3248,A,1700,sortings-two pointers,iakovlev.zakhar,Java 8,265,0,OK
+45295773,1074,1541358030,3030,C,2200,brute force-dp-geometry,Svyat,Java 8,436,0,OK
+45295513,1074,1541357883,2883,B,1900,interactive-trees,tri,Java 8,217,0,OK
+45295443,1074,1541357843,2843,A,1700,sortings-two pointers,Azat_Yusupov,Java 8,265,0,OK
+45294043,1074,1541357137,2136,A,1700,sortings-two pointers,alexyz,Java 8,217,0,OK
+45293696,1074,1541356974,1974,A,1700,sortings-two pointers,kessido,Java 8,358,0,OK
+45293290,1074,1541356796,1796,A,1700,sortings-two pointers,dusty.and.rusty,Java 8,561,14950400,OK
+45292014,1074,1541356256,1256,A,1700,sortings-two pointers,tri,Java 8,249,0,OK
+45291981,1074,1541356241,1241,A,1700,sortings-two pointers,EmThoDau,Java 8,296,0,OK
+45291965,1074,1541356233,1233,A,1700,sortings-two pointers,spar5h,Java 8,202,0,OK
+45291638,1074,1541356116,1116,A,1700,sortings-two pointers,Jeel_Vaishnav,Java 8,155,0,OK
+45291314,1074,1541356002,1002,A,1700,sortings-two pointers,Musin,Java 8,327,5427200,OK
+45290368,1074,1541355680,680,A,1700,sortings-two pointers,Suzukaze,Java 8,265,0,OK

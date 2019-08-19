@@ -1,0 +1,929 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57475003,27,1563741904,2147483647,A,1900,implementation-sortings,mukkuu,Java 8,280,0
+57349099,27,1563588827,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Seven,Java 8,248,0
+57295766,27,1563476874,2147483647,A,1900,implementation-sortings,Dejokz,Java 8,218,0
+57065564,27,1563137998,2147483647,A,1900,implementation-sortings,beykus,Java 8,280,0
+56956790,27,1562994293,2147483647,A,1900,implementation-sortings,NikhilMohan1707,Java 8,280,0
+56778212,27,1562732697,2147483647,A,1900,implementation-sortings,goalboy,Java 8,374,0
+56636408,27,1562442722,2147483647,A,1900,implementation-sortings,bleh0.5,Java 8,248,0
+56394484,27,1561989486,2147483647,A,1900,implementation-sortings,Avi_2506,Java 8,248,0
+56161634,27,1561638852,2147483647,A,1900,implementation-sortings,tobitherobot,Java 8,310,0
+55753239,27,1560952544,2147483647,A,1900,implementation-sortings,its_aks_ulure,Java 8,248,0
+55607671,27,1560652229,2147483647,A,1900,implementation-sortings,kuxha,Java 8,218,0
+55605128,27,1560635730,2147483647,C,2000,constructive algorithms-greedy,kocko,Java 8,278,0
+55405902,27,1560184271,2147483647,A,1900,implementation-sortings,kirtidabas,Java 8,280,0
+55100973,27,1559679246,2147483647,A,1900,implementation-sortings,Priyanshi03,Java 8,280,0
+55088734,27,1559655425,2147483647,A,1900,implementation-sortings,kukreja-vlk,Java 8,248,0
+54796036,27,1559122756,2147483647,A,1900,implementation-sortings,manikasharma09,Java 8,312,0
+54716597,27,1558964480,2147483647,A,1900,implementation-sortings,abhinavsharma629,Java 8,278,0
+54652841,27,1558852351,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,AbdAl-mateen,Java 8,280,0
+54268007,27,1558076996,2147483647,A,1900,implementation-sortings,Ikari_stream,Java 8,218,0
+53838246,27,1557206893,2147483647,A,1900,implementation-sortings,aspatelakbar,Java 8,248,0
+53203521,27,1556047725,2147483647,A,1900,implementation-sortings,niteshgowda,Java 8,218,0
+53203129,27,1556046877,2147483647,A,1900,implementation-sortings,ronaldocr7,Java 8,278,0
+52582733,27,1554927724,2147483647,C,2000,constructive algorithms-greedy,AmmarKayaliite,Java 8,280,0
+52577688,27,1554916513,2147483647,C,2000,constructive algorithms-greedy,GiantTornado,Java 8,248,0
+52315239,27,1554396044,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,paliyastrot,Java 8,310,0
+52297909,27,1554362261,2147483647,A,1900,implementation-sortings,paliyastrot,Java 8,280,0
+51483604,27,1552999167,2147483647,A,1900,implementation-sortings,khiladir,Java 8,310,0
+51410913,27,1552824079,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,zhongzh13,Java 8,280,0
+51211268,27,1552377798,2147483647,A,1900,implementation-sortings,Muhammed_Bahaa,Java 8,280,0
+50336702,27,1550871499,2147483647,A,1900,implementation-sortings,wery0,Java 8,218,0
+50317914,27,1550840876,2147483647,A,1900,implementation-sortings,saurabhs1206,Java 8,218,0
+50135897,27,1550515990,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,jarcomp,Java 8,218,0
+49824650,27,1549968680,2147483647,A,1900,implementation-sortings,AWCXV,Java 8,216,0
+49296700,27,1548977993,2147483647,A,1900,implementation-sortings,rkhiladi,Java 8,310,0
+49194051,27,1548840716,2147483647,A,1900,implementation-sortings,Keti13,Java 8,280,0
+49193448,27,1548839712,2147483647,A,1900,implementation-sortings,Keti13,Java 8,280,0
+48466211,27,1547659294,2147483647,A,1900,implementation-sortings,mu.shakhawat.hossain,Java 8,218,0
+48376343,27,1547452098,2147483647,A,1900,implementation-sortings,sumit3,Java 8,218,0
+48376227,27,1547451823,2147483647,A,1900,implementation-sortings,chugh,Java 8,218,0
+48306103,27,1547322867,2147483647,A,1900,implementation-sortings,cre8tion,Java 8,342,0
+48146764,27,1547050147,2147483647,A,1900,implementation-sortings,viratK,Java 8,216,0
+48067294,27,1546887491,2147483647,A,1900,implementation-sortings,watforce,Java 8,248,0
+47843432,27,1546435527,2147483647,A,1900,implementation-sortings,irfanabduhu,Java 8,280,0
+47837157,27,1546424980,2147483647,A,1900,implementation-sortings,rezamotlagh,Java 8,310,0
+47552445,27,1545918465,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,deepak4669,Java 8,248,0
+47463785,27,1545669594,2147483647,A,1900,implementation-sortings,Mohibur_cou,Java 8,280,0
+46737918,27,1544218918,2147483647,A,1900,implementation-sortings,aps554,Java 8,280,0
+46719114,27,1544185972,2147483647,A,1900,implementation-sortings,RaZaR,Java 8,280,0
+46654455,27,1544024151,2147483647,A,1900,implementation-sortings,danny2019,Java 8,310,0
+46346134,27,1543428930,2147483647,A,1900,implementation-sortings,tahasin,Java 8,248,0
+46289317,27,1543343261,2147483647,A,1900,implementation-sortings,zouzankou,Java 8,278,0
+46207139,27,1543158074,2147483647,A,1900,implementation-sortings,stolis,Java 8,280,0
+46129956,27,1543013578,2147483647,A,1900,implementation-sortings,codername,Java 8,280,0
+46118256,27,1542985034,2147483647,A,1900,implementation-sortings,akshita00,Java 8,278,0
+45975007,27,1542650439,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,ViciousCoder,Java 8,218,0
+45908271,27,1542534026,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Vint666,Java 8,280,0
+45771755,27,1542293593,2147483647,A,1900,implementation-sortings,Vaibhav96,Java 8,310,0
+45450112,27,1541691082,2147483647,A,1900,implementation-sortings,Krukrukruzhka,Java 8,280,0
+45180907,27,1541091871,2147483647,A,1900,implementation-sortings,aabdelzaher,Java 8,248,0
+45149675,27,1541012441,2147483647,A,1900,implementation-sortings,abhinavverma,Java 8,310,0
+45145677,27,1541004269,2147483647,A,1900,implementation-sortings,Sharon,Java 8,280,0
+45141563,27,1540997153,2147483647,A,1900,implementation-sortings,KulikAlex,Java 8,248,0
+44480659,27,1539857239,2147483647,A,1900,implementation-sortings,PercySpecter,Java 8,280,0
+44447198,27,1539786178,2147483647,E,2100,brute force-dp-number theory,prashantpiyush,Java 8,248,0
+44389446,27,1539675865,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,kocko,Java 8,218,0
+44276812,27,1539470453,2147483647,C,2000,constructive algorithms-greedy,flyman3046,Java 8,280,0
+43729682,27,1538574071,2147483647,C,2000,constructive algorithms-greedy,GreatWhite,Java 8,310,0
+43728608,27,1538572573,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,GreatWhite,Java 8,310,0
+43727119,27,1538570450,2147483647,A,1900,implementation-sortings,GreatWhite,Java 8,280,0
+43628592,27,1538361965,2147483647,A,1900,implementation-sortings,vjudge1,Java 8,312,0
+43588510,27,1538258862,2147483647,C,2000,constructive algorithms-greedy,AQT,Java 8,280,0
+43511766,27,1538094252,2147483647,A,1900,implementation-sortings,vjudge1,Java 8,312,0
+43466592,27,1537988736,2147483647,A,1900,implementation-sortings,mariam__,Java 8,248,0
+42903086,27,1537044319,2147483647,A,1900,implementation-sortings,sancho20021,Java 8,374,0
+42483104,27,1536131485,2147483647,C,2000,constructive algorithms-greedy,Anonymous,Java 8,716,0
+42473433,27,1536091259,2147483647,A,1900,implementation-sortings,insane_n00b,Java 8,248,0
+42472580,27,1536088973,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Anonymous,Java 8,404,0
+42471469,27,1536086328,2147483647,A,1900,implementation-sortings,Anonymous,Java 8,342,0
+42436619,27,1535996704,2147483647,A,1900,implementation-sortings,xXAyushiXx,Java 8,372,0
+42427200,27,1535980403,2147483647,A,1900,implementation-sortings,Abo_7Sam,Java 8,374,0
+42334641,27,1535806623,2147483647,A,1900,implementation-sortings,HossamTag10,Java 8,312,0
+42220776,27,1535487791,2147483647,A,1900,implementation-sortings,khalil_2017,Java 8,310,0
+41879312,27,1534723897,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,vjudge5,Java 8,310,0
+41748025,27,1534580568,2147483647,C,2000,constructive algorithms-greedy,hongquanntct,Java 8,436,0
+41747575,27,1534579936,2147483647,C,2000,constructive algorithms-greedy,hongquanntct,Java 8,434,0
+41593403,27,1534260391,2147483647,A,1900,implementation-sortings,deepak4669,Java 8,310,0
+41558054,27,1534163651,2147483647,A,1900,implementation-sortings,varun_raj,Java 8,310,0
+41273945,27,1533557450,2147483647,A,1900,implementation-sortings,TaglasovEd,Java 8,372,0
+41227456,27,1533417888,2147483647,A,1900,implementation-sortings,mannshah27,Java 8,342,0
+40881038,27,1532774472,2147483647,A,1900,implementation-sortings,abhi2601,Java 8,340,0
+40774590,27,1532601269,2147483647,A,1900,implementation-sortings,ritik027,Java 8,310,0
+40481075,27,1531836616,2147483647,C,2000,constructive algorithms-greedy,alanor1,Java 8,342,204800
+40417235,27,1531752069,2147483647,A,1900,implementation-sortings,alanor1,Java 8,280,0
+40196954,27,1531302581,2147483647,C,2000,constructive algorithms-greedy,Tarun,Java 8,342,819200
+40190518,27,1531289803,2147483647,A,1900,implementation-sortings,RoadToIntrovert,Java 8,310,0
+40190443,27,1531289648,2147483647,C,2000,constructive algorithms-greedy,bhautik_77,Java 8,280,0
+40169219,27,1531222670,2147483647,C,2000,constructive algorithms-greedy,Ajudiya_13,Java 8,404,0
+40157471,27,1531197221,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,himanshubhardwaj169,Java 8,280,0
+40071627,27,1531004314,2147483647,A,1900,implementation-sortings,dmytro.prytula,Java 8,374,0
+39805358,27,1530385311,2147483647,C,2000,constructive algorithms-greedy,Vaibhav96,Java 8,622,0
+39760933,27,1530255876,2147483647,A,1900,implementation-sortings,masterofbat,Java 8,374,21094400
+39662134,27,1529973769,2147483647,E,2100,brute force-dp-number theory,flyman3046,Java 8,310,0
+39600992,27,1529841044,2147483647,E,2100,brute force-dp-number theory,wery0,Java 8,312,0
+39413576,27,1529417844,2147483647,A,1900,implementation-sortings,adibbatous,Java 8,342,0
+39404256,27,1529398561,2147483647,E,2100,brute force-dp-number theory,satvik007,Java 8,248,0
+39216635,27,1528894060,2147483647,C,2000,constructive algorithms-greedy,mariem_kandil,Java 8,342,0
+39186418,27,1528795529,2147483647,A,1900,implementation-sortings,ArashY,Java 8,342,0
+39179177,27,1528774006,2147483647,C,2000,constructive algorithms-greedy,austin.jsun,Java 8,654,7987200
+39056973,27,1528504778,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,austin.jsun,Java 8,372,0
+39032151,27,1528408444,2147483647,A,1900,implementation-sortings,austin.jsun,Java 8,342,0
+38810231,27,1527789213,2147483647,A,1900,implementation-sortings,amrtanshu,Java 8,248,20684800
+38719450,27,1527599662,2147483647,E,2100,brute force-dp-number theory,Slamur,Java 8,310,0
+38719260,27,1527599156,2147483647,E,2100,brute force-dp-number theory,Slamur,Java 8,248,0
+38155108,27,1526196520,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,PrakharJain,Java 8,248,20684800
+38154966,27,1526196127,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,PrakharJain,Java 8,248,20684800
+38153099,27,1526190998,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,PrakharJain,Java 8,248,20684800
+37825222,27,1525206332,2147483647,A,1900,implementation-sortings,Ahmed_Diab,Java 8,280,20787200
+37683481,27,1524914219,2147483647,A,1900,implementation-sortings,ghangh,Java 8,342,21094400
+37595622,27,1524657141,2147483647,A,1900,implementation-sortings,rds__98,Java 8,278,20787200
+37570582,27,1524569370,2147483647,A,1900,implementation-sortings,vjudge5,Java 8,342,21094400
+37473004,27,1524171571,2147483647,A,1900,implementation-sortings,codeharsh,Java 8,372,21299200
+37381885,27,1523908431,2147483647,A,1900,implementation-sortings,Zedronar,Java 8,280,20684800
+37381819,27,1523908146,2147483647,A,1900,implementation-sortings,Zedronar,Java 8,248,20787200
+37339914,27,1523742550,2147483647,A,1900,implementation-sortings,Hasib_Ullah,Java 8,342,21299200
+37264568,27,1523594376,2147483647,A,1900,implementation-sortings,Y-R,Java 8,436,21913600
+36758878,27,1522443372,2147483647,A,1900,implementation-sortings,totallynotan,Java 8,280,20684800
+36726403,27,1522340532,2147483647,A,1900,implementation-sortings,nickneo,Java 8,310,21299200
+36600768,27,1521914206,2147483647,A,1900,implementation-sortings,hitesh.bothra,Java 8,248,20787200
+36561957,27,1521863951,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,sfmunera,Java 8,342,21094400
+36496277,27,1521711910,2147483647,C,2000,constructive algorithms-greedy,Noureldin,Java 8,466,20889600
+36443025,27,1521583485,2147483647,A,1900,implementation-sortings,yazan_hindi,Java 8,312,21299200
+36326983,27,1521206470,2147483647,A,1900,implementation-sortings,varun_31,Java 8,248,20787200
+36264548,27,1521001132,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,2blockchainz,Java 8,404,21094400
+36232889,27,1520880664,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,niyu,Java 8,280,20684800
+36205464,27,1520785568,2147483647,E,2100,brute force-dp-number theory,gaporf,Java 8,342,21094400
+36181814,27,1520728033,2147483647,C,2000,constructive algorithms-greedy,2blockchainz,Java 8,686,21094400
+36178594,27,1520713291,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,2blockchainz,Java 8,312,21094400
+36175857,27,1520706478,2147483647,A,1900,implementation-sortings,2blockchainz,Java 8,342,21094400
+35881143,27,1520078239,2147483647,E,2100,brute force-dp-number theory,zeyad_khattab,Java 8,280,20992000
+35757063,27,1519724088,2147483647,A,1900,implementation-sortings,ViciousCoder,Java 8,310,21299200
+35656272,27,1519495356,2147483647,C,2000,constructive algorithms-greedy,lehar_11,Java 8,342,22630400
+35656058,27,1519494949,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,lehar_11,Java 8,342,21094400
+35655374,27,1519493680,2147483647,A,1900,implementation-sortings,lehar_11,Java 8,340,21299200
+35505721,27,1519074468,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,sjain281297,Java 8,248,20684800
+35388599,27,1518861938,2147483647,A,1900,implementation-sortings,MitAk,Java 8,312,21299200
+34663264,27,1517233428,2147483647,A,1900,implementation-sortings,Hashim,Java 8,280,21299200
+34608853,27,1517064169,2147483647,E,2100,brute force-dp-number theory,rahulkhairwar,Java 8,218,21811200
+34600345,27,1517044196,2147483647,A,1900,implementation-sortings,muktadirkhan889,Java 8,310,20582400
+34546959,27,1516885985,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,sport.programmer,Java 8,340,21094400
+34414885,27,1516540437,2147483647,A,1900,implementation-sortings,harpreetmehra,Java 8,248,20684800
+34278981,27,1516287172,2147483647,E,2100,brute force-dp-number theory,bhishma,Java 8,248,20684800
+34162291,27,1515880021,2147483647,A,1900,implementation-sortings,_bacali,Java 8,248,20684800
+34122571,27,1515833137,2147483647,E,2100,brute force-dp-number theory,parth_15,Java 8,248,20684800
+34120003,27,1515824125,2147483647,A,1900,implementation-sortings,WisdenCoder,Java 8,280,20684800
+34114759,27,1515790757,2147483647,A,1900,implementation-sortings,Mo-a-,Java 8,340,21094400
+33908463,27,1515087519,2147483647,A,1900,implementation-sortings,CharlesDai,Java 8,248,20684800
+33906976,27,1515082725,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,CharlesDai,Java 8,248,20684800
+33865040,27,1514901314,2147483647,A,1900,implementation-sortings,Fynn,Java 8,312,21094400
+33833885,27,1514732326,2147483647,E,2100,brute force-dp-number theory,Zer0Point,Java 8,278,20684800
+33821962,27,1514672696,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Zer0Point,Java 8,248,20684800
+33763685,27,1514561983,2147483647,C,2000,constructive algorithms-greedy,Zer0Point,Java 8,280,20787200
+33746470,27,1514497917,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Zer0Point,Java 8,404,20684800
+33745868,27,1514494675,2147483647,A,1900,implementation-sortings,Zer0Point,Java 8,280,20684800
+33607256,27,1514169375,2147483647,E,2100,brute force-dp-number theory,George_Michael,Java 8,280,20992000
+33476795,27,1513853095,2147483647,A,1900,implementation-sortings,R09461,Java 8,310,21299200
+33465985,27,1513802649,2147483647,A,1900,implementation-sortings,muregad99,Java 8,310,21299200
+33464031,27,1513795518,318,A,1900,implementation-sortings,George_Michael,Java 8,280,21196800
+33461928,27,1513789279,2147483647,A,1900,implementation-sortings,hassan1,Java 8,436,22118400
+33259305,27,1513329193,2147483647,A,1900,implementation-sortings,Sirojja,Java 8,342,21299200
+33248649,27,1513277219,2147483647,A,1900,implementation-sortings,noobspotted,Java 8,248,20787200
+32908955,27,1512337909,2147483647,A,1900,implementation-sortings,Dwu123,Java 8,248,20684800
+32906067,27,1512327187,2147483647,A,1900,implementation-sortings,aynat,Java 8,248,20889600
+32894565,27,1512291073,2147483647,A,1900,implementation-sortings,adit204,Java 8,310,21299200
+32778601,27,1511953877,2147483647,E,2100,brute force-dp-number theory,SaiSatwikKuppili,Java 8,280,21094400
+32718247,27,1511794423,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,TheWebKot,Java 8,248,20684800
+32666892,27,1511686806,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,ashcodish,Java 8,372,21094400
+32560360,27,1511379526,2147483647,A,1900,implementation-sortings,Sephiroth616,Java 8,218,0
+32406855,27,1510940947,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,G.Mohamed,Java 8,248,0
+32321178,27,1510698248,2147483647,C,2000,constructive algorithms-greedy,rzvvdenis,Java 8,312,0
+32219929,27,1510404753,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Kammola,Java 8,248,0
+32179204,27,1510253276,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,G.Mohamed,Java 8,248,0
+32089347,27,1509955398,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,kocko,Java 8,248,0
+32046568,27,1509783999,2147483647,A,1900,implementation-sortings,Dimon566,Java 8,310,0
+31382562,27,1508132395,2147483647,A,1900,implementation-sortings,somemeat,Java 8,218,20582400
+31299284,27,1507972602,2147483647,A,1900,implementation-sortings,sklvm,Java 8,312,0
+31261347,27,1507845543,2147483647,A,1900,implementation-sortings,sfmunera,Java 8,310,0
+31213937,27,1507719557,2147483647,A,1900,implementation-sortings,kocko,Java 8,218,0
+31144180,27,1507466397,2147483647,E,2100,brute force-dp-number theory,vjudge1,Java 8,248,0
+31138608,27,1507454216,2147483647,A,1900,implementation-sortings,Seeze,Java 8,342,0
+31048186,27,1507241885,2147483647,A,1900,implementation-sortings,alexanderarielr,Java 8,312,0
+30694829,27,1506312603,2147483647,A,1900,implementation-sortings,ashcodish,Java 8,280,0
+30553094,27,1505927019,2147483647,A,1900,implementation-sortings,omar_samy,Java 8,218,0
+30371133,27,1505504118,2147483647,E,2100,brute force-dp-number theory,RP_9,Java 8,248,0
+30332163,27,1505403041,2147483647,A,1900,implementation-sortings,praveenkulkarni,Java 8,340,0
+30309644,27,1505313759,2147483647,A,1900,implementation-sortings,yashwanthbetha,Java 8,374,0
+30308833,27,1505311312,2147483647,A,1900,implementation-sortings,thongletrung166,Java 8,280,0
+30307826,27,1505308515,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,U_Square,Java 8,218,0
+30295065,27,1505248129,2147483647,E,2100,brute force-dp-number theory,U_Square,Java 8,248,0
+30130587,27,1504699205,2147483647,A,1900,implementation-sortings,300.0E,Java 8,310,0
+30047867,27,1504506480,2147483647,A,1900,implementation-sortings,MQstafa,Java 8,312,0
+30016122,27,1504366710,2147483647,A,1900,implementation-sortings,Bibhuti,Java 8,218,0
+29723877,27,1503556899,2147483647,A,1900,implementation-sortings,3mad98,Java 8,342,0
+29712816,27,1503506441,2147483647,A,1900,implementation-sortings,Mantawy,Java 8,218,0
+29704119,27,1503483826,2147483647,A,1900,implementation-sortings,A.Shams,Java 8,218,0
+29695979,27,1503452225,2147483647,A,1900,implementation-sortings,Ronic,Java 8,218,0
+29691089,27,1503426766,2147483647,A,1900,implementation-sortings,zeyad_khattab,Java 8,248,0
+29690863,27,1503426090,2147483647,A,1900,implementation-sortings,Omar_Emad,Java 8,280,0
+29660453,27,1503333420,2147483647,A,1900,implementation-sortings,jose_paulo_aparicio,Java 8,342,0
+29533024,27,1502995736,2147483647,A,1900,implementation-sortings,Ahmad-Abusbeih,Java 8,342,0
+29426599,27,1502608282,2147483647,E,2100,brute force-dp-number theory,vjudge2,Java 8,218,20582400
+29425707,27,1502606298,2147483647,E,2100,brute force-dp-number theory,vjudge3,Java 8,278,20889600
+29337705,27,1502394507,2147483647,A,1900,implementation-sortings,Omegaxis213,Java 8,280,20684800
+29287392,27,1502203015,2147483647,A,1900,implementation-sortings,DavidVictor2004,Java 8,280,20992000
+28957301,27,1501256780,2147483647,A,1900,implementation-sortings,TRR,Java 8,310,20992000
+28859270,27,1500936195,2147483647,A,1900,implementation-sortings,r19,Java 8,248,20582400
+28821565,27,1500891337,2147483647,A,1900,implementation-sortings,mostafayousry8,Java 8,342,20992000
+28678576,27,1500413113,2147483647,A,1900,implementation-sortings,Hamzeh1996,Java 8,342,20684800
+28325095,27,1499340249,2147483647,A,1900,implementation-sortings,RelyOnTheTruth,Java 8,342,21196800
+28310325,27,1499279451,2147483647,A,1900,implementation-sortings,Tarun,Java 8,248,20582400
+27613370,27,1496751746,2147483647,A,1900,implementation-sortings,sundosbaha,Java 8,310,0
+27572957,27,1496618871,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Omar_Morsi,Java 8,218,0
+27468363,27,1496239026,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,SpeedOfMagic,Java 8,280,0
+27467912,27,1496237654,2147483647,A,1900,implementation-sortings,SpeedOfMagic,Java 8,310,0
+27455411,27,1496176672,2147483647,A,1900,implementation-sortings,l-l_A_S_l-l_E_M,Java 8,280,0
+27282117,27,1495450353,2147483647,C,2000,constructive algorithms-greedy,Maulik_Patel,Java 8,312,0
+27218540,27,1495211444,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,slex,Java 8,280,0
+26789268,27,1493657454,2147483647,A,1900,implementation-sortings,sanju98,Java 8,310,21094400
+26775624,27,1493589675,2147483647,A,1900,implementation-sortings,k3nz0,Java 8,310,20992000
+26672599,27,1493159935,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,pitfall,Java 8,310,20582400
+26589226,27,1492883109,2147483647,A,1900,implementation-sortings,xbang,Java 8,278,20992000
+26568572,27,1492806849,2147483647,A,1900,implementation-sortings,greenNode,Java 8,342,21196800
+26464533,27,1492463796,2147483647,A,1900,implementation-sortings,illmondo,Java 8,312,20992000
+26347977,27,1492121408,2147483647,A,1900,implementation-sortings,carlitos14,Java 8,280,20992000
+26345592,27,1492107965,2147483647,A,1900,implementation-sortings,Yavira,Java 8,310,21094400
+26342185,27,1492095412,2147483647,A,1900,implementation-sortings,asoka,Java 8,310,21094400
+26328480,27,1492035705,2147483647,A,1900,implementation-sortings,Skillparty,Java 8,310,21094400
+26328081,27,1492032609,2147483647,A,1900,implementation-sortings,FavioLima,Java 8,280,21094400
+26327329,27,1492030851,2147483647,A,1900,implementation-sortings,miguelCorma,Java 8,310,20992000
+26326290,27,1492030144,2147483647,A,1900,implementation-sortings,alvaro777,Java 8,310,21299200
+26215112,27,1491643848,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,TheWebKot,Java 8,248,20582400
+25864008,27,1490669928,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,john821216,Java 8,280,20992000
+25701106,27,1490136045,2147483647,A,1900,implementation-sortings,ham27,Java 8,310,20992000
+25583699,27,1489781828,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,kunal_khatri,Java 8,218,20275200
+25579727,27,1489771930,2147483647,A,1900,implementation-sortings,Grand,Java 8,248,20787200
+25461252,27,1489434629,2147483647,E,2100,brute force-dp-number theory,tomdmitriev,Java 8,218,20582400
+25436760,27,1489328402,2147483647,A,1900,implementation-sortings,durdenplato,Java 8,280,20992000
+25385404,27,1489167080,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,xodiac,Java 8,248,20275200
+25326027,27,1488906414,2147483647,A,1900,implementation-sortings,mayurkamaliya,Java 8,280,21094400
+25301324,27,1488828766,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,roberto_firmino,Java 8,218,20582400
+25294852,27,1488810451,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,roberto_firmino,Java 8,218,20582400
+25157937,27,1488484632,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,parth_1,Java 8,218,20582400
+25048294,27,1488103375,2147483647,A,1900,implementation-sortings,frag.jdk,Java 8,248,20684800
+24811403,27,1487541422,2147483647,A,1900,implementation-sortings,Yoyo2014,Java 8,468,20992000
+24811374,27,1487541297,2147483647,A,1900,implementation-sortings,Yoyo2014,Java 8,374,20992000
+24721387,27,1487259961,2147483647,A,1900,implementation-sortings,brijeshpanara24,Java 8,342,20992000
+24634468,27,1487010834,2147483647,A,1900,implementation-sortings,Adit_Shah,Java 8,374,20992000
+24629120,27,1486994008,2147483647,E,2100,brute force-dp-number theory,vjudge3,Java 8,436,40755200
+24629009,27,1486993706,2147483647,E,2100,brute force-dp-number theory,vjudge4,Java 8,434,40755200
+24612562,27,1486916261,2147483647,A,1900,implementation-sortings,Imaginary,Java 8,310,20992000
+24465079,27,1486370361,2147483647,A,1900,implementation-sortings,Ahmadjon,Java 8,312,21094400
+24225064,27,1485607052,2147483647,A,1900,implementation-sortings,0xDEADC0DE,Java 8,342,20992000
+24019963,27,1485036075,2147483647,A,1900,implementation-sortings,lusine.petrosyan1,Java 8,372,20992000
+23993130,27,1484928406,2147483647,A,1900,implementation-sortings,pvtuan10,Java 8,342,20582400
+23931835,27,1484775259,2147483647,A,1900,implementation-sortings,Carson,Java 8,280,20480000
+23903331,27,1484661111,2147483647,A,1900,implementation-sortings,Dekacc,Java 8,248,20684800
+23803794,27,1484390330,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,prakash9,Java 8,218,20582400
+23722127,27,1484152274,2147483647,A,1900,implementation-sortings,EsraaSalah,Java 8,312,20992000
+23667066,27,1483979732,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,prashanth_rebala,Java 8,218,20582400
+23504300,27,1483380586,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Mohanad_Elmaghrby,Java 8,278,20582400
+23480696,27,1483261888,2147483647,E,2100,brute force-dp-number theory,vjudge4,Java 8,530,40755200
+23405881,27,1483038631,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,da_201501181,Java 8,248,20582400
+23405649,27,1483037907,2147483647,A,1900,implementation-sortings,da_201501181,Java 8,280,20582400
+23396410,27,1483007273,2147483647,C,2000,constructive algorithms-greedy,da_201501181,Java 8,342,20582400
+23080162,27,1482050607,2147483647,A,1900,implementation-sortings,AhmedSoliman,Java 8,312,0
+22860898,27,1481388227,2147483647,A,1900,implementation-sortings,xodiac,Java 8,342,0
+22853498,27,1481368487,2147483647,A,1900,implementation-sortings,Michael_Ghaly,Java 8,310,0
+22843518,27,1481315122,2147483647,A,1900,implementation-sortings,NaderAngeLo,Java 8,310,0
+22632710,27,1480546130,2147483647,A,1900,implementation-sortings,karimkhalaf,Java 8,248,0
+22495393,27,1480097659,2147483647,A,1900,implementation-sortings,sathish333,Java 8,280,0
+22042677,27,1478289669,2147483647,C,2000,constructive algorithms-greedy,impetus,Java 8,622,0
+21950509,27,1477946210,2147483647,A,1900,implementation-sortings,pitfall,Java 8,248,0
+21876458,27,1477758934,2147483647,A,1900,implementation-sortings,mr.baraa,Java 8,310,0
+21834172,27,1477598839,2147483647,A,1900,implementation-sortings,VernitaGreen,Java 8,248,0
+21409374,27,1476380922,2147483647,A,1900,implementation-sortings,AhmedRagabIssa,Java 8,280,20889600
+21406478,27,1476372199,2147483647,A,1900,implementation-sortings,omartarek32,Java 8,340,20889600
+21390092,27,1476298425,2147483647,A,1900,implementation-sortings,Mr.obeidat,Java 8,404,20992000
+21384786,27,1476284173,2147483647,A,1900,implementation-sortings,rishabh1403,Java 8,342,20889600
+21346603,27,1476131514,2147483647,A,1900,implementation-sortings,Ahmed.Shawky,Java 8,248,20480000
+21253515,27,1475830680,2147483647,A,1900,implementation-sortings,yari1612,Java 8,248,20684800
+21217326,27,1475687589,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Nestman,Java 8,280,0
+21003539,27,1475185279,2147483647,A,1900,implementation-sortings,KimoKomo,Java 8,310,0
+20978462,27,1475093627,2147483647,C,2000,constructive algorithms-greedy,lehar,Java 8,310,0
+20978328,27,1475093137,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,lehar,Java 8,312,0
+20978074,27,1475092217,2147483647,A,1900,implementation-sortings,lehar,Java 8,342,0
+20821321,27,1474558455,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,adityagupta1089,Java 8,342,0
+20820901,27,1474557264,2147483647,E,2100,brute force-dp-number theory,marcose18,Java 8,278,0
+20820837,27,1474557091,2147483647,E,2100,brute force-dp-number theory,marcose18,Java 8,248,0
+20768944,27,1474350746,2147483647,C,2000,constructive algorithms-greedy,Ahmad_Elsagheer,Java 8,312,0
+20640225,27,1473944518,2147483647,C,2000,constructive algorithms-greedy,cf_luguo,Java 8,778,0
+20637115,27,1473934019,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,cf_luguo,Java 8,372,0
+20635923,27,1473930213,2147483647,A,1900,implementation-sortings,cf_luguo,Java 8,342,0
+20557013,27,1473715878,2147483647,A,1900,implementation-sortings,onlyjava45,Java 8,342,0
+20555756,27,1473709497,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,dhruvil_1bhuptani,Java 8,342,0
+20544266,27,1473664089,2147483647,E,2100,brute force-dp-number theory,Bruteforceman,Java 8,278,17408000
+20409425,27,1473118027,2147483647,A,1900,implementation-sortings,YahiaSaleh,Java 8,280,0
+20409305,27,1473116983,2147483647,A,1900,implementation-sortings,amrsamy,Java 8,280,0
+20409268,27,1473116702,2147483647,A,1900,implementation-sortings,amrsamy,Java 8,310,0
+20358595,27,1472898576,2147483647,A,1900,implementation-sortings,sabrina87,Java 8,342,0
+20323999,27,1472739569,2147483647,A,1900,implementation-sortings,I_Need_Alex_R_Coleman,Java 8,280,0
+20308443,27,1472664281,2147483647,A,1900,implementation-sortings,javaBunny,Java 8,342,0
+20226817,27,1472464002,2147483647,A,1900,implementation-sortings,youssefyam,Java 8,340,0
+20216166,27,1472405414,2147483647,A,1900,implementation-sortings,stacy992,Java 8,312,0
+19954869,27,1471565396,2147483647,A,1900,implementation-sortings,MohammadAmjad,Java 8,280,21094400
+19938726,27,1471489981,2147483647,C,2000,constructive algorithms-greedy,dftte,Java 8,310,22835200
+19922404,27,1471421263,2147483647,E,2100,brute force-dp-number theory,qweiop77,Java 8,374,20172800
+19781368,27,1470909412,2147483647,A,1900,implementation-sortings,Yazeed96,Java 8,280,21196800
+19763618,27,1470825280,2147483647,A,1900,implementation-sortings,isaksham,Java 8,278,20480000
+19763505,27,1470824815,2147483647,A,1900,implementation-sortings,isaksham,Java 8,248,20480000
+19750928,27,1470760547,2147483647,A,1900,implementation-sortings,MohammadAmjad,Java 8,310,21094400
+19677180,27,1470518559,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Kharouba,Java 8,280,20480000
+19671057,27,1470491528,2147483647,A,1900,implementation-sortings,mariem_kandil,Java 8,218,20582400
+19660570,27,1470448754,2147483647,A,1900,implementation-sortings,alaa_megahed,Java 8,278,20889600
+19532410,27,1469949260,2147483647,E,2100,brute force-dp-number theory,dhrumil140396,Java 8,248,0
+19403498,27,1469450103,2147483647,A,1900,implementation-sortings,ivan_mazepa,Java 8,404,0
+19158258,27,1468602006,2147483647,A,1900,implementation-sortings,harsh11298,Java 7,248,0
+18859846,27,1467495918,2147483647,C,2000,constructive algorithms-greedy,AJ_Coder,Java 7,436,6860800
+18758321,27,1467061687,2147483647,A,1900,implementation-sortings,shereifhawary,Java 7,248,0
+18758306,27,1467061603,2147483647,A,1900,implementation-sortings,shereifhawary,Java 7,342,0
+18607714,27,1466388567,2147483647,A,1900,implementation-sortings,stilllHungry,Java 8,746,0
+18521049,27,1466082982,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,poojagiri,Java 8,342,0
+18284468,27,1465304032,2147483647,A,1900,implementation-sortings,danuwfna,Java 8,218,20582400
+18055970,27,1464096188,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Tarun2316,Java 8,310,20992000
+18055956,27,1464096124,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Crusader2896,Java 8,310,20992000
+18032324,27,1463925072,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,mikcorer,Java 8,280,20582400
+18005834,27,1463752971,2147483647,E,2100,brute force-dp-number theory,DukeOfYork,Java 7,186,38912000
+18004673,27,1463747473,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,DukeOfYork,Java 7,218,38912000
+17715590,27,1462435824,2147483647,A,1900,implementation-sortings,wonkyoung711,Java 7,652,39526400
+17461775,27,1461350846,2147483647,C,2000,constructive algorithms-greedy,slicedclementines,Java 8,280,20582400
+17461494,27,1461349330,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,slicedclementines,Java 8,248,20480000
+17461320,27,1461348214,2147483647,A,1900,implementation-sortings,slicedclementines,Java 8,248,20684800
+17415637,27,1461223632,2147483647,A,1900,implementation-sortings,HAZEM_GUC,Java 8,310,20889600
+17411503,27,1461185869,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,mikcorer,Java 8,248,20582400
+17174771,27,1459872533,2147483647,C,2000,constructive algorithms-greedy,Ereke,Java 7,248,39116800
+17173280,27,1459866809,2147483647,A,1900,implementation-sortings,captainsudoku,Java 8,310,20889600
+17166803,27,1459837293,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Ereke,Java 7,218,39014400
+17166488,27,1459834719,2147483647,A,1900,implementation-sortings,Ereke,Java 7,248,39321600
+17120072,27,1459547696,2147483647,A,1900,implementation-sortings,Abo_Magdy,Java 7,280,39424000
+17036608,27,1459351302,2147483647,A,1900,implementation-sortings,safae,Java 8,436,0
+17036208,27,1459349773,2147483647,A,1900,implementation-sortings,fatiha.kafou,Java 8,342,0
+17031947,27,1459334673,2147483647,C,2000,constructive algorithms-greedy,danuwfna,Java 8,280,0
+17026080,27,1459288144,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Corvus,Java 8,218,20684800
+16939900,27,1458938358,2147483647,A,1900,implementation-sortings,system121,Java 8,342,21196800
+16885637,27,1458734316,2147483647,C,2000,constructive algorithms-greedy,Sumeet.Varma,Java 8,278,20787200
+16656718,27,1457719513,2147483647,A,1900,implementation-sortings,_azzazy_,Java 8,310,0
+16641296,27,1457653719,2147483647,A,1900,implementation-sortings,Picasso-Abud,Java 8,278,0
+16596462,27,1457419440,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,alibaba,Java 8,280,0
+16551519,27,1457264838,2147483647,A,1900,implementation-sortings,mangusttank,Java 8,310,0
+16523497,27,1457126717,2147483647,A,1900,implementation-sortings,Basma_1412,Java 7,278,0
+16475438,27,1456967906,2147483647,E,2100,brute force-dp-number theory,2016,Java 8,280,0
+16418368,27,1456699659,2147483647,A,1900,implementation-sortings,Hossam,Java 8,248,0
+16403603,27,1456664757,2147483647,C,2000,constructive algorithms-greedy,vjudge5,Java 7,654,7987200
+16402072,27,1456659195,2147483647,A,1900,implementation-sortings,vjudge5,Java 7,248,0
+16253844,27,1456028424,2147483647,E,2100,brute force-dp-number theory,MedoN11,Java 7,186,0
+16127862,27,1455747283,2147483647,A,1900,implementation-sortings,Mazens97,Java 8,310,0
+16069515,27,1455707377,2147483647,A,1900,implementation-sortings,omarfarhat97,Java 8,342,0
+16025002,27,1455489578,2147483647,A,1900,implementation-sortings,oscar.rondo12,Java 7,280,0
+15980545,27,1455328236,2147483647,A,1900,implementation-sortings,kavsub,Java 7,278,0
+15963116,27,1455219816,2147483647,A,1900,implementation-sortings,pinky121,Java 8,310,0
+15787878,27,1454592483,2147483647,A,1900,implementation-sortings,bhishma,Java 8,248,0
+15749042,27,1454413234,2147483647,A,1900,implementation-sortings,Migi,Java 8,280,0
+15749014,27,1454413111,2147483647,A,1900,implementation-sortings,Migi,Java 8,218,0
+15515519,27,1453558836,2147483647,A,1900,implementation-sortings,CandidateNewbie,Java 8,310,0
+15231306,27,1452216023,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,safarisoul,Java 8,248,0
+15229034,27,1452193050,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,JohnnyJi,Java 8,248,0
+15022262,27,1451074596,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,AJ_Coder,Java 7,280,0
+14895876,27,1450600062,2147483647,A,1900,implementation-sortings,tuna,Java 8,372,0
+14895858,27,1450599988,2147483647,A,1900,implementation-sortings,tuna,Java 8,280,0
+14895784,27,1450599651,2147483647,A,1900,implementation-sortings,tuna,Java 8,218,0
+14892320,27,1450566098,2147483647,A,1900,implementation-sortings,Omar_Kojak,Java 8,218,0
+14892179,27,1450564235,2147483647,A,1900,implementation-sortings,Ahmad_Elsagheer,Java 8,248,0
+14867375,27,1450468934,2147483647,A,1900,implementation-sortings,JohnnyJi,Java 8,280,0
+14867272,27,1450468497,2147483647,A,1900,implementation-sortings,JohnnyJi,Java 8,404,0
+14861335,27,1450445926,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,dhrumil140396,Java 8,248,0
+14856784,27,1450416113,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Sumeet.Varma,Java 8,218,0
+14812478,27,1450169009,2147483647,A,1900,implementation-sortings,vcfl,Java 7,280,0
+14779966,27,1449976925,2147483647,A,1900,implementation-sortings,safarisoul,Java 8,280,0
+14752508,27,1449805411,2147483647,A,1900,implementation-sortings,ian9696,Java 8,340,0
+14654871,27,1449263036,2147483647,C,2000,constructive algorithms-greedy,tawsif93,Java 7,280,0
+14653109,27,1449253528,2147483647,C,2000,constructive algorithms-greedy,tawsif93,Java 7,280,0
+14556395,27,1448793223,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,sweiss,Java 8,280,0
+14550973,27,1448767061,2147483647,C,2000,constructive algorithms-greedy,yuhange,Java 8,624,0
+14477289,27,1448475154,2147483647,A,1900,implementation-sortings,Sehnsucht,Java 8,248,0
+14159255,27,1447008861,2147483647,A,1900,implementation-sortings,Gendo.,Java 7,218,0
+13542274,27,1444549086,2147483647,E,2100,brute force-dp-number theory,kws4679,Java 7,1590,0
+13541173,27,1444543309,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,kws4679,Java 7,124,0
+13486047,27,1444265548,2147483647,C,2000,constructive algorithms-greedy,kws4679,Java 7,218,0
+13473227,27,1444221921,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,kws4679,Java 7,156,0
+13472377,27,1444218993,2147483647,A,1900,implementation-sortings,kws4679,Java 7,154,0
+13392221,27,1443923519,2147483647,A,1900,implementation-sortings,BASHAR_SKAFF,Java 7,218,0
+13258921,27,1443428188,2147483647,A,1900,implementation-sortings,Ahmad_tarraf,Java 7,216,0
+13224741,27,1443211790,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,TWO_POINTER,Java 8,218,0
+13132267,27,1442865665,2147483647,C,2000,constructive algorithms-greedy,TWO_POINTER,Java 8,310,0
+13122638,27,1442819359,2147483647,A,1900,implementation-sortings,YounisSalim,Java 8,310,0
+13122047,27,1442813460,2147483647,A,1900,implementation-sortings,kameshpjoshi,Java 8,280,0
+12984354,27,1442150991,2147483647,A,1900,implementation-sortings,Trasier,Java 7,154,0
+12922811,27,1441887631,2147483647,E,2100,brute force-dp-number theory,di_halt,Java 8,248,0
+12918552,27,1441865250,2147483647,C,2000,constructive algorithms-greedy,di_halt,Java 8,310,0
+12914521,27,1441828642,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,di_halt,Java 8,248,0
+12914326,27,1441827124,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,di_halt,Java 8,248,0
+12910234,27,1441805591,2147483647,A,1900,implementation-sortings,di_halt,Java 8,342,0
+12877572,27,1441574426,2147483647,E,2100,brute force-dp-number theory,fiter,Java 8,248,0
+12730686,27,1440762977,2147483647,E,2100,brute force-dp-number theory,tjullin,Java 7,342,16486400
+12723834,27,1440702501,2147483647,A,1900,implementation-sortings,sensiblebyte,Java 8,218,0
+12303341,27,1438430743,2147483647,A,1900,implementation-sortings,TWO_POINTER,Java 8,218,0
+12295344,27,1438367536,2147483647,A,1900,implementation-sortings,2468,Java 8,218,0
+12278953,27,1438276657,2147483647,A,1900,implementation-sortings,A_O,Java 8,312,0
+12278784,27,1438276332,2147483647,A,1900,implementation-sortings,A-A,Java 8,312,0
+12255702,27,1438108664,2147483647,A,1900,implementation-sortings,mssk,Java 8,310,0
+12255092,27,1438104836,2147483647,A,1900,implementation-sortings,.tx,Java 8,218,0
+12206443,27,1437692282,2147483647,A,1900,implementation-sortings,slicedclementines,Java 7,186,0
+12205620,27,1437682633,2147483647,A,1900,implementation-sortings,SupreMo,Java 7,248,0
+12123969,27,1437355797,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,khaled_khattab,Java 7,186,0
+12114789,27,1437296142,2147483647,E,2100,brute force-dp-number theory,radical,Java 8,278,0
+11991474,27,1436485827,2147483647,C,2000,constructive algorithms-greedy,xiaowuc1,Java 7,216,0
+11828734,27,1435525684,2147483647,A,1900,implementation-sortings,Jamal-Alalami,Java 8,310,0
+11828704,27,1435525482,2147483647,A,1900,implementation-sortings,abed.jaradat,Java 8,310,0
+11826805,27,1435513933,2147483647,A,1900,implementation-sortings,khaled_khattab,Java 7,248,0
+11706794,27,1434963500,2147483647,A,1900,implementation-sortings,mehtaharsh199,Java 8,310,0
+11559942,27,1434145410,2147483647,A,1900,implementation-sortings,elattar,Java 7,216,0
+11489363,27,1433690872,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,IrhamMA,Java 7,218,0
+11482590,27,1433660565,2147483647,A,1900,implementation-sortings,m.khooryani,Java 7,154,0
+11421162,27,1433436758,2147483647,A,1900,implementation-sortings,IrhamMA,Java 7,218,0
+11412908,27,1433418315,2147483647,A,1900,implementation-sortings,zlowred,Java 8,280,0
+11392179,27,1433258853,2147483647,A,1900,implementation-sortings,shopska_salata,Java 8,218,0
+11384819,27,1433211368,2147483647,A,1900,implementation-sortings,00h00h00h,Java 8,248,0
+11247548,27,1432452231,2147483647,C,2000,constructive algorithms-greedy,poikniok,Java 8,248,0
+11247303,27,1432451209,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,poikniok,Java 8,218,0
+11222694,27,1432318671,2147483647,A,1900,implementation-sortings,sweiss,Java 8,218,0
+11144395,27,1432041950,2147483647,A,1900,implementation-sortings,cool_handle_much_wow,Java 8,342,0
+11127341,27,1431871826,2147483647,A,1900,implementation-sortings,aakashkhatri,Java 7,216,0
+11082230,27,1431470873,2147483647,E,2100,brute force-dp-number theory,lydxlx,Java 8,310,0
+11050765,27,1431130074,2147483647,A,1900,implementation-sortings,radwa_elmasry,Java 8,342,0
+11043923,27,1431092412,2147483647,A,1900,implementation-sortings,abdo.gamal.coder,Java 8,310,0
+10991786,27,1430699856,2147483647,A,1900,implementation-sortings,Percy21,Java 7,186,0
+10927483,27,1430302553,2147483647,A,1900,implementation-sortings,Isfandiyor,Java 8,310,29184000
+10866327,27,1430029883,5902,B,2000,bitmasks-brute force-dfs and similar-greedy,Sanatbek,Java 8,748,124313600
+10865886,27,1430025661,1681,A,1900,implementation-sortings,Sanatbek,Java 7,218,47718400
+10816207,27,1429648311,2147483647,A,1900,implementation-sortings,davinchia,Java 7,218,47616000
+10816191,27,1429648252,2147483647,A,1900,implementation-sortings,nwong,Java 7,186,47616000
+10805253,27,1429586037,2147483647,A,1900,implementation-sortings,m.ronaldo,Java 7,216,47718400
+10795478,27,1429518829,2147483647,A,1900,implementation-sortings,amribrahim333,Java 8,310,29286400
+10627007,27,1428464318,2147483647,A,1900,implementation-sortings,Steve9502,Java 7,184,0
+10626996,27,1428464078,2147483647,A,1900,implementation-sortings,Phicar,Java 7,154,0
+10609174,27,1428303144,2147483647,A,1900,implementation-sortings,turmoil,Java 8,218,0
+10546268,27,1427926082,2147483647,A,1900,implementation-sortings,harishanumula,Java 8,310,0
+10268690,27,1426320693,2147483647,A,1900,implementation-sortings,Sarah.Gad,Java 7,218,0
+10265943,27,1426309554,2147483647,A,1900,implementation-sortings,RezaCompress,Java 7,218,0
+10186130,27,1425707317,2147483647,E,2100,brute force-dp-number theory,a654889339,Java 8,248,0
+10184962,27,1425694291,2147483647,E,2100,brute force-dp-number theory,vjudge1,Java 7,186,0
+10171120,27,1425596261,2147483647,A,1900,implementation-sortings,LLL.A,Java 7,154,0
+10060072,27,1425104148,2147483647,A,1900,implementation-sortings,vjudge4,Java 8,310,0
+10060069,27,1425104110,2147483647,A,1900,implementation-sortings,vjudge2,Java 8,310,0
+10060060,27,1425104063,2147483647,A,1900,implementation-sortings,vjudge2,Java 8,310,0
+10060059,27,1425104040,2147483647,A,1900,implementation-sortings,vjudge1,Java 8,310,0
+9947538,27,1424518626,2147483647,C,2000,constructive algorithms-greedy,marcose18,Java 7,530,0
+9940063,27,1424451696,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,AlexFetisov,Java 8,218,0
+9812870,27,1423794663,2147483647,A,1900,implementation-sortings,XelMed,Java 8,218,0
+9719752,27,1423069462,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,alex_y,Java 7,154,0
+9611142,27,1422511049,2147483647,A,1900,implementation-sortings,LuuNhatPhi,Java 7,154,0
+9574281,27,1422375673,2147483647,C,2000,constructive algorithms-greedy,alibaba,Java 7,434,0
+9504095,27,1421943128,2147483647,A,1900,implementation-sortings,EMilos,Java 8,280,0
+9432500,27,1421277488,2147483647,A,1900,implementation-sortings,poikniok,Java 8,248,0
+9429840,27,1421246614,2147483647,C,2000,constructive algorithms-greedy,AStepanov,Java 8,280,0
+9403252,27,1420982731,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,marcose18,Java 6,154,0
+9389355,27,1420757349,2147483647,A,1900,implementation-sortings,robert_nabil20022002,Java 7,216,0
+9359046,27,1420367150,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,upsolving,Java 7,186,0
+9338160,27,1420109668,2147483647,A,1900,implementation-sortings,TranCongDuy,Java 6,186,0
+9210134,27,1419105009,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,tiny_code,Java 7,216,0
+9198454,27,1419003609,2147483647,A,1900,implementation-sortings,yak,Java 8,218,0
+9143732,27,1418658202,2147483647,A,1900,implementation-sortings,WorstDeveloper,Java 8,218,0
+9143725,27,1418658175,2147483647,A,1900,implementation-sortings,WorstDeveloper,Java 8,218,0
+9143694,27,1418657999,2147483647,A,1900,implementation-sortings,WorstDeveloper,Java 8,340,0
+9075872,27,1418241328,2147483647,A,1900,implementation-sortings,Tamtomus,Java 7,218,0
+8947132,27,1417562668,2147483647,A,1900,implementation-sortings,Bad_GateWay,Java 7,186,102400
+8946940,27,1417559680,2147483647,A,1900,implementation-sortings,aslf010990,Java 7,186,102400
+8937423,27,1417538176,2147483647,A,1900,implementation-sortings,Hartha,Java 7,218,204800
+8770161,27,1416534766,2147483647,A,1900,implementation-sortings,vjudge5,Java 7,154,0
+8745103,27,1416310920,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,arsijo,Java 7,218,102400
+8608887,27,1415386152,2147483647,A,1900,implementation-sortings,archu.aspa,Java 8,280,0
+8557672,27,1415189526,2147483647,A,1900,implementation-sortings,bullshit.ass,Java 8,310,0
+8557312,27,1415187436,2147483647,A,1900,implementation-sortings,prasoon.gangwar,Java 6,186,102400
+8556703,27,1415183903,2147483647,A,1900,implementation-sortings,bullshit.ass,Java 8,528,1536000
+8555084,27,1415172476,2147483647,A,1900,implementation-sortings,bullshit.ass,Java 6,184,102400
+8547589,27,1415109395,2147483647,A,1900,implementation-sortings,goyaldeepak786,Java 6,186,0
+8547158,27,1415107190,2147483647,E,2100,brute force-dp-number theory,yEmre,Java 7,156,0
+8547135,27,1415107083,2147483647,E,2100,brute force-dp-number theory,yEmre,Java 7,186,0
+8431995,27,1414415074,2147483647,A,1900,implementation-sortings,hasanat.muztaba,Java 8,278,0
+8426313,27,1414387702,2147483647,A,1900,implementation-sortings,amanchik,Java 7,186,53452800
+8371116,27,1414093251,2147483647,A,1900,implementation-sortings,vjudge2,Java 7,154,102400
+8370287,27,1414086183,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,vjudge3,Java 7,154,0
+8369873,27,1414083099,2147483647,A,1900,implementation-sortings,vjudge4,Java 7,216,0
+8369745,27,1414082261,2147483647,A,1900,implementation-sortings,vjudge5,Java 7,154,0
+8369551,27,1414081047,2147483647,A,1900,implementation-sortings,vjudge2,Java 7,218,102400
+8334401,27,1413832058,2147483647,A,1900,implementation-sortings,Alex6129,Java 7,156,102400
+8334232,27,1413829739,2147483647,A,1900,implementation-sortings,Alex6129,Java 7,154,102400
+8027150,27,1412003689,2147483647,C,2000,constructive algorithms-greedy,itukh,Java 7,560,102400
+8026662,27,1412001550,2147483647,C,2000,constructive algorithms-greedy,Javanochka,Java 7,248,204800
+8026538,27,1412001006,2147483647,C,2000,constructive algorithms-greedy,Artyom_Lobanov,Java 7,498,102400
+7980291,27,1411798123,2147483647,A,1900,implementation-sortings,stevegregg,Java 6,216,0
+7101324,27,1405345384,2147483647,C,2000,constructive algorithms-greedy,waledsaleh,Java 7,498,102400
+7070871,27,1405199088,2147483647,A,1900,implementation-sortings,waledsaleh,Java 7,248,102400
+7058550,27,1404994326,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,magdi,Java 6,278,102400
+7007595,27,1404437690,2147483647,C,2000,constructive algorithms-greedy,sammina,Java 6,498,102400
+6752733,27,1401478017,2147483647,A,1900,implementation-sortings,557120202,Java 7,186,0
+6608833,27,1399973516,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,judge,Java 7,216,102400
+6267279,27,1396734474,2147483647,C,2000,constructive algorithms-greedy,Mostafa.Gabriel,Java 7,218,102400
+6003345,27,1394631215,2147483647,A,1900,implementation-sortings,Yury_Bandarchuk,Java 7,186,0
+5960906,27,1394257662,2147483647,A,1900,implementation-sortings,moonwell250,Java 7,186,0
+5932187,27,1394026209,2147483647,A,1900,implementation-sortings,marcose18,Java 7,186,204800
+5919005,27,1393900522,2147483647,A,1900,implementation-sortings,haowch,Java 6,184,102400
+5890029,27,1391459606,2147483647,A,1900,implementation-sortings,alhosiny,Java 6,186,102400
+5889638,27,1391457383,2147483647,A,1900,implementation-sortings,ahmedk,Java 6,186,102400
+5861292,27,1391240486,2147483647,C,2000,constructive algorithms-greedy,teetora,Java 7,466,102400
+5811938,27,1390733027,2147483647,C,2000,constructive algorithms-greedy,tiny_code,Java 7,186,0
+5801164,27,1390605433,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Zyflair,Java 7,186,0
+5648137,27,1389318967,2147483647,A,1900,implementation-sortings,teetora,Java 7,156,0
+5631499,27,1389083815,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,tiny_code,Java 7,156,0
+5610514,27,1388758771,2147483647,A,1900,implementation-sortings,tomash_em,Java 7,218,102400
+5546042,27,1388297159,2147483647,A,1900,implementation-sortings,porepore1984,Java 7,124,102400
+5515477,27,1387934194,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,nikchee1,Java 7,124,0
+5472541,27,1387428342,2147483647,E,2100,brute force-dp-number theory,quangltm,Java 7,156,102400
+5456606,27,1387300220,2147483647,E,2100,brute force-dp-number theory,Zyflair,Java 7,124,0
+5456396,27,1387297118,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Zyflair,Java 7,124,0
+5456178,27,1387294429,2147483647,C,2000,constructive algorithms-greedy,Zyflair,Java 7,218,102400
+5456018,27,1387292819,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Zyflair,Java 7,156,0
+5455854,27,1387291241,2147483647,A,1900,implementation-sortings,Zyflair,Java 7,124,102400
+5412793,27,1386822218,2147483647,A,1900,implementation-sortings,Stickman,Java 7,124,102400
+5375234,27,1386417418,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,cupcup,Java 7,218,102400
+5374927,27,1386415281,2147483647,A,1900,implementation-sortings,cupcup,Java 7,186,102400
+5165095,27,1384887838,2147483647,A,1900,implementation-sortings,j4mes,Java 7,156,0
+5138816,27,1384737547,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,miguelmaurizio,Java 7,156,0
+5047803,27,1384105504,2147483647,E,2100,brute force-dp-number theory,alibaba,Java 6,186,204800
+5026937,27,1383889460,2147483647,A,1900,implementation-sortings,MatveyKr,Java 7,186,204800
+4978844,27,1383479888,2147483647,A,1900,implementation-sortings,Jakhongir,Java 6,342,512000
+4934622,27,1383137475,2147483647,A,1900,implementation-sortings,tomdmitriev,Java 7,156,204800
+4705635,27,1381199820,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,alibaba,Java 6,218,102400
+4703510,27,1381166258,2147483647,A,1900,implementation-sortings,alibaba,Java 6,156,0
+4526165,27,1379727305,2147483647,A,1900,implementation-sortings,JhonAlx,Java 7,998,0
+4526072,27,1379726154,2147483647,A,1900,implementation-sortings,Maikol1804,Java 7,1028,0
+4526038,27,1379725799,2147483647,A,1900,implementation-sortings,FabianConP,Java 7,156,204800
+4479916,27,1379275861,2147483647,A,1900,implementation-sortings,ahmedk,Java 6,218,102400
+4448445,27,1378996248,2147483647,A,1900,implementation-sortings,Togrul-BSU,Java 7,156,102400
+4439343,27,1378822225,2147483647,A,1900,implementation-sortings,Sokolov,Java 7,156,102400
+4433866,27,1378686054,2147483647,A,1900,implementation-sortings,vvenkai,Java 7,156,0
+4316923,27,1377022000,2147483647,A,1900,implementation-sortings,travm12,Java 7,218,102400
+4314122,27,1376961197,2147483647,E,2100,brute force-dp-number theory,santjuan,Java 7,156,0
+4305940,27,1376779838,2147483647,A,1900,implementation-sortings,ssohn,Java 7,248,0
+4300853,27,1376708513,2147483647,C,2000,constructive algorithms-greedy,DoublePointer,Java 7,404,102400
+4266947,27,1376241602,2147483647,A,1900,implementation-sortings,nzko,Java 7,156,0
+4235127,27,1375753421,2147483647,C,2000,constructive algorithms-greedy,santjuan,Java 7,312,0
+4223141,27,1375554826,2147483647,A,1900,implementation-sortings,bruce.wayne,Java 7,218,0
+4164998,27,1374770377,2147483647,C,2000,constructive algorithms-greedy,gcd_fuck,Java 7,140,0
+4046986,27,1373466655,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,mkirsche,Java 6,93,0
+4038628,27,1373284855,2147483647,A,1900,implementation-sortings,sonhuytran,Java 7,78,102400
+3999486,27,1372681346,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,MOSJAVA,Java 7,78,0
+3993772,27,1372536821,2147483647,A,1900,implementation-sortings,manishiitj,Java 6,93,0
+3933922,27,1371852002,2147483647,A,1900,implementation-sortings,akashm,Java 6,125,2457600
+3932273,27,1371821408,2147483647,A,1900,implementation-sortings,MahmoudAGawad,Java 7,109,204800
+3831235,27,1370609988,2147483647,E,2100,brute force-dp-number theory,fnozoszzt,Java 6,93,102400
+3818739,27,1370263229,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,hyggyh,Java 7,109,0
+3818641,27,1370261774,2147483647,A,1900,implementation-sortings,hyggyh,Java 7,93,0
+3816487,27,1370193582,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,CurbStomp,Java 7,93,0
+3781321,27,1369599629,2147483647,A,1900,implementation-sortings,fangr01239,Java 6,109,2457600
+3765524,27,1369406183,2147483647,A,1900,implementation-sortings,MiroO,Java 6,78,0
+3730554,27,1368809840,2147483647,A,1900,implementation-sortings,malathi.raghavan,Java 6,125,2355200
+3652586,27,1367285048,2147483647,A,1900,implementation-sortings,DiegoAE,Java 6,93,0
+3652535,27,1367282719,2147483647,A,1900,implementation-sortings,santjuan,Java 6,93,0
+3292324,27,1363045113,2147483647,A,1900,implementation-sortings,FabianConP,Java 6,93,2150400
+3292244,27,1363041220,2147483647,A,1900,implementation-sortings,turistas05,Java 7,93,0
+3286012,27,1362946469,2147483647,A,1900,implementation-sortings,Andres_Gutierrez,Java 7,109,204800
+3271330,27,1362871740,2147483647,A,1900,implementation-sortings,Maikol1804,Java 7,984,0
+3269716,27,1362831757,2147483647,A,1900,implementation-sortings,UNorris,Java 7,93,204800
+3260631,27,1362620569,2147483647,A,1900,implementation-sortings,FabianConP,Java 6,78,0
+3260613,27,1362619707,2147483647,A,1900,implementation-sortings,Maikol1804,Java 7,1015,0
+3260569,27,1362617636,2147483647,A,1900,implementation-sortings,fabiankasUN,Java 6,93,0
+3253041,27,1362473769,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,su_58,Java 6,93,0
+3137626,27,1361036330,2147483647,A,1900,implementation-sortings,CurbStomp,Java 7,109,0
+3127314,27,1360831987,2147483647,A,1900,implementation-sortings,agent3889,Java 6,203,54374400
+3127297,27,1360831757,2147483647,A,1900,implementation-sortings,agent3889,Java 6,234,54374400
+3092074,27,1360540066,2147483647,A,1900,implementation-sortings,Mostafa_Hamdy,Java 7,109,204800
+3092073,27,1360540060,2147483647,A,1900,implementation-sortings,MahmoudAGawad,Java 7,93,204800
+3092047,27,1360538779,2147483647,A,1900,implementation-sortings,MahmoudAGawad,Java 7,140,102400
+3079140,27,1360186243,2147483647,A,1900,implementation-sortings,MahaHeikal,Java 6,78,0
+3079011,27,1360181816,2147483647,A,1900,implementation-sortings,yahiahisham14,Java 7,109,204800
+3078654,27,1360173903,2147483647,A,1900,implementation-sortings,Elabasery,Java 6,125,102400
+3078253,27,1360167592,2147483647,A,1900,implementation-sortings,maiIH,Java 7,109,102400
+3076161,27,1360100284,2147483647,A,1900,implementation-sortings,ahmedaboemera,Java 7,109,102400
+3075958,27,1360093180,2147483647,A,1900,implementation-sortings,reham_osama,Java 7,125,102400
+3075952,27,1360092845,2147483647,A,1900,implementation-sortings,hassanabdo,Java 6,125,102400
+3075529,27,1360081782,2147483647,A,1900,implementation-sortings,NesmaEmad00000,Java 7,125,204800
+3072732,27,1360022486,2147483647,A,1900,implementation-sortings,hishamraslan,Java 7,109,102400
+3071355,27,1359991254,2147483647,A,1900,implementation-sortings,sheriiff,Java 7,140,204800
+3069306,27,1359945120,2147483647,A,1900,implementation-sortings,Khatib,Java 7,109,102400
+3069099,27,1359932934,2147483647,A,1900,implementation-sortings,engnaruto,Java 7,93,0
+3068934,27,1359928585,2147483647,A,1900,implementation-sortings,Basma_Emara,Java 7,140,102400
+3068510,27,1359919798,2147483647,A,1900,implementation-sortings,OKA_1010,Java 7,109,102400
+3068435,27,1359918552,2147483647,A,1900,implementation-sortings,Mostafa_Hamdy,Java 7,109,102400
+3068423,27,1359918320,2147483647,A,1900,implementation-sortings,memo22,Java 6,125,102400
+3068368,27,1359917325,2147483647,A,1900,implementation-sortings,hananahmad114,Java 7,140,102400
+3068146,27,1359914541,2147483647,A,1900,implementation-sortings,mohamednabil00000,Java 7,93,204800
+3067310,27,1359901004,2147483647,A,1900,implementation-sortings,BaHiE,Java 6,124,102400
+3065834,27,1359852490,2147483647,A,1900,implementation-sortings,omaro,Java 7,109,102400
+3065827,27,1359851944,2147483647,A,1900,implementation-sortings,islamhamdi,Java 6,125,102400
+2999092,27,1358969790,2147483647,A,1900,implementation-sortings,zidan200,Java 7,125,102400
+2959298,27,1358592320,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,mostafa_fahim,Java 7,93,0
+2946611,27,1358380945,2147483647,C,2000,constructive algorithms-greedy,hs484,Java 6,140,2457600
+2944922,27,1358358767,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,hs484,Java 6,109,0
+2922392,27,1358114564,2147483647,A,1900,implementation-sortings,Vlad3d,Java 7,109,204800
+2899409,27,1357735160,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,vjudge2,Java 7,93,0
+2863190,27,1357034939,2147483647,A,1900,implementation-sortings,alexyz,Java 6,93,0
+2861108,27,1356958668,5268,E,2100,brute force-dp-number theory,hama-du,Java 6,93,0
+2861067,27,1356957943,4542,D,2300,2-sat-dfs and similar-dsu-graphs,hama-du,Java 6,78,0
+2860956,27,1356955645,2245,C,2000,constructive algorithms-greedy,hama-du,Java 6,171,204800
+2860907,27,1356954019,619,B,2000,bitmasks-brute force-dfs and similar-greedy,hama-du,Java 6,109,0
+2860879,27,1356953563,163,A,1900,implementation-sortings,hama-du,Java 6,93,0
+2831194,27,1356558137,2147483647,E,2100,brute force-dp-number theory,mkirsche,Java 6,125,102400
+2792958,27,1355888876,2147483647,A,1900,implementation-sortings,mkirsche,Java 6,109,102400
+2695683,27,1354673481,2147483647,A,1900,implementation-sortings,su_58,Java 7,156,102400
+2674365,27,1354126508,2147483647,A,1900,implementation-sortings,Bruno.icmc,Java 6,140,204800
+2663718,27,1353947256,2147483647,A,1900,implementation-sortings,Spellbound,Java 6,125,102400
+2634059,27,1353692937,2147483647,A,1900,implementation-sortings,kholoud_rabie,Java 6,109,102400
+2633789,27,1353689693,2147483647,A,1900,implementation-sortings,melbadry,Java 6,93,0
+2633697,27,1353688742,2147483647,A,1900,implementation-sortings,eqbal_osama,Java 6,78,0
+2583019,27,1353192589,2147483647,E,2100,brute force-dp-number theory,Ahmed_Salama,Java 6,109,0
+2583005,27,1353192036,2147483647,E,2100,brute force-dp-number theory,Ahmed_Salama,Java 6,93,0
+2579742,27,1353163068,2147483647,E,2100,brute force-dp-number theory,ahmad_mamdouh,Java 6,78,0
+2579710,27,1353162558,2147483647,E,2100,brute force-dp-number theory,ahmad_mamdouh,Java 6,109,0
+2391362,27,1350754898,2147483647,E,2100,brute force-dp-number theory,LovelyPenguin,Java 7,78,0
+2359046,27,1350230464,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,mostafaizz,Java 7,125,102400
+2248933,27,1348566760,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,TalismanFR,Java 6,140,409600
+2236847,27,1348491414,2147483647,A,1900,implementation-sortings,TalismanFR,Java 6,171,0
+2210668,27,1348011094,2147483647,E,2100,brute force-dp-number theory,meroboy66,Java 6,130,43929600
+2209711,27,1347982171,2147483647,A,1900,implementation-sortings,aman.ag,Java 6,160,44032000
+2174747,27,1347784638,2147483647,A,1900,implementation-sortings,retzer,Java 6,125,44032000
+2156977,27,1347501654,2147483647,A,1900,implementation-sortings,lemonsuper,Java 7,140,45772800
+2145774,27,1347387662,2147483647,A,1900,implementation-sortings,tryagainlater,Java 6,130,43315200
+2049720,27,1345968597,2147483647,A,1900,implementation-sortings,Lindsey,Java 6,130,44236800
+2018958,27,1345113521,2147483647,A,1900,implementation-sortings,N0D1R,Java 6,160,43417600
+2000737,27,1344708286,2147483647,A,1900,implementation-sortings,zamzam,Java 6,160,43417600
+1977142,27,1344104448,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,unit7,Java 7,140,45158400
+1950987,27,1343618163,2147483647,A,1900,implementation-sortings,sbarbieri,Java 7,140,44953600
+1950316,27,1343579155,2147483647,E,2100,brute force-dp-number theory,OmarSaber,Java 7,140,45056000
+1950280,27,1343578506,2147483647,E,2100,brute force-dp-number theory,OmarSaber,Java 7,140,45056000
+1945396,27,1343411495,2147483647,E,2100,brute force-dp-number theory,meroboy66,Java 6,140,43315200
+1945394,27,1343411423,2147483647,E,2100,brute force-dp-number theory,meroboy66,Java 6,140,43315200
+1944736,27,1343394019,2147483647,E,2100,brute force-dp-number theory,meroboy66,Java 6,130,43315200
+1943079,27,1343347076,2147483647,E,2100,brute force-dp-number theory,devils13,Java 6,140,43315200
+1943045,27,1343342551,2147483647,E,2100,brute force-dp-number theory,b2lawa,Java 6,130,43315200
+1942898,27,1343334831,2147483647,E,2100,brute force-dp-number theory,magdi,Java 6,140,43315200
+1941096,27,1343289088,2147483647,D,2300,2-sat-dfs and similar-dsu-graphs,Azat_Yusupov,Java 6,140,43315200
+1936637,27,1343146127,527,A,1900,implementation-sortings,mohamed.mostafa,Java 6,160,43315200
+1867661,27,1341553608,2147483647,E,2100,brute force-dp-number theory,Azat_Yusupov,Java 6,830,43315200
+1867101,27,1341516992,3992,C,2000,constructive algorithms-greedy,Azat_Yusupov,Java 6,170,43520000
+1867054,27,1341513986,986,B,2000,bitmasks-brute force-dfs and similar-greedy,Azat_Yusupov,Java 6,170,43417600
+1867029,27,1341513227,227,A,1900,implementation-sortings,Azat_Yusupov,Java 6,140,43417600
+1850922,27,1341303878,2147483647,E,2100,brute force-dp-number theory,jiangzhijie,Java 7,390,44953600
+1706317,27,1337521907,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,bidzilya,Java 7,90,44851200
+1667346,27,1336369510,2147483647,A,1900,implementation-sortings,bidzilya,Java 7,110,44851200
+1644272,27,1335708233,1613,B,2000,bitmasks-brute force-dfs and similar-greedy,AdilbekZh,Java 6,130,43315200
+1644240,27,1335706963,343,A,1900,implementation-sortings,AdilbekZh,Java 6,130,43315200
+1538849,27,1334428622,2147483647,A,1900,implementation-sortings,zems,Java 7,140,44953600
+1359248,27,1331824226,2147483647,C,2000,constructive algorithms-greedy,todo,Java 6,410,43315200
+1359240,27,1331823945,2147483647,C,2000,constructive algorithms-greedy,todo,Java 6,410,43315200
+1259152,27,1330751806,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,peking2,Java 6,130,45056000
+1252223,27,1330564322,2147483647,A,1900,implementation-sortings,peking2,Java 6,130,44953600
+1238286,27,1330322344,2147483647,A,1900,implementation-sortings,kenthang,Java 6,90,44851200
+1233618,27,1330163078,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,todo,Java 6,110,45056000
+1233553,27,1330162009,2147483647,A,1900,implementation-sortings,todo,Java 6,130,45158400
+1220248,27,1330051148,2147483647,E,2100,brute force-dp-number theory,partizan22,Java 6,80,44851200
+1159780,27,1328796926,2147483647,A,1900,implementation-sortings,mahmoudhanafi,Java 6,90,43212800
+1154267,27,1328566729,2147483647,C,2000,constructive algorithms-greedy,Mostafa.Ali,Java 6,170,43212800
+1153613,27,1328539054,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,Mostafa.Ali,Java 6,110,43212800
+1153568,27,1328538034,2147483647,A,1900,implementation-sortings,Mostafa.Ali,Java 6,130,43212800
+1133523,27,1328193241,2147483647,E,2100,brute force-dp-number theory,bogdan.sumy.ua,Java 6,90,43008000
+1126049,27,1327866129,2147483647,A,1900,implementation-sortings,jcomputer000,Java 6,140,43212800
+1098190,27,1327090242,2147483647,A,1900,implementation-sortings,goodsky,Java 6,110,43315200
+1045800,27,1326579937,2147483647,A,1900,implementation-sortings,Venom,Java 6,90,43110400
+1029678,27,1326295398,2147483647,A,1900,implementation-sortings,PushistikTima,Java 6,130,43212800
+1012368,27,1325753251,2147483647,A,1900,implementation-sortings,Betlista,Java 6,80,43110400
+995468,27,1325573143,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,mostafa_fahim,Java 6,130,43212800
+994508,27,1325481405,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,stevenkplus,Java 6,130,43212800
+994488,27,1325478801,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,ilovepink,Java 6,130,43212800
+992125,27,1325254230,2147483647,A,1900,implementation-sortings,upsolving,Java 6,80,43110400
+988753,27,1325008768,2147483647,A,1900,implementation-sortings,pasha,Java 6,160,43212800
+971422,27,1324544245,2147483647,A,1900,implementation-sortings,ilovepink,Java 6,130,43212800
+971350,27,1324539600,2147483647,B,2000,bitmasks-brute force-dfs and similar-greedy,nativea,Java 6,90,43008000
+971207,27,1324529459,2147483647,A,1900,implementation-sortings,Devl1N,Java 6,130,43212800
+951375,27,1323595687,39464887,C,2000,constructive algorithms-greedy,mostafa_fahim,Java 6,440,43212800
+951187,27,1323587433,39456633,A,1900,implementation-sortings,stevenkplus,Java 6,160,43212800
+907567,27,1322373288,38242488,A,1900,implementation-sortings,keep.deep,Java 6,140,43212800
+906745,27,1322325620,38194820,A,1900,implementation-sortings,keep.deep,Java 6,160,43212800
+889886,27,1322157052,38026252,B,2000,bitmasks-brute force-dfs and similar-greedy,spark_coder,Java 6,170,43315200
+884785,27,1321902890,37772090,B,2000,bitmasks-brute force-dfs and similar-greedy,Izot_NNSTU,Java 6,170,43212800
+883675,27,1321856088,37725288,E,2100,brute force-dp-number theory,xiaowuc1,Java 6,160,43110400
+883409,27,1321837083,37706283,A,1900,implementation-sortings,abodeltae,Java 6,170,43212800
+861225,27,1321152360,37021560,E,2100,brute force-dp-number theory,stevenkplus,Java 6,110,43110400
+833378,27,1320374895,36244095,E,2100,brute force-dp-number theory,DoublePointer,Java 6,130,43110400
+819784,27,1319987659,35856859,A,1900,implementation-sortings,mingrimingyue,Java 6,140,35328000
+757525,27,1318474664,34343864,D,2300,2-sat-dfs and similar-dsu-graphs,trogloditas,Java 6,110,35225600
+757330,27,1318451693,34320893,A,1900,implementation-sortings,Izot_NNSTU,Java 6,140,35328000
+752079,27,1318107304,33976504,A,1900,implementation-sortings,clingsz,Java 6,160,35328000
+708873,27,1316451505,32320705,E,2100,brute force-dp-number theory,_jte_,Java 6,110,35328000
+708839,27,1316450259,32319459,C,2000,constructive algorithms-greedy,_jte_,Java 6,160,35430400
+708829,27,1316449815,32319015,B,2000,bitmasks-brute force-dfs and similar-greedy,_jte_,Java 6,110,35430400
+706488,27,1316259724,32128924,A,1900,implementation-sortings,_jte_,Java 6,130,35430400
+690363,27,1315787807,31657007,C,2000,constructive algorithms-greedy,ahmad_mamdouh,Java 6,270,35328000
+687594,27,1315637124,31506324,A,1900,implementation-sortings,Eugene_nik,Java 6,130,35430400
+684015,27,1315524177,31393377,A,1900,implementation-sortings,Crist,Java 6,110,35225600
+666040,27,1315072124,30941324,B,2000,bitmasks-brute force-dfs and similar-greedy,Sinner,Java 6,90,35123200
+665974,27,1315071147,30940347,A,1900,implementation-sortings,Sinner,Java 6,90,35328000
+655276,27,1314919692,30788892,A,1900,implementation-sortings,nah1,Java 6,140,35328000
+635194,27,1314126284,29995484,B,2000,bitmasks-brute force-dfs and similar-greedy,Slamur,Java 6,90,43008000
+624031,27,1313875590,29744790,B,2000,bitmasks-brute force-dfs and similar-greedy,Dunaril,Java 6,140,35225600
+623552,27,1313845269,29714469,B,2000,bitmasks-brute force-dfs and similar-greedy,kiko91_7,Java 6,90,34918400
+601493,27,1312962409,28831609,B,2000,bitmasks-brute force-dfs and similar-greedy,altais,Java 6,90,44851200
+601213,27,1312932636,28801836,A,1900,implementation-sortings,appserzh,Java 6,130,44851200
+588615,27,1312670289,28539489,A,1900,implementation-sortings,Dunaril,Java 6,130,43110400
+574369,27,1312162643,28031843,A,1900,implementation-sortings,spark_coder,Java 6,110,43110400
+573388,27,1312063014,27932214,B,2000,bitmasks-brute force-dfs and similar-greedy,islam-al-aarag,Java 6,160,35328000
+569801,27,1311963558,27832758,C,2000,constructive algorithms-greedy,Ahmed_Salama,Java 6,410,43212800
+569784,27,1311962677,27831877,B,2000,bitmasks-brute force-dfs and similar-greedy,Ahmed_Salama,Java 6,170,43212800
+568847,27,1311896122,27765322,A,1900,implementation-sortings,EslamElsawy,Java 6,140,43212800
+568845,27,1311895972,27765172,A,1900,implementation-sortings,Ahmed_Salama,Java 6,140,43212800
+568841,27,1311895885,27765085,A,1900,implementation-sortings,Wahba,Java 6,110,43110400
+567899,27,1311828380,27697580,C,2000,constructive algorithms-greedy,islam-al-aarag,Java 6,170,43110400
+567896,27,1311827503,27696703,C,2000,constructive algorithms-greedy,Omar.Darwish,Java 6,200,43212800
+567834,27,1311819939,27689139,B,2000,bitmasks-brute force-dfs and similar-greedy,xiaowuc1,Java 6,110,43110400
+567756,27,1311806046,27675246,A,1900,implementation-sortings,xiaowuc1,Java 6,110,43008000
+567199,27,1311767031,27636231,A,1900,implementation-sortings,wackloner,Java 6,140,43110400
+563277,27,1311475727,27344927,A,1900,implementation-sortings,vjudge2,Java 6,140,43212800
+563271,27,1311474877,27344077,A,1900,implementation-sortings,vjudge1,Java 6,110,43212800
+563153,27,1311462693,27331893,A,1900,implementation-sortings,islam-al-aarag,Java 6,160,43212800
+562599,27,1311424848,27294048,A,1900,implementation-sortings,vjudge2,Java 6,170,43212800
+562514,27,1311422764,27291964,A,1900,implementation-sortings,vjudge5,Java 6,130,43110400
+562360,27,1311416301,27285501,A,1900,implementation-sortings,vjudge2,Java 6,110,43110400
+562350,27,1311415364,27284564,A,1900,implementation-sortings,vjudge1,Java 6,130,43110400
+548922,27,1310847217,26716417,B,2000,bitmasks-brute force-dfs and similar-greedy,Sammarize,Java 6,90,43212800
+531622,27,1310124690,25993890,C,2000,constructive algorithms-greedy,Ayisyen,Java 6,140,43212800
+531621,27,1310124610,25993810,B,2000,bitmasks-brute force-dfs and similar-greedy,dalex,Java 6,90,43417600
+531022,27,1310077276,25946476,A,1900,implementation-sortings,Ayisyen,Java 6,110,43110400
+529176,27,1309886977,25756177,A,1900,implementation-sortings,DnS,Java 6,90,35532800
+528876,27,1309870605,25739805,E,2100,brute force-dp-number theory,S.Yesipenko,Java 6,90,34816000
+528864,27,1309870118,25739318,E,2100,brute force-dp-number theory,S.Yesipenko,Java 6,80,34918400
+528238,27,1309800761,25669961,A,1900,implementation-sortings,morin,Java 6,140,43008000
+527658,27,1309771276,25640476,A,1900,implementation-sortings,bairdarmaev,Java 6,90,35123200
+525273,27,1309547189,25416389,B,2000,bitmasks-brute force-dfs and similar-greedy,DoublePointer,Java 6,140,43212800
+524662,27,1309522621,25391821,C,2000,constructive algorithms-greedy,Nox,Java 6,140,43212800
+524628,27,1309521472,25390672,A,1900,implementation-sortings,Nox,Java 6,80,43212800
+512657,27,1309246432,25115632,A,1900,implementation-sortings,altais,Java 6,110,35225600
+512015,27,1309174173,25043373,A,1900,implementation-sortings,kiko91_7,Java 6,130,43110400
+509343,27,1308889375,24758575,A,1900,implementation-sortings,sroyal,Java 6,130,43110400
+507927,27,1308756767,24625967,A,1900,implementation-sortings,DoublePointer,Java 6,140,43212800
+497042,27,1308398651,24267851,B,2000,bitmasks-brute force-dfs and similar-greedy,flash36,Java 6,140,43008000
+486473,27,1307909326,23778526,E,2100,brute force-dp-number theory,tehqin,Java 6,110,35225600
+483762,27,1307594108,23463308,D,2300,2-sat-dfs and similar-dsu-graphs,tehqin,Java 6,140,35532800
+483740,27,1307590814,23460014,C,2000,constructive algorithms-greedy,tehqin,Java 6,410,35328000
+483730,27,1307589416,23458616,B,2000,bitmasks-brute force-dfs and similar-greedy,tehqin,Java 6,140,35328000
+483728,27,1307588734,23457934,A,1900,implementation-sortings,tehqin,Java 6,140,35328000
+483442,27,1307556807,23426007,A,1900,implementation-sortings,epizend,Java 6,130,35328000
+420561,27,1304211608,20080808,B,2000,bitmasks-brute force-dfs and similar-greedy,ahmad_mamdouh,Java 6,110,43417600
+381764,27,1302633621,18502821,A,1900,implementation-sortings,Sulta,Java 6,110,43315200
+371960,27,1302279584,18148784,A,1900,implementation-sortings,flash36,Java 6,130,43315200
+369665,27,1301858168,17727368,E,2100,brute force-dp-number theory,SkorKNURE,Java 6,80,43417600
+369664,27,1301857705,17726905,E,2100,brute force-dp-number theory,SkorKNURE,Java 6,80,43417600
+346682,27,1300653691,16522891,A,1900,implementation-sortings,Leonid,Java 6,110,43315200
+332283,27,1300019590,15888790,A,1900,implementation-sortings,ahmedkotb,Java 6,130,43315200
+327961,27,1299546325,15415525,A,1900,implementation-sortings,Sammarize,Java 6,80,43315200
+327951,27,1299545615,15414815,A,1900,implementation-sortings,niyaznigmatul,Java 6,110,43315200
+323586,27,1299511438,15380638,A,1900,implementation-sortings,Slamur,Java 6,90,43417600
+315474,27,1299269946,15139146,B,2000,bitmasks-brute force-dfs and similar-greedy,marque,Java 6,130,43315200
+300464,27,1298454257,14323457,B,2000,bitmasks-brute force-dfs and similar-greedy,Fixeg,Java 6,130,43417600
+300138,27,1298442863,14312063,A,1900,implementation-sortings,Fixeg,Java 6,160,43417600
+287326,27,1298049885,13919085,A,1900,implementation-sortings,marque,Java 6,110,43315200
+285475,27,1297779902,13649102,A,1900,implementation-sortings,ahmad_mamdouh,Java 6,90,43315200
+282297,27,1297456061,13325261,B,2000,bitmasks-brute force-dfs and similar-greedy,Spacejoker,Java 6,110,43315200
+278151,27,1297341055,13210255,A,1900,implementation-sortings,Alexanderrrr,Java 6,110,43315200
+265490,27,1296042082,11911282,E,2100,brute force-dp-number theory,RAVEman,Java 6,110,43315200
+265487,27,1296041674,11910874,D,2300,2-sat-dfs and similar-dsu-graphs,RAVEman,Java 6,110,43315200
+265476,27,1296040822,11910022,C,2000,constructive algorithms-greedy,RAVEman,Java 6,440,43315200
+265461,27,1296040239,11909439,B,2000,bitmasks-brute force-dfs and similar-greedy,RAVEman,Java 6,140,43315200
+265455,27,1296039922,11909122,A,1900,implementation-sortings,RAVEman,Java 6,140,43315200
+259652,27,1295701876,11571076,A,1900,implementation-sortings,rinigan,Java 6,140,43417600
+255302,27,1295468454,11337654,A,1900,implementation-sortings,Spacejoker,Java 6,140,43417600
+254272,27,1295314345,11183545,A,1900,implementation-sortings,nickbuelich,Java 6,130,43417600
+253599,27,1295215910,11085110,C,2000,constructive algorithms-greedy,I-juice,Java 6,140,43417600
+253429,27,1295195973,11065173,A,1900,implementation-sortings,dart,Java 6,130,43417600
+247909,27,1294849792,10718992,C,2000,constructive algorithms-greedy,S.Yesipenko,Java 6,130,43315200
+244073,27,1294685155,10554355,A,1900,implementation-sortings,dalex,Java 6,90,43417600
+243216,27,1294593995,10463195,B,2000,bitmasks-brute force-dfs and similar-greedy,S.Yesipenko,Java 6,80,43417600
+243121,27,1294589617,10458817,A,1900,implementation-sortings,S.Yesipenko,Java 6,90,43417600
+122223,27,1292770356,8639556,D,2300,2-sat-dfs and similar-dsu-graphs,fetetriste,Java 6,110,43315200
+122204,27,1291733666,7602866,D,2300,2-sat-dfs and similar-dsu-graphs,amr.nabil,Java 6,110,43315200
+122203,27,1291726752,7595952,E,2100,brute force-dp-number theory,amr.nabil,Java 6,500,43315200
+122194,27,1291681486,7550686,C,2000,constructive algorithms-greedy,amr.nabil,Java 6,390,43315200
+122174,27,1291675181,7544381,B,2000,bitmasks-brute force-dfs and similar-greedy,amr.nabil,Java 6,140,43315200
+122164,27,1291673819,7543019,A,1900,implementation-sortings,amr.nabil,Java 6,170,43315200
+122139,27,1290704667,6573867,A,1900,implementation-sortings,hungamaboy,Java 6,130,43315200
+122138,27,1290704630,6573830,A,1900,implementation-sortings,hungamaboy,Java 6,130,43315200
+122112,27,1289885108,5754308,A,1900,implementation-sortings,aquinas16,Java 6,90,43315200
+122026,27,1286785551,2654751,A,1900,implementation-sortings,rexim,Java 6,130,43315200
+121925,27,1285199410,1068610,D,2300,2-sat-dfs and similar-dsu-graphs,satoshii,Java 6,80,42905600
+121923,27,1285190042,1059242,E,2100,brute force-dp-number theory,Ignorance,Java 6,90,42905600
+121922,27,1285188123,1057323,C,2000,constructive algorithms-greedy,Ignorance,Java 6,390,42905600
+121913,27,1285185434,1054634,A,1900,implementation-sortings,Ignorance,Java 6,90,42905600
+121887,27,1285091567,960767,A,1900,implementation-sortings,marser,Java 6,80,42905600
+121856,27,1285015682,884882,E,2100,brute force-dp-number theory,segrey,Java 6,60,42905600
+121847,27,1284994735,863935,A,1900,implementation-sortings,palikrushev,Java 6,80,42905600
+121784,27,1284976913,846113,D,2300,2-sat-dfs and similar-dsu-graphs,segrey,Java 6,80,43008000
+121754,27,1284910802,780002,C,2000,constructive algorithms-greedy,segrey,Java 6,130,42905600
+121749,27,1284908387,777587,B,2000,bitmasks-brute force-dfs and similar-greedy,segrey,Java 6,90,42905600
+121748,27,1284907368,776568,A,1900,implementation-sortings,segrey,Java 6,60,42905600
+121744,27,1284899094,768294,C,2000,constructive algorithms-greedy,I_love_Malika,Java 6,130,42905600
+121738,27,1284891117,760317,B,2000,bitmasks-brute force-dfs and similar-greedy,I_love_Malika,Java 6,130,42905600
+121737,27,1284887091,756291,A,1900,implementation-sortings,I_love_Malika,Java 6,110,43008000
+121482,27,1284658168,527368,A,1900,implementation-sortings,Abra,Java 6,60,42905600
+121459,27,1284646324,515524,A,1900,implementation-sortings,master_j,Java 6,80,42905600
+121449,27,1284643162,512362,A,1900,implementation-sortings,Abra,Java 6,60,42905600
+121412,27,1284627789,496989,A,1900,implementation-sortings,nise_nabe,Java 6,90,42905600
+121363,27,1284565081,434281,E,2100,brute force-dp-number theory,mark1989,Java 6,360,42905600
+121354,27,1284558335,427535,A,1900,implementation-sortings,mark1989,Java 6,140,42905600
+121168,27,1284458516,327716,D,2300,2-sat-dfs and similar-dsu-graphs,Vasya.V,Java 6,80,42905600
+121165,27,1284457946,327146,D,2300,2-sat-dfs and similar-dsu-graphs,Vasya.V,Java 6,110,42905600
+121154,27,1284453309,322509,E,2100,brute force-dp-number theory,Vasya.V,Java 6,60,42905600
+121151,27,1284450790,319990,C,2000,constructive algorithms-greedy,Vasya.V,Java 6,130,42905600
+121146,27,1284449720,318920,B,2000,bitmasks-brute force-dfs and similar-greedy,Vasya.V,Java 6,90,42905600
+121144,27,1284449136,318336,A,1900,implementation-sortings,Vasya.V,Java 6,80,42905600
+121091,27,1284398874,268074,C,2000,constructive algorithms-greedy,msagimbekov,Java 6,380,42905600
+121037,27,1284381857,251057,E,2100,brute force-dp-number theory,kyo_key,Java 6,90,42905600
+120896,27,1284319483,188683,E,2100,brute force-dp-number theory,chokudai,Java 6,80,42905600
+120885,27,1284318000,187200,B,2000,bitmasks-brute force-dfs and similar-greedy,Peteris,Java 6,80,42905600
+120879,27,1284317392,186592,A,1900,implementation-sortings,Peteris,Java 6,90,42905600
+120813,27,1284304603,173803,A,1900,implementation-sortings,samshu,Java 6,60,42905600
+120745,27,1284285036,154236,C,2000,constructive algorithms-greedy,nel215,Java 6,170,42905600
+120728,27,1284274461,143661,B,2000,bitmasks-brute force-dfs and similar-greedy,nel215,Java 6,110,42905600
+120720,27,1284269193,138393,A,1900,implementation-sortings,nel215,Java 6,80,42905600
+120592,27,1284228185,97385,C,2000,constructive algorithms-greedy,logN,Java 6,360,42905600
+120590,27,1284227693,96893,C,2000,constructive algorithms-greedy,sjbr,Java 6,140,42905600
+120391,27,1284211096,80296,C,2000,constructive algorithms-greedy,satoshii,Java 6,380,42905600
+120366,27,1284207443,76643,E,2100,brute force-dp-number theory,satoshii,Java 6,80,42905600
+120346,27,1284206057,75257,E,2100,brute force-dp-number theory,ixrs,Java 6,780,42905600
+120344,27,1284206001,75201,D,2300,2-sat-dfs and similar-dsu-graphs,ixrs,Java 6,90,42905600
+120243,27,1284196537,65737,D,2300,2-sat-dfs and similar-dsu-graphs,joker512,Java 6,90,42905600
+120217,27,1284195293,64493,D,2300,2-sat-dfs and similar-dsu-graphs,uwi,Java 6,90,42905600
+120114,27,1284191484,60684,B,2000,bitmasks-brute force-dfs and similar-greedy,caustique,Java 6,90,42905600
+120039,27,1284186927,56127,E,2100,brute force-dp-number theory,uwi,Java 6,90,42905600
+120026,27,1284186639,55839,E,2100,brute force-dp-number theory,joker512,Java 6,90,42905600
+120020,27,1284186270,55470,B,2000,bitmasks-brute force-dfs and similar-greedy,joker512,Java 6,110,42905600
+119880,27,1284171583,40783,B,2000,bitmasks-brute force-dfs and similar-greedy,sjbr,Java 6,90,42905600
+119853,27,1284169037,38237,B,2000,bitmasks-brute force-dfs and similar-greedy,ivoryxiong,Java 6,130,42905600
+119852,27,1284169001,38201,A,1900,implementation-sortings,ivoryxiong,Java 6,90,42905600
+119603,27,1284147532,16732,D,2300,2-sat-dfs and similar-dsu-graphs,mastersobg,Java 6,80,42905600
+119596,27,1284147053,16253,A,1900,implementation-sortings,KaVaBUnGO,Java 6,80,42905600
+119582,27,1284146079,15279,C,2000,constructive algorithms-greedy,fetetriste,Java 6,130,42905600
+119546,27,1284144344,13544,C,2000,constructive algorithms-greedy,uwi,Java 6,220,42905600
+119543,27,1284144149,13349,E,2100,brute force-dp-number theory,fetetriste,Java 6,500,42905600
+119494,27,1284142745,11945,B,2000,bitmasks-brute force-dfs and similar-greedy,uwi,Java 6,110,42905600
+119492,27,1284142682,11882,B,2000,bitmasks-brute force-dfs and similar-greedy,fetetriste,Java 6,60,42905600
+119481,27,1284142485,11685,E,2100,brute force-dp-number theory,maslowmw,Java 6,80,42905600
+119467,27,1284142224,11424,C,2000,constructive algorithms-greedy,joker512,Java 6,380,42905600
+119466,27,1284142223,11423,A,1900,implementation-sortings,uwi,Java 6,90,42905600
+119456,27,1284141974,11174,A,1900,implementation-sortings,fetetriste,Java 6,130,42905600
+119435,27,1284141658,10858,C,2000,constructive algorithms-greedy,tsukuno,Java 6,380,42905600
+119417,27,1284141210,10410,C,2000,constructive algorithms-greedy,htrinh,Java 6,170,42905600
+119348,27,1284140211,9411,E,2100,brute force-dp-number theory,tsukuno,Java 6,90,42905600
+119283,27,1284139712,8912,C,2000,constructive algorithms-greedy,ixrs,Java 6,390,42905600
+119217,27,1284139194,8394,A,1900,implementation-sortings,msagimbekov,Java 6,140,42905600
+118910,27,1284136796,5996,D,2300,2-sat-dfs and similar-dsu-graphs,I-juice,Java 6,80,42905600
+118804,27,1284136239,5439,C,2000,constructive algorithms-greedy,RosyIsh,Java 6,380,43008000
+118781,27,1284136154,5354,B,2000,bitmasks-brute force-dfs and similar-greedy,logN,Java 6,130,42905600
+118765,27,1284136083,5283,E,2100,brute force-dp-number theory,r2d2,Java 6,80,42905600
+118753,27,1284136037,5237,C,2000,constructive algorithms-greedy,komarov,Java 6,380,42905600
+118739,27,1284135969,5169,B,2000,bitmasks-brute force-dfs and similar-greedy,htrinh,Java 6,90,42905600
+118629,27,1284135431,4631,B,2000,bitmasks-brute force-dfs and similar-greedy,OSt,Java 6,130,42905600
+118610,27,1284135355,4555,A,1900,implementation-sortings,gauravmunjal,Java 6,80,42905600
+118583,27,1284135241,4441,B,2000,bitmasks-brute force-dfs and similar-greedy,caustique,Java 6,80,42905600
+118545,27,1284135118,4318,B,2000,bitmasks-brute force-dfs and similar-greedy,KaVaBUnGO,Java 6,80,42905600
+118446,27,1284134761,3961,E,2100,brute force-dp-number theory,I-juice,Java 6,60,42905600
+118359,27,1284134397,3597,A,1900,implementation-sortings,logN,Java 6,130,42905600
+118311,27,1284134257,3457,B,2000,bitmasks-brute force-dfs and similar-greedy,blue_jam,Java 6,130,42905600
+118278,27,1284134144,3344,B,2000,bitmasks-brute force-dfs and similar-greedy,msagimbekov,Java 6,130,42905600
+118265,27,1284134114,3314,A,1900,implementation-sortings,OSt,Java 6,90,42905600
+118038,27,1284133262,2462,C,2000,constructive algorithms-greedy,KaVaBUnGO,Java 6,130,42905600
+117982,27,1284133102,2302,C,2000,constructive algorithms-greedy,deNULL,Java 6,130,42905600
+117959,27,1284133009,2209,D,2300,2-sat-dfs and similar-dsu-graphs,tsukuno,Java 6,80,42905600
+117929,27,1284132897,2097,B,2000,bitmasks-brute force-dfs and similar-greedy,wilczek256,Java 6,90,42905600
+117922,27,1284132876,2076,B,2000,bitmasks-brute force-dfs and similar-greedy,Irkovskaya_Vika,Java 6,90,42905600
+117917,27,1284132861,2061,C,2000,constructive algorithms-greedy,pavel.chadnov,Java 6,410,42905600
+117908,27,1284132837,2037,A,1900,implementation-sortings,caustique,Java 6,60,42905600
+117889,27,1284132781,1981,B,2000,bitmasks-brute force-dfs and similar-greedy,-messi-,Java 6,110,42905600
+117843,27,1284132643,1843,C,2000,constructive algorithms-greedy,r2d2,Java 6,140,42905600
+117824,27,1284132603,1803,D,2300,2-sat-dfs and similar-dsu-graphs,pavel.chadnov,Java 6,80,42905600
+117787,27,1284132501,1701,B,2000,bitmasks-brute force-dfs and similar-greedy,Integra,Java 6,80,42905600
+117731,27,1284132358,1558,B,2000,bitmasks-brute force-dfs and similar-greedy,Nox,Java 6,60,42905600
+117730,27,1284132357,1557,A,1900,implementation-sortings,daira,Java 6,80,42905600
+117696,27,1284132281,1481,B,2000,bitmasks-brute force-dfs and similar-greedy,Abra,Java 6,80,42905600
+117682,27,1284132243,1443,B,2000,bitmasks-brute force-dfs and similar-greedy,RosyIsh,Java 6,110,42905600
+117651,27,1284132155,1355,B,2000,bitmasks-brute force-dfs and similar-greedy,deNULL,Java 6,90,42905600
+117621,27,1284132056,1256,B,2000,bitmasks-brute force-dfs and similar-greedy,ixrs,Java 6,130,43008000
+117494,27,1284131742,942,B,2000,bitmasks-brute force-dfs and similar-greedy,I-juice,Java 6,80,42905600
+117476,27,1284131705,905,B,2000,bitmasks-brute force-dfs and similar-greedy,r2d2,Java 6,90,42905600
+117438,27,1284131583,783,B,2000,bitmasks-brute force-dfs and similar-greedy,tsukuno,Java 6,130,42905600
+117423,27,1284131549,749,B,2000,bitmasks-brute force-dfs and similar-greedy,komarov,Java 6,110,42905600
+117413,27,1284131523,723,A,1900,implementation-sortings,blue_jam,Java 6,110,42905600
+117404,27,1284131492,692,A,1900,implementation-sortings,htrinh,Java 6,80,42905600
+117394,27,1284131471,671,A,1900,implementation-sortings,Integra,Java 6,80,42905600
+117382,27,1284131451,651,A,1900,implementation-sortings,joker512,Java 6,90,42905600
+117368,27,1284131412,612,A,1900,implementation-sortings,wilczek256,Java 6,80,42905600
+117311,27,1284131297,497,A,1900,implementation-sortings,-messi-,Java 6,110,42905600
+117296,27,1284131257,457,A,1900,implementation-sortings,userlond,Java 6,60,42905600
+117237,27,1284131156,356,A,1900,implementation-sortings,satoshii,Java 6,110,42905600
+117218,27,1284131123,323,A,1900,implementation-sortings,ixrs,Java 6,110,42905600
+117186,27,1284131085,285,A,1900,implementation-sortings,komarov,Java 6,110,42905600
+117177,27,1284131080,280,A,1900,implementation-sortings,I-juice,Java 6,90,42905600
+117168,27,1284131069,269,A,1900,implementation-sortings,deNULL,Java 6,80,42905600
+117160,27,1284131058,258,A,1900,implementation-sortings,RosyIsh,Java 6,110,42905600
+117151,27,1284131042,242,A,1900,implementation-sortings,tsukuno,Java 6,110,42905600
+117128,27,1284131005,205,A,1900,implementation-sortings,r2d2,Java 6,80,42905600
+117109,27,1284130940,140,A,1900,implementation-sortings,pavel.chadnov,Java 6,130,42905600

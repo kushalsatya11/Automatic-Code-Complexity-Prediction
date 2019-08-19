@@ -1,0 +1,95 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56283040,98,1561830773,2147483647,A,1700,brute force-implementation,gaurav___kumar,Java 8,124,0
+53055854,98,1555780994,2147483647,A,1700,brute force-implementation,Verdusk,Java 8,140,0
+46465089,98,1543715709,2147483647,B,2600,implementation-probabilities-trees,.vr,Java 8,1558,0
+42680429,98,1536422757,2147483647,B,2600,implementation-probabilities-trees,KulikAlex,Java 8,592,0
+40249031,98,1531456031,2147483647,B,2600,implementation-probabilities-trees,ruo,Java 8,436,0
+39444987,98,1529523028,2147483647,A,1700,brute force-implementation,KulikAlex,Java 8,124,0
+36421906,98,1521500740,2147483647,B,2600,implementation-probabilities-trees,SAeed,Java 8,1122,21504000
+35962094,98,1520246544,2147483647,A,1700,brute force-implementation,parth_15,Java 8,156,21094400
+25308429,98,1488867217,2147483647,C,2400,geometry-ternary search,nicomartinez,Java 8,342,20889600
+24950697,98,1487894277,2147483647,C,2400,geometry-ternary search,___l,Java 8,342,21196800
+19320465,98,1469179370,2147483647,A,1700,brute force-implementation,vjudge1,Java 8,155,0
+19317344,98,1469172195,2147483647,A,1700,brute force-implementation,vjudge2,Java 7,139,0
+19316520,98,1469170246,2147483647,A,1700,brute force-implementation,vjudge5,Java 7,124,0
+17702844,98,1462310651,2147483647,B,2600,implementation-probabilities-trees,alexrcoleman,Java 8,1528,22220800
+17702410,98,1462305561,7161,D,2400,constructive algorithms,mkirsche,Java 7,746,50483200
+17701644,98,1462299776,1376,A,1700,brute force-implementation,alexrcoleman,Java 8,140,20992000
+17701620,98,1462299652,1252,A,1700,brute force-implementation,gpita,Java 8,139,20992000
+17701519,98,1462299044,644,A,1700,brute force-implementation,mkirsche,Java 7,124,39219200
+12250939,98,1438081583,2147483647,B,2600,implementation-probabilities-trees,Irkutsk_ISRU,Java 7,622,0
+11533020,98,1434026026,2147483647,D,2400,constructive algorithms,AStepanov,Java 8,778,39731200
+11381881,98,1433180217,2147483647,A,1700,brute force-implementation,alibaba,Java 7,186,0
+10796752,98,1429528014,2147483647,B,2600,implementation-probabilities-trees,delta_4d,Java 8,1402,29388800
+6541628,98,1399151964,2147483647,A,1700,brute force-implementation,nickbuelich,Java 8,342,0
+6541623,98,1399151876,2147483647,A,1700,brute force-implementation,nickbuelich,Java 7,156,0
+5352173,98,1386226476,2147483647,A,1700,brute force-implementation,atubo,Java 6,124,102400
+3550219,98,1366081705,2147483647,A,1700,brute force-implementation,santjuan,Java 6,109,2355200
+2756337,98,1355367091,2147483647,C,2400,geometry-ternary search,qiandichen,Java 7,93,0
+2754229,98,1355311237,2147483647,D,2400,constructive algorithms,qiandichen,Java 7,734,30208000
+2562517,98,1352974692,2592,A,1700,brute force-implementation,Azat_Yusupov,Java 6,109,204800
+1181885,98,1329299340,2147483647,A,1700,brute force-implementation,mostafa_fahim,Java 6,90,43212800
+1046920,98,1326649016,2147483647,B,2600,implementation-probabilities-trees,ztk,Java 6,550,43212800
+935604,98,1323349428,12002628,B,2600,implementation-probabilities-trees,Marloc,Java 6,480,35532800
+930500,98,1323055268,11708468,A,1700,brute force-implementation,islam-al-aarag,Java 6,160,43212800
+930149,98,1323026515,11679715,D,2400,constructive algorithms,Marloc,Java 6,1000,126464000
+888672,98,1322113710,10766910,A,1700,brute force-implementation,xiaowuc1,Java 6,410,43212800
+876796,98,1321590103,10243303,D,2400,constructive algorithms,partizan22,Java 6,170,43212800
+834992,98,1320426541,9079741,A,1700,brute force-implementation,DoublePointer,Java 6,130,43110400
+712857,98,1316743426,5396626,A,1700,brute force-implementation,cdg720,Java 6,130,35328000
+711836,98,1316689327,5342527,B,2600,implementation-probabilities-trees,kennethsnow,Java 6,440,35430400
+711834,98,1316689243,5342443,B,2600,implementation-probabilities-trees,vjudge4,Java 6,450,35430400
+636992,98,1314191777,2844977,A,1700,brute force-implementation,OgieKako,Java 6,90,34918400
+603320,98,1313097965,1751165,B,2600,implementation-probabilities-trees,uwi,Java 6,220,44748800
+579143,98,1312392367,1045567,A,1700,brute force-implementation,iamavalon,Java 6,130,43110400
+576544,98,1312311781,964981,A,1700,brute force-implementation,dalex,Java 6,130,43520000
+568509,98,1311867771,520971,B,2600,implementation-probabilities-trees,Igor_Kudryashov,Java 6,470,43212800
+567882,98,1311825077,478277,B,2600,implementation-probabilities-trees,sevenkplus,Java 6,1140,88780800
+567764,98,1311806999,460199,B,2600,implementation-probabilities-trees,Kenny_HORROR,Java 6,390,43212800
+567676,98,1311796576,449776,B,2600,implementation-probabilities-trees,Connector,Java 6,1250,88576000
+565592,98,1311616389,269589,A,1700,brute force-implementation,Toks,Java 6,130,43110400
+565194,98,1311593886,247086,A,1700,brute force-implementation,Mostafa.Ali,Java 6,230,43212800
+564096,98,1311530184,183384,D,2400,constructive algorithms,segrey,Java 6,830,70758400
+563896,98,1311517815,171015,A,1700,brute force-implementation,multisystem,Java 6,110,43110400
+563800,98,1311513767,166967,A,1700,brute force-implementation,Spacejoker,Java 6,110,43008000
+563544,98,1311503125,156325,A,1700,brute force-implementation,vanchope,Java 6,190,64716800
+563014,98,1311443130,96330,C,2400,geometry-ternary search,vanchope,Java 6,130,64614400
+562907,98,1311436047,89247,A,1700,brute force-implementation,anhdt,Java 6,110,43008000
+562328,98,1311414401,67601,A,1700,brute force-implementation,Nox,Java 6,110,43212800
+561391,98,1311382671,35871,A,1700,brute force-implementation,cyon,Java 6,130,43110400
+561364,98,1311380725,33925,D,2400,constructive algorithms,Narg,Java 6,1010,43417600
+561363,98,1311380666,33866,D,2400,constructive algorithms,Narg,Java 6,880,48332800
+561360,98,1311380345,33545,D,2400,constructive algorithms,Narg,Java 6,560,83660800
+561359,98,1311380292,33492,D,2400,constructive algorithms,Narg,Java 6,690,83660800
+560881,98,1311359979,13179,D,2400,constructive algorithms,ivan.metelsky,Java 6,330,71168000
+560785,98,1311359315,12515,C,2400,geometry-ternary search,uwi,Java 6,130,43110400
+560686,98,1311358838,12038,A,1700,brute force-implementation,uwi,Java 6,110,43110400
+560667,98,1311358793,11993,A,1700,brute force-implementation,S.Yesipenko,Java 6,90,43008000
+560655,98,1311358751,11951,A,1700,brute force-implementation,S.Yesipenko,Java 6,110,43008000
+560394,98,1311353849,7049,A,1700,brute force-implementation,Petr,Java 6,110,43008000
+559982,98,1311353307,6507,D,2400,constructive algorithms,Imba,Java 6,380,43212800
+559907,98,1311353184,6384,E,2500,dp-games-math-probabilities,Petr,Java 6,250,43110400
+559820,98,1311353060,6260,D,2400,constructive algorithms,Narg,Java 6,720,83558400
+559445,98,1311352446,5646,C,2400,geometry-ternary search,UESTC_Defense,Java 6,130,43110400
+559425,98,1311352417,5617,A,1700,brute force-implementation,carber,Java 6,130,43110400
+559155,98,1311351900,5100,A,1700,brute force-implementation,rajatag12,Java 6,110,43008000
+559024,98,1311351658,4858,C,2400,geometry-ternary search,Petr,Java 6,110,43008000
+558737,98,1311351102,4302,A,1700,brute force-implementation,chronotable,Java 6,130,43110400
+558606,98,1311350893,4093,A,1700,brute force-implementation,segrey,Java 6,110,43008000
+558524,98,1311350765,3965,A,1700,brute force-implementation,shevchen,Java 6,130,43110400
+557862,98,1311349704,2904,A,1700,brute force-implementation,yasu0207,Java 6,110,43110400
+557700,98,1311349488,2688,A,1700,brute force-implementation,alexander.yuriev,Java 6,90,43008000
+557428,98,1311349131,2331,A,1700,brute force-implementation,daizhenyang,Java 6,110,43110400
+557419,98,1311349120,2320,A,1700,brute force-implementation,yarrr,Java 6,110,43212800
+557136,98,1311348791,1991,A,1700,brute force-implementation,Nikelandjelo,Java 6,110,43008000
+557126,98,1311348779,1979,A,1700,brute force-implementation,niyaznigmatul,Java 6,130,43008000
+556876,98,1311348535,1735,A,1700,brute force-implementation,uwi,Java 6,110,43110400
+556697,98,1311348330,1530,A,1700,brute force-implementation,Narg,Java 6,110,43008000
+556568,98,1311348197,1397,D,2400,constructive algorithms,Petr,Java 6,940,117760000
+556552,98,1311348188,1388,A,1700,brute force-implementation,Imba,Java 6,110,43008000
+556487,98,1311348119,1319,A,1700,brute force-implementation,it4.kp,Java 6,90,43008000
+556344,98,1311348000,1200,A,1700,brute force-implementation,cerealguy,Java 6,90,43008000
+556286,98,1311347943,1143,A,1700,brute force-implementation,Aksenov239,Java 6,90,43110400
+556257,98,1311347913,1113,A,1700,brute force-implementation,yaro,Java 6,130,43315200
+556159,98,1311347825,1025,A,1700,brute force-implementation,ivan.popelyshev,Java 6,110,43008000
+555940,98,1311347641,841,A,1700,brute force-implementation,Googly,Java 6,140,43315200

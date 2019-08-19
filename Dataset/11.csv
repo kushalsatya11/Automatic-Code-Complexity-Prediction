@@ -1,0 +1,711 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57501406,11,1563790769,2147483647,B,1700,math,aman3014,Java 8,218,3686400
+57473703,11,1563738445,2147483647,D,2200,bitmasks-dp-graphs,Zeina_Kandil,Java 8,1107,133222400
+57456753,11,1563710237,2147483647,A,1100,constructive algorithms-implementation-math,aman3014,Java 8,248,3788800
+56666119,11,1562498151,2147483647,A,1100,constructive algorithms-implementation-math,dark.horse,Java 8,186,3276800
+56663561,11,1562495780,2147483647,B,1700,math,dark.horse,Java 8,186,3174400
+56543752,11,1562308855,2147483647,A,1100,constructive algorithms-implementation-math,Darshan4450,Java 8,248,3788800
+56181274,11,1561679615,2147483647,A,1100,constructive algorithms-implementation-math,TheSawan,Java 8,218,3276800
+56081090,11,1561559949,2147483647,A,1100,constructive algorithms-implementation-math,tobitherobot,Java 8,218,3686400
+55738818,11,1560925018,2147483647,D,2200,bitmasks-dp-graphs,07rahi,Java 8,857,157491200
+55738815,11,1560925003,2147483647,C,2200,implementation,07rahi,Java 8,528,7782400
+55606923,11,1560648157,2147483647,B,1700,math,nullptr2,Java 8,186,3174400
+55551217,11,1560496385,2147483647,A,1100,constructive algorithms-implementation-math,harshkrr.151,Java 8,184,3174400
+55524957,11,1560422515,2147483647,A,1100,constructive algorithms-implementation-math,still_the_big_bang,Java 8,186,3276800
+55275453,11,1559933033,2147483647,D,2200,bitmasks-dp-graphs,nullptr2,Java 8,810,133324800
+55186172,11,1559792066,2147483647,A,1100,constructive algorithms-implementation-math,Jinpeng,Java 8,248,3788800
+55186137,11,1559791985,2147483647,C,2200,implementation,Jinpeng,Java 8,528,7782400
+55186100,11,1559791888,2147483647,B,1700,math,Jinpeng,Java 8,218,3686400
+55102218,11,1559683144,2147483647,D,2200,bitmasks-dp-graphs,zhijunlicd,Java 8,826,133222400
+54570255,11,1558723871,2147483647,D,2200,bitmasks-dp-graphs,vaibhavpulastya,Java 8,779,146432000
+54556336,11,1558698537,2147483647,B,1700,math,mennafadali,Java 8,186,3174400
+54493408,11,1558542613,2147483647,D,2200,bitmasks-dp-graphs,Newtear,Java 8,873,146739200
+54466739,11,1558486537,2147483647,D,2200,bitmasks-dp-graphs,Washoum,Java 8,1684,146841600
+54417798,11,1558359508,2147483647,C,2200,implementation,WuZei,Java 8,466,6963200
+54415793,11,1558355474,2147483647,A,1100,constructive algorithms-implementation-math,WuZei,Java 8,218,3788800
+54415539,11,1558354940,2147483647,B,1700,math,WuZei,Java 8,248,3686400
+53896896,11,1557383866,2147483647,C,2200,implementation,luogu_bot1,Java 8,218,3379200
+53817154,11,1557141358,2147483647,D,2200,bitmasks-dp-graphs,vjudge5,Java 8,1544,133120000
+52340540,11,1554459380,2147483647,A,1100,constructive algorithms-implementation-math,Darshan_4450,Java 8,218,3788800
+52279728,11,1554308543,2147483647,A,1100,constructive algorithms-implementation-math,KrisDo,Java 8,216,3788800
+52147008,11,1554112423,2147483647,A,1100,constructive algorithms-implementation-math,ArmourOfGod,Java 8,218,3276800
+50653961,11,1551465934,2147483647,A,1100,constructive algorithms-implementation-math,parthsingh287,Java 8,248,3686400
+49695282,11,1549805241,2147483647,A,1100,constructive algorithms-implementation-math,newheathen,Java 8,218,3788800
+48881002,11,1548325061,2147483647,A,1100,constructive algorithms-implementation-math,danny2019,Java 8,248,3788800
+47805212,11,1546324100,1460,A,1100,constructive algorithms-implementation-math,agnyaathavaasi,Java 8,184,3276800
+47538416,11,1545886654,2147483647,B,1700,math,mayank_nsit,Java 8,218,3584000
+47237031,11,1545167361,2147483647,A,1100,constructive algorithms-implementation-math,chriscode_8,Java 8,218,3686400
+47236910,11,1545167044,2147483647,A,1100,constructive algorithms-implementation-math,chriscode_8,Java 8,248,3686400
+46902908,11,1544532528,2147483647,A,1100,constructive algorithms-implementation-math,Keti13,Java 8,218,3686400
+46416907,11,1543607237,2147483647,A,1100,constructive algorithms-implementation-math,stolis,Java 8,218,3686400
+45679309,11,1542119914,2147483647,D,2200,bitmasks-dp-graphs,aminul,Java 8,1278,133017600
+45649055,11,1542060771,2147483647,A,1100,constructive algorithms-implementation-math,I.A.K.O.V,Java 8,186,3276800
+45353170,11,1541490497,2147483647,D,2200,bitmasks-dp-graphs,Jeel_Vaishnav,Java 8,748,146739200
+44828010,11,1540451428,2147483647,A,1100,constructive algorithms-implementation-math,mannshah27,Java 8,248,3686400
+44477148,11,1539855374,2147483647,D,2200,bitmasks-dp-graphs,octopusPrime,Java 8,826,146432000
+44477106,11,1539855285,2147483647,D,2200,bitmasks-dp-graphs,octopusPrime,Java 8,1418,146432000
+44477038,11,1539855138,2147483647,D,2200,bitmasks-dp-graphs,octopusPrime,Java 8,1575,146432000
+43733192,11,1538578565,2147483647,A,1100,constructive algorithms-implementation-math,41ex.bondarev,Java 8,342,3788800
+43711176,11,1538538490,2147483647,B,1700,math,bomb_shot,Java 8,310,3584000
+43072404,11,1537351123,2147483647,A,1100,constructive algorithms-implementation-math,foreverlearner,Java 8,404,3686400
+43071784,11,1537349962,2147483647,B,1700,math,foreverlearner,Java 8,342,3686400
+42616401,11,1536328507,2147483647,D,2200,bitmasks-dp-graphs,darshankdarji,Java 8,951,146432000
+41603351,11,1534286214,2147483647,A,1100,constructive algorithms-implementation-math,prabhat236218,Java 8,248,43417600
+40723149,11,1532486630,2147483647,A,1100,constructive algorithms-implementation-math,henrydao2009,Java 8,342,3686400
+40313722,11,1531559887,2147483647,A,1100,constructive algorithms-implementation-math,suppio,Java 8,280,3276800
+39956352,11,1530710017,2147483647,A,1100,constructive algorithms-implementation-math,adibbatous,Java 8,342,3686400
+39956206,11,1530709703,2147483647,A,1100,constructive algorithms-implementation-math,adibbatous,Java 8,342,3686400
+39875662,11,1530553961,2147483647,A,1100,constructive algorithms-implementation-math,sancho20021,Java 8,312,3686400
+39503571,11,1529629874,2147483647,B,1700,math,Fixeg,Java 8,310,3584000
+39399575,11,1529387316,2147483647,D,2200,bitmasks-dp-graphs,java_geek,Java 8,888,146329600
+39344165,11,1529274615,2147483647,A,1100,constructive algorithms-implementation-math,shiroo,Java 8,342,3686400
+39210709,11,1528879765,2147483647,A,1100,constructive algorithms-implementation-math,adibbatous,Java 8,372,3686400
+38902987,11,1527971594,2147483647,B,1700,math,ShashankGoel.IITD,Java 8,310,26316800
+38877168,11,1527923644,2147483647,A,1100,constructive algorithms-implementation-math,ShashankGoel.IITD,Java 8,342,26316800
+38799323,11,1527765472,2147483647,B,1700,math,skywalker212,Java 8,312,26316800
+38797899,11,1527762596,2147483647,A,1100,constructive algorithms-implementation-math,skywalker212,Java 8,312,26316800
+38797730,11,1527762222,2147483647,A,1100,constructive algorithms-implementation-math,skywalker212,Java 8,310,26316800
+38567759,11,1527093049,2147483647,B,1700,math,Anonymous,Java 8,372,3584000
+38515445,11,1526926559,2147483647,A,1100,constructive algorithms-implementation-math,vjvjain0,Java 8,248,3276800
+37984923,11,1525667876,2147483647,B,1700,math,gkeesh7,Java 8,310,26112000
+37695350,11,1524949996,2147483647,A,1100,constructive algorithms-implementation-math,S010M,Java 8,248,26009600
+37132506,11,1523313073,2147483647,A,1100,constructive algorithms-implementation-math,Hasib_Ullah,Java 8,404,21094400
+37038200,11,1523079182,2147483647,B,1700,math,amolpratap007,Java 8,310,26112000
+36951442,11,1522850029,2147483647,A,1100,constructive algorithms-implementation-math,bystr1k,Java 8,278,20275200
+36756471,11,1522434874,2147483647,A,1100,constructive algorithms-implementation-math,totallynotan,Java 8,278,26009600
+36526788,11,1521799074,2147483647,A,1100,constructive algorithms-implementation-math,Anonymous,Java 8,374,26214400
+36291705,11,1521095971,2147483647,B,1700,math,gtx1080,Java 8,310,26112000
+36280022,11,1521040434,2147483647,B,1700,math,Hoda_Hisham,Java 8,280,25702400
+36150657,11,1520685814,2147483647,A,1100,constructive algorithms-implementation-math,Khaled-Osama,Java 8,342,26214400
+36135478,11,1520653493,2147483647,A,1100,constructive algorithms-implementation-math,anto777,Java 8,248,26009600
+35886973,11,1520085423,2147483647,A,1100,constructive algorithms-implementation-math,omar21,Java 8,342,26112000
+35885996,11,1520084324,2147483647,A,1100,constructive algorithms-implementation-math,omar21,Java 8,372,26214400
+35681294,11,1519565654,2147483647,A,1100,constructive algorithms-implementation-math,medhat.hani,Java 8,280,20275200
+35403846,11,1518865282,2147483647,B,1700,math,lehar_11,Java 8,342,26112000
+35400665,11,1518864382,2147483647,A,1100,constructive algorithms-implementation-math,lehar_11,Java 8,342,26112000
+35188765,11,1518470911,2147483647,D,2200,bitmasks-dp-graphs,khh,Java 8,936,180121600
+34490957,11,1516728991,2147483647,A,1100,constructive algorithms-implementation-math,Logic_Hunter,Java 8,342,26214400
+34490781,11,1516728723,2147483647,A,1100,constructive algorithms-implementation-math,vjudge1,Java 8,312,20684800
+33844478,11,1514799421,2147483647,A,1100,constructive algorithms-implementation-math,Already,Java 8,248,26009600
+33536158,11,1514029722,2147483647,D,2200,bitmasks-dp-graphs,huhansan,Java 8,795,169369600
+33143536,11,1513049149,2147483647,B,1700,math,huhansan,Java 8,248,26009600
+33097797,11,1512983240,2147483647,A,1100,constructive algorithms-implementation-math,huhansan,Java 8,248,26009600
+33033330,11,1512760870,2147483647,B,1700,math,Dwu123,Java 8,310,20275200
+33023150,11,1512738505,2147483647,A,1100,constructive algorithms-implementation-math,vjudge4,Java 8,310,26214400
+33014197,11,1512708333,2147483647,A,1100,constructive algorithms-implementation-math,mcgrash,Java 8,342,26112000
+32888944,11,1512269167,2147483647,A,1100,constructive algorithms-implementation-math,Dwu123,Java 8,248,26009600
+32540911,11,1511329494,2147483647,A,1100,constructive algorithms-implementation-math,programbhavan,Java 8,340,0
+32343592,11,1510790819,2147483647,A,1100,constructive algorithms-implementation-math,knightcm77,Java 8,404,0
+32343566,11,1510790601,2147483647,A,1100,constructive algorithms-implementation-math,kennan,Java 8,404,0
+32213884,11,1510387564,2147483647,A,1100,constructive algorithms-implementation-math,Codeforce_123,Java 8,312,3788800
+32181032,11,1510259260,2147483647,A,1100,constructive algorithms-implementation-math,LittleGreenFlame,Java 8,374,0
+31987689,11,1509643506,2147483647,D,2200,bitmasks-dp-graphs,G.Mohamed,Java 8,1372,133529600
+31921200,11,1509453527,2147483647,A,1100,constructive algorithms-implementation-math,khaled92,Java 8,310,3686400
+31302479,11,1507979632,2147483647,A,1100,constructive algorithms-implementation-math,ashcodish,Java 8,280,3686400
+30984989,11,1507099548,2147483647,D,2200,bitmasks-dp-graphs,snuacm2,Java 8,842,146739200
+30805076,11,1506603248,2147483647,A,1100,constructive algorithms-implementation-math,captainTurtle,Java 8,310,3686400
+30568247,11,1505975222,2147483647,A,1100,constructive algorithms-implementation-math,Tarun,Java 8,218,3174400
+30560377,11,1505936134,2147483647,C,2200,implementation,vasste,Java 8,1184,3788800
+30232719,11,1504984473,2147483647,B,1700,math,vasste,Java 8,280,3686400
+30188838,11,1504810489,2147483647,B,1700,math,throwaway1729,Java 8,342,3788800
+30188579,11,1504809458,2147483647,A,1100,constructive algorithms-implementation-math,throwaway1729,Java 8,342,3891200
+30095432,11,1504603521,2147483647,A,1100,constructive algorithms-implementation-math,MQstafa,Java 8,310,3686400
+30080790,11,1504546815,2147483647,A,1100,constructive algorithms-implementation-math,MQstafa,Java 8,342,3686400
+30013876,11,1504359433,2147483647,A,1100,constructive algorithms-implementation-math,praveenkulkarni,Java 8,310,3993600
+29938207,11,1504169146,2147483647,A,1100,constructive algorithms-implementation-math,vasste,Java 8,248,3686400
+28708018,11,1500515165,2147483647,A,1100,constructive algorithms-implementation-math,huangzr,Java 8,342,20787200
+28428873,11,1499783802,2147483647,A,1100,constructive algorithms-implementation-math,Killer45,Java 8,218,26112000
+28428427,11,1499782697,2147483647,A,1100,constructive algorithms-implementation-math,AnnaAutumn,Java 8,280,26214400
+28415381,11,1499720607,2147483647,A,1100,constructive algorithms-implementation-math,Dragon_162,Java 8,310,26316800
+28402945,11,1499676670,2147483647,B,1700,math,tomdmitriev,Java 8,218,26009600
+28205786,11,1498982123,2147483647,B,1700,math,anjali121,Java 8,218,26112000
+28197812,11,1498938769,2147483647,A,1100,constructive algorithms-implementation-math,M_ashry,Java 8,374,26214400
+28179833,11,1498853438,2147483647,A,1100,constructive algorithms-implementation-math,Ajudiya_13,Java 8,278,26112000
+27966195,11,1498137562,2147483647,A,1100,constructive algorithms-implementation-math,OneClickAC,Java 8,218,26009600
+27932842,11,1497995460,2147483647,B,1700,math,ashubeckham,Java 8,280,26009600
+27442253,11,1496129718,2147483647,B,1700,math,da_201501181,Java 8,218,11776000
+27442046,11,1496128946,2147483647,B,1700,math,Don_1234,Java 8,280,62668800
+27234194,11,1495278809,2147483647,A,1100,constructive algorithms-implementation-math,SpeedOfMagic,Java 8,280,3584000
+27226790,11,1495247681,2147483647,E,2800,binary search-dp-greedy,tbuzzelli,Java 8,966,3686400
+27182220,11,1495032898,2147483647,A,1100,constructive algorithms-implementation-math,SysOut,Java 8,248,3481600
+26950941,11,1494221765,2147483647,A,1100,constructive algorithms-implementation-math,Don_1234,Java 8,216,21401600
+26909744,11,1494101450,2147483647,D,2200,bitmasks-dp-graphs,pitfall,Java 8,967,133529600
+26909599,11,1494100766,2147483647,B,1700,math,pitfall,Java 8,218,3481600
+26166947,11,1491474957,2147483647,A,1100,constructive algorithms-implementation-math,peanpee,Java 8,372,26214400
+25807567,11,1490480705,2147483647,B,1700,math,rajn,Java 8,280,26214400
+25675574,11,1490039289,2147483647,B,1700,math,Noureldin,Java 8,218,26009600
+25601826,11,1489844798,2147483647,D,2200,bitmasks-dp-graphs,Ahmad_Elsagheer,Java 8,1949,252928000
+25410118,11,1489246135,2147483647,B,1700,math,mayurkamaliya,Java 8,278,26214400
+25409864,11,1489245615,2147483647,A,1100,constructive algorithms-implementation-math,mayurkamaliya,Java 8,310,26214400
+24613583,11,1486919792,2147483647,B,1700,math,IrhamMA,Java 8,278,26214400
+24439351,11,1486233506,2147483647,D,2200,bitmasks-dp-graphs,Hoda_Hisham,Java 8,1715,169369600
+24292425,11,1485872682,2147483647,A,1100,constructive algorithms-implementation-math,Sanjay_14BIT009,Java 8,248,26112000
+24253078,11,1485711484,2147483647,D,2200,bitmasks-dp-graphs,Kharouba,Java 8,1513,155750400
+23992421,11,1484926227,2147483647,D,2200,bitmasks-dp-graphs,RAMBO_tejasv,Java 8,888,169267200
+23984312,11,1484902961,2147483647,D,2200,bitmasks-dp-graphs,Gujjar95,Java 8,1028,180019200
+23632270,11,1483810661,2147483647,A,1100,constructive algorithms-implementation-math,Togrul_Gasimov,Java 8,248,26112000
+23489680,11,1483301314,2133,A,1100,constructive algorithms-implementation-math,Utsav27,Java 8,342,26316800
+23264972,11,1482560714,2147483647,A,1100,constructive algorithms-implementation-math,ishanchawla,Java 8,312,26521600
+23223191,11,1482405788,2147483647,A,1100,constructive algorithms-implementation-math,wchhlbt,Java 8,436,26214400
+23080771,11,1482052861,2147483647,A,1100,constructive algorithms-implementation-math,rizqyfaishal272,Java 8,218,3584000
+23038651,11,1481945748,2147483647,A,1100,constructive algorithms-implementation-math,BiIIy,Java 8,310,3686400
+23032769,11,1481901166,2147483647,D,2200,bitmasks-dp-graphs,bhishma,Java 8,919,146636800
+23032045,11,1481899254,2147483647,D,2200,bitmasks-dp-graphs,bhishma,Java 8,841,146636800
+22851191,11,1481359347,2147483647,A,1100,constructive algorithms-implementation-math,vksom,Java 8,280,3686400
+22610093,11,1480451807,2147483647,A,1100,constructive algorithms-implementation-math,poco,Java 8,186,3584000
+22600955,11,1480430329,2147483647,A,1100,constructive algorithms-implementation-math,harish.sharma,Java 8,186,3276800
+22494238,11,1480093603,2147483647,A,1100,constructive algorithms-implementation-math,Silumgar,Java 8,310,3686400
+22138459,11,1478722769,2147483647,C,2200,implementation,M-o-M,Java 8,1466,3891200
+22107612,11,1478590900,2147483647,B,1700,math,M-o-M,Java 8,216,3686400
+22084761,11,1478464212,2147483647,A,1100,constructive algorithms-implementation-math,TheRedLegend,Java 8,186,3481600
+21949589,11,1477943567,2147483647,A,1100,constructive algorithms-implementation-math,pitfall,Java 8,186,4198400
+20824330,11,1474568453,2147483647,A,1100,constructive algorithms-implementation-math,anuj64,Java 8,186,3481600
+20789648,11,1474443615,2147483647,B,1700,math,Ahmad_Elsagheer,Java 8,186,3174400
+20754716,11,1474287780,2147483647,B,1700,math,lehar,Java 8,248,3584000
+20753902,11,1474285887,2147483647,A,1100,constructive algorithms-implementation-math,lehar,Java 8,278,3686400
+20635258,11,1473928304,2147483647,A,1100,constructive algorithms-implementation-math,KimoKomo,Java 8,248,3686400
+20468806,11,1473368946,2147483647,A,1100,constructive algorithms-implementation-math,gw111zz,Java 8,280,3686400
+20401467,11,1473084204,2147483647,A,1100,constructive algorithms-implementation-math,vjudge3,Java 8,218,3686400
+20390240,11,1473025421,2147483647,A,1100,constructive algorithms-implementation-math,MohammadAmjad,Java 8,216,3481600
+20290795,11,1472594415,2147483647,D,2200,bitmasks-dp-graphs,mkirsche,Java 8,1450,135372800
+20215592,11,1472403175,2147483647,D,2200,bitmasks-dp-graphs,omarfarhat97,Java 8,936,157388800
+20215144,11,1472401287,2147483647,D,2200,bitmasks-dp-graphs,omarfarhat97,Java 8,826,157388800
+20162064,11,1472151774,2147483647,A,1100,constructive algorithms-implementation-math,Yazeed96,Java 8,218,26316800
+20083912,11,1471951034,2147483647,D,2200,bitmasks-dp-graphs,joujita,Java 8,935,169369600
+19853557,11,1471102884,2147483647,D,2200,bitmasks-dp-graphs,shirshbansal,Java 8,1278,169164800
+19787147,11,1470930455,2147483647,B,1700,math,Hazemzz,Java 8,186,26009600
+19599946,11,1470235176,2147483647,D,2200,bitmasks-dp-graphs,Omar_Morsi,Java 8,1825,146636800
+19598064,11,1470229281,2147483647,A,1100,constructive algorithms-implementation-math,aashay.mail,Java 8,248,3686400
+19282686,11,1469024915,2147483647,D,2200,bitmasks-dp-graphs,rsvarinskis,Java 8,1106,143052800
+19218662,11,1468868985,2147483647,A,1100,constructive algorithms-implementation-math,JavaKurious,Java 8,248,3686400
+18911753,11,1467781481,2147483647,D,2200,bitmasks-dp-graphs,poikniok,Java 8,1247,78028800
+18911729,11,1467781400,2147483647,D,2200,bitmasks-dp-graphs,poikniok,Java 8,1715,78028800
+18911675,11,1467781121,2147483647,D,2200,bitmasks-dp-graphs,poikniok,Java 8,1465,77926400
+18768622,11,1467123666,2147483647,A,1100,constructive algorithms-implementation-math,osama.alb96,Java 8,248,3481600
+17980987,11,1463580456,2147483647,A,1100,constructive algorithms-implementation-math,danuwfna,Java 8,216,26112000
+17816559,11,1462778054,2147483647,A,1100,constructive algorithms-implementation-math,system121,Java 7,216,38707200
+17813518,11,1462749067,2147483647,A,1100,constructive algorithms-implementation-math,Imaginary,Java 8,248,26214400
+17717562,11,1462449991,2147483647,A,1100,constructive algorithms-implementation-math,OWSA,Java 7,248,38912000
+17717522,11,1462449801,2147483647,A,1100,constructive algorithms-implementation-math,OWSA,Java 7,466,39014400
+17555696,11,1461861422,2147483647,B,1700,math,zulkan,Java 7,342,39014400
+17393972,11,1461119222,2147483647,C,2200,implementation,mkirsche,Java 8,528,26828800
+17391172,11,1461090972,2147483647,E,2800,binary search-dp-greedy,mkirsche,Java 8,468,33484800
+17391128,11,1461090630,2147483647,E,2800,binary search-dp-greedy,mkirsche,Java 8,278,36966400
+16967868,11,1459068105,2147483647,A,1100,constructive algorithms-implementation-math,neroargos,Java 7,278,39116800
+16829330,11,1458434351,2147483647,B,1700,math,kocko,Java 8,186,26009600
+16778004,11,1458289911,2147483647,A,1100,constructive algorithms-implementation-math,AJ_Coder,Java 7,248,0
+16523097,11,1457124589,2147483647,A,1100,constructive algorithms-implementation-math,Basma_1412,Java 7,280,0
+16406109,11,1456675725,2147483647,D,2200,bitmasks-dp-graphs,mkirsche,Java 7,1326,147968000
+15960104,11,1455209245,2147483647,A,1100,constructive algorithms-implementation-math,SakHaux,Java 8,342,0
+15925443,11,1455087734,2147483647,A,1100,constructive algorithms-implementation-math,kavsub,Java 7,248,0
+15895239,11,1454933795,2147483647,A,1100,constructive algorithms-implementation-math,Don_Vader_is_Me,Java 7,280,0
+15343384,11,1452771390,2147483647,A,1100,constructive algorithms-implementation-math,Zlobber,Java 8,280,0
+15331731,11,1452693405,2147483647,A,1100,constructive algorithms-implementation-math,Zlobber,Java 8,280,0
+15331705,11,1452693290,2147483647,A,1100,constructive algorithms-implementation-math,Zlobber,Java 8,310,0
+15220630,11,1452141105,2147483647,A,1100,constructive algorithms-implementation-math,safarisoul,Java 8,278,0
+15197063,11,1452028451,2147483647,D,2200,bitmasks-dp-graphs,tomdmitriev,Java 8,842,155955200
+15155389,11,1451715204,2147483647,A,1100,constructive algorithms-implementation-math,.counter,Java 8,280,0
+15151147,11,1451671213,2147483647,A,1100,constructive algorithms-implementation-math,Pravala,Java 8,280,0
+14920288,11,1450754384,2147483647,A,1100,constructive algorithms-implementation-math,partha_sarathi,Java 8,280,0
+14903960,11,1450639943,2147483647,A,1100,constructive algorithms-implementation-math,slicedclementines,Java 8,342,0
+14699359,11,1449584812,2147483647,A,1100,constructive algorithms-implementation-math,Infinity25,Java 8,280,0
+14686222,11,1449493210,2147483647,C,2200,implementation,Green_Hand,Java 7,1372,102400
+14685247,11,1449487400,2147483647,A,1100,constructive algorithms-implementation-math,.counter,Java 8,340,0
+14684254,11,1449480827,2147483647,B,1700,math,.counter,Java 8,248,0
+14683752,11,1449476660,2147483647,B,1700,math,Infinity25,Java 8,248,0
+14606828,11,1448997872,2147483647,B,1700,math,googy,Java 8,248,0
+14536505,11,1448695893,2147483647,A,1100,constructive algorithms-implementation-math,Green_Hand,Java 7,280,0
+14390058,11,1448073366,2147483647,A,1100,constructive algorithms-implementation-math,Ahmadjon,Java 7,248,0
+14054280,11,1446629238,2147483647,A,1100,constructive algorithms-implementation-math,perillasy,Java 8,280,0
+14029854,11,1446478628,2147483647,D,2200,bitmasks-dp-graphs,adnanutayim,Java 8,841,155955200
+14029449,11,1446477229,2147483647,D,2200,bitmasks-dp-graphs,issahaddar5,Java 8,779,155955200
+14004887,11,1446372095,2147483647,D,2200,bitmasks-dp-graphs,trainingtmp,Java 7,1106,144384000
+14004822,11,1446371879,2147483647,D,2200,bitmasks-dp-graphs,trainingtmp,Java 7,1076,144384000
+13971939,11,1446300057,2147483647,A,1100,constructive algorithms-implementation-math,kocko,Java 8,312,0
+13539467,11,1444527296,2147483647,D,2200,bitmasks-dp-graphs,ATailouloute,Java 7,779,144588800
+13498088,11,1444325103,2147483647,A,1100,constructive algorithms-implementation-math,hsnprsd,Java 7,186,0
+13322909,11,1443648323,2147483647,A,1100,constructive algorithms-implementation-math,eslammb,Java 8,404,0
+13312064,11,1443609994,2147483647,A,1100,constructive algorithms-implementation-math,eslambahgat,Java 8,404,0
+13220927,11,1443194126,2147483647,A,1100,constructive algorithms-implementation-math,Geno1024,Java 8,280,0
+13004541,11,1442305922,2147483647,A,1100,constructive algorithms-implementation-math,fares,Java 7,186,0
+12848292,11,1441430716,2147483647,A,1100,constructive algorithms-implementation-math,dedo,Java 8,280,0
+12733297,11,1440778456,2147483647,A,1100,constructive algorithms-implementation-math,Eran,Java 8,218,0
+12690885,11,1440469933,2147483647,A,1100,constructive algorithms-implementation-math,lajjyboy,Java 7,218,0
+12307388,11,1438458887,2147483647,A,1100,constructive algorithms-implementation-math,.tx,Java 8,218,0
+12107614,11,1437233565,2147483647,D,2200,bitmasks-dp-graphs,radical,Java 8,1106,158003200
+12107606,11,1437233513,2147483647,D,2200,bitmasks-dp-graphs,radical,Java 8,966,158105600
+11938900,11,1436124754,2147483647,A,1100,constructive algorithms-implementation-math,redviper,Java 8,310,0
+11776982,11,1435351109,2147483647,A,1100,constructive algorithms-implementation-math,catchup,Java 8,310,0
+11764797,11,1435259413,2147483647,A,1100,constructive algorithms-implementation-math,d40a,Java 8,312,0
+11696269,11,1434888513,2147483647,E,2800,binary search-dp-greedy,Slayer_29,Java 8,342,9728000
+11668921,11,1434719950,2147483647,A,1100,constructive algorithms-implementation-math,Hartha,Java 7,156,0
+11452819,11,1433543822,2147483647,A,1100,constructive algorithms-implementation-math,MostafaAbdullah,Java 7,186,0
+11452638,11,1433541754,2147483647,A,1100,constructive algorithms-implementation-math,Ahmad_Elsagheer,Java 8,310,0
+11441775,11,1433486833,1333,A,1100,constructive algorithms-implementation-math,amccoder,Java 7,216,0
+11437364,11,1433453115,2147483647,A,1100,constructive algorithms-implementation-math,sweiss,Java 8,248,0
+11411126,11,1433406273,2147483647,A,1100,constructive algorithms-implementation-math,IrhamMA,Java 7,218,0
+11355826,11,1432983402,2147483647,B,1700,math,chqianu,Java 7,186,0
+11354867,11,1432977156,2147483647,A,1100,constructive algorithms-implementation-math,chqianu,Java 7,218,0
+11173629,11,1432103538,2147483647,A,1100,constructive algorithms-implementation-math,aakashkhatri,Java 7,154,0
+11145275,11,1432046338,2147483647,A,1100,constructive algorithms-implementation-math,m.khooryani,Java 7,154,0
+11140123,11,1432006294,2147483647,B,1700,math,poikniok,Java 8,218,0
+11127246,11,1431871243,2147483647,A,1100,constructive algorithms-implementation-math,SuperHyperUltraExtraNooB,Java 8,342,0
+10924218,11,1430267003,2147483647,E,2800,binary search-dp-greedy,ProjectYoung,Java 8,622,40857600
+10919686,11,1430229117,2147483647,D,2200,bitmasks-dp-graphs,ProjectYoung,Java 8,810,188518400
+10849062,11,1429889804,2147483647,C,2200,implementation,dspstanky,Java 7,560,49868800
+10816711,11,1429650835,2147483647,E,2800,binary search-dp-greedy,dspstanky,Java 7,218,50073600
+10813125,11,1429635454,2147483647,D,2200,bitmasks-dp-graphs,dspstanky,Java 7,1668,192716800
+10662159,11,1428807065,2147483647,B,1700,math,dspstanky,Java 7,156,0
+10610808,11,1428313590,2147483647,A,1100,constructive algorithms-implementation-math,georgy.ivanov,Java 8,310,0
+10608153,11,1428295027,2147483647,A,1100,constructive algorithms-implementation-math,vjudge2,Java 7,218,0
+10602613,11,1428241830,2147483647,A,1100,constructive algorithms-implementation-math,vjudge5,Java 8,280,0
+10602612,11,1428241827,2147483647,A,1100,constructive algorithms-implementation-math,vjudge3,Java 8,280,0
+10563075,11,1428084631,2147483647,A,1100,constructive algorithms-implementation-math,dspstanky,Java 7,248,0
+10545925,11,1427921661,2147483647,D,2200,bitmasks-dp-graphs,Dukkha,Java 8,732,40140800
+10538064,11,1427856159,2147483647,A,1100,constructive algorithms-implementation-math,stoneman3,Java 8,342,0
+10535709,11,1427823899,2147483647,B,1700,math,Bottleface,Java 8,280,0
+10535679,11,1427823659,2147483647,B,1700,math,knelson,Java 8,216,0
+10535672,11,1427823605,2147483647,B,1700,math,akri,Java 8,248,0
+10535638,11,1427823395,2147483647,B,1700,math,SlapHappySid,Java 7,184,0
+10535564,11,1427822899,2147483647,A,1100,constructive algorithms-implementation-math,grymn,Java 7,186,0
+10535499,11,1427822428,2147483647,B,1700,math,robdraven,Java 8,280,0
+10535440,11,1427821978,2147483647,A,1100,constructive algorithms-implementation-math,numnuts,Java 8,280,0
+10535434,11,1427821926,2147483647,B,1700,math,deckeresq,Java 8,218,0
+10535432,11,1427821904,2147483647,A,1100,constructive algorithms-implementation-math,akri,Java 8,310,0
+10535421,11,1427821815,2147483647,A,1100,constructive algorithms-implementation-math,BeastPansy,Java 8,310,0
+10535347,11,1427821294,2147483647,A,1100,constructive algorithms-implementation-math,knelson,Java 8,248,0
+10535341,11,1427821256,2147483647,A,1100,constructive algorithms-implementation-math,SlapHappySid,Java 7,218,0
+10535254,11,1427820848,2147483647,A,1100,constructive algorithms-implementation-math,robdraven,Java 8,280,0
+10535238,11,1427820791,2147483647,A,1100,constructive algorithms-implementation-math,Bottleface,Java 8,310,0
+10535227,11,1427820711,2147483647,A,1100,constructive algorithms-implementation-math,sellout1,Java 7,186,0
+10535216,11,1427820654,2147483647,B,1700,math,makeyouparrish,Java 8,248,0
+10535149,11,1427820293,2147483647,A,1100,constructive algorithms-implementation-math,bobbytables,Java 8,278,0
+10535142,11,1427820253,2147483647,A,1100,constructive algorithms-implementation-math,erdromian,Java 8,218,0
+10535123,11,1427820157,2147483647,A,1100,constructive algorithms-implementation-math,deckeresq,Java 8,248,0
+10535098,11,1427820030,2147483647,A,1100,constructive algorithms-implementation-math,makeyouparrish,Java 8,218,0
+10533521,11,1427808304,2147483647,A,1100,constructive algorithms-implementation-math,nguyenmanhphuc,Java 7,216,0
+10510088,11,1427591340,2147483647,C,2200,implementation,Dukkha,Java 8,340,0
+10509102,11,1427577219,2147483647,B,1700,math,Dukkha,Java 8,248,0
+10508899,11,1427575330,2147483647,A,1100,constructive algorithms-implementation-math,Dukkha,Java 8,216,0
+10342150,11,1426705951,2147483647,C,2200,implementation,ProjectYoung,Java 8,686,1024000
+10342012,11,1426705118,2147483647,C,2200,implementation,ProjectYoung,Java 8,686,0
+10331897,11,1426648163,2147483647,A,1100,constructive algorithms-implementation-math,chuongk,Java 8,310,0
+10289936,11,1426429313,2147483647,B,1700,math,ProjectYoung,Java 8,280,0
+10257408,11,1426249578,1578,B,1700,math,ProjectYoung,Java 8,280,0
+10257162,11,1426248302,302,A,1100,constructive algorithms-implementation-math,ProjectYoung,Java 8,310,0
+10123106,11,1425317893,2147483647,A,1100,constructive algorithms-implementation-math,himanshubhardwaj169,Java 8,310,0
+9973461,11,1424721828,2147483647,A,1100,constructive algorithms-implementation-math,RezaCompress,Java 7,186,0
+9970742,11,1424705517,2147483647,A,1100,constructive algorithms-implementation-math,thabetx,Java 8,248,0
+9662852,11,1422777758,2147483647,A,1100,constructive algorithms-implementation-math,poikniok,Java 8,218,0
+9598103,11,1422426410,2147483647,A,1100,constructive algorithms-implementation-math,Sarah.Gad,Java 7,218,0
+9536835,11,1422094889,2147483647,A,1100,constructive algorithms-implementation-math,kubusgol,Java 8,312,0
+9286733,11,1419707299,2147483647,E,2800,binary search-dp-greedy,halyavin,Java 8,966,0
+9274649,11,1419590661,2147483647,E,2800,binary search-dp-greedy,Mintoo,Java 6,186,0
+9274624,11,1419590398,2147483647,E,2800,binary search-dp-greedy,Mintoo,Java 6,216,0
+9270049,11,1419528289,2147483647,A,1100,constructive algorithms-implementation-math,TranCongDuy,Java 6,154,0
+9215053,11,1419162433,2147483647,A,1100,constructive algorithms-implementation-math,ashutosh907,Java 6,218,0
+9078063,11,1418275075,2147483647,A,1100,constructive algorithms-implementation-math,stevegregg,Java 6,218,0
+8985742,11,1417726055,2147483647,D,2200,bitmasks-dp-graphs,halyavin,Java 8,904,56934400
+8985504,11,1417723580,2147483647,C,2200,implementation,halyavin,Java 8,1744,7884800
+8985275,11,1417721648,2147483647,B,1700,math,halyavin,Java 8,374,102400
+8985216,11,1417721132,2147483647,A,1100,constructive algorithms-implementation-math,halyavin,Java 8,466,1536000
+8952510,11,1417611869,2147483647,B,1700,math,NiceDay,Java 8,310,0
+8898397,11,1417354425,2147483647,A,1100,constructive algorithms-implementation-math,NiceDay,Java 8,342,0
+8877987,11,1417173313,2147483647,A,1100,constructive algorithms-implementation-math,Bernoulli,Java 7,280,102400
+8877940,11,1417172972,2147483647,A,1100,constructive algorithms-implementation-math,AbdullahAhmed16,Java 7,278,102400
+8871117,11,1417100570,2147483647,B,1700,math,jia199474,Java 7,186,0
+8771280,11,1416550852,2147483647,A,1100,constructive algorithms-implementation-math,Darmen,Java 6,186,102400
+8760931,11,1416463637,2147483647,A,1100,constructive algorithms-implementation-math,amanchik,Java 7,154,0
+8701821,11,1416048818,2147483647,A,1100,constructive algorithms-implementation-math,robert_nabil20022002,Java 7,218,0
+8695494,11,1415981056,2147483647,A,1100,constructive algorithms-implementation-math,vjudge1,Java 7,218,0
+8560148,11,1415203793,2147483647,B,1700,math,shishu94,Java 6,186,0
+8556120,11,1415179787,2147483647,A,1100,constructive algorithms-implementation-math,shishu94,Java 6,218,0
+8520581,11,1414913938,2147483647,A,1100,constructive algorithms-implementation-math,bullshit.ass,Java 6,310,0
+8519922,11,1414906335,2147483647,B,1700,math,vjudge4,Java 7,154,0
+8519201,11,1414893821,2147483647,A,1100,constructive algorithms-implementation-math,vjudge2,Java 7,154,0
+8500115,11,1414775673,2147483647,A,1100,constructive algorithms-implementation-math,archu.aspa,Java 6,184,0
+8476880,11,1414655828,2147483647,A,1100,constructive algorithms-implementation-math,bullshit.ass,Java 8,528,1638400
+8476704,11,1414654029,2147483647,A,1100,constructive algorithms-implementation-math,bullshit.ass,Java 6,154,0
+8367026,11,1414065922,2147483647,D,2200,bitmasks-dp-graphs,darrensun,Java 7,2090,145203200
+8351724,11,1413981793,2147483647,E,2800,binary search-dp-greedy,darrensun,Java 7,280,2457600
+8348844,11,1413959381,2147483647,D,2200,bitmasks-dp-graphs,darrensun,Java 7,1932,145100800
+8341701,11,1413895031,2147483647,C,2200,implementation,darrensun,Java 7,280,3379200
+8341447,11,1413893935,2147483647,C,2200,implementation,darrensun,Java 7,592,3379200
+8337715,11,1413869748,2147483647,B,1700,math,darrensun,Java 7,154,0
+8337504,11,1413867760,2147483647,A,1100,constructive algorithms-implementation-math,darrensun,Java 7,154,0
+8135674,11,1412733477,2147483647,A,1100,constructive algorithms-implementation-math,N1amr,Java 7,186,0
+7809230,11,1410871569,2147483647,B,1700,math,di_halt,Java 7,154,0
+7567555,11,1408893599,2147483647,D,2200,bitmasks-dp-graphs,Fouzelddin,Java 7,1840,181248000
+7506937,11,1408439025,2147483647,A,1100,constructive algorithms-implementation-math,KillerCage,Java 7,248,204800
+7414644,11,1407684211,2147483647,A,1100,constructive algorithms-implementation-math,Mefodii,Java 7,186,102400
+7355156,11,1407261525,2147483647,A,1100,constructive algorithms-implementation-math,SupreMo,Java 7,218,0
+7332616,11,1407008203,2147483647,A,1100,constructive algorithms-implementation-math,wrestler,Java 8,498,1331200
+7184823,11,1405842149,2147483647,A,1100,constructive algorithms-implementation-math,tinneminy,Java 6,280,0
+7002285,11,1404370174,2147483647,B,1700,math,pikaynu,Java 7,124,0
+7001608,11,1404369725,2147483647,A,1100,constructive algorithms-implementation-math,csflily,Java 6,186,0
+6942781,11,1403447459,2147483647,B,1700,math,OnceMoreTime,Java 7,186,0
+6937752,11,1403359130,2147483647,B,1700,math,marcose18,Java 7,184,0
+6740721,11,1401458998,2147483647,A,1100,constructive algorithms-implementation-math,ihs,Java 7,186,0
+6739169,11,1401440476,2147483647,A,1100,constructive algorithms-implementation-math,sokogoru,Java 7,216,0
+6635286,11,1400227240,2147483647,A,1100,constructive algorithms-implementation-math,arctic1k,Java 7,216,0
+6617322,11,1400097528,2147483647,A,1100,constructive algorithms-implementation-math,HandleThis,Java 6,218,0
+6558546,11,1399310308,2147483647,A,1100,constructive algorithms-implementation-math,2shraaf,Java 7,154,0
+6438344,11,1398146830,2147483647,A,1100,constructive algorithms-implementation-math,magzhan,Java 7,186,102400
+6358500,11,1397497020,2147483647,B,1700,math,larvaboy,Java 7,154,0
+6358488,11,1397496883,2147483647,B,1700,math,larvaboy,Java 7,124,0
+6352954,11,1397460012,2147483647,A,1100,constructive algorithms-implementation-math,larvaboy,Java 7,218,102400
+6147462,11,1395836194,2147483647,A,1100,constructive algorithms-implementation-math,ilovealyona,Java 7,216,102400
+6132658,11,1395680977,2147483647,B,1700,math,tomash_em,Java 7,154,0
+5958168,11,1394208246,2147483647,A,1100,constructive algorithms-implementation-math,turingcomplete,Java 7,154,0
+5952984,11,1394130289,2147483647,A,1100,constructive algorithms-implementation-math,jakabfia,Java 7,154,0
+5948786,11,1394090489,2147483647,A,1100,constructive algorithms-implementation-math,haowch,Java 6,186,102400
+5901688,11,1391587820,2147483647,A,1100,constructive algorithms-implementation-math,bananaprince,Java 7,124,0
+5893989,11,1391508416,2147483647,A,1100,constructive algorithms-implementation-math,antitarget,Java 6,218,102400
+5859055,11,1391196356,2147483647,A,1100,constructive algorithms-implementation-math,NoCakeNoCode,Java 7,186,0
+5806633,11,1390659030,2147483647,A,1100,constructive algorithms-implementation-math,greyhaze,Java 6,186,102400
+5802098,11,1390618097,2147483647,A,1100,constructive algorithms-implementation-math,pvpcrusader,Java 7,218,102400
+5693317,11,1389744155,2147483647,A,1100,constructive algorithms-implementation-math,tomash_em,Java 7,186,102400
+5496923,11,1387800332,2147483647,A,1100,constructive algorithms-implementation-math,tomdmitriev,Java 7,124,0
+5496324,11,1387791301,2147483647,A,1100,constructive algorithms-implementation-math,porepore1984,Java 7,92,0
+5454432,11,1387273120,2147483647,C,2200,implementation,surenot,Java 7,498,204800
+5445700,11,1387117946,2147483647,A,1100,constructive algorithms-implementation-math,Rabee,Java 7,124,0
+5440325,11,1387036237,2147483647,C,2200,implementation,nevgivin,Java 7,498,409600
+5118408,11,1384528592,2147483647,C,2200,implementation,DeathMoon,Java 7,592,3379200
+5018379,11,1383769018,2147483647,A,1100,constructive algorithms-implementation-math,omtcyf0,Java 7,218,102400
+4931812,11,1383106648,2147483647,D,2200,bitmasks-dp-graphs,miguelmaurizio,Java 7,811,145100800
+4921501,11,1382971407,2147483647,D,2200,bitmasks-dp-graphs,alibaba,Java 6,1388,228966400
+4901677,11,1382784946,2147483647,B,1700,math,alibaba,Java 6,156,0
+4858231,11,1382607956,2147483647,B,1700,math,cupcup,Java 7,186,0
+4857568,11,1382601305,2147483647,A,1100,constructive algorithms-implementation-math,cupcup,Java 7,156,0
+4813085,11,1382006993,2147483647,A,1100,constructive algorithms-implementation-math,vjudge4,Java 7,186,0
+4762241,11,1381616451,2147483647,E,2800,binary search-dp-greedy,bendyna.ivan,Java 7,872,2355200
+4713774,11,1381303030,2147483647,B,1700,math,mr_caos,Java 7,186,0
+4709370,11,1381244375,2147483647,A,1100,constructive algorithms-implementation-math,mr_caos,Java 7,218,102400
+4683330,11,1381003032,2147483647,D,2200,bitmasks-dp-graphs,bendyna.ivan,Java 7,1746,182784000
+4642314,11,1380726274,2147483647,A,1100,constructive algorithms-implementation-math,Sokolov,Java 7,156,0
+4613721,11,1380557169,2147483647,A,1100,constructive algorithms-implementation-math,alibaba,Java 6,156,0
+4530021,11,1379762108,6848,C,2200,implementation,bendyna.ivan,Java 7,1060,307200
+4529168,11,1379756623,1363,B,1700,math,bendyna.ivan,Java 7,156,0
+4529048,11,1379755789,529,A,1100,constructive algorithms-implementation-math,bendyna.ivan,Java 7,156,0
+4446734,11,1378962500,2147483647,B,1700,math,vvenkai,Java 7,156,0
+4407947,11,1378360326,2147483647,B,1700,math,Akzhol,Java 6,186,0
+4407780,11,1378354945,2147483647,A,1100,constructive algorithms-implementation-math,Akzhol,Java 6,218,102400
+4406152,11,1378311860,2147483647,A,1100,constructive algorithms-implementation-math,Togrul-BSU,Java 7,156,0
+4406115,11,1378311113,2147483647,A,1100,constructive algorithms-implementation-math,Togrul-BSU,Java 7,156,0
+4353019,11,1377544091,2147483647,B,1700,math,Zyflair,Java 7,156,0
+4352992,11,1377543906,2147483647,A,1100,constructive algorithms-implementation-math,Zyflair,Java 7,156,0
+4326947,11,1377216080,2147483647,A,1100,constructive algorithms-implementation-math,travm12,Java 7,218,102400
+4324310,11,1377180353,2147483647,A,1100,constructive algorithms-implementation-math,vvenkai,Java 7,156,0
+4283869,11,1376604256,2147483647,A,1100,constructive algorithms-implementation-math,MaxMiller,Java 7,218,102400
+4278748,11,1376499252,2147483647,A,1100,constructive algorithms-implementation-math,atinjca,Java 7,156,0
+4263136,11,1376176307,2147483647,B,1700,math,ssohn,Java 7,156,0
+4263116,11,1376174990,2147483647,A,1100,constructive algorithms-implementation-math,ssohn,Java 7,156,0
+4243766,11,1375967084,2147483647,A,1100,constructive algorithms-implementation-math,ali_hasan,Java 6,218,102400
+4147307,11,1374670017,2147483647,A,1100,constructive algorithms-implementation-math,akashm,Java 6,109,102400
+4142276,11,1374599215,5095,D,2200,bitmasks-dp-graphs,qwerty787788,Java 7,1500,141619200
+4142015,11,1374595649,1529,B,1700,math,qwerty787788,Java 7,78,0
+4141934,11,1374594293,173,A,1100,constructive algorithms-implementation-math,qwerty787788,Java 7,78,0
+3961344,11,1372187254,2147483647,A,1100,constructive algorithms-implementation-math,manishiitj,Java 6,78,0
+3955938,11,1372084036,2147483647,C,2200,implementation,TangJie,Java 7,437,2560000
+3929031,11,1371737870,2147483647,A,1100,constructive algorithms-implementation-math,sonhuytran,Java 7,125,102400
+3823640,11,1370407993,2147483647,A,1100,constructive algorithms-implementation-math,0p9o8i,Java 7,125,102400
+3792693,11,1369878920,2147483647,A,1100,constructive algorithms-implementation-math,allegea,Java 7,109,0
+3792680,11,1369878603,2147483647,A,1100,constructive algorithms-implementation-math,sfmunera,Java 6,93,0
+3792648,11,1369878026,2147483647,A,1100,constructive algorithms-implementation-math,santjuan,Java 7,93,0
+3260765,11,1362624296,2147483647,A,1100,constructive algorithms-implementation-math,Maikol1804,Java 7,125,102400
+3260730,11,1362623445,2147483647,A,1100,constructive algorithms-implementation-math,rickster,Java 7,125,102400
+3260709,11,1362622908,2147483647,A,1100,constructive algorithms-implementation-math,FabianConP,Java 6,78,0
+3260596,11,1362619033,2147483647,A,1100,constructive algorithms-implementation-math,fabiankasUN,Java 6,93,0
+3234881,11,1362322814,2147483647,B,1700,math,mkirsche,Java 6,109,0
+3221841,11,1362102709,2147483647,B,1700,math,su_58,Java 6,125,0
+3109235,11,1360692080,2147483647,A,1100,constructive algorithms-implementation-math,CurbStomp,Java 7,78,0
+2957428,11,1358531460,2147483647,A,1100,constructive algorithms-implementation-math,CrawniX,Java 7,124,102400
+2903492,11,1357850021,2147483647,A,1100,constructive algorithms-implementation-math,Pshenichnoe,Java 7,93,0
+2885184,11,1357650702,2147483647,A,1100,constructive algorithms-implementation-math,xamxam23,Java 6,125,102400
+2833248,11,1356615678,2147483647,D,2200,bitmasks-dp-graphs,hama-du,Java 6,1248,40550400
+2831450,11,1356575953,2147483647,D,2200,bitmasks-dp-graphs,hs484,Java 6,1890,198451200
+2822602,11,1356357844,2147483647,B,1700,math,vineet.paliwal,Java 7,78,0
+2822598,11,1356357754,2147483647,A,1100,constructive algorithms-implementation-math,vineet.paliwal,Java 7,78,0
+2822138,11,1356348950,2147483647,B,1700,math,vjudge1,Java 6,78,0
+2821955,11,1356345447,2147483647,A,1100,constructive algorithms-implementation-math,vjudge2,Java 6,78,0
+2805340,11,1356152213,2393,B,1700,math,hama-du,Java 6,109,2252800
+2805294,11,1356150117,297,A,1100,constructive algorithms-implementation-math,hama-du,Java 6,93,0
+2803797,11,1356094697,2147483647,A,1100,constructive algorithms-implementation-math,mkirsche,Java 6,109,2457600
+2672614,11,1354104691,2147483647,B,1700,math,mingotlik,Java 7,93,0
+2672117,11,1354096481,2081,A,1100,constructive algorithms-implementation-math,mingotlik,Java 7,78,204800
+2654817,11,1353877603,2147483647,A,1100,constructive algorithms-implementation-math,Spellbound,Java 6,125,102400
+2522959,11,1352386014,2147483647,A,1100,constructive algorithms-implementation-math,su_58,Java 7,93,0
+2522020,11,1352366401,2147483647,A,1100,constructive algorithms-implementation-math,su_58,Java 7,93,0
+2468590,11,1351538977,2147483647,A,1100,constructive algorithms-implementation-math,Tin_Tin,Java 6,125,102400
+2409177,11,1350916270,2147483647,D,2200,bitmasks-dp-graphs,Ahmed_Salama,Java 6,2578,146739200
+2391582,11,1350760044,2147483647,A,1100,constructive algorithms-implementation-math,blackt,Java 6,78,102400
+2300010,11,1349368415,2147483647,A,1100,constructive algorithms-implementation-math,hanifnaufal,Java 7,109,0
+2263488,11,1348771385,2147483647,B,1700,math,PrivateSub,Java 6,109,0
+2263485,11,1348771371,2147483647,A,1100,constructive algorithms-implementation-math,PrivateSub,Java 6,125,102400
+2171137,11,1347693271,2147483647,A,1100,constructive algorithms-implementation-math,lemonsuper,Java 7,140,45772800
+2132008,11,1347348772,2147483647,A,1100,constructive algorithms-implementation-math,HuaNaaFC,Java 6,160,43315200
+2094290,11,1346731758,2147483647,A,1100,constructive algorithms-implementation-math,HuaNaaFC,Java 6,110,45158400
+2092379,11,1346666955,2147483647,B,1700,math,HuaNaaFC,Java 6,90,45056000
+2049205,11,1345938335,2147483647,D,2200,bitmasks-dp-graphs,Ahmed.Ibrahem,Java 6,2360,190873600
+2047164,11,1345832840,2147483647,D,2200,bitmasks-dp-graphs,m.radwan,Java 6,1470,190054400
+1944683,11,1343392756,2147483647,D,2200,bitmasks-dp-graphs,Azat_Yusupov,Java 6,1510,188518400
+1944300,11,1343382255,2147483647,A,1100,constructive algorithms-implementation-math,di_halt,Java 6,160,43315200
+1920926,11,1342919944,2147483647,A,1100,constructive algorithms-implementation-math,fxpo,Java 6,170,43417600
+1786522,11,1339450241,2147483647,A,1100,constructive algorithms-implementation-math,nickbuelich,Java 6,170,43315200
+1752276,11,1338663120,2147483647,B,1700,math,k_programmer,Java 6,80,43110400
+1706300,11,1337521266,2147483647,B,1700,math,bidzilya,Java 7,90,44851200
+1700365,11,1337309220,2147483647,D,2200,bitmasks-dp-graphs,ThiengoDoidao,Java 6,2810,184832000
+1698389,11,1337244533,2147483647,B,1700,math,jiangzhijie,Java 6,80,43110400
+1667391,11,1336371939,2147483647,A,1100,constructive algorithms-implementation-math,bidzilya,Java 7,110,44851200
+1515619,11,1334236170,2147483647,A,1100,constructive algorithms-implementation-math,afrocentrix,Java 6,140,43315200
+1513247,11,1334231975,2147483647,A,1100,constructive algorithms-implementation-math,edem.kwadzo,Java 6,130,43315200
+1496709,11,1333829706,2147483647,A,1100,constructive algorithms-implementation-math,trezo,Java 6,130,43315200
+1496698,11,1333829446,2147483647,A,1100,constructive algorithms-implementation-math,trezo,Java 6,130,43417600
+1388268,11,1332471918,2147483647,A,1100,constructive algorithms-implementation-math,mdd,Java 6,110,43315200
+1385688,11,1332366068,2147483647,A,1100,constructive algorithms-implementation-math,dalia.madkour,Java 6,140,43315200
+1253141,11,1330585392,2147483647,B,1700,math,peking2,Java 6,110,44953600
+1242899,11,1330499905,2147483647,A,1100,constructive algorithms-implementation-math,peking2,Java 6,140,44953600
+1240528,11,1330400241,2147483647,A,1100,constructive algorithms-implementation-math,kenthang,Java 6,90,44953600
+1200992,11,1329557089,2147483647,B,1700,math,Mostafa.Ali,Java 6,90,43212800
+1200889,11,1329555431,2147483647,A,1100,constructive algorithms-implementation-math,Mostafa.Ali,Java 6,110,43315200
+1149921,11,1328385350,2147483647,D,2200,bitmasks-dp-graphs,DoublePointer,Java 6,2410,212275200
+1130684,11,1328100986,2147483647,B,1700,math,Azat_Yusupov,Java 6,130,43110400
+1127406,11,1327948041,441,A,1100,constructive algorithms-implementation-math,Azat_Yusupov,Java 6,130,43212800
+1126565,11,1327913508,2147483647,A,1100,constructive algorithms-implementation-math,jcomputer000,Java 6,130,43212800
+1120853,11,1327675294,2147483647,B,1700,math,todo,Java 6,110,43110400
+1115602,11,1327437248,2147483647,A,1100,constructive algorithms-implementation-math,todo,Java 6,110,43315200
+1045997,11,1326596226,2147483647,B,1700,math,ilovepink,Java 6,90,43212800
+1045876,11,1326588355,2147483647,A,1100,constructive algorithms-implementation-math,Venom,Java 6,80,43212800
+1010186,11,1325701178,578,A,1100,constructive algorithms-implementation-math,denys.astanin,Java 6,80,43212800
+992310,11,1325266164,2147483647,A,1100,constructive algorithms-implementation-math,rurik,Java 6,130,43212800
+988630,11,1325002588,2147483647,A,1100,constructive algorithms-implementation-math,Fly.Ricardo,Java 6,130,43315200
+971605,11,1324558125,2147483647,A,1100,constructive algorithms-implementation-math,Betlista,Java 6,110,43110400
+971407,11,1324543064,2147483647,A,1100,constructive algorithms-implementation-math,ilovepink,Java 6,130,43212800
+971395,11,1324542357,2147483647,B,1700,math,nativea,Java 6,80,43008000
+965926,11,1324136054,2147483647,B,1700,math,mostafa_fahim,Java 6,110,43110400
+956734,11,1323966367,2147483647,A,1100,constructive algorithms-implementation-math,keep.deep,Java 6,130,43315200
+952082,11,1323635805,51341805,A,1100,constructive algorithms-implementation-math,stevenkplus,Java 6,110,43212800
+933932,11,1323239639,50945639,A,1100,constructive algorithms-implementation-math,nativea,Java 6,130,35225600
+933931,11,1323239296,50945296,A,1100,constructive algorithms-implementation-math,upsolving,Java 6,110,35225600
+930792,11,1323073455,50779455,A,1100,constructive algorithms-implementation-math,mostafa_fahim,Java 6,160,35328000
+930347,11,1323038142,50744142,A,1100,constructive algorithms-implementation-math,pasha,Java 6,140,43315200
+918860,11,1322924172,50630172,A,1100,constructive algorithms-implementation-math,agent3889,Java 6,170,43212800
+905359,11,1322297764,50003764,A,1100,constructive algorithms-implementation-math,userlond,Java 6,110,43110400
+886469,11,1321991134,49697134,B,1700,math,Izot_NNSTU,Java 6,140,43212800
+879135,11,1321708361,49414361,A,1100,constructive algorithms-implementation-math,SharpBlade,Java 6,170,43212800
+872604,11,1321393335,49099335,A,1100,constructive algorithms-implementation-math,Proscriptus,Java 6,170,43110400
+854980,11,1320915346,48621346,A,1100,constructive algorithms-implementation-math,islamhamdi,Java 6,170,43110400
+840509,11,1320702812,48408812,B,1700,math,nickbuelich,Java 6,130,43110400
+820887,11,1320034211,47740211,A,1100,constructive algorithms-implementation-math,Sinner,Java 6,130,35328000
+792191,11,1319388598,47094598,A,1100,constructive algorithms-implementation-math,cs_duck,Java 6,160,43212800
+782133,11,1318953744,46659744,B,1700,math,nmacho,Java 6,110,43110400
+771196,11,1318865394,46571394,A,1100,constructive algorithms-implementation-math,nmacho,Java 6,130,35430400
+766945,11,1318625402,46331402,A,1100,constructive algorithms-implementation-math,Izot_NNSTU,Java 6,140,35328000
+766938,11,1318625089,46331089,A,1100,constructive algorithms-implementation-math,wackloner,Java 6,130,35225600
+752293,11,1318131850,45837850,D,2200,bitmasks-dp-graphs,trogloditas,Java 6,2840,215756800
+729227,11,1317236276,44942276,A,1100,constructive algorithms-implementation-math,lth,Java 6,110,35430400
+657152,11,1315050305,42756305,E,2800,binary search-dp-greedy,OgieKako,Java 6,200,37580800
+656792,11,1315033817,42739817,B,1700,math,edwinlunando,Java 6,110,34918400
+656760,11,1315031735,42737735,A,1100,constructive algorithms-implementation-math,edwinlunando,Java 6,90,35225600
+623492,11,1313843613,41549613,B,1700,math,kiko91_7,Java 6,130,35225600
+615296,11,1313755761,41461761,A,1100,constructive algorithms-implementation-math,boost,Java 6,140,35328000
+604076,11,1313156704,40862704,A,1100,constructive algorithms-implementation-math,Ahmed_Salama,Java 6,130,35225600
+599319,11,1312826241,40532241,D,2200,bitmasks-dp-graphs,xiaowuc1,Java 6,2750,176332800
+598984,11,1312815054,40521054,B,1700,math,JoKe,Java 6,130,44748800
+597801,11,1312785432,40491432,A,1100,constructive algorithms-implementation-math,Dunaril,Java 6,140,35225600
+588613,11,1312670101,40376101,B,1700,math,xiaowuc1,Java 6,110,43008000
+568004,11,1311839473,39545473,B,1700,math,islam-al-aarag,Java 6,130,35328000
+566230,11,1311657681,39363681,A,1100,constructive algorithms-implementation-math,xiaowuc1,Java 6,110,35225600
+563195,11,1311466921,39172921,A,1100,constructive algorithms-implementation-math,islam-al-aarag,Java 6,90,43110400
+552278,11,1311163070,38869070,B,1700,math,altais,Java 6,80,43008000
+548946,11,1310852491,38558491,B,1700,math,Sammarize,Java 6,90,43008000
+543943,11,1310537363,38243363,A,1100,constructive algorithms-implementation-math,Nox,Java 6,90,43212800
+531049,11,1310081836,37787836,A,1100,constructive algorithms-implementation-math,kiko91_7,Java 6,140,43110400
+528689,11,1309857958,37563958,D,2200,bitmasks-dp-graphs,S.Yesipenko,Java 6,1220,180326400
+525296,11,1309548537,37254537,B,1700,math,DoublePointer,Java 6,110,43008000
+512726,11,1309250648,36956648,A,1100,constructive algorithms-implementation-math,altais,Java 6,90,35225600
+510070,11,1308957737,36663737,A,1100,constructive algorithms-implementation-math,sroyal,Java 6,140,43212800
+497650,11,1308468722,36174722,B,1700,math,Slamur,Java 6,90,43008000
+484228,11,1307633803,35339803,D,2200,bitmasks-dp-graphs,UESTC_Defense,Java 6,2630,178278400
+484090,11,1307625153,35331153,B,1700,math,UESTC_Defense,Java 6,130,35225600
+483965,11,1307617140,35323140,A,1100,constructive algorithms-implementation-math,UESTC_Defense,Java 6,140,35225600
+483212,11,1307545259,35251259,A,1100,constructive algorithms-implementation-math,lyoz,Java 6,130,35328000
+473731,11,1306901956,34607956,A,1100,constructive algorithms-implementation-math,DoublePointer,Java 6,130,43315200
+471847,11,1306621865,34327865,A,1100,constructive algorithms-implementation-math,Larx,Java 6,90,43315200
+468314,11,1306146028,33852028,A,1100,constructive algorithms-implementation-math,elrodeo,Java 6,130,35430400
+467763,11,1306088461,33794461,D,2200,bitmasks-dp-graphs,denys.astanin,Java 6,1300,90112000
+464980,11,1305932202,33638202,B,1700,math,tehqin,Java 6,110,43315200
+459843,11,1305864811,33570811,A,1100,constructive algorithms-implementation-math,tehqin,Java 6,130,35225600
+431625,11,1304522815,32228815,B,1700,math,caustique,Java 6,80,43315200
+393124,11,1302893317,30599317,D,2200,bitmasks-dp-graphs,hydrastuff,Java 6,1980,194560000
+376956,11,1302444180,30150180,A,1100,constructive algorithms-implementation-math,flash36,Java 6,130,43417600
+367658,11,1301518797,29224797,A,1100,constructive algorithms-implementation-math,aquinas16,Java 6,90,43417600
+360621,11,1301267224,28973224,A,1100,constructive algorithms-implementation-math,tux1986,Java 6,110,43417600
+346704,11,1300655677,28361677,A,1100,constructive algorithms-implementation-math,Leonid,Java 6,130,43315200
+337864,11,1300195307,27901307,A,1100,constructive algorithms-implementation-math,pioneer,Java 6,80,43315200
+331460,11,1299914781,27620781,A,1100,constructive algorithms-implementation-math,Slamur,Java 6,90,43417600
+327979,11,1299547260,27253260,A,1100,constructive algorithms-implementation-math,Sammarize,Java 6,90,43315200
+301847,11,1298583699,26289699,A,1100,constructive algorithms-implementation-math,Therion,Java 6,140,43315200
+286231,11,1297880982,25586982,A,1100,constructive algorithms-implementation-math,ahmad_mamdouh,Java 6,110,43315200
+283031,11,1297513011,25219011,D,2200,bitmasks-dp-graphs,slycelote,Java 6,1300,178176000
+273938,11,1296685863,24391863,A,1100,constructive algorithms-implementation-math,marque,Java 6,90,43417600
+259883,11,1295717588,23423588,A,1100,constructive algorithms-implementation-math,jnasridinov,Java 6,140,43417600
+254278,11,1295315774,23021774,A,1100,constructive algorithms-implementation-math,nickbuelich,Java 6,170,43417600
+248413,11,1294926621,22632621,B,1700,math,Abra,Java 6,90,43417600
+243232,11,1294594765,22300765,A,1100,constructive algorithms-implementation-math,dalex,Java 6,90,43417600
+242206,11,1294498930,22204930,A,1100,constructive algorithms-implementation-math,Abra,Java 6,90,43315200
+50373,11,1293790162,21496162,D,2200,bitmasks-dp-graphs,pius_88,Java 6,1440,214220800
+50364,11,1292601184,20307184,B,1700,math,daizhenyang,Java 6,110,43315200
+50195,11,1285580289,13286289,A,1100,constructive algorithms-implementation-math,msagimbekov,Java 6,90,43315200
+49958,11,1274351985,2057985,D,2200,bitmasks-dp-graphs,SkyFire,Java 6,1720,176742400
+49956,11,1274199863,1905863,A,1100,constructive algorithms-implementation-math,rysiek,Java 6,110,33792000
+49924,11,1273383872,1089872,B,1700,math,satoshii,Java 6,90,33792000
+49901,11,1273127360,833360,B,1700,math,rien,Java 6,80,33792000
+49894,11,1273124969,830969,A,1100,constructive algorithms-implementation-math,rien,Java 6,110,33792000
+49855,11,1273039634,745634,A,1100,constructive algorithms-implementation-math,satoshii,Java 6,130,30822400
+49808,11,1272745655,451655,C,2200,implementation,oparin.vsevolod,Java 6,470,30822400
+49799,11,1272734264,440264,A,1100,constructive algorithms-implementation-math,SergeyLazarev,Java 6,60,30822400
+49798,11,1272734089,440089,A,1100,constructive algorithms-implementation-math,SergeyLazarev,Java 6,80,30822400
+49779,11,1272653805,359805,D,2200,bitmasks-dp-graphs,permin,Java 6,2910,123596800
+49773,11,1272650123,356123,B,1700,math,permin,Java 6,60,30720000
+49771,11,1272648815,354815,A,1100,constructive algorithms-implementation-math,permin,Java 6,80,30720000
+49758,11,1272598079,304079,D,2200,bitmasks-dp-graphs,uwi,Java 6,2840,114278400
+49735,11,1272540232,246232,A,1100,constructive algorithms-implementation-math,miao1017,Java 6,110,30720000
+49719,11,1272537520,243520,A,1100,constructive algorithms-implementation-math,jay23jack,Java 6,60,30720000
+49718,11,1272537301,243301,A,1100,constructive algorithms-implementation-math,jay23jack,Java 6,90,30720000
+49714,11,1272536512,242512,A,1100,constructive algorithms-implementation-math,jay23jack,Java 6,110,30720000
+49712,11,1272532772,238772,B,1700,math,den22,Java 6,80,30720000
+49675,11,1272516022,222022,A,1100,constructive algorithms-implementation-math,bmqnc,Java 6,80,30720000
+49674,11,1272515962,221962,A,1100,constructive algorithms-implementation-math,bmqnc,Java 6,80,30720000
+49621,11,1272464361,170361,A,1100,constructive algorithms-implementation-math,Nil_ct,Java 6,80,30822400
+49614,11,1272455221,161221,B,1700,math,todesking,Java 6,90,30720000
+49605,11,1272452896,158896,D,2200,bitmasks-dp-graphs,Vasya.V,Java 6,1560,123801600
+49604,11,1272452013,158013,D,2200,bitmasks-dp-graphs,SpookyCookie,Java 6,1420,77414400
+49603,11,1272451577,157577,D,2200,bitmasks-dp-graphs,SpookyCookie,Java 6,1360,75059200
+49574,11,1272435590,141590,B,1700,math,moronosuke,Java 6,80,30720000
+49561,11,1272433102,139102,A,1100,constructive algorithms-implementation-math,moronosuke,Java 6,80,30720000
+49521,11,1272420829,126829,D,2200,bitmasks-dp-graphs,swcai,Java 6,2610,222822400
+49444,11,1272376182,82182,E,2800,binary search-dp-greedy,vot,Java 6,220,43212800
+49437,11,1272375032,81032,E,2800,binary search-dp-greedy,vot,Java 6,220,43212800
+49345,11,1272358540,64540,A,1100,constructive algorithms-implementation-math,artie,Java 6,110,30720000
+49340,11,1272358237,64237,A,1100,constructive algorithms-implementation-math,Dragon.Rider,Java 6,90,30720000
+49327,11,1272355270,61270,D,2200,bitmasks-dp-graphs,Vasya.V,Java 6,2940,123699200
+49288,11,1272347709,53709,B,1700,math,swcai,Java 6,90,30822400
+49287,11,1272347662,53662,B,1700,math,swcai,Java 6,80,30822400
+49249,11,1272343776,49776,A,1100,constructive algorithms-implementation-math,den22,Java 6,110,30822400
+49227,11,1272342671,48671,B,1700,math,chronotable,Java 6,90,30822400
+49200,11,1272339992,45992,A,1100,constructive algorithms-implementation-math,chronotable,Java 6,140,30822400
+49197,11,1272339528,45528,E,2800,binary search-dp-greedy,yiuyuho,Java 6,340,39116800
+49185,11,1272337405,43405,C,2200,implementation,uwi,Java 6,470,30822400
+49165,11,1272334451,40451,B,1700,math,makagonov,Java 6,80,30822400
+49133,11,1272328773,34773,B,1700,math,rexim,Java 6,110,30822400
+49102,11,1272321785,27785,A,1100,constructive algorithms-implementation-math,swcai,Java 6,90,30822400
+49074,11,1272314203,20203,E,2800,binary search-dp-greedy,ivan.metelsky,Java 6,520,42086400
+49066,11,1272311916,17916,D,2200,bitmasks-dp-graphs,Xazker,Java 6,1580,149196800
+49065,11,1272311752,17752,D,2200,bitmasks-dp-graphs,Xazker,Java 6,2640,149196800
+49063,11,1272311399,17399,D,2200,bitmasks-dp-graphs,Xazker,Java 6,2550,149196800
+49061,11,1272311347,17347,D,2200,bitmasks-dp-graphs,Xazker,Java 6,2640,149196800
+49060,11,1272311312,17312,D,2200,bitmasks-dp-graphs,Xazker,Java 6,2640,149196800
+49059,11,1272311245,17245,D,2200,bitmasks-dp-graphs,Xazker,Java 6,2940,156160000
+49013,11,1272306868,12868,B,1700,math,nise_nabe,Java 6,90,30822400
+49002,11,1272306399,12399,C,2200,implementation,vot,Java 6,1090,50688000
+48987,11,1272305950,11950,B,1700,math,kazu.yamazaki,Java 6,60,30822400
+48982,11,1272305696,11696,A,1100,constructive algorithms-implementation-math,nise_nabe,Java 6,90,30822400
+48975,11,1272305507,11507,C,2200,implementation,nise_nabe,Java 6,380,30822400
+48947,11,1272304593,10593,D,2200,bitmasks-dp-graphs,OgieKako,Java 6,1360,106700800
+48834,11,1272302505,8505,A,1100,constructive algorithms-implementation-math,yoshibo-,Java 6,80,30822400
+48832,11,1272302462,8462,B,1700,math,izbyshev,Java 6,80,30822400
+48805,11,1272301812,7812,B,1700,math,4ndrew,Java 6,80,30822400
+48777,11,1272301339,7339,E,2800,binary search-dp-greedy,Petr,Java 6,110,32051200
+48771,11,1272301194,7194,B,1700,math,Vasya.V,Java 6,200,39116800
+48658,11,1272300888,6888,D,2200,bitmasks-dp-graphs,niyaznigmatul,Java 6,1590,124006400
+48610,11,1272300717,6717,D,2200,bitmasks-dp-graphs,dAnton,Java 6,1590,124108800
+48591,11,1272300649,6649,C,2200,implementation,mikhailOK,Java 6,130,30822400
+48384,11,1272299827,5827,C,2200,implementation,OgieKako,Java 6,450,30822400
+48369,11,1272299739,5739,C,2200,implementation,SpookyCookie,Java 6,190,37068800
+48366,11,1272299734,5734,B,1700,math,oparin.vsevolod,Java 6,90,30822400
+48335,11,1272299606,5606,B,1700,math,Darko,Java 6,110,30822400
+48329,11,1272299582,5582,D,2200,bitmasks-dp-graphs,Egor,Java 6,2230,74240000
+48295,11,1272299471,5471,B,1700,math,shindo,Java 6,80,30822400
+48225,11,1272299216,5216,B,1700,math,Shafer,Java 6,60,30822400
+48202,11,1272299098,5098,D,2200,bitmasks-dp-graphs,Xazker,Java 6,2950,126464000
+48184,11,1272299004,5004,A,1100,constructive algorithms-implementation-math,miraina,Java 6,90,30822400
+48176,11,1272298986,4986,B,1700,math,vlad.gazer,Java 6,80,30822400
+48156,11,1272298927,4927,A,1100,constructive algorithms-implementation-math,kazu.yamazaki,Java 6,80,30822400
+48118,11,1272298797,4797,A,1100,constructive algorithms-implementation-math,Mirovan,Java 6,80,30822400
+48108,11,1272298750,4750,A,1100,constructive algorithms-implementation-math,oparin.vsevolod,Java 6,110,30822400
+48020,11,1272298459,4459,C,2200,implementation,yiuyuho,Java 6,670,31539200
+47890,11,1272297963,3963,D,2200,bitmasks-dp-graphs,ivan.metelsky,Java 6,1440,107212800
+47867,11,1272297860,3860,C,2200,implementation,Egor,Java 6,110,30822400
+47832,11,1272297750,3750,B,1700,math,iensen,Java 6,60,30822400
+47758,11,1272297493,3493,D,2200,bitmasks-dp-graphs,Petr,Java 6,1410,103833600
+47728,11,1272297353,3353,C,2200,implementation,Xazker,Java 6,200,30822400
+47693,11,1272297217,3217,A,1100,constructive algorithms-implementation-math,Xerxes,Java 6,90,30720000
+47684,11,1272297200,3200,B,1700,math,JuliaChertkova,Java 6,60,30822400
+47674,11,1272297150,3150,D,2200,bitmasks-dp-graphs,ivan.popelyshev,Java 6,1440,123801600
+47647,11,1272297047,3047,B,1700,math,myhandle1,Java 6,90,30822400
+47646,11,1272297045,3045,D,2200,bitmasks-dp-graphs,Petr,Java 6,1760,165478400
+47627,11,1272297002,3002,C,2200,implementation,ivan.metelsky,Java 6,230,31539200
+47620,11,1272296983,2983,B,1700,math,S.Yesipenko,Java 6,80,30720000
+47572,11,1272296819,2819,B,1700,math,vkrest,Java 6,80,30822400
+47520,11,1272296634,2634,B,1700,math,niyaznigmatul,Java 6,60,30822400
+47514,11,1272296624,2624,B,1700,math,SpookyCookie,Java 6,60,30822400
+47482,11,1272296521,2521,A,1100,constructive algorithms-implementation-math,janux,Java 6,80,30822400
+47472,11,1272296491,2491,C,2200,implementation,ivan.popelyshev,Java 6,220,33587200
+47453,11,1272296427,2427,A,1100,constructive algorithms-implementation-math,rexim,Java 6,110,30822400
+47451,11,1272296420,2420,B,1700,math,pyshnograev,Java 6,80,30822400
+47427,11,1272296327,2327,A,1100,constructive algorithms-implementation-math,neronmoon,Java 6,110,30822400
+47376,11,1272296177,2177,C,2200,implementation,Petr,Java 6,810,36147200
+47244,11,1272295779,1779,B,1700,math,yiuyuho,Java 6,80,30822400
+47232,11,1272295757,1757,C,2200,implementation,izbyshev,Java 6,160,33792000
+47212,11,1272295698,1698,A,1100,constructive algorithms-implementation-math,LoKi,Java 6,90,30822400
+47203,11,1272295682,1682,B,1700,math,OgieKako,Java 6,80,30822400
+47195,11,1272295659,1659,A,1100,constructive algorithms-implementation-math,Shafer,Java 6,80,30822400
+47159,11,1272295572,1572,B,1700,math,Xazker,Java 6,80,30822400
+47152,11,1272295564,1564,A,1100,constructive algorithms-implementation-math,iensen,Java 6,80,30822400
+47123,11,1272295510,1510,B,1700,math,kozima,Java 6,80,30822400
+47118,11,1272295499,1499,A,1100,constructive algorithms-implementation-math,camoroh13,Java 6,90,30720000
+47108,11,1272295479,1479,B,1700,math,lunae,Java 6,90,30822400
+47089,11,1272295445,1445,B,1700,math,Egor,Java 6,80,30822400
+47043,11,1272295360,1360,A,1100,constructive algorithms-implementation-math,todesking,Java 6,80,30822400
+47006,11,1272295300,1300,A,1100,constructive algorithms-implementation-math,vkrest,Java 6,80,30822400
+46996,11,1272295284,1284,A,1100,constructive algorithms-implementation-math,Rustem,Java 6,60,30822400
+46994,11,1272295283,1283,A,1100,constructive algorithms-implementation-math,niyaznigmatul,Java 6,80,30822400
+46924,11,1272295158,1158,A,1100,constructive algorithms-implementation-math,kioa,Java 6,110,30720000
+46895,11,1272295104,1104,A,1100,constructive algorithms-implementation-math,Xazker,Java 6,80,30822400
+46877,11,1272295085,1085,A,1100,constructive algorithms-implementation-math,nise_nabe,Java 6,110,30822400
+46872,11,1272295077,1077,B,1700,math,mikhailOK,Java 6,80,30822400
+46847,11,1272295037,1037,A,1100,constructive algorithms-implementation-math,myhandle1,Java 6,90,30822400
+46845,11,1272295032,1032,A,1100,constructive algorithms-implementation-math,Egor,Java 6,60,30822400
+46827,11,1272295003,1003,A,1100,constructive algorithms-implementation-math,mastersobg,Java 6,90,30822400
+46820,11,1272294992,992,B,1700,math,dAnton,Java 6,90,30822400
+46812,11,1272294978,978,B,1700,math,uwi,Java 6,80,30822400
+46723,11,1272294838,838,A,1100,constructive algorithms-implementation-math,Darko,Java 6,130,30822400
+46691,11,1272294802,802,A,1100,constructive algorithms-implementation-math,dAnton,Java 6,80,30822400
+46686,11,1272294797,797,A,1100,constructive algorithms-implementation-math,4ndrew,Java 6,90,30822400
+46684,11,1272294797,797,B,1700,math,vot,Java 6,60,30822400
+46664,11,1272294778,778,A,1100,constructive algorithms-implementation-math,makagonov,Java 6,90,30822400
+46643,11,1272294746,746,A,1100,constructive algorithms-implementation-math,JuliaChertkova,Java 6,90,30822400
+46593,11,1272294687,687,A,1100,constructive algorithms-implementation-math,kozima,Java 6,110,30822400
+46586,11,1272294680,680,A,1100,constructive algorithms-implementation-math,S.Yesipenko,Java 6,80,30822400
+46538,11,1272294623,623,A,1100,constructive algorithms-implementation-math,Vasya.V,Java 6,90,30822400
+46533,11,1272294616,616,B,1700,math,ktuan,Java 6,80,30822400
+46529,11,1272294610,610,A,1100,constructive algorithms-implementation-math,yiuyuho,Java 6,110,30822400
+46515,11,1272294599,599,A,1100,constructive algorithms-implementation-math,Melamori,Java 6,80,30822400
+46514,11,1272294598,598,A,1100,constructive algorithms-implementation-math,vlad.gazer,Java 6,110,30822400
+46490,11,1272294579,579,A,1100,constructive algorithms-implementation-math,lunae,Java 6,130,30822400
+46482,11,1272294571,571,A,1100,constructive algorithms-implementation-math,shindo,Java 6,80,30822400
+46472,11,1272294566,566,A,1100,constructive algorithms-implementation-math,SpookyCookie,Java 6,90,30720000
+46469,11,1272294564,564,B,1700,math,ivan.popelyshev,Java 6,60,30822400
+46443,11,1272294536,536,A,1100,constructive algorithms-implementation-math,OgieKako,Java 6,90,30822400
+46431,11,1272294519,519,B,1700,math,ivan.metelsky,Java 6,80,30822400
+46424,11,1272294509,509,A,1100,constructive algorithms-implementation-math,uwi,Java 6,130,30822400
+46416,11,1272294497,497,A,1100,constructive algorithms-implementation-math,pyshnograev,Java 6,60,30822400
+46393,11,1272294465,465,B,1700,math,Petr,Java 6,60,30822400
+46360,11,1272294414,414,A,1100,constructive algorithms-implementation-math,mikhailOK,Java 6,90,30822400
+46354,11,1272294401,401,A,1100,constructive algorithms-implementation-math,ktuan,Java 6,110,30822400
+46326,11,1272294287,287,A,1100,constructive algorithms-implementation-math,ivan.metelsky,Java 6,110,30822400
+46324,11,1272294285,285,A,1100,constructive algorithms-implementation-math,Petr,Java 6,80,30822400
+46320,11,1272294258,258,A,1100,constructive algorithms-implementation-math,ivan.popelyshev,Java 6,80,30822400
+46318,11,1272294249,249,A,1100,constructive algorithms-implementation-math,izbyshev,Java 6,80,30822400
+46315,11,1272294234,234,A,1100,constructive algorithms-implementation-math,vot,Java 6,80,30822400

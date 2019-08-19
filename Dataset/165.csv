@@ -1,0 +1,1735 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57781097,165,1564120774,2147483647,A,1100,implementation,darwin0,Java 8,280,0
+57498994,165,1563787709,2147483647,B,1500,binary search-implementation,findme98,Java 8,218,0
+57318886,165,1563527548,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,saurabhs1206,Java 8,278,2662400
+57120507,165,1563237238,2147483647,A,1100,implementation,XsLel,Java 8,248,0
+56764138,165,1562692910,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,satya26,Java 8,3182,132812800
+56704111,165,1562581608,2147483647,A,1100,implementation,Joao_Ribeiro,Java 8,310,0
+56703685,165,1562581047,2147483647,A,1100,implementation,MoHaMe_KhaLed,Java 8,280,0
+56678618,165,1562518472,2147483647,B,1500,binary search-implementation,M_ashry,Java 8,248,0
+56393133,165,1561987508,2147483647,A,1100,implementation,beykus,Java 8,278,0
+56357378,165,1561916358,2147483647,B,1500,binary search-implementation,Zeina_Kandil,Java 8,280,0
+56310068,165,1561904376,2147483647,B,1500,binary search-implementation,YahiaSherif,Java 8,248,0
+56295916,165,1561873976,2147483647,B,1500,binary search-implementation,ahmed_hosssam,Java 8,280,0
+56288561,165,1561844501,2147483647,B,1500,binary search-implementation,mabubeih,Java 8,218,0
+56225080,165,1561722629,2147483647,A,1100,implementation,Mahmoud.Osama,Java 8,248,0
+56186956,165,1561699899,2147483647,B,1500,binary search-implementation,vjudge5,Java 8,280,0
+56186936,165,1561699861,2147483647,B,1500,binary search-implementation,lazyfahim,Java 8,280,0
+56174781,165,1561660196,2147483647,B,1500,binary search-implementation,vjudge2,Java 8,248,0
+56012919,165,1561403263,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kukreja-vlk,Java 8,560,16793600
+55995002,165,1561369900,2147483647,A,1100,implementation,Avi_2506,Java 8,248,0
+55990312,165,1561360499,2147483647,A,1100,implementation,foreverlearner,Java 8,248,0
+55947810,165,1561238504,2147483647,B,1500,binary search-implementation,SalmaJaki,Java 8,248,0
+55914765,165,1561178764,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,shinghalrishabh,Java 8,248,0
+55830960,165,1561036022,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hienmv,Java 8,622,36454400
+55821378,165,1561020257,2147483647,B,1500,binary search-implementation,MEGADR01D,Java 8,312,0
+55755208,165,1560955721,2147483647,B,1500,binary search-implementation,sunny0803,Java 8,248,0
+55334300,165,1560084536,2147483647,B,1500,binary search-implementation,adarsh000321,Java 8,278,0
+55290033,165,1559978022,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,abhi2601,Java 8,310,19148800
+55270866,165,1559924397,2147483647,B,1500,binary search-implementation,abhi2601,Java 8,248,0
+54887090,165,1559325608,2147483647,A,1100,implementation,kukreja-vlk,Java 8,248,0
+54863218,165,1559276000,2147483647,A,1100,implementation,kuxha,Java 8,248,0
+54759313,165,1559057320,2147483647,A,1100,implementation,AkashGupta,Java 8,310,0
+54629589,165,1558792079,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,typedef_2000,Java 8,1372,57651200
+54513286,165,1558599685,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,copyture,Java 8,404,11264000
+54513241,165,1558599577,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vjudge5,Java 8,434,11264000
+54513143,165,1558599349,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,copyture,Java 8,404,11264000
+54513030,165,1558599107,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vjudge5,Java 8,434,11264000
+54513000,165,1558599062,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,copyture,Java 8,436,11264000
+54508977,165,1558591226,2147483647,A,1100,implementation,kirtidabas,Java 8,280,0
+54480335,165,1558521878,2147483647,B,1500,binary search-implementation,lebaur,Java 8,248,0
+54353091,165,1558195274,2147483647,B,1500,binary search-implementation,adeepgarg13,Java 8,248,0
+54347613,165,1558185242,2147483647,A,1100,implementation,ankitrokdeonsns,Java 8,248,0
+54235289,165,1558002679,2147483647,A,1100,implementation,dtrifonov32,Java 8,278,0
+54141497,165,1557856371,2147483647,A,1100,implementation,kashishsingh8700,Java 8,278,0
+54022489,165,1557657477,2147483647,B,1500,binary search-implementation,mufaddalnaya,Java 8,248,0
+54002897,165,1557596119,2147483647,A,1100,implementation,Priyanshi03,Java 8,280,0
+53955979,165,1557489281,2147483647,A,1100,implementation,osama.bmaq,Java 8,218,0
+53664512,165,1556789759,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,saiharish,Java 8,436,7270400
+53541122,165,1556606955,2147483647,B,1500,binary search-implementation,akshita00,Java 8,280,0
+53467094,165,1556448290,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,aminul,Java 8,1152,18124800
+53467080,165,1556448265,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,vjudge2,Java 8,1122,18124800
+53191873,165,1556025354,2147483647,B,1500,binary search-implementation,emmajs16,Java 8,248,0
+53185812,165,1556014596,2147483647,B,1500,binary search-implementation,DannyGCM,Java 8,310,0
+53178014,165,1555997932,2147483647,B,1500,binary search-implementation,Huhls,Java 8,278,0
+53176233,165,1555991970,2147483647,B,1500,binary search-implementation,trillionaire,Java 8,218,0
+53111109,165,1555902041,2147483647,B,1500,binary search-implementation,micknick1997,Java 8,218,0
+53029795,165,1555711998,2147483647,A,1100,implementation,Ziad_Khaled,Java 8,280,0
+52998082,165,1555651633,2147483647,B,1500,binary search-implementation,jlewis6,Java 8,248,0
+52922488,165,1555525859,2147483647,B,1500,binary search-implementation,Ikari_stream,Java 8,218,0
+52889401,165,1555484885,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Punit_sharma,Java 8,278,0
+52659629,165,1555104257,2147483647,A,1100,implementation,0Maher0,Java 8,280,0
+52475537,165,1554675700,2147483647,B,1500,binary search-implementation,AbdallahArafa,Java 8,280,0
+52469771,165,1554659374,2147483647,A,1100,implementation,Atharvar,Java 8,280,0
+52328727,165,1554434755,2147483647,A,1100,implementation,sreeprasad,Java 8,248,0
+52075655,165,1554025934,2147483647,A,1100,implementation,goalboy,Java 8,374,0
+51866760,165,1553614305,2147483647,B,1500,binary search-implementation,YahiaSherif,Java 8,280,0
+51861684,165,1553606809,2147483647,B,1500,binary search-implementation,Moamen3000,Java 8,248,0
+51854435,165,1553593869,2147483647,B,1500,binary search-implementation,MuhamedX,Java 8,280,0
+51840884,165,1553550029,2147483647,B,1500,binary search-implementation,Omar_Tarek,Java 8,280,0
+51769608,165,1553362819,2147483647,B,1500,binary search-implementation,MohammedBasioni,Java 8,218,0
+51769404,165,1553362467,2147483647,B,1500,binary search-implementation,mabubeih,Java 8,218,0
+51623432,165,1553182158,2147483647,B,1500,binary search-implementation,Ashrafezz,Java 8,280,0
+51617967,165,1553173891,2147483647,B,1500,binary search-implementation,Ahmed_Abdou,Java 8,280,0
+51593442,165,1553112250,2147483647,A,1100,implementation,aditya_shukla11,Java 8,280,0
+51568003,165,1553077877,2147483647,A,1100,implementation,guntasss,Java 8,280,0
+51443791,165,1552908718,2147483647,A,1100,implementation,mayankarora21,Java 8,278,0
+51430981,165,1552867566,2147483647,A,1100,implementation,BerserkVl,Java 8,218,0
+51255363,165,1552474939,2147483647,B,1500,binary search-implementation,samer_ghaly,Java 8,248,0
+51122595,165,1552212230,2147483647,A,1100,implementation,khiladir,Java 8,280,0
+50802374,165,1551749456,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,gcarrillo2,Java 8,280,0
+50759723,165,1551638554,2147483647,B,1500,binary search-implementation,Zeina_Kandil,Java 8,248,0
+50583588,165,1551314199,2147483647,A,1100,implementation,ExusN,Java 8,280,0
+50566477,165,1551273740,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Akash_UR,Java 8,310,5836800
+50510319,165,1551137004,2147483647,A,1100,implementation,MHariri,Java 8,280,0
+50304005,165,1550811245,2147483647,B,1500,binary search-implementation,chm99,Java 8,280,0
+50302916,165,1550807823,2147483647,B,1500,binary search-implementation,didizhou,Java 8,248,0
+50302655,165,1550806837,2147483647,B,1500,binary search-implementation,rsaravanan,Java 8,312,0
+50302224,165,1550805452,2147483647,B,1500,binary search-implementation,lgumi99,Java 8,280,0
+50302175,165,1550805314,2147483647,B,1500,binary search-implementation,lgumi99,Java 8,280,0
+50301694,165,1550803702,2147483647,B,1500,binary search-implementation,abhi.kamboji,Java 8,280,0
+50299595,165,1550796608,2147483647,B,1500,binary search-implementation,adarsha100,Java 8,218,0
+50299208,165,1550794925,2147483647,B,1500,binary search-implementation,Decims,Java 8,278,0
+50299127,165,1550794562,2147483647,B,1500,binary search-implementation,MaherRahman,Java 8,280,0
+50298190,165,1550789344,2147483647,B,1500,binary search-implementation,jorge97garza,Java 8,280,0
+50293382,165,1550774876,2147483647,B,1500,binary search-implementation,jnhuang,Java 8,280,0
+50293098,165,1550774312,2147483647,B,1500,binary search-implementation,gg26776,Java 8,278,0
+50262635,165,1550716444,2147483647,B,1500,binary search-implementation,4Ti2De,Java 8,280,0
+50257917,165,1550696082,2147483647,B,1500,binary search-implementation,Krauss,Java 8,280,0
+50237144,165,1550661453,2147483647,B,1500,binary search-implementation,lucinda,Java 8,280,0
+50226110,165,1550647433,2147483647,B,1500,binary search-implementation,2denggood,Java 8,280,0
+50223445,165,1550643129,2147483647,B,1500,binary search-implementation,ZachLeeper,Java 8,278,0
+50200441,165,1550596177,2147483647,B,1500,binary search-implementation,jjm988,Java 8,280,0
+50153899,165,1550566639,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vivek_23,Java 8,248,0
+50143799,165,1550540105,2147483647,B,1500,binary search-implementation,abhinavk99,Java 8,218,0
+50131475,165,1550511534,2147483647,B,1500,binary search-implementation,ekaul888,Java 8,280,0
+50088002,165,1550479197,2147483647,B,1500,binary search-implementation,sleepyhead,Java 8,280,0
+50081238,165,1550463119,2147483647,B,1500,binary search-implementation,Gekksimus,Java 8,278,0
+50078728,165,1550454048,2147483647,B,1500,binary search-implementation,kushalpachchigar,Java 8,248,0
+50070737,165,1550424847,2147483647,A,1100,implementation,vishal.a.burman23,Java 8,216,0
+50048271,165,1550386822,2147483647,B,1500,binary search-implementation,jeffw,Java 8,280,0
+50038998,165,1550359526,2147483647,B,1500,binary search-implementation,suhasdara,Java 8,280,0
+49998253,165,1550333077,2147483647,B,1500,binary search-implementation,egeorgiou,Java 8,278,0
+49969875,165,1550278311,2147483647,B,1500,binary search-implementation,vaf8734,Java 8,310,0
+49917903,165,1550164761,2147483647,A,1100,implementation,pranaymalhan,Java 8,280,0
+49784278,165,1549911499,2147483647,B,1500,binary search-implementation,amitt_yadav_,Java 8,218,0
+49486273,165,1549346337,2147483647,A,1100,implementation,prajwal7868,Java 8,280,0
+49321190,165,1549023827,2147483647,B,1500,binary search-implementation,o.radwan,Java 8,280,0
+49244952,165,1548936677,2147483647,B,1500,binary search-implementation,woodyinho,Java 8,280,0
+49112357,165,1548689335,2147483647,A,1100,implementation,mohdsadiq058,Java 8,248,0
+48947618,165,1548446983,2147483647,A,1100,implementation,Abdelfattah_Mohamed,Java 8,280,0
+48718447,165,1548160032,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,agnyaathavaasi,Java 8,810,68300800
+48539996,165,1547828012,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zephyr_23,Java 8,310,3788800
+48466957,165,1547660816,2147483647,A,1100,implementation,vjudge2,Java 8,310,0
+48464143,165,1547655598,2147483647,A,1100,implementation,vjudge4,Java 8,280,0
+48191066,165,1547142907,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zhack_coder,Java 8,498,3276800
+48172175,165,1547105066,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Bibhuti,Java 8,404,7270400
+48171380,165,1547103407,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Bibhuti,Java 8,560,19558400
+48077173,165,1546924220,2147483647,A,1100,implementation,vjudge5,Java 8,280,0
+47951060,165,1546650117,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,manubhai8876,Java 8,498,27136000
+47842423,165,1546433336,2147483647,A,1100,implementation,cre8tion,Java 8,280,0
+47805123,165,1546323700,2147483647,A,1100,implementation,viratK,Java 8,280,0
+47668565,165,1546054794,2147483647,B,1500,binary search-implementation,Harbin,Java 8,218,0
+47664711,165,1546035748,2147483647,A,1100,implementation,farahTome,Java 8,280,0
+47377767,165,1545503602,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,rohan03,Java 8,466,19148800
+47175633,165,1545067271,2147483647,A,1100,implementation,akshita00,Java 8,310,0
+46891651,165,1544509974,2147483647,A,1100,implementation,snandkule,Java 8,280,0
+46677510,165,1544092511,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,noobspotted,Java 8,904,41779200
+46514594,165,1543763865,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Ahmed_Diab,Java 8,436,26931200
+46274251,165,1543314555,2147483647,A,1100,implementation,aliawadhi,Java 8,218,0
+46028358,165,1542803307,2147483647,A,1100,implementation,codername,Java 8,280,0
+45998401,165,1542720286,2147483647,A,1100,implementation,RaZaR,Java 8,280,0
+45910678,165,1542539482,2147483647,A,1100,implementation,tahasin,Java 8,280,0
+45759825,165,1542270252,2147483647,A,1100,implementation,I.A.K.O.V,Java 8,218,0
+45565959,165,1541946580,2147483647,A,1100,implementation,surfer007,Java 8,218,0
+44883279,165,1540498324,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Charlizard,Java 8,404,12083200
+44424354,165,1539744806,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,flyman3046,Java 8,1808,37580800
+44259229,165,1539438173,2147483647,B,1500,binary search-implementation,Endercraft,Java 8,218,0
+44091173,165,1539199538,2147483647,A,1100,implementation,Jasperr,Java 8,310,0
+44087814,165,1539193162,2147483647,A,1100,implementation,rohan17,Java 8,312,0
+43989498,165,1538990440,7180,E,2100,bitmasks-brute force-dfs and similar-dp,bhavyashah9873,Java 8,1278,18739200
+43987063,165,1538985425,2165,C,1600,binary search-brute force-dp-math-strings-two pointers,bhavyashah9873,Java 8,498,18944000
+43986500,165,1538984081,821,B,1500,binary search-implementation,bhavyashah9873,Java 8,278,0
+43986259,165,1538983484,224,A,1100,implementation,bhavyashah9873,Java 8,280,0
+43937000,165,1538904424,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,_Sergey_,Java 8,466,17817600
+43934044,165,1538900590,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,_Sergey_,Java 8,468,4198400
+43802545,165,1538676148,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vjudge1,Java 8,1276,5939200
+43802479,165,1538676054,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,_aarif_JU,Java 8,1278,5939200
+43683052,165,1538478718,2518,C,1600,binary search-brute force-dp-math-strings-two pointers,armoking,Java 8,374,4812800
+43682504,165,1538477869,1669,B,1500,binary search-implementation,armoking,Java 8,310,0
+43682122,165,1538477231,1031,A,1100,implementation,armoking,Java 8,592,0
+43675451,165,1538464482,2147483647,A,1100,implementation,anubhav_deshwal,Java 8,372,0
+43624509,165,1538342121,2147483647,A,1100,implementation,deepak4669,Java 8,248,0
+43592266,165,1538279056,2147483647,B,1500,binary search-implementation,ColemanO,Java 8,312,0
+43591778,165,1538276378,2147483647,B,1500,binary search-implementation,gpravelan,Java 8,342,0
+43591364,165,1538273979,2147483647,B,1500,binary search-implementation,hward,Java 8,248,0
+43590592,165,1538269702,2147483647,B,1500,binary search-implementation,davidvu98,Java 8,342,0
+43590399,165,1538268557,2147483647,B,1500,binary search-implementation,ishdes,Java 8,340,0
+43589863,165,1538265490,2147483647,B,1500,binary search-implementation,rpoznich,Java 8,342,0
+43589079,165,1538261149,2147483647,B,1500,binary search-implementation,cqmcxs,Java 8,310,0
+43584570,165,1538248429,2147483647,B,1500,binary search-implementation,insertnamethere,Java 8,312,0
+43552769,165,1538189519,2147483647,B,1500,binary search-implementation,rushilcd,Java 8,310,0
+43551538,165,1538183444,2147483647,B,1500,binary search-implementation,amit_samuel,Java 8,310,0
+43551044,165,1538180046,2147483647,B,1500,binary search-implementation,brycedai,Java 8,310,0
+43544965,165,1538160368,2147483647,B,1500,binary search-implementation,weberchen85,Java 8,310,0
+43540779,165,1538154410,2147483647,B,1500,binary search-implementation,Shivang_Singh,Java 8,342,0
+43515297,165,1538107736,2147483647,B,1500,binary search-implementation,iabestever,Java 8,310,0
+43515275,165,1538107673,2147483647,B,1500,binary search-implementation,iabestever_practice,Java 8,310,0
+43506906,165,1538078043,2147483647,B,1500,binary search-implementation,henryzhang99,Java 8,342,0
+43485908,165,1538043022,2147483647,A,1100,implementation,A-1_1-A,Java 8,342,0
+43480187,165,1538029938,2147483647,B,1500,binary search-implementation,akruj18,Java 8,310,0
+43478204,165,1538024364,2147483647,B,1500,binary search-implementation,anusingh,Java 8,340,0
+43475072,165,1538015808,2147483647,B,1500,binary search-implementation,bryanlng,Java 8,342,0
+43432154,165,1537928697,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mces89,Java 8,1090,93900800
+43429861,165,1537919756,2147483647,B,1500,binary search-implementation,jmz,Java 8,374,0
+43418692,165,1537893731,2147483647,B,1500,binary search-implementation,Viverae,Java 8,404,0
+43282973,165,1537684722,522,B,1500,binary search-implementation,_Sergey_,Java 8,280,0
+43282810,165,1537684398,198,A,1100,implementation,_Sergey_,Java 8,248,0
+42993623,165,1537183025,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,velvet,Java 8,746,3379200
+42880081,165,1536991677,2147483647,A,1100,implementation,GreatWhite,Java 8,278,0
+42873549,165,1536958987,2147483647,A,1100,implementation,MariamHaitham,Java 8,340,0
+42869696,165,1536948146,2147483647,B,1500,binary search-implementation,merna11,Java 8,280,0
+42862959,165,1536933251,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Scut82,Java 8,530,33280000
+42855418,165,1536915815,2147483647,A,1100,implementation,Harsh,Java 8,248,0
+42843051,165,1536869169,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Hoda_Hisham,Java 8,1838,65740800
+42788197,165,1536733288,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Scut82,Java 8,530,33280000
+42673572,165,1536409377,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Shaykhutdinov-T-I,Java 8,372,3174400
+42609193,165,1536314048,2147483647,A,1100,implementation,shruts_g,Java 8,466,0
+42493851,165,1536153868,2147483647,A,1100,implementation,namanparashar91,Java 8,248,0
+42332550,165,1535800595,2147483647,A,1100,implementation,gaurav1510,Java 8,248,0
+42321523,165,1535752770,2147483647,B,1500,binary search-implementation,merna11,Java 8,312,0
+42320861,165,1535750122,2147483647,B,1500,binary search-implementation,motawfik,Java 8,310,0
+42211595,165,1535467059,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,lonelydreamer,Java 8,998,75571200
+42150002,165,1535369820,2147483647,B,1500,binary search-implementation,abdo.elbeltagy,Java 8,248,0
+42148378,165,1535365810,2147483647,B,1500,binary search-implementation,abdo.elbeltagy,Java 8,278,0
+41900925,165,1534766813,2147483647,A,1100,implementation,rational_fool,Java 8,374,0
+41897537,165,1534760547,2147483647,B,1500,binary search-implementation,omar.elbaroudy,Java 8,248,0
+41620731,165,1534333997,2147483647,B,1500,binary search-implementation,aafgt,Java 8,278,0
+41617841,165,1534328549,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,prabhat236218,Java 8,312,74444800
+41592470,165,1534258340,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,java_geek,Java 8,1372,18534400
+41542670,165,1534124234,2147483647,A,1100,implementation,ahmed_tawfikk,Java 8,248,0
+41443250,165,1533932225,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,f2015332,Java 8,498,4096000
+41442155,165,1533927985,2147483647,A,1100,implementation,osamaa.nadeer,Java 8,342,0
+41277085,165,1533563339,2147483647,A,1100,implementation,basheer97,Java 8,310,0
+41251831,165,1533487621,2147483647,B,1500,binary search-implementation,ShowStopper728,Java 8,278,0
+41245053,165,1533472693,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,housni,Java 8,310,0
+41244998,165,1533472580,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,housni,Java 8,310,2764800
+41210520,165,1533377948,2147483647,A,1100,implementation,yovrerr,Java 8,374,0
+41136166,165,1533243905,2147483647,B,1500,binary search-implementation,decemberrr,Java 8,310,0
+41125241,165,1533218271,2147483647,B,1500,binary search-implementation,Elgeziry,Java 8,342,0
+41120582,165,1533210260,2147483647,B,1500,binary search-implementation,Darknight98,Java 8,310,0
+41113827,165,1533196974,2147483647,B,1500,binary search-implementation,Omar73,Java 8,248,0
+41100237,165,1533169800,2147483647,B,1500,binary search-implementation,NourGhazal,Java 8,342,0
+41099027,165,1533163569,2147483647,B,1500,binary search-implementation,El_Bhiry,Java 8,248,0
+41098104,165,1533158981,2147483647,B,1500,binary search-implementation,Alaaaa,Java 8,248,0
+41098091,165,1533158894,2147483647,B,1500,binary search-implementation,Alaaaa,Java 8,278,0
+41096616,165,1533153882,2147483647,B,1500,binary search-implementation,LemonPudding,Java 8,248,0
+41095151,165,1533149894,2147483647,B,1500,binary search-implementation,leqaajamal,Java 8,278,0
+41094603,165,1533148560,2147483647,B,1500,binary search-implementation,Menna_ibrahim,Java 8,248,0
+41093368,165,1533146014,2147483647,B,1500,binary search-implementation,Zagh,Java 8,342,0
+41082510,165,1533127603,2147483647,B,1500,binary search-implementation,AhmedZaghloul,Java 8,342,0
+41081603,165,1533125620,2147483647,B,1500,binary search-implementation,Des2o,Java 8,248,0
+41080958,165,1533124307,2147483647,B,1500,binary search-implementation,kareem_fathy,Java 8,278,0
+41080054,165,1533122215,2147483647,B,1500,binary search-implementation,Akmal111,Java 8,248,0
+41079615,165,1533121182,2147483647,B,1500,binary search-implementation,Hemose,Java 8,248,0
+41070736,165,1533084168,2147483647,B,1500,binary search-implementation,Akmal111,Java 8,280,0
+41068723,165,1533069738,2147483647,B,1500,binary search-implementation,O_E,Java 8,280,0
+41067547,165,1533066674,2147483647,B,1500,binary search-implementation,Mared_Coder,Java 8,280,0
+41064530,165,1533060446,2147483647,B,1500,binary search-implementation,hagar_yasser,Java 8,248,0
+41064198,165,1533059889,2147483647,B,1500,binary search-implementation,hagar_yasser,Java 8,248,0
+41064106,165,1533059732,2147483647,B,1500,binary search-implementation,hagar_yasser,Java 8,248,0
+41025209,165,1533047575,2147483647,B,1500,binary search-implementation,Mazen_Ashraf,Java 8,248,0
+41024260,165,1533045419,2147483647,B,1500,binary search-implementation,sarahfarag125,Java 8,248,0
+40991115,165,1532996720,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,chemouna,Java 8,530,7372800
+40923982,165,1532883160,2147483647,B,1500,binary search-implementation,Ahmed.soror66,Java 8,312,0
+40907600,165,1532846850,2147483647,A,1100,implementation,deepaknayanpro,Java 8,310,0
+40894849,165,1532804041,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mandark27,Java 8,654,48435200
+40846632,165,1532694190,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,octopusPrime,Java 8,592,81100800
+40745038,165,1532528014,2147483647,A,1100,implementation,rishabh2195,Java 8,310,0
+40687618,165,1532402658,2147483647,A,1100,implementation,sinchan12,Java 8,310,0
+40675313,165,1532358099,2147483647,A,1100,implementation,Hanan_1995,Java 8,278,0
+40512857,165,1531915084,2147483647,A,1100,implementation,med_k,Java 8,280,0
+40398073,165,1531722053,2147483647,A,1100,implementation,ic97usop,Java 8,342,0
+40197408,165,1531303652,2147483647,A,1100,implementation,masterbios,Java 8,278,0
+40189256,165,1531286123,2147483647,A,1100,implementation,mikagoi,Java 8,340,0
+39957899,165,1530713387,2147483647,A,1100,implementation,avsek,Java 8,310,0
+39941525,165,1530675864,2147483647,A,1100,implementation,ritik027,Java 8,342,0
+39931362,165,1530639308,2147483647,A,1100,implementation,kritika_1001,Java 8,280,0
+39887687,165,1530606060,2147483647,A,1100,implementation,rajat188,Java 8,278,0
+39885947,165,1530601740,2147483647,A,1100,implementation,TaglasovEd,Java 8,312,0
+39817759,165,1530438521,2147483647,A,1100,implementation,nesdi,Java 8,218,0
+39805229,165,1530384826,2147483647,A,1100,implementation,dmytro.prytula,Java 8,280,0
+39634121,165,1529882850,2147483647,B,1500,binary search-implementation,Ultimate17,Java 8,248,0
+39631661,165,1529873204,2147483647,A,1100,implementation,pro100dnorak,Java 8,310,0
+39574418,165,1529774197,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,tsumit023,Java 8,1464,34406400
+39521521,165,1529683550,2147483647,A,1100,implementation,timmyjose,Java 8,340,0
+39446286,165,1529529212,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Taran_1407,Java 8,1620,66252800
+39446246,165,1529528989,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Taran_1407,Java 8,1838,66252800
+39160116,165,1528727321,2147483647,A,1100,implementation,dhaval7,Java 8,342,0
+39134536,165,1528682315,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,S010M,Java 8,310,2764800
+39080934,165,1528592721,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,illmondo,Java 8,530,7270400
+39077754,165,1528574232,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,jenish9599,Java 8,998,0
+39073968,165,1528561288,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ShowStopper728,Java 8,310,0
+39049102,165,1528469272,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,aman28rwt,Java 8,312,0
+38962729,165,1528185052,2147483647,A,1100,implementation,Zedronar,Java 8,278,20684800
+38897545,165,1527955739,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hongquanntct,Java 8,498,21094400
+38865632,165,1527881726,2147483647,A,1100,implementation,Md_Ibrahim_Khan,Java 8,310,21094400
+38820290,165,1527835999,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,xodiac,Java 8,1434,74752000
+38783068,165,1527706465,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,prathmesh_01,Java 8,1278,73420800
+38300008,165,1526410309,2147483647,A,1100,implementation,Lazy_Cat,Java 8,342,21094400
+38297652,165,1526403568,2147483647,A,1100,implementation,Lazy_Cat,Java 8,342,21094400
+38124771,165,1526081795,2147483647,B,1500,binary search-implementation,ashcodish,Java 8,372,21094400
+37980789,165,1525643252,2147483647,B,1500,binary search-implementation,S010M,Java 8,248,20684800
+37917886,165,1525578151,2147483647,A,1100,implementation,jameslol,Java 8,310,21094400
+37908183,165,1525528694,2147483647,A,1100,implementation,Ahmed_Diab,Java 8,280,20787200
+37585590,165,1524616246,2147483647,A,1100,implementation,makarfi,Java 8,342,21094400
+37575143,165,1524579325,2147483647,A,1100,implementation,VBT,Java 8,278,20684800
+37559336,165,1524515684,2147483647,B,1500,binary search-implementation,cmjohnson1,Java 8,248,20684800
+37556094,165,1524504627,2147483647,B,1500,binary search-implementation,Mattt27,Java 8,372,21094400
+37554133,165,1524498569,2147483647,B,1500,binary search-implementation,peTar3121,Java 8,310,20992000
+37550889,165,1524487465,2147483647,A,1100,implementation,omar21,Java 8,248,20684800
+37550303,165,1524485715,2147483647,A,1100,implementation,omar21,Java 8,342,21094400
+37550242,165,1524485540,2147483647,A,1100,implementation,omar21,Java 8,342,21094400
+37544446,165,1524459510,2147483647,B,1500,binary search-implementation,callejaspa,Java 8,310,21094400
+37539093,165,1524422325,2147483647,B,1500,binary search-implementation,1bti,Java 8,310,21094400
+37536150,165,1524412112,2147483647,B,1500,binary search-implementation,Rborr,Java 8,342,21094400
+37045945,165,1523094857,2147483647,A,1100,implementation,ghangh,Java 8,312,21196800
+36879270,165,1522675036,2147483647,A,1100,implementation,arabvisual,Java 8,340,21094400
+36801218,165,1522593250,2147483647,A,1100,implementation,Shubh_21,Java 8,342,21094400
+36681797,165,1522203216,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ViciousCoder,Java 8,498,26624000
+36681263,165,1522198237,2147483647,B,1500,binary search-implementation,ViciousCoder,Java 8,342,20992000
+36468699,165,1521692618,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,I_love_AuroraGarden,Java 8,1028,129740800
+36467608,165,1521685377,2147483647,A,1100,implementation,prwinkmr,Java 8,340,21094400
+36429350,165,1521539963,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mDziewanowski,Java 8,342,25702400
+36429341,165,1521539899,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,michal_d,Java 8,342,25702400
+36338048,165,1521241252,2147483647,B,1500,binary search-implementation,AhmadSherief,Java 8,372,20992000
+36299727,165,1521117685,2147483647,A,1100,implementation,v1sha1,Java 8,342,21094400
+36258274,165,1520965266,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,spar5h,Java 8,1466,122470400
+36249056,165,1520945699,2147483647,A,1100,implementation,varun_31,Java 8,248,20684800
+36083317,165,1520549562,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,cmplx-xyttmt,Java 8,902,112947200
+36079919,165,1520535513,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,BiggestQuitter,Java 8,1246,66969600
+36063391,165,1520493445,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,BiggestQuitter,Java 8,778,54886400
+36062790,165,1520491446,2147483647,B,1500,binary search-implementation,BiggestQuitter,Java 8,248,20684800
+36062542,165,1520490734,2147483647,A,1100,implementation,BiggestQuitter,Java 8,248,20684800
+35971328,165,1520266059,2147483647,A,1100,implementation,Omar_Emad,Java 8,310,21094400
+35882424,165,1520080562,2147483647,A,1100,implementation,harpreetmehra,Java 8,248,20684800
+35853757,165,1520018678,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zeyad_khattab,Java 8,280,20787200
+35803896,165,1519886637,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,D8988B,Java 8,530,26112000
+35731030,165,1519647244,2147483647,A,1100,implementation,jenil1999,Java 8,310,21094400
+35615176,165,1519448574,2147483647,B,1500,binary search-implementation,Sarah_Abdelkhalek,Java 8,312,20992000
+35588705,165,1519363279,2147483647,B,1500,binary search-implementation,AI_stephen,Java 8,280,20992000
+35588285,165,1519360958,2147483647,B,1500,binary search-implementation,SindhuR,Java 8,310,21094400
+35587054,165,1519353380,2147483647,B,1500,binary search-implementation,lucyal8506,Java 8,310,20992000
+35585641,165,1519343597,2147483647,B,1500,binary search-implementation,hmatny,Java 8,310,20992000
+35584960,165,1519339463,2147483647,B,1500,binary search-implementation,chenettet,Java 8,310,20992000
+35578599,165,1519317786,2147483647,B,1500,binary search-implementation,_rosemary_,Java 8,248,20684800
+35566374,165,1519282998,2147483647,B,1500,binary search-implementation,jhuang23,Java 8,310,20992000
+35565070,165,1519276751,2147483647,B,1500,binary search-implementation,henceagrin36,Java 8,372,20992000
+35564510,165,1519273499,2147483647,B,1500,binary search-implementation,ctRy,Java 8,278,20684800
+35564215,165,1519272056,2147483647,B,1500,binary search-implementation,AliNaqvi,Java 8,248,20684800
+35562845,165,1519264293,2147483647,B,1500,binary search-implementation,notritvik,Java 8,312,20992000
+35562018,165,1519258906,2147483647,B,1500,binary search-implementation,mattHEWCHENETTE96,Java 8,280,20992000
+35551338,165,1519225109,2147483647,A,1100,implementation,manparvesh,Java 8,248,20684800
+35536391,165,1519180184,2147483647,B,1500,binary search-implementation,david.mao,Java 8,342,20992000
+35536151,165,1519178511,2147483647,B,1500,binary search-implementation,abelhtt,Java 8,310,20684800
+35534148,165,1519164872,2147483647,B,1500,binary search-implementation,Yasmine.afify,Java 8,248,20684800
+35533736,165,1519162448,2147483647,A,1100,implementation,necsup,Java 8,340,21094400
+35527835,165,1519145235,2147483647,B,1500,binary search-implementation,andreijw,Java 8,310,20992000
+35519717,165,1519126699,2147483647,B,1500,binary search-implementation,davidonsy,Java 8,278,20684800
+35513795,165,1519110320,2147483647,B,1500,binary search-implementation,andreijw,Java 8,280,20992000
+35510217,165,1519097220,2147483647,B,1500,binary search-implementation,wantapie,Java 8,280,20992000
+35508711,165,1519090261,2147483647,B,1500,binary search-implementation,zlex7,Java 8,280,20992000
+35506070,165,1519075810,2147483647,B,1500,binary search-implementation,Michael_Hany,Java 8,342,20684800
+35459896,165,1519002913,2147483647,B,1500,binary search-implementation,Olfat,Java 8,248,20684800
+35444721,165,1518954535,2147483647,B,1500,binary search-implementation,mohamedheshamhelal,Java 8,248,20684800
+35434713,165,1518920234,2147483647,B,1500,binary search-implementation,zemahran,Java 8,248,20684800
+35430183,165,1518897454,2147483647,B,1500,binary search-implementation,Ziax,Java 8,280,20992000
+35373334,165,1518806512,2147483647,A,1100,implementation,CharlesDai,Java 8,218,20684800
+35355553,165,1518796443,2147483647,B,1500,binary search-implementation,YasmineMustafa,Java 8,248,20684800
+35323041,165,1518736258,2147483647,B,1500,binary search-implementation,Ulyrssef,Java 8,280,20992000
+35322545,165,1518733885,2147483647,B,1500,binary search-implementation,thisAAY,Java 8,248,20684800
+35320429,165,1518726254,2147483647,B,1500,binary search-implementation,mariam__,Java 8,280,20992000
+35317034,165,1518719935,2147483647,B,1500,binary search-implementation,Ahmed_Diab,Java 8,248,20684800
+35284590,165,1518677393,2147483647,B,1500,binary search-implementation,PolaMawaad,Java 8,248,20684800
+35280580,165,1518663197,2147483647,B,1500,binary search-implementation,mennafadali,Java 8,248,20684800
+35276409,165,1518641968,2147483647,B,1500,binary search-implementation,MoeAdel,Java 8,248,20684800
+35150265,165,1518345653,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,K_B_C_S,Java 8,934,20684800
+35108229,165,1518221951,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,karfass,Java 8,842,59699200
+35043707,165,1518064013,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Vaibhav96,Java 8,280,20684800
+34874494,165,1517599640,2147483647,A,1100,implementation,Omar.Handouk,Java 8,218,20684800
+34871413,165,1517592625,2147483647,A,1100,implementation,BeardAspirant,Java 8,248,20684800
+34720856,165,1517344994,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,assali,Java 8,310,25702400
+34643299,165,1517171567,2147483647,A,1100,implementation,A-Khaled,Java 8,342,20992000
+34634804,165,1517148095,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,HardikDobariya,Java 8,1122,40960000
+34612775,165,1517073322,2147483647,A,1100,implementation,toufiqul97,Java 8,248,20684800
+34585752,165,1516993011,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,RP_9,Java 8,1684,41574400
+34578827,165,1516977733,2147483647,A,1100,implementation,MitAk,Java 8,280,21094400
+34545934,165,1516883913,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,jajajas,Java 8,468,41779200
+34495823,165,1516739363,2147483647,A,1100,implementation,noxious_av,Java 8,248,20684800
+34436031,165,1516605058,2147483647,B,1500,binary search-implementation,vjudge5,Java 8,280,20992000
+34409286,165,1516529957,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Sephiroth616,Java 8,280,28774400
+34282162,165,1516295687,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Tarun,Java 8,468,41574400
+34260236,165,1516216209,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,kamalkishor1991,Java 8,1216,41369600
+34217964,165,1516095636,2147483647,B,1500,binary search-implementation,Omar_Emad,Java 8,280,20992000
+34216227,165,1516090600,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Fynn,Java 8,654,33996800
+34085987,165,1515668239,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,rahulkhairwar,Java 8,1154,42496000
+34085973,165,1515668175,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,rahulkhairwar,Java 8,1216,42496000
+34085901,165,1515667842,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,rahulkhairwar,Java 8,1184,42496000
+34085899,165,1515667817,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,rahulkhairwar,Java 8,1184,42496000
+34059349,165,1515539883,2147483647,A,1100,implementation,myob-_-,Java 8,372,21196800
+34058714,165,1515534541,2147483647,B,1500,binary search-implementation,Mantawy,Java 8,248,20684800
+34057596,165,1515528781,2147483647,B,1500,binary search-implementation,YasmineMaheeb,Java 8,248,20684800
+33959829,165,1515230659,2147483647,A,1100,implementation,_bacali,Java 8,374,39731200
+33902731,165,1515068164,2147483647,A,1100,implementation,Espartacus,Java 8,248,20684800
+33838835,165,1514755023,2147483647,A,1100,implementation,EAbdel,Java 8,218,20684800
+33658167,165,1514327263,2147483647,A,1100,implementation,zouzankou,Java 8,310,21094400
+33466899,165,1513807267,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,abagana,Java 8,278,20787200
+33397367,165,1513659230,2147483647,A,1100,implementation,ghaint_,Java 8,248,20684800
+33231836,165,1513234114,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,parth_15,Java 8,2462,40960000
+33153073,165,1513078043,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,coderbond007,Java 8,312,41779200
+33152741,165,1513077367,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,coderbond007,Java 8,342,41779200
+32686261,165,1511716425,2147483647,A,1100,implementation,makhil,Java 8,342,21094400
+32643396,165,1511603984,2147483647,A,1100,implementation,eslam,Java 8,372,20889600
+32206898,165,1510351688,2147483647,A,1100,implementation,Sephiroth616,Java 8,280,0
+32183766,165,1510275067,2147483647,B,1500,binary search-implementation,1_2345432_1,Java 8,248,0
+32121394,165,1510063714,2147483647,B,1500,binary search-implementation,DavidVictor2004,Java 8,404,0
+31986012,165,1509639789,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Scut82,Java 8,466,3276800
+31876381,165,1509307350,2147483647,A,1100,implementation,MQstafa,Java 8,280,0
+31872456,165,1509295535,2147483647,A,1100,implementation,Hazard10,Java 8,248,0
+31778198,165,1509073908,2147483647,D,2200,data structures-dsu-trees,Oopsimbad,Java 8,1122,26009600
+31772653,165,1509050675,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,teran,Java 8,1184,88678400
+31731894,165,1509005180,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,jay321,Java 8,466,34406400
+31696456,165,1508894564,2147483647,A,1100,implementation,teran,Java 8,280,0
+31695248,165,1508885537,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Oopsimbad,Java 8,1528,104755200
+31675726,165,1508837692,2147483647,A,1100,implementation,agnyaathavaasi,Java 8,248,20582400
+31608223,165,1508686908,2147483647,A,1100,implementation,Yoyo2014,Java 8,280,20992000
+31603407,165,1508674971,2147483647,B,1500,binary search-implementation,teran,Java 8,280,20889600
+31548731,165,1508556043,2147483647,A,1100,implementation,vjudge2,Java 8,312,20992000
+31545646,165,1508536636,5536,A,1100,implementation,Rahul_S,Java 8,310,20992000
+31545414,165,1508535537,4436,B,1500,binary search-implementation,qwetboy10,Java 8,248,20889600
+31544932,165,1508533095,1995,C,1600,binary search-brute force-dp-math-strings-two pointers,Oopsimbad,Java 8,278,28364800
+31544782,165,1508532461,1361,A,1100,implementation,qwetboy10,Java 8,278,20992000
+31544653,165,1508531926,826,B,1500,binary search-implementation,Oopsimbad,Java 8,218,20172800
+31544477,165,1508531339,239,A,1100,implementation,Oopsimbad,Java 8,218,20275200
+31501705,165,1508402609,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,I_LOVE_UNDEFINED,Java 8,1340,74854400
+31499841,165,1508396991,2147483647,B,1500,binary search-implementation,nipandas122,Java 8,310,20889600
+31498009,165,1508390010,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Jeel_Vaishnav,Java 8,1340,41164800
+31437346,165,1508210842,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Maulik_Patel,Java 8,1028,20889600
+31437165,165,1508209896,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Maulik_Patel,Java 8,278,25907200
+31276648,165,1507903535,2147483647,A,1100,implementation,noura.hesham60,Java 8,280,0
+31261003,165,1507843933,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Hoda_Hisham,Java 8,466,23756800
+31178054,165,1507585656,2147483647,A,1100,implementation,sfmunera,Java 8,280,0
+31151213,165,1507484307,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,flyman3046,Java 8,872,0
+31043121,165,1507225654,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Dijkstra.,Java 8,436,0
+31007662,165,1507179027,2147483647,B,1500,binary search-implementation,2016rshah,Java 8,280,0
+31007508,165,1507178524,2147483647,B,1500,binary search-implementation,ashaylok,Java 8,280,0
+31007279,165,1507177746,2147483647,B,1500,binary search-implementation,davs,Java 8,248,0
+31005969,165,1507170722,2147483647,B,1500,binary search-implementation,tfwToStupidTooProgram,Java 8,248,0
+31005557,165,1507168538,2147483647,B,1500,binary search-implementation,akshaykg42,Java 8,280,0
+31004880,165,1507163031,2147483647,B,1500,binary search-implementation,aznswimmerboi,Java 8,312,0
+30985112,165,1507099939,2147483647,B,1500,binary search-implementation,mraja,Java 8,248,0
+30984449,165,1507097527,2147483647,B,1500,binary search-implementation,Calvinliu0,Java 8,280,0
+30983541,165,1507094425,2147483647,B,1500,binary search-implementation,jfajay,Java 8,310,0
+30981319,165,1507085351,2147483647,B,1500,binary search-implementation,miaber98,Java 8,280,0
+30955127,165,1506990934,2147483647,B,1500,binary search-implementation,kunaalk32,Java 8,278,0
+30946875,165,1506957978,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,lm010,Java 8,436,34406400
+30946546,165,1506957102,2147483647,A,1100,implementation,mouath.saadah,Java 8,218,0
+30934373,165,1506924247,2147483647,B,1500,binary search-implementation,shwinn98,Java 8,278,0
+30926265,165,1506895311,2147483647,B,1500,binary search-implementation,yigewang,Java 8,278,0
+30926210,165,1506894911,2147483647,B,1500,binary search-implementation,kalpanav,Java 8,340,0
+30921675,165,1506888861,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,prabhat236218,Java 8,1590,112435200
+30918900,165,1506885334,2147483647,A,1100,implementation,aynat,Java 8,280,0
+30897969,165,1506831462,2147483647,B,1500,binary search-implementation,CameronE,Java 8,278,0
+30852579,165,1506733576,2147483647,B,1500,binary search-implementation,jk1324,Java 8,280,0
+30822813,165,1506671154,2147483647,A,1100,implementation,kocko,Java 8,248,0
+30783460,165,1506530446,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,parth_15,Java 8,248,4812800
+30765648,165,1506476128,2147483647,A,1100,implementation,Scut82,Java 8,280,0
+30659973,165,1506241017,2147483647,A,1100,implementation,System_test_failed,Java 8,218,0
+30487402,165,1505791852,2147483647,A,1100,implementation,vuthuy.uet,Java 8,280,0
+30455244,165,1505710632,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,prakhar28,Java 8,592,34918400
+30370835,165,1505503013,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,ronakvaghela45,Java 8,2340,99532800
+30233894,165,1504989783,2147483647,B,1500,binary search-implementation,K.philip,Java 8,280,0
+30213646,165,1504908398,2147483647,A,1100,implementation,Karim_Abdelhameed,Java 8,342,0
+30192820,165,1504833114,2147483647,B,1500,binary search-implementation,myothiha09,Java 8,374,0
+30188331,165,1504808577,2147483647,B,1500,binary search-implementation,KEMDAK,Java 8,248,0
+30117674,165,1504641652,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,flydzt,Java 8,310,0
+30108183,165,1504626513,2147483647,A,1100,implementation,skywalker1995,Java 8,280,0
+30091471,165,1504590234,2147483647,B,1500,binary search-implementation,AhmedGhazaly,Java 8,248,0
+30091067,165,1504588816,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,venky1001,Java 8,436,7270400
+30044023,165,1504477014,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zacle_HardWorkPaysOff_,Java 8,748,3276800
+29956818,165,1504204144,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,hell_is_here,Java 8,1528,75264000
+29811014,165,1503765951,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,ebaalhuis,Java 8,1776,82329600
+29810974,165,1503765770,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,ebaalhuis,Java 8,2026,37785600
+29810903,165,1503765486,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,ebaalhuis,Java 8,1684,37785600
+29715901,165,1503516115,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,rtoni,Java 8,374,4915200
+29715485,165,1503514773,2147483647,B,1500,binary search-implementation,rtoni,Java 8,248,0
+29715221,165,1503513955,2147483647,A,1100,implementation,rtoni,Java 8,310,0
+29671692,165,1503368057,2147483647,A,1100,implementation,o.radwan,Java 8,372,0
+29627039,165,1503250865,2147483647,B,1500,binary search-implementation,zeyad_khattab,Java 8,248,0
+29626896,165,1503250506,2147483647,B,1500,binary search-implementation,zeyad_khattab,Java 8,248,0
+29557220,165,1503068976,2147483647,B,1500,binary search-implementation,Omegaxis213,Java 8,248,0
+29546592,165,1503045806,2147483647,A,1100,implementation,RSKL,Java 8,310,0
+29489532,165,1502826316,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Imaginary,Java 8,1464,88473600
+29441608,165,1502650032,2147483647,B,1500,binary search-implementation,Ajudiya_13,Java 8,248,20480000
+29419049,165,1502586744,2147483647,A,1100,implementation,Oktalv,Java 8,310,20889600
+29418992,165,1502586496,2147483647,A,1100,implementation,Oktalv,Java 8,342,20889600
+29411210,165,1502559120,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Zacle07,Java 8,654,25804800
+29378599,165,1502545706,2147483647,A,1100,implementation,cmplx-xyttmt,Java 8,218,20582400
+29364375,165,1502487822,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,rishus23,Java 8,1310,88371200
+29246289,165,1502040533,2147483647,A,1100,implementation,AmeeraMilibari,Java 8,310,20889600
+29112387,165,1501627921,2147483647,A,1100,implementation,mostafayousry8,Java 8,310,20889600
+29086438,165,1501557992,2147483647,A,1100,implementation,Omegaxis213,Java 8,278,20787200
+29080589,165,1501531705,2147483647,B,1500,binary search-implementation,Ahmed_Diab,Java 8,404,20582400
+29022455,165,1501438023,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,U_Square,Java 8,1370,41881600
+28546687,165,1500031482,2147483647,A,1100,implementation,SpeedOfMagic,Java 8,310,20992000
+28248154,165,1499068354,2147483647,A,1100,implementation,srisiro,Java 8,218,20582400
+28009137,165,1498323981,2147483647,A,1100,implementation,betterself,Java 8,278,20582400
+27944621,165,1498044766,3466,C,1600,binary search-brute force-dp-math-strings-two pointers,okok1,Java 8,1122,117555200
+27944346,165,1498043888,2588,C,1600,binary search-brute force-dp-math-strings-two pointers,okok1,Java 8,342,112025600
+27943719,165,1498041792,492,B,1500,binary search-implementation,okok1,Java 8,280,111923200
+27943645,165,1498041570,270,A,1100,implementation,okok1,Java 8,280,112025600
+27917054,165,1497932760,2147483647,A,1100,implementation,Ocykat,Java 8,248,0
+27908033,165,1497886985,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vaibhav28,Java 8,904,26828800
+27805881,165,1497545829,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,demonKing,Java 8,310,3174400
+27793687,165,1497530643,2147483647,B,1500,binary search-implementation,demonKing,Java 8,248,0
+27745253,165,1497302950,2147483647,D,2200,data structures-dsu-trees,Omar_Morsi,Java 8,2306,91340800
+27744526,165,1497298415,2147483647,A,1100,implementation,Kyrie_,Java 8,310,0
+27727361,165,1497214182,2147483647,A,1100,implementation,hukushpakushaly,Java 8,280,0
+27723299,165,1497194804,2147483647,A,1100,implementation,PialKanti,Java 8,218,0
+27707772,165,1497104121,2147483647,B,1500,binary search-implementation,mohamed.alattal,Java 8,218,0
+27697816,165,1497052685,2147483647,A,1100,implementation,ashcodish,Java 8,280,0
+27697062,165,1497046035,2147483647,A,1100,implementation,andrewduffey,Java 8,218,0
+27575170,165,1496634928,2147483647,A,1100,implementation,hananahmad114,Java 8,248,0
+27441507,165,1496127082,2147483647,A,1100,implementation,Arceen01,Java 8,280,0
+27425322,165,1496044789,2147483647,A,1100,implementation,alaataher234,Java 8,280,0
+27418790,165,1495999348,2147483647,B,1500,binary search-implementation,AhmedSoliman,Java 8,218,0
+27414733,165,1495981258,2147483647,B,1500,binary search-implementation,Zurg96,Java 8,216,0
+27356369,165,1495805224,2147483647,B,1500,binary search-implementation,MaxHeap,Java 8,248,0
+27318151,165,1495621239,2147483647,A,1100,implementation,A.Mokhtar,Java 8,280,0
+27304376,165,1495553629,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,aya_cool,Java 8,902,0
+27303606,165,1495551041,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,aya_cool,Java 8,1778,91545600
+27263051,165,1495356842,2147483647,A,1100,implementation,danuwfna,Java 8,218,0
+27127626,165,1494862273,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zodiacleo,Java 8,248,2969600
+27113295,165,1494800622,2147483647,A,1100,implementation,justcode99,Java 8,218,0
+26988255,165,1494377151,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Mr.Azzoz,Java 8,278,6144000
+26941411,165,1494180795,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mug,Java 8,716,15052800
+26915985,165,1494133000,2147483647,D,2200,data structures-dsu-trees,mug,Java 8,2090,65228800
+26910513,165,1494105866,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hemouz,Java 8,560,3276800
+26910059,165,1494103253,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Amman20,Java 8,278,3174400
+26890166,165,1494028789,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hemouz,Java 8,560,3276800
+26799742,165,1493719073,2147483647,A,1100,implementation,Bibhuti,Java 8,248,20480000
+26757408,165,1493507138,2147483647,A,1100,implementation,_bibhuty_,Java 8,218,20480000
+26719735,165,1493385036,2147483647,A,1100,implementation,moh_yehia,Java 8,218,20582400
+26696715,165,1493273310,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ashwin9686,Java 8,278,28672000
+26524867,165,1492715310,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,pitfall,Java 8,1902,88473600
+26524843,165,1492715199,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,pitfall,Java 8,2682,125235200
+26488971,165,1492580729,2147483647,A,1100,implementation,Lance_HAOH,Java 8,248,20582400
+26484795,165,1492551458,2147483647,A,1100,implementation,adhess,Java 8,340,20889600
+26470436,165,1492499326,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Amore_coder,Java 8,498,48947200
+26406383,165,1492325742,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hyj143,Java 8,278,20684800
+26405700,165,1492323760,2147483647,B,1500,binary search-implementation,hyj143,Java 8,218,20582400
+26394324,165,1492275033,2147483647,B,1500,binary search-implementation,Amore_coder,Java 8,248,20582400
+26234560,165,1491732976,2147483647,A,1100,implementation,shadofren,Java 8,278,20889600
+26233689,165,1491729802,2147483647,A,1100,implementation,balabhaskar,Java 8,310,20889600
+26051281,165,1491045613,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Mihir_Gajera1,Java 8,280,20684800
+25972223,165,1490951341,2147483647,A,1100,implementation,Dijkstra.,Java 8,310,20889600
+25801996,165,1490459322,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ekaanshkhosla,Java 8,310,25702400
+25789671,165,1490423463,2147483647,A,1100,implementation,amansharma00a,Java 8,310,20992000
+25668975,165,1490021254,2147483647,A,1100,implementation,DavidVictor2004,Java 8,310,20889600
+25556375,165,1489685118,2147483647,B,1500,binary search-implementation,ekaanshkhosla,Java 8,218,20480000
+25462651,165,1489441328,2147483647,A,1100,implementation,Amr_Ayman,Java 8,218,20582400
+25337688,165,1488964483,2147483647,A,1100,implementation,ahmedayman96,Java 8,248,20582400
+25159367,165,1488491624,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,raiders57,Java 8,590,29798400
+25158853,165,1488489103,2147483647,A,1100,implementation,raiders57,Java 8,280,20889600
+25158801,165,1488488836,2147483647,B,1500,binary search-implementation,raiders57,Java 8,248,20889600
+25157588,165,1488483253,2147483647,A,1100,implementation,WalkBack,Java 8,280,20787200
+25009424,165,1488018165,2147483647,B,1500,binary search-implementation,PriyamV_181,Java 8,218,20787200
+24642392,165,1487051249,2147483647,B,1500,binary search-implementation,NHouse,Java 8,310,20889600
+24641521,165,1487046144,2147483647,B,1500,binary search-implementation,tgianitsos,Java 8,374,20889600
+24641423,165,1487045410,2147483647,B,1500,binary search-implementation,kdavid2,Java 8,248,20889600
+24640590,165,1487039258,2147483647,B,1500,binary search-implementation,isahu7,Java 8,280,20889600
+24639687,165,1487031768,2147483647,B,1500,binary search-implementation,LiorPSHS,Java 8,312,20889600
+24634683,165,1487011356,2147483647,B,1500,binary search-implementation,t0114,Java 8,310,20889600
+24619456,165,1486950497,2147483647,B,1500,binary search-implementation,alexmchen,Java 8,280,20889600
+24610250,165,1486908515,2147483647,A,1100,implementation,Kammola,Java 8,218,20582400
+24599421,165,1486862302,2147483647,B,1500,binary search-implementation,skenkare,Java 8,310,20889600
+24598998,165,1486858255,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mug,Java 8,654,33792000
+24583831,165,1486795731,2147483647,B,1500,binary search-implementation,btchen,Java 8,280,20889600
+24575919,165,1486751498,2147483647,B,1500,binary search-implementation,Tintinator,Java 8,280,20889600
+24574946,165,1486748393,2147483647,B,1500,binary search-implementation,ilinum,Java 8,342,20889600
+24561078,165,1486694699,2147483647,B,1500,binary search-implementation,refinedsushi,Java 8,310,20889600
+24557867,165,1486672355,2147483647,B,1500,binary search-implementation,mstager,Java 8,310,20889600
+24555299,165,1486662862,2147483647,B,1500,binary search-implementation,kevinbc,Java 8,310,20889600
+24553503,165,1486657203,2147483647,A,1100,implementation,akanksha.dwivedi93,Java 8,310,20889600
+24553266,165,1486656446,2147483647,B,1500,binary search-implementation,BurnedMonkey,Java 8,310,20889600
+24540865,165,1486614173,2147483647,B,1500,binary search-implementation,henear,Java 8,374,20889600
+24537952,165,1486595006,2147483647,B,1500,binary search-implementation,alexyou8021,Java 8,248,20889600
+24537840,165,1486594311,2147483647,B,1500,binary search-implementation,RohitBhatta,Java 8,342,20889600
+24536749,165,1486587761,2147483647,B,1500,binary search-implementation,JoshuaHu,Java 8,374,20889600
+24483630,165,1486454952,2147483647,B,1500,binary search-implementation,asangisetti,Java 8,310,21094400
+24259726,165,1485751133,2147483647,B,1500,binary search-implementation,MDL,Java 8,248,20480000
+24246786,165,1485692073,2147483647,A,1100,implementation,ankit6193,Java 8,342,20889600
+24231807,165,1485626101,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,prashanth_rebala,Java 8,310,20582400
+24148513,165,1485435397,2147483647,A,1100,implementation,mickysam,Java 8,372,20889600
+24147175,165,1485431482,2147483647,A,1100,implementation,mohamed_fared,Java 8,312,20992000
+24138068,165,1485380378,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Kishan_25,Java 8,842,35942400
+24075101,165,1485187931,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,MDL,Java 8,404,25292800
+24017578,165,1485023621,2147483647,A,1100,implementation,tabgok44,Java 8,310,20582400
+24004696,165,1484982849,2147483647,A,1100,implementation,hady1100,Java 8,404,20992000
+23987760,165,1484913816,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,AJ_Coder,Java 8,2090,88473600
+23926761,165,1484756824,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mehdimaick,Java 8,528,29593600
+23900641,165,1484652278,2147483647,B,1500,binary search-implementation,OmarES,Java 8,280,20480000
+23899187,165,1484646449,2147483647,B,1500,binary search-implementation,mmsmhh,Java 8,436,20889600
+23893457,165,1484621275,2147483647,B,1500,binary search-implementation,HhMorgan,Java 8,436,20889600
+23892841,165,1484617653,2147483647,B,1500,binary search-implementation,Nesrin,Java 8,372,20889600
+23892818,165,1484617556,2147483647,B,1500,binary search-implementation,BLABLA12345,Java 8,372,20889600
+23890895,165,1484601858,2147483647,B,1500,binary search-implementation,Prog_X,Java 8,340,20480000
+23853731,165,1484501563,2147483647,A,1100,implementation,retro,Java 8,278,20992000
+23836276,165,1484480486,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kocko,Java 8,310,29696000
+23721837,165,1484151439,2147483647,B,1500,binary search-implementation,Killer45,Java 8,248,20582400
+23686420,165,1484073815,2147483647,B,1500,binary search-implementation,pitfall,Java 8,278,21196800
+23682785,165,1484058775,2147483647,B,1500,binary search-implementation,master.milind,Java 8,248,20582400
+23671085,165,1483995847,2147483647,A,1100,implementation,ReaL_73,Java 8,280,20992000
+23527118,165,1483498215,2147483647,D,2200,data structures-dsu-trees,MedoN11,Java 8,1994,98406400
+23523702,165,1483473701,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kunalk,Java 8,496,88371200
+23509607,165,1483416929,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Aegon,Java 8,998,20684800
+23502941,165,1483375340,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Ahmad,Java 8,436,61542400
+23485278,165,1483282367,2147483647,D,2200,data structures-dsu-trees,MedoN11,Java 8,2368,98508800
+23475290,165,1483216412,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,slicedclementines,Java 8,934,25600000
+23458148,165,1483132639,2147483647,A,1100,implementation,mohamed.alattal,Java 8,310,20582400
+23458147,165,1483132639,2147483647,A,1100,implementation,mohamed.alattal,Java 8,248,20582400
+23380258,165,1482936349,2147483647,B,1500,binary search-implementation,shahsaurabh0605,Java 8,218,20582400
+23379581,165,1482934211,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,shahsaurabh0605,Java 8,374,25600000
+23362480,165,1482854407,2147483647,A,1100,implementation,gsphanikumar,Java 8,310,20992000
+23224915,165,1482410476,2147483647,A,1100,implementation,mkhalel211,Java 8,312,20582400
+23221954,165,1482401915,2147483647,B,1500,binary search-implementation,SoiMae,Java 8,372,20889600
+23221871,165,1482401613,2147483647,A,1100,implementation,SoiMae,Java 8,436,20992000
+23033278,165,1481903362,2147483647,B,1500,binary search-implementation,Omar_Morsi,Java 8,310,0
+22932590,165,1481652483,2147483647,A,1100,implementation,anand_prakash_yadav,Java 8,280,0
+22883684,165,1481471094,2147483647,A,1100,implementation,Ali_jaber,Java 8,280,0
+22841345,165,1481308487,2147483647,B,1500,binary search-implementation,Consciencer,Java 8,218,0
+22840394,165,1481305720,2147483647,A,1100,implementation,Naick,Java 8,248,0
+22728061,165,1481021014,2147483647,A,1100,implementation,womendezuguo,Java 8,374,0
+22682156,165,1480787382,2147483647,B,1500,binary search-implementation,chrisxu3,Java 8,310,0
+22321602,165,1479545075,2147483647,A,1100,implementation,kripa_jha007,Java 8,248,0
+22318049,165,1479527870,2147483647,A,1100,implementation,_gambler,Java 8,218,0
+22267056,165,1479300237,2147483647,A,1100,implementation,hassan1,Java 8,310,0
+22167714,165,1478888032,2147483647,A,1100,implementation,xodiac,Java 8,340,0
+22126134,165,1478680587,2147483647,A,1100,implementation,Ballan,Java 8,340,0
+22051757,165,1478335591,2147483647,B,1500,binary search-implementation,Omar_Kojak,Java 8,248,0
+22029893,165,1478248419,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,raunaak,Java 8,342,2969600
+21893958,165,1477837799,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,marcose18,Java 8,2246,51097600
+21882358,165,1477771820,2147483647,A,1100,implementation,coderbond007,Java 8,280,0
+21874723,165,1477753610,2147483647,A,1100,implementation,jackie_006,Java 8,280,0
+21780424,165,1477423918,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,pitfall,Java 8,436,15155200
+21776594,165,1477414831,2147483647,A,1100,implementation,Dekacc,Java 8,248,0
+21656816,165,1477109480,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,safarisoul,Java 8,466,23859200
+21638342,165,1477044502,2147483647,B,1500,binary search-implementation,safarisoul,Java 8,278,0
+21626470,165,1476990318,2147483647,A,1100,implementation,IsmailKent,Java 8,248,0
+21608242,165,1476936877,2147483647,B,1500,binary search-implementation,jessethd,Java 8,310,20787200
+21599820,165,1476896481,2147483647,A,1100,implementation,nasserahmed36,Java 8,310,20787200
+21509015,165,1476664800,2147483647,B,1500,binary search-implementation,nginther,Java 8,340,20889600
+21506295,165,1476648573,2147483647,A,1100,implementation,Soumendu.Sinha,Java 8,248,20275200
+21369394,165,1476217879,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,yahiahisham14,Java 8,310,25395200
+21352457,165,1476169255,2147483647,A,1100,implementation,pvtuan10,Java 8,312,20889600
+21306553,165,1475967587,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,akhi29,Java 8,310,20582400
+21278329,165,1475924623,2147483647,A,1100,implementation,mvs_217,Java 8,218,20480000
+21194425,165,1475606847,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,MedoN11,Java 8,3398,74240000
+20979592,165,1475098853,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,motivation_error,Java 8,498,23859200
+20827135,165,1474580970,2147483647,A,1100,implementation,Ahmad,Java 8,404,0
+20820747,165,1474556855,2147483647,B,1500,binary search-implementation,anuj64,Java 8,248,0
+20811023,165,1474525117,2147483647,B,1500,binary search-implementation,jrh0203,Java 8,342,0
+20809906,165,1474517622,2147483647,B,1500,binary search-implementation,guneetdhillon,Java 8,372,0
+20809506,165,1474514528,2147483647,B,1500,binary search-implementation,brpavs,Java 8,342,0
+20809149,165,1474511497,2147483647,B,1500,binary search-implementation,rajvanshyr,Java 8,310,0
+20808194,165,1474504332,2147483647,B,1500,binary search-implementation,aestrin,Java 8,310,0
+20807045,165,1474496883,2147483647,B,1500,binary search-implementation,ejjhaynes,Java 8,280,0
+20796948,165,1474466646,2147483647,B,1500,binary search-implementation,tedw,Java 8,310,0
+20788562,165,1474434455,2147483647,B,1500,binary search-implementation,nquddus,Java 8,310,0
+20783402,165,1474398288,2147483647,B,1500,binary search-implementation,superkevin,Java 8,372,0
+20747520,165,1474259573,2147483647,B,1500,binary search-implementation,christineyang,Java 8,280,0
+20721216,165,1474150809,2147483647,B,1500,binary search-implementation,jaydeep,Java 8,342,0
+20667867,165,1474055194,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,anuj64,Java 8,280,0
+20653533,165,1474006143,2147483647,B,1500,binary search-implementation,cqt7,Java 8,310,0
+20651073,165,1473990810,2147483647,B,1500,binary search-implementation,amx,Java 8,280,0
+20633822,165,1473923590,2147483647,B,1500,binary search-implementation,arianagranbae,Java 8,342,0
+20632342,165,1473918377,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,parth015,Java 8,312,6041600
+20553642,165,1473701562,2147483647,D,2200,data structures-dsu-trees,FinnTheHuman,Java 8,1558,35225600
+20537699,165,1473617749,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,FinnTheHuman,Java 8,2652,65945600
+20535682,165,1473609766,2266,C,1600,binary search-brute force-dp-math-strings-two pointers,FinnTheHuman,Java 8,312,7065600
+20535223,165,1473608107,607,B,1500,binary search-implementation,FinnTheHuman,Java 8,280,0
+20535129,165,1473607761,261,A,1100,implementation,FinnTheHuman,Java 8,248,0
+20480881,165,1473433463,2147483647,B,1500,binary search-implementation,Hazemzz,Java 8,310,0
+20446144,165,1473283688,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,I_Need_Alex_R_Coleman,Java 8,592,36044800
+20441246,165,1473264843,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Hazemzz,Java 8,310,19148800
+20308185,165,1472663120,2147483647,A,1100,implementation,TVH,Java 8,340,0
+20147639,165,1472111477,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Fawzia,Java 8,342,28569600
+20147598,165,1472111355,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Dhyaa,Java 8,310,20582400
+20147336,165,1472110757,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,jcazalas,Java 8,498,41574400
+20147159,165,1472110337,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hosam.yousof,Java 8,342,20582400
+20147095,165,1472110145,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,msarhan.abc.local,Java 8,280,28569600
+20147055,165,1472110035,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AbeerRadwan,Java 8,280,20582400
+20146955,165,1472109770,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,MeeDooBak,Java 8,342,29593600
+20042114,165,1471856091,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,softmax,Java 8,310,20582400
+19968719,165,1471629171,2147483647,A,1100,implementation,nagabhushan,Java 8,280,20889600
+19945173,165,1471519850,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,bhishma,Java 8,248,20582400
+19848423,165,1471086431,2147483647,B,1500,binary search-implementation,softmax,Java 8,248,20480000
+19844154,165,1471072815,2147483647,A,1100,implementation,nishtha2217,Java 8,280,20889600
+19771559,165,1470855368,2147483647,A,1100,implementation,NR_1995,Java 8,248,20480000
+19752429,165,1470766431,2147483647,B,1500,binary search-implementation,Minaa,Java 8,248,20480000
+19723477,165,1470644177,2147483647,A,1100,implementation,rishabh1403,Java 8,310,20889600
+19719380,165,1470627234,2147483647,B,1500,binary search-implementation,Kharouba,Java 8,218,20480000
+19716112,165,1470609597,2147483647,B,1500,binary search-implementation,Amr_Ayman,Java 8,218,20480000
+19715644,165,1470606420,2147483647,B,1500,binary search-implementation,nourhan.gheith,Java 8,218,20480000
+19712498,165,1470594412,2147483647,B,1500,binary search-implementation,shorim,Java 8,434,20480000
+19711081,165,1470591833,2147483647,B,1500,binary search-implementation,Ahmed.Shawky,Java 8,404,20889600
+19683712,165,1470560857,2147483647,B,1500,binary search-implementation,Youmna_Elghandoor,Java 8,248,20480000
+19682051,165,1470554657,2147483647,B,1500,binary search-implementation,hala333,Java 8,248,20480000
+19565766,165,1470073120,2147483647,A,1100,implementation,Kharouba,Java 8,248,0
+19562532,165,1470060906,2147483647,A,1100,implementation,Youmna_Elghandoor,Java 8,280,0
+19562217,165,1470059764,2147483647,A,1100,implementation,Ahmed.Shawky,Java 8,248,0
+19561802,165,1470058558,2147483647,A,1100,implementation,Minaa,Java 8,248,0
+19544505,165,1469994821,2147483647,A,1100,implementation,Hoda_Hisham,Java 8,218,0
+19467790,165,1469736119,2147483647,A,1100,implementation,JoM,Java 8,278,0
+19416309,165,1469514222,2147483647,A,1100,implementation,akosisaif,Java 8,372,0
+19388273,165,1469383174,2147483647,A,1100,implementation,nitk_ranjan,Java 8,342,0
+19310562,165,1469144084,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,228,Java 7,966,7065600
+19290583,165,1469065493,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ehapmgs,Java 7,280,20377600
+19192021,165,1468767366,2147483647,A,1100,implementation,Zlobber,Java 7,280,0
+19191017,165,1468762956,2147483647,A,1100,implementation,HimachalLad,Java 8,280,0
+19155178,165,1468591643,2147483647,B,1500,binary search-implementation,hala333,Java 8,280,0
+19033333,165,1468251596,2147483647,A,1100,implementation,Dukkha,Java 8,248,0
+19033222,165,1468251115,2147483647,B,1500,binary search-implementation,Dukkha,Java 8,280,0
+19012935,165,1468167712,2147483647,B,1500,binary search-implementation,slicedclementines,Java 8,248,0
+18872958,165,1467580620,2147483647,B,1500,binary search-implementation,505alex,Java 8,278,0
+18872945,165,1467580559,2147483647,B,1500,binary search-implementation,505alex,Java 8,404,15769600
+18872567,165,1467577565,2147483647,A,1100,implementation,505alex,Java 8,278,0
+18774132,165,1467150925,2147483647,B,1500,binary search-implementation,ehapmgs,Java 7,218,0
+18703174,165,1466780481,2147483647,A,1100,implementation,adityagupta1089,Java 8,280,0
+18687788,165,1466711919,2147483647,B,1500,binary search-implementation,yoyo3999,Java 8,248,0
+18687687,165,1466711749,2147483647,B,1500,binary search-implementation,yoyo3999,Java 8,248,0
+18626180,165,1466496308,2147483647,B,1500,binary search-implementation,vipul1996,Java 8,280,0
+18608604,165,1466396547,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,seifeldin,Java 7,280,0
+18608596,165,1466396495,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,the_king,Java 7,280,0
+18606438,165,1466377283,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mIchanic,Java 7,278,3481600
+18603098,165,1466359647,2147483647,A,1100,implementation,raunaak,Java 8,248,0
+18588260,165,1466292077,1577,B,1500,binary search-implementation,mIchanic,Java 7,218,0
+18588100,165,1466291008,508,A,1100,implementation,mIchanic,Java 7,310,0
+18474761,165,1465928373,2147483647,B,1500,binary search-implementation,zodiacleo,Java 7,216,39014400
+18391137,165,1465736487,2147483647,B,1500,binary search-implementation,zodiacleo,Java 7,218,39014400
+18391097,165,1465736372,2147483647,B,1500,binary search-implementation,zodiacleo,Java 7,216,39014400
+18289068,165,1465325088,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,frktry,Java 7,248,39321600
+18260885,165,1465150042,2147483647,A,1100,implementation,zodiacleo,Java 7,218,39116800
+18260591,165,1465148215,2147483647,A,1100,implementation,zodiacleo,Java 7,218,39219200
+18229746,165,1464949940,2147483647,B,1500,binary search-implementation,kocko,Java 8,248,20582400
+18152132,165,1464570348,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Fatemeh,Java 8,374,26009600
+18121353,165,1464367915,2147483647,A,1100,implementation,Imaginary,Java 8,342,20889600
+18115391,165,1464340119,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,i_Love_Jaiman,Java 8,374,113868800
+18110466,165,1464298808,2147483647,A,1100,implementation,frktry,Java 7,248,39321600
+18023647,165,1463861266,2147483647,A,1100,implementation,anirudh_voru,Java 8,248,20582400
+18001900,165,1463733812,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ddragomir01,Java 8,280,20684800
+17973995,165,1463535987,2147483647,A,1100,implementation,Carson,Java 8,310,20787200
+17973211,165,1463522608,2147483647,A,1100,implementation,Sharon,Java 8,310,20992000
+17973199,165,1463522428,2147483647,A,1100,implementation,Sharon,Java 8,310,20787200
+17967576,165,1463491445,2147483647,B,1500,binary search-implementation,cohadar,Java 8,340,20992000
+17813673,165,1462751058,2147483647,B,1500,binary search-implementation,HAZEM_GUC,Java 8,310,20992000
+17535501,165,1461761612,2147483647,A,1100,implementation,danuwfna,Java 8,248,20582400
+17424735,165,1461269689,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,mikcorer,Java 8,2244,88473600
+17352460,165,1460832748,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,love11mishra,Java 8,498,3276800
+17291407,165,1460473499,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AJ_Coder,Java 7,466,3379200
+17278530,165,1460381806,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,danuwfna,Java 8,872,6041600
+17276396,165,1460372285,2147483647,A,1100,implementation,lebaur,Java 7,248,0
+17275236,165,1460364857,2147483647,A,1100,implementation,Abdullah_Abu_Alrish,Java 7,216,0
+17029766,165,1459324624,2147483647,A,1100,implementation,Omar_Morsi,Java 8,218,20582400
+17021098,165,1459261454,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,abhishek125,Java 8,466,25907200
+16950061,165,1458982346,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AJ_Coder,Java 7,842,86323200
+16723267,165,1458013998,2147483647,D,2200,data structures-dsu-trees,alibaba,Java 7,1122,20172800
+16649864,165,1457704419,2147483647,A,1100,implementation,Qazaqstan,Java 8,218,0
+16550176,165,1457259268,2147483647,B,1500,binary search-implementation,forgetfulness,Java 8,280,0
+16439213,165,1456829213,2147483647,B,1500,binary search-implementation,AJ_Coder,Java 7,218,0
+16389936,165,1456597271,2147483647,A,1100,implementation,waleedhegazi,Java 8,248,0
+16344145,165,1456482528,2147483647,B,1500,binary search-implementation,yasmineamr,Java 8,278,0
+16341735,165,1456472676,2147483647,B,1500,binary search-implementation,daniel_floyd,Java 7,248,0
+16331430,165,1456408085,2147483647,A,1100,implementation,omiera,Java 8,310,0
+16321904,165,1456384636,2147483647,A,1100,implementation,I_Need_Alex_R_Coleman,Java 8,248,0
+16319809,165,1456374655,2147483647,B,1500,binary search-implementation,mhankin,Java 7,248,0
+16319196,165,1456367856,2147483647,B,1500,binary search-implementation,chrisyhsun,Java 8,280,0
+16319036,165,1456366102,2147483647,B,1500,binary search-implementation,klin,Java 8,310,0
+16318204,165,1456358007,2147483647,B,1500,binary search-implementation,bph443,Java 8,280,0
+16304522,165,1456299025,2147483647,D,2200,data structures-dsu-trees,LadoBago,Java 8,1560,64716800
+16297933,165,1456252657,2147483647,B,1500,binary search-implementation,brdleyb,Java 8,278,0
+16269861,165,1456104913,2147483647,B,1500,binary search-implementation,lincolnturner,Java 8,280,0
+16269858,165,1456104873,2147483647,B,1500,binary search-implementation,Vincent_and_Kompany,Java 8,280,0
+16269848,165,1456104788,2147483647,B,1500,binary search-implementation,lincolnturner,Java 8,280,0
+16268722,165,1456093138,2147483647,B,1500,binary search-implementation,osson1,Java 8,248,0
+16216045,165,1455914077,2147483647,A,1100,implementation,stacy992,Java 8,280,0
+16192037,165,1455856738,2147483647,B,1500,binary search-implementation,rperce,Java 8,280,0
+16191912,165,1455856117,2147483647,B,1500,binary search-implementation,rperce,Java 8,248,0
+16189571,165,1455843572,2147483647,B,1500,binary search-implementation,cjkim,Java 7,218,0
+16189542,165,1455843319,2147483647,B,1500,binary search-implementation,zeehow,Java 8,310,0
+16189488,165,1455843009,2147483647,B,1500,binary search-implementation,cjkim,Java 7,216,0
+16185602,165,1455824890,2147483647,A,1100,implementation,kubusgol,Java 8,218,0
+15979933,165,1455321365,2147483647,A,1100,implementation,Picasso-Abud,Java 8,310,0
+15961112,165,1455212511,2147483647,B,1500,binary search-implementation,latentcoder,Java 7,218,0
+15895526,165,1454934982,2147483647,B,1500,binary search-implementation,NR_1995,Java 8,218,0
+15838726,165,1454746241,2147483647,B,1500,binary search-implementation,Minaa,Java 8,218,0
+15826327,165,1454679971,2147483647,B,1500,binary search-implementation,marky_j_cs,Java 8,218,0
+15814916,165,1454623898,2147483647,B,1500,binary search-implementation,akhi29,Java 8,248,0
+15790646,165,1454602587,2147483647,B,1500,binary search-implementation,Minaa,Java 8,218,0
+15759893,165,1454457277,2147483647,B,1500,binary search-implementation,abdo_shabrawy,Java 8,248,0
+15741421,165,1454371245,2147483647,B,1500,binary search-implementation,hady1100,Java 8,310,0
+15726882,165,1454313203,2147483647,D,2200,data structures-dsu-trees,Yury_Bandarchuk,Java 8,1340,81408000
+15725982,165,1454309319,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Yury_Bandarchuk,Java 8,1840,87142400
+15725869,165,1454308792,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Yury_Bandarchuk,Java 8,280,0
+15725803,165,1454308494,2147483647,B,1500,binary search-implementation,Yury_Bandarchuk,Java 8,280,0
+15721514,165,1454282648,2147483647,A,1100,implementation,CandidateNewbie,Java 8,278,0
+15719740,165,1454272327,2147483647,A,1100,implementation,Senior91,Java 8,218,0
+15677818,165,1454155115,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,DukeOfYork,Java 7,1278,24780800
+15645737,165,1454072251,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,DukeOfYork,Java 7,248,0
+15645627,165,1454071909,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,DukeOfYork,Java 7,404,36761600
+15625659,165,1453971487,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,spaul100,Java 8,278,0
+15618625,165,1453924495,2147483647,B,1500,binary search-implementation,Mohamed_KHLY,Java 7,280,0
+15584509,165,1453770395,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,MedoN11,Java 7,1152,0
+15583463,165,1453761074,2147483647,A,1100,implementation,Corvus,Java 8,218,0
+15574189,165,1453728996,2147483647,B,1500,binary search-implementation,alaa_megahed,Java 8,218,0
+15515821,165,1453560196,2147483647,B,1500,binary search-implementation,hossamfawzy96,Java 7,248,0
+15515808,165,1453560125,2147483647,B,1500,binary search-implementation,azzaafify96,Java 7,248,0
+15510457,165,1453536148,2147483647,B,1500,binary search-implementation,vjudge2,Java 8,218,0
+15509966,165,1453534239,2147483647,B,1500,binary search-implementation,vjudge5,Java 8,216,0
+15509943,165,1453534139,2147483647,B,1500,binary search-implementation,vjudge3,Java 8,280,0
+15509717,165,1453533315,2147483647,B,1500,binary search-implementation,vjudge4,Java 8,310,0
+15509228,165,1453531597,2147483647,B,1500,binary search-implementation,lszt1996,Java 8,218,0
+15486768,165,1453412006,2147483647,B,1500,binary search-implementation,mariem_kandil,Java 8,218,0
+15469496,165,1453385289,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Ahmad_Elsagheer,Java 8,248,0
+15467517,165,1453376292,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Ahmad_Elsagheer,Java 8,1058,0
+15411145,165,1453010655,2147483647,A,1100,implementation,Tarun2316,Java 8,278,0
+15400441,165,1452933808,2147483647,A,1100,implementation,poojagiri,Java 8,280,0
+15396004,165,1452900596,2147483647,B,1500,binary search-implementation,mohamedazab,Java 8,218,0
+15389304,165,1452864245,2147483647,B,1500,binary search-implementation,OmarRadwan,Java 8,218,0
+15388207,165,1452860379,2147483647,A,1100,implementation,CandidateNewbie,Java 7,218,0
+15337744,165,1452723917,2147483647,B,1500,binary search-implementation,mssk,Java 8,280,0
+15323447,165,1452634068,2147483647,B,1500,binary search-implementation,Imaginary,Java 8,248,0
+15286822,165,1452510924,2147483647,B,1500,binary search-implementation,El5dewy,Java 8,248,0
+15261769,165,1452295312,2147483647,A,1100,implementation,jose_paulo_aparicio,Java 8,310,0
+15199352,165,1452047930,2147483647,A,1100,implementation,Andre_Aldunate,Java 8,280,0
+15194518,165,1452017980,2147483647,A,1100,implementation,vcfl,Java 8,278,0
+15183691,165,1451927686,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,akshay_miterani,Java 8,310,0
+15148927,165,1451657448,2147483647,A,1100,implementation,dwoolley3,Java 8,186,0
+15027458,165,1451114306,2147483647,B,1500,binary search-implementation,aaditya_thakkar,Java 8,186,0
+14923055,165,1450776712,2147483647,B,1500,binary search-implementation,Ahmad_Elsagheer,Java 8,218,0
+14893953,165,1450586704,2147483647,A,1100,implementation,safarisoul,Java 8,218,0
+14844713,165,1450350293,2147483647,B,1500,binary search-implementation,Crusader2896,Java 7,248,0
+14827383,165,1450213216,2147483647,A,1100,implementation,JohnnyJi,Java 8,278,0
+14814323,165,1450178282,2147483647,A,1100,implementation,pandusonu,Java 8,218,0
+14802977,165,1450100180,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AL_DEEB,Java 7,466,11980800
+14693739,165,1449551802,2147483647,B,1500,binary search-implementation,vantueyeude,Java 8,310,0
+14642939,165,1449209899,2147483647,A,1100,implementation,vjudge2,Java 7,278,0
+14560535,165,1448814363,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AJ_Coder,Java 7,404,0
+14560033,165,1448811002,2147483647,A,1100,implementation,ehapmgs,Java 7,310,0
+14507298,165,1448609353,2147483647,A,1100,implementation,bhishma,Java 7,216,0
+14507276,165,1448609242,2147483647,A,1100,implementation,bhishma,Java 8,248,0
+14297214,165,1447676001,2147483647,A,1100,implementation,fatiha.kafou,Java 8,372,0
+14289178,165,1447618918,2147483647,A,1100,implementation,safae,Java 8,340,0
+14264560,165,1447573517,2147483647,A,1100,implementation,tuna,Java 8,186,0
+14171977,165,1447078571,2147483647,A,1100,implementation,tarek.nawara,Java 8,218,0
+14017185,165,1446434137,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zhaotao,Java 7,530,0
+13939144,165,1446144743,2147483647,B,1500,binary search-implementation,robert_nabil20022002,Java 8,218,0
+13809239,165,1445606873,2147483647,B,1500,binary search-implementation,step_by_step,Java 8,278,0
+13809065,165,1445606254,2147483647,A,1100,implementation,step_by_step,Java 8,280,0
+13799716,165,1445549878,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Phicar,Java 7,716,59084800
+13783779,165,1445482482,2147483647,A,1100,implementation,Thunragz,Java 8,248,0
+13780842,165,1445459204,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Asma123,Java 7,310,0
+13600557,165,1444783160,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,joche,Java 7,498,3788800
+13600486,165,1444781462,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Calith,Java 7,498,3788800
+13600320,165,1444779223,6223,B,1500,binary search-implementation,joche,Java 7,186,0
+13600287,165,1444778637,5637,B,1500,binary search-implementation,Calith,Java 7,186,0
+13600045,165,1444775551,2551,A,1100,implementation,Calith,Java 7,248,0
+13599989,165,1444774847,1847,A,1100,implementation,joche,Java 7,186,0
+13495631,165,1444315786,2147483647,A,1100,implementation,RAMBO_tejasv,Java 8,248,0
+13417601,165,1444054816,2147483647,A,1100,implementation,pepradere,Java 7,156,0
+13347825,165,1443807719,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Rustem,Java 8,436,0
+13325154,165,1443672804,2147483647,B,1500,binary search-implementation,DPortillo821,Java 8,280,0
+13325146,165,1443672770,2147483647,B,1500,binary search-implementation,WiNDWAY,Java 8,280,0
+13325081,165,1443671974,2147483647,B,1500,binary search-implementation,Jleung,Java 8,280,0
+13324865,165,1443669479,2147483647,B,1500,binary search-implementation,rdatta,Java 8,280,0
+13324860,165,1443669438,2147483647,B,1500,binary search-implementation,ddtk,Java 8,280,0
+13324836,165,1443669210,2147483647,B,1500,binary search-implementation,kltang,Java 8,280,0
+13324808,165,1443668876,2147483647,B,1500,binary search-implementation,rainier_,Java 8,280,0
+13324511,165,1443665787,2147483647,B,1500,binary search-implementation,hayleycall,Java 7,186,0
+13324464,165,1443665366,2147483647,B,1500,binary search-implementation,haleyowen,Java 7,186,0
+13323450,165,1443654303,2147483647,B,1500,binary search-implementation,hownl96,Java 7,186,0
+13322393,165,1443644840,2147483647,B,1500,binary search-implementation,MentalMegalodon,Java 7,186,0
+13321972,165,1443642561,2147483647,B,1500,binary search-implementation,kaelenhaag,Java 7,186,0
+13316486,165,1443623937,2147483647,B,1500,binary search-implementation,kapilk,Java 7,186,0
+13308478,165,1443588028,2147483647,B,1500,binary search-implementation,chaseterry,Java 8,218,0
+13306574,165,1443566779,2147483647,B,1500,binary search-implementation,vchang1,Java 8,278,0
+13306422,165,1443565171,2147483647,B,1500,binary search-implementation,ben.lin9,Java 7,184,0
+13292622,165,1443510089,2147483647,B,1500,binary search-implementation,Gilbertm,Java 7,184,0
+13292421,165,1443509082,2147483647,B,1500,binary search-implementation,trocha,Java 8,280,0
+13291173,165,1443501240,2147483647,B,1500,binary search-implementation,Phicar,Java 7,154,0
+13256441,165,1443404124,2147483647,B,1500,binary search-implementation,mykobob,Java 7,156,0
+13242474,165,1443303119,2147483647,B,1500,binary search-implementation,jymin94,Java 8,248,0
+13224022,165,1443207981,2147483647,B,1500,binary search-implementation,andreassudihardjo,Java 8,280,0
+13222953,165,1443202808,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,TWO_POINTER,Java 8,496,36966400
+13128202,165,1442846011,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Trasier,Java 7,186,0
+13071385,165,1442507300,2147483647,B,1500,binary search-implementation,omartarek32,Java 8,310,0
+13055455,165,1442435529,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,robert_nabil20022002,Java 8,404,16179200
+12991487,165,1442198428,2147483647,A,1100,implementation,isaksham,Java 8,310,0
+12900234,165,1441729055,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,dpk7jn,Java 7,468,0
+12897963,165,1441718101,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,fiter,Java 8,1870,137318400
+12888180,165,1441647532,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,dpark3542,Java 8,342,0
+12845690,165,1441401410,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Magellanea,Java 7,684,37171200
+12779438,165,1440952875,2147483647,A,1100,implementation,Crusader2896,Java 8,310,0
+12721378,165,1440689898,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AhmedSoliman,Java 8,436,6758400
+12702593,165,1440554186,2147483647,B,1500,binary search-implementation,leonardord8,Java 8,280,0
+12702556,165,1440553925,2147483647,B,1500,binary search-implementation,leonardord8,Java 8,280,0
+12677885,165,1440367928,2147483647,A,1100,implementation,Gendo.,Java 7,154,0
+12611499,165,1440044331,2147483647,B,1500,binary search-implementation,rafa236784,Java 7,186,0
+12573200,165,1439804253,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Nirmit13cs30,Java 8,280,0
+12480075,165,1439385780,2147483647,B,1500,binary search-implementation,juanmf,Java 8,278,0
+12456753,165,1439234292,2147483647,B,1500,binary search-implementation,justomiguel,Java 8,248,0
+12421514,165,1439099800,2147483647,B,1500,binary search-implementation,analog,Java 8,248,0
+12407780,165,1438995454,2147483647,B,1500,binary search-implementation,mjv87ster,Java 8,280,0
+12394868,165,1438899596,2147483647,B,1500,binary search-implementation,effie.m,Java 8,280,0
+12347072,165,1438757851,2147483647,A,1100,implementation,Ahmad_Elsagheer,Java 8,280,0
+12296210,165,1438374464,2147483647,D,2200,data structures-dsu-trees,mquezada,Java 8,1310,37273600
+12294879,165,1438364179,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,.tx,Java 8,498,33382400
+12263658,165,1438169138,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,di_halt,Java 8,684,0
+12254767,165,1438102693,2147483647,B,1500,binary search-implementation,.tx,Java 8,248,0
+12253516,165,1438095216,2147483647,B,1500,binary search-implementation,di_halt,Java 8,218,0
+12253198,165,1438093418,2147483647,A,1100,implementation,di_halt,Java 8,248,0
+12242842,165,1438014437,2147483647,A,1100,implementation,KimoKomo,Java 7,156,0
+12191793,165,1437613875,2147483647,A,1100,implementation,Trasier,Java 7,156,0
+12153095,165,1437503984,2147483647,B,1500,binary search-implementation,santicalcagno,Java 7,156,0
+12025548,165,1436766073,2147483647,A,1100,implementation,noOne0196,Java 8,280,0
+11974787,165,1436372394,2147483647,B,1500,binary search-implementation,infinitydeltax,Java 8,280,0
+11940945,165,1436145188,2147483647,B,1500,binary search-implementation,salmaattia,Java 7,186,0
+11922244,165,1436010630,2147483647,B,1500,binary search-implementation,Aya_Osama,Java 8,280,0
+11906749,165,1435905727,2147483647,B,1500,binary search-implementation,safaa,Java 8,280,0
+11904935,165,1435892315,2147483647,B,1500,binary search-implementation,sheroukelshiekh,Java 7,186,0
+11902106,165,1435866976,2147483647,B,1500,binary search-implementation,rona,Java 7,186,0
+11901534,165,1435863548,2147483647,B,1500,binary search-implementation,AmirA_Fathi,Java 8,280,0
+11833849,165,1435567386,2147483647,B,1500,binary search-implementation,nguyenmanhphuc,Java 7,186,0
+11725764,165,1435075046,2147483647,A,1100,implementation,Mr.obeidat,Java 8,280,0
+11624807,165,1434569965,2147483647,A,1100,implementation,khaled_khattab,Java 7,186,0
+11620719,165,1434550528,2147483647,A,1100,implementation,sanket_udgirkar,Java 8,280,0
+11596514,165,1434385123,2147483647,A,1100,implementation,waledsaleh,Java 7,186,0
+11593945,165,1434370026,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,1e9,Java 8,280,0
+11502898,165,1433794989,2147483647,A,1100,implementation,saket9450,Java 8,218,0
+11490301,165,1433697441,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,alibaba,Java 7,2058,77619200
+11415468,165,1433431692,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,LuuNhatPhi,Java 7,218,0
+11414951,165,1433428760,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Hartha,Java 8,248,0
+11392528,165,1433261337,2147483647,B,1500,binary search-implementation,turmoil,Java 8,218,0
+11389454,165,1433246512,2147483647,A,1100,implementation,mr.baraa,Java 7,156,0
+11381511,165,1433177667,2147483647,A,1100,implementation,Tamtomus,Java 7,154,0
+11352573,165,1432959263,2147483647,B,1500,binary search-implementation,00h00h00h,Java 8,248,0
+11336915,165,1432836814,2147483647,A,1100,implementation,Musin,Java 8,498,12185600
+11322221,165,1432741598,2147483647,A,1100,implementation,khaledzag,Java 7,154,0
+11135618,165,1431956632,2147483647,A,1100,implementation,KOPOBA,Java 7,154,0
+11125459,165,1431861259,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,georgy.ivanov,Java 8,560,48332800
+11092931,165,1431549810,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,sweiss,Java 8,310,1126400
+11088766,165,1431521807,2147483647,B,1500,binary search-implementation,sweiss,Java 8,218,0
+11052780,165,1431158646,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,PTNK13091996,Java 8,466,0
+11045065,165,1431098147,2147483647,B,1500,binary search-implementation,peytones,Java 7,186,0
+11040423,165,1431080901,2147483647,D,2200,data structures-dsu-trees,A.Elahi,Java 8,1090,14336000
+10993320,165,1430724316,2147483647,B,1500,binary search-implementation,Hari_Sridhar,Java 7,186,0
+10914816,165,1430191423,2147483647,A,1100,implementation,nguyenmanhphuc,Java 8,280,29081600
+10909637,165,1430142562,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,saichandu6,Java 8,1216,107417600
+10847211,165,1429880946,2147483647,A,1100,implementation,Mr_Battikhi,Java 8,280,29286400
+10847123,165,1429880410,2147483647,A,1100,implementation,Mr_Battikhi,Java 8,310,29286400
+10769050,165,1429368129,2147483647,A,1100,implementation,Abu-Gasem1,Java 8,248,0
+10704560,165,1429018403,2147483647,A,1100,implementation,Ahmed.Gaber,Java 7,248,0
+10694924,165,1428934457,2147483647,B,1500,binary search-implementation,safaa,Java 8,248,0
+10687865,165,1428878959,2147483647,B,1500,binary search-implementation,Maestro_,Java 8,248,0
+10684856,165,1428863866,2147483647,B,1500,binary search-implementation,hassankhalil,Java 8,248,0
+10679416,165,1428858939,2147483647,B,1500,binary search-implementation,Aya_Osama,Java 7,184,0
+10668979,165,1428853252,2147483647,A,1100,implementation,abed.jaradat,Java 8,280,0
+10660704,165,1428782057,2147483647,B,1500,binary search-implementation,ahmedhafez,Java 8,278,0
+10645987,165,1428650168,2147483647,A,1100,implementation,undefz,Java 8,436,0
+10621510,165,1428412390,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,omarnvidia,Java 7,216,0
+10617126,165,1428363231,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,omarnvidia,Java 7,216,0
+10501527,165,1427553417,2147483647,A,1100,implementation,shereifhawary,Java 7,186,0
+10429778,165,1427268929,2147483647,A,1100,implementation,harishanumula,Java 8,218,0
+10397560,165,1427022113,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,turmoil,Java 8,248,0
+10380166,165,1426948190,2147483647,A,1100,implementation,codingfrom2015,Java 8,218,0
+10343720,165,1426719827,2147483647,A,1100,implementation,memo,Java 8,372,0
+10290763,165,1426431995,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,chuongk,Java 8,560,0
+10264616,165,1426297831,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Joromero,Java 8,498,36864000
+10189919,165,1425731212,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,biltharesatyendra,Java 8,1808,178073600
+10188326,165,1425721547,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,biltharesatyendra,Java 8,280,0
+10168340,165,1425581259,2147483647,A,1100,implementation,NeverSayNever,Java 8,310,0
+10101959,165,1425249515,2147483647,A,1100,implementation,MariaR,Java 7,186,0
+10091596,165,1425184868,2147483647,A,1100,implementation,LLL.A,Java 7,154,0
+10059335,165,1425098549,2147483647,B,1500,binary search-implementation,CameronReynoldson,Java 7,186,0
+10038513,165,1424992095,2147483647,B,1500,binary search-implementation,NoCakeNoCode,Java 7,186,0
+10038455,165,1424991223,2147483647,B,1500,binary search-implementation,xywang,Java 8,248,0
+10038079,165,1424987693,2147483647,B,1500,binary search-implementation,skllmaster,Java 7,186,0
+10027249,165,1424918019,2147483647,A,1100,implementation,MariaR,Java 7,218,0
+10024109,165,1424889591,2147483647,B,1500,binary search-implementation,aikatai,Java 7,186,0
+10009690,165,1424812755,2147483647,A,1100,implementation,abdo.gamal.coder,Java 8,280,0
+9933991,165,1424410843,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kubusgol,Java 8,654,50380800
+9878922,165,1424153702,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,poikniok,Java 8,560,2150400
+9807414,165,1423743943,2147483647,A,1100,implementation,loremipsumpy,Java 8,280,0
+9791691,165,1423589953,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Guliash,Java 7,1776,41779200
+9782622,165,1423504205,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kubusgol,Java 8,280,6246400
+9668175,165,1422811883,3203,C,1600,binary search-brute force-dp-math-strings-two pointers,Guliash,Java 7,842,0
+9667924,165,1422809949,1269,B,1500,binary search-implementation,Guliash,Java 7,154,0
+9667816,165,1422808946,266,A,1100,implementation,Guliash,Java 7,154,0
+9633645,165,1422650994,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,luc4sdreyer,Java 7,404,29184000
+9563375,165,1422292205,2147483647,A,1100,implementation,stolis,Java 7,186,0
+9549839,165,1422194889,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kubusgol,Java 8,248,0
+9542541,165,1422134980,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AIDOS,Java 8,248,0
+9495215,165,1421861416,2147483647,B,1500,binary search-implementation,AIDOS,Java 8,248,0
+9423515,165,1421154400,2147483647,B,1500,binary search-implementation,HowieHuang,Java 8,280,0
+9363727,165,1420434285,2147483647,B,1500,binary search-implementation,poikniok,Java 8,310,0
+9363719,165,1420433919,2147483647,B,1500,binary search-implementation,poikniok,Java 8,372,0
+9183755,165,1418888663,2147483647,A,1100,implementation,.tx,Java 8,248,0
+9132502,165,1418573862,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,amanchik,Java 7,840,0
+8996141,165,1417829816,2147483647,B,1500,binary search-implementation,zohrf,Java 7,186,0
+8928227,165,1417501491,2147483647,A,1100,implementation,Izzat_Sultanow,Java 7,216,102400
+8906060,165,1417448184,2147483647,A,1100,implementation,mehmed_77,Java 8,372,102400
+8830391,165,1416798135,2147483647,A,1100,implementation,filthycasual,Java 8,404,204800
+8691110,165,1415953403,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,trungkienioicamp,Java 7,528,0
+8676901,165,1415841435,2147483647,A,1100,implementation,poikniok,Java 7,218,14233600
+8556846,165,1415184794,2147483647,B,1500,binary search-implementation,vjudge3,Java 7,186,0
+8534242,165,1415012808,2147483647,A,1100,implementation,greg_gy,Java 7,186,0
+8397882,165,1414212137,2147483647,B,1500,binary search-implementation,stevegregg,Java 6,184,0
+8354761,165,1414000249,2147483647,B,1500,binary search-implementation,spcr4,Java 7,124,0
+8332862,165,1413821033,2147483647,A,1100,implementation,Luqman,Java 7,996,0
+8299362,165,1413680328,2147483647,B,1500,binary search-implementation,vjudge5,Java 7,154,0
+8297324,165,1413661546,2147483647,B,1500,binary search-implementation,marcose18,Java 6,216,0
+8297097,165,1413659605,2147483647,B,1500,binary search-implementation,marcose18,Java 6,218,0
+8295756,165,1413649140,2147483647,B,1500,binary search-implementation,obsessed,Java 7,404,0
+8287825,165,1413586886,2147483647,B,1500,binary search-implementation,vjudge4,Java 7,654,0
+8287796,165,1413586561,2147483647,B,1500,binary search-implementation,vjudge5,Java 6,810,0
+8287774,165,1413586383,2147483647,B,1500,binary search-implementation,vjudge4,Java 7,810,0
+8287680,165,1413585701,2147483647,B,1500,binary search-implementation,vjudge2,Java 7,496,0
+8287526,165,1413583875,2147483647,B,1500,binary search-implementation,vjudge1,Java 6,498,0
+8287524,165,1413583865,2147483647,B,1500,binary search-implementation,vjudge3,Java 6,404,0
+8287407,165,1413582659,2147483647,B,1500,binary search-implementation,vjudge5,Java 7,404,0
+8241222,165,1413405634,2147483647,B,1500,binary search-implementation,jsvangeffen,Java 7,156,0
+8240682,165,1413399757,2147483647,B,1500,binary search-implementation,ElConejito16,Java 7,156,0
+8239477,165,1413390987,2147483647,B,1500,binary search-implementation,jarkyll,Java 7,184,0
+8223872,165,1413259076,2147483647,B,1500,binary search-implementation,brett1479,Java 7,154,0
+8178772,165,1413073475,2147483647,B,1500,binary search-implementation,nickson,Java 7,156,0
+8137208,165,1412754238,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,monsterspy,Java 7,216,0
+8136955,165,1412751560,2147483647,B,1500,binary search-implementation,monsterspy,Java 7,154,0
+8136796,165,1412749801,2147483647,A,1100,implementation,monsterspy,Java 7,156,0
+8055323,165,1412242343,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,fillets,Java 7,216,0
+8052400,165,1412215238,2147483647,B,1500,binary search-implementation,NesmaEmad00000,Java 8,280,0
+8052295,165,1412213177,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mohamednabil00000,Java 8,436,102400
+8052199,165,1412210788,2147483647,B,1500,binary search-implementation,mohamednabil00000,Java 8,280,0
+8052193,165,1412210621,2147483647,A,1100,implementation,NesmaEmad00000,Java 8,310,0
+8052142,165,1412209648,2147483647,A,1100,implementation,mohamednabil00000,Java 8,280,0
+8050381,165,1412187441,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,tomdmitriev,Java 8,716,819200
+7987970,165,1411842878,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ahmed_fathy_aly,Java 7,186,0
+7814478,165,1410925105,2147483647,A,1100,implementation,thebigfatpanda,Java 7,186,102400
+7814191,165,1410918599,2147483647,B,1500,binary search-implementation,ahmed_fathy_aly,Java 7,154,0
+7730207,165,1410284328,2147483647,B,1500,binary search-implementation,Seva,Java 7,186,0
+7720549,165,1410175458,2147483647,A,1100,implementation,__TTS__,Java 8,372,0
+7675804,165,1409757880,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Rauf_Agayev,Java 7,624,55091200
+7552903,165,1408715962,2147483647,A,1100,implementation,vjudge5,Java 7,186,0
+7552823,165,1408715373,2147483647,A,1100,implementation,poopi,Java 8,404,0
+7502018,165,1408374274,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,KillerCage,Java 7,218,0
+7500416,165,1408361974,2147483647,A,1100,implementation,Ilya1995,Java 7,186,204800
+7490510,165,1408261781,2147483647,A,1100,implementation,traktorist1,Java 8,436,819200
+7425006,165,1407744671,2147483647,A,1100,implementation,prashanthv,Java 7,186,102400
+7401984,165,1407566216,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,megazeka,Java 7,342,14131200
+7366692,165,1407411010,2147483647,A,1100,implementation,ilya.cerber,Java 7,186,204800
+7350318,165,1407225765,2147483647,A,1100,implementation,artist1995,Java 7,154,0
+7342668,165,1407137725,2147483647,A,1100,implementation,StarkY,Java 7,186,0
+7335521,165,1407050282,2147483647,A,1100,implementation,Fritz_97,Java 8,404,1331200
+7298629,165,1406801229,2147483647,B,1500,binary search-implementation,tinneminy,Java 6,186,0
+7140510,165,1405620554,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,dheeraj1995,Java 7,216,0
+7009474,165,1404464735,2147483647,B,1500,binary search-implementation,owenomar,Java 7,156,0
+6938943,165,1403372262,2147483647,A,1100,implementation,owenomar,Java 8,342,0
+6887698,165,1402719525,2147483647,A,1100,implementation,stevegregg,Java 6,218,14336000
+6792622,165,1401840567,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mquezada,Java 6,498,0
+6763286,165,1401612743,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,xeyyam,Java 7,374,0
+6753585,165,1401493191,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Tewisp,Java 7,342,12185600
+6753571,165,1401492921,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hellbuster,Java 6,592,55398400
+6740822,165,1401460015,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,1e9,Java 7,186,0
+6740718,165,1401458966,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,1e9,Java 7,842,0
+6740000,165,1401450873,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,1e9,Java 7,872,0
+6667090,165,1400676154,2147483647,A,1100,implementation,Serge2041,Java 7,186,0
+6666447,165,1400668680,2147483647,A,1100,implementation,Satayev,Java 8,372,0
+6666440,165,1400668560,2147483647,A,1100,implementation,Satayev,Java 8,560,1843200
+6573288,165,1399564652,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,afrizal,Java 7,186,0
+6564056,165,1399400592,2147483647,A,1100,implementation,vsmasster,Java 7,186,0
+6547348,165,1399260919,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,nickbuelich,Java 8,872,35840000
+6509809,165,1398851705,2147483647,A,1100,implementation,jk_qq,Java 7,154,0
+6509508,165,1398847729,2147483647,A,1100,implementation,cmouli,Java 6,156,0
+6457655,165,1398299324,2147483647,A,1100,implementation,randomuSir,Java 7,186,409600
+6453256,165,1398252974,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,I_love_Malika,Java 7,1620,42393600
+6448741,165,1398197458,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,teetora,Java 7,652,56524800
+6360567,165,1397512456,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,jcomputer000,Java 7,216,0
+6194498,165,1396233477,2147483647,A,1100,implementation,axe7,Java 7,186,0
+6015548,165,1394809701,2147483647,A,1100,implementation,tanhausser,Java 7,186,0
+5971108,165,1394397551,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,turingcomplete,Java 7,186,0
+5954281,165,1394154320,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,haowch,Java 6,716,204800
+5918953,165,1393900055,2147483647,B,1500,binary search-implementation,haowch,Java 6,154,0
+5904654,165,1391612527,2147483647,A,1100,implementation,Naethure,Java 6,186,102400
+5872366,165,1391415255,2147483647,B,1500,binary search-implementation,VeraK,Java 7,154,0
+5870955,165,1391388888,2147483647,B,1500,binary search-implementation,ELMaestro,Java 7,156,102400
+5864272,165,1391275949,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Slamur,Java 7,186,307200
+5864251,165,1391275788,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,tomash_em,Java 7,436,17100800
+5835190,165,1391036458,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,anoo_rag,Java 6,156,102400
+5834192,165,1391021220,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,jakabfia,Java 7,498,48742400
+5831284,165,1390991001,2147483647,B,1500,binary search-implementation,fillets,Java 7,124,0
+5823959,165,1390895286,2147483647,A,1100,implementation,jakabfia,Java 7,186,0
+5812460,165,1390739034,2147483647,A,1100,implementation,MajeedSiddiqui,Java 7,154,0
+5806263,165,1390655721,2147483647,A,1100,implementation,zCode,Java 7,156,0
+5761994,165,1390276068,2147483647,A,1100,implementation,tzzcl,Java 7,184,0
+5704736,165,1389897235,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,rohangarg,Java 6,186,0
+5704509,165,1389894355,2147483647,B,1500,binary search-implementation,rohangarg,Java 6,124,0
+5704406,165,1389893158,2147483647,A,1100,implementation,rohangarg,Java 6,124,0
+5703152,165,1389877144,2147483647,A,1100,implementation,batkhuyag,Java 7,156,0
+5679681,165,1389581989,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hyungoos,Java 7,468,204800
+5678638,165,1389562062,2147483647,B,1500,binary search-implementation,Slamur,Java 7,156,0
+5665736,165,1389536519,2147483647,A,1100,implementation,Ahed-Alrashaida,Java 7,156,0
+5665712,165,1389536219,2147483647,B,1500,binary search-implementation,Ahed-Alrashaida,Java 6,124,0
+5665677,165,1389535890,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Ahed-Alrashaida,Java 6,124,0
+5657434,165,1389400689,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,miguelmaurizio,Java 7,1652,46387200
+5636548,165,1389170306,2147483647,A,1100,implementation,NoCakeNoCode,Java 7,156,0
+5622501,165,1388931492,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,prantor,Java 7,156,0
+5620179,165,1388904873,2147483647,A,1100,implementation,degamma,Java 7,156,102400
+5616203,165,1388843670,2147483647,B,1500,binary search-implementation,bhimsen92,Java 7,156,0
+5616152,165,1388843094,2147483647,B,1500,binary search-implementation,bhimsen92,Java 7,156,0
+5616116,165,1388842590,2147483647,B,1500,binary search-implementation,bhimsen92,Java 7,156,0
+5613673,165,1388807248,2147483647,A,1100,implementation,haowch,Java 6,156,102400
+5599555,165,1388597760,2147483647,A,1100,implementation,Slamur,Java 7,156,204800
+5545000,165,1388270616,2147483647,A,1100,implementation,pvasilyev,Java 7,186,102400
+5525975,165,1388075146,2147483647,B,1500,binary search-implementation,tomash_em,Java 7,156,0
+5455929,165,1387291949,2147483647,A,1100,implementation,Staticity,Java 6,92,2252800
+5405193,165,1386697569,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,alibaba,Java 6,374,34406400
+5400549,165,1386637993,2147483647,A,1100,implementation,ssohn,Java 7,156,204800
+5391930,165,1386519535,2147483647,A,1100,implementation,IDEAL,Java 6,156,102400
+5374398,165,1386411602,2147483647,A,1100,implementation,MehrdadSComputer,Java 7,156,0
+5356606,165,1386269838,2147483647,B,1500,binary search-implementation,Stickman,Java 7,124,0
+5351029,165,1386201038,2147483647,A,1100,implementation,Blizzard888,Java 7,124,0
+5324540,165,1385935029,2147483647,A,1100,implementation,ksamykandil,Java 6,124,0
+5232216,165,1385345839,2147483647,B,1500,binary search-implementation,alibaba,Java 6,186,0
+5199525,165,1385226503,2147483647,A,1100,implementation,alibaba,Java 6,156,204800
+5189157,165,1385096010,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,upsolving,Java 7,156,0
+5148276,165,1384856039,2147483647,B,1500,binary search-implementation,upsolving,Java 7,124,0
+5138733,165,1384734235,2147483647,A,1100,implementation,jetsfan87,Java 7,156,0
+5025351,165,1383856757,2147483647,A,1100,implementation,SurenNihalani,Java 7,186,102400
+5018560,165,1383772062,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Nevidimka,Java 6,436,819200
+5017701,165,1383759513,2147483647,B,1500,binary search-implementation,MatveyKr,Java 7,124,0
+4989511,165,1383610745,2147483647,A,1100,implementation,I_AM_SAND,Java 7,156,0
+4956354,165,1383334922,2147483647,A,1100,implementation,turingcomplete,Java 7,186,204800
+4866735,165,1382637545,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,alexyz,Java 7,1028,7987200
+4841497,165,1382433497,2147483647,A,1100,implementation,IsJustCoder,Java 7,156,0
+4835924,165,1382331751,2147483647,A,1100,implementation,feline,Java 7,218,53145600
+4801962,165,1381892289,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,lovesf,Java 7,342,0
+4612659,165,1380549141,2147483647,A,1100,implementation,Steeves,Java 7,218,409600
+4500940,165,1379566802,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,hama-du,Java 7,2432,86528000
+4490952,165,1379456979,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,santjuan,Java 7,2870,139980800
+4451711,165,1379077100,2147483647,A,1100,implementation,aladdin3,Java 7,156,0
+4449788,165,1379021184,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,sroyal,Java 6,998,0
+4444484,165,1378915216,5716,B,1500,binary search-implementation,michael154,Java 7,186,0
+4430379,165,1378611410,2147483647,B,1500,binary search-implementation,vvenkai,Java 7,156,0
+4430280,165,1378609523,2147483647,B,1500,binary search-implementation,CurbStomp,Java 7,156,0
+4409231,165,1378379220,2147483647,A,1100,implementation,KaVaBUnGO,Java 6,156,0
+4395693,165,1378101854,2147483647,B,1500,binary search-implementation,jupaneira,Java 6,186,0
+4395691,165,1378101816,2147483647,B,1500,binary search-implementation,jupaneira,Java 6,186,0
+4367216,165,1377798109,2147483647,B,1500,binary search-implementation,Sokolov,Java 7,156,0
+4359225,165,1377647411,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,travm12,Java 7,374,102400
+4339674,165,1377524447,2147483647,A,1100,implementation,meskill,Java 7,186,0
+4338492,165,1377506287,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ahani,Java 7,218,0
+4331391,165,1377329186,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vvenkai,Java 7,186,0
+4328950,165,1377261174,2147483647,A,1100,implementation,ihkus,Java 7,186,13721600
+4328078,165,1377245396,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,atinjca,Java 7,312,0
+4325186,165,1377193610,2147483647,A,1100,implementation,sbatten,Java 7,218,0
+4324016,165,1377176205,2147483647,B,1500,binary search-implementation,sorin,Java 6,186,0
+4314527,165,1376974523,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,jcomputer000,Java 6,3992,78131200
+4314482,165,1376972763,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,DoublePointer,Java 7,1684,78233600
+4298905,165,1376678989,2147483647,B,1500,binary search-implementation,travm12,Java 7,186,0
+4284235,165,1376615833,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,trunghieu11,Java 7,1184,30105600
+4282841,165,1376583795,2147483647,A,1100,implementation,MaxMiller,Java 7,186,0
+4278537,165,1376494487,2147483647,B,1500,binary search-implementation,MaxMiller,Java 7,218,0
+4267547,165,1376269682,2147483647,A,1100,implementation,vvenkai,Java 6,156,0
+4243789,165,1375967419,2147483647,B,1500,binary search-implementation,soo,Java 6,186,0
+4236649,165,1375788060,2147483647,B,1500,binary search-implementation,akashm,Java 6,186,0
+4220509,165,1375530588,2147483647,A,1100,implementation,satt-e,Java 6,186,102400
+4205267,165,1375203445,2147483647,B,1500,binary search-implementation,stacy992,Java 7,218,0
+4201544,165,1375136315,2147483647,A,1100,implementation,Togrul-BSU,Java 7,218,0
+4197046,165,1375070785,2147483647,A,1100,implementation,eynshteyn,Java 6,248,102400
+4192059,165,1374969616,2147483647,A,1100,implementation,monotreme,Java 7,218,102400
+4159388,165,1374703430,2147483647,B,1500,binary search-implementation,sroyal,Java 6,109,102400
+4094674,165,1374092592,2147483647,A,1100,implementation,santjuan,Java 7,78,0
+4055907,165,1373650361,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,VeraK,Java 7,453,56524800
+4043964,165,1373398891,2147483647,A,1100,implementation,sroyal,Java 6,125,0
+4028185,165,1373047231,2147483647,A,1100,implementation,takhi,Java 7,109,102400
+3966024,165,1372310692,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,anuj,Java 6,234,102400
+3964958,165,1372271260,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,pankajb23,Java 6,296,14131200
+3963391,165,1372244509,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Mostafa.Gabriel,Java 7,156,0
+3961883,165,1372204987,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kyacout,Java 7,109,0
+3912241,165,1371528183,2147483647,A,1100,implementation,sonhuytran,Java 7,109,102400
+3911542,165,1371504291,2147483647,A,1100,implementation,QTKaze,Java 6,156,0
+3824173,165,1370420818,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,0p9o8i,Java 7,250,102400
+3812641,165,1370125392,2147483647,A,1100,implementation,gamucf,Java 7,125,204800
+3807820,165,1370013509,2147483647,B,1500,binary search-implementation,akx15,Java 7,109,102400
+3782302,165,1369632457,2147483647,A,1100,implementation,akashm,Java 6,109,0
+3758350,165,1369242546,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,santjuan,Java 7,500,0
+3753627,165,1369150574,2147483647,A,1100,implementation,Stickman,Java 7,109,0
+3725281,165,1368660052,2147483647,A,1100,implementation,zarhane,Java 7,93,102400
+3723188,165,1368614261,2147483647,B,1500,binary search-implementation,maratmiki,Java 7,93,0
+3719831,165,1368529846,2147483647,A,1100,implementation,Mostafa.Gabriel,Java 7,93,0
+3715990,165,1368439056,2147483647,A,1100,implementation,vaquan,Java 6,109,2457600
+3697620,165,1368136418,2147483647,A,1100,implementation,ns_serg,Java 7,109,102400
+3682647,165,1367781119,2147483647,A,1100,implementation,maratmiki,Java 7,125,102400
+3656818,165,1367396230,2147483647,B,1500,binary search-implementation,uzuki008,Java 6,109,0
+3616189,165,1366803411,2147483647,B,1500,binary search-implementation,uzuki008,Java 6,93,0
+3555477,165,1366189693,2147483647,A,1100,implementation,VeraK,Java 6,78,0
+3504368,165,1365694069,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hs484,Java 7,765,0
+3477261,165,1365175393,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,ixxa,Java 7,1953,185548800
+3405586,165,1364240322,2147483647,A,1100,implementation,Sabelan,Java 6,109,102400
+3400970,165,1364140251,2147483647,A,1100,implementation,monyone,Java 6,109,102400
+3398560,165,1364108562,2147483647,A,1100,implementation,nightwolf212,Java 6,109,102400
+3354206,165,1363646576,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,coder245,Java 6,171,102400
+3227262,165,1362170678,2147483647,A,1100,implementation,sedov.mikhail,Java 7,125,102400
+3176230,165,1361625140,2147483647,D,2200,data structures-dsu-trees,Azat_Yusupov,Java 7,765,13516800
+3174596,165,1361582992,2147483647,A,1100,implementation,guspra,Java 7,93,0
+3174235,165,1361567862,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mkirsche,Java 6,343,102400
+3145754,165,1361254038,2147483647,B,1500,binary search-implementation,bagedan,Java 6,93,102400
+3142456,165,1361176534,2147483647,B,1500,binary search-implementation,bagedan,Java 6,93,0
+3135761,165,1361003052,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vjudge1,Java 7,125,0
+3135726,165,1361002386,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,vjudge5,Java 7,921,102400
+3104740,165,1360619985,2147483647,A,1100,implementation,0p9o8i,Java 6,109,102400
+3091638,165,1360522438,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,edorundo,Java 7,140,0
+3084792,165,1360351667,2147483647,B,1500,binary search-implementation,mjchao,Java 7,109,0
+3084640,165,1360347454,2147483647,A,1100,implementation,prostotak,Java 7,125,102400
+3043850,165,1359710128,2147483647,B,1500,binary search-implementation,Spacejoker,Java 6,93,2252800
+3041310,165,1359646157,2147483647,A,1100,implementation,bitwise,Java 7,109,102400
+3040892,165,1359640567,2147483647,A,1100,implementation,Spacejoker,Java 6,109,2252800
+3037982,165,1359566995,2147483647,A,1100,implementation,CurbStomp,Java 7,78,0
+3035713,165,1359525340,2147483647,A,1100,implementation,HellScre4m,Java 7,109,102400
+3035083,165,1359494058,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,diego.link,Java 7,156,0
+3034923,165,1359490241,2147483647,A,1100,implementation,DnS,Java 7,93,0
+3012809,165,1359214592,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,miguelmaurizio,Java 7,203,0
+3006602,165,1359099647,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,DnS,Java 7,234,17408000
+2881323,165,1357586546,2147483647,A,1100,implementation,MiroO,Java 6,93,0
+2881252,165,1357583740,2147483647,A,1100,implementation,glusus,Java 6,109,0
+2866745,165,1357136907,2147483647,A,1100,implementation,Francuz,Java 7,109,102400
+2863608,165,1357046459,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Spellbound,Java 7,546,63180800
+2850946,165,1356742675,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ahmad_mamdouh,Java 6,625,0
+2849407,165,1356704065,2147483647,B,1500,binary search-implementation,mkirsche,Java 6,109,0
+2804806,165,1356122707,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,xiaowuc1,Java 6,343,36864000
+2800115,165,1356059970,2147483647,A,1100,implementation,mkirsche,Java 6,125,102400
+2751846,165,1355240733,2147483647,A,1100,implementation,sparkforreg,Java 6,109,0
+2731801,165,1354999767,2147483647,B,1500,binary search-implementation,Spellbound,Java 7,109,0
+2674824,165,1354135623,2147483647,A,1100,implementation,Spellbound,Java 6,109,0
+2674252,165,1354125076,2147483647,A,1100,implementation,xamxam23,Java 6,78,0
+2674178,165,1354123580,2147483647,A,1100,implementation,xamxam23,Java 6,109,0
+2669816,165,1354038206,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,apollo,Java 6,2828,88780800
+2639267,165,1353792967,2147483647,A,1100,implementation,MGriisser,Java 6,125,0
+2601374,165,1353351512,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,ahmad_mamdouh,Java 6,1296,85606400
+2563197,165,1352982790,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,TUITUF_Bahrom,Java 6,265,0
+2516778,165,1352254951,2147483647,A,1100,implementation,milderhc,Java 7,125,0
+2516716,165,1352249568,2147483647,A,1100,implementation,fabiankasUN,Java 6,125,102400
+2496000,165,1351972930,2147483647,A,1100,implementation,Shersh,Java 6,78,0
+2468567,165,1351538695,2147483647,B,1500,binary search-implementation,Tin_Tin,Java 6,109,0
+2468359,165,1351535536,2147483647,A,1100,implementation,Tin_Tin,Java 6,125,0
+2378646,165,1350471245,2147483647,B,1500,binary search-implementation,mingotlik,Java 6,109,0
+2378480,165,1350469179,2147483647,B,1500,binary search-implementation,TUITUF_Bahrom,Java 6,109,0
+2329153,165,1349798146,2147483647,A,1100,implementation,HuaNaaFC,Java 6,93,204800
+2300535,165,1349378340,2147483647,A,1100,implementation,Sulta,Java 6,140,102400
+2296139,165,1349277525,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Rodge,Java 6,390,14233600
+2295107,165,1349254818,2147483647,A,1100,implementation,SyFy,Java 7,109,0
+2271331,165,1349015972,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Venom,Java 6,125,0
+2267879,165,1348880065,2147483647,B,1500,binary search-implementation,olgeorge,Java 6,109,0
+2267850,165,1348877148,2147483647,B,1500,binary search-implementation,olgeorge,Java 6,109,0
+2248758,165,1348564071,2147483647,A,1100,implementation,hanifnaufal,Java 6,78,0
+2230179,165,1348330915,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Lindsey,Java 6,250,43929600
+2195083,165,1347813859,2147483647,A,1100,implementation,Dan1qa,Java 7,170,45158400
+2168076,165,1347612259,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,lemonsuper,Java 7,265,45772800
+2167799,165,1347601516,616,B,1500,binary search-implementation,gilesg,Java 6,140,44032000
+2167789,165,1347601191,291,A,1100,implementation,gilesg,Java 6,140,44032000
+2103482,165,1347083613,2147483647,A,1100,implementation,TUITUF_Bahrom,Java 6,109,43315200
+2096365,165,1346818391,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mingotlik,Java 6,250,45158400
+2088231,165,1346513343,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,tsukuno,Java 6,3800,104857600
+2087848,165,1346507135,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,tsukuno,Java 6,250,45158400
+2087777,165,1346505948,2147483647,B,1500,binary search-implementation,tsukuno,Java 6,90,45056000
+2087750,165,1346505622,2147483647,A,1100,implementation,tsukuno,Java 6,110,45158400
+2047791,165,1345881392,2147483647,B,1500,binary search-implementation,lemonsuper,Java 7,170,45056000
+2046914,165,1345823866,2147483647,A,1100,implementation,iauglov,Java 7,160,45158400
+2041371,165,1345601267,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Wendly,Java 6,140,43315200
+2040952,165,1345573187,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Wendly,Java 6,550,97177600
+2038167,165,1345469960,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,DoublePointer,Java 6,170,43315200
+2034106,165,1345368731,2147483647,B,1500,binary search-implementation,DoublePointer,Java 6,130,43315200
+2032482,165,1345306254,2147483647,A,1100,implementation,jhill.ucf,Java 6,140,43417600
+2022566,165,1345227155,2147483647,A,1100,implementation,ValenKof,Java 7,160,45158400
+1999784,165,1344682789,2147483647,A,1100,implementation,Quvondiq_Otajonov,Java 6,160,43417600
+1999781,165,1344682752,2147483647,B,1500,binary search-implementation,Quvondiq_Otajonov,Java 6,160,43315200
+1997478,165,1344593458,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Quvondiq_Otajonov,Java 6,160,43315200
+1992753,165,1344423045,2147483647,A,1100,implementation,GREEN,Java 7,140,45158400
+1969107,165,1343848910,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ilovepink,Java 6,480,63795200
+1964449,165,1343728659,2147483647,A,1100,implementation,deus,Java 6,140,43417600
+1962241,165,1343690997,2147483647,B,1500,binary search-implementation,ilovepink,Java 6,160,43315200
+1962046,165,1343682419,2147483647,A,1100,implementation,ilovepink,Java 6,160,43417600
+1948379,165,1343521010,2147483647,A,1100,implementation,wackloner,Java 6,130,43110400
+1943780,165,1343370587,2147483647,A,1100,implementation,Quae,Java 6,160,43315200
+1940401,165,1343259708,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,tux1986,Java 6,190,83558400
+1904451,165,1342455447,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,fxpo,Java 6,310,43315200
+1895933,165,1342143707,2147483647,A,1100,implementation,lemonsuper,Java 6,140,43315200
+1876626,165,1341760662,2147483647,B,1500,binary search-implementation,c.utkarsh777,Java 7,170,45056000
+1835410,165,1340842993,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,uj.,Java 6,1700,138752000
+1835398,165,1340838805,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Ahmed.Ibrahem,Java 6,1700,138752000
+1835386,165,1340837248,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Ahmed.Ibrahem,Java 6,3500,166092800
+1825439,165,1340542545,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,AZerone,Java 6,160,43417600
+1825407,165,1340541129,2147483647,B,1500,binary search-implementation,AZerone,Java 6,110,43212800
+1825396,165,1340540540,2147483647,A,1100,implementation,AZerone,Java 6,110,43212800
+1813827,165,1340376206,2147483647,A,1100,implementation,taipan,Java 6,140,43315200
+1812882,165,1340311975,2147483647,A,1100,implementation,VictorMMorant,Java 6,140,43417600
+1808240,165,1339998761,2147483647,B,1500,binary search-implementation,xiaowuc1,Java 6,110,43110400
+1807986,165,1339968716,2147483647,A,1100,implementation,xiaowuc1,Java 6,140,43110400
+1801780,165,1339645579,2147483647,B,1500,binary search-implementation,fxpo,Java 6,140,43315200
+1801143,165,1339607460,2147483647,A,1100,implementation,darksta5,Java 7,140,44953600
+1787062,165,1339492212,2147483647,A,1100,implementation,zpl1,Java 6,160,43315200
+1786943,165,1339487891,2147483647,A,1100,implementation,scottai1,Java 7,140,45056000
+1784385,165,1339415845,2147483647,A,1100,implementation,flask,Java 6,130,43110400
+1773247,165,1339237899,2147483647,B,1500,binary search-implementation,altais,Java 6,110,43110400
+1770133,165,1339100273,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,sbatten,Java 7,310,45056000
+1765243,165,1338878696,2147483647,A,1100,implementation,Gopinich,Java 6,80,43212800
+1763295,165,1338800314,2147483647,A,1100,implementation,altais,Java 6,110,43110400
+1762786,165,1338787080,2147483647,A,1100,implementation,GhpS,Java 6,480,43315200
+1753685,165,1338731681,2147483647,A,1100,implementation,Rodge,Java 6,130,43315200
+1752953,165,1338708408,2147483647,A,1100,implementation,upsolving,Java 6,80,43110400
+1737286,165,1338222910,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,islam-al-aarag,Java 6,140,43212800
+1737030,165,1338217908,2147483647,B,1500,binary search-implementation,islam-al-aarag,Java 6,110,43212800
+1736927,165,1338215761,2147483647,A,1100,implementation,islam-al-aarag,Java 6,110,43212800
+1707971,165,1337606918,2147483647,A,1100,implementation,chuang90,Java 6,80,43110400
+1703525,165,1337419790,2147483647,B,1500,binary search-implementation,zakharvoit,Java 7,90,44851200
+1702459,165,1337382164,2147483647,A,1100,implementation,timurtibeyev,Java 6,110,43315200
+1689782,165,1337139641,2147483647,A,1100,implementation,Kelltrick,Java 6,110,43315200
+1687778,165,1337007291,2147483647,A,1100,implementation,DoublePointer,Java 6,110,43315200
+1671001,165,1336572408,2147483647,A,1100,implementation,dkhaburdzania,Java 6,130,43315200
+1650077,165,1336005553,2147483647,A,1100,implementation,mahmoudhanafi,Java 6,110,43212800
+1646553,165,1335811626,2147483647,A,1100,implementation,nise_nabe,Java 6,130,43212800
+1607530,165,1335042496,2147483647,A,1100,implementation,travm12,Java 6,110,43212800
+1585203,165,1334873209,2147483647,B,1500,binary search-implementation,nickbuelich,Java 6,90,43212800
+1574315,165,1334783118,2147483647,A,1100,implementation,nickbuelich,Java 6,130,43212800
+1567411,165,1334677636,2147483647,A,1100,implementation,goodsky,Java 6,110,43212800
+1558378,165,1334599743,2147483647,B,1500,binary search-implementation,goodsky,Java 6,90,43315200
+1516499,165,1334285181,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Azat_Yusupov,Java 6,1340,68812800
+1516438,165,1334279237,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,wcp1231,Java 6,130,43212800
+1507638,165,1333993244,2147483647,A,1100,implementation,Hoone,Java 6,130,43212800
+1478629,165,1333657178,2147483647,A,1100,implementation,Dunaril,Java 6,90,43315200
+1442315,165,1333083635,2147483647,B,1500,binary search-implementation,rubbaltherebel,Java 6,90,43110400
+1441508,165,1333049462,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,rubbaltherebel,Java 6,160,107008000
+1420889,165,1332798664,2147483647,A,1100,implementation,nikitait,Java 6,130,43315200
+1418669,165,1332744494,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,khasan,Java 6,250,43212800
+1407903,165,1332662484,1284,A,1100,implementation,Mr.Argus,Java 6,110,43212800
+1407160,165,1332648690,2147483647,B,1500,binary search-implementation,OSt,Java 6,80,43110400
+1407020,165,1332642422,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ktuan,Java 6,140,43212800
+1407012,165,1332641980,2147483647,B,1500,binary search-implementation,ktuan,Java 6,90,43110400
+1407004,165,1332641661,2147483647,A,1100,implementation,ktuan,Java 6,110,43110400
+1400966,165,1332568343,2147483647,D,2200,data structures-dsu-trees,hama-du,Java 6,2580,105472000
+1389620,165,1332512717,2147483647,D,2200,data structures-dsu-trees,xDEMONx,Java 7,1060,67481600
+1389092,165,1332507996,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,lilica,Java 6,800,43212800
+1388974,165,1332504000,2147483647,B,1500,binary search-implementation,tis,Java 6,90,43315200
+1388930,165,1332502194,2694,B,1500,binary search-implementation,lilica,Java 6,80,43110400
+1388920,165,1332501829,2147483647,A,1100,implementation,tis,Java 6,130,43315200
+1388867,165,1332500110,610,A,1100,implementation,lilica,Java 6,90,43110400
+1388190,165,1332465263,5963,B,1500,binary search-implementation,Tomzik,Java 6,130,43212800
+1388101,165,1332461220,1920,A,1100,implementation,Tomzik,Java 6,110,43315200
+1387646,165,1332440211,2147483647,B,1500,binary search-implementation,aios,Java 6,110,43212800
+1387549,165,1332437813,2147483647,A,1100,implementation,aios,Java 6,130,43212800
+1385548,165,1332359471,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Wahba,Java 6,130,43212800
+1385547,165,1332359308,2147483647,B,1500,binary search-implementation,Wahba,Java 6,90,43110400
+1385496,165,1332357108,2147483647,B,1500,binary search-implementation,Fantaghiro,Java 6,110,43212800
+1384933,165,1332342728,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,knok16,Java 6,1190,121344000
+1384795,165,1332339048,2147483647,D,2200,data structures-dsu-trees,knok16,Java 6,880,55296000
+1383538,165,1332317535,2147483647,B,1500,binary search-implementation,RodionGork,Java 7,90,44851200
+1383503,165,1332316707,2147483647,A,1100,implementation,pasha,Java 6,130,43315200
+1383498,165,1332316619,2147483647,A,1100,implementation,RodionGork,Java 7,110,44851200
+1383161,165,1332305084,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,skogt,Java 6,300,43315200
+1382818,165,1332274928,2147483647,A,1100,implementation,dimoc,Java 7,140,44851200
+1382786,165,1332272964,2147483647,B,1500,binary search-implementation,khasan,Java 6,110,43212800
+1382382,165,1332261286,2147483647,A,1100,implementation,damithk,Java 6,90,43110400
+1382364,165,1332260562,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Viktor,Java 6,520,77926400
+1382360,165,1332260310,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Viktor,Java 6,690,71372800
+1381403,165,1332226837,2147483647,D,2200,data structures-dsu-trees,mostafa_fahim,Java 7,3270,77209600
+1381324,165,1332223621,2147483647,B,1500,binary search-implementation,shnell,Java 6,110,43212800
+1381320,165,1332223534,2147483647,B,1500,binary search-implementation,shnell,Java 6,110,43212800
+1381247,165,1332220003,2147483647,A,1100,implementation,shnell,Java 6,110,43315200
+1381231,165,1332219045,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,dmeng,Java 6,360,43212800
+1381166,165,1332215081,2147483647,A,1100,implementation,Shaman01,Java 6,140,43212800
+1381022,165,1332199913,2147483647,A,1100,implementation,mdd,Java 6,110,43315200
+1380998,165,1332196732,2147483647,A,1100,implementation,khasan,Java 6,110,43315200
+1379921,165,1332182955,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,hejycpu,Java 6,250,43315200
+1379735,165,1332176056,2147483647,B,1500,binary search-implementation,knok16,Java 6,80,43110400
+1379721,165,1332175610,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,knok16,Java 6,190,59392000
+1378630,165,1332140286,2147483647,B,1500,binary search-implementation,joey2005,Java 6,80,43110400
+1378617,165,1332139943,2147483647,A,1100,implementation,joey2005,Java 6,80,43110400
+1378609,165,1332139699,2147483647,B,1500,binary search-implementation,skogt,Java 6,90,43212800
+1378570,165,1332138111,2147483647,A,1100,implementation,skogt,Java 6,110,43212800
+1378484,165,1332133468,2147483647,A,1100,implementation,el-nino,Java 6,130,43315200
+1378477,165,1332133254,2147483647,B,1500,binary search-implementation,el-nino,Java 6,90,43315200
+1378415,165,1332128025,2147483647,A,1100,implementation,jcomputer000,Java 6,110,43315200
+1378287,165,1332120280,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,coderbd,Java 6,140,43520000
+1377897,165,1332096285,2147483647,B,1500,binary search-implementation,hejycpu,Java 6,90,43315200
+1377261,165,1332089250,2147483647,B,1500,binary search-implementation,ne210023,Java 6,90,43315200
+1376334,165,1332085171,271,A,1100,implementation,el-nino,Java 6,110,43315200
+1375408,165,1332071630,2330,E,2100,bitmasks-brute force-dfs and similar-dp,carber,Java 6,3700,103116800
+1375356,165,1332070735,1435,C,1600,binary search-brute force-dp-math-strings-two pointers,carber,Java 6,230,43315200
+1375309,165,1332069936,636,B,1500,binary search-implementation,carber,Java 6,110,43315200
+1375290,165,1332069592,292,A,1100,implementation,carber,Java 6,130,43315200
+1375059,165,1332064188,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Leewings,Java 6,1170,121446400
+1374471,165,1332049087,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,xDEMONx,Java 6,2660,68812800
+1374278,165,1332030801,2147483647,B,1500,binary search-implementation,tux1986,Java 6,90,43212800
+1374277,165,1332030638,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,darkl0rd,Java 6,3840,104550400
+1374273,165,1332030444,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,darkl0rd,Java 6,3770,104550400
+1374247,165,1332028347,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,darkl0rd,Java 6,410,75776000
+1374216,165,1332025671,2147483647,A,1100,implementation,tux1986,Java 6,90,43212800
+1374184,165,1332023563,2147483647,B,1500,binary search-implementation,civilian,Java 6,90,43212800
+1374071,165,1332018889,4189,A,1100,implementation,erikasv,Java 6,90,43212800
+1373919,165,1332013913,2147483647,D,2200,data structures-dsu-trees,Izot_NNSTU,Java 6,1580,100147200
+1373906,165,1332013507,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,partizan22,Java 6,160,43315200
+1373871,165,1332011816,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,littlepanda,Java 7,280,44953600
+1373829,165,1332010402,2147483647,D,2200,data structures-dsu-trees,partizan22,Java 6,1660,48844800
+1373750,165,1332007748,2147483647,B,1500,binary search-implementation,a_bekzat,Java 6,90,43315200
+1373692,165,1332006162,2147483647,B,1500,binary search-implementation,Viktor,Java 6,90,43315200
+1373427,165,1331998908,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,zhendeaini6001,Java 6,3670,73216000
+1373418,165,1331998705,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,zhendeaini6001,Java 6,3750,73216000
+1373413,165,1331998611,2147483647,B,1500,binary search-implementation,Pshenichnoe,Java 6,90,43212800
+1373322,165,1331996816,2147483647,D,2200,data structures-dsu-trees,Leewings,Java 6,1440,57856000
+1373319,165,1331996756,2147483647,D,2200,data structures-dsu-trees,Leewings,Java 6,1470,57856000
+1373262,165,1331995862,2147483647,B,1500,binary search-implementation,Pshenichnoe,Java 6,90,43212800
+1373224,165,1331995150,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,OSt,Java 6,230,43315200
+1373216,165,1331995023,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,a_bekzat,Java 6,580,57446400
+1373149,165,1331992974,2147483647,B,1500,binary search-implementation,OSt,Java 6,90,43212800
+1373100,165,1331991890,2147483647,A,1100,implementation,OSt,Java 6,80,43417600
+1373059,165,1331991017,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Rex,Java 6,360,74752000
+1373017,165,1331990083,2147483647,B,1500,binary search-implementation,Illuminati_chk,Java 6,110,43315200
+1373011,165,1331990009,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zamzam,Java 6,140,43315200
+1373003,165,1331989837,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,mostafa_fahim,Java 7,310,58470400
+1372879,165,1331987167,667,A,1100,implementation,master_j,Java 6,80,43417600
+1372867,165,1331986866,2147483647,B,1500,binary search-implementation,mostafa_fahim,Java 7,90,44851200
+1372838,165,1331986270,2147483647,A,1100,implementation,Pshenichnoe,Java 6,90,43212800
+1372761,165,1331984845,2147483647,A,1100,implementation,mostafa_fahim,Java 7,130,44953600
+1372749,165,1331984673,2147483647,B,1500,binary search-implementation,Rex-myFriendForever,Java 6,80,43212800
+1372701,165,1331983939,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Rex-myFriendForever,Java 6,800,169164800
+1372611,165,1331982967,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,Ahmed_Salama,Java 6,2280,97382400
+1372434,165,1331979883,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,SkorKNURE,Java 6,310,77824000
+1372429,165,1331979858,2147483647,B,1500,binary search-implementation,SkorKNURE,Java 6,80,43315200
+1372424,165,1331979822,2147483647,A,1100,implementation,SkorKNURE,Java 6,80,43212800
+1372300,165,1331977986,2286,C,1600,binary search-brute force-dp-math-strings-two pointers,tanzaku,Java 6,170,43212800
+1372276,165,1331977521,2147483647,B,1500,binary search-implementation,keep.deep,Java 6,110,43315200
+1372192,165,1331976385,685,B,1500,binary search-implementation,tanzaku,Java 6,90,43110400
+1372162,165,1331975922,222,A,1100,implementation,tanzaku,Java 6,80,43110400
+1372086,165,1331974720,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Tomik,Java 6,480,43315200
+1371936,165,1331972037,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zhendeaini6001,Java 6,250,43315200
+1371899,165,1331971111,2147483647,B,1500,binary search-implementation,yasser_adel,Java 6,110,43212800
+1371882,165,1331970804,2147483647,A,1100,implementation,rubbaltherebel,Java 6,90,43110400
+1371851,165,1331970315,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,zhendeaini6001,Java 6,250,43315200
+1371706,165,1331967573,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Leewings,Java 6,610,84377600
+1371628,165,1331965075,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,kmatsunaga,Java 6,390,75673600
+1371614,165,1331964702,2147483647,B,1500,binary search-implementation,Leewings,Java 6,110,43212800
+1371586,165,1331963887,2147483647,A,1100,implementation,Leewings,Java 6,110,43315200
+1371568,165,1331963355,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,lwc626,Java 7,1330,122982400
+1371550,165,1331962992,2147483647,A,1100,implementation,userlond,Java 6,90,43110400
+1371504,165,1331962012,3832,C,1600,binary search-brute force-dp-math-strings-two pointers,ollzhas,Java 6,280,57344000
+1371490,165,1331961709,2147483647,A,1100,implementation,Rex-myFriendForever,Java 6,110,43110400
+1371394,165,1331959505,1325,B,1500,binary search-implementation,ollzhas,Java 6,110,43212800
+1371368,165,1331959098,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,partizan22,Java 6,3860,85606400
+1371358,165,1331959016,836,A,1100,implementation,ollzhas,Java 6,110,43315200
+1371313,165,1331957702,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,uwi,Java 6,1170,68710400
+1371264,165,1331956515,2147483647,B,1500,binary search-implementation,Mohamed.Ramzy,Java 6,110,43212800
+1371227,165,1331955203,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,torrentlord,Java 6,1170,161689600
+1371201,165,1331954573,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,cyon,Java 6,250,43212800
+1371011,165,1331948573,2147483647,A,1100,implementation,zulkan,Java 6,110,43212800
+1370896,165,1331944973,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,cyon,Java 6,270,43315200
+1370862,165,1331940752,2147483647,A,1100,implementation,heyl305,Java 6,110,43212800
+1370847,165,1331939256,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,ant.ermilov,Java 6,160,43212800
+1370845,165,1331938921,2147483647,B,1500,binary search-implementation,zamzam,Java 6,90,43212800
+1370800,165,1331936989,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,peking2,Java 7,420,68915200
+1370775,165,1331935921,1921,A,1100,implementation,rajatag12,Java 6,80,43110400
+1370769,165,1331935508,1508,B,1500,binary search-implementation,rajatag12,Java 6,90,43110400
+1370757,165,1331935213,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,peking2,Java 7,420,68915200
+1370755,165,1331935154,1154,C,1600,binary search-brute force-dp-math-strings-two pointers,rajatag12,Java 6,410,77516800
+1370726,165,1331934368,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,lazzrov,Java 6,230,43212800
+1370703,165,1331933843,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Betlista,Java 6,190,43212800
+1370583,165,1331931357,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,balazstx,Java 6,130,43212800
+1370574,165,1331931282,2147483647,D,2200,data structures-dsu-trees,torrentlord,Java 6,1280,117657600
+1370549,165,1331930986,2147483647,B,1500,binary search-implementation,peking2,Java 7,90,44851200
+1370535,165,1331930831,2147483647,A,1100,implementation,rockstartiwari,Java 6,90,43110400
+1370504,165,1331930060,2147483647,B,1500,binary search-implementation,peking2,Java 7,110,44851200
+1370465,165,1331929646,2147483647,B,1500,binary search-implementation,mukku,Java 6,90,43212800
+1370447,165,1331929470,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,flash36,Java 6,140,43212800
+1370340,165,1331927822,2147483647,B,1500,binary search-implementation,Galkowsky,Java 6,90,43212800
+1370302,165,1331927494,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,yarrr,Java 7,1410,122982400
+1370299,165,1331927462,2147483647,A,1100,implementation,Ortiga,Java 6,110,43315200
+1370297,165,1331927458,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,yarrr,Java 6,1550,121344000
+1370250,165,1331927015,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,dgjv1,Java 6,310,57036800
+1370215,165,1331926762,2147483647,B,1500,binary search-implementation,flash36,Java 6,80,43110400
+1370108,165,1331926025,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,GeLo,Java 7,3220,122880000
+1370077,165,1331925839,2147483647,B,1500,binary search-implementation,SharpBlade,Java 6,90,43110400
+1370064,165,1331925775,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,GeLo,Java 6,3520,121344000
+1369933,165,1331925012,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,yarrr,Java 6,1530,121344000
+1369931,165,1331925004,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,yarrr,Java 7,1530,122982400
+1369918,165,1331924943,2147483647,B,1500,binary search-implementation,Evgesko,Java 6,110,43212800
+1369862,165,1331924742,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,phantom11,Java 7,450,79974400
+1369850,165,1331924683,2147483647,B,1500,binary search-implementation,littlepanda,Java 7,110,44851200
+1369789,165,1331924434,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,SharpBlade,Java 6,950,76492800
+1369744,165,1331924278,2147483647,B,1500,binary search-implementation,miraina,Java 6,80,43110400
+1369737,165,1331924266,2147483647,A,1100,implementation,littlepanda,Java 7,110,44953600
+1369700,165,1331924109,9,B,1500,binary search-implementation,Mirovan,Java 6,90,43110400
+1369662,165,1331923994,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,GeLo,Java 7,3830,70553600
+1369655,165,1331923969,2147483647,B,1500,binary search-implementation,fake,Java 6,110,43212800
+1369617,165,1331923867,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,PeterGriffin,Java 6,1260,178483200
+1369597,165,1331923824,2147483647,D,2200,data structures-dsu-trees,Ahmed_Salama,Java 6,2610,115916800
+1369579,165,1331923772,2147483647,A,1100,implementation,Crist,Java 6,130,58265600
+1369526,165,1331923649,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Skater,Java 6,310,56934400
+1369424,165,1331923371,2147483647,C,1600,binary search-brute force-dp-math-strings-two pointers,Ahmed.Ibrahem,Java 6,310,43212800
+1369317,165,1331923216,2147483647,E,2100,bitmasks-brute force-dfs and similar-dp,m.radwan,Java 6,1720,136908800
+1369314,165,1331923210,2147483647,B,1500,binary search-implementation,evgentu,Java 6,80,43110400
+1369313,165,1331923209,2147483647,B,1500,binary search-implementation,phantom11,Java 7,110,44851200
+1369180,165,1331918987,7187,A,1100,implementation,chronotable,Java 6,110,43212800
+1368940,165,1331918797,6997,B,1500,binary search-implementation,Mohannad,Java 6,80,43110400
+1368930,165,1331918782,6982,B,1500,binary search-implementation,GoomboCode,Java 6,80,43315200
+1368925,165,1331918780,6980,D,2200,data structures-dsu-trees,PolarNick,Java 6,1530,56934400
+1368859,165,1331918710,6910,B,1500,binary search-implementation,michael.egorov,Java 6,90,43110400
+1368685,165,1331918528,6728,D,2200,data structures-dsu-trees,chronotable,Java 6,2230,78131200
+1368650,165,1331918503,6702,C,1600,binary search-brute force-dp-math-strings-two pointers,DiegoAE,Java 6,170,43212800
+1368613,165,1331918459,6659,A,1100,implementation,askart,Java 6,110,43212800
+1368569,165,1331918398,6598,D,2200,data structures-dsu-trees,uwi,Java 6,520,44134400
+1368559,165,1331918375,6575,E,2100,bitmasks-brute force-dfs and similar-dp,shevchen,Java 6,3560,85606400
+1368478,165,1331918290,6490,C,1600,binary search-brute force-dp-math-strings-two pointers,etilen,Java 6,550,43417600
+1368327,165,1331918115,6315,E,2100,bitmasks-brute force-dfs and similar-dp,Gantz,Java 7,3830,207257600
+1368178,165,1331917904,6104,C,1600,binary search-brute force-dp-math-strings-two pointers,nik3daz,Java 7,280,44953600
+1368090,165,1331917799,5999,A,1100,implementation,tectovulcan,Java 7,140,44953600
+1367786,165,1331917411,5611,C,1600,binary search-brute force-dp-math-strings-two pointers,Wahba,Java 6,140,43212800
+1367770,165,1331917377,5577,B,1500,binary search-implementation,4ndrew,Java 6,90,43110400
+1367764,165,1331917371,5571,C,1600,binary search-brute force-dp-math-strings-two pointers,yasser_adel,Java 6,450,63692800
+1367756,165,1331917353,5553,C,1600,binary search-brute force-dp-math-strings-two pointers,hydrastuff,Java 7,160,44851200
+1367608,165,1331917177,5377,B,1500,binary search-implementation,peking2,Java 7,110,44851200
+1367570,165,1331917124,5324,C,1600,binary search-brute force-dp-math-strings-two pointers,serafimkoo,Java 6,280,43315200
+1367509,165,1331917058,5258,C,1600,binary search-brute force-dp-math-strings-two pointers,olgngy,Java 6,360,77824000
+1367495,165,1331917039,5239,C,1600,binary search-brute force-dp-math-strings-two pointers,GoomboCode,Java 6,140,43417600
+1367440,165,1331916981,5181,B,1500,binary search-implementation,TTFH,Java 6,80,43110400
+1367438,165,1331916976,5176,A,1100,implementation,mynameborat,Java 6,110,43110400
+1367350,165,1331916883,5083,D,2200,data structures-dsu-trees,yarrr,Java 6,770,64000000
+1367223,165,1331916749,4949,B,1500,binary search-implementation,hydrastuff,Java 7,90,44851200
+1367222,165,1331916748,4948,A,1100,implementation,mukku,Java 6,130,43315200
+1367175,165,1331916686,4886,B,1500,binary search-implementation,agent3889,Java 6,110,43315200
+1367082,165,1331916604,4804,C,1600,binary search-brute force-dp-math-strings-two pointers,jonathanpaulson,Java 6,270,43212800
+1367081,165,1331916603,4803,D,2200,data structures-dsu-trees,alexey.enkov,Java 7,1060,67788800
+1367059,165,1331916571,4771,C,1600,binary search-brute force-dp-math-strings-two pointers,gerasimovd,Java 6,140,51302400
+1367049,165,1331916562,4762,C,1600,binary search-brute force-dp-math-strings-two pointers,Izot_NNSTU,Java 6,480,117350400
+1367019,165,1331916526,4726,B,1500,binary search-implementation,heyl305,Java 6,110,43212800
+1366977,165,1331916479,4679,A,1100,implementation,hydrastuff,Java 7,80,44851200
+1366873,165,1331916348,4548,B,1500,binary search-implementation,marque,Java 6,90,43110400
+1366672,165,1331916104,4304,E,2100,bitmasks-brute force-dfs and similar-dp,mmaxio,Java 7,1340,87244800
+1366552,165,1331915967,4167,C,1600,binary search-brute force-dp-math-strings-two pointers,mukku,Java 6,250,43212800
+1366551,165,1331915965,4165,C,1600,binary search-brute force-dp-math-strings-two pointers,xDEMONx,Java 6,280,43315200
+1366515,165,1331915931,4131,A,1100,implementation,Oleksandr,Java 6,110,43315200
+1366505,165,1331915920,4120,B,1500,binary search-implementation,bohuss,Java 6,80,43110400
+1366498,165,1331915915,4115,B,1500,binary search-implementation,slavcho92,Java 6,130,43212800
+1366313,165,1331915707,3907,A,1100,implementation,ye7ia,Java 6,130,43315200
+1366248,165,1331915630,3830,C,1600,binary search-brute force-dp-math-strings-two pointers,nodirbek,Java 6,250,43315200
+1366159,165,1331915537,3737,B,1500,binary search-implementation,Crist,Java 6,90,43110400
+1366141,165,1331915520,3720,C,1600,binary search-brute force-dp-math-strings-two pointers,Azat_Yusupov,Java 6,140,43212800
+1366115,165,1331915492,3692,C,1600,binary search-brute force-dp-math-strings-two pointers,LinkovMih,Java 6,380,43315200
+1366025,165,1331915394,3594,C,1600,binary search-brute force-dp-math-strings-two pointers,semverchenko,Java 6,270,43315200
+1366020,165,1331915389,3589,C,1600,binary search-brute force-dp-math-strings-two pointers,JustDoIt,Java 6,140,43212800
+1366011,165,1331915376,3576,D,2200,data structures-dsu-trees,mmaxio,Java 7,770,58880000
+1366008,165,1331915373,3573,A,1100,implementation,jnisac,Java 6,110,43315200
+1365952,165,1331915305,3505,D,2200,data structures-dsu-trees,shevchen,Java 6,880,86016000
+1365886,165,1331915241,3441,A,1100,implementation,dariot,Java 6,130,43315200
+1365868,165,1331915226,3426,C,1600,binary search-brute force-dp-math-strings-two pointers,PolarNick,Java 6,140,43212800
+1365731,165,1331915106,3306,B,1500,binary search-implementation,boost,Java 6,110,43212800
+1365681,165,1331915057,3257,A,1100,implementation,csurfer,Java 6,110,43315200
+1365673,165,1331915052,3252,C,1600,binary search-brute force-dp-math-strings-two pointers,sas4eka,Java 6,160,43212800
+1365616,165,1331914997,3197,C,1600,binary search-brute force-dp-math-strings-two pointers,pius_88,Java 6,440,77414400
+1365571,165,1331914954,3154,C,1600,binary search-brute force-dp-math-strings-two pointers,lwc626,Java 7,160,44953600
+1365537,165,1331914918,3118,C,1600,binary search-brute force-dp-math-strings-two pointers,TTFH,Java 6,140,43212800
+1365509,165,1331914892,3092,A,1100,implementation,myzone,Java 6,90,43110400
+1365506,165,1331914891,3091,A,1100,implementation,korniltsev,Java 6,90,43315200
+1365501,165,1331914887,3087,B,1500,binary search-implementation,DiegoAE,Java 6,110,43110400
+1365483,165,1331914866,3066,B,1500,binary search-implementation,kimox2,Java 6,90,43212800
+1365436,165,1331914817,3017,A,1100,implementation,nusip,Java 6,130,43212800
+1365385,165,1331914767,2967,A,1100,implementation,Mohannad,Java 6,80,43110400
+1365364,165,1331914748,2948,E,2100,bitmasks-brute force-dfs and similar-dp,yarrr,Java 6,1690,121344000
+1365340,165,1331914721,2921,C,1600,binary search-brute force-dp-math-strings-two pointers,Galkowsky,Java 6,300,43315200
+1365320,165,1331914707,2907,A,1100,implementation,keep.deep,Java 6,110,43315200
+1365306,165,1331914691,2891,B,1500,binary search-implementation,arcticstrat,Java 6,90,43212800
+1365299,165,1331914679,2879,C,1600,binary search-brute force-dp-math-strings-two pointers,Darko,Java 6,250,43315200
+1365294,165,1331914675,2875,B,1500,binary search-implementation,Kelang,Java 7,90,44851200
+1365189,165,1331914564,2764,A,1100,implementation,igor.pisarev,Java 6,130,43315200
+1365159,165,1331914535,2735,C,1600,binary search-brute force-dp-math-strings-two pointers,hama-du,Java 6,500,99942400
+1365151,165,1331914530,2730,C,1600,binary search-brute force-dp-math-strings-two pointers,Sinner,Java 6,380,84480000
+1365092,165,1331914477,2677,B,1500,binary search-implementation,raedselim,Java 6,90,43212800
+1365042,165,1331914437,2637,A,1100,implementation,nitink,Java 6,110,43315200
+1364971,165,1331914378,2578,B,1500,binary search-implementation,olgngy,Java 6,90,43315200
+1364819,165,1331914217,2417,A,1100,implementation,mingotlik,Java 6,140,43315200
+1364732,165,1331914141,2341,A,1100,implementation,slavcho92,Java 6,110,43315200
+1364641,165,1331914053,2253,B,1500,binary search-implementation,cyon,Java 6,90,43212800
+1364625,165,1331914044,2244,B,1500,binary search-implementation,Nova,Java 6,90,43110400
+1364585,165,1331913995,2195,C,1600,binary search-brute force-dp-math-strings-two pointers,Gantz,Java 7,190,44953600
+1364451,165,1331913878,2078,C,1600,binary search-brute force-dp-math-strings-two pointers,GeLo,Java 6,270,43212800
+1364373,165,1331913817,2017,A,1100,implementation,alexyz,Java 6,130,43212800
+1364354,165,1331913801,2001,A,1100,implementation,loay,Java 6,80,43110400
+1364270,165,1331913724,1924,A,1100,implementation,platinumthinker,Java 6,110,43212800
+1364237,165,1331913699,1899,B,1500,binary search-implementation,Ahmed_Salama,Java 6,110,43212800
+1364235,165,1331913698,1898,B,1500,binary search-implementation,shtorm941,Java 6,110,43212800
+1364197,165,1331913677,1877,B,1500,binary search-implementation,etilen,Java 6,90,43315200
+1364164,165,1331913655,1855,B,1500,binary search-implementation,Izot_NNSTU,Java 6,80,43110400
+1364130,165,1331913622,1822,B,1500,binary search-implementation,Ahmed.Ibrahem,Java 6,110,43212800
+1364119,165,1331913614,1814,A,1100,implementation,OthoMilo,Java 6,160,43315200
+1364101,165,1331913599,1799,A,1100,implementation,tarekegypte,Java 6,90,43110400
+1364099,165,1331913597,1797,A,1100,implementation,4ndrew,Java 6,80,43110400
+1364061,165,1331913568,1768,B,1500,binary search-implementation,Tomik,Java 6,90,43212800
+1364045,165,1331913549,1749,A,1100,implementation,olgngy,Java 6,90,43315200
+1364032,165,1331913537,1737,A,1100,implementation,m_a_s_91,Java 6,140,43212800
+1363968,165,1331913495,1695,A,1100,implementation,rodolpho,Java 6,110,43315200
+1363896,165,1331913427,1627,B,1500,binary search-implementation,Skater,Java 6,90,43212800
+1363870,165,1331913407,1607,A,1100,implementation,fake,Java 6,110,43315200
+1363864,165,1331913403,1603,B,1500,binary search-implementation,Betlista,Java 6,90,43110400
+1363855,165,1331913395,1595,A,1100,implementation,Fantaghiro,Java 6,130,43315200
+1363797,165,1331913357,1557,A,1100,implementation,Ahmed_Salama,Java 6,110,43315200
+1363787,165,1331913349,1549,C,1600,binary search-brute force-dp-math-strings-two pointers,torrentlord,Java 6,470,63692800
+1363765,165,1331913335,1535,B,1500,binary search-implementation,xDEMONx,Java 6,90,43110400
+1363759,165,1331913329,1529,B,1500,binary search-implementation,darkl0rd,Java 6,110,43212800
+1363745,165,1331913318,1518,A,1100,implementation,sundifi,Java 6,130,43212800
+1363739,165,1331913313,1513,C,1600,binary search-brute force-dp-math-strings-two pointers,alexey.enkov,Java 7,160,44851200
+1363678,165,1331913271,1471,A,1100,implementation,mvakulich,Java 6,140,43315200
+1363657,165,1331913251,1451,B,1500,binary search-implementation,Azat_Yusupov,Java 6,110,43212800
+1363625,165,1331913227,1427,B,1500,binary search-implementation,yarrr,Java 6,80,43110400
+1363624,165,1331913226,1426,B,1500,binary search-implementation,Wahba,Java 6,90,43110400
+1363615,165,1331913219,1419,B,1500,binary search-implementation,Rex,Java 6,80,43110400
+1363579,165,1331913195,1395,A,1100,implementation,agent3889,Java 6,110,43212800
+1363575,165,1331913190,1390,A,1100,implementation,SharpBlade,Java 6,90,43110400
+1363573,165,1331913190,1390,C,1600,binary search-brute force-dp-math-strings-two pointers,m.radwan,Java 6,380,43212800
+1363529,165,1331913163,1363,B,1500,binary search-implementation,serafimkoo,Java 6,110,43212800
+1363513,165,1331913152,1352,B,1500,binary search-implementation,zhendeaini6001,Java 6,90,43212800
+1363459,165,1331913120,1320,B,1500,binary search-implementation,JustDoIt,Java 6,90,43110400
+1363443,165,1331913108,1308,B,1500,binary search-implementation,Melamori,Java 6,90,43110400
+1363432,165,1331913105,1305,B,1500,binary search-implementation,twds,Java 6,110,43212800
+1363431,165,1331913104,1304,C,1600,binary search-brute force-dp-math-strings-two pointers,Nova,Java 6,140,43212800
+1363428,165,1331913103,1302,B,1500,binary search-implementation,GeLo,Java 6,110,43212800
+1363410,165,1331913090,1290,C,1600,binary search-brute force-dp-math-strings-two pointers,Ahmed_Salama,Java 6,270,43315200
+1363380,165,1331913057,1257,B,1500,binary search-implementation,lucis,Java 6,110,43212800
+1363376,165,1331913055,1255,A,1100,implementation,Evgesko,Java 6,130,43315200
+1363355,165,1331913043,1243,B,1500,binary search-implementation,LinkovMih,Java 6,110,43212800
+1363350,165,1331913041,1241,A,1100,implementation,Ahmed_Hesham,Java 6,110,43315200
+1363320,165,1331913014,1214,A,1100,implementation,balazstx,Java 6,90,43315200
+1363312,165,1331913009,1209,A,1100,implementation,Akensho,Java 6,110,43315200
+1363295,165,1331912994,1194,A,1100,implementation,ocozalp,Java 6,110,43315200
+1363263,165,1331912969,1169,A,1100,implementation,ne210023,Java 6,130,43315200
+1363238,165,1331912951,1151,B,1500,binary search-implementation,PeterGriffin,Java 6,90,43212800
+1363232,165,1331912947,1147,A,1100,implementation,dmeng,Java 6,130,43315200
+1363207,165,1331912933,1133,A,1100,implementation,sengab,Java 6,90,43212800
+1363202,165,1331912929,1129,B,1500,binary search-implementation,semverchenko,Java 6,130,43212800
+1363172,165,1331912911,1111,A,1100,implementation,bohuss,Java 6,160,43110400
+1363146,165,1331912896,1096,C,1600,binary search-brute force-dp-math-strings-two pointers,yarrr,Java 6,270,58265600
+1363117,165,1331912877,1077,A,1100,implementation,ahmedAbdallah,Java 6,110,43315200
+1363094,165,1331912861,1061,C,1600,binary search-brute force-dp-math-strings-two pointers,shevchen,Java 6,130,43212800
+1363076,165,1331912850,1050,A,1100,implementation,raedselim,Java 6,110,43315200
+1363062,165,1331912842,1042,A,1100,implementation,Olzhabay,Java 6,110,43110400
+1363045,165,1331912831,1031,A,1100,implementation,arcticstrat,Java 6,130,43315200
+1363043,165,1331912829,1029,B,1500,binary search-implementation,sas4eka,Java 6,90,43110400
+1362997,165,1331912798,998,B,1500,binary search-implementation,ahmad_mamdouh,Java 6,80,43110400
+1362989,165,1331912793,993,B,1500,binary search-implementation,dmeng,Java 6,140,43212800
+1362958,165,1331912772,972,C,1600,binary search-brute force-dp-math-strings-two pointers,evgentu,Java 7,140,44851200
+1362955,165,1331912770,970,A,1100,implementation,Betlista,Java 6,110,43110400
+1362903,165,1331912742,942,A,1100,implementation,gerasimovd,Java 6,90,43110400
+1362899,165,1331912741,941,A,1100,implementation,miraina,Java 6,90,43110400
+1362887,165,1331912735,935,C,1600,binary search-brute force-dp-math-strings-two pointers,uwi,Java 6,140,43110400
+1362876,165,1331912730,930,B,1500,binary search-implementation,lwc626,Java 7,90,44851200
+1362835,165,1331912706,906,B,1500,binary search-implementation,hama-du,Java 6,90,43110400
+1362830,165,1331912705,905,B,1500,binary search-implementation,Sinner,Java 6,80,43110400
+1362819,165,1331912698,898,B,1500,binary search-implementation,Darko,Java 6,110,43212800
+1362803,165,1331912681,881,B,1500,binary search-implementation,pius_88,Java 6,80,43110400
+1362775,165,1331912665,865,A,1100,implementation,maged,Java 6,90,43110400
+1362766,165,1331912661,861,B,1500,binary search-implementation,PolarNick,Java 6,80,43110400
+1362753,165,1331912653,853,B,1500,binary search-implementation,torrentlord,Java 6,110,43212800
+1362743,165,1331912645,845,A,1100,implementation,flash36,Java 6,90,43110400
+1362718,165,1331912628,828,B,1500,binary search-implementation,nodirbek,Java 6,90,43110400
+1362679,165,1331912602,802,B,1500,binary search-implementation,jonathanpaulson,Java 6,110,43212800
+1362656,165,1331912592,792,A,1100,implementation,K.CSE13,Java 6,90,43110400
+1362651,165,1331912588,788,A,1100,implementation,kimox2,Java 6,130,43315200
+1362649,165,1331912587,787,A,1100,implementation,a_bekzat,Java 6,130,43315200
+1362640,165,1331912582,782,A,1100,implementation,N-canTER,Java 6,130,43212800
+1362586,165,1331912555,755,A,1100,implementation,darkl0rd,Java 6,130,43315200
+1362567,165,1331912545,745,A,1100,implementation,knok16,Java 6,90,43110400
+1362560,165,1331912543,743,A,1100,implementation,Illuminati_chk,Java 6,130,43315200
+1362548,165,1331912538,738,A,1100,implementation,semverchenko,Java 6,110,43315200
+1362533,165,1331912532,732,A,1100,implementation,jupaneira,Java 6,110,43315200
+1362529,165,1331912527,727,B,1500,binary search-implementation,igor_kz,Java 6,110,43212800
+1362520,165,1331912520,720,A,1100,implementation,Melamori,Java 6,90,43110400
+1362507,165,1331912510,710,B,1500,binary search-implementation,m.radwan,Java 6,110,43212800
+1362495,165,1331912502,702,A,1100,implementation,bknarendra,Java 6,80,43110400
+1362475,165,1331912493,693,A,1100,implementation,Hangibhom,Java 6,110,43212800
+1362467,165,1331912489,689,C,1600,binary search-brute force-dp-math-strings-two pointers,mmaxio,Java 7,140,44851200
+1362457,165,1331912485,685,A,1100,implementation,TTFH,Java 6,80,43110400
+1362446,165,1331912478,678,A,1100,implementation,GeLo,Java 6,110,43315200
+1362443,165,1331912477,677,A,1100,implementation,risou,Java 6,130,43315200
+1362428,165,1331912471,671,A,1100,implementation,boost,Java 6,130,43212800
+1362380,165,1331912445,645,A,1100,implementation,zamzam,Java 6,110,43212800
+1362293,165,1331912404,604,A,1100,implementation,etilen,Java 6,80,43315200
+1362290,165,1331912403,603,A,1100,implementation,lucis,Java 6,110,43212800
+1362286,165,1331912400,600,A,1100,implementation,zhendeaini6001,Java 6,110,43315200
+1362283,165,1331912399,599,B,1500,binary search-implementation,gerasimovd,Java 6,80,43110400
+1362277,165,1331912398,598,A,1100,implementation,raviagarwal,Java 6,90,43110400
+1362274,165,1331912396,596,A,1100,implementation,pius_88,Java 6,80,43110400
+1362268,165,1331912392,592,B,1500,binary search-implementation,alexey.enkov,Java 7,90,44851200
+1362238,165,1331912372,572,B,1500,binary search-implementation,ant.ermilov,Java 6,80,43110400
+1362203,165,1331912354,554,A,1100,implementation,trycatch,Java 6,110,43315200
+1362154,165,1331912332,532,A,1100,implementation,peking2,Java 7,130,44851200
+1362148,165,1331912327,527,B,1500,binary search-implementation,Gantz,Java 7,90,44851200
+1362144,165,1331912326,526,A,1100,implementation,Mirovan,Java 6,90,43110400
+1362142,165,1331912326,526,A,1100,implementation,LinkovMih,Java 6,90,43212800
+1362134,165,1331912324,524,A,1100,implementation,Venom,Java 6,90,43110400
+1362120,165,1331912319,519,A,1100,implementation,shtorm941,Java 6,130,43315200
+1362118,165,1331912317,517,A,1100,implementation,nik3daz,Java 7,110,44851200
+1362117,165,1331912317,517,A,1100,implementation,shevchen,Java 6,80,43110400
+1362088,165,1331912298,498,A,1100,implementation,xDEMONx,Java 6,80,43315200
+1362075,165,1331912290,490,A,1100,implementation,Ernestas,Java 6,130,43212800
+1362065,165,1331912286,486,A,1100,implementation,Wahba,Java 6,90,43110400
+1362060,165,1331912285,485,A,1100,implementation,PolarNick,Java 6,80,43110400
+1362059,165,1331912284,484,A,1100,implementation,Azat_Yusupov,Java 6,110,43315200
+1362046,165,1331912281,481,A,1100,implementation,AdilbekZh,Java 6,110,43315200
+1362026,165,1331912269,469,A,1100,implementation,ardhian777,Java 6,110,43212800
+1362002,165,1331912258,458,B,1500,binary search-implementation,mmaxio,Java 7,90,44851200
+1361987,165,1331912252,452,A,1100,implementation,winterflame,Java 6,130,43315200
+1361984,165,1331912252,452,A,1100,implementation,lwc626,Java 7,90,44851200
+1361954,165,1331912235,435,A,1100,implementation,iksuy,Java 6,80,43315200
+1361949,165,1331912234,434,A,1100,implementation,Rex,Java 6,90,43110400
+1361945,165,1331912233,433,A,1100,implementation,cyon,Java 6,110,43212800
+1361936,165,1331912229,429,A,1100,implementation,Mohamed.Ramzy,Java 6,130,43212800
+1361909,165,1331912216,416,B,1500,binary search-implementation,uwi,Java 6,90,43110400
+1361903,165,1331912214,414,A,1100,implementation,yasser_adel,Java 6,110,43212800
+1361899,165,1331912211,411,A,1100,implementation,Tomik,Java 6,130,43315200
+1361896,165,1331912210,410,A,1100,implementation,yarrr,Java 6,90,43110400
+1361881,165,1331912200,400,A,1100,implementation,Galkowsky,Java 6,110,43315200
+1361856,165,1331912185,385,A,1100,implementation,GoomboCode,Java 6,90,43212800
+1361854,165,1331912184,384,A,1100,implementation,Kelang,Java 7,90,44953600
+1361815,165,1331912163,363,A,1100,implementation,JustDoIt,Java 6,90,43110400
+1361808,165,1331912156,356,A,1100,implementation,Ahmed.Ibrahem,Java 6,90,43315200
+1361804,165,1331912154,354,A,1100,implementation,marque,Java 6,80,43110400
+1361802,165,1331912154,354,A,1100,implementation,nodirbek,Java 6,130,43315200
+1361787,165,1331912148,348,A,1100,implementation,twds,Java 6,110,43315200
+1361761,165,1331912135,335,A,1100,implementation,serafimkoo,Java 6,90,43315200
+1361730,165,1331912119,319,A,1100,implementation,evgentu,Java 7,90,44851200
+1361721,165,1331912116,316,A,1100,implementation,igor_kz,Java 6,90,43110400
+1361716,165,1331912113,313,A,1100,implementation,hama-du,Java 6,110,43110400
+1361707,165,1331912106,306,A,1100,implementation,phantom11,Java 7,130,44851200
+1361704,165,1331912105,305,A,1100,implementation,Izot_NNSTU,Java 6,80,43110400
+1361702,165,1331912104,304,A,1100,implementation,Gantz,Java 7,110,44953600
+1361677,165,1331912088,288,A,1100,implementation,Skater,Java 6,110,43212800
+1361652,165,1331912071,271,A,1100,implementation,Sinner,Java 6,90,43110400
+1361642,165,1331912067,267,A,1100,implementation,torrentlord,Java 6,130,43315200
+1361633,165,1331912063,263,A,1100,implementation,Nova,Java 6,90,43110400
+1361631,165,1331912062,262,A,1100,implementation,sas4eka,Java 6,90,43110400
+1361628,165,1331912058,258,A,1100,implementation,mmaxio,Java 7,110,44851200
+1361624,165,1331912056,256,A,1100,implementation,Darko,Java 6,110,43315200
+1361615,165,1331912051,251,A,1100,implementation,PeterGriffin,Java 6,110,43212800
+1361613,165,1331912051,251,A,1100,implementation,ahmad_mamdouh,Java 6,80,43110400
+1361599,165,1331912040,240,B,1500,binary search-implementation,shevchen,Java 6,90,43110400
+1361586,165,1331912024,224,A,1100,implementation,ant.ermilov,Java 6,90,43110400
+1361581,165,1331912017,217,A,1100,implementation,jonathanpaulson,Java 6,130,43315200
+1361579,165,1331912014,214,A,1100,implementation,alexey.enkov,Java 7,90,44851200
+1361575,165,1331912010,210,A,1100,implementation,m.radwan,Java 6,110,43315200
+1361555,165,1331911983,183,A,1100,implementation,uwi,Java 6,90,43110400

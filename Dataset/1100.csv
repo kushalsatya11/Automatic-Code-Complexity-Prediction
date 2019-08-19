@@ -1,0 +1,1348 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57461878,1100,1563717626,2147483647,B,1300,data structures-implementation,chenqiuyuan233,Java 8,624,0,OK
+57437848,1100,1563687933,2147483647,B,1300,data structures-implementation,chenqiuyuan233,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+57181141,1100,1563347850,2147483647,B,1300,data structures-implementation,goalboy,Java 8,311,0,OK
+57163583,1100,1563309552,2147483647,C,1300,binary search-geometry-math,procrastinate7,Java 8,124,0,OK
+57163233,1100,1563308708,2147483647,B,1300,data structures-implementation,procrastinate7,Java 8,140,0,OK
+57163069,1100,1563308348,2147483647,A,1000,implementation,procrastinate7,Java 8,109,0,OK
+57063230,1100,1563132345,2147483647,C,1300,binary search-geometry-math,titomisa,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+57006867,1100,1563088503,2147483647,B,1300,data structures-implementation,vjudge5,Java 8,546,0,OK
+57006694,1100,1563088220,2147483647,B,1300,data structures-implementation,vjudge3,Java 8,498,0,OK
+56879463,1100,1562924577,2147483647,B,1300,data structures-implementation,qingwen,Java 8,639,0,OK
+56873656,1100,1562916471,2147483647,C,1300,binary search-geometry-math,vjudge3,Java 8,155,0,OK
+56872104,1100,1562914292,2147483647,B,1300,data structures-implementation,vjudge3,Java 8,577,0,OK
+56868792,1100,1562908452,2147483647,B,1300,data structures-implementation,vjudge1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56868674,1100,1562908297,2147483647,B,1300,data structures-implementation,luogu_bot4,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56865866,1100,1562900504,2147483647,A,1000,implementation,vjudge5,Java 8,140,0,OK
+56865695,1100,1562900076,2147483647,A,1000,implementation,vjudge4,Java 8,140,0,OK
+56864863,1100,1562898074,2147483647,A,1000,implementation,vjudge5,Java 8,155,0,OK
+56864401,1100,1562896944,2147483647,C,1300,binary search-geometry-math,vjudge1,Java 8,155,0,OK
+56864387,1100,1562896923,2147483647,B,1300,data structures-implementation,vjudge3,Java 8,608,0,OK
+56864279,1100,1562896670,2147483647,A,1000,implementation,vjudge1,Java 8,140,0,OK
+56864170,1100,1562896449,2147483647,B,1300,data structures-implementation,vjudge3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56863932,1100,1562895888,2147483647,B,1300,data structures-implementation,vjudge2,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56863805,1100,1562895599,2147483647,B,1300,data structures-implementation,vjudge2,Java 8,670,0,OK
+56863230,1100,1562893917,2147483647,C,1300,binary search-geometry-math,vjudge3,Java 8,140,0,OK
+56863203,1100,1562893811,2147483647,A,1000,implementation,vjudge3,Java 8,140,0,OK
+56525361,1100,1562259263,2147483647,A,1000,implementation,beykus,Java 8,140,0,OK
+56358235,1100,1561917846,2147483647,C,1300,binary search-geometry-math,Harbin,Java 8,124,0,OK
+56223567,1100,1561718935,2147483647,B,1300,data structures-implementation,ankyy_0103,Java 8,249,0,OK
+56223494,1100,1561718730,2147483647,B,1300,data structures-implementation,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56223360,1100,1561718366,2147483647,B,1300,data structures-implementation,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56223272,1100,1561718112,2147483647,B,1300,data structures-implementation,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+56221259,1100,1561717173,2147483647,B,1300,data structures-implementation,ankyy_0103,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+55956469,1100,1561274303,2147483647,A,1000,implementation,ashcodish,Java 8,140,0,OK
+55871673,1100,1561129384,2147483647,B,1300,data structures-implementation,bodziozet,Java 8,670,3276800,OK
+55613810,1100,1560670683,2147483647,C,1300,binary search-geometry-math,serialcoder,Java 8,139,0,OK
+55532680,1100,1560436162,6862,C,1300,binary search-geometry-math,optimaniax,Java 8,124,0,OK
+55530284,1100,1560431645,2345,B,1300,data structures-implementation,optimaniax,Java 8,233,7577600,OK
+55529428,1100,1560430117,817,A,1000,implementation,optimaniax,Java 8,124,0,OK
+55432089,1100,1560254209,2147483647,B,1300,data structures-implementation,SwapNilJethwa98,Java 8,654,5120000,OK
+55430986,1100,1560252277,2257,B,1300,data structures-implementation,bhavikmehta98,Java 8,124,0,OK
+55430058,1100,1560250669,649,A,1000,implementation,bhavikmehta98,Java 8,124,0,OK
+55404533,1100,1560181772,2147483647,A,1000,implementation,foreverlearner,Java 8,124,0,OK
+55112231,1100,1559717635,2147483647,A,1000,implementation,bencebosko,Java 8,109,0,OK
+54717547,1100,1558966602,2147483647,A,1000,implementation,charlerter,Java 8,155,0,OK
+54495099,1100,1558545647,2147483647,B,1300,data structures-implementation,Dejokz,Java 8,139,0,OK
+54433962,1100,1558409050,2147483647,B,1300,data structures-implementation,klvntagoe,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54433607,1100,1558407590,2147483647,B,1300,data structures-implementation,klvntagoe,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+54382830,1100,1558266380,2147483647,A,1000,implementation,Vatsal53,Java 8,124,0,OK
+54252381,1100,1558029419,4019,B,1300,data structures-implementation,hasan5788,Java 8,499,3072000,OK
+54251160,1100,1558027183,1783,A,1000,implementation,hasan5788,Java 8,124,0,OK
+54204426,1100,1557936938,2147483647,B,1300,data structures-implementation,goldcode8,Java 8,452,0,OK
+54021715,1100,1557655716,2147483647,C,1300,binary search-geometry-math,Ikari_stream,Java 8,124,0,OK
+53949432,1100,1557477713,2147483647,B,1300,data structures-implementation,Ikari_stream,Java 8,483,9625600,OK
+53762654,1100,1557000609,2147483647,C,1300,binary search-geometry-math,stolis,Java 8,140,0,OK
+53643687,1100,1556732510,2147483647,B,1300,data structures-implementation,maheshwari29,Java 8,530,26112000,OK
+53612973,1100,1556719638,2147483647,E,2200,binary search-dfs and similar-graphs,yarolegovich,Java 8,1185,19456000,OK
+53565346,1100,1556626078,2147483647,C,1300,binary search-geometry-math,MubtasimShahriar,Java 8,124,0,OK
+53541883,1100,1556608874,2147483647,A,1000,implementation,vjudge4,Java 8,140,0,OK
+53457761,1100,1556426523,2147483647,A,1000,implementation,goalboy,Java 8,187,0,OK
+53437519,1100,1556396091,2147483647,B,1300,data structures-implementation,stolis,Java 8,249,0,OK
+53307099,1100,1556250545,2147483647,C,1300,binary search-geometry-math,maheshwari29,Java 8,124,0,OK
+53271813,1100,1556175135,2147483647,B,1300,data structures-implementation,_hello,Java 8,639,0,OK
+53265800,1100,1556155451,2147483647,C,1300,binary search-geometry-math,0rnag,Java 8,140,0,OK
+53096919,1100,1555855410,2147483647,E,2200,binary search-dfs and similar-graphs,caoash,Java 8,1044,26624000,OK
+53082296,1100,1555831003,2803,C,1300,binary search-geometry-math,mdasif,Java 8,109,0,OK
+53081714,1100,1555829699,1499,B,1300,data structures-implementation,mdasif,Java 8,467,921600,OK
+53081353,1100,1555828922,722,A,1000,implementation,mdasif,Java 8,124,0,OK
+52989738,1100,1555621170,6450,C,1300,binary search-geometry-math,zmurzagaliev,Java 8,140,0,OK
+52988528,1100,1555618346,3626,B,1300,data structures-implementation,zmurzagaliev,Java 8,608,4198400,OK
+52986988,1100,1555615429,709,A,1000,implementation,zmurzagaliev,Java 8,171,0,OK
+52644547,1100,1555077330,5430,C,1300,binary search-geometry-math,mannshah27,Java 8,139,0,OK
+52642426,1100,1555074243,2343,B,1300,data structures-implementation,mannshah27,Java 8,124,0,OK
+52642149,1100,1555073836,1936,B,1300,data structures-implementation,mannshah27,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+52641196,1100,1555072384,484,A,1000,implementation,mannshah27,Java 8,139,0,OK
+52331494,1100,1554442734,2147483647,C,1300,binary search-geometry-math,Valmiki,Java 8,140,0,OK
+52328460,1100,1554433883,2147483647,B,1300,data structures-implementation,Valmiki,Java 8,607,0,OK
+52262252,1100,1554283836,2147483647,A,1000,implementation,Valmiki,Java 8,140,0,OK
+52175040,1100,1554133770,2147483647,B,1300,data structures-implementation,ppandey,Java 8,623,0,OK
+52167378,1100,1554132604,2147483647,B,1300,data structures-implementation,ppandey,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+52134857,1100,1554081432,2147483647,C,1300,binary search-geometry-math,jkomskis,Java 8,124,0,OK
+52098447,1100,1554043377,2147483647,C,1300,binary search-geometry-math,raj_aman209,Java 8,124,0,OK
+52090836,1100,1554042215,6515,B,1300,data structures-implementation,raj_aman209,Java 8,140,0,OK
+52088860,1100,1554041923,6223,B,1300,data structures-implementation,raj_aman209,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+52085354,1100,1554041291,5591,B,1300,data structures-implementation,raj_aman209,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+52083357,1100,1554037961,2261,A,1000,implementation,raj_aman209,Java 8,124,0,OK
+52057533,1100,1553978891,2147483647,B,1300,data structures-implementation,amitt_yadav_,Java 8,280,2969600,OK
+52029091,1100,1553963777,2147483647,C,1300,binary search-geometry-math,vjudge4,Java 8,140,0,OK
+52029073,1100,1553963743,2147483647,C,1300,binary search-geometry-math,vjudge3,Java 8,124,0,OK
+51973121,1100,1553865458,2147483647,B,1300,data structures-implementation,lobnachour,Java 8,171,15564800,OK
+51835070,1100,1553536608,2147483647,A,1000,implementation,stolis,Java 8,155,0,OK
+51807620,1100,1553473429,2147483647,B,1300,data structures-implementation,MaiNabil,Java 8,639,2969600,OK
+51758322,1100,1553344548,2147483647,C,1300,binary search-geometry-math,shaurya8848,Java 8,140,0,OK
+51748599,1100,1553330279,2147483647,C,1300,binary search-geometry-math,Aoceanus,Java 8,140,0,OK
+51602017,1100,1553143632,2147483647,A,1000,implementation,da_grt_aru,Java 8,140,0,OK
+51399584,1100,1552804566,1266,C,1300,binary search-geometry-math,ajaytank,Java 8,109,0,OK
+51249285,1100,1552462457,2147483647,C,1300,binary search-geometry-math,Tooc0ld,Java 8,109,0,OK
+51225184,1100,1552398667,2147483647,B,1300,data structures-implementation,Tooc0ld,Java 8,156,0,OK
+51224595,1100,1552397943,2147483647,A,1000,implementation,Tooc0ld,Java 8,124,0,OK
+51146326,1100,1552266006,2147483647,C,1300,binary search-geometry-math,JoyLu,Java 8,109,0,OK
+51012403,1100,1552038493,2147483647,B,1300,data structures-implementation,hemantjain759,Java 8,608,0,OK
+51007456,1100,1552036581,2147483647,B,1300,data structures-implementation,hemantjain759,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50903014,1100,1551896636,2147483647,C,1300,binary search-geometry-math,adeepgarg13,Java 8,139,0,OK
+50890964,1100,1551877861,2147483647,B,1300,data structures-implementation,adeepgarg13,Java 8,608,0,OK
+50890817,1100,1551877685,2147483647,B,1300,data structures-implementation,adeepgarg13,Java 8,670,0,OK
+50864461,1100,1551814593,2147483647,C,1300,binary search-geometry-math,zeyadhhabib,Java 8,139,0,OK
+50788300,1100,1551709488,2147483647,A,1000,implementation,hemantjain759,Java 8,140,0,OK
+50778086,1100,1551692822,2147483647,B,1300,data structures-implementation,ramez,Java 8,155,0,OK
+50697324,1100,1551552625,2147483647,B,1300,data structures-implementation,Harbin,Java 8,140,0,OK
+50697236,1100,1551552498,2147483647,B,1300,data structures-implementation,Harbin,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50694718,1100,1551547816,2147483647,A,1000,implementation,Harbin,Java 8,124,0,OK
+50566567,1100,1551273864,2147483647,B,1300,data structures-implementation,3rx,Java 8,452,0,OK
+50558484,1100,1551259633,2147483647,B,1300,data structures-implementation,_olOlo_,Java 8,156,2457600,OK
+50526292,1100,1551182096,2147483647,A,1000,implementation,KaungKhantThar,Java 8,171,0,OK
+50467296,1100,1551040791,2147483647,E,2200,binary search-dfs and similar-graphs,farmer-john,Java 8,2000,10649600,TIME_LIMIT_EXCEEDED
+50467163,1100,1551040476,2147483647,E,2200,binary search-dfs and similar-graphs,farmer-john,Java 8,2000,32358400,TIME_LIMIT_EXCEEDED
+50466913,1100,1551039914,2147483647,E,2200,binary search-dfs and similar-graphs,farmer-john,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+50413080,1100,1550982997,2147483647,B,1300,data structures-implementation,viratK,Java 8,608,0,OK
+50338695,1100,1550878930,2147483647,C,1300,binary search-geometry-math,vjudge3,Java 8,155,0,OK
+50338675,1100,1550878789,2147483647,C,1300,binary search-geometry-math,vjudge4,Java 8,140,0,OK
+50338557,1100,1550878144,2147483647,C,1300,binary search-geometry-math,vjudge4,Java 8,140,0,OK
+50252402,1100,1550685361,2147483647,A,1000,implementation,haritwalsiddhant,Java 8,155,0,OK
+50199252,1100,1550595290,2147483647,C,1300,binary search-geometry-math,viratK,Java 8,140,0,OK
+50160144,1100,1550578383,2147483647,A,1000,implementation,newheathen,Java 8,140,0,OK
+50091681,1100,1550486670,2147483647,A,1000,implementation,M.daoud,Java 8,140,0,OK
+50076029,1100,1550438977,2147483647,A,1000,implementation,alfaOmega,Java 8,140,0,OK
+50067852,1100,1550418631,2147483647,E,2200,binary search-dfs and similar-graphs,vjudge5,Java 8,514,5120000,OK
+50045175,1100,1550381202,2147483647,A,1000,implementation,muthiendia,Java 8,140,0,OK
+50042809,1100,1550374241,2147483647,B,1300,data structures-implementation,Java,Java 8,139,0,OK
+50042756,1100,1550374087,2147483647,B,1300,data structures-implementation,Java,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50042719,1100,1550373985,2147483647,B,1300,data structures-implementation,Java,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50042270,1100,1550372492,2147483647,A,1000,implementation,Java,Java 8,140,0,OK
+49995909,1100,1550328949,1849,A,1000,implementation,TheBlackReaper,Java 8,140,0,OK
+49956746,1100,1550247852,1452,B,1300,data structures-implementation,O_E,Java 8,170,3993600,OK
+49956674,1100,1550247737,1337,B,1300,data structures-implementation,Ziax,Java 8,140,0,OK
+49956282,1100,1550247070,670,A,1000,implementation,O_E,Java 8,124,0,OK
+49956227,1100,1550246959,559,A,1000,implementation,Ziax,Java 8,109,0,OK
+49898128,1100,1550131093,2147483647,C,1300,binary search-geometry-math,mojomiao,Java 8,140,0,OK
+49892650,1100,1550121049,2147483647,C,1300,binary search-geometry-math,zq920320,Java 8,139,0,OK
+49892340,1100,1550120147,2147483647,B,1300,data structures-implementation,zq920320,Java 8,639,0,OK
+49891390,1100,1550116971,2147483647,E,2200,binary search-dfs and similar-graphs,fx8309,Java 8,2000,184217600,TIME_LIMIT_EXCEEDED
+49889909,1100,1550111585,2147483647,A,1000,implementation,zq920320,Java 8,140,0,OK
+49880516,1100,1550080594,2147483647,C,1300,binary search-geometry-math,ISSAM_LAKOUAM,Java 8,140,0,OK
+49880507,1100,1550080582,2147483647,B,1300,data structures-implementation,ISSAM_LAKOUAM,Java 8,280,0,OK
+49880497,1100,1550080569,2147483647,A,1000,implementation,ISSAM_LAKOUAM,Java 8,140,0,OK
+49865053,1100,1550058008,2147483647,C,1300,binary search-geometry-math,MadChicken,Java 8,155,0,OK
+49864609,1100,1550057404,6904,C,1300,binary search-geometry-math,MadChicken,Java 8,140,0,OK
+49861865,1100,1550051776,1275,B,1300,data structures-implementation,MadChicken,Java 8,140,0,OK
+49861515,1100,1550051130,629,A,1000,implementation,MadChicken,Java 8,155,0,OK
+49861345,1100,1550050794,2147483647,C,1300,binary search-geometry-math,yangjing30,Java 8,140,0,OK
+49861222,1100,1550050547,2147483647,D,2400,constructive algorithms-games-interactive,fx8309,Java 8,265,0,OK
+49860972,1100,1550050139,2147483647,D,2400,constructive algorithms-games-interactive,fx8309,Java 8,265,0,OK
+49860478,1100,1550049318,2147483647,A,1000,implementation,EmilSilva,Java 8,124,0,OK
+49860312,1100,1550049041,2147483647,B,1300,data structures-implementation,yangjing30,Java 8,623,0,OK
+49859678,1100,1550048073,2147483647,B,1300,data structures-implementation,yangjing30,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49855154,1100,1550040384,2147483647,B,1300,data structures-implementation,copyture,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49854620,1100,1550039423,2147483647,B,1300,data structures-implementation,copyture,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49854582,1100,1550039354,2147483647,B,1300,data structures-implementation,vjudge1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49854560,1100,1550039293,2147483647,A,1000,implementation,yangjing30,Java 8,140,0,OK
+49844203,1100,1550002707,3807,C,1300,binary search-geometry-math,whiteChicken,Java 8,140,0,OK
+49843062,1100,1550000064,1164,B,1300,data structures-implementation,whiteChicken,Java 8,280,0,OK
+49842780,1100,1549999447,547,A,1000,implementation,whiteChicken,Java 8,140,0,OK
+49837423,1100,1549990143,2147483647,B,1300,data structures-implementation,StarLord_07,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49836501,1100,1549988667,2147483647,C,1300,binary search-geometry-math,saurabh0611,Java 8,156,0,OK
+49836493,1100,1549988651,2147483647,B,1300,data structures-implementation,StarLord_07,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49835632,1100,1549987205,2147483647,F,2600,data structures-divide and conquer-greedy-math,PrakharJain,Java 8,3000,140185600,TIME_LIMIT_EXCEEDED
+49833269,1100,1549983274,2147483647,F,2600,data structures-divide and conquer-greedy-math,PrakharJain,Java 8,3000,75673600,TIME_LIMIT_EXCEEDED
+49760825,1100,1549875183,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,685,0,OK
+49760228,1100,1549874047,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,670,0,OK
+49759856,1100,1549873371,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49759700,1100,1549873074,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49759162,1100,1549872072,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49758959,1100,1549871735,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49758430,1100,1549870885,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49757814,1100,1549869837,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,654,0,OK
+49753137,1100,1549858858,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49752807,1100,1549857944,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49752764,1100,1549857842,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49752071,1100,1549856002,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,686,4505600,OK
+49695076,1100,1549804887,2147483647,A,1000,implementation,princeraj8583,Java 8,140,0,OK
+49656311,1100,1549706872,2147483647,C,1300,binary search-geometry-math,mojomiao,Java 8,140,0,OK
+49656170,1100,1549706578,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,686,4403200,OK
+49656078,1100,1549706429,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,686,4403200,OK
+49652903,1100,1549701036,2147483647,B,1300,data structures-implementation,mojomiao,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49651115,1100,1549698048,2147483647,A,1000,implementation,mojomiao,Java 8,155,0,OK
+49642538,1100,1549670170,2147483647,B,1300,data structures-implementation,vjudge5,Java 8,467,0,OK
+49642348,1100,1549669042,2147483647,B,1300,data structures-implementation,vjudge5,Java 8,592,0,OK
+49642242,1100,1549668551,2147483647,B,1300,data structures-implementation,vjudge5,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49642211,1100,1549668389,2147483647,B,1300,data structures-implementation,vjudge2,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49642075,1100,1549667616,2147483647,B,1300,data structures-implementation,vjudge2,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49642052,1100,1549667437,2147483647,B,1300,data structures-implementation,vjudge1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49641993,1100,1549667118,2147483647,B,1300,data structures-implementation,vjudge5,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49641864,1100,1549666495,2147483647,B,1300,data structures-implementation,vjudge4,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49641757,1100,1549665948,2147483647,B,1300,data structures-implementation,vjudge5,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49617608,1100,1549609882,2147483647,B,1300,data structures-implementation,satyajiit,Java 8,623,0,OK
+49549859,1100,1549514518,2147483647,A,1000,implementation,asaleh93,Java 8,140,0,OK
+49502886,1100,1549382750,2147483647,A,1000,implementation,StarLord_07,Java 8,155,0,OK
+49444737,1100,1549244392,2147483647,B,1300,data structures-implementation,zxzxzx0119,Java 8,576,0,OK
+49347593,1100,1549089124,124,C,1300,binary search-geometry-math,fx8309,Java 8,140,0,OK
+49347585,1100,1549089108,108,B,1300,data structures-implementation,fx8309,Java 8,639,0,OK
+49347568,1100,1549089072,72,A,1000,implementation,fx8309,Java 8,140,0,OK
+49344329,1100,1549080536,2147483647,A,1000,implementation,fx8309,Java 8,140,0,OK
+49343711,1100,1549077762,2147483647,B,1300,data structures-implementation,fx8309,Java 8,654,0,OK
+49312753,1100,1549010978,2147483647,C,1300,binary search-geometry-math,fx8309,Java 8,140,0,OK
+49312717,1100,1549010913,2147483647,C,1300,binary search-geometry-math,fx8309,Java 8,140,0,OK
+49289123,1100,1548960243,2147483647,D,2400,constructive algorithms-games-interactive,ariel.nowik,Java 8,248,21196800,OK
+49241087,1100,1548930060,2147483647,B,1300,data structures-implementation,EmilSilva,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49240240,1100,1548928666,2147483647,C,1300,binary search-geometry-math,arnavks97,Java 8,124,0,OK
+49239433,1100,1548927296,2147483647,B,1300,data structures-implementation,arnavks97,Java 8,140,0,OK
+49237961,1100,1548925014,2147483647,A,1000,implementation,arnavks97,Java 8,124,0,OK
+49230350,1100,1548910213,2147483647,A,1000,implementation,pihugupta,Java 8,140,0,OK
+49230065,1100,1548909281,2147483647,C,1300,binary search-geometry-math,dmd161100,Java 8,109,0,OK
+49228645,1100,1548905730,2147483647,B,1300,data structures-implementation,dmd161100,Java 8,140,0,OK
+49227979,1100,1548903697,2147483647,A,1000,implementation,dmd161100,Java 8,124,0,OK
+49185277,1100,1548826538,2147483647,A,1000,implementation,vjudge1,Java 8,140,0,OK
+49175519,1100,1548792908,2147483647,A,1000,implementation,sara_11,Java 8,140,0,OK
+49119881,1100,1548701008,2147483647,B,1300,data structures-implementation,swapnil9090,Java 8,608,5017600,OK
+49112581,1100,1548689668,2147483647,C,1300,binary search-geometry-math,i_am_not_real,Java 8,139,0,OK
+49112223,1100,1548689142,2147483647,B,1300,data structures-implementation,i_am_not_real,Java 8,639,0,OK
+49111702,1100,1548688392,2147483647,A,1000,implementation,i_am_not_real,Java 8,140,0,OK
+49104726,1100,1548679276,2147483647,C,1300,binary search-geometry-math,vjudge4,Java 8,124,0,OK
+49084985,1100,1548659539,2147483647,B,1300,data structures-implementation,akash6019,Java 8,296,3174400,OK
+49074490,1100,1548638424,2147483647,F,2600,data structures-divide and conquer-greedy-math,AuroraGarden,Java 8,1793,127078400,OK
+49074077,1100,1548636312,2147483647,F,2600,data structures-divide and conquer-greedy-math,AuroraGarden,Java 8,3000,80588800,TIME_LIMIT_EXCEEDED
+49074035,1100,1548636045,2147483647,F,2600,data structures-divide and conquer-greedy-math,AuroraGarden,Java 8,3000,80588800,TIME_LIMIT_EXCEEDED
+49074022,1100,1548635951,2147483647,F,2600,data structures-divide and conquer-greedy-math,AuroraGarden,Java 8,3000,129945600,TIME_LIMIT_EXCEEDED
+49074008,1100,1548635867,2147483647,F,2600,data structures-divide and conquer-greedy-math,AuroraGarden,Java 8,3000,145100800,TIME_LIMIT_EXCEEDED
+49073967,1100,1548635640,2147483647,F,2600,data structures-divide and conquer-greedy-math,AuroraGarden,Java 8,3000,147660800,TIME_LIMIT_EXCEEDED
+49030741,1100,1548539955,2147483647,A,1000,implementation,WeedWizard,Java 8,140,0,OK
+49019561,1100,1548523516,2147483647,B,1300,data structures-implementation,meiniak,Java 8,295,3174400,OK
+48956937,1100,1548479075,2147483647,A,1000,implementation,I.A.K.O.V,Java 8,124,0,OK
+48952119,1100,1548463405,2147483647,C,1300,binary search-geometry-math,akash6019,Java 8,140,0,OK
+48924433,1100,1548408863,263,B,1300,data structures-implementation,Dsus2,Java 8,701,14848000,OK
+48924363,1100,1548408734,134,A,1000,implementation,Dsus2,Java 8,186,0,OK
+48899661,1100,1548350856,2147483647,E,2200,binary search-dfs and similar-graphs,Silent_coder,Java 8,1559,12390400,OK
+48899596,1100,1548350752,2147483647,E,2200,binary search-dfs and similar-graphs,Silent_coder,Java 8,1153,16793600,OK
+48899486,1100,1548350573,2147483647,E,2200,binary search-dfs and similar-graphs,Silent_coder,Java 8,2000,14848000,TIME_LIMIT_EXCEEDED
+48899286,1100,1548350275,2147483647,E,2200,binary search-dfs and similar-graphs,Silent_coder,Java 8,2000,3891200,TIME_LIMIT_EXCEEDED
+48899175,1100,1548350109,2147483647,E,2200,binary search-dfs and similar-graphs,Silent_coder,Java 8,2000,3891200,TIME_LIMIT_EXCEEDED
+48899001,1100,1548349858,2147483647,E,2200,binary search-dfs and similar-graphs,Silent_coder,Java 8,2000,3788800,TIME_LIMIT_EXCEEDED
+48853821,1100,1548266641,2147483647,C,1300,binary search-geometry-math,younesbmz,Java 8,109,0,OK
+48853663,1100,1548266450,2147483647,B,1300,data structures-implementation,younesbmz,Java 8,529,6758400,OK
+48852285,1100,1548264703,2147483647,A,1000,implementation,younesbmz,Java 8,124,0,OK
+48788600,1100,1548238268,2147483647,D,2400,constructive algorithms-games-interactive,mrsrz,Java 8,249,0,OK
+48783195,1100,1548229320,2220,C,1300,binary search-geometry-math,afrizal,Java 8,109,0,OK
+48782761,1100,1548228630,1530,B,1300,data structures-implementation,afrizal,Java 8,140,0,OK
+48781992,1100,1548227533,433,A,1000,implementation,afrizal,Java 8,124,0,OK
+48777013,1100,1548218974,2147483647,E,2200,binary search-dfs and similar-graphs,shin2903,Java 8,2000,14438400,TIME_LIMIT_EXCEEDED
+48771213,1100,1548202576,2147483647,B,1300,data structures-implementation,Dylan_Lyon,Java 8,249,0,OK
+48721225,1100,1548164237,2147483647,C,1300,binary search-geometry-math,marcivanovofearth,Java 8,155,0,OK
+48706283,1100,1548136977,2147483647,A,1000,implementation,CharlesDai,Java 8,109,0,OK
+48702965,1100,1548129964,2147483647,E,2200,binary search-dfs and similar-graphs,shin2903,Java 8,2000,14233600,TIME_LIMIT_EXCEEDED
+48699444,1100,1548121462,2147483647,B,1300,data structures-implementation,stringman228899,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48696273,1100,1548107581,7081,D,2400,constructive algorithms-games-interactive,mrmarsh,Java 8,249,0,OK
+48695160,1100,1548102753,2253,C,1300,binary search-geometry-math,mrmarsh,Java 8,124,0,OK
+48694895,1100,1548101949,1449,B,1300,data structures-implementation,mrmarsh,Java 8,171,0,OK
+48694609,1100,1548101053,552,A,1000,implementation,mrmarsh,Java 8,109,0,OK
+48673805,1100,1548068754,2147483647,C,1300,binary search-geometry-math,lolkek4,Java 8,124,0,OK
+48652815,1100,1548027868,2147483647,B,1300,data structures-implementation,sg915,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48652566,1100,1548026468,2147483647,B,1300,data structures-implementation,sg915,Java 8,1000,2764800,TIME_LIMIT_EXCEEDED
+48650131,1100,1548014998,2147483647,B,1300,data structures-implementation,shubhammitt,Java 8,468,0,OK
+48649642,1100,1548013724,2147483647,A,1000,implementation,shubhammitt,Java 8,124,0,OK
+48649097,1100,1548012330,2147483647,A,1000,implementation,Hoda_Hisham,Java 8,124,0,OK
+48647478,1100,1548008488,6328,C,1300,binary search-geometry-math,Ahmed_Diab,Java 8,109,0,OK
+48647246,1100,1548008017,5857,C,1300,binary search-geometry-math,Ahmed_Diab,Java 8,109,0,OK
+48645376,1100,1548004373,2147483647,B,1300,data structures-implementation,bpendragon,Java 8,124,0,OK
+48645302,1100,1548004216,2147483647,B,1300,data structures-implementation,bpendragon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48645205,1100,1548004044,1884,B,1300,data structures-implementation,Ahmed_Diab,Java 8,186,13414400,OK
+48644955,1100,1548003602,2147483647,B,1300,data structures-implementation,bpendragon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48644718,1100,1548003168,1008,A,1000,implementation,Ahmed_Diab,Java 8,109,0,OK
+48644714,1100,1548003163,2147483647,B,1300,data structures-implementation,bpendragon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48644592,1100,1548002947,2147483647,B,1300,data structures-implementation,bpendragon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48606203,1100,1547982155,6755,C,1300,binary search-geometry-math,Roman-v1,Java 8,109,0,OK
+48603878,1100,1547977448,2147483647,B,1300,data structures-implementation,jsuryamathavan,Java 8,623,0,OK
+48603778,1100,1547977242,1842,B,1300,data structures-implementation,Roman-v1,Java 8,155,819200,OK
+48603738,1100,1547977153,2147483647,B,1300,data structures-implementation,jsuryamathavan,Java 8,577,0,OK
+48603100,1100,1547975968,568,A,1000,implementation,Roman-v1,Java 8,109,0,OK
+48600324,1100,1547971559,6959,C,1300,binary search-geometry-math,foxtrot9,Java 8,140,0,OK
+48600148,1100,1547971264,2147483647,E,2200,binary search-dfs and similar-graphs,boltUsain,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48598672,1100,1547968886,4286,B,1300,data structures-implementation,foxtrot9,Java 8,280,3584000,OK
+48598040,1100,1547967966,3366,B,1300,data structures-implementation,foxtrot9,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48597363,1100,1547967008,2408,A,1000,implementation,foxtrot9,Java 8,140,0,OK
+48594412,1100,1547961886,2147483647,B,1300,data structures-implementation,yashgulani,Java 8,343,3276800,OK
+48591203,1100,1547951234,2147483647,E,2200,binary search-dfs and similar-graphs,just_soso,Java 8,1887,19251200,OK
+48589718,1100,1547943414,2147483647,A,1000,implementation,Ahmed..Adel..Selim,Java 8,109,0,OK
+48589459,1100,1547941602,2147483647,B,1300,data structures-implementation,Ahmed..Adel..Selim,Java 8,280,0,OK
+48589142,1100,1547939121,2147483647,A,1000,implementation,Floryk,Java 8,171,0,OK
+48587777,1100,1547932651,2147483647,B,1300,data structures-implementation,TWO_POINTER,Java 8,155,921600,OK
+48587386,1100,1547931190,2147483647,B,1300,data structures-implementation,fakhoury,Java 8,576,3481600,OK
+48583071,1100,1547919893,2147483647,C,1300,binary search-geometry-math,krit_patel,Java 8,109,0,OK
+48582684,1100,1547918956,2147483647,B,1300,data structures-implementation,pnsaiaditya,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48581369,1100,1547916438,2147483647,B,1300,data structures-implementation,pnsaiaditya,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48580909,1100,1547915817,2147483647,B,1300,data structures-implementation,krit_patel,Java 8,483,409600,OK
+48580000,1100,1547914084,784,A,1000,implementation,BiggestPrime,Java 8,109,0,OK
+48579941,1100,1547913943,2147483647,A,1000,implementation,krit_patel,Java 8,124,0,OK
+48579291,1100,1547912733,2147483647,D,2400,constructive algorithms-games-interactive,catforce,Java 8,202,0,OK
+48578285,1100,1547910920,2147483647,D,2400,constructive algorithms-games-interactive,just_soso,Java 8,265,0,OK
+48578206,1100,1547910767,2147483647,D,2400,constructive algorithms-games-interactive,just_soso,Java 8,280,0,OK
+48577333,1100,1547909151,2147483647,A,1000,implementation,akshay181199,Java 8,155,0,OK
+48576246,1100,1547907158,2147483647,C,1300,binary search-geometry-math,henryhuypham,Java 8,124,0,OK
+48575256,1100,1547905619,2147483647,A,1000,implementation,henryhuypham,Java 8,124,0,OK
+48574558,1100,1547904549,2147483647,B,1300,data structures-implementation,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48573815,1100,1547903416,2147483647,B,1300,data structures-implementation,jatin.jain9414,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48572317,1100,1547901173,2147483647,C,1300,binary search-geometry-math,gaurav12,Java 8,140,0,OK
+48571565,1100,1547900034,2147483647,B,1300,data structures-implementation,ChrisConstant,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48571289,1100,1547899583,2147483647,B,1300,data structures-implementation,ChrisConstant,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48570946,1100,1547899053,2147483647,B,1300,data structures-implementation,gaurav12,Java 8,576,0,OK
+48569309,1100,1547896372,2147483647,B,1300,data structures-implementation,gaurav12,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48568683,1100,1547895421,2147483647,A,1000,implementation,gaurav12,Java 8,140,0,OK
+48567696,1100,1547893556,2147483647,E,2200,binary search-dfs and similar-graphs,tsumit023,Java 8,327,11878400,OK
+48566493,1100,1547891470,2147483647,B,1300,data structures-implementation,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48565769,1100,1547890124,2147483647,B,1300,data structures-implementation,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48563329,1100,1547886180,2147483647,C,1300,binary search-geometry-math,Mohamed_Saad62,Java 8,109,0,OK
+48563307,1100,1547886141,2147483647,C,1300,binary search-geometry-math,dpark3542,Java 8,140,0,OK
+48562984,1100,1547885603,2147483647,B,1300,data structures-implementation,dpark3542,Java 8,280,3276800,OK
+48562482,1100,1547884783,2147483647,A,1000,implementation,dpark3542,Java 8,140,0,OK
+48560293,1100,1547881528,2147483647,B,1300,data structures-implementation,sumit3,Java 8,140,0,OK
+48554364,1100,1547871710,2147483647,A,1000,implementation,hetshah25,Java 8,124,0,OK
+48551252,1100,1547863123,2147483647,C,1300,binary search-geometry-math,Silver_Lining,Java 8,140,0,OK
+48549734,1100,1547856546,3546,B,1300,data structures-implementation,Dylan_Lyon,Java 8,264,0,OK
+48549653,1100,1547855907,2907,C,1300,binary search-geometry-math,Dylan_Lyon,Java 8,140,0,OK
+48549435,1100,1547854407,1407,B,1300,data structures-implementation,Dylan_Lyon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48549382,1100,1547854066,1066,B,1300,data structures-implementation,Dylan_Lyon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48539548,1100,1547827166,2147483647,A,1000,implementation,bpendragon,Java 8,109,0,OK
+48539506,1100,1547827103,2147483647,E,2200,binary search-dfs and similar-graphs,AJ47,Java 8,1247,16486400,OK
+48539201,1100,1547826587,2147483647,B,1300,data structures-implementation,Coderast,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48537686,1100,1547823853,2147483647,A,1000,implementation,Silver_Lining,Java 8,140,0,OK
+48535023,1100,1547819373,2147483647,B,1300,data structures-implementation,Nams,Java 8,655,0,OK
+48532593,1100,1547815331,2147483647,B,1300,data structures-implementation,Vlad3d,Java 8,156,0,OK
+48531974,1100,1547814302,2147483647,A,1000,implementation,Vlad3d,Java 8,124,0,OK
+48528038,1100,1547805911,2147483647,C,1300,binary search-geometry-math,Pratik_Rajani,Java 8,109,0,OK
+48527627,1100,1547805129,2147483647,E,2200,binary search-dfs and similar-graphs,AJ47,Java 8,1294,16486400,OK
+48522929,1100,1547796450,2147483647,D,2400,constructive algorithms-games-interactive,chipchip3412,Java 8,234,0,OK
+48514975,1100,1547780208,2147483647,C,1300,binary search-geometry-math,vktennis,Java 8,140,0,OK
+48512857,1100,1547770481,7181,B,1300,data structures-implementation,ArtYu,Java 8,280,0,OK
+48512836,1100,1547770236,2147483647,B,1300,data structures-implementation,Coderast,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48512825,1100,1547770131,6831,B,1300,data structures-implementation,ArtYu,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48512792,1100,1547769868,6568,B,1300,data structures-implementation,ArtYu,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48512749,1100,1547769564,6263,B,1300,data structures-implementation,ArtYu,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48512719,1100,1547769377,6077,B,1300,data structures-implementation,ArtYu,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48512635,1100,1547768803,2147483647,C,1300,binary search-geometry-math,Coderast,Java 8,140,0,OK
+48512494,1100,1547767797,4497,A,1000,implementation,ArtYu,Java 8,140,0,OK
+48512323,1100,1547766573,2147483647,A,1000,implementation,akash6019,Java 8,140,0,OK
+48509440,1100,1547754162,2147483647,C,1300,binary search-geometry-math,aschugunov,Java 8,108,0,OK
+48508771,1100,1547752448,848,A,1000,implementation,jangandsim,Java 8,140,0,OK
+48508552,1100,1547751890,2147483647,A,1000,implementation,swapnil9090,Java 8,124,0,OK
+48508508,1100,1547751794,2147483647,A,1000,implementation,hardik_vijay,Java 8,140,0,OK
+48506419,1100,1547747580,2147483647,C,1300,binary search-geometry-math,parasmehan123,Java 8,140,0,OK
+48505218,1100,1547745421,6721,B,1300,data structures-implementation,bazinga_punk,Java 8,483,4608000,OK
+48502893,1100,1547741163,2147483647,C,1300,binary search-geometry-math,james222424,Java 8,124,0,OK
+48502075,1100,1547739528,2147483647,B,1300,data structures-implementation,james222424,Java 8,140,0,OK
+48501491,1100,1547738424,2147483647,C,1300,binary search-geometry-math,PercySpecter,Java 8,155,0,OK
+48501206,1100,1547737913,2147483647,B,1300,data structures-implementation,PercySpecter,Java 8,608,0,OK
+48500813,1100,1547737184,2147483647,C,1300,binary search-geometry-math,mohamed265,Java 8,139,0,OK
+48500138,1100,1547736051,2147483647,A,1000,implementation,PercySpecter,Java 8,155,0,OK
+48498304,1100,1547733202,2147483647,B,1300,data structures-implementation,harshilpatel4603,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48497727,1100,1547732397,2147483647,B,1300,data structures-implementation,harshilpatel4603,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48496779,1100,1547731112,4412,B,1300,data structures-implementation,vinit1997,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48496353,1100,1547730530,2147483647,A,1000,implementation,harshilpatel4603,Java 8,155,0,OK
+48496209,1100,1547730323,3623,A,1000,implementation,vinit1997,Java 8,155,0,OK
+48491899,1100,1547723909,2147483647,B,1300,data structures-implementation,yougaindra,Java 8,655,0,OK
+48491817,1100,1547723765,2147483647,A,1000,implementation,parasmehan123,Java 8,140,0,OK
+48490216,1100,1547720914,2147483647,A,1000,implementation,james222424,Java 8,124,0,OK
+48488709,1100,1547717813,2147483647,B,1300,data structures-implementation,Pratik_Rajani,Java 8,124,0,OK
+48487825,1100,1547716360,2147483647,B,1300,data structures-implementation,kpbochenek,Java 8,140,0,OK
+48486981,1100,1547715052,2147483647,A,1000,implementation,kpbochenek,Java 8,124,0,OK
+48479642,1100,1547702700,2147483647,E,2200,binary search-dfs and similar-graphs,jenish9599,Java 8,1294,35737600,OK
+48477144,1100,1547696156,2147483647,C,1300,binary search-geometry-math,chipchip3412,Java 8,140,0,OK
+48476100,1100,1547692792,2147483647,B,1300,data structures-implementation,chipchip3412,Java 8,249,0,OK
+48475458,1100,1547690810,2147483647,A,1000,implementation,chipchip3412,Java 8,140,0,OK
+48473928,1100,1547685910,2147483647,C,1300,binary search-geometry-math,housni,Java 8,140,0,OK
+48473252,1100,1547681151,2147483647,B,1300,data structures-implementation,housni,Java 8,249,0,OK
+48473102,1100,1547680122,2147483647,B,1300,data structures-implementation,housni,Java 8,249,0,OK
+48472598,1100,1547677091,2147483647,A,1000,implementation,housni,Java 8,140,0,OK
+48470413,1100,1547668247,2147483647,A,1000,implementation,I_Love_Lera_Bulgakova,Java 8,140,0,OK
+48468194,1100,1547663177,2147483647,E,2200,binary search-dfs and similar-graphs,revanthreddy85,Java 8,420,5529600,OK
+48467801,1100,1547662345,2147483647,C,1300,binary search-geometry-math,Sadakant,Java 8,155,0,OK
+48467644,1100,1547662070,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,763,12288000,OK
+48466332,1100,1547659512,4812,B,1300,data structures-implementation,Sadakant,Java 8,577,0,OK
+48465698,1100,1547658452,3752,B,1300,data structures-implementation,Sadakant,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48465416,1100,1547657964,3264,B,1300,data structures-implementation,Sadakant,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48464846,1100,1547656937,3737,B,1300,data structures-implementation,nitsshukla,Java 8,608,0,OK
+48464844,1100,1547656934,2147483647,B,1300,data structures-implementation,mdazmat9,Java 8,499,0,OK
+48464635,1100,1547656561,2147483647,B,1300,data structures-implementation,mdazmat9,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48464600,1100,1547656504,1804,A,1000,implementation,Sadakant,Java 8,140,0,OK
+48464416,1100,1547656138,2147483647,A,1000,implementation,ruchit_22,Java 8,140,0,OK
+48464049,1100,1547655412,2147483647,B,1300,data structures-implementation,mdazmat9,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48463590,1100,1547654469,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48463505,1100,1547654295,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48463438,1100,1547654181,2147483647,E,2200,binary search-dfs and similar-graphs,bazinga84,Java 8,514,0,OK
+48463355,1100,1547654041,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48463267,1100,1547653863,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48463248,1100,1547653829,629,A,1000,implementation,nitsshukla,Java 8,140,0,OK
+48461110,1100,1547649807,2147483647,A,1000,implementation,Zlobber,Java 8,109,0,OK
+48460470,1100,1547648672,572,A,1000,implementation,parthsingh287,Java 8,140,0,OK
+48459352,1100,1547646997,2147483647,B,1300,data structures-implementation,chinu_09,Java 8,576,0,OK
+48458797,1100,1547646192,2147483647,C,1300,binary search-geometry-math,ankyy_0103,Java 8,124,0,OK
+48458764,1100,1547646150,3030,C,1300,binary search-geometry-math,bazinga84,Java 8,109,0,OK
+48458566,1100,1547645864,2147483647,C,1300,binary search-geometry-math,bhautik_77,Java 8,124,0,OK
+48457847,1100,1547644829,1709,B,1300,data structures-implementation,bazinga84,Java 8,202,0,OK
+48457668,1100,1547644549,2147483647,B,1300,data structures-implementation,abhinavsharma629,Java 8,639,0,OK
+48457472,1100,1547644309,2147483647,A,1000,implementation,StOlEn_KiNg,Java 8,124,0,OK
+48456826,1100,1547643521,401,A,1000,implementation,bazinga84,Java 8,124,0,OK
+48454155,1100,1547639930,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,10649600,TIME_LIMIT_EXCEEDED
+48454119,1100,1547639876,2147483647,B,1300,data structures-implementation,abhinavsharma629,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48453854,1100,1547639501,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,10752000,TIME_LIMIT_EXCEEDED
+48453596,1100,1547639150,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,10752000,TIME_LIMIT_EXCEEDED
+48453562,1100,1547639110,2147483647,B,1300,data structures-implementation,abhinavsharma629,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48453202,1100,1547638559,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,10752000,TIME_LIMIT_EXCEEDED
+48453089,1100,1547638391,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,10752000,TIME_LIMIT_EXCEEDED
+48452705,1100,1547637756,2147483647,A,1000,implementation,falken_great,Java 8,140,0,OK
+48450447,1100,1547632877,2147483647,C,1300,binary search-geometry-math,gaurav.gk5826,Java 8,124,0,OK
+48449344,1100,1547630324,2147483647,C,1300,binary search-geometry-math,Mackenzie,Java 8,109,0,OK
+48448201,1100,1547628101,2147483647,B,1300,data structures-implementation,Mackenzie,Java 8,156,0,OK
+48447498,1100,1547626622,2147483647,A,1000,implementation,scsyB_98,Java 8,109,0,OK
+48447450,1100,1547626540,2147483647,B,1300,data structures-implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48447372,1100,1547626396,2147483647,B,1300,data structures-implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48447139,1100,1547625986,2147483647,B,1300,data structures-implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48446937,1100,1547625632,2147483647,B,1300,data structures-implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48446842,1100,1547625448,2147483647,B,1300,data structures-implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48446409,1100,1547624651,2147483647,A,1000,implementation,Mackenzie,Java 8,124,0,OK
+48443301,1100,1547618076,2147483647,B,1300,data structures-implementation,crtist,Java 8,577,0,OK
+48443265,1100,1547617958,2147483647,C,1300,binary search-geometry-math,Kavi.Prajapati,Java 8,109,0,OK
+48442363,1100,1547614963,2147483647,B,1300,data structures-implementation,Kavi.Prajapati,Java 8,576,0,OK
+48442139,1100,1547613969,2147483647,A,1000,implementation,Kavi.Prajapati,Java 8,124,0,OK
+48438846,1100,1547597910,2147483647,B,1300,data structures-implementation,Gr8tor,Java 8,482,0,OK
+48438684,1100,1547596721,2147483647,B,1300,data structures-implementation,jzy_204,Java 8,592,0,OK
+48438673,1100,1547596654,2147483647,C,1300,binary search-geometry-math,ahmad-k1,Java 8,140,0,OK
+48438552,1100,1547595600,2147483647,C,1300,binary search-geometry-math,Gr8tor,Java 8,109,0,OK
+48438312,1100,1547594068,2147483647,B,1300,data structures-implementation,arry_stark,Java 8,654,0,OK
+48438201,1100,1547593380,2147483647,C,1300,binary search-geometry-math,cuongKMJ,Java 8,140,0,OK
+48437564,1100,1547590065,2147483647,B,1300,data structures-implementation,cuongKMJ,Java 8,607,0,OK
+48437536,1100,1547589946,2147483647,B,1300,data structures-implementation,cuongKMJ,Java 8,639,0,OK
+48437510,1100,1547589814,2147483647,B,1300,data structures-implementation,cuongKMJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48437416,1100,1547589415,4615,A,1000,implementation,Hamkor,Java 8,156,0,OK
+48437243,1100,1547588685,2147483647,B,1300,data structures-implementation,chinu_09,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48437091,1100,1547588046,6546,B,1300,data structures-implementation,ahmad-k1,Java 8,592,0,OK
+48436867,1100,1547587179,5679,B,1300,data structures-implementation,ahmad-k1,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48436671,1100,1547586450,2147483647,B,1300,data structures-implementation,cuongKMJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48436537,1100,1547585994,2147483647,B,1300,data structures-implementation,cuongKMJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48436365,1100,1547585380,3880,A,1000,implementation,ahmad-k1,Java 8,140,0,OK
+48436355,1100,1547585348,2147483647,B,1300,data structures-implementation,cuongKMJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48436279,1100,1547585111,2147483647,B,1300,data structures-implementation,cuongKMJ,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48435993,1100,1547584240,2147483647,B,1300,data structures-implementation,Mantawy,Java 8,1000,2252800,TIME_LIMIT_EXCEEDED
+48435307,1100,1547582279,2879,C,1300,binary search-geometry-math,meracle2309,Java 8,109,0,OK
+48435086,1100,1547581714,2147483647,B,1300,data structures-implementation,chinu_09,Java 8,1000,3584000,TIME_LIMIT_EXCEEDED
+48434937,1100,1547581407,2007,B,1300,data structures-implementation,meracle2309,Java 8,124,0,OK
+48434694,1100,1547580791,2711,C,1300,binary search-geometry-math,tsumit023,Java 8,108,0,OK
+48434430,1100,1547580165,765,A,1000,implementation,meracle2309,Java 8,124,0,OK
+48434285,1100,1547579813,1733,B,1300,data structures-implementation,tsumit023,Java 8,124,0,OK
+48434220,1100,1547579675,2147483647,A,1000,implementation,lord_fenwick,Java 8,140,0,OK
+48433858,1100,1547578830,750,A,1000,implementation,tsumit023,Java 8,109,0,OK
+48433802,1100,1547578702,2147483647,B,1300,data structures-implementation,sachin32,Java 8,608,3993600,OK
+48433398,1100,1547577862,2147483647,B,1300,data structures-implementation,aschugunov,Java 8,156,0,OK
+48431533,1100,1547574192,2147483647,C,1300,binary search-geometry-math,Nitin002,Java 8,155,0,OK
+48430399,1100,1547571879,2147483647,B,1300,data structures-implementation,Dsus2,Java 8,701,14848000,OK
+48430304,1100,1547571711,2147483647,B,1300,data structures-implementation,amolpratap007,Java 8,124,0,OK
+48429829,1100,1547570730,2147483647,A,1000,implementation,sooraj10,Java 8,109,0,OK
+48429566,1100,1547570237,2147483647,B,1300,data structures-implementation,Dsus2,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48429309,1100,1547569790,2147483647,A,1000,implementation,amolpratap007,Java 8,109,0,OK
+48429245,1100,1547569683,2147483647,B,1300,data structures-implementation,Dsus2,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48428958,1100,1547569181,2147483647,F,2600,data structures-divide and conquer-greedy-math,aman28rwt,Java 8,3000,258969600,TIME_LIMIT_EXCEEDED
+48428837,1100,1547568935,2147483647,F,2600,data structures-divide and conquer-greedy-math,aman28rwt,Java 8,3000,258969600,TIME_LIMIT_EXCEEDED
+48428268,1100,1547567913,2147483647,A,1000,implementation,Dsus2,Java 8,186,0,OK
+48427795,1100,1547567115,2147483647,E,2200,binary search-dfs and similar-graphs,sumit3,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48427150,1100,1547566067,2147483647,C,1300,binary search-geometry-math,n_cqt,Java 8,140,0,OK
+48426478,1100,1547565016,2147483647,B,1300,data structures-implementation,vjudge1,Java 8,343,5734400,OK
+48425552,1100,1547563498,2147483647,C,1300,binary search-geometry-math,remyels,Java 8,124,0,OK
+48425258,1100,1547562983,2147483647,C,1300,binary search-geometry-math,Leks360,Java 8,140,0,OK
+48424983,1100,1547562491,2147483647,C,1300,binary search-geometry-math,jayliner66,Java 8,124,0,OK
+48424753,1100,1547562129,2147483647,E,2200,binary search-dfs and similar-graphs,Srinivasa_Ramanujan,Java 8,638,11366400,OK
+48424691,1100,1547562030,2147483647,D,2400,constructive algorithms-games-interactive,Srinivasa_Ramanujan,Java 8,171,0,OK
+48424660,1100,1547561980,2147483647,C,1300,binary search-geometry-math,Srinivasa_Ramanujan,Java 8,124,0,OK
+48424632,1100,1547561939,2147483647,B,1300,data structures-implementation,jayliner66,Java 8,187,8601600,OK
+48424619,1100,1547561917,2147483647,B,1300,data structures-implementation,Srinivasa_Ramanujan,Java 8,156,4710400,OK
+48424599,1100,1547561861,2147483647,A,1000,implementation,Srinivasa_Ramanujan,Java 8,124,0,OK
+48424259,1100,1547561345,2147483647,C,1300,binary search-geometry-math,Ajay33.nits,Java 8,139,0,OK
+48423896,1100,1547560831,2147483647,C,1300,binary search-geometry-math,StOlEn_KiNg,Java 8,124,0,OK
+48423727,1100,1547560541,2147483647,B,1300,data structures-implementation,remyels,Java 8,140,0,OK
+48422650,1100,1547558995,2147483647,B,1300,data structures-implementation,abhinavverma,Java 8,561,0,OK
+48422286,1100,1547558441,2147483647,B,1300,data structures-implementation,StOlEn_KiNg,Java 8,140,0,OK
+48422085,1100,1547558158,2147483647,B,1300,data structures-implementation,Ahmadjon,Java 8,155,0,OK
+48421780,1100,1547557711,2147483647,D,2400,constructive algorithms-games-interactive,Pradyumn.Agrawal,Java 8,171,0,OK
+48421727,1100,1547557628,2147483647,D,2400,constructive algorithms-games-interactive,Pradyumn.Agrawal,Java 8,171,0,OK
+48421608,1100,1547557447,2147483647,D,2400,constructive algorithms-games-interactive,Pradyumn.Agrawal,Java 8,171,0,OK
+48421337,1100,1547557036,2147483647,D,2400,constructive algorithms-games-interactive,Pradyumn.Agrawal,Java 8,171,0,OK
+48421284,1100,1547556970,2147483647,C,1300,binary search-geometry-math,Z_E_R_0,Java 8,109,0,OK
+48420876,1100,1547556399,2147483647,B,1300,data structures-implementation,sooraj10,Java 8,140,0,OK
+48420701,1100,1547556175,2147483647,B,1300,data structures-implementation,dhoni072,Java 8,140,0,OK
+48419912,1100,1547555156,2147483647,B,1300,data structures-implementation,n_cqt,Java 8,374,3993600,OK
+48419828,1100,1547555037,2147483647,B,1300,data structures-implementation,n_cqt,Java 8,389,3993600,OK
+48419430,1100,1547554539,2147483647,B,1300,data structures-implementation,n_cqt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48419407,1100,1547554512,2147483647,A,1000,implementation,remyels,Java 8,140,0,OK
+48419246,1100,1547554199,2147483647,B,1300,data structures-implementation,n_cqt,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48418633,1100,1547553100,2147483647,A,1000,implementation,Pradyumn.Agrawal,Java 8,109,0,OK
+48418393,1100,1547552694,2147483647,B,1300,data structures-implementation,abhinavsharma629,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48416623,1100,1547549263,2147483647,A,1000,implementation,n_cqt,Java 8,202,0,OK
+48416488,1100,1547549000,2147483647,A,1000,implementation,n_cqt,Java 8,202,0,OK
+48415703,1100,1547547446,2147483647,B,1300,data structures-implementation,manikasharma09,Java 8,639,0,OK
+48415263,1100,1547546493,2147483647,D,2400,constructive algorithms-games-interactive,slava812,Java 8,202,0,OK
+48414117,1100,1547544238,2147483647,D,2400,constructive algorithms-games-interactive,kukreja-vlk,Java 8,217,0,OK
+48413927,1100,1547543912,2147483647,B,1300,data structures-implementation,slava812,Java 8,155,0,OK
+48413667,1100,1547543473,2147483647,C,1300,binary search-geometry-math,ujjwal_sri,Java 8,140,0,OK
+48413526,1100,1547543210,2147483647,A,1000,implementation,Rafid_Shad,Java 8,140,0,OK
+48413519,1100,1547543196,2147483647,E,2200,binary search-dfs and similar-graphs,wadissimo,Java 8,576,10444800,OK
+48413464,1100,1547543087,2147483647,B,1300,data structures-implementation,GreatWhite,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48412955,1100,1547542138,2147483647,A,1000,implementation,GreatWhite,Java 8,124,0,OK
+48412602,1100,1547541433,2147483647,D,2400,constructive algorithms-games-interactive,kukreja-vlk,Java 8,171,0,OK
+48411619,1100,1547539545,2147483647,E,2200,binary search-dfs and similar-graphs,zeyad_khattab,Java 8,686,16998400,OK
+48409218,1100,1547534265,2147483647,A,1000,implementation,Pratik_Rajani,Java 8,124,0,OK
+48409201,1100,1547534231,2147483647,E,2200,binary search-dfs and similar-graphs,DHV,Java 8,1591,7884800,OK
+48408828,1100,1547533392,2147483647,B,1300,data structures-implementation,darshansampathkumar,Java 8,639,0,OK
+48408651,1100,1547532936,2147483647,B,1300,data structures-implementation,darshansampathkumar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48408309,1100,1547532052,2147483647,B,1300,data structures-implementation,darshansampathkumar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48408184,1100,1547531682,2147483647,B,1300,data structures-implementation,darshansampathkumar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48407974,1100,1547531023,2147483647,C,1300,binary search-geometry-math,sooraj10,Java 8,109,0,OK
+48406318,1100,1547525306,2147483647,C,1300,binary search-geometry-math,zqert,Java 8,124,0,OK
+48405066,1100,1547520259,2147483647,A,1000,implementation,jayliner66,Java 8,109,0,OK
+48403830,1100,1547515304,2147483647,C,1300,binary search-geometry-math,gamesterrex,Java 8,155,0,OK
+48403581,1100,1547513966,2147483647,B,1300,data structures-implementation,jzy_204,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48400822,1100,1547499535,2147483647,B,1300,data structures-implementation,zhiyilearn,Java 8,249,0,OK
+48398733,1100,1547493380,2147483647,B,1300,data structures-implementation,turkeyncheese,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48398531,1100,1547492896,2147483647,B,1300,data structures-implementation,turkeyncheese,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48398122,1100,1547491934,2147483647,B,1300,data structures-implementation,nesdi,Java 8,654,0,OK
+48398000,1100,1547491698,2147483647,C,1300,binary search-geometry-math,Shuvo1997,Java 8,140,0,OK
+48397981,1100,1547491655,2147483647,B,1300,data structures-implementation,nesdi,Java 8,686,0,OK
+48397906,1100,1547491530,2147483647,C,1300,binary search-geometry-math,mello,Java 8,139,0,OK
+48397846,1100,1547491415,3515,C,1300,binary search-geometry-math,jenish9599,Java 8,109,0,OK
+48397818,1100,1547491365,2147483647,B,1300,data structures-implementation,nesdi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48396777,1100,1547489367,2147483647,B,1300,data structures-implementation,marcose18,Java 8,140,0,OK
+48396725,1100,1547489288,1388,B,1300,data structures-implementation,jenish9599,Java 8,140,0,OK
+48396479,1100,1547488716,816,A,1000,implementation,jenish9599,Java 8,124,0,OK
+48396025,1100,1547487784,2147483647,C,1300,binary search-geometry-math,hridaygoyal007,Java 8,140,0,OK
+48394600,1100,1547485319,2147483647,C,1300,binary search-geometry-math,wabadabakalakaboo,Java 8,124,0,OK
+48394460,1100,1547485076,2147483647,C,1300,binary search-geometry-math,caoash,Java 8,124,0,OK
+48393311,1100,1547483040,2147483647,D,2400,constructive algorithms-games-interactive,Dukkha,Java 8,187,0,OK
+48392135,1100,1547481041,2147483647,B,1300,data structures-implementation,Ajay33.nits,Java 8,249,0,OK
+48390920,1100,1547479035,2147483647,A,1000,implementation,--HK--,Java 8,109,0,OK
+48390626,1100,1547478552,2147483647,C,1300,binary search-geometry-math,manubhai8876,Java 8,124,0,OK
+48389197,1100,1547476185,2147483647,A,1000,implementation,VishweshDKumar,Java 8,155,0,OK
+48386240,1100,1547471552,2147483647,E,2200,binary search-dfs and similar-graphs,Pradyumn.Agrawal,Java 8,795,11366400,OK
+48386143,1100,1547471348,2147483647,E,2200,binary search-dfs and similar-graphs,Pradyumn.Agrawal,Java 8,841,11366400,OK
+48385543,1100,1547470200,2147483647,E,2200,binary search-dfs and similar-graphs,Pradyumn.Agrawal,Java 8,763,11366400,OK
+48384091,1100,1547467338,2147483647,A,1000,implementation,altynbek.nurgaziyev,Java 8,140,0,OK
+48383878,1100,1547466892,2147483647,C,1300,binary search-geometry-math,danny2019,Java 8,140,0,OK
+48383675,1100,1547466502,5602,B,1300,data structures-implementation,mammedbrk,Java 8,623,0,OK
+48383673,1100,1547466500,2147483647,B,1300,data structures-implementation,Ajay33.nits,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48383067,1100,1547465439,2147483647,A,1000,implementation,kocko,Java 8,109,0,OK
+48383010,1100,1547465336,2147483647,B,1300,data structures-implementation,Leks360,Java 8,514,3993600,OK
+48382096,1100,1547463661,2761,A,1000,implementation,mammedbrk,Java 8,140,0,OK
+48382080,1100,1547463641,2147483647,B,1300,data structures-implementation,apollo,Java 8,607,0,OK
+48381919,1100,1547463356,2147483647,A,1000,implementation,Ajay33.nits,Java 8,140,0,OK
+48381827,1100,1547463205,2147483647,E,2200,binary search-dfs and similar-graphs,Kharouba,Java 8,1060,23654400,OK
+48380496,1100,1547460877,2147483647,B,1300,data structures-implementation,Kharouba,Java 8,155,0,OK
+48380480,1100,1547460845,2147483647,C,1300,binary search-geometry-math,shikhart98,Java 8,155,0,OK
+48380403,1100,1547460683,2147483647,C,1300,binary search-geometry-math,jahidb007,Java 8,140,0,OK
+48380207,1100,1547460286,2147483647,C,1300,binary search-geometry-math,Kharouba,Java 8,109,0,OK
+48380197,1100,1547460253,2147483647,E,2200,binary search-dfs and similar-graphs,xodiac,Java 8,483,16486400,OK
+48379879,1100,1547459651,2147483647,A,1000,implementation,marcose18,Java 8,109,0,OK
+48379875,1100,1547459646,2147483647,A,1000,implementation,Kharouba,Java 8,109,0,OK
+48379842,1100,1547459598,2147483647,C,1300,binary search-geometry-math,hiesenbergMittal,Java 8,140,0,OK
+48379805,1100,1547459533,2147483647,B,1300,data structures-implementation,t.kas9mbek,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48379561,1100,1547459073,2147483647,A,1000,implementation,t.kas9mbek,Java 8,155,0,OK
+48379021,1100,1547457817,2147483647,B,1300,data structures-implementation,darshansampathkumar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48378675,1100,1547457076,2147483647,E,2200,binary search-dfs and similar-graphs,aman28rwt,Java 8,499,0,OK
+48378546,1100,1547456729,3929,B,1300,data structures-implementation,jahidb007,Java 8,826,0,OK
+48378485,1100,1547456615,3815,B,1300,data structures-implementation,jahidb007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48378275,1100,1547456096,2147483647,D,2400,constructive algorithms-games-interactive,wadissimo,Java 8,233,0,OK
+48377694,1100,1547454904,2104,B,1300,data structures-implementation,jahidb007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48377601,1100,1547454704,2147483647,C,1300,binary search-geometry-math,purple_haze1,Java 8,124,0,OK
+48377526,1100,1547454552,2147483647,C,1300,binary search-geometry-math,sameer_hack,Java 8,124,0,OK
+48377448,1100,1547454409,2147483647,C,1300,binary search-geometry-math,shahzebAhmad,Java 8,140,0,OK
+48377413,1100,1547454344,2147483647,B,1300,data structures-implementation,manubhai8876,Java 8,140,0,OK
+48377310,1100,1547454132,1332,B,1300,data structures-implementation,jahidb007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48377170,1100,1547453837,2147483647,B,1300,data structures-implementation,Zeina_Kandil,Java 8,858,14950400,OK
+48376880,1100,1547453275,2147483647,B,1300,data structures-implementation,CodePal,Java 8,670,15052800,OK
+48376678,1100,1547452844,44,A,1000,implementation,jahidb007,Java 8,140,0,OK
+48376644,1100,1547452760,2147483647,C,1300,binary search-geometry-math,anbutchers,Java 8,139,0,OK
+48376295,1100,1547452008,2147483647,C,1300,binary search-geometry-math,di_halt,Java 8,124,0,OK
+48376121,1100,1547451623,2147483647,C,1300,binary search-geometry-math,satya26,Java 8,124,0,OK
+48375498,1100,1547450439,5679,B,1300,data structures-implementation,mohamed265,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48375424,1100,1547450305,5545,B,1300,data structures-implementation,mohamed265,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48375344,1100,1547450166,2147483647,B,1300,data structures-implementation,shikhart98,Java 8,623,2560000,OK
+48375322,1100,1547450129,5369,B,1300,data structures-implementation,mohamed265,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48375023,1100,1547449596,2147483647,B,1300,data structures-implementation,satya26,Java 8,202,4403200,OK
+48374811,1100,1547449204,2147483647,D,2400,constructive algorithms-games-interactive,Yugioh,Java 8,202,0,OK
+48374551,1100,1547448640,2147483647,A,1000,implementation,shikhart98,Java 8,155,0,OK
+48374018,1100,1547447629,2147483647,A,1000,implementation,hiesenbergMittal,Java 8,140,0,OK
+48373526,1100,1547446547,2147483647,B,1300,data structures-implementation,hiesenbergMittal,Java 8,561,0,OK
+48373319,1100,1547445998,1238,B,1300,data structures-implementation,mohamed265,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48373180,1100,1547445618,2147483647,C,1300,binary search-geometry-math,aakashjaiswal,Java 8,140,0,OK
+48373012,1100,1547445192,432,A,1000,implementation,mohamed265,Java 8,124,0,OK
+48372976,1100,1547445116,2147483647,B,1300,data structures-implementation,di_halt,Java 8,156,0,OK
+48372845,1100,1547444803,2147483647,B,1300,data structures-implementation,di_halt,Java 8,171,5427200,OK
+48372548,1100,1547443912,2147483647,A,1000,implementation,di_halt,Java 8,171,0,OK
+48371964,1100,1547442295,2147483647,C,1300,binary search-geometry-math,llamaoo7,Java 8,124,0,OK
+48371520,1100,1547441055,2147483647,B,1300,data structures-implementation,llamaoo7,Java 8,171,0,OK
+48371383,1100,1547440658,2147483647,A,1000,implementation,llamaoo7,Java 8,109,0,OK
+48370909,1100,1547439118,2147483647,B,1300,data structures-implementation,LM.10,Java 8,171,2457600,OK
+48370720,1100,1547438576,2147483647,B,1300,data structures-implementation,premnathcs,Java 8,358,11366400,OK
+48370632,1100,1547438305,2147483647,C,1300,binary search-geometry-math,archit1jain,Java 8,140,0,OK
+48370496,1100,1547437848,2147483647,B,1300,data structures-implementation,premnathcs,Java 8,1000,5324800,TIME_LIMIT_EXCEEDED
+48370476,1100,1547437768,2147483647,A,1000,implementation,premnathcs,Java 8,140,0,OK
+48370446,1100,1547437658,2147483647,B,1300,data structures-implementation,aarav.cube,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48370339,1100,1547437252,2147483647,B,1300,data structures-implementation,ay839065,Java 8,202,10956800,OK
+48370184,1100,1547436718,2147483647,A,1000,implementation,ay839065,Java 8,124,0,OK
+48370160,1100,1547436652,2147483647,B,1300,data structures-implementation,Tushar__2018,Java 8,109,0,OK
+48370147,1100,1547436598,2147483647,B,1300,data structures-implementation,aarav.cube,Java 8,249,307200,OK
+48370101,1100,1547436414,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,1000,3276800,TIME_LIMIT_EXCEEDED
+48370035,1100,1547436167,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,1000,3174400,TIME_LIMIT_EXCEEDED
+48370013,1100,1547436059,2147483647,A,1000,implementation,satya26,Java 8,124,0,OK
+48369986,1100,1547435975,2147483647,B,1300,data structures-implementation,aarav.cube,Java 8,233,0,OK
+48369909,1100,1547435697,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,202,27443200,OK
+48369887,1100,1547435619,2147483647,B,1300,data structures-implementation,Joao_Ribeiro,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48369774,1100,1547435174,2147483647,B,1300,data structures-implementation,aarav.cube,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48369728,1100,1547434953,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48369663,1100,1547434719,2147483647,B,1300,data structures-implementation,krso4,Java 8,155,0,OK
+48369247,1100,1547432982,2147483647,B,1300,data structures-implementation,Tushar__2018,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48369148,1100,1547432610,2147483647,B,1300,data structures-implementation,Tushar__2018,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48368986,1100,1547431889,2147483647,B,1300,data structures-implementation,poketred12,Java 8,202,4403200,OK
+48368901,1100,1547431562,2147483647,A,1000,implementation,Joao_Ribeiro,Java 8,140,0,OK
+48368548,1100,1547430087,2147483647,B,1300,data structures-implementation,Sahil.G,Java 8,1000,614400,TIME_LIMIT_EXCEEDED
+48368248,1100,1547428785,2147483647,B,1300,data structures-implementation,zhadyrassyn,Java 8,592,0,OK
+48368094,1100,1547428013,2147483647,B,1300,data structures-implementation,mello,Java 8,608,0,OK
+48368085,1100,1547427955,2147483647,D,2400,constructive algorithms-games-interactive,benpr99,Java 8,202,0,OK
+48368002,1100,1547427477,2147483647,A,1000,implementation,vaidygogetit,Java 8,155,0,OK
+48367811,1100,1547426510,2147483647,A,1000,implementation,mello,Java 8,140,0,OK
+48367002,1100,1547422345,2147483647,A,1000,implementation,abdelrahmankhattab,Java 8,124,0,OK
+48366945,1100,1547421947,2147483647,F,2600,data structures-divide and conquer-greedy-math,Dukkha,Java 8,1699,29798400,OK
+48366929,1100,1547421864,2147483647,B,1300,data structures-implementation,K.A,Java 8,452,0,OK
+48366921,1100,1547421836,2147483647,A,1000,implementation,Pidjak,Java 8,140,0,OK
+48366901,1100,1547421743,2147483647,B,1300,data structures-implementation,K.A,Java 8,498,0,OK
+48366865,1100,1547421555,2147483647,F,2600,data structures-divide and conquer-greedy-math,Dukkha,Java 8,1824,29081600,OK
+48366673,1100,1547420603,2147483647,F,2600,data structures-divide and conquer-greedy-math,Dukkha,Java 8,1902,24678400,OK
+48366652,1100,1547420486,2147483647,B,1300,data structures-implementation,Mantawy,Java 8,1000,2150400,TIME_LIMIT_EXCEEDED
+48366573,1100,1547420099,2147483647,B,1300,data structures-implementation,K.A,Java 8,483,0,OK
+48366553,1100,1547420002,2147483647,F,2600,data structures-divide and conquer-greedy-math,Dukkha,Java 8,2199,24678400,OK
+48366436,1100,1547419451,2147483647,E,2200,binary search-dfs and similar-graphs,benpr99,Java 8,1138,19660800,OK
+48366124,1100,1547417955,2147483647,E,2200,binary search-dfs and similar-graphs,Ahmed.Shawky,Java 8,1762,15872000,OK
+48366048,1100,1547417640,2147483647,B,1300,data structures-implementation,shaolinkhusbu,Java 8,1000,12390400,TIME_LIMIT_EXCEEDED
+48365915,1100,1547417069,2147483647,C,1300,binary search-geometry-math,jzy_204,Java 8,139,0,OK
+48365855,1100,1547416869,2147483647,B,1300,data structures-implementation,K.A,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48365836,1100,1547416801,2147483647,E,2200,binary search-dfs and similar-graphs,spar5h,Java 8,1746,39936000,OK
+48365777,1100,1547416508,2147483647,B,1300,data structures-implementation,K.A,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48365419,1100,1547414868,2147483647,B,1300,data structures-implementation,abdelrahman.ismail,Java 8,155,0,OK
+48365378,1100,1547414670,2147483647,C,1300,binary search-geometry-math,marcose18,Java 8,109,0,OK
+48365246,1100,1547414237,2147483647,E,2200,binary search-dfs and similar-graphs,PrakharJain,Java 8,1980,31744000,OK
+48365177,1100,1547414005,2147483647,B,1300,data structures-implementation,abdelrahman.ismail,Java 8,171,0,OK
+48364943,1100,1547413107,2147483647,E,2200,binary search-dfs and similar-graphs,flyman3046,Java 8,1980,33382400,OK
+48364804,1100,1547412678,2147483647,C,1300,binary search-geometry-math,bdomokos,Java 8,187,0,OK
+48364787,1100,1547412592,2147483647,B,1300,data structures-implementation,purple_haze1,Java 8,529,3993600,OK
+48364750,1100,1547412444,2147483647,D,2400,constructive algorithms-games-interactive,Washoum,Java 8,202,102400,OK
+48364689,1100,1547412243,2147483647,E,2200,binary search-dfs and similar-graphs,PrakharJain,Java 8,2000,27340800,TIME_LIMIT_EXCEEDED
+48364646,1100,1547412119,2147483647,B,1300,data structures-implementation,anbutchers,Java 8,607,0,OK
+48364624,1100,1547412038,2147483647,D,2400,constructive algorithms-games-interactive,Asgar,Java 8,234,4915200,OK
+48364471,1100,1547411537,2147483647,B,1300,data structures-implementation,still_the_big_bang,Java 8,139,0,OK
+48364321,1100,1547411178,6977,C,1300,binary search-geometry-math,revanthreddy85,Java 8,139,0,OK
+48364306,1100,1547411134,2147483647,B,1300,data structures-implementation,Warrior1998,Java 8,686,0,OK
+48364194,1100,1547410865,2147483647,D,2400,constructive algorithms-games-interactive,dmytro.prytula,Java 8,265,0,OK
+48364067,1100,1547410560,2147483647,A,1000,implementation,Warrior1998,Java 8,140,0,OK
+48363866,1100,1547410068,2147483647,A,1000,implementation,myob-_-,Java 8,109,0,OK
+48363804,1100,1547409936,2147483647,C,1300,binary search-geometry-math,jjluczyn,Java 8,140,0,OK
+48363743,1100,1547409815,2015,B,1300,data structures-implementation,sachin32,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48363689,1100,1547409705,2147483647,B,1300,data structures-implementation,myob-_-,Java 8,140,0,OK
+48363673,1100,1547409665,2147483647,B,1300,data structures-implementation,anbutchers,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48363625,1100,1547409575,2147483647,A,1000,implementation,Rafid_Shad,Java 8,140,0,OK
+48363622,1100,1547409570,2147483647,B,1300,data structures-implementation,myob-_-,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48363196,1100,1547408667,2147483647,B,1300,data structures-implementation,horseprabhat625,Java 8,592,0,OK
+48363101,1100,1547408493,2147483647,D,2400,constructive algorithms-games-interactive,Shaykhutdinov-T-I,Java 8,202,0,OK
+48362948,1100,1547408183,2147483647,C,1300,binary search-geometry-math,alibaba,Java 8,124,0,OK
+48362652,1100,1547407622,2147483647,A,1000,implementation,ScreaMood,Java 8,140,0,OK
+48362642,1100,1547407596,2147483647,A,1000,implementation,ScreaMood,Java 8,140,0,OK
+48362552,1100,1547407424,2147483647,C,1300,binary search-geometry-math,anri-1151,Java 8,139,0,OK
+48362377,1100,1547407067,2147483647,A,1000,implementation,vinrar,Java 8,124,0,OK
+48362350,1100,1547407016,2147483647,C,1300,binary search-geometry-math,Mantawy,Java 8,140,0,OK
+48362348,1100,1547407013,2147483647,A,1000,implementation,purple_haze1,Java 8,124,0,OK
+48362317,1100,1547406974,2147483647,B,1300,data structures-implementation,Vithika101,Java 8,467,0,OK
+48362308,1100,1547406956,2756,B,1300,data structures-implementation,revanthreddy85,Java 8,155,0,OK
+48362290,1100,1547406924,2147483647,A,1000,implementation,harshilpatel4603,Java 8,140,0,OK
+48362237,1100,1547406833,2147483647,B,1300,data structures-implementation,Ziklon,Java 8,124,0,OK
+48362055,1100,1547406465,2147483647,A,1000,implementation,manubhai8876,Java 8,124,0,OK
+48362050,1100,1547406457,2147483647,B,1300,data structures-implementation,Ziklon,Java 8,155,0,OK
+48362027,1100,1547406421,2147483647,B,1300,data structures-implementation,archit1jain,Java 8,655,0,OK
+48361940,1100,1547406252,2147483647,B,1300,data structures-implementation,ScreaMood,Java 8,373,4403200,OK
+48361921,1100,1547406225,2147483647,A,1000,implementation,K.A,Java 8,109,0,OK
+48361877,1100,1547406152,2147483647,A,1000,implementation,abdelrahman.ismail,Java 8,124,0,OK
+48361825,1100,1547406046,2147483647,B,1300,data structures-implementation,TaplierShiru,Java 8,140,0,OK
+48361742,1100,1547405864,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48361695,1100,1547405789,2147483647,B,1300,data structures-implementation,archit1jain,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48361668,1100,1547405746,2147483647,B,1300,data structures-implementation,MubtasimShahriar,Java 8,670,0,OK
+48361622,1100,1547405681,2147483647,B,1300,data structures-implementation,anri-1151,Java 8,670,0,OK
+48361619,1100,1547405678,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48361501,1100,1547405470,2147483647,B,1300,data structures-implementation,anri-1151,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48361369,1100,1547405251,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48361365,1100,1547405247,2147483647,C,1300,binary search-geometry-math,finedragon,Java 8,140,0,OK
+48361331,1100,1547405184,2147483647,A,1000,implementation,fakhoury,Java 8,155,0,OK
+48361275,1100,1547405081,2147483647,E,2200,binary search-dfs and similar-graphs,jonsnow7,Java 8,592,11161600,OK
+48361249,1100,1547405032,832,A,1000,implementation,revanthreddy85,Java 8,124,0,OK
+48361238,1100,1547405013,2147483647,B,1300,data structures-implementation,Incepti0n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48361185,1100,1547404936,2147483647,A,1000,implementation,Vithika101,Java 8,124,0,OK
+48360966,1100,1547404574,2147483647,B,1300,data structures-implementation,geek_007,Java 8,639,0,OK
+48360666,1100,1547404132,2147483647,B,1300,data structures-implementation,SagarG,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48360584,1100,1547403997,2147483647,C,1300,binary search-geometry-math,Vithika101,Java 8,124,0,OK
+48360489,1100,1547403879,2147483647,C,1300,binary search-geometry-math,kocko,Java 8,124,0,OK
+48360368,1100,1547403728,2147483647,B,1300,data structures-implementation,vinrar,Java 8,311,0,OK
+48360302,1100,1547403652,2147483647,B,1300,data structures-implementation,aschugunov,Java 8,1000,3686400,TIME_LIMIT_EXCEEDED
+48360211,1100,1547403541,2147483647,B,1300,data structures-implementation,kocko,Java 8,140,0,OK
+48360176,1100,1547403485,2147483647,A,1000,implementation,Washoum,Java 8,109,0,OK
+48360172,1100,1547403477,2147483647,A,1000,implementation,Incepti0n,Java 8,140,0,OK
+48360164,1100,1547403464,2147483647,B,1300,data structures-implementation,aschugunov,Java 8,1000,15667200,TIME_LIMIT_EXCEEDED
+48360112,1100,1547403386,2147483647,C,1300,binary search-geometry-math,dmytro.prytula,Java 8,124,0,OK
+48359932,1100,1547403186,2147483647,A,1000,implementation,nesdi,Java 8,109,0,OK
+48359927,1100,1547403183,2147483647,F,2600,data structures-divide and conquer-greedy-math,byildiz,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48359920,1100,1547403175,2147483647,B,1300,data structures-implementation,dmytro.prytula,Java 8,186,0,OK
+48359793,1100,1547403020,2147483647,B,1300,data structures-implementation,zhishou,Java 8,140,0,OK
+48359674,1100,1547402888,2147483647,C,1300,binary search-geometry-math,dlopatin,Java 8,124,0,OK
+48359662,1100,1547402876,2147483647,C,1300,binary search-geometry-math,wadissimo,Java 8,124,0,OK
+48359657,1100,1547402866,2147483647,C,1300,binary search-geometry-math,Incepti0n,Java 8,124,0,OK
+48359655,1100,1547402863,2147483647,B,1300,data structures-implementation,wadissimo,Java 8,187,2969600,OK
+48359643,1100,1547402849,2147483647,A,1000,implementation,wadissimo,Java 8,124,0,OK
+48359524,1100,1547402734,2147483647,B,1300,data structures-implementation,Vithika101,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48359412,1100,1547402636,2147483647,B,1300,data structures-implementation,Papaksj,Java 8,654,0,OK
+48359308,1100,1547402562,2147483647,B,1300,data structures-implementation,YamaKasa,Java 8,249,0,OK
+48359214,1100,1547402477,2147483647,B,1300,data structures-implementation,YamaKasa,Java 8,592,0,OK
+48359155,1100,1547402432,2147483647,B,1300,data structures-implementation,bdomokos,Java 8,421,4710400,OK
+48359154,1100,1547402432,2147483647,D,2400,constructive algorithms-games-interactive,tiagoss2005,Java 8,358,0,OK
+48359101,1100,1547402399,2147483647,B,1300,data structures-implementation,rohan03,Java 8,124,0,OK
+48359034,1100,1547402345,2147483647,A,1000,implementation,anri-1151,Java 8,140,0,OK
+48359029,1100,1547402342,2147483647,C,1300,binary search-geometry-math,jatin.jain9414,Java 8,140,0,OK
+48359019,1100,1547402334,2147483647,A,1000,implementation,dot_slash_noob,Java 8,140,0,OK
+48359015,1100,1547402331,2147483647,B,1300,data structures-implementation,ViciousCoder,Java 8,171,11776000,OK
+48358932,1100,1547402272,2147483647,A,1000,implementation,archit1jain,Java 8,140,0,OK
+48358711,1100,1547402131,2147483647,B,1300,data structures-implementation,YamaKasa,Java 8,577,0,OK
+48358672,1100,1547402112,2147483647,B,1300,data structures-implementation,ujjwal_sri,Java 8,608,0,OK
+48358666,1100,1547402108,2147483647,D,2400,constructive algorithms-games-interactive,Yugioh,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48358662,1100,1547402107,2147483647,E,2200,binary search-dfs and similar-graphs,Dukkha,Java 8,468,4096000,OK
+48358661,1100,1547402107,2147483647,A,1000,implementation,AuroraGarden,Java 8,124,0,OK
+48357297,1100,1547397281,7181,B,1300,data structures-implementation,spar5h,Java 8,140,0,OK
+48357278,1100,1547397276,7176,A,1000,implementation,Bhargav0611,Java 8,156,0,OK
+48357268,1100,1547397273,7173,C,1300,binary search-geometry-math,Tushar__2018,Java 8,140,0,OK
+48357190,1100,1547397258,7158,A,1000,implementation,3rx,Java 8,124,0,OK
+48357109,1100,1547397239,7139,C,1300,binary search-geometry-math,vatsalsonigara,Java 8,140,0,OK
+48356541,1100,1547397090,6990,C,1300,binary search-geometry-math,dipta10,Java 8,155,0,OK
+48356374,1100,1547397039,6939,A,1000,implementation,abhinavverma,Java 8,140,0,OK
+48356311,1100,1547397023,6923,B,1300,data structures-implementation,chugh,Java 8,155,2764800,OK
+48356293,1100,1547397019,6919,E,2200,binary search-dfs and similar-graphs,jjluczyn,Java 8,2000,5529600,TIME_LIMIT_EXCEEDED
+48356212,1100,1547396998,6898,D,2400,constructive algorithms-games-interactive,HinataHyuga,Java 8,218,0,OK
+48356105,1100,1547396964,6864,B,1300,data structures-implementation,aarav.cube,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48355785,1100,1547396856,6756,B,1300,data structures-implementation,Lior,Java 8,763,5529600,OK
+48355722,1100,1547396830,6730,C,1300,binary search-geometry-math,insert_cool_handle,Java 8,124,0,OK
+48355697,1100,1547396823,6723,B,1300,data structures-implementation,egg,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48355651,1100,1547396803,6703,C,1300,binary search-geometry-math,nihalsingh1298,Java 8,140,0,OK
+48355583,1100,1547396774,6674,C,1300,binary search-geometry-math,Kartik_Tripathi,Java 8,155,0,OK
+48355445,1100,1547396714,6614,B,1300,data structures-implementation,samez,Java 8,202,11468800,OK
+48355367,1100,1547396683,6583,B,1300,data structures-implementation,kd_11,Java 8,577,0,OK
+48355190,1100,1547396609,6509,C,1300,binary search-geometry-math,MikeFaraday,Java 8,124,0,OK
+48355145,1100,1547396591,6491,C,1300,binary search-geometry-math,mufaddalnaya,Java 8,124,0,OK
+48355088,1100,1547396573,6473,C,1300,binary search-geometry-math,LM.10,Java 8,109,0,OK
+48355081,1100,1547396570,6470,C,1300,binary search-geometry-math,aarav.cube,Java 8,140,0,OK
+48355006,1100,1547396544,6444,D,2400,constructive algorithms-games-interactive,slava812,Java 8,2000,4915200,TIME_LIMIT_EXCEEDED
+48354957,1100,1547396531,6431,C,1300,binary search-geometry-math,PizzaLovers007,Java 8,155,0,OK
+48354956,1100,1547396530,6430,E,2200,binary search-dfs and similar-graphs,aman28rwt,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+48354717,1100,1547396438,6338,B,1300,data structures-implementation,dot_slash_noob,Java 8,655,0,OK
+48354716,1100,1547396437,6337,C,1300,binary search-geometry-math,ScreaMood,Java 8,171,0,OK
+48354698,1100,1547396431,6331,C,1300,binary search-geometry-math,rohan03,Java 8,109,0,OK
+48354665,1100,1547396418,6318,B,1300,data structures-implementation,insert_cool_handle,Java 8,155,0,OK
+48354630,1100,1547396404,6304,A,1000,implementation,iamrdk21,Java 8,155,0,OK
+48354437,1100,1547396339,6239,C,1300,binary search-geometry-math,arcus,Java 8,140,0,OK
+48354317,1100,1547396297,6197,C,1300,binary search-geometry-math,YamaKasa,Java 8,140,0,OK
+48354201,1100,1547396248,6148,C,1300,binary search-geometry-math,BeyondPerception,Java 8,124,0,OK
+48354066,1100,1547396197,6097,C,1300,binary search-geometry-math,plmokn,Java 8,140,0,OK
+48354058,1100,1547396195,6095,B,1300,data structures-implementation,ujjwal_sri,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48353983,1100,1547396167,6067,C,1300,binary search-geometry-math,Shinigami77,Java 8,140,0,OK
+48353951,1100,1547396152,6052,C,1300,binary search-geometry-math,yeongmo,Java 8,155,0,OK
+48353873,1100,1547396126,6026,C,1300,binary search-geometry-math,TaplierShiru,Java 8,124,0,OK
+48353857,1100,1547396118,6018,B,1300,data structures-implementation,bhaskarboora0,Java 8,670,4505600,OK
+48353833,1100,1547396110,6010,B,1300,data structures-implementation,gtgstg,Java 8,467,0,OK
+48353794,1100,1547396095,5995,B,1300,data structures-implementation,PizzaLovers007,Java 8,249,0,OK
+48353793,1100,1547396095,5995,B,1300,data structures-implementation,saurabhs1206,Java 8,592,10752000,OK
+48353657,1100,1547396045,5945,C,1300,binary search-geometry-math,kd_11,Java 8,155,0,OK
+48353600,1100,1547396022,5922,B,1300,data structures-implementation,Pranu,Java 8,327,2457600,OK
+48353559,1100,1547396002,5902,A,1000,implementation,geek_007,Java 8,140,0,OK
+48353544,1100,1547395995,5895,B,1300,data structures-implementation,Menna_ibrahim,Java 8,156,0,OK
+48353424,1100,1547395958,5858,C,1300,binary search-geometry-math,CodePal,Java 8,155,0,OK
+48353404,1100,1547395954,5854,B,1300,data structures-implementation,Ahmed_Abdou,Java 8,530,0,OK
+48353319,1100,1547395915,5815,A,1000,implementation,insert_cool_handle,Java 8,109,0,OK
+48353314,1100,1547395913,5813,C,1300,binary search-geometry-math,priyesh001,Java 8,124,0,OK
+48353062,1100,1547395819,5719,B,1300,data structures-implementation,Ahmed_Abdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48353056,1100,1547395816,5716,B,1300,data structures-implementation,dakshgautam1,Java 8,1000,3481600,TIME_LIMIT_EXCEEDED
+48353055,1100,1547395815,5715,C,1300,binary search-geometry-math,compygirl,Java 8,155,0,OK
+48353013,1100,1547395798,5698,C,1300,binary search-geometry-math,mareshkau,Java 8,140,0,OK
+48352967,1100,1547395784,5684,C,1300,binary search-geometry-math,chugh,Java 8,109,0,OK
+48352947,1100,1547395775,5675,A,1000,implementation,rahulkrishnan221,Java 8,155,0,OK
+48352781,1100,1547395716,5616,B,1300,data structures-implementation,dmvs000,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48352725,1100,1547395692,5592,B,1300,data structures-implementation,jsonW0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48352723,1100,1547395692,5592,C,1300,binary search-geometry-math,3rx,Java 8,124,0,OK
+48352690,1100,1547395677,5577,B,1300,data structures-implementation,jacobphicks,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48352680,1100,1547395673,5573,C,1300,binary search-geometry-math,tiagoss2005,Java 8,155,0,OK
+48352653,1100,1547395663,5563,C,1300,binary search-geometry-math,BNL,Java 8,109,0,OK
+48352578,1100,1547395635,5535,B,1300,data structures-implementation,Shinigami77,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48352571,1100,1547395633,5533,A,1000,implementation,BadEn0ugh,Java 8,139,0,OK
+48352551,1100,1547395626,5526,B,1300,data structures-implementation,ujjwal_sri,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48352545,1100,1547395624,5524,B,1300,data structures-implementation,spandand515,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48352537,1100,1547395620,5520,A,1000,implementation,PizzaLovers007,Java 8,156,0,OK
+48352418,1100,1547395575,5475,A,1000,implementation,zhiyilearn,Java 8,155,0,OK
+48352402,1100,1547395566,5466,C,1300,binary search-geometry-math,t.kas9mbek,Java 8,140,0,OK
+48352387,1100,1547395559,5459,B,1300,data structures-implementation,Mared_Coder,Java 8,1000,12595200,TIME_LIMIT_EXCEEDED
+48352381,1100,1547395556,5456,C,1300,binary search-geometry-math,vinrar,Java 8,140,0,OK
+48352354,1100,1547395546,5446,E,2200,binary search-dfs and similar-graphs,insert_cool_handle,Java 8,1231,15155200,OK
+48352335,1100,1547395540,5440,C,1300,binary search-geometry-math,MoeAdel,Java 8,124,0,OK
+48352325,1100,1547395538,5438,A,1000,implementation,prabhat236218,Java 8,140,38195200,OK
+48352323,1100,1547395537,5437,B,1300,data structures-implementation,mufaddalnaya,Java 8,452,0,OK
+48352272,1100,1547395516,5416,B,1300,data structures-implementation,Shinigami77,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48352261,1100,1547395513,5413,F,2600,data structures-divide and conquer-greedy-math,uwi,Java 8,1372,145203200,OK
+48352213,1100,1547395492,5392,A,1000,implementation,tn124377,Java 8,140,0,OK
+48352183,1100,1547395483,5383,B,1300,data structures-implementation,Tushar__2018,Java 8,1000,3891200,TIME_LIMIT_EXCEEDED
+48352021,1100,1547395411,5311,A,1000,implementation,MubtasimShahriar,Java 8,124,0,OK
+48351925,1100,1547395377,5277,C,1300,binary search-geometry-math,Dhairya472,Java 8,139,0,OK
+48351899,1100,1547395367,5267,A,1000,implementation,Gundaswami,Java 8,140,0,OK
+48351882,1100,1547395359,5259,B,1300,data structures-implementation,Ziklon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48351838,1100,1547395344,5244,C,1300,binary search-geometry-math,Ondassyn,Java 8,155,0,OK
+48351762,1100,1547395313,5213,C,1300,binary search-geometry-math,iamrdk21,Java 8,155,0,OK
+48351735,1100,1547395304,5204,C,1300,binary search-geometry-math,rishabh101,Java 8,124,0,OK
+48351691,1100,1547395283,5183,B,1300,data structures-implementation,raceldog,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48351610,1100,1547395250,5150,B,1300,data structures-implementation,jsonW0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48351464,1100,1547395195,5095,A,1000,implementation,xsqr,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48351446,1100,1547395188,5088,B,1300,data structures-implementation,aarav.cube,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48351368,1100,1547395164,5064,A,1000,implementation,compygirl,Java 8,155,0,OK
+48351347,1100,1547395157,5057,E,2200,binary search-dfs and similar-graphs,alexyz,Java 8,483,13824000,OK
+48351201,1100,1547395099,4999,C,1300,binary search-geometry-math,jaibalaji,Java 8,140,0,OK
+48351138,1100,1547395069,4969,B,1300,data structures-implementation,vinrar,Java 8,1000,15974400,TIME_LIMIT_EXCEEDED
+48351128,1100,1547395066,4966,F,2600,data structures-divide and conquer-greedy-math,bwang1008,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48351076,1100,1547395050,4950,A,1000,implementation,gaurav.gk5826,Java 8,140,0,OK
+48350990,1100,1547395020,4920,B,1300,data structures-implementation,Kartik_Tripathi,Java 8,1000,3584000,TIME_LIMIT_EXCEEDED
+48350977,1100,1547395016,4916,A,1000,implementation,codeforcessup,Java 8,139,0,OK
+48350942,1100,1547395001,4901,C,1300,binary search-geometry-math,Shuvi179,Java 8,155,0,OK
+48350918,1100,1547394991,4891,B,1300,data structures-implementation,ronaldocr7,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48350858,1100,1547394967,4867,C,1300,binary search-geometry-math,sudhanshups,Java 8,140,0,OK
+48350818,1100,1547394953,4853,C,1300,binary search-geometry-math,raceldog,Java 8,124,0,OK
+48350728,1100,1547394921,4821,B,1300,data structures-implementation,yashu024,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48350722,1100,1547394917,4816,C,1300,binary search-geometry-math,FedeBell94,Java 8,140,0,OK
+48350480,1100,1547394821,4721,A,1000,implementation,jatin.jain9414,Java 8,140,0,OK
+48350367,1100,1547394776,4676,C,1300,binary search-geometry-math,myob-_-,Java 8,124,0,OK
+48350286,1100,1547394749,4649,C,1300,binary search-geometry-math,Eriscot,Java 8,124,0,OK
+48350194,1100,1547394709,4609,B,1300,data structures-implementation,TaplierShiru,Java 8,1000,15052800,TIME_LIMIT_EXCEEDED
+48350191,1100,1547394708,4608,B,1300,data structures-implementation,samasnabith,Java 8,561,6963200,OK
+48350112,1100,1547394681,4581,B,1300,data structures-implementation,nandathant,Java 8,358,4403200,OK
+48349963,1100,1547394621,4521,A,1000,implementation,anupamm98,Java 8,155,0,OK
+48349904,1100,1547394599,4499,B,1300,data structures-implementation,Elbek_Djuraev,Java 8,343,3584000,OK
+48349877,1100,1547394588,4488,D,2400,constructive algorithms-games-interactive,AuroraGarden,Java 8,186,0,OK
+48349873,1100,1547394587,4487,C,1300,binary search-geometry-math,deep319,Java 8,155,0,OK
+48349854,1100,1547394582,4481,E,2200,binary search-dfs and similar-graphs,insert_cool_handle,Java 8,2000,36044800,TIME_LIMIT_EXCEEDED
+48349853,1100,1547394581,4481,B,1300,data structures-implementation,raceldog,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48349823,1100,1547394571,4471,B,1300,data structures-implementation,MagentaCobra,Java 8,530,614400,OK
+48349799,1100,1547394562,4462,A,1000,implementation,jzy_204,Java 8,155,0,OK
+48349790,1100,1547394558,4458,B,1300,data structures-implementation,caoash,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48349769,1100,1547394551,4451,B,1300,data structures-implementation,dlopatin,Java 8,171,5017600,OK
+48349731,1100,1547394541,4441,A,1000,implementation,yellowjian,Java 8,124,0,OK
+48349665,1100,1547394512,4412,C,1300,binary search-geometry-math,Jay_13,Java 8,139,0,OK
+48349620,1100,1547394498,4398,B,1300,data structures-implementation,Shinigami77,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48349615,1100,1547394497,4397,C,1300,binary search-geometry-math,Naman_123,Java 8,124,0,OK
+48349564,1100,1547394481,4381,C,1300,binary search-geometry-math,Fokinell,Java 8,140,0,OK
+48349554,1100,1547394478,4378,C,1300,binary search-geometry-math,samez,Java 8,124,0,OK
+48349273,1100,1547394374,4274,C,1300,binary search-geometry-math,egg,Java 8,140,0,OK
+48349268,1100,1547394372,4272,C,1300,binary search-geometry-math,abhi2601,Java 8,140,0,OK
+48349246,1100,1547394361,4261,C,1300,binary search-geometry-math,Hemose,Java 8,124,0,OK
+48349185,1100,1547394337,4237,C,1300,binary search-geometry-math,jsonW0,Java 8,140,0,OK
+48349134,1100,1547394318,4218,B,1300,data structures-implementation,spandand515,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48349130,1100,1547394317,4217,C,1300,binary search-geometry-math,brianush1,Java 8,140,0,OK
+48349123,1100,1547394314,4214,B,1300,data structures-implementation,Ahmed_Abdou,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48349104,1100,1547394306,4206,C,1300,binary search-geometry-math,rokafire,Java 8,124,0,OK
+48349101,1100,1547394304,4204,B,1300,data structures-implementation,vinrar,Java 8,1000,15462400,TIME_LIMIT_EXCEEDED
+48349089,1100,1547394300,4199,B,1300,data structures-implementation,Guru_Randhawa,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48349061,1100,1547394288,4188,B,1300,data structures-implementation,Ondassyn,Java 8,701,0,OK
+48348937,1100,1547394242,4142,C,1300,binary search-geometry-math,aman_29,Java 8,124,0,OK
+48348936,1100,1547394242,4142,C,1300,binary search-geometry-math,rajatgoyal715,Java 8,124,0,OK
+48348882,1100,1547394218,4118,C,1300,binary search-geometry-math,Sandip_Jana,Java 8,124,0,OK
+48348879,1100,1547394217,4117,A,1000,implementation,gtgstg,Java 8,124,0,OK
+48348862,1100,1547394212,4112,C,1300,binary search-geometry-math,xodiac,Java 8,124,0,OK
+48348822,1100,1547394197,4097,B,1300,data structures-implementation,YamaKasa,Java 8,311,4096000,OK
+48348810,1100,1547394192,4092,B,1300,data structures-implementation,bhavyashah9873,Java 8,171,4300800,OK
+48348693,1100,1547394148,4048,C,1300,binary search-geometry-math,Lior,Java 8,140,0,OK
+48348666,1100,1547394135,4035,C,1300,binary search-geometry-math,yuanfei_1984,Java 8,155,0,OK
+48348664,1100,1547394135,4035,C,1300,binary search-geometry-math,agnyaathavaasi,Java 8,140,0,OK
+48348421,1100,1547394042,3942,A,1000,implementation,Mantawy,Java 8,140,0,OK
+48348411,1100,1547394038,3938,C,1300,binary search-geometry-math,its_ulure,Java 8,124,0,OK
+48348358,1100,1547394020,3920,A,1000,implementation,aakashjaiswal,Java 8,124,0,OK
+48348350,1100,1547394017,3917,B,1300,data structures-implementation,goldcode8,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48348326,1100,1547394009,3909,C,1300,binary search-geometry-math,Washoum,Java 8,124,0,OK
+48348321,1100,1547394007,3907,C,1300,binary search-geometry-math,r_sutaria,Java 8,124,0,OK
+48348280,1100,1547393993,3893,B,1300,data structures-implementation,zhishou,Java 8,140,0,OK
+48348272,1100,1547393988,3888,C,1300,binary search-geometry-math,jeoj,Java 8,124,0,OK
+48348261,1100,1547393985,3885,B,1300,data structures-implementation,xamxam23,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48348255,1100,1547393983,3883,B,1300,data structures-implementation,hctep,Java 8,685,0,OK
+48348183,1100,1547393956,3856,B,1300,data structures-implementation,yAsH.jBp,Java 8,140,0,OK
+48348072,1100,1547393926,3826,C,1300,binary search-geometry-math,YahiaBadr,Java 8,124,0,OK
+48348045,1100,1547393917,3817,A,1000,implementation,amkhan,Java 8,155,0,OK
+48348034,1100,1547393913,3813,B,1300,data structures-implementation,eugene90,Java 8,171,0,OK
+48347994,1100,1547393901,3801,C,1300,binary search-geometry-math,hmp43,Java 8,155,0,OK
+48347980,1100,1547393897,3797,C,1300,binary search-geometry-math,amanverma1999,Java 8,140,0,OK
+48347968,1100,1547393893,3793,C,1300,binary search-geometry-math,spandand515,Java 8,140,0,OK
+48347914,1100,1547393877,3777,B,1300,data structures-implementation,shaolinkhusbu,Java 8,1000,12288000,TIME_LIMIT_EXCEEDED
+48347905,1100,1547393873,3773,B,1300,data structures-implementation,yellowjian,Java 8,170,0,OK
+48347904,1100,1547393873,3773,B,1300,data structures-implementation,DS007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48347859,1100,1547393858,3758,C,1300,binary search-geometry-math,Deimos,Java 8,124,0,OK
+48347780,1100,1547393830,3730,C,1300,binary search-geometry-math,anupamm98,Java 8,140,0,OK
+48347745,1100,1547393818,3718,C,1300,binary search-geometry-math,yellowjian,Java 8,124,0,OK
+48347738,1100,1547393816,3716,C,1300,binary search-geometry-math,jonzli123,Java 8,155,0,OK
+48347728,1100,1547393813,3713,C,1300,binary search-geometry-math,Anonymous,Java 8,109,0,OK
+48347688,1100,1547393796,3696,C,1300,binary search-geometry-math,Amayama,Java 8,155,0,OK
+48347670,1100,1547393791,3691,C,1300,binary search-geometry-math,typewriter221,Java 8,109,0,OK
+48347578,1100,1547393765,3665,C,1300,binary search-geometry-math,avijit_agarwal,Java 8,140,0,OK
+48347503,1100,1547393737,3637,A,1000,implementation,meiniak,Java 8,140,0,OK
+48347402,1100,1547393698,3598,A,1000,implementation,Ahmed_Abdou,Java 8,140,0,OK
+48347374,1100,1547393687,3587,B,1300,data structures-implementation,arcus,Java 8,186,4300800,OK
+48347335,1100,1547393672,3572,C,1300,binary search-geometry-math,MagentaCobra,Java 8,124,0,OK
+48347273,1100,1547393651,3551,C,1300,binary search-geometry-math,kshitiz1007,Java 8,140,0,OK
+48347260,1100,1547393649,3549,A,1000,implementation,emiya_007,Java 8,140,0,OK
+48347258,1100,1547393648,3548,B,1300,data structures-implementation,aarav.cube,Java 8,1000,7987200,TIME_LIMIT_EXCEEDED
+48347209,1100,1547393636,3536,A,1000,implementation,MoeAdel,Java 8,124,0,OK
+48347152,1100,1547393617,3517,C,1300,binary search-geometry-math,noxious_av,Java 8,124,0,OK
+48347071,1100,1547393591,3491,C,1300,binary search-geometry-math,techie_kotn,Java 8,140,0,OK
+48346978,1100,1547393562,3462,B,1300,data structures-implementation,rush_29,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48346923,1100,1547393547,3447,B,1300,data structures-implementation,typewriter221,Java 8,171,6656000,OK
+48346909,1100,1547393544,3444,A,1000,implementation,Shinigami77,Java 8,155,0,OK
+48346879,1100,1547393535,3435,A,1000,implementation,arunkumarreddy127,Java 8,124,0,OK
+48346878,1100,1547393535,3435,B,1300,data structures-implementation,mareshkau,Java 8,171,6656000,OK
+48346783,1100,1547393505,3405,E,2200,binary search-dfs and similar-graphs,insert_cool_handle,Java 8,2000,31027200,TIME_LIMIT_EXCEEDED
+48346771,1100,1547393501,3401,C,1300,binary search-geometry-math,niteshgowda,Java 8,124,0,OK
+48346736,1100,1547393490,3390,C,1300,binary search-geometry-math,Silent_coder,Java 8,124,0,OK
+48346728,1100,1547393488,3388,B,1300,data structures-implementation,darshan287,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48346724,1100,1547393487,3387,C,1300,binary search-geometry-math,jwk,Java 8,140,0,OK
+48346701,1100,1547393477,3377,B,1300,data structures-implementation,deep319,Java 8,701,0,OK
+48346645,1100,1547393460,3360,B,1300,data structures-implementation,vinrar,Java 8,1000,11161600,TIME_LIMIT_EXCEEDED
+48346527,1100,1547393425,3325,A,1000,implementation,Guru_Randhawa,Java 8,140,0,OK
+48346522,1100,1547393424,3324,C,1300,binary search-geometry-math,boltUsain,Java 8,139,0,OK
+48346457,1100,1547393403,3303,C,1300,binary search-geometry-math,gamezovladislav,Java 8,109,0,OK
+48346324,1100,1547393362,3262,B,1300,data structures-implementation,darshan287,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48346315,1100,1547393357,3257,C,1300,binary search-geometry-math,dmitriy0712,Java 8,155,0,OK
+48346243,1100,1547393334,3234,B,1300,data structures-implementation,shaolinkhusbu,Java 8,1000,13619200,TIME_LIMIT_EXCEEDED
+48346238,1100,1547393333,3233,B,1300,data structures-implementation,chugh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48346193,1100,1547393323,3223,A,1000,implementation,kimse9450,Java 8,171,0,OK
+48346184,1100,1547393321,3220,B,1300,data structures-implementation,MoeAdel,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48346181,1100,1547393320,3220,A,1000,implementation,msparwani,Java 8,124,0,OK
+48346162,1100,1547393312,3212,C,1300,binary search-geometry-math,reborn.chris,Java 8,124,0,OK
+48346141,1100,1547393305,3205,A,1000,implementation,Ondassyn,Java 8,140,0,OK
+48345990,1100,1547393260,3160,C,1300,binary search-geometry-math,saurabhs1206,Java 8,109,0,OK
+48345838,1100,1547393216,3116,C,1300,binary search-geometry-math,Alex_Gal,Java 8,124,0,OK
+48345810,1100,1547393209,3109,C,1300,binary search-geometry-math,chojh1222,Java 8,140,0,OK
+48345759,1100,1547393193,3093,C,1300,binary search-geometry-math,AK2600,Java 8,140,0,OK
+48345758,1100,1547393193,3093,C,1300,binary search-geometry-math,Deido___,Java 8,109,0,OK
+48345733,1100,1547393186,3086,C,1300,binary search-geometry-math,bwang1008,Java 8,155,0,OK
+48345716,1100,1547393180,3080,C,1300,binary search-geometry-math,aman28rwt,Java 8,124,0,OK
+48345681,1100,1547393171,3071,B,1300,data structures-implementation,Jay_13,Java 8,155,3584000,OK
+48345644,1100,1547393157,3057,C,1300,binary search-geometry-math,NatInTheHat,Java 8,140,0,OK
+48345642,1100,1547393156,3056,E,2200,binary search-dfs and similar-graphs,AuroraGarden,Java 8,670,14233600,OK
+48345624,1100,1547393151,3051,B,1300,data structures-implementation,Zamasu123,Java 8,1000,2048000,TIME_LIMIT_EXCEEDED
+48345524,1100,1547393121,3021,B,1300,data structures-implementation,sudhanshups,Java 8,265,0,OK
+48345471,1100,1547393110,3010,B,1300,data structures-implementation,caoash,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48345396,1100,1547393088,2988,C,1300,binary search-geometry-math,jjluczyn,Java 8,155,0,OK
+48345360,1100,1547393076,2976,B,1300,data structures-implementation,vinrar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48345334,1100,1547393072,2972,B,1300,data structures-implementation,xamxam23,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48345180,1100,1547393028,2928,A,1000,implementation,dlopatin,Java 8,140,0,OK
+48345147,1100,1547393017,2917,C,1300,binary search-geometry-math,icpc_loser,Java 8,139,0,OK
+48345078,1100,1547392996,2896,C,1300,binary search-geometry-math,mumeinokiseki,Java 8,140,0,OK
+48345066,1100,1547392991,2891,B,1300,data structures-implementation,Washoum,Java 8,202,10854400,OK
+48345028,1100,1547392980,2880,C,1300,binary search-geometry-math,byildiz,Java 8,139,0,OK
+48344924,1100,1547392953,2853,C,1300,binary search-geometry-math,Ahmed.Shawky,Java 8,139,0,OK
+48344882,1100,1547392941,2841,C,1300,binary search-geometry-math,zeyad_khattab,Java 8,124,0,OK
+48344837,1100,1547392932,2832,B,1300,data structures-implementation,mareshkau,Java 8,1000,5939200,TIME_LIMIT_EXCEEDED
+48344834,1100,1547392931,2831,C,1300,binary search-geometry-math,wery0,Java 8,109,0,OK
+48344833,1100,1547392931,2831,B,1300,data structures-implementation,DS007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48344810,1100,1547392924,2824,A,1000,implementation,yeongmo,Java 8,140,0,OK
+48344785,1100,1547392918,2818,B,1300,data structures-implementation,yuanfei_1984,Java 8,296,3072000,OK
+48344744,1100,1547392908,2808,C,1300,binary search-geometry-math,WorldNo1,Java 8,155,0,OK
+48344694,1100,1547392894,2794,B,1300,data structures-implementation,hmp43,Java 8,608,0,OK
+48344612,1100,1547392872,2772,B,1300,data structures-implementation,tiagoss2005,Java 8,623,0,OK
+48344576,1100,1547392863,2763,C,1300,binary search-geometry-math,kukreja-vlk,Java 8,124,0,OK
+48344562,1100,1547392860,2760,C,1300,binary search-geometry-math,LeontiBrechko,Java 8,124,0,OK
+48344520,1100,1547392849,2748,B,1300,data structures-implementation,Aoceanus,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48344514,1100,1547392847,2747,C,1300,binary search-geometry-math,slava812,Java 8,124,0,OK
+48344395,1100,1547392818,2718,C,1300,binary search-geometry-math,hctep,Java 8,140,0,OK
+48344385,1100,1547392816,2716,A,1000,implementation,AkashGupta,Java 8,155,0,OK
+48344359,1100,1547392809,2709,B,1300,data structures-implementation,AatmikJain,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48344296,1100,1547392793,2693,C,1300,binary search-geometry-math,PranavMathur,Java 8,140,0,OK
+48344287,1100,1547392791,2691,C,1300,binary search-geometry-math,shivamcyfun,Java 8,124,0,OK
+48344244,1100,1547392779,2679,B,1300,data structures-implementation,Kartik_Tripathi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48344243,1100,1547392779,2679,A,1000,implementation,YamaKasa,Java 8,140,0,OK
+48344242,1100,1547392779,2679,A,1000,implementation,vaibhavsingh100070,Java 8,124,0,OK
+48344228,1100,1547392775,2675,C,1300,binary search-geometry-math,karamkontar,Java 8,124,0,OK
+48344216,1100,1547392769,2669,C,1300,binary search-geometry-math,benpr99,Java 8,109,0,OK
+48344191,1100,1547392761,2661,B,1300,data structures-implementation,kshitiz1007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48344189,1100,1547392761,2661,B,1300,data structures-implementation,Dhairya472,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48344146,1100,1547392750,2650,C,1300,binary search-geometry-math,noobied,Java 8,139,0,OK
+48344034,1100,1547392720,2620,C,1300,binary search-geometry-math,PolaMawaad,Java 8,140,0,OK
+48344019,1100,1547392714,2614,B,1300,data structures-implementation,xamxam23,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48343976,1100,1547392702,2602,A,1000,implementation,Vladimirr.Petrunko,Java 8,156,0,OK
+48343964,1100,1547392699,2599,A,1000,implementation,Amayama,Java 8,140,0,OK
+48343949,1100,1547392695,2595,B,1300,data structures-implementation,mareshkau,Java 8,1000,6041600,TIME_LIMIT_EXCEEDED
+48343888,1100,1547392680,2580,B,1300,data structures-implementation,chugh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48343871,1100,1547392676,2576,E,2200,binary search-dfs and similar-graphs,uwi,Java 8,514,204800,OK
+48343870,1100,1547392675,2575,A,1000,implementation,MCHaixin,Java 8,140,0,OK
+48343815,1100,1547392662,2562,A,1000,implementation,bdomokos,Java 8,187,0,OK
+48343798,1100,1547392658,2558,B,1300,data structures-implementation,Fokinell,Java 8,373,7065600,OK
+48343769,1100,1547392649,2549,B,1300,data structures-implementation,dmytro.prytula,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48343761,1100,1547392647,2547,B,1300,data structures-implementation,jonzli123,Java 8,623,0,OK
+48343757,1100,1547392646,2546,C,1300,binary search-geometry-math,jonsnow7,Java 8,124,0,OK
+48343751,1100,1547392644,2544,B,1300,data structures-implementation,FedeBell94,Java 8,623,0,OK
+48343743,1100,1547392642,2542,B,1300,data structures-implementation,feathersinflight,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48343712,1100,1547392636,2536,A,1000,implementation,dakshgautam1,Java 8,124,0,OK
+48343685,1100,1547392627,2527,C,1300,binary search-geometry-math,poketred12,Java 8,109,0,OK
+48343676,1100,1547392625,2525,A,1000,implementation,Vandit_Shihora,Java 8,155,0,OK
+48343656,1100,1547392621,2521,B,1300,data structures-implementation,DS007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48343606,1100,1547392609,2509,C,1300,binary search-geometry-math,DHV,Java 8,171,0,OK
+48343576,1100,1547392601,2501,A,1000,implementation,yashu024,Java 8,124,0,OK
+48343444,1100,1547392566,2466,A,1000,implementation,aschugunov,Java 8,124,0,OK
+48343353,1100,1547392533,2433,A,1000,implementation,Mared_Coder,Java 8,139,0,OK
+48343329,1100,1547392526,2426,B,1300,data structures-implementation,anupamm98,Java 8,623,0,OK
+48343300,1100,1547392522,2422,C,1300,binary search-geometry-math,bhavyashah9873,Java 8,124,0,OK
+48343286,1100,1547392518,2418,C,1300,binary search-geometry-math,QuinnG,Java 8,140,0,OK
+48343266,1100,1547392511,2411,B,1300,data structures-implementation,techie_kotn,Java 8,702,0,OK
+48343236,1100,1547392503,2403,C,1300,binary search-geometry-math,peter_jerry_ye,Java 8,155,0,OK
+48343195,1100,1547392491,2391,B,1300,data structures-implementation,agnyaathavaasi,Java 8,202,0,OK
+48343144,1100,1547392478,2378,C,1300,binary search-geometry-math,bking11,Java 8,124,0,OK
+48343119,1100,1547392471,2371,C,1300,binary search-geometry-math,catforce,Java 8,124,0,OK
+48343114,1100,1547392471,2371,C,1300,binary search-geometry-math,goldcode8,Java 8,124,0,OK
+48343105,1100,1547392469,2369,A,1000,implementation,ankyy_0103,Java 8,155,0,OK
+48343069,1100,1547392460,2360,C,1300,binary search-geometry-math,KulikAlex,Java 8,124,0,OK
+48343032,1100,1547392451,2351,B,1300,data structures-implementation,icpc_loser,Java 8,155,0,OK
+48342979,1100,1547392440,2340,B,1300,data structures-implementation,wanderer163,Java 8,249,6144000,OK
+48342977,1100,1547392439,2339,A,1000,implementation,eugene90,Java 8,139,0,OK
+48342971,1100,1547392438,2338,C,1300,binary search-geometry-math,yAsH.jBp,Java 8,124,0,OK
+48342897,1100,1547392422,2322,C,1300,binary search-geometry-math,Codeforce_123,Java 8,124,0,OK
+48342869,1100,1547392413,2313,B,1300,data structures-implementation,Akash_UR,Java 8,155,0,OK
+48342864,1100,1547392412,2312,B,1300,data structures-implementation,nesdi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48342799,1100,1547392398,2298,B,1300,data structures-implementation,YousseF_Diaa,Java 8,234,24473600,OK
+48342787,1100,1547392396,2296,B,1300,data structures-implementation,zhiyilearn,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48342761,1100,1547392391,2291,C,1300,binary search-geometry-math,krso4,Java 8,139,0,OK
+48342760,1100,1547392391,2291,B,1300,data structures-implementation,Eriscot,Java 8,155,0,OK
+48342744,1100,1547392385,2285,A,1000,implementation,samez,Java 8,109,0,OK
+48342741,1100,1547392385,2285,B,1300,data structures-implementation,Aoceanus,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48342734,1100,1547392383,2283,A,1000,implementation,CodePal,Java 8,140,0,OK
+48342694,1100,1547392375,2275,B,1300,data structures-implementation,mayukh1110,Java 8,124,0,OK
+48342636,1100,1547392361,2261,C,1300,binary search-geometry-math,KharYusuf,Java 8,124,0,OK
+48342599,1100,1547392351,2251,B,1300,data structures-implementation,priyesh001,Java 8,187,2662400,OK
+48342575,1100,1547392344,2244,B,1300,data structures-implementation,niteshgowda,Java 8,156,0,OK
+48342562,1100,1547392340,2240,A,1000,implementation,Menna_ibrahim,Java 8,124,0,OK
+48342557,1100,1547392338,2238,B,1300,data structures-implementation,Sandip_Jana,Java 8,202,5120000,OK
+48342486,1100,1547392323,2223,B,1300,data structures-implementation,shaolinkhusbu,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48342477,1100,1547392321,2221,C,1300,binary search-geometry-math,zhishou,Java 8,124,0,OK
+48342463,1100,1547392317,2217,C,1300,binary search-geometry-math,Suunn,Java 8,155,0,OK
+48342395,1100,1547392303,2203,C,1300,binary search-geometry-math,godmar,Java 8,186,0,OK
+48342346,1100,1547392294,2194,B,1300,data structures-implementation,Amayama,Java 8,577,0,OK
+48342259,1100,1547392275,2175,B,1300,data structures-implementation,abhi2601,Java 8,156,4505600,OK
+48342157,1100,1547392253,2153,B,1300,data structures-implementation,vatsalsonigara,Java 8,342,2764800,OK
+48342128,1100,1547392246,2146,C,1300,binary search-geometry-math,Vladimirr.Petrunko,Java 8,155,0,OK
+48342060,1100,1547392234,2134,B,1300,data structures-implementation,plmokn,Java 8,608,1638400,OK
+48342056,1100,1547392233,2133,B,1300,data structures-implementation,vinrar,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48342045,1100,1547392231,2131,C,1300,binary search-geometry-math,golions,Java 8,109,0,OK
+48341997,1100,1547392221,2121,A,1000,implementation,deep319,Java 8,155,0,OK
+48341981,1100,1547392219,2119,B,1300,data structures-implementation,rajatgoyal715,Java 8,156,307200,OK
+48341927,1100,1547392207,2107,B,1300,data structures-implementation,svsky94,Java 8,623,0,OK
+48341821,1100,1547392179,2079,B,1300,data structures-implementation,r_sutaria,Java 8,155,3584000,OK
+48341654,1100,1547392142,2042,B,1300,data structures-implementation,ahaddce,Java 8,483,0,OK
+48341589,1100,1547392128,2028,A,1000,implementation,samasnabith,Java 8,124,0,OK
+48341570,1100,1547392122,2022,A,1000,implementation,tiagoss2005,Java 8,155,0,OK
+48341491,1100,1547392108,2008,B,1300,data structures-implementation,karamkontar,Java 8,187,4710400,OK
+48341445,1100,1547392101,2001,B,1300,data structures-implementation,spandand515,Java 8,1000,2969600,TIME_LIMIT_EXCEEDED
+48341396,1100,1547392088,1988,B,1300,data structures-implementation,its_ulure,Java 8,156,0,OK
+48341344,1100,1547392075,1975,C,1300,binary search-geometry-math,PrakharJain,Java 8,124,0,OK
+48341304,1100,1547392064,1964,C,1300,binary search-geometry-math,Yugioh,Java 8,124,0,OK
+48341302,1100,1547392064,1964,C,1300,binary search-geometry-math,Dekacc,Java 8,124,0,OK
+48341285,1100,1547392061,1961,B,1300,data structures-implementation,Porky623,Java 8,327,3174400,OK
+48341276,1100,1547392058,1958,B,1300,data structures-implementation,raceldog,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48341230,1100,1547392049,1949,A,1000,implementation,Dhairya472,Java 8,124,0,OK
+48341222,1100,1547392047,1947,A,1000,implementation,jacobphicks,Java 8,155,0,OK
+48341213,1100,1547392045,1945,A,1000,implementation,aarav.cube,Java 8,155,0,OK
+48341114,1100,1547392019,1919,B,1300,data structures-implementation,jsonW0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48340999,1100,1547391998,1898,B,1300,data structures-implementation,aakashjaiswal,Java 8,187,5222400,OK
+48340925,1100,1547391985,1885,B,1300,data structures-implementation,chojh1222,Java 8,155,0,OK
+48340888,1100,1547391977,1877,A,1000,implementation,aranjuda,Java 8,124,0,OK
+48340881,1100,1547391977,1877,B,1300,data structures-implementation,avijit_agarwal,Java 8,139,0,OK
+48340731,1100,1547391946,1846,C,1300,binary search-geometry-math,sumit3,Java 8,124,0,OK
+48340725,1100,1547391945,1845,C,1300,binary search-geometry-math,gnad,Java 8,124,0,OK
+48340722,1100,1547391944,1844,B,1300,data structures-implementation,AkashGupta,Java 8,280,0,OK
+48340702,1100,1547391941,1841,B,1300,data structures-implementation,boltUsain,Java 8,436,5734400,OK
+48340699,1100,1547391941,1841,B,1300,data structures-implementation,Zamasu123,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48340693,1100,1547391940,1840,B,1300,data structures-implementation,byildiz,Java 8,265,0,OK
+48340690,1100,1547391939,1839,A,1000,implementation,icpc_loser,Java 8,124,0,OK
+48340655,1100,1547391934,1834,C,1300,binary search-geometry-math,shilov,Java 8,140,0,OK
+48340646,1100,1547391932,1832,B,1300,data structures-implementation,jsonW0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48340635,1100,1547391930,1830,B,1300,data structures-implementation,Naman_123,Java 8,155,0,OK
+48340606,1100,1547391923,1823,C,1300,binary search-geometry-math,flyman3046,Java 8,139,0,OK
+48340590,1100,1547391919,1819,C,1300,binary search-geometry-math,AuroraGarden,Java 8,124,0,OK
+48340565,1100,1547391914,1814,C,1300,binary search-geometry-math,spar5h,Java 8,124,0,OK
+48340563,1100,1547391913,1813,A,1000,implementation,bendovafrdys,Java 8,140,0,OK
+48340540,1100,1547391909,1809,C,1300,binary search-geometry-math,alexyz,Java 8,139,0,OK
+48340481,1100,1547391898,1798,B,1300,data structures-implementation,mumeinokiseki,Java 8,358,0,OK
+48340422,1100,1547391888,1788,B,1300,data structures-implementation,Shuvi179,Java 8,639,3072000,OK
+48340412,1100,1547391887,1787,A,1000,implementation,zhadyrassyn,Java 8,140,0,OK
+48340411,1100,1547391886,1786,A,1000,implementation,kola99,Java 8,155,0,OK
+48340396,1100,1547391883,1783,A,1000,implementation,Tushar__2018,Java 8,124,0,OK
+48340385,1100,1547391880,1780,A,1000,implementation,sarthak124,Java 8,140,0,OK
+48340319,1100,1547391870,1770,B,1300,data structures-implementation,YahiaBadr,Java 8,233,5939200,OK
+48340187,1100,1547391842,1742,B,1300,data structures-implementation,jsonW0,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48340164,1100,1547391833,1733,C,1300,binary search-geometry-math,msagimbekov,Java 8,171,0,OK
+48340156,1100,1547391831,1731,B,1300,data structures-implementation,spandand515,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48340142,1100,1547391829,1729,C,1300,binary search-geometry-math,nm21,Java 8,155,0,OK
+48340131,1100,1547391827,1727,C,1300,binary search-geometry-math,finnlidbetter,Java 8,124,0,OK
+48339980,1100,1547391799,1699,B,1300,data structures-implementation,krso4,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48339963,1100,1547391794,1694,A,1000,implementation,TaplierShiru,Java 8,124,0,OK
+48339938,1100,1547391790,1690,A,1000,implementation,agnyaathavaasi,Java 8,124,0,OK
+48339882,1100,1547391778,1678,C,1300,binary search-geometry-math,mennafadali,Java 8,124,0,OK
+48339880,1100,1547391778,1678,B,1300,data structures-implementation,DHV,Java 8,265,0,OK
+48339875,1100,1547391776,1676,C,1300,binary search-geometry-math,LockHeart,Java 8,140,0,OK
+48339753,1100,1547391755,1655,C,1300,binary search-geometry-math,piyushgoel997,Java 8,140,0,OK
+48339750,1100,1547391754,1654,B,1300,data structures-implementation,Hemose,Java 8,218,7065600,OK
+48339655,1100,1547391736,1636,C,1300,binary search-geometry-math,Pradyumn.Agrawal,Java 8,124,0,OK
+48339632,1100,1547391730,1630,A,1000,implementation,DS007,Java 8,140,0,OK
+48339492,1100,1547391698,1598,B,1300,data structures-implementation,bking11,Java 8,140,0,OK
+48339480,1100,1547391695,1595,C,1300,binary search-geometry-math,jdurie,Java 8,156,0,OK
+48339337,1100,1547391665,1565,B,1300,data structures-implementation,201601039,Java 8,155,0,OK
+48339323,1100,1547391663,1563,B,1300,data structures-implementation,PranavMathur,Java 8,249,0,OK
+48339311,1100,1547391661,1561,B,1300,data structures-implementation,Silent_coder,Java 8,155,0,OK
+48339272,1100,1547391655,1555,B,1300,data structures-implementation,Rohan088,Java 8,623,13107200,OK
+48339228,1100,1547391647,1547,B,1300,data structures-implementation,reborn.chris,Java 8,155,0,OK
+48339119,1100,1547391628,1528,B,1300,data structures-implementation,golions,Java 8,202,16076800,OK
+48338977,1100,1547391599,1499,B,1300,data structures-implementation,BNL,Java 8,139,0,OK
+48338975,1100,1547391599,1499,C,1300,binary search-geometry-math,---,Java 8,140,0,OK
+48338821,1100,1547391572,1472,A,1000,implementation,TheSawan,Java 8,140,0,OK
+48338802,1100,1547391569,1469,B,1300,data structures-implementation,dmitriy0712,Java 8,140,0,OK
+48338739,1100,1547391559,1459,A,1000,implementation,jonzli123,Java 8,155,0,OK
+48338729,1100,1547391557,1457,C,1300,binary search-geometry-math,ViciousCoder,Java 8,124,0,OK
+48338632,1100,1547391539,1439,A,1000,implementation,sudhanshups,Java 8,155,0,OK
+48338623,1100,1547391537,1437,C,1300,binary search-geometry-math,Asgar,Java 8,109,0,OK
+48338616,1100,1547391535,1435,B,1300,data structures-implementation,iamyashh,Java 8,561,4608000,OK
+48338575,1100,1547391526,1426,C,1300,binary search-geometry-math,Shaykhutdinov-T-I,Java 8,124,0,OK
+48338545,1100,1547391522,1422,B,1300,data structures-implementation,gamezovladislav,Java 8,140,0,OK
+48338514,1100,1547391518,1418,B,1300,data structures-implementation,peter_jerry_ye,Java 8,623,0,OK
+48338441,1100,1547391503,1403,B,1300,data structures-implementation,QuinnG,Java 8,608,0,OK
+48338425,1100,1547391500,1400,B,1300,data structures-implementation,vaibhav310,Java 8,171,921600,OK
+48338415,1100,1547391498,1398,A,1000,implementation,jaibalaji,Java 8,171,0,OK
+48338392,1100,1547391493,1393,C,1300,binary search-geometry-math,Dukkha,Java 8,124,0,OK
+48338389,1100,1547391493,1393,A,1000,implementation,chugh,Java 8,124,0,OK
+48338382,1100,1547391490,1390,B,1300,data structures-implementation,kukreja-vlk,Java 8,124,0,OK
+48338370,1100,1547391488,1388,B,1300,data structures-implementation,PolaMawaad,Java 8,186,0,OK
+48338288,1100,1547391473,1373,C,1300,binary search-geometry-math,khokharnikunj8,Java 8,155,0,OK
+48338231,1100,1547391462,1362,A,1000,implementation,msagimbekov,Java 8,171,0,OK
+48338204,1100,1547391458,1358,B,1300,data structures-implementation,NatInTheHat,Java 8,639,0,OK
+48338160,1100,1547391449,1349,B,1300,data structures-implementation,KharYusuf,Java 8,171,0,OK
+48338048,1100,1547391430,1330,B,1300,data structures-implementation,MikeFaraday,Java 8,202,6656000,OK
+48338021,1100,1547391426,1326,C,1300,binary search-geometry-math,mikit,Java 8,124,0,OK
+48338013,1100,1547391425,1325,C,1300,binary search-geometry-math,Porky623,Java 8,139,0,OK
+48338007,1100,1547391425,1325,B,1300,data structures-implementation,jjluczyn,Java 8,265,0,OK
+48337908,1100,1547391406,1306,A,1000,implementation,techie_kotn,Java 8,155,0,OK
+48337899,1100,1547391405,1305,A,1000,implementation,rajatgoyal715,Java 8,124,0,OK
+48337860,1100,1547391397,1297,A,1000,implementation,Mazen_Ashraf,Java 8,124,0,OK
+48337844,1100,1547391395,1295,A,1000,implementation,dmvs000,Java 8,124,0,OK
+48337818,1100,1547391390,1290,A,1000,implementation,AatmikJain,Java 8,139,0,OK
+48337813,1100,1547391389,1289,A,1000,implementation,ujjwal_sri,Java 8,140,0,OK
+48337783,1100,1547391384,1284,B,1300,data structures-implementation,still_the_big_bang,Java 8,514,3584000,OK
+48337715,1100,1547391370,1270,B,1300,data structures-implementation,flyman3046,Java 8,156,0,OK
+48337595,1100,1547391348,1248,B,1300,data structures-implementation,gnad,Java 8,483,0,OK
+48337527,1100,1547391337,1237,A,1000,implementation,kd_11,Java 8,155,0,OK
+48337522,1100,1547391336,1236,B,1300,data structures-implementation,noobied,Java 8,155,2048000,OK
+48337510,1100,1547391334,1234,B,1300,data structures-implementation,noxious_av,Java 8,171,3584000,OK
+48337444,1100,1547391324,1224,A,1000,implementation,Sandip_Jana,Java 8,124,0,OK
+48337361,1100,1547391310,1210,A,1000,implementation,typewriter221,Java 8,140,0,OK
+48337348,1100,1547391308,1208,B,1300,data structures-implementation,Alex_Gal,Java 8,186,4403200,OK
+48337281,1100,1547391298,1198,A,1000,implementation,rokafire,Java 8,124,0,OK
+48337266,1100,1547391296,1196,B,1300,data structures-implementation,bwang1008,Java 8,170,5017600,OK
+48337235,1100,1547391291,1191,A,1000,implementation,lim09749,Java 8,140,0,OK
+48337186,1100,1547391282,1182,A,1000,implementation,xamxam23,Java 8,124,0,OK
+48337137,1100,1547391274,1174,B,1300,data structures-implementation,reborn.chris,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48337104,1100,1547391268,1168,B,1300,data structures-implementation,piyushgoel997,Java 8,187,3584000,OK
+48337034,1100,1547391254,1154,A,1000,implementation,saurabhs1206,Java 8,109,0,OK
+48337026,1100,1547391254,1154,C,1300,binary search-geometry-math,nchn27,Java 8,124,0,OK
+48336990,1100,1547391248,1148,B,1300,data structures-implementation,Dekacc,Java 8,124,0,OK
+48336975,1100,1547391245,1145,A,1000,implementation,Jay_13,Java 8,124,0,OK
+48336968,1100,1547391243,1143,B,1300,data structures-implementation,Pradyumn.Agrawal,Java 8,187,4710400,OK
+48336886,1100,1547391229,1129,A,1000,implementation,goyalakash1997,Java 8,124,0,OK
+48336825,1100,1547391218,1118,B,1300,data structures-implementation,sumit3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48336799,1100,1547391213,1113,B,1300,data structures-implementation,benpr99,Java 8,140,0,OK
+48336792,1100,1547391213,1113,A,1000,implementation,yAsH.jBp,Java 8,124,0,OK
+48336784,1100,1547391212,1112,B,1300,data structures-implementation,xodiac,Java 8,140,0,OK
+48336776,1100,1547391210,1110,A,1000,implementation,rohan03,Java 8,124,0,OK
+48336721,1100,1547391202,1102,A,1000,implementation,YousseF_Diaa,Java 8,124,0,OK
+48336701,1100,1547391199,1098,A,1000,implementation,Anonymous,Java 8,124,0,OK
+48336683,1100,1547391196,1095,B,1300,data structures-implementation,reborn.chris,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48336644,1100,1547391188,1088,B,1300,data structures-implementation,slava812,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+48336617,1100,1547391183,1083,A,1000,implementation,201601039,Java 8,124,0,OK
+48336580,1100,1547391177,1077,A,1000,implementation,raceldog,Java 8,124,0,OK
+48336562,1100,1547391175,1075,A,1000,implementation,YahiaBadr,Java 8,124,0,OK
+48336547,1100,1547391172,1072,A,1000,implementation,bking11,Java 8,124,0,OK
+48336529,1100,1547391168,1068,B,1300,data structures-implementation,catforce,Java 8,218,0,OK
+48336527,1100,1547391168,1068,B,1300,data structures-implementation,---,Java 8,171,17305600,OK
+48336517,1100,1547391168,1067,A,1000,implementation,FedeBell94,Java 8,155,0,OK
+48336467,1100,1547391160,1060,A,1000,implementation,kshitiz1007,Java 8,155,0,OK
+48336432,1100,1547391154,1054,B,1300,data structures-implementation,jdurie,Java 8,639,0,OK
+48336428,1100,1547391154,1054,C,1300,binary search-geometry-math,uwi,Java 8,139,0,OK
+48336377,1100,1547391147,1047,B,1300,data structures-implementation,zeyad_khattab,Java 8,187,0,OK
+48336280,1100,1547391131,1031,C,1300,binary search-geometry-math,HinataHyuga,Java 8,124,0,OK
+48336257,1100,1547391128,1028,B,1300,data structures-implementation,mennafadali,Java 8,171,0,OK
+48336227,1100,1547391123,1023,A,1000,implementation,r_sutaria,Java 8,124,0,OK
+48336216,1100,1547391120,1020,A,1000,implementation,Akash_UR,Java 8,124,0,OK
+48336195,1100,1547391118,1018,B,1300,data structures-implementation,LeontiBrechko,Java 8,155,0,OK
+48336171,1100,1547391115,1015,B,1300,data structures-implementation,Deimos,Java 8,248,921600,OK
+48336102,1100,1547391104,1004,B,1300,data structures-implementation,finnlidbetter,Java 8,155,1536000,OK
+48336100,1100,1547391104,1002,A,1000,implementation,Zamasu123,Java 8,140,0,OK
+48336050,1100,1547391095,993,B,1300,data structures-implementation,wery0,Java 8,186,0,OK
+48336032,1100,1547391091,991,B,1300,data structures-implementation,Yugioh,Java 8,171,4915200,OK
+48336025,1100,1547391090,990,A,1000,implementation,vinrar,Java 8,170,0,OK
+48335997,1100,1547391086,986,A,1000,implementation,peter_jerry_ye,Java 8,155,0,OK
+48335975,1100,1547391081,981,B,1300,data structures-implementation,Suunn,Java 8,467,0,OK
+48335952,1100,1547391077,977,A,1000,implementation,spandand515,Java 8,171,0,OK
+48335899,1100,1547391068,968,A,1000,implementation,arcus,Java 8,155,0,OK
+48335879,1100,1547391064,964,B,1300,data structures-implementation,LockHeart,Java 8,296,2457600,OK
+48335754,1100,1547391048,948,A,1000,implementation,yuanfei_1984,Java 8,155,0,OK
+48335730,1100,1547391045,945,A,1000,implementation,jsonW0,Java 8,155,0,OK
+48335709,1100,1547391044,944,A,1000,implementation,kukreja-vlk,Java 8,124,0,OK
+48335660,1100,1547391036,936,A,1000,implementation,mohamed_fathy,Java 8,155,0,OK
+48335620,1100,1547391027,927,A,1000,implementation,mareshkau,Java 8,140,0,OK
+48335610,1100,1547391026,926,B,1300,data structures-implementation,aman28rwt,Java 8,140,0,OK
+48335607,1100,1547391025,925,A,1000,implementation,mufaddalnaya,Java 8,124,0,OK
+48335544,1100,1547391012,912,A,1000,implementation,DHV,Java 8,155,0,OK
+48335495,1100,1547390999,899,A,1000,implementation,QuinnG,Java 8,155,0,OK
+48335487,1100,1547390998,898,A,1000,implementation,vaibhav310,Java 8,124,0,OK
+48335480,1100,1547390996,896,A,1000,implementation,Silent_coder,Java 8,124,0,OK
+48335479,1100,1547390996,896,A,1000,implementation,Ziklon,Java 8,140,0,OK
+48335467,1100,1547390995,895,A,1000,implementation,BNL,Java 8,124,0,OK
+48335465,1100,1547390994,894,A,1000,implementation,feathersinflight,Java 8,109,0,OK
+48335435,1100,1547390991,891,A,1000,implementation,niteshgowda,Java 8,124,0,OK
+48335428,1100,1547390989,889,B,1300,data structures-implementation,Dukkha,Java 8,140,0,OK
+48335426,1100,1547390988,888,A,1000,implementation,its_ulure,Java 8,124,0,OK
+48335424,1100,1547390988,888,B,1300,data structures-implementation,KulikAlex,Java 8,265,6860800,OK
+48335415,1100,1547390987,887,B,1300,data structures-implementation,mikit,Java 8,140,0,OK
+48335374,1100,1547390980,880,A,1000,implementation,LM.10,Java 8,124,0,OK
+48335324,1100,1547390972,872,B,1300,data structures-implementation,Asgar,Java 8,202,0,OK
+48335289,1100,1547390966,866,A,1000,implementation,nandathant,Java 8,155,0,OK
+48335255,1100,1547390962,862,B,1300,data structures-implementation,Codeforce_123,Java 8,140,0,OK
+48335246,1100,1547390961,861,A,1000,implementation,hmp43,Java 8,140,0,OK
+48335195,1100,1547390955,855,A,1000,implementation,mumeinokiseki,Java 8,155,0,OK
+48335152,1100,1547390947,847,B,1300,data structures-implementation,Ahmed.Shawky,Java 8,202,2457600,OK
+48335099,1100,1547390938,838,B,1300,data structures-implementation,jonsnow7,Java 8,140,0,OK
+48334960,1100,1547390916,816,A,1000,implementation,shaolinkhusbu,Java 8,155,0,OK
+48334915,1100,1547390908,808,A,1000,implementation,ilgimdar,Java 8,155,0,OK
+48334903,1100,1547390906,806,A,1000,implementation,rishabh101,Java 8,124,0,OK
+48334892,1100,1547390904,804,A,1000,implementation,amanverma1999,Java 8,155,0,OK
+48334879,1100,1547390904,804,A,1000,implementation,chojh1222,Java 8,124,0,OK
+48334871,1100,1547390902,802,A,1000,implementation,goldcode8,Java 8,124,0,OK
+48334856,1100,1547390901,801,B,1300,data structures-implementation,PrakharJain,Java 8,140,0,OK
+48334812,1100,1547390893,793,B,1300,data structures-implementation,alexyz,Java 8,139,0,OK
+48334796,1100,1547390891,791,A,1000,implementation,apollo,Java 8,155,0,OK
+48334788,1100,1547390889,789,A,1000,implementation,vatsalsonigara,Java 8,156,0,OK
+48334776,1100,1547390887,787,A,1000,implementation,egg,Java 8,155,0,OK
+48334744,1100,1547390883,783,A,1000,implementation,shivamcyfun,Java 8,124,0,OK
+48334734,1100,1547390881,781,B,1300,data structures-implementation,khokharnikunj8,Java 8,171,11776000,OK
+48334702,1100,1547390876,776,A,1000,implementation,abhi2601,Java 8,124,0,OK
+48334551,1100,1547390855,755,A,1000,implementation,svsky94,Java 8,155,0,OK
+48334547,1100,1547390854,754,A,1000,implementation,Naman_123,Java 8,109,0,OK
+48334484,1100,1547390842,742,A,1000,implementation,plmokn,Java 8,124,0,OK
+48334476,1100,1547390841,741,A,1000,implementation,caoash,Java 8,124,0,OK
+48334425,1100,1547390834,734,A,1000,implementation,dmitriy0712,Java 8,124,0,OK
+48334342,1100,1547390823,723,A,1000,implementation,gamezovladislav,Java 8,124,0,OK
+48334318,1100,1547390820,720,B,1300,data structures-implementation,HinataHyuga,Java 8,482,0,OK
+48334288,1100,1547390816,716,A,1000,implementation,reborn.chris,Java 8,124,0,OK
+48334242,1100,1547390812,712,A,1000,implementation,poketred12,Java 8,124,0,OK
+48334203,1100,1547390805,705,A,1000,implementation,gnad,Java 8,139,0,OK
+48334173,1100,1547390803,703,A,1000,implementation,ramez,Java 8,124,0,OK
+48334169,1100,1547390802,702,A,1000,implementation,zhishou,Java 8,124,0,OK
+48334163,1100,1547390802,702,A,1000,implementation,byildiz,Java 8,140,0,OK
+48334160,1100,1547390802,702,A,1000,implementation,jwk,Java 8,155,0,OK
+48334091,1100,1547390796,696,A,1000,implementation,dmytro.prytula,Java 8,171,0,OK
+48334081,1100,1547390795,695,A,1000,implementation,wery0,Java 8,124,0,OK
+48334077,1100,1547390795,695,A,1000,implementation,krso4,Java 8,124,0,OK
+48334059,1100,1547390794,694,A,1000,implementation,MagentaCobra,Java 8,124,0,OK
+48334027,1100,1547390788,687,A,1000,implementation,PranavMathur,Java 8,140,0,OK
+48333995,1100,1547390778,678,A,1000,implementation,Hemose,Java 8,124,0,OK
+48333945,1100,1547390767,667,A,1000,implementation,avijit_agarwal,Java 8,124,0,OK
+48333871,1100,1547390756,656,B,1300,data structures-implementation,Shaykhutdinov-T-I,Java 8,155,0,OK
+48333868,1100,1547390755,655,A,1000,implementation,KharYusuf,Java 8,124,0,OK
+48333864,1100,1547390755,655,A,1000,implementation,Porky623,Java 8,155,0,OK
+48333747,1100,1547390738,638,A,1000,implementation,PolaMawaad,Java 8,109,0,OK
+48333692,1100,1547390732,632,B,1300,data structures-implementation,uwi,Java 8,187,0,OK
+48333650,1100,1547390726,626,A,1000,implementation,Alex_Gal,Java 8,124,0,OK
+48333609,1100,1547390722,622,A,1000,implementation,noxious_av,Java 8,124,0,OK
+48333578,1100,1547390719,619,A,1000,implementation,Yugioh,Java 8,124,0,OK
+48333576,1100,1547390718,618,A,1000,implementation,jjluczyn,Java 8,156,0,OK
+48333478,1100,1547390705,605,B,1300,data structures-implementation,nm21,Java 8,124,0,OK
+48333448,1100,1547390700,600,A,1000,implementation,piyushgoel997,Java 8,140,0,OK
+48333417,1100,1547390697,597,A,1000,implementation,ahaddce,Java 8,124,0,OK
+48333402,1100,1547390694,594,A,1000,implementation,benpr99,Java 8,124,0,OK
+48333387,1100,1547390691,591,B,1300,data structures-implementation,nchn27,Java 8,124,0,OK
+48333299,1100,1547390678,578,A,1000,implementation,priyesh001,Java 8,124,0,OK
+48333267,1100,1547390673,573,A,1000,implementation,mennafadali,Java 8,124,0,OK
+48333211,1100,1547390664,564,A,1000,implementation,sumit3,Java 8,124,0,OK
+48333147,1100,1547390653,553,A,1000,implementation,Lior,Java 8,140,0,OK
+48333089,1100,1547390644,544,A,1000,implementation,jdurie,Java 8,155,0,OK
+48333082,1100,1547390643,543,B,1300,data structures-implementation,Anonymous,Java 8,218,0,OK
+48333075,1100,1547390641,541,A,1000,implementation,Eriscot,Java 8,124,0,OK
+48333044,1100,1547390636,536,A,1000,implementation,Shuvi179,Java 8,155,0,OK
+48332964,1100,1547390623,523,A,1000,implementation,Asgar,Java 8,124,0,OK
+48332873,1100,1547390607,507,A,1000,implementation,iamyashh,Java 8,139,0,OK
+48332821,1100,1547390600,500,A,1000,implementation,Dekacc,Java 8,124,0,OK
+48332800,1100,1547390597,497,A,1000,implementation,Suunn,Java 8,124,0,OK
+48332799,1100,1547390597,497,A,1000,implementation,Kartik_Tripathi,Java 8,124,0,OK
+48332765,1100,1547390591,491,B,1300,data structures-implementation,AuroraGarden,Java 8,202,3481600,OK
+48332736,1100,1547390588,488,B,1300,data structures-implementation,msagimbekov,Java 8,217,1228800,OK
+48332689,1100,1547390580,480,A,1000,implementation,---,Java 8,124,0,OK
+48332683,1100,1547390579,479,A,1000,implementation,jonsnow7,Java 8,124,0,OK
+48332675,1100,1547390578,478,A,1000,implementation,brianush1,Java 8,140,0,OK
+48332609,1100,1547390568,468,A,1000,implementation,finnlidbetter,Java 8,139,0,OK
+48332567,1100,1547390564,464,A,1000,implementation,Codeforce_123,Java 8,140,0,OK
+48332526,1100,1547390561,461,A,1000,implementation,Ahmed.Shawky,Java 8,124,0,OK
+48332515,1100,1547390560,460,A,1000,implementation,noobied,Java 8,124,0,OK
+48332468,1100,1547390557,457,A,1000,implementation,mikit,Java 8,202,0,OK
+48332458,1100,1547390555,455,A,1000,implementation,MikeFaraday,Java 8,140,0,OK
+48332420,1100,1547390553,453,A,1000,implementation,bwang1008,Java 8,124,0,OK
+48332382,1100,1547390547,447,A,1000,implementation,Pradyumn.Agrawal,Java 8,124,0,OK
+48332335,1100,1547390525,424,A,1000,implementation,boltUsain,Java 8,124,0,OK
+48332270,1100,1547390511,411,A,1000,implementation,slava812,Java 8,139,0,OK
+48332269,1100,1547390511,411,A,1000,implementation,LeontiBrechko,Java 8,124,0,OK
+48332261,1100,1547390510,410,A,1000,implementation,NatInTheHat,Java 8,155,0,OK
+48332205,1100,1547390500,400,A,1000,implementation,catforce,Java 8,140,0,OK
+48332136,1100,1547390489,389,A,1000,implementation,aman28rwt,Java 8,140,0,OK
+48332117,1100,1547390485,385,A,1000,implementation,Dukkha,Java 8,124,0,OK
+48332060,1100,1547390476,376,A,1000,implementation,spar5h,Java 8,124,0,OK
+48332044,1100,1547390473,373,A,1000,implementation,shilov,Java 8,124,0,OK
+48332038,1100,1547390472,372,A,1000,implementation,karamkontar,Java 8,139,0,OK
+48331985,1100,1547390463,363,A,1000,implementation,KulikAlex,Java 8,124,0,OK
+48331910,1100,1547390449,349,A,1000,implementation,PrakharJain,Java 8,124,0,OK
+48331875,1100,1547390440,340,A,1000,implementation,golions,Java 8,124,0,OK
+48331855,1100,1547390436,336,A,1000,implementation,alexyz,Java 8,124,0,OK
+48331832,1100,1547390431,331,B,1300,data structures-implementation,Vladimirr.Petrunko,Java 8,623,0,OK
+48331827,1100,1547390431,331,A,1000,implementation,uwi,Java 8,124,0,OK
+48331759,1100,1547390419,319,A,1000,implementation,ViciousCoder,Java 8,124,0,OK
+48331751,1100,1547390417,317,A,1000,implementation,xodiac,Java 8,140,0,OK
+48331740,1100,1547390414,314,A,1000,implementation,Deimos,Java 8,124,0,OK
+48331737,1100,1547390413,313,A,1000,implementation,nm21,Java 8,124,0,OK
+48331736,1100,1547390413,313,A,1000,implementation,hctep,Java 8,155,0,OK
+48331724,1100,1547390409,309,A,1000,implementation,zeyad_khattab,Java 8,124,0,OK
+48331702,1100,1547390402,302,A,1000,implementation,khokharnikunj8,Java 8,124,0,OK
+48331688,1100,1547390398,298,A,1000,implementation,bhavyashah9873,Java 8,124,0,OK
+48331677,1100,1547390395,295,A,1000,implementation,LockHeart,Java 8,155,0,OK
+48331642,1100,1547390385,285,A,1000,implementation,Shaykhutdinov-T-I,Java 8,124,0,OK
+48331618,1100,1547390376,276,A,1000,implementation,flyman3046,Java 8,124,0,OK
+48331585,1100,1547390364,264,A,1000,implementation,HinataHyuga,Java 8,124,0,OK
+48331567,1100,1547390357,257,A,1000,implementation,nchn27,Java 8,124,0,OK

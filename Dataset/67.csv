@@ -1,0 +1,351 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+56819030,67,1562794313,2147483647,B,1800,greedy,rr_,Java 8,280,0
+56818813,67,1562793564,2147483647,B,1800,greedy,rr_,Java 8,248,0
+56780159,67,1562737742,2147483647,A,1800,dp-graphs-greedy-implementation,Oleksandr228,Java 8,280,0
+55807160,67,1560988697,2147483647,D,1900,binary search-data structures-dp,nullptr2,Java 8,2836,100249600
+51206707,67,1552368197,2147483647,A,1800,dp-graphs-greedy-implementation,hongquanntct,Java 8,310,0
+49639982,67,1549659562,2147483647,A,1800,dp-graphs-greedy-implementation,faishaltareque,Java 8,310,0
+48297330,67,1547305822,2147483647,B,1800,greedy,KulikAlex,Java 8,218,0
+46975087,67,1544717065,2147483647,A,1800,dp-graphs-greedy-implementation,KulikAlex,Java 8,248,0
+44357907,67,1539609406,2147483647,D,1900,binary search-data structures-dp,ViciousCoder,Java 8,716,14131200
+43036453,67,1537278454,2147483647,D,1900,binary search-data structures-dp,hongquanntct,Java 8,1278,70553600
+41248865,67,1533480444,2147483647,D,1900,binary search-data structures-dp,Ahmed_Diab,Java 8,1184,69939200
+41248245,67,1533479131,2147483647,D,1900,binary search-data structures-dp,Ahmed_Diab,Java 8,3150,173158400
+41247148,67,1533476793,2147483647,D,1900,binary search-data structures-dp,Sarah_Abdelkhalek,Java 8,3556,173363200
+41247061,67,1533476609,2147483647,D,1900,binary search-data structures-dp,Sarah_Abdelkhalek,Java 8,3586,173260800
+41230888,67,1533437632,2147483647,D,1900,binary search-data structures-dp,mennafadali,Java 8,3744,173260800
+41230851,67,1533437488,2147483647,D,1900,binary search-data structures-dp,mennafadali,Java 8,3460,173260800
+41228455,67,1533423486,2147483647,D,1900,binary search-data structures-dp,Ziax,Java 8,1620,75161600
+41228426,67,1533423281,2147483647,D,1900,binary search-data structures-dp,Ziax,Java 8,1684,75161600
+41220748,67,1533396886,2147483647,D,1900,binary search-data structures-dp,PolaMawaad,Java 8,1402,86220800
+37492916,67,1524241527,2147483647,D,1900,binary search-data structures-dp,Hoda_Hisham,Java 8,1496,98099200
+36784126,67,1522531699,2147483647,A,1800,dp-graphs-greedy-implementation,totallynotan,Java 8,310,20684800
+36512941,67,1521743988,2147483647,D,1900,binary search-data structures-dp,zeyad_khattab,Java 8,1588,94105600
+36153538,67,1520692429,2147483647,A,1800,dp-graphs-greedy-implementation,lehar_11,Java 8,248,20684800
+35901433,67,1520108892,2147483647,D,1900,binary search-data structures-dp,mona_hashem,Java 8,1310,92876800
+35901371,67,1520108649,2147483647,D,1900,binary search-data structures-dp,mona_hashem,Java 8,3368,196096000
+34207367,67,1516047477,2147483647,A,1800,dp-graphs-greedy-implementation,CharlesDai,Java 8,280,20684800
+32334358,67,1510755864,2147483647,A,1800,dp-graphs-greedy-implementation,Bitway,Java 8,248,0
+31227926,67,1507756348,2147483647,B,1800,greedy,Slamur,Java 8,248,0
+31227885,67,1507756129,2147483647,A,1800,dp-graphs-greedy-implementation,Slamur,Java 8,280,0
+31049164,67,1507247985,2147483647,A,1800,dp-graphs-greedy-implementation,Ahmed_Anwar,Java 8,218,0
+30236409,67,1505008550,2147483647,D,1900,binary search-data structures-dp,EsraaSalah,Java 8,1496,85606400
+30210970,67,1504897020,2147483647,D,1900,binary search-data structures-dp,Ahmed_Anwar,Java 8,1526,65536000
+30204745,67,1504881707,2147483647,A,1800,dp-graphs-greedy-implementation,MQstafa,Java 8,374,0
+29830341,67,1503850379,2147483647,A,1800,dp-graphs-greedy-implementation,Ahmed.Shawky,Java 8,372,5017600
+29594405,67,1503135075,2147483647,A,1800,dp-graphs-greedy-implementation,AhmedSoliman,Java 8,218,0
+29469807,67,1502752742,2147483647,D,1900,binary search-data structures-dp,Ahmed.Shawky,Java 8,3368,113152000
+29462453,67,1502727933,2147483647,A,1800,dp-graphs-greedy-implementation,Nesrin,Java 8,280,20992000
+29195381,67,1501854216,2147483647,D,1900,binary search-data structures-dp,Nesrin,Java 8,1404,97894400
+28455220,67,1499812067,2147483647,A,1800,dp-graphs-greedy-implementation,Jankulovski,Java 8,248,20582400
+28452971,67,1499804874,2147483647,A,1800,dp-graphs-greedy-implementation,nanoCat,Java 8,248,20377600
+28451382,67,1499802784,2147483647,A,1800,dp-graphs-greedy-implementation,nanoCat,Java 8,280,20377600
+28426841,67,1499778249,2147483647,A,1800,dp-graphs-greedy-implementation,jeoj,Java 8,248,20889600
+26526530,67,1492722458,2147483647,A,1800,dp-graphs-greedy-implementation,Carson,Java 8,218,20377600
+26158940,67,1491427819,2147483647,D,1900,binary search-data structures-dp,grover_irusta,Java 8,1560,88985600
+25943049,67,1490856165,2147483647,A,1800,dp-graphs-greedy-implementation,ppppppppppppppp,Java 8,278,38502400
+24735526,67,1487324934,2147483647,D,1900,binary search-data structures-dp,OmarRadwan,Java 8,1528,97689600
+24717883,67,1487249057,2147483647,D,1900,binary search-data structures-dp,Kammola,Java 8,2494,99225600
+24715532,67,1487240535,2147483647,D,1900,binary search-data structures-dp,AhmedSoliman,Java 8,2900,140185600
+23419381,67,1483101775,2147483647,A,1800,dp-graphs-greedy-implementation,ppppppppppppppp,Java 8,280,20787200
+23242126,67,1482477376,2147483647,E,2400,geometry,p1p13,Java 8,248,20582400
+20743682,67,1474231325,2147483647,A,1800,dp-graphs-greedy-implementation,da_201501181,Java 8,280,0
+20742327,67,1474225452,2147483647,A,1800,dp-graphs-greedy-implementation,dhruvil_1bhuptani,Java 8,248,0
+20514336,67,1473535877,2147483647,D,1900,binary search-data structures-dp,Ahmad_Elsagheer,Java 8,1528,70041600
+20514294,67,1473535624,2147483647,D,1900,binary search-data structures-dp,Ahmad_Elsagheer,Java 8,1528,66252800
+20486351,67,1473454371,2147483647,B,1800,greedy,Ahmad_Elsagheer,Java 8,280,0
+20388956,67,1473018946,2147483647,A,1800,dp-graphs-greedy-implementation,Ahmad_Elsagheer,Java 8,248,0
+20388620,67,1473017606,2147483647,A,1800,dp-graphs-greedy-implementation,Ahmad_Elsagheer,Java 8,248,0
+19747626,67,1470747993,2147483647,D,1900,binary search-data structures-dp,Imaginary,Java 8,2620,92672000
+19448433,67,1469649290,2147483647,D,1900,binary search-data structures-dp,Petruchcho,Java 8,1246,70246400
+17927801,67,1463382260,2147483647,B,1800,greedy,alibaba,Java 8,248,20582400
+17927797,67,1463382236,2147483647,B,1800,greedy,alibaba,Java 8,280,20582400
+16505026,67,1457049406,2147483647,A,1800,dp-graphs-greedy-implementation,jorgluis009,Java 7,278,0
+16324660,67,1456396041,2147483647,A,1800,dp-graphs-greedy-implementation,kocko,Java 8,218,0
+15623962,67,1453963601,2147483647,D,1900,binary search-data structures-dp,alibaba,Java 8,3400,142643200
+15623936,67,1453963449,2147483647,D,1900,binary search-data structures-dp,alibaba,Java 8,3774,132608000
+15565964,67,1453690796,2147483647,A,1800,dp-graphs-greedy-implementation,ahqmrf,Java 7,218,0
+14484821,67,1448482242,2147483647,A,1800,dp-graphs-greedy-implementation,reccy168,Java 8,248,0
+12913666,67,1441822349,2147483647,D,1900,binary search-data structures-dp,picaso,Java 8,748,0
+12549962,67,1439654808,2147483647,D,1900,binary search-data structures-dp,free.dom,Java 7,1184,98918400
+12524611,67,1439535327,2147483647,A,1800,dp-graphs-greedy-implementation,SHX,Java 8,280,0
+10553588,67,1427995944,2147483647,A,1800,dp-graphs-greedy-implementation,thenameipicked,Java 8,218,0
+10553579,67,1427995872,2147483647,A,1800,dp-graphs-greedy-implementation,usu_edwardsCam,Java 8,248,0
+10553428,67,1427995009,2147483647,A,1800,dp-graphs-greedy-implementation,jigwan,Java 8,218,0
+10553344,67,1427994533,2147483647,A,1800,dp-graphs-greedy-implementation,Silverdoe,Java 8,218,0
+10553054,67,1427992893,2147483647,A,1800,dp-graphs-greedy-implementation,msaldivar,Java 8,218,0
+10552575,67,1427989433,2147483647,A,1800,dp-graphs-greedy-implementation,jdes,Java 7,216,0
+10552004,67,1427985849,2147483647,A,1800,dp-graphs-greedy-implementation,abbas88,Java 8,218,0
+10547871,67,1427951977,2147483647,A,1800,dp-graphs-greedy-implementation,suin3g,Java 7,154,0
+10547866,67,1427951917,2147483647,A,1800,dp-graphs-greedy-implementation,shortyfin,Java 8,280,0
+10547716,67,1427949484,2147483647,A,1800,dp-graphs-greedy-implementation,jrthom18,Java 8,218,0
+10547607,67,1427947171,2147483647,A,1800,dp-graphs-greedy-implementation,sjdp,Java 7,186,0
+10547344,67,1427943603,2147483647,A,1800,dp-graphs-greedy-implementation,bobbytables,Java 8,310,0
+10547285,67,1427942958,2147483647,A,1800,dp-graphs-greedy-implementation,manncito,Java 8,248,0
+10547156,67,1427941292,2147483647,A,1800,dp-graphs-greedy-implementation,Owmen,Java 8,248,0
+10547025,67,1427938855,2147483647,A,1800,dp-graphs-greedy-implementation,makeyouparrish,Java 8,342,0
+10546986,67,1427938147,2147483647,A,1800,dp-graphs-greedy-implementation,rustyfetty,Java 8,372,0
+10546981,67,1427937954,2147483647,A,1800,dp-graphs-greedy-implementation,corrosive_e,Java 7,156,0
+10546541,67,1427929696,2147483647,A,1800,dp-graphs-greedy-implementation,jbottel,Java 8,218,0
+10546516,67,1427929360,2147483647,A,1800,dp-graphs-greedy-implementation,jtg111,Java 8,248,0
+10546403,67,1427927898,2147483647,A,1800,dp-graphs-greedy-implementation,tbadams13,Java 8,218,0
+10546395,67,1427927805,2147483647,A,1800,dp-graphs-greedy-implementation,dsprufus,Java 8,248,0
+10546363,67,1427927332,2147483647,A,1800,dp-graphs-greedy-implementation,jbottel,Java 8,218,0
+10546358,67,1427927238,2147483647,A,1800,dp-graphs-greedy-implementation,jbottel,Java 7,154,0
+10545469,67,1427917861,2147483647,A,1800,dp-graphs-greedy-implementation,codecrack47,Java 8,248,0
+10538565,67,1427865811,2147483647,A,1800,dp-graphs-greedy-implementation,viqer,Java 8,248,0
+10538316,67,1427860763,2147483647,A,1800,dp-graphs-greedy-implementation,magnum50,Java 8,248,0
+10538233,67,1427858885,2147483647,A,1800,dp-graphs-greedy-implementation,kingjames,Java 8,280,0
+10537595,67,1427845848,2147483647,A,1800,dp-graphs-greedy-implementation,musicman783,Java 8,248,0
+10537322,67,1427841071,2147483647,A,1800,dp-graphs-greedy-implementation,rehpotsirhc,Java 8,280,0
+10530240,67,1427778153,2147483647,A,1800,dp-graphs-greedy-implementation,skateight,Java 8,218,0
+10529763,67,1427770248,2147483647,A,1800,dp-graphs-greedy-implementation,erdromian,Java 8,248,0
+10528325,67,1427746359,2147483647,A,1800,dp-graphs-greedy-implementation,zacneubert,Java 8,248,0
+10528114,67,1427744609,2147483647,A,1800,dp-graphs-greedy-implementation,kal_3l,Java 7,156,0
+10527804,67,1427741521,2147483647,A,1800,dp-graphs-greedy-implementation,caden311,Java 8,248,0
+10520715,67,1427674175,2147483647,A,1800,dp-graphs-greedy-implementation,naiyt,Java 8,248,0
+10520196,67,1427663282,2147483647,A,1800,dp-graphs-greedy-implementation,thundercloud89,Java 8,248,0
+10518985,67,1427653226,2147483647,A,1800,dp-graphs-greedy-implementation,mdm,Java 7,216,0
+10515789,67,1427633831,2147483647,A,1800,dp-graphs-greedy-implementation,hapunajwej,Java 8,248,0
+10508300,67,1427571530,2147483647,A,1800,dp-graphs-greedy-implementation,cpt_fwiffo,Java 8,218,0
+10482008,67,1427432845,2147483647,A,1800,dp-graphs-greedy-implementation,he_19,Java 8,248,0
+10346699,67,1426755458,2147483647,A,1800,dp-graphs-greedy-implementation,nguyenmanhphuc,Java 8,312,0
+10344649,67,1426735653,2147483647,A,1800,dp-graphs-greedy-implementation,Dukkha,Java 8,218,0
+10293355,67,1426447246,2147483647,A,1800,dp-graphs-greedy-implementation,poikniok,Java 8,498,0
+10293328,67,1426447043,2147483647,A,1800,dp-graphs-greedy-implementation,poikniok,Java 8,340,0
+10293317,67,1426446967,2147483647,A,1800,dp-graphs-greedy-implementation,poikniok,Java 8,248,0
+10288731,67,1426424773,2147483647,C,2500,dp,Zyflair,Java 8,934,124108800
+9450624,67,1421503401,2147483647,D,1900,binary search-data structures-dp,AStepanov,Java 8,1372,73420800
+9070957,67,1418211187,2147483647,A,1800,dp-graphs-greedy-implementation,NimaAiheyDemha,Java 8,342,0
+7726431,67,1410250301,2147483647,D,1900,binary search-data structures-dp,I_love_Malika,Java 7,1370,74752000
+7674947,67,1409751873,2147483647,A,1800,dp-graphs-greedy-implementation,AlwaysNewbie,Java 7,186,0
+7674930,67,1409751788,2147483647,A,1800,dp-graphs-greedy-implementation,bnuvjudge,Java 6,216,0
+6518483,67,1398970027,2147483647,A,1800,dp-graphs-greedy-implementation,nickbuelich,Java 8,310,0
+6012701,67,1394762682,2147483647,A,1800,dp-graphs-greedy-implementation,fillets,Java 7,186,0
+5804027,67,1390636647,2147483647,B,1800,greedy,atubo,Java 6,278,409600
+5661456,67,1389470865,2147483647,A,1800,dp-graphs-greedy-implementation,anna.skobaneva,Java 7,124,0
+5601151,67,1388617735,2147483647,A,1800,dp-graphs-greedy-implementation,miguelmaurizio,Java 7,124,0
+5189853,67,1385105692,2147483647,A,1800,dp-graphs-greedy-implementation,atubo,Java 6,280,1024000
+5148412,67,1384857791,2147483647,E,2400,geometry,Azat_Yusupov,Java 7,124,0
+4930709,67,1383074053,2147483647,A,1800,dp-graphs-greedy-implementation,pitfall,Java 7,62,0
+4814763,67,1382021939,2147483647,A,1800,dp-graphs-greedy-implementation,alibaba,Java 6,156,204800
+4406785,67,1378325554,2147483647,A,1800,dp-graphs-greedy-implementation,mkirsche,Java 6,156,204800
+3824562,67,1370429385,2147483647,E,2400,geometry,Footman,Java 7,125,102400
+3652436,67,1367271104,2147483647,D,1900,binary search-data structures-dp,santjuan,Java 6,1140,74649600
+2863266,67,1357037667,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,1014,99225600
+2858560,67,1356884297,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 7,375,3788800
+2858559,67,1356884288,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,375,3993600
+2858553,67,1356884205,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,343,0
+2858552,67,1356884176,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,406,0
+2858545,67,1356884127,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,343,0
+2858542,67,1356884096,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,390,0
+2858538,67,1356884016,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,343,0
+2858532,67,1356883970,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,375,0
+2858530,67,1356883964,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,406,0
+2858526,67,1356883936,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,374,0
+2858524,67,1356883916,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,375,0
+2858519,67,1356883875,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,375,0
+2858516,67,1356883825,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,375,307200
+2858504,67,1356883748,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,374,0
+2858500,67,1356883634,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,375,1740800
+2858481,67,1356883384,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,359,0
+2858468,67,1356883277,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,437,0
+2858440,67,1356882839,2147483647,D,1900,binary search-data structures-dp,romario,Java 7,921,0
+2856551,67,1356864612,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,390,3993600
+2856543,67,1356864362,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,406,6348800
+2856538,67,1356864284,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,406,3993600
+2856534,67,1356864211,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,390,3993600
+2856522,67,1356864017,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,437,3993600
+2856505,67,1356863500,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,828,3993600
+2856494,67,1356863345,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,1000,4096000
+2855671,67,1356846176,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,984,74752000
+2604196,67,1353401356,2147483647,D,1900,binary search-data structures-dp,Ahmed.Ibrahem,Java 6,1031,74649600
+2236525,67,1348484065,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,437,13516800
+2236520,67,1348483958,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,421,13516800
+2236519,67,1348483864,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,437,13516800
+2236033,67,1348455266,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,1125,74752000
+2236027,67,1348454365,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,1062,74752000
+2236025,67,1348453800,2147483647,D,1900,binary search-data structures-dp,Bugman,Java 6,4296,112230400
+2070221,67,1346355926,2147483647,A,1800,dp-graphs-greedy-implementation,mingotlik,Java 6,130,45158400
+2063556,67,1346156725,2147483647,D,1900,binary search-data structures-dp,m.radwan,Java 6,1010,118784000
+2050928,67,1346012489,2147483647,A,1800,dp-graphs-greedy-implementation,OSt,Java 6,110,44236800
+2050602,67,1345998235,2147483647,D,1900,binary search-data structures-dp,Ahmed.Ibrahem,Java 6,970,118784000
+2045629,67,1345784214,5214,A,1800,dp-graphs-greedy-implementation,Azat_Yusupov,Java 6,200,43622400
+2015848,67,1345019337,2147483647,B,1800,greedy,lasten,Java 6,200,43622400
+1558248,67,1334595637,2147483647,A,1800,dp-graphs-greedy-implementation,PeterGriffin,Java 6,110,43520000
+1131318,67,1328120214,2147483647,D,1900,binary search-data structures-dp,Ahmed_Salama,Java 6,1970,151859200
+993789,67,1325418165,2147483647,B,1800,greedy,mostafa_fahim,Java 6,160,43417600
+930102,67,1323025270,22991470,A,1800,dp-graphs-greedy-implementation,Izot_NNSTU,Java 6,130,43417600
+889748,67,1322152676,22118876,A,1800,dp-graphs-greedy-implementation,_jte_,Java 6,110,43315200
+889746,67,1322152656,22118856,B,1800,greedy,_jte_,Java 6,110,43315200
+885168,67,1321934390,21900590,D,1900,binary search-data structures-dp,islam-al-aarag,Java 6,1880,116633600
+883036,67,1321814492,21780692,A,1800,dp-graphs-greedy-implementation,djjoleM,Java 6,910,43315200
+839503,67,1320670084,20636284,A,1800,dp-graphs-greedy-implementation,Wahba,Java 6,140,35328000
+709903,67,1300036129,2329,B,1800,greedy,_jte_,Java 6,130,35430400
+709877,67,1300035138,1338,A,1800,dp-graphs-greedy-implementation,_jte_,Java 6,110,35328000
+641153,67,1314563413,14529613,A,1800,dp-graphs-greedy-implementation,Nox,Java 6,90,34816000
+637091,67,1314194340,14160540,A,1800,dp-graphs-greedy-implementation,kiko91_7,Java 6,130,35430400
+601751,67,1312979503,12945703,A,1800,dp-graphs-greedy-implementation,raymondMilad,Java 6,140,44851200
+599631,67,1312838666,12804866,A,1800,dp-graphs-greedy-implementation,tux1986,Java 6,90,44748800
+596757,67,1312733703,12699903,A,1800,dp-graphs-greedy-implementation,islamhamdi,Java 6,90,43008000
+590626,67,1312715748,12681948,A,1800,dp-graphs-greedy-implementation,kimox2,Java 6,130,43008000
+577852,67,1312386519,12352719,A,1800,dp-graphs-greedy-implementation,EslamElsawy,Java 6,140,43315200
+576064,67,1312288595,12254795,A,1800,dp-graphs-greedy-implementation,Ahmed_Salama,Java 6,160,43315200
+570950,67,1312009031,11975231,A,1800,dp-graphs-greedy-implementation,xiaowuc1,Java 6,110,43417600
+567585,67,1311789531,11755731,D,1900,binary search-data structures-dp,mostafa_fahim,Java 6,1700,183091200
+525313,67,1309550383,9516583,A,1800,dp-graphs-greedy-implementation,DoublePointer,Java 6,140,43315200
+459042,67,1305761602,5727802,B,1800,greedy,Aries512,Java 6,110,35328000
+459039,67,1305759238,5725438,A,1800,dp-graphs-greedy-implementation,Aries512,Java 6,130,35225600
+444080,67,1304982130,4948330,E,2400,geometry,TomConerly,Java 6,130,43315200
+404651,67,1303392805,3359005,A,1800,dp-graphs-greedy-implementation,minaFouad,Java 6,90,43315200
+404613,67,1303389956,3356156,A,1800,dp-graphs-greedy-implementation,minaFouad,Java 6,130,43315200
+353580,67,1300987429,953629,C,2500,dp,uwi,Java 6,750,190054400
+347975,67,1300803092,769292,C,2500,dp,S.Yesipenko,Java 6,630,109056000
+343693,67,1300519644,485844,D,1900,binary search-data structures-dp,ktuan,Java 6,1010,117760000
+343639,67,1300516143,482343,B,1800,greedy,ktuan,Java 6,130,43315200
+340162,67,1300463111,429311,A,1800,dp-graphs-greedy-implementation,S.Yesipenko,Java 6,700,43315200
+340116,67,1300461433,427633,A,1800,dp-graphs-greedy-implementation,nerve,Java 6,110,43315200
+339184,67,1300367958,334158,D,1900,binary search-data structures-dp,z-ghost,Java 6,970,106905600
+338835,67,1300321873,288073,A,1800,dp-graphs-greedy-implementation,darkl0rd,Java 6,970,43315200
+338182,67,1300231776,197976,B,1800,greedy,pius_88,Java 6,90,43315200
+338059,67,1300215411,181611,D,1900,binary search-data structures-dp,pius_88,Java 6,440,43315200
+338053,67,1300214879,181079,D,1900,binary search-data structures-dp,pius_88,Java 6,880,43315200
+337996,67,1300208509,174709,D,1900,binary search-data structures-dp,rajatag12,Java 6,1050,117760000
+337588,67,1300171294,137494,A,1800,dp-graphs-greedy-implementation,anhdt,Java 6,80,43315200
+337573,67,1300169818,136018,A,1800,dp-graphs-greedy-implementation,Ahmed_Salama,Java 6,140,43315200
+337426,67,1300147024,113224,D,1900,binary search-data structures-dp,at1,Java 6,950,117964800
+337379,67,1300141353,107553,B,1800,greedy,pifych,Java 6,200,43315200
+337374,67,1300140839,107039,B,1800,greedy,pifych,Java 6,130,43315200
+337156,67,1300122665,88865,B,1800,greedy,rajatag12,Java 6,170,43417600
+337133,67,1300121021,87221,B,1800,greedy,rajatag12,Java 6,140,43417600
+337118,67,1300120044,86244,A,1800,dp-graphs-greedy-implementation,ulugbek89s,Java 6,110,43315200
+337076,67,1300118325,84525,A,1800,dp-graphs-greedy-implementation,Rex,Java 6,110,43315200
+337065,67,1300118168,84368,B,1800,greedy,Di735,Java 6,90,43315200
+337041,67,1300117456,83656,D,1900,binary search-data structures-dp,pifych,Java 6,2130,168960000
+337030,67,1300116831,83031,D,1900,binary search-data structures-dp,pifych,Java 6,2190,168960000
+336930,67,1300111096,77296,C,2500,dp,partizan22,Java 6,890,181145600
+336850,67,1300105323,71523,D,1900,binary search-data structures-dp,Di735,Java 6,1250,117760000
+336808,67,1300102150,68350,D,1900,binary search-data structures-dp,Narg,Java 6,1590,136601600
+336765,67,1300098186,64386,B,1800,greedy,mail.anindya,Java 6,140,43417600
+336746,67,1300096241,62441,E,2400,geometry,adavydow,Java 6,90,43315200
+336745,67,1300096225,62425,B,1800,greedy,adavydow,Java 6,80,43315200
+336743,67,1300095965,62165,D,1900,binary search-data structures-dp,adavydow,Java 6,1260,43315200
+336604,67,1300087711,53911,B,1800,greedy,gamegame151,Java 6,140,43417600
+336599,67,1300087643,53843,A,1800,dp-graphs-greedy-implementation,Xerxes,Java 6,130,43315200
+336562,67,1300083713,49913,A,1800,dp-graphs-greedy-implementation,gamegame151,Java 6,130,43315200
+336438,67,1300071292,37492,A,1800,dp-graphs-greedy-implementation,madkite,Java 6,90,43315200
+336367,67,1300060340,26540,B,1800,greedy,mdldml,Java 6,90,43315200
+336361,67,1300059577,25777,D,1900,binary search-data structures-dp,mdldml,Java 6,1060,126464000
+336348,67,1300057876,24076,A,1800,dp-graphs-greedy-implementation,mdldml,Java 6,130,43315200
+336345,67,1300057179,23379,A,1800,dp-graphs-greedy-implementation,Mohamed.Ramzy,Java 6,90,43315200
+336319,67,1300055414,21614,E,2400,geometry,madkite,Java 6,110,43417600
+336311,67,1300055030,21230,C,2500,dp,zibada,Java 6,690,98508800
+336291,67,1300053837,20037,C,2500,dp,z-ghost,Java 6,590,98304000
+336274,67,1300052955,19155,A,1800,dp-graphs-greedy-implementation,pius_88,Java 6,110,43315200
+336272,67,1300052892,19092,A,1800,dp-graphs-greedy-implementation,pius_88,Java 6,110,43315200
+336253,67,1300052168,18368,A,1800,dp-graphs-greedy-implementation,adavydow,Java 6,90,43315200
+336179,67,1300049307,15507,A,1800,dp-graphs-greedy-implementation,z-ghost,Java 6,90,43315200
+336171,67,1300049175,15375,A,1800,dp-graphs-greedy-implementation,rajatag12,Java 6,140,43315200
+336132,67,1300048396,14596,A,1800,dp-graphs-greedy-implementation,dalex,Java 6,90,43315200
+336111,67,1300048141,14341,E,2400,geometry,Effect,Java 6,110,43315200
+336105,67,1300048113,14313,A,1800,dp-graphs-greedy-implementation,Melamori,Java 6,90,43315200
+336051,67,1300047567,13767,B,1800,greedy,Shlakoblock,Java 6,90,43417600
+336041,67,1300047517,13717,E,2400,geometry,ivan.popelyshev,Java 6,110,43315200
+336037,67,1300047483,13683,D,1900,binary search-data structures-dp,Belbesy,Java 6,2230,199680000
+336018,67,1300047304,13504,E,2400,geometry,S.Yesipenko,Java 6,110,43417600
+336011,67,1300047270,13470,E,2400,geometry,S.Yesipenko,Java 6,130,43417600
+336000,67,1300047157,13357,A,1800,dp-graphs-greedy-implementation,Shlakoblock,Java 6,90,43417600
+335991,67,1300047117,13317,B,1800,greedy,dalex,Java 6,80,43315200
+335988,67,1300047100,13300,D,1900,binary search-data structures-dp,dalex,Java 6,1590,117862400
+335981,67,1300047054,13254,A,1800,dp-graphs-greedy-implementation,nise_nabe,Java 6,110,43315200
+335977,67,1300047030,13230,E,2400,geometry,Narg,Java 6,110,43315200
+335975,67,1300047015,13215,A,1800,dp-graphs-greedy-implementation,mostafa_fahim,Java 6,130,43315200
+335941,67,1300046873,13073,E,2400,geometry,S.Yesipenko,Java 6,90,43417600
+335934,67,1300046811,13011,E,2400,geometry,Egor,Java 6,90,43315200
+335918,67,1300046710,12910,D,1900,binary search-data structures-dp,Sammarize,Java 6,1550,51712000
+335850,67,1300044555,10755,D,1900,binary search-data structures-dp,zibada,Java 6,1080,117862400
+335792,67,1300044420,10620,A,1800,dp-graphs-greedy-implementation,Fhtagn,Java 6,110,43315200
+335765,67,1300044346,10546,B,1800,greedy,ivan.popelyshev,Java 6,90,43315200
+335713,67,1300044138,10338,B,1800,greedy,Slamur,Java 6,190,43315200
+335687,67,1300044039,10239,A,1800,dp-graphs-greedy-implementation,yarrr,Java 6,110,43315200
+335683,67,1300044023,10223,B,1800,greedy,GoomboCode,Java 6,90,43417600
+335681,67,1300044021,10221,A,1800,dp-graphs-greedy-implementation,BlackEagle,Java 6,80,43315200
+335642,67,1300043858,10058,A,1800,dp-graphs-greedy-implementation,marque,Java 6,90,43315200
+335532,67,1300043270,9470,B,1800,greedy,uwi,Java 6,130,43315200
+335509,67,1300043131,9331,E,2400,geometry,adavydow,Java 6,90,43315200
+335330,67,1300042298,8498,D,1900,binary search-data structures-dp,dalex,Java 6,1670,117862400
+335321,67,1300042271,8471,A,1800,dp-graphs-greedy-implementation,Shlakoblock,Java 6,90,43417600
+335231,67,1300041850,8050,A,1800,dp-graphs-greedy-implementation,shevchen,Java 6,90,43315200
+335181,67,1300041629,7829,B,1800,greedy,Effect,Java 6,90,43315200
+335176,67,1300041607,7807,B,1800,greedy,islam-al-aarag,Java 6,110,43315200
+335160,67,1300041545,7745,A,1800,dp-graphs-greedy-implementation,GoomboCode,Java 6,90,43417600
+334999,67,1300040888,7088,D,1900,binary search-data structures-dp,Ahmed_Salama,Java 6,2030,151756800
+334972,67,1300040805,7005,D,1900,binary search-data structures-dp,SergeyLazarev,Java 6,1250,136499200
+334947,67,1300040691,6891,A,1800,dp-graphs-greedy-implementation,OgieKako,Java 6,90,43315200
+334906,67,1300040507,6707,B,1800,greedy,Nenash,Java 6,80,43315200
+334902,67,1300040498,6698,D,1900,binary search-data structures-dp,Hadi_Asiaie,Java 6,1060,117760000
+334890,67,1300040455,6655,D,1900,binary search-data structures-dp,Abra,Java 6,4310,188313600
+334853,67,1300040342,6542,B,1800,greedy,yarrr,Java 6,90,43315200
+334845,67,1300040325,6525,B,1800,greedy,dalex,Java 6,90,43315200
+334716,67,1300039816,6016,D,1900,binary search-data structures-dp,OgieKako,Java 6,2230,144691200
+334567,67,1300039352,5552,D,1900,binary search-data structures-dp,shevchen,Java 6,1030,91136000
+334564,67,1300039342,5542,B,1800,greedy,timmy,Java 6,110,43315200
+334548,67,1300039273,5473,D,1900,binary search-data structures-dp,Dumpty,Java 6,2110,138956800
+334492,67,1300039090,5290,B,1800,greedy,Belbesy,Java 6,190,43417600
+334419,67,1300038824,5024,A,1800,dp-graphs-greedy-implementation,vinayjulme,Java 6,130,43315200
+334348,67,1300038592,4792,D,1900,binary search-data structures-dp,S.Yesipenko,Java 6,1190,117760000
+334321,67,1300038518,4718,D,1900,binary search-data structures-dp,Effect,Java 6,1130,128716800
+334320,67,1300038518,4718,D,1900,binary search-data structures-dp,Aksenov239,Java 6,1760,138854400
+334248,67,1300038267,4467,A,1800,dp-graphs-greedy-implementation,Narg,Java 6,90,43315200
+334245,67,1300038260,4460,B,1800,greedy,anhdt,Java 6,110,43315200
+334182,67,1300038047,4247,B,1800,greedy,partizan22,Java 6,160,43417600
+334120,67,1300037850,4050,B,1800,greedy,Hadi_Asiaie,Java 6,110,43315200
+334053,67,1300037645,3845,A,1800,dp-graphs-greedy-implementation,SpookyCookie,Java 6,90,43315200
+334035,67,1300037589,3789,B,1800,greedy,Spacejoker,Java 6,230,43315200
+334027,67,1300037564,3764,B,1800,greedy,piotr.kukla,Java 6,90,43315200
+334021,67,1300037551,3751,B,1800,greedy,Shlakoblock,Java 6,90,43417600
+333921,67,1300037280,3480,A,1800,dp-graphs-greedy-implementation,pifych,Java 6,90,43315200
+333915,67,1300037255,3455,B,1800,greedy,pyshnograev,Java 6,110,43315200
+333907,67,1300037240,3440,B,1800,greedy,Rei,Java 6,110,43417600
+333885,67,1300037193,3393,A,1800,dp-graphs-greedy-implementation,SergeyLazarev,Java 6,90,43315200
+333884,67,1300037192,3392,B,1800,greedy,shevchen,Java 6,130,43315200
+333859,67,1300037137,3337,A,1800,dp-graphs-greedy-implementation,yaro,Java 6,140,83660800
+333806,67,1300036998,3198,D,1900,binary search-data structures-dp,uwi,Java 6,800,46592000
+333767,67,1300036918,3118,D,1900,binary search-data structures-dp,it4.kp,Java 6,910,156569600
+333757,67,1300036898,3098,D,1900,binary search-data structures-dp,winger,Java 6,1140,136499200
+333701,67,1300036750,2950,A,1800,dp-graphs-greedy-implementation,Sammarize,Java 6,140,43315200
+333687,67,1300036701,2901,B,1800,greedy,VArtem,Java 6,110,43315200
+333670,67,1300036671,2871,B,1800,greedy,Melamori,Java 6,90,43315200
+333628,67,1300036557,2757,A,1800,dp-graphs-greedy-implementation,Rei,Java 6,90,43417600
+333573,67,1300036440,2640,A,1800,dp-graphs-greedy-implementation,uwi,Java 6,110,43315200
+333542,67,1300036358,2558,B,1800,greedy,cerealguy,Java 6,90,43315200
+333517,67,1300036311,2511,A,1800,dp-graphs-greedy-implementation,Nenash,Java 6,90,43315200
+333516,67,1300036306,2506,D,1900,binary search-data structures-dp,SpookyCookie,Java 6,1200,43315200
+333497,67,1300036260,2460,B,1800,greedy,OgieKako,Java 6,110,43315200
+333433,67,1300036108,2308,D,1900,binary search-data structures-dp,ivan.popelyshev,Java 6,2250,57856000
+333417,67,1300036076,2276,B,1800,greedy,Ahmed_Salama,Java 6,160,43417600
+333413,67,1300036073,2273,A,1800,dp-graphs-greedy-implementation,partizan22,Java 6,130,43315200
+333386,67,1300036015,2215,D,1900,binary search-data structures-dp,yaro,Java 6,1160,117862400
+333331,67,1300035868,2068,B,1800,greedy,S.Yesipenko,Java 6,90,43315200
+333327,67,1300035861,2061,D,1900,binary search-data structures-dp,Egor,Java 6,390,56524800
+333305,67,1300035799,1999,B,1800,greedy,Dumpty,Java 6,110,43315200
+333303,67,1300035784,1984,B,1800,greedy,Aksenov239,Java 6,90,43315200
+333267,67,1300035672,1872,B,1800,greedy,adavydow,Java 6,80,43315200
+333237,67,1300035612,1812,D,1900,binary search-data structures-dp,cerealguy,Java 6,1200,152166400
+333221,67,1300035568,1768,B,1800,greedy,Fhtagn,Java 6,450,43417600
+333168,67,1300035425,1625,B,1800,greedy,SergeyLazarev,Java 6,110,43315200
+333146,67,1300035335,1535,B,1800,greedy,yaro,Java 6,90,43417600
+333081,67,1300035186,1386,B,1800,greedy,mdldml,Java 6,90,43315200
+333060,67,1300035131,1331,B,1800,greedy,Narg,Java 6,90,43315200
+333001,67,1300034969,1169,A,1800,dp-graphs-greedy-implementation,piotr.kukla,Java 6,80,43315200
+332973,67,1300034905,1105,B,1800,greedy,it4.kp,Java 6,230,43315200
+332964,67,1300034877,1077,B,1800,greedy,SpookyCookie,Java 6,90,43315200
+332954,67,1300034860,1060,B,1800,greedy,Egor,Java 6,80,43315200
+332951,67,1300034844,1044,A,1800,dp-graphs-greedy-implementation,islam-al-aarag,Java 6,90,43315200
+332932,67,1300034789,989,A,1800,dp-graphs-greedy-implementation,Effect,Java 6,90,43315200
+332876,67,1300034677,877,B,1800,greedy,winger,Java 6,90,43315200
+332724,67,1300034399,599,A,1800,dp-graphs-greedy-implementation,ivan.popelyshev,Java 6,160,43315200
+332707,67,1300034361,561,A,1800,dp-graphs-greedy-implementation,Egor,Java 6,90,43315200
+332656,67,1300034277,477,A,1800,dp-graphs-greedy-implementation,Abra,Java 6,130,43315200
+332628,67,1300034220,420,A,1800,dp-graphs-greedy-implementation,cerealguy,Java 6,80,43315200
+332597,67,1300034155,355,A,1800,dp-graphs-greedy-implementation,winger,Java 6,110,43315200

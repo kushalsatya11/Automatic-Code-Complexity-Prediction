@@ -1,0 +1,405 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57665116,88,1563981110,2147483647,A,1200,brute force-implementation,Avi_2506,Java 8,248,0
+56498823,88,1562217121,2147483647,B,1500,implementation,_mcubed123,Java 8,218,0
+56241817,88,1561747819,2147483647,A,1200,brute force-implementation,newheathen,Java 8,280,0
+55724092,88,1560876503,2147483647,C,1500,implementation-math-number theory,akshita00,Java 8,280,0
+55603026,88,1560627920,2147483647,C,1500,implementation-math-number theory,chojh1222,Java 8,872,63488000
+55587413,88,1560594121,2147483647,C,1500,implementation-math-number theory,Mohamed_Eshiba,Java 8,278,0
+55221483,88,1559850970,2147483647,C,1500,implementation-math-number theory,El-Bishoy,Java 8,248,45568000
+55221409,88,1559850772,2147483647,C,1500,implementation-math-number theory,El-Bishoy,Java 8,248,45568000
+54778578,88,1559072273,2147483647,B,1500,implementation,turkeyncheese,Java 8,187,0
+53849336,88,1557232847,2147483647,B,1500,implementation,tensaida,Java 8,139,0
+53830895,88,1557172537,2147483647,B,1500,implementation,Heisen_Berg,Java 8,140,0
+53765574,88,1557010849,2147483647,D,1900,implementation,Ahmed.Shawky,Java 8,218,0
+53031072,88,1555719556,2147483647,B,1500,implementation,artemeva_,Java 8,389,0
+53030202,88,1555713819,2147483647,B,1500,implementation,artemeva_,Java 8,374,0
+53030167,88,1555713670,2147483647,B,1500,implementation,artemeva_,Java 8,389,0
+53030005,88,1555712952,2147483647,B,1500,implementation,artemeva_,Java 8,374,0
+53029635,88,1555711285,2147483647,B,1500,implementation,artemeva_,Java 8,390,0
+52332921,88,1554445490,2147483647,B,1500,implementation,deepak4669,Java 8,139,0
+52017543,88,1553944501,2147483647,B,1500,implementation,minhaj0231,Java 8,124,0
+50332077,88,1550861962,2147483647,C,1500,implementation-math-number theory,elkadymohammed01,Java 8,280,0
+49072514,88,1548627563,2147483647,A,1200,brute force-implementation,I.A.K.O.V,Java 8,218,0
+48984503,88,1548503052,2147483647,B,1500,implementation,akshita00,Java 8,187,0
+48470949,88,1547669862,2147483647,B,1500,implementation,Silver_Lining,Java 8,234,0
+48386414,88,1547471898,2147483647,A,1200,brute force-implementation,cre8tion,Java 8,280,0
+47438415,88,1545598806,2147483647,A,1200,brute force-implementation,akshita00,Java 8,248,0
+47160694,88,1545039653,2147483647,B,1500,implementation,PersonOfInterest,Java 8,218,0
+46177644,88,1543075397,2147483647,A,1200,brute force-implementation,codername,Java 8,436,0
+46118465,88,1542985352,2147483647,B,1500,implementation,Mostafa_Murad,Java 8,186,0
+45198780,88,1541148449,2147483647,A,1200,brute force-implementation,deepak4669,Java 8,218,0
+44461621,88,1539809778,2147483647,C,1500,implementation-math-number theory,sameer_hack,Java 8,248,0
+44417104,88,1539718871,2147483647,C,1500,implementation-math-number theory,fantazy,Java 8,280,0
+44277259,88,1539472810,2147483647,B,1500,implementation,flyman3046,Java 8,140,0
+44159689,88,1539290301,2147483647,C,1500,implementation-math-number theory,frenzykryger,Java 8,218,0
+44011274,88,1539023002,2147483647,B,1500,implementation,motawfik,Java 8,171,0
+43804558,88,1538679678,2147483647,B,1500,implementation,StarLord_07,Java 8,482,0
+43262911,88,1537629686,2147483647,B,1500,implementation,abdullah_j,Java 8,187,0
+43023851,88,1537255237,2147483647,A,1200,brute force-implementation,Zedronar,Java 8,310,0
+42878003,88,1536983050,2147483647,C,1500,implementation-math-number theory,Shaykhutdinov-T-I,Java 8,248,0
+42829384,88,1536840801,5241,D,1900,implementation,SrapZark,Java 8,280,0
+42828294,88,1536838705,3145,C,1500,implementation-math-number theory,SrapZark,Java 8,248,0
+42827786,88,1536837704,2144,B,1500,implementation,SrapZark,Java 8,155,0
+42827368,88,1536836825,1265,A,1200,brute force-implementation,SrapZark,Java 8,248,0
+41417521,88,1533876985,2147483647,A,1200,brute force-implementation,amribrahim333,Java 8,278,0
+40924724,88,1532885139,2147483647,B,1500,implementation,omar.elbaroudy,Java 8,249,0
+40518073,88,1531923739,2147483647,C,1500,implementation-math-number theory,Dexter420,Java 8,310,0
+40227604,88,1531389027,2147483647,C,1500,implementation-math-number theory,cis_pie,Java 8,280,0
+40209936,88,1531333636,2147483647,B,1500,implementation,BeardAspirant,Java 8,795,0
+40096017,88,1531089380,2147483647,A,1200,brute force-implementation,dmytro.prytula,Java 8,280,0
+39344418,88,1529276486,2147483647,B,1500,implementation,frenzykryger,Java 8,170,0
+37859339,88,1525344487,2147483647,A,1200,brute force-implementation,Md_Ibrahim_Khan,Java 8,310,21094400
+36653310,88,1522096311,2147483647,A,1200,brute force-implementation,ISSAM_LAKOUAM,Java 8,310,20992000
+36492706,88,1521708628,2147483647,B,1500,implementation,Noureldin,Java 8,187,20992000
+36356898,88,1521297320,2147483647,A,1200,brute force-implementation,varun_31,Java 8,280,20684800
+34540220,88,1516868775,2147483647,B,1500,implementation,1_2345432_1,Java 8,139,20684800
+34453402,88,1516636469,2147483647,C,1500,implementation-math-number theory,Ahmed.Shawky,Java 8,248,20684800
+34297870,88,1516353896,2147483647,B,1500,implementation,chemouna,Java 8,217,21504000
+34056874,88,1515525899,2147483647,B,1500,implementation,davidonsy,Java 8,155,21094400
+32979946,88,1512573563,2147483647,B,1500,implementation,Ahmed.Shawky,Java 8,140,20787200
+32279998,88,1510563635,2147483647,B,1500,implementation,JRP,Java 8,140,0
+32181741,88,1510262141,2147483647,B,1500,implementation,LeMotherfuckerEAbdel69,Java 8,187,0
+31578413,88,1508598018,2147483647,A,1200,brute force-implementation,kocko,Java 8,248,20582400
+30772623,88,1506504123,2147483647,C,1500,implementation-math-number theory,zodiacleo,Java 8,218,0
+29925083,88,1504112144,2147483647,B,1500,implementation,assali,Java 8,155,0
+29642101,88,1503314516,2147483647,B,1500,implementation,programajor,Java 8,234,0
+29499412,88,1502869421,2147483647,A,1200,brute force-implementation,blockingthesky,Java 8,218,20582400
+28915931,88,1501110356,2147483647,E,2100,,aabdelzaher,Java 8,310,20992000
+28803626,88,1500821801,2147483647,A,1200,brute force-implementation,msarhan.abc.local,Java 8,218,20582400
+28803553,88,1500821567,2147483647,A,1200,brute force-implementation,msarhan.abc.local,Java 8,248,20889600
+28573691,88,1500123381,2147483647,A,1200,brute force-implementation,mostafayousry8,Java 8,280,20889600
+28257438,88,1499090277,2147483647,B,1500,implementation,tomdmitriev,Java 8,124,20684800
+28122338,88,1498660316,2147483647,C,1500,implementation-math-number theory,abdullah_eid,Java 8,248,20275200
+27966478,88,1498138721,2147483647,A,1200,brute force-implementation,tomdmitriev,Java 8,218,20480000
+27920135,88,1497946488,2147483647,A,1200,brute force-implementation,EMilos,Java 8,280,0
+26897449,88,1494062325,4725,D,1900,implementation,pitfall,Java 8,218,0
+26897198,88,1494061526,3926,C,1500,implementation-math-number theory,pitfall,Java 8,218,0
+26896578,88,1494059527,1927,B,1500,implementation,pitfall,Java 8,124,0
+26896065,88,1494058080,480,A,1200,brute force-implementation,pitfall,Java 8,218,0
+26789858,88,1493660166,2147483647,E,2100,,Kammola,Java 8,498,29081600
+26466549,88,1492478403,2147483647,B,1500,implementation,vjudge4,Java 8,171,20889600
+25586257,88,1489794552,2147483647,A,1200,brute force-implementation,Amman20,Java 8,248,20480000
+25440685,88,1489341646,2147483647,B,1500,implementation,Grand,Java 8,124,20889600
+24443132,88,1486252999,2147483647,C,1500,implementation-math-number theory,Hoda_Hisham,Java 8,278,20275200
+23933224,88,1484785218,2147483647,A,1200,brute force-implementation,Dekacc,Java 8,248,20480000
+23392918,88,1482999706,2147483647,B,1500,implementation,74zadua,Java 8,155,20684800
+22942542,88,1481696021,2147483647,A,1200,brute force-implementation,xodiac,Java 8,310,0
+22498259,88,1480110662,2147483647,A,1200,brute force-implementation,safae,Java 8,278,0
+21166703,88,1475511332,2147483647,A,1200,brute force-implementation,Qazaqstan,Java 8,310,0
+20756947,88,1474292789,2147483647,A,1200,brute force-implementation,Ahmad_Elsagheer,Java 8,278,0
+20623243,88,1473872498,2147483647,B,1500,implementation,Ahmad_Elsagheer,Java 8,139,0
+19743162,88,1470729952,2147483647,A,1200,brute force-implementation,mshokry10,Java 8,248,20889600
+19542105,88,1469983599,2147483647,A,1200,brute force-implementation,Mustafa.,Java 8,312,0
+19541353,88,1469980455,2147483647,A,1200,brute force-implementation,omar22,Java 8,280,0
+19541202,88,1469979885,2147483647,A,1200,brute force-implementation,Nada,Java 8,310,0
+19437178,88,1469609213,2147483647,A,1200,brute force-implementation,Noureldin,Java 8,248,0
+19038185,88,1468282588,2147483647,A,1200,brute force-implementation,Ahmad,Java 8,310,0
+19032019,88,1468246485,2147483647,B,1500,implementation,Ahmad,Java 8,187,0
+18720433,88,1466862350,2147483647,A,1200,brute force-implementation,Ka8eeM,Java 8,310,0
+18433646,88,1465842174,2147483647,A,1200,brute force-implementation,vasiliydz,Java 7,278,39424000
+16730797,88,1458058843,2147483647,A,1200,brute force-implementation,Picasso-Abud,Java 8,248,0
+16729893,88,1458055637,2147483647,A,1200,brute force-implementation,Picasso-Abud,Java 8,340,0
+16636378,88,1457627957,2147483647,A,1200,brute force-implementation,meashish,Java 8,342,0
+16226408,88,1455961431,2147483647,A,1200,brute force-implementation,bhishma,Java 8,218,0
+16191539,88,1455854030,2147483647,A,1200,brute force-implementation,emyITC,Java 8,280,0
+15641581,88,1454054985,2147483647,B,1500,implementation,bavent,Java 7,171,0
+15640643,88,1454050503,2147483647,A,1200,brute force-implementation,bavent,Java 7,218,0
+15573064,88,1453725471,2147483647,A,1200,brute force-implementation,CandidateNewbie,Java 8,310,0
+15152069,88,1451675505,2147483647,A,1200,brute force-implementation,Hide.on.bush,Java 8,248,0
+15146046,88,1451635959,2147483647,C,1500,implementation-math-number theory,Sandip_Jana,Java 8,218,0
+15145805,88,1451633582,2147483647,B,1500,implementation,Sandip_Jana,Java 8,156,0
+15074170,88,1451319744,2147483647,A,1200,brute force-implementation,Sandip_Jana,Java 8,216,0
+14940500,88,1450883095,2147483647,A,1200,brute force-implementation,tuna,Java 8,280,0
+14898350,88,1450612647,2147483647,A,1200,brute force-implementation,JohnnyJi,Java 8,248,0
+14795262,88,1450043516,2147483647,C,1500,implementation-math-number theory,nyyborn,Java 8,340,0
+14781270,88,1449989945,2147483647,A,1200,brute force-implementation,safarisoul,Java 8,310,0
+14779471,88,1449970215,2147483647,B,1500,implementation,nyyborn,Java 8,155,0
+14777748,88,1449952496,3116,A,1200,brute force-implementation,nyyborn,Java 8,310,0
+14777738,88,1449952447,3067,A,1200,brute force-implementation,nyyborn,Java 8,280,0
+14431250,88,1448302944,2147483647,A,1200,brute force-implementation,Gendo.,Java 7,218,0
+13582731,88,1444678404,2147483647,A,1200,brute force-implementation,omarfarhat97,Java 8,278,0
+13554922,88,1444635543,2147483647,A,1200,brute force-implementation,mohieddine,Java 8,280,0
+13142803,88,1442935001,3101,A,1200,brute force-implementation,Tamtomus,Java 7,218,0
+12855962,88,1441470694,2147483647,A,1200,brute force-implementation,Nitto,Java 7,156,0
+12544148,88,1439627827,2147483647,A,1200,brute force-implementation,Yoyo2014,Java 7,186,0
+12268656,88,1438198931,2147483647,A,1200,brute force-implementation,sweiss,Java 8,248,0
+11579073,88,1434272371,2147483647,A,1200,brute force-implementation,hassan1,Java 8,280,0
+11348136,88,1432915879,2147483647,B,1500,implementation,aladdin3,Java 7,218,0
+11346255,88,1432906386,2147483647,A,1200,brute force-implementation,aladdin3,Java 7,156,0
+11255412,88,1432477502,2147483647,B,1500,implementation,poikniok,Java 8,280,0
+11019674,88,1430994682,2147483647,A,1200,brute force-implementation,aakashkhatri,Java 7,156,0
+10938448,88,1430398294,2147483647,A,1200,brute force-implementation,MP2L-UVT-ISI,Java 8,280,28979200
+10479494,88,1427406392,2147483647,A,1200,brute force-implementation,AUR,Java 8,278,0
+10248486,88,1426171293,2147483647,A,1200,brute force-implementation,AhmedRagabIssa,Java 8,278,0
+9797423,88,1423651772,2147483647,A,1200,brute force-implementation,Hartha,Java 7,186,0
+9796811,88,1423646339,2147483647,A,1200,brute force-implementation,Hartha,Java 8,280,0
+9397380,88,1420894141,2147483647,A,1200,brute force-implementation,Piyuple,Java 7,186,0
+9351319,88,1420277146,2147483647,A,1200,brute force-implementation,upsolving,Java 7,184,0
+8526363,88,1414950811,2147483647,A,1200,brute force-implementation,vjudge3,Java 7,184,0
+8426637,88,1414390764,2147483647,D,1900,implementation,coolmaksat,Java 7,186,0
+8377454,88,1414154307,2147483647,E,2100,,I_love_Malika,Java 7,154,0
+8377131,88,1414152429,2147483647,A,1200,brute force-implementation,coolmaksat,Java 7,154,0
+8377091,88,1414152124,2147483647,D,1900,implementation,I_love_Malika,Java 7,154,0
+8376981,88,1414151184,2147483647,C,1500,implementation-math-number theory,I_love_Malika,Java 7,154,0
+8376980,88,1414151173,2147483647,B,1500,implementation,I_love_Malika,Java 7,218,204800
+8376979,88,1414151169,2147483647,C,1500,implementation-math-number theory,coolmaksat,Java 7,154,0
+8376977,88,1414151161,2147483647,A,1200,brute force-implementation,I_love_Malika,Java 7,156,0
+8376974,88,1414151152,2147483647,B,1500,implementation,coolmaksat,Java 7,186,102400
+8041786,88,1412125941,2147483647,A,1200,brute force-implementation,boldinsv,Java 7,156,0
+7738754,88,1410406115,2147483647,A,1200,brute force-implementation,Phicar,Java 6,154,0
+7738730,88,1410405387,2147483647,A,1200,brute force-implementation,santjuan,Java 7,154,0
+7738529,88,1410402058,2147483647,A,1200,brute force-implementation,DiegoAE,Java 7,154,0
+7684628,88,1409863775,2147483647,A,1200,brute force-implementation,MahmoudWahdan,Java 7,216,0
+7618819,88,1409294330,2147483647,B,1500,implementation,upsolving,Java 7,186,204800
+7606046,88,1409148969,2147483647,A,1200,brute force-implementation,AhmedNashat,Java 7,186,0
+7559668,88,1408795386,2147483647,A,1200,brute force-implementation,ahmed__abbas,Java 7,186,0
+7558824,88,1408787982,2147483647,A,1200,brute force-implementation,muto,Java 6,216,0
+7257672,88,1406469238,2147483647,A,1200,brute force-implementation,Asma123,Java 7,156,0
+7116037,88,1405513763,2147483647,A,1200,brute force-implementation,owenomar,Java 7,156,0
+7064763,88,1405097600,2147483647,C,1500,implementation-math-number theory,Pimpom,Java 8,310,0
+7017976,88,1404593932,2147483647,A,1200,brute force-implementation,ramy2010,Java 7,156,0
+7002790,88,1404376345,2147483647,A,1200,brute force-implementation,shereifhawary,Java 6,156,0
+6963026,88,1403782011,2147483647,A,1200,brute force-implementation,mostafa.ayman,Java 7,280,0
+6709671,88,1401017072,2147483647,A,1200,brute force-implementation,urvashi,Java 7,124,0
+6163265,88,1395942323,2147483647,B,1500,implementation,0p9o8i,Java 7,186,0
+6118332,88,1395515533,2147483647,A,1200,brute force-implementation,Omar_El-Gabry,Java 7,186,0
+6100678,88,1395432698,2147483647,C,1500,implementation-math-number theory,Renegade,Java 7,156,0
+6094955,88,1395346606,2147483647,A,1200,brute force-implementation,tomash_em,Java 7,154,0
+6060832,88,1395145213,2147483647,B,1500,implementation,pikapika,Java 7,278,102400
+6055070,88,1395060599,2147483647,B,1500,implementation,vjudge5,Java 7,278,102400
+5896775,88,1391529219,2147483647,A,1200,brute force-implementation,mosad123,Java 7,186,0
+5896761,88,1391529151,2147483647,A,1200,brute force-implementation,mosad123,Java 7,186,0
+5891500,88,1391480675,2147483647,B,1500,implementation,DiegoAE,Java 6,156,0
+5826486,88,1390923892,2147483647,A,1200,brute force-implementation,ahmedk,Java 6,186,2457600
+5822337,88,1390865948,2147483647,A,1200,brute force-implementation,abdelgany,Java 6,186,0
+5812648,88,1390740906,2147483647,A,1200,brute force-implementation,AhmedFathiCo,Java 6,154,0
+5812420,88,1390738641,2147483647,A,1200,brute force-implementation,alhosiny,Java 6,156,0
+5127786,88,1384633552,2147483647,B,1500,implementation,alibaba,Java 6,280,2252800
+5098692,88,1384443118,2147483647,A,1200,brute force-implementation,alibaba,Java 6,156,0
+4798565,88,1381857420,2147483647,A,1200,brute force-implementation,killua92zoldyck,Java 6,218,0
+4777259,88,1381685997,2147483647,E,2100,,mkirsche,Java 6,1278,48640000
+4641198,88,1380721575,2147483647,A,1200,brute force-implementation,Rabee,Java 7,156,0
+4564473,88,1380157497,2147483647,C,1500,implementation-math-number theory,vvenkai,Java 7,156,0
+4401620,88,1378217903,2147483647,A,1200,brute force-implementation,0p9o8i,Java 7,186,0
+4326447,88,1377200749,2147483647,C,1500,implementation-math-number theory,mkirsche,Java 6,186,0
+4322300,88,1377142525,2147483647,B,1500,implementation,nickbuelich,Java 7,218,0
+4301516,88,1376719403,2147483647,C,1500,implementation-math-number theory,nickbuelich,Java 7,186,0
+4287084,88,1376663032,2147483647,A,1200,brute force-implementation,dreamyyou,Java 7,186,0
+4287080,88,1376663017,2147483647,A,1200,brute force-implementation,vjudge4,Java 7,218,0
+4101276,88,1374186758,2147483647,B,1500,implementation,santjuan,Java 7,109,0
+4045985,88,1373452002,2147483647,A,1200,brute force-implementation,sonhuytran,Java 7,93,102400
+4033054,88,1373167918,2147483647,D,1900,implementation,DoublePointer,Java 6,125,307200
+4003425,88,1372774872,2147483647,A,1200,brute force-implementation,mkirsche,Java 6,93,2252800
+3933539,88,1371841598,2147483647,B,1500,implementation,mbassem91,Java 7,203,204800
+3759436,88,1369288642,4642,A,1200,brute force-implementation,debbas,Java 6,93,0
+3426671,88,1364724124,2147483647,A,1200,brute force-implementation,1Shreesh,Java 7,93,0
+3426645,88,1364723390,2147483647,A,1200,brute force-implementation,CurbStomp,Java 7,93,0
+3328858,88,1363503484,2147483647,A,1200,brute force-implementation,siddharthjain,Java 6,125,0
+3270317,88,1362842511,2147483647,B,1500,implementation,hs484,Java 6,109,0
+3131472,88,1360916671,2147483647,A,1200,brute force-implementation,eipie,Java 7,109,102400
+3131432,88,1360916165,2147483647,B,1500,implementation,eipie,Java 6,250,307200
+3131413,88,1360915916,2147483647,C,1500,implementation-math-number theory,eipie,Java 6,93,0
+3131398,88,1360915686,2147483647,D,1900,implementation,eipie,Java 6,109,2457600
+3006886,88,1359104194,2147483647,A,1200,brute force-implementation,maradona101112,Java 6,109,0
+2876852,88,1357454465,2147483647,A,1200,brute force-implementation,moatazshawky,Java 6,93,2355200
+2757246,88,1355389173,2147483647,A,1200,brute force-implementation,su_58,Java 6,109,0
+2757224,88,1355388615,2147483647,A,1200,brute force-implementation,su_58,Java 6,109,0
+2757000,88,1355384774,2147483647,A,1200,brute force-implementation,su_58,Java 6,109,0
+2153374,88,1347448160,4760,C,1500,implementation-math-number theory,Azat_Yusupov,Java 6,170,43315200
+2153289,88,1347446476,3076,B,1500,implementation,Azat_Yusupov,Java 6,160,43315200
+2153209,88,1347444859,1459,A,1200,brute force-implementation,Azat_Yusupov,Java 6,140,43315200
+1812896,88,1340313963,2147483647,B,1500,implementation,elizavetta,Java 6,160,43520000
+1812744,88,1340302541,2147483647,A,1200,brute force-implementation,elizavetta,Java 6,130,43212800
+1770095,88,1339097345,2147483647,B,1500,implementation,Ahmed_Salama,Java 6,250,43315200
+1745711,88,1338467642,2147483647,B,1500,implementation,jiangzhijie,Java 7,140,45056000
+1744978,88,1338462254,2147483647,A,1200,brute force-implementation,jiangzhijie,Java 7,110,44851200
+1432057,88,1332867586,2147483647,D,1900,implementation,unit7,Java 7,130,44953600
+1382855,88,1332276659,2147483647,B,1500,implementation,Venom,Java 6,130,43417600
+1382767,88,1332271959,4059,C,1500,implementation-math-number theory,Venom,Java 6,80,43110400
+1382682,88,1332269645,1745,A,1200,brute force-implementation,Venom,Java 6,80,43110400
+1309287,88,1331134830,2147483647,C,1500,implementation-math-number theory,lth,Java 6,90,43110400
+1028908,88,1326253012,2147483647,E,2100,,weiyecheng,Java 6,440,43110400
+1028210,88,1326205269,2147483647,C,1500,implementation-math-number theory,weiyecheng,Java 6,90,43212800
+994219,88,1325443219,2147483647,C,1500,implementation-math-number theory,originalFussywheat,Java 6,160,59392000
+989317,88,1325052132,2147483647,A,1200,brute force-implementation,ilovepink,Java 6,90,43212800
+972117,88,1324583565,2147483647,A,1200,brute force-implementation,stevenkplus,Java 6,110,43212800
+955939,88,1323927937,2147483647,B,1500,implementation,mostafa_fahim,Java 6,230,43315200
+950476,88,1323543500,16084700,A,1200,brute force-implementation,userlond,Java 6,130,43008000
+909535,88,1322511052,15052252,A,1200,brute force-implementation,pasha,Java 6,130,35328000
+891120,88,1322225733,14766933,B,1500,implementation,mancgupta,Java 6,190,43417600
+891112,88,1322225555,14766755,A,1200,brute force-implementation,mancgupta,Java 6,110,43212800
+888733,88,1322117423,14658623,B,1500,implementation,xiaowuc1,Java 6,220,43417600
+888502,88,1322104849,14646049,A,1200,brute force-implementation,xiaowuc1,Java 6,110,43110400
+885681,88,1321962830,14504030,B,1500,implementation,SharpBlade,Java 6,160,35225600
+885175,88,1321934904,14476104,E,2100,,islam-al-aarag,Java 6,700,43110400
+860792,88,1321126440,13667640,C,1500,implementation-math-number theory,Azat_Yusupov,Java 6,160,43110400
+837787,88,1320578512,13119712,B,1500,implementation,mancgupta,Java 6,200,43417600
+837221,88,1320533728,13074928,A,1200,brute force-implementation,mancgupta,Java 6,110,43008000
+823735,88,1320176338,12717538,A,1200,brute force-implementation,Izot_NNSTU,Java 6,130,43212800
+720717,88,1316814600,9355800,B,1500,implementation,evgeny11,Java 6,140,35328000
+720657,88,1316811582,9352782,A,1200,brute force-implementation,evgeny11,Java 6,130,35225600
+712806,88,1307464783,5983,B,1500,implementation,frank44,Java 6,280,35328000
+712745,88,1307460573,1773,A,1200,brute force-implementation,aquinas16,Java 6,130,35328000
+712744,88,1307460536,1736,A,1200,brute force-implementation,frank44,Java 6,130,35225600
+690731,88,1315818274,8359474,B,1500,implementation,dalex,Java 6,200,35840000
+668189,88,1315157203,7698403,C,1500,implementation-math-number theory,DoublePointer,Java 6,130,35328000
+656452,88,1314996968,7538168,C,1500,implementation-math-number theory,Dunaril,Java 6,160,35225600
+655189,88,1314912428,7453628,A,1200,brute force-implementation,djjoleM,Java 6,90,34918400
+611941,88,1313404892,5946092,A,1200,brute force-implementation,OmarSaber,Java 6,90,34918400
+611426,88,1313358845,5900045,B,1500,implementation,DoublePointer,Java 6,200,35225600
+610658,88,1313312300,5853500,A,1200,brute force-implementation,vjudge2,Java 6,110,35225600
+610631,88,1313310691,5851891,A,1200,brute force-implementation,vjudge4,Java 6,130,35225600
+610575,88,1313308350,5849550,A,1200,brute force-implementation,vjudge4,Java 6,130,35225600
+604908,88,1313231273,5772473,A,1200,brute force-implementation,Dunaril,Java 6,110,35225600
+576550,88,1312311950,4853150,D,1900,implementation,Nox,Java 6,140,43110400
+569731,88,1311958702,4499902,B,1500,implementation,Nox,Java 6,140,43212800
+564630,88,1311575186,4116386,A,1200,brute force-implementation,islam-al-aarag,Java 6,110,43008000
+564594,88,1311574314,4115514,D,1900,implementation,islam-al-aarag,Java 6,130,43008000
+564588,88,1311574161,4115361,C,1500,implementation-math-number theory,islam-al-aarag,Java 6,110,43008000
+551150,88,1311064919,3606119,E,2100,,Spacejoker,Java 6,390,34918400
+550576,88,1311004580,3545780,B,1500,implementation,Spacejoker,Java 6,130,43110400
+550559,88,1311003464,3544664,A,1200,brute force-implementation,Spacejoker,Java 6,110,43008000
+530442,88,1310033074,2574274,B,1500,implementation,bagedan,Java 6,140,35225600
+529686,88,1309946561,2487761,A,1200,brute force-implementation,dalex,Java 6,90,35430400
+513959,88,1309350502,1891702,A,1200,brute force-implementation,bagedan,Java 6,110,43008000
+513587,88,1309334330,1875530,A,1200,brute force-implementation,altais,Java 6,110,43008000
+510555,88,1309007222,1548422,A,1200,brute force-implementation,Sammarize,Java 6,110,43008000
+509824,88,1308934053,1475253,E,2100,,Hypuk,Java 6,610,43212800
+509822,88,1308933948,1475148,E,2100,,Hypuk,Java 6,640,43110400
+508343,88,1308792489,1333689,A,1200,brute force-implementation,DoublePointer,Java 6,110,43008000
+507739,88,1308748005,1289205,A,1200,brute force-implementation,Aries512,Java 6,90,43008000
+497415,88,1308427702,968902,B,1500,implementation,Rex,Java 6,140,35225600
+497095,88,1308403537,944737,A,1200,brute force-implementation,Rex,Java 6,90,43008000
+495255,88,1308288888,830088,B,1500,implementation,uwi,Java 6,220,43110400
+494668,88,1308252483,793683,A,1200,brute force-implementation,uwi,Java 6,110,43008000
+489005,88,1308233508,774708,B,1500,implementation,a100,Java 6,270,43110400
+488754,88,1308203828,745028,A,1200,brute force-implementation,darkl0rd,Java 6,110,43008000
+488120,88,1308138514,679714,B,1500,implementation,SkyFire,Java 6,140,43110400
+488100,88,1308137178,678378,A,1200,brute force-implementation,SkyFire,Java 6,90,34918400
+486378,88,1307894874,436074,D,1900,implementation,iamavalon,Java 6,140,35328000
+486350,88,1307891009,432209,C,1500,implementation-math-number theory,iamavalon,Java 6,130,35225600
+486251,88,1307875965,417165,B,1500,implementation,S.Yesipenko,Java 6,130,35328000
+486243,88,1307874951,416151,A,1200,brute force-implementation,S.Yesipenko,Java 6,90,34918400
+486056,88,1307855779,396979,B,1500,implementation,iamavalon,Java 6,200,35328000
+486047,88,1307855172,396372,B,1500,implementation,iamavalon,Java 6,190,35328000
+486034,88,1307853650,394850,A,1200,brute force-implementation,iamavalon,Java 6,110,35225600
+485789,88,1307818872,360072,B,1500,implementation,RAVEman,Java 6,200,35328000
+485782,88,1307818233,359433,A,1200,brute force-implementation,RAVEman,Java 6,110,35225600
+485251,88,1307735658,276858,D,1900,implementation,calculus.saransh,Java 6,110,35430400
+485239,88,1307734775,275975,C,1500,implementation-math-number theory,Kornacker,Java 6,330,35225600
+485221,88,1307732386,273586,A,1200,brute force-implementation,Kornacker,Java 6,130,35225600
+485219,88,1307731392,272592,B,1500,implementation,Kornacker,Java 6,250,35328000
+485037,88,1307717789,258989,E,2100,,rogerfgm,Java 6,110,34918400
+484515,88,1307667666,208866,B,1500,implementation,islam-al-aarag,Java 6,170,35225600
+484469,88,1307657467,198667,A,1200,brute force-implementation,apollo,Java 6,130,35225600
+484154,88,1307628656,169856,D,1900,implementation,rogerfgm,Java 6,170,35532800
+483649,88,1307571649,112849,B,1500,implementation,kiko91_7,Java 6,140,35225600
+483179,88,1307543276,84476,A,1200,brute force-implementation,minaFouad,Java 6,110,35225600
+483117,88,1307540241,81441,B,1500,implementation,pavel.savchenkov,Java 6,520,35328000
+483053,88,1307534359,75559,C,1500,implementation-math-number theory,pavel.savchenkov,Java 6,110,35225600
+482645,88,1307507475,48675,B,1500,implementation,tehqin,Java 6,190,43315200
+482634,88,1307506686,47886,B,1500,implementation,uisurumadushanka89,Java 6,1480,43315200
+482621,88,1307505937,47137,A,1200,brute force-implementation,tehqin,Java 6,110,43315200
+482534,88,1307501289,42489,A,1200,brute force-implementation,UESTC_Defense,Java 6,110,43315200
+482378,88,1307491089,32289,D,1900,implementation,tehqin,Java 6,130,43315200
+482376,88,1307490964,32164,C,1500,implementation-math-number theory,tehqin,Java 6,110,43315200
+482239,88,1307480797,21997,C,1500,implementation-math-number theory,grisaf,Java 6,230,43315200
+482204,88,1307478005,19205,B,1500,implementation,denys.astanin,Java 6,200,43315200
+482139,88,1307476084,17284,C,1500,implementation-math-number theory,denys.astanin,Java 6,110,43315200
+482115,88,1307475534,16734,A,1200,brute force-implementation,vitor.melo,Java 6,110,43315200
+482060,88,1307474527,15727,A,1200,brute force-implementation,Aries512,Java 6,90,43315200
+482009,88,1307473603,14803,C,1500,implementation-math-number theory,Wahba,Java 6,80,43315200
+481961,88,1307472576,13776,B,1500,implementation,flash36,Java 6,170,43724800
+481944,88,1307472302,13502,A,1200,brute force-implementation,Wahba,Java 6,90,43315200
+481932,88,1307472108,13308,B,1500,implementation,nise_nabe,Java 6,440,43417600
+481916,88,1307471928,13128,D,1900,implementation,Aries512,Java 6,110,43315200
+481888,88,1307471610,12810,D,1900,implementation,I_love_Malika,Java 6,130,43315200
+481852,88,1307470963,12163,A,1200,brute force-implementation,denys.astanin,Java 6,110,43315200
+481849,88,1307470941,12141,B,1500,implementation,I_love_Malika,Java 6,440,43315200
+481848,88,1307470918,12118,A,1200,brute force-implementation,Slamur,Java 6,90,43417600
+481802,88,1307470327,11527,A,1200,brute force-implementation,AMZDeCoder,Java 6,110,43315200
+481792,88,1307470240,11440,A,1200,brute force-implementation,Slamur,Java 6,110,43417600
+481760,88,1307469951,11151,B,1500,implementation,Aries512,Java 6,160,43315200
+481714,88,1307469605,10805,C,1500,implementation-math-number theory,Nox,Java 6,1500,192819200
+481702,88,1307469546,10746,A,1200,brute force-implementation,schmite,Java 6,80,43315200
+481681,88,1307469411,10611,B,1500,implementation,cyon,Java 6,250,43315200
+481540,88,1307468536,9736,B,1500,implementation,asamarin,Java 6,130,43315200
+481409,88,1307468223,9423,D,1900,implementation,mdldml,Java 6,110,43315200
+481395,88,1307468178,9378,C,1500,implementation-math-number theory,Aries512,Java 6,90,43315200
+481208,88,1307465955,7155,B,1500,implementation,marque,Java 6,160,43315200
+481194,88,1307465939,7139,C,1500,implementation-math-number theory,flash36,Java 6,110,43315200
+481167,88,1307465894,7094,C,1500,implementation-math-number theory,calculus.saransh,Java 6,170,43315200
+481112,88,1307465819,7019,B,1500,implementation,Aule,Java 6,300,43417600
+481066,88,1307465753,6953,C,1500,implementation-math-number theory,shankysodhi,Java 6,90,43315200
+480978,88,1307465631,6831,C,1500,implementation-math-number theory,Ahmed_Salama,Java 6,110,43315200
+480912,88,1307465521,6721,D,1900,implementation,lady_inceptum,Java 6,110,43315200
+480635,88,1307464973,6173,C,1500,implementation-math-number theory,kiko91_7,Java 6,130,43315200
+480498,88,1307464733,5933,E,2100,,calculus.saransh,Java 6,520,43315200
+480438,88,1307464621,5821,C,1500,implementation-math-number theory,I_love_Malika,Java 6,110,43315200
+480246,88,1307464301,5501,C,1500,implementation-math-number theory,Mostafa.Ali,Java 6,110,43315200
+480153,88,1307464125,5325,C,1500,implementation-math-number theory,Hypuk,Java 6,130,43315200
+480127,88,1307464058,5258,A,1200,brute force-implementation,piyush006,Java 6,90,43315200
+480122,88,1307464047,5247,B,1500,implementation,shankysodhi,Java 6,140,43315200
+480091,88,1307464003,5203,C,1500,implementation-math-number theory,bohuss,Java 6,90,43315200
+480084,88,1307463980,5180,D,1900,implementation,VehicleOfPuzzle,Java 6,140,43315200
+480045,88,1307463890,5090,C,1500,implementation-math-number theory,rogerfgm,Java 6,110,43315200
+479976,88,1307463775,4975,A,1200,brute force-implementation,Larx,Java 6,110,43315200
+479870,88,1307463603,4803,C,1500,implementation-math-number theory,mdldml,Java 6,90,43315200
+479812,88,1307463499,4699,C,1500,implementation-math-number theory,cyon,Java 6,130,43315200
+479743,88,1307463381,4581,C,1500,implementation-math-number theory,Aule,Java 6,1300,147763200
+479593,88,1307463102,4302,C,1500,implementation-math-number theory,marque,Java 6,80,43315200
+479558,88,1307463050,4250,A,1200,brute force-implementation,svm11,Java 6,110,43315200
+479474,88,1307462912,4112,B,1500,implementation,Mostafa.Ali,Java 6,160,43315200
+479451,88,1307462875,4075,C,1500,implementation-math-number theory,Slamur,Java 6,90,43417600
+479430,88,1307462819,4019,A,1200,brute force-implementation,lam,Java 6,110,43315200
+479368,88,1307462705,3905,D,1900,implementation,Hypuk,Java 6,90,43315200
+479357,88,1307462680,3880,D,1900,implementation,asamarin,Java 6,130,43315200
+479185,88,1307462389,3589,B,1500,implementation,calculus.saransh,Java 6,110,43315200
+479166,88,1307462365,3565,A,1200,brute force-implementation,bogdan.sumy.ua,Java 6,110,43315200
+479145,88,1307462311,3511,C,1500,implementation-math-number theory,VehicleOfPuzzle,Java 6,170,43315200
+479143,88,1307462307,3507,B,1500,implementation,MitRo,Java 6,220,43315200
+479129,88,1307462291,3491,C,1500,implementation-math-number theory,epizend,Java 6,140,43315200
+479014,88,1307462115,3315,B,1500,implementation,mdldml,Java 6,140,43315200
+478884,88,1307461909,3109,B,1500,implementation,rogerfgm,Java 6,1590,43315200
+478662,88,1307461572,2772,A,1200,brute force-implementation,GoodDok,Java 6,140,43315200
+478653,88,1307461552,2752,B,1500,implementation,Slamur,Java 6,160,43417600
+478620,88,1307461488,2688,B,1500,implementation,bohuss,Java 6,130,43315200
+478567,88,1307461398,2598,A,1200,brute force-implementation,uisurumadushanka89,Java 6,110,43315200
+478498,88,1307461262,2462,A,1200,brute force-implementation,Mostafa.Ali,Java 6,80,43315200
+478428,88,1307461159,2359,A,1200,brute force-implementation,nanikaka,Java 6,130,43315200
+478383,88,1307461078,2278,C,1500,implementation-math-number theory,Eugene_nik,Java 6,90,43315200
+478344,88,1307461035,2235,A,1200,brute force-implementation,GoomboCode,Java 6,110,43315200
+478284,88,1307460951,2151,A,1200,brute force-implementation,nickbuelich,Java 6,90,43315200
+478240,88,1307460893,2093,A,1200,brute force-implementation,shankysodhi,Java 6,110,43315200
+478210,88,1307460859,2059,B,1500,implementation,VehicleOfPuzzle,Java 6,190,43315200
+478111,88,1307460708,1908,B,1500,implementation,Hypuk,Java 6,110,43315200
+478074,88,1307460649,1849,A,1200,brute force-implementation,cyon,Java 6,110,43315200
+478056,88,1307460624,1824,B,1500,implementation,epizend,Java 6,220,43315200
+477996,88,1307460534,1734,A,1200,brute force-implementation,lady_inceptum,Java 6,110,43315200
+477976,88,1307460503,1703,A,1200,brute force-implementation,RosyIsh,Java 6,110,43315200
+477970,88,1307460496,1696,A,1200,brute force-implementation,Polaris,Java 6,110,43315200
+477930,88,1307460420,1620,A,1200,brute force-implementation,marque,Java 6,90,43315200
+477914,88,1307460390,1590,A,1200,brute force-implementation,mdldml,Java 6,110,43315200
+477909,88,1307460377,1577,A,1200,brute force-implementation,JavaLinkers,Java 6,130,43315200
+477904,88,1307460374,1574,A,1200,brute force-implementation,yasu0207,Java 6,130,43315200
+477903,88,1307460373,1573,A,1200,brute force-implementation,grisaf,Java 6,110,43315200
+477810,88,1307460236,1436,A,1200,brute force-implementation,MitRo,Java 6,110,43315200
+477789,88,1307460207,1407,A,1200,brute force-implementation,flash36,Java 6,90,43315200
+477769,88,1307460164,1364,A,1200,brute force-implementation,eipie,Java 6,110,43315200
+477746,88,1307460120,1320,A,1200,brute force-implementation,I_love_Malika,Java 6,110,43315200
+477735,88,1307460109,1309,A,1200,brute force-implementation,golyj_na_stole,Java 6,90,43315200
+477681,88,1307460025,1225,A,1200,brute force-implementation,Aule,Java 6,130,43315200
+477664,88,1307460007,1207,A,1200,brute force-implementation,kiko91_7,Java 6,110,43315200
+477661,88,1307460003,1203,A,1200,brute force-implementation,rogerfgm,Java 6,110,43315200
+477622,88,1307459946,1146,A,1200,brute force-implementation,johanhil,Java 6,110,43315200
+477620,88,1307459945,1145,A,1200,brute force-implementation,Eugene_nik,Java 6,90,43315200
+477580,88,1307459871,1071,A,1200,brute force-implementation,nise_nabe,Java 6,110,43315200
+477493,88,1307459748,948,A,1200,brute force-implementation,rexim,Java 6,110,43315200
+477458,88,1307459712,912,A,1200,brute force-implementation,calculus.saransh,Java 6,90,43315200
+477438,88,1307459687,887,A,1200,brute force-implementation,bohuss,Java 6,110,43315200
+477430,88,1307459655,855,A,1200,brute force-implementation,Aries512,Java 6,90,43315200
+477362,88,1307459540,740,A,1200,brute force-implementation,VehicleOfPuzzle,Java 6,110,43315200
+477356,88,1307459531,731,A,1200,brute force-implementation,Hypuk,Java 6,90,43315200
+477355,88,1307459531,731,A,1200,brute force-implementation,Ahmed_Salama,Java 6,110,43315200
+477295,88,1307459423,623,A,1200,brute force-implementation,Nox,Java 6,90,43315200
+477183,88,1307459127,327,A,1200,brute force-implementation,epizend,Java 6,140,43315200

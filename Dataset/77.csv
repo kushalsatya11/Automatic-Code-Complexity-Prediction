@@ -1,0 +1,260 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+54735915,77,1559019308,2147483647,B,1800,math-probabilities,amolpratap007,Java 8,372,0
+54073359,77,1557769981,2147483647,B,1800,math-probabilities,khokharnikunj8,Java 8,310,0
+52754331,77,1555257157,2147483647,A,1600,brute force-implementation,Verdusk,Java 8,310,0
+51910973,77,1553710169,2147483647,B,1800,math-probabilities,saurabh0611,Java 8,372,0
+51312834,77,1552596078,2147483647,A,1600,brute force-implementation,mandark27,Java 8,280,0
+49444243,77,1549241900,2147483647,B,1800,math-probabilities,AJ47,Java 8,278,0
+47823433,77,1546371773,2147483647,A,1600,brute force-implementation,adityagupta1089,Java 8,374,0
+46779908,77,1544317086,2147483647,B,1800,math-probabilities,Kharouba,Java 8,248,0
+43711031,77,1538538072,2147483647,B,1800,math-probabilities,sturdyplum,Java 8,342,0
+43374575,77,1537804736,2147483647,B,1800,math-probabilities,wrong_lemma,Java 8,280,0
+42354628,77,1535874845,2147483647,B,1800,math-probabilities,KulikAlex,Java 8,312,0
+42129227,77,1535303898,2147483647,B,1800,math-probabilities,ankurdua15,Java 8,312,0
+41535711,77,1534095448,2147483647,B,1800,math-probabilities,IDzekh,Java 8,312,0
+41117121,77,1533202867,2147483647,B,1800,math-probabilities,spar5h,Java 8,312,0
+39388998,77,1529351461,2147483647,A,1600,brute force-implementation,KulikAlex,Java 8,342,0
+39011427,77,1528356049,2147483647,B,1800,math-probabilities,dipankar12,Java 8,342,0
+38644754,77,1527379222,2147483647,B,1800,math-probabilities,Mazen_Tarek,Java 8,466,0
+38597462,77,1527200834,2147483647,B,1800,math-probabilities,Noureldin,Java 8,590,0
+38589155,77,1527171262,2147483647,B,1800,math-probabilities,rahulDugar,Java 8,342,0
+38404867,77,1526657935,2147483647,B,1800,math-probabilities,Minaa,Java 8,312,0
+37792500,77,1525162476,2147483647,B,1800,math-probabilities,Y-R,Java 8,746,22528000
+36452959,77,1521633596,2147483647,B,1800,math-probabilities,guptautkarsh028,Java 8,372,21094400
+36395123,77,1521390456,2147483647,A,1600,brute force-implementation,ShafinKhadem,Java 8,278,20684800
+35502014,77,1519066988,2147483647,A,1600,brute force-implementation,parth_15,Java 8,498,21606400
+32751853,77,1511876103,2147483647,B,1800,math-probabilities,vjudge3,Java 8,966,22220800
+28391569,77,1499620416,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,catchup,Java 8,1464,122265600
+27981548,77,1498210336,2147483647,A,1600,brute force-implementation,tomdmitriev,Java 8,248,20582400
+23524124,77,1483475585,2147483647,E,2700,geometry,Chapecoense,Java 8,295,21913600
+23506522,77,1483390831,2147483647,D,2300,dp-implementation,Chapecoense,Java 8,280,20582400
+23505813,77,1483387236,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,Chapecoense,Java 8,966,92672000
+23476903,77,1483231370,2147483647,B,1800,math-probabilities,Chapecoense,Java 8,592,21811200
+23476758,77,1483229683,2147483647,A,1600,brute force-implementation,Chapecoense,Java 8,590,21606400
+21622162,77,1476978642,2147483647,B,1800,math-probabilities,isomurodov,Java 8,716,0
+20999912,77,1475171741,2147483647,B,1800,math-probabilities,pitfall,Java 8,310,0
+20738737,77,1474213167,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,Ahmad_Elsagheer,Java 8,810,32972800
+19836453,77,1471032839,2147483647,B,1800,math-probabilities,Ahmad_Elsagheer,Java 8,280,20889600
+19651902,77,1470401438,2147483647,B,1800,math-probabilities,Corvus,Java 8,498,20992000
+18245096,77,1465051356,2147483647,A,1600,brute force-implementation,Corvus,Java 8,278,22528000
+16800451,77,1458359226,2147483647,A,1600,brute force-implementation,xiaowuc1,Java 7,248,0
+16023204,77,1455478462,2147483647,A,1600,brute force-implementation,Mohamed_AboBakr,Java 8,310,0
+14847377,77,1450363678,2147483647,B,1800,math-probabilities,p1p13,Java 8,278,0
+14697390,77,1449575719,2147483647,B,1800,math-probabilities,_Phantom_,Java 8,310,0
+14561298,77,1448818756,2147483647,B,1800,math-probabilities,AlexFetisov,Java 8,310,0
+13335798,77,1443730124,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,Azat_Yusupov,Java 7,966,90419200
+12241216,77,1438003743,2147483647,B,1800,math-probabilities,egaeus,Java 7,248,614400
+12201018,77,1437658229,2147483647,A,1600,brute force-implementation,egaeus,Java 7,186,0
+11086563,77,1431506371,2147483647,A,1600,brute force-implementation,zlowred,Java 8,404,0
+10453513,77,1427336714,2147483647,B,1800,math-probabilities,mkirsche,Java 7,466,0
+9088775,77,1418375454,2147483647,A,1600,brute force-implementation,saichandu6,Java 8,280,0
+9088543,77,1418373253,2147483647,A,1600,brute force-implementation,saichandu6,Java 8,278,0
+8839983,77,1416858420,2147483647,A,1600,brute force-implementation,alibaba,Java 7,342,102400
+8809438,77,1416727522,2147483647,A,1600,brute force-implementation,AlexFetisov,Java 8,312,512000
+8632843,77,1415638653,5253,A,1600,brute force-implementation,baba26,Java 7,186,0
+8632489,77,1415635577,2177,B,1800,math-probabilities,baba26,Java 7,436,1126400
+8608890,77,1415386171,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,AlexFetisov,Java 8,2090,8601600
+7225545,77,1406218827,2147483647,E,2700,geometry,owenomar,Java 7,310,409600
+7053713,77,1404915944,2147483647,D,2300,dp-implementation,owenomar,Java 7,216,102400
+6961033,77,1403755280,2147483647,B,1800,math-probabilities,marcose18,Java 7,622,512000
+6384868,77,1397742008,2147483647,D,2300,dp-implementation,alexey.kasatkin,Java 7,216,0
+6381539,77,1397697852,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,alexey.kasatkin,Java 7,716,26419200
+6380639,77,1397674026,2147483647,B,1800,math-probabilities,alexey.kasatkin,Java 7,374,409600
+6380429,77,1397670291,3591,A,1600,brute force-implementation,alexey.kasatkin,Java 7,186,0
+5889710,77,1391457680,2147483647,B,1800,math-probabilities,nickbuelich,Java 7,186,307200
+5889694,77,1391457632,2147483647,A,1600,brute force-implementation,nickbuelich,Java 7,186,204800
+5867131,77,1391324284,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,atubo,Java 6,2090,53248000
+5766299,77,1390325559,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,alibaba,Java 6,902,67993600
+5741194,77,1390144057,2147483647,D,2300,dp-implementation,hama-du,Java 7,186,102400
+5740720,77,1390139665,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,hama-du,Java 7,686,28876800
+5232133,77,1385344819,2147483647,B,1800,math-probabilities,vvenkai,Java 7,280,512000
+5120635,77,1384535377,2147483647,B,1800,math-probabilities,alibaba,Java 6,560,4710400
+4384798,77,1377907511,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,DoublePointer,Java 7,842,79155200
+4326830,77,1377210575,2147483647,B,1800,math-probabilities,nickbuelich,Java 7,218,307200
+4321440,77,1377115220,2147483647,A,1600,brute force-implementation,jcomputer000,Java 6,186,102400
+4321383,77,1377113583,2147483647,A,1600,brute force-implementation,nickbuelich,Java 7,186,102400
+4285177,77,1376631653,2147483647,B,1800,math-probabilities,gcd_fuck,Java 6,248,409600
+4215633,77,1375422942,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,trunghieu11,Java 7,280,9523200
+4207681,77,1375254305,2147483647,A,1600,brute force-implementation,trunghieu11,Java 7,186,0
+3782641,77,1369638423,2147483647,D,2300,dp-implementation,vjudge1,Java 7,140,204800
+3725673,77,1368677742,2147483647,B,1800,math-probabilities,santjuan,Java 7,171,409600
+3725601,77,1368675025,2147483647,B,1800,math-probabilities,santjuan,Java 7,202,409600
+3470895,77,1365026830,2147483647,B,1800,math-probabilities,MOSJAVA,Java 7,125,512000
+3470879,77,1365026184,2147483647,B,1800,math-probabilities,MOSJAVA,Java 7,218,512000
+3402119,77,1364176211,2147483647,C,2300,dfs and similar-dp-dsu-greedy-trees,xiaowuc1,Java 6,843,73420800
+3270398,77,1362844468,2147483647,A,1600,brute force-implementation,hs484,Java 6,93,0
+2854566,77,1356801249,5109,D,2300,dp-implementation,niyaznigmatul,Java 7,250,512000
+2854491,77,1356799645,3505,C,2300,dfs and similar-dp-dsu-greedy-trees,niyaznigmatul,Java 7,249,10752000
+2854421,77,1356798132,1992,B,1800,math-probabilities,niyaznigmatul,Java 7,109,409600
+2854349,77,1356796783,643,A,1600,brute force-implementation,niyaznigmatul,Java 7,78,102400
+2680545,77,1354281913,2147483647,E,2700,geometry,vjudge3,Java 7,187,409600
+1950193,77,1343576286,2147483647,B,1800,math-probabilities,Ahmed.Ibrahem,Java 6,340,43724800
+1810059,77,1340098427,2147483647,B,1800,math-probabilities,jiangzhijie,Java 7,190,45363200
+1810047,77,1340097556,2147483647,A,1600,brute force-implementation,jiangzhijie,Java 7,140,44851200
+1157536,77,1328702992,5572,B,1800,math-probabilities,gsomix,Java 6,280,43724800
+995648,77,1325588366,2147483647,A,1600,brute force-implementation,Azat_Yusupov,Java 6,130,43417600
+995644,77,1325588279,2147483647,B,1800,math-probabilities,Azat_Yusupov,Java 6,200,43520000
+935973,77,1323361715,20135615,A,1600,brute force-implementation,mostafa_fahim,Java 6,170,35328000
+888638,77,1322111082,18884982,B,1800,math-probabilities,xiaowuc1,Java 6,190,35532800
+879351,77,1321716087,18489987,B,1800,math-probabilities,goodsky,Java 6,250,43622400
+878367,77,1321668192,18442092,B,1800,math-probabilities,Navigabimus,Java 6,520,43212800
+878259,77,1321657400,18431300,C,2300,dfs and similar-dp-dsu-greedy-trees,Navigabimus,Java 6,1590,65433600
+877739,77,1321632484,18406384,B,1800,math-probabilities,mancgupta,Java 6,270,43417600
+876658,77,1321569913,18343813,B,1800,math-probabilities,sbatten,Java 6,310,35635200
+876595,77,1321563872,18337772,A,1600,brute force-implementation,sbatten,Java 6,140,43212800
+876588,77,1321562920,18336820,A,1600,brute force-implementation,goodsky,Java 6,160,43212800
+876576,77,1321562350,18336250,A,1600,brute force-implementation,Navigabimus,Java 6,140,43110400
+841166,77,1320747957,17521857,B,1800,math-probabilities,kiko91_7,Java 6,390,36147200
+790285,77,1319278968,16052868,C,2300,dfs and similar-dp-dsu-greedy-trees,SmirnovBoris,Java 6,750,105984000
+754784,77,1303227532,1432,A,1600,brute force-implementation,trogloditas,Java 6,110,35328000
+711112,77,1316630973,13404873,A,1600,brute force-implementation,kiko91_7,Java 6,140,35328000
+710294,77,1316570951,13344851,A,1600,brute force-implementation,Ahmed_Salama,Java 6,140,35328000
+709095,77,1316472248,13246148,B,1800,math-probabilities,_jte_,Java 6,390,36044800
+709026,77,1316461782,13235682,D,2300,dp-implementation,mostafa_fahim,Java 6,280,36147200
+707880,77,1316372315,13146215,C,2300,dfs and similar-dp-dsu-greedy-trees,mostafa_fahim,Java 6,390,65638400
+707690,77,1316358624,13132524,D,2300,dp-implementation,anhdt,Java 6,140,35328000
+707660,77,1316356117,13130017,B,1800,math-probabilities,mostafa_fahim,Java 6,300,35635200
+707424,77,1316345133,13119033,B,1800,math-probabilities,Mostafa.Ali,Java 6,270,35635200
+707326,77,1316337887,13111787,A,1600,brute force-implementation,Mostafa.Ali,Java 6,110,35225600
+638339,77,1314316095,11089995,A,1600,brute force-implementation,Satayev,Java 6,110,35225600
+625540,77,1314000202,10774102,A,1600,brute force-implementation,tehqin,Java 6,190,35737600
+610496,77,1313304416,10078316,B,1800,math-probabilities,Ahmed_Salama,Java 6,270,35635200
+588800,77,1312692048,9465948,A,1600,brute force-implementation,DoublePointer,Java 6,130,43110400
+569607,77,1311951305,8725205,B,1800,math-probabilities,Nox,Java 6,160,35430400
+550994,77,1311049078,7822978,C,2300,dfs and similar-dp-dsu-greedy-trees,islam-al-aarag,Java 6,810,59392000
+544941,77,1310625033,7398933,B,1800,math-probabilities,islam-al-aarag,Java 6,410,35737600
+544940,77,1310625011,7398911,A,1600,brute force-implementation,islam-al-aarag,Java 6,90,34918400
+526542,77,1309665745,6439645,B,1800,math-probabilities,DoublePointer,Java 6,280,35635200
+471844,77,1306620299,3394199,B,1800,math-probabilities,ostrovski.alex,Java 6,520,43724800
+471837,77,1306617640,3391540,D,2300,dp-implementation,ostrovski.alex,Java 6,220,43315200
+471818,77,1306613230,3387130,E,2700,geometry,ostrovski.alex,Java 6,560,43929600
+469472,77,1306265394,3039294,D,2300,dp-implementation,hydrastuff,Java 6,200,35123200
+468056,77,1306111661,2885561,B,1800,math-probabilities,Sammarize,Java 6,230,35635200
+422605,77,1304393460,1167360,B,1800,math-probabilities,z-ghost,Java 6,520,43724800
+421283,77,1304258456,1032356,B,1800,math-probabilities,Atef,Java 6,330,43622400
+419057,77,1304181473,955373,A,1600,brute force-implementation,Atef,Java 6,90,43315200
+413670,77,1303962536,736436,A,1600,brute force-implementation,Tsubosaka,Java 6,110,43315200
+413656,77,1303961758,735658,A,1600,brute force-implementation,Tsubosaka,Java 6,130,43315200
+408656,77,1303913440,687340,B,1800,math-probabilities,dalex,Java 6,220,43827200
+408655,77,1303913386,687286,A,1600,brute force-implementation,dalex,Java 6,90,43315200
+406940,77,1303640940,414840,D,2300,dp-implementation,sayuan,Java 6,140,43315200
+406908,77,1303636707,410607,D,2300,dp-implementation,S.Yesipenko,Java 6,190,43417600
+406890,77,1303633683,407583,E,2700,geometry,S.Yesipenko,Java 6,190,43520000
+406752,77,1303603214,377114,B,1800,math-probabilities,adavydow,Java 6,140,43622400
+406333,77,1303561825,335725,D,2300,dp-implementation,rajatag12,Java 6,130,43417600
+406150,77,1303545009,318909,C,2300,dfs and similar-dp-dsu-greedy-trees,anhdt,Java 6,580,102297600
+406120,77,1303541267,315167,C,2300,dfs and similar-dp-dsu-greedy-trees,sayuan,Java 6,660,112844800
+405862,77,1303502590,276490,D,2300,dp-implementation,svilen,Java 6,220,43315200
+405795,77,1303495581,269481,B,1800,math-probabilities,svilen,Java 6,380,43724800
+405794,77,1303495524,269424,A,1600,brute force-implementation,svilen,Java 6,130,43315200
+405790,77,1303495328,269228,C,2300,dfs and similar-dp-dsu-greedy-trees,svilen,Java 6,1230,64512000
+405747,77,1303491595,265495,A,1600,brute force-implementation,Slamur,Java 6,110,43417600
+405408,77,1303469478,243378,C,2300,dfs and similar-dp-dsu-greedy-trees,yaro,Java 6,420,68710400
+405405,77,1303468882,242782,C,2300,dfs and similar-dp-dsu-greedy-trees,yaro,Java 6,420,62259200
+405219,77,1303442196,216096,C,2300,dfs and similar-dp-dsu-greedy-trees,rajatag12,Java 6,550,56422400
+405218,77,1303442185,216085,B,1800,math-probabilities,rajatag12,Java 6,170,43417600
+405217,77,1303442171,216071,A,1600,brute force-implementation,rajatag12,Java 6,130,43315200
+405010,77,1303412069,185969,B,1800,math-probabilities,flash36,Java 6,250,43520000
+404687,77,1303395033,168933,B,1800,math-probabilities,mdonaj,Java 6,170,43417600
+404686,77,1303395008,168908,A,1600,brute force-implementation,mdonaj,Java 6,90,43315200
+403933,77,1303320369,94269,C,2300,dfs and similar-dp-dsu-greedy-trees,Kandyman,Java 6,980,115712000
+403874,77,1303316955,90855,C,2300,dfs and similar-dp-dsu-greedy-trees,SkorKNURE,Java 6,470,60518400
+403801,77,1303313862,87762,B,1800,math-probabilities,rogerfgm,Java 6,270,43520000
+403766,77,1303312071,85971,E,2700,geometry,madkite,Java 6,300,43622400
+403737,77,1303310709,84609,C,2300,dfs and similar-dp-dsu-greedy-trees,madkite,Java 6,390,55091200
+403713,77,1303309663,83563,D,2300,dp-implementation,Di735,Java 6,250,43315200
+403575,77,1303304696,78596,A,1600,brute force-implementation,rogerfgm,Java 6,220,44134400
+403562,77,1303304170,78070,C,2300,dfs and similar-dp-dsu-greedy-trees,Sergey.Bankevich,Java 6,950,109977600
+403555,77,1303303887,77787,B,1800,math-probabilities,wangzhihao,Java 6,530,44032000
+403536,77,1303302922,76822,A,1600,brute force-implementation,madkite,Java 6,140,43417600
+403164,77,1303284365,58265,E,2700,geometry,alexey.enkov,Java 6,330,43929600
+403151,77,1303283802,57702,D,2300,dp-implementation,alexey.enkov,Java 6,140,43417600
+402965,77,1303271670,45570,B,1800,math-probabilities,sayuan,Java 6,140,43417600
+402908,77,1303265853,39753,B,1800,math-probabilities,calculus.saransh,Java 6,130,43417600
+402848,77,1303260893,34793,B,1800,math-probabilities,wangzhihao,Java 6,520,44032000
+402501,77,1303244186,18086,B,1800,math-probabilities,GoomboCode,Java 6,190,35635200
+402484,77,1303243955,17855,C,2300,dfs and similar-dp-dsu-greedy-trees,uwi,Java 6,640,41369600
+402328,77,1303241392,15292,B,1800,math-probabilities,SergeyLazarev,Java 6,230,35737600
+402104,77,1303239505,13405,B,1800,math-probabilities,yarrr,Java 6,90,43315200
+402087,77,1303239417,13317,B,1800,math-probabilities,hydrastuff,Java 6,230,35737600
+402078,77,1303239389,13289,D,2300,dp-implementation,SpookyCookie,Java 6,130,35532800
+402009,77,1303239099,12999,E,2700,geometry,yaro,Java 6,300,43622400
+401966,77,1303238775,12675,C,2300,dfs and similar-dp-dsu-greedy-trees,Di735,Java 6,500,81817600
+401948,77,1303238707,12607,D,2300,dp-implementation,uwi,Java 6,220,43315200
+401892,77,1303238121,12021,A,1600,brute force-implementation,rexim,Java 6,90,43315200
+401876,77,1303237906,11806,C,2300,dfs and similar-dp-dsu-greedy-trees,hydrastuff,Java 6,270,58265600
+401748,77,1303233210,7110,C,2300,dfs and similar-dp-dsu-greedy-trees,SergeyLazarev,Java 6,420,62873600
+401449,77,1303232764,6664,E,2700,geometry,ivan.popelyshev,Java 6,230,44032000
+401423,77,1303232715,6615,C,2300,dfs and similar-dp-dsu-greedy-trees,OgieKako,Java 6,480,72499200
+401371,77,1303232633,6533,C,2300,dfs and similar-dp-dsu-greedy-trees,S.Yesipenko,Java 6,270,50380800
+401296,77,1303232532,6432,B,1800,math-probabilities,shevchen,Java 6,300,43724800
+401204,77,1303232372,6272,C,2300,dfs and similar-dp-dsu-greedy-trees,shevchen,Java 6,1560,125440000
+401173,77,1303232319,6219,C,2300,dfs and similar-dp-dsu-greedy-trees,dened,Java 6,1280,68608000
+401168,77,1303232309,6209,A,1600,brute force-implementation,air,Java 6,130,43315200
+401068,77,1303232116,6016,D,2300,dp-implementation,ivan.popelyshev,Java 6,170,43315200
+401054,77,1303232089,5989,B,1800,math-probabilities,Kandyman,Java 6,280,43622400
+401011,77,1303232018,5918,D,2300,dp-implementation,Egor,Java 6,200,43315200
+400847,77,1303231732,5632,D,2300,dp-implementation,mmaxio,Java 6,140,43315200
+400805,77,1303231650,5550,A,1600,brute force-implementation,madkite,Java 6,200,43417600
+400523,77,1303231125,5025,B,1800,math-probabilities,yarrr,Java 6,110,43315200
+400497,77,1303231088,4988,E,2700,geometry,Sergey.Bankevich,Java 6,200,43622400
+400474,77,1303231060,4960,D,2300,dp-implementation,yaro,Java 6,170,43622400
+400368,77,1303230904,4804,B,1800,math-probabilities,piotr.kukla,Java 6,190,43929600
+400286,77,1303230770,4670,D,2300,dp-implementation,OgieKako,Java 6,300,43315200
+400216,77,1303230661,4561,B,1800,math-probabilities,mdldml,Java 6,160,43417600
+400202,77,1303230631,4531,C,2300,dfs and similar-dp-dsu-greedy-trees,alexey.enkov,Java 6,330,53350400
+400165,77,1303230564,4464,C,2300,dfs and similar-dp-dsu-greedy-trees,SpookyCookie,Java 6,270,55398400
+399924,77,1303230184,4084,C,2300,dfs and similar-dp-dsu-greedy-trees,Jonick,Java 6,630,120217600
+399746,77,1303229904,3804,B,1800,math-probabilities,dalex,Java 6,250,43827200
+399725,77,1303229874,3774,B,1800,math-probabilities,S.Yesipenko,Java 6,130,43520000
+399644,77,1303229758,3658,B,1800,math-probabilities,anhdt,Java 6,140,43417600
+399590,77,1303229701,3601,B,1800,math-probabilities,Di735,Java 6,300,43827200
+399536,77,1303229596,3496,C,2300,dfs and similar-dp-dsu-greedy-trees,ivan.popelyshev,Java 6,410,54067200
+399495,77,1303229527,3427,A,1600,brute force-implementation,z-ghost,Java 6,300,43724800
+399439,77,1303229440,3340,A,1600,brute force-implementation,wangzhihao,Java 6,110,43417600
+399436,77,1303229437,3337,B,1800,math-probabilities,kozima,Java 6,230,43520000
+399305,77,1303229246,3146,B,1800,math-probabilities,Duc,Java 6,360,43315200
+399202,77,1303229099,2999,B,1800,math-probabilities,uwi,Java 6,200,43315200
+399166,77,1303229038,2938,B,1800,math-probabilities,madkite,Java 6,230,43520000
+399123,77,1303228985,2885,A,1600,brute force-implementation,timmy,Java 6,130,43315200
+399015,77,1303228849,2749,A,1600,brute force-implementation,Di735,Java 6,90,43315200
+398987,77,1303228804,2704,A,1600,brute force-implementation,kozima,Java 6,110,43315200
+398953,77,1303228759,2659,B,1800,math-probabilities,Jonick,Java 6,220,44544000
+398933,77,1303228745,2645,A,1600,brute force-implementation,pius_88,Java 6,130,43520000
+398882,77,1303228688,2588,A,1600,brute force-implementation,piotr.kukla,Java 6,90,43315200
+398713,77,1303228470,2370,A,1600,brute force-implementation,dened,Java 6,160,43315200
+398649,77,1303228399,2299,B,1800,math-probabilities,yaro,Java 6,190,43622400
+398628,77,1303228376,2276,A,1600,brute force-implementation,mmaxio,Java 6,90,43315200
+398625,77,1303228374,2274,B,1800,math-probabilities,lordklotski,Java 6,270,43520000
+398621,77,1303228368,2268,A,1600,brute force-implementation,OgieKako,Java 6,90,43315200
+398597,77,1303228334,2234,B,1800,math-probabilities,SpookyCookie,Java 6,200,43417600
+398590,77,1303228320,2220,A,1600,brute force-implementation,calculus.saransh,Java 6,90,43315200
+398413,77,1303228127,2027,A,1600,brute force-implementation,adavydow,Java 6,80,43315200
+398298,77,1303227967,1867,A,1600,brute force-implementation,RosyIsh,Java 6,130,43315200
+398288,77,1303227958,1858,A,1600,brute force-implementation,anhdt,Java 6,110,43315200
+398176,77,1303227838,1738,A,1600,brute force-implementation,sayuan,Java 6,90,43315200
+398104,77,1303227759,1659,B,1800,math-probabilities,Sergey.Bankevich,Java 6,160,35635200
+398044,77,1303227693,1593,A,1600,brute force-implementation,Kandyman,Java 6,110,43315200
+398031,77,1303227678,1578,B,1800,math-probabilities,Egor,Java 6,230,43622400
+397988,77,1303227630,1530,A,1600,brute force-implementation,yarrr,Java 6,110,43315200
+397960,77,1303227604,1504,B,1800,math-probabilities,ktuan,Java 6,300,43724800
+397948,77,1303227590,1490,A,1600,brute force-implementation,Duc,Java 6,90,43315200
+397929,77,1303227573,1473,B,1800,math-probabilities,alexey.enkov,Java 6,310,43827200
+397924,77,1303227571,1471,B,1800,math-probabilities,mmaxio,Java 6,270,43315200
+397810,77,1303227492,1392,A,1600,brute force-implementation,dmitry.uvarov,Java 6,90,43315200
+397710,77,1303227400,1300,A,1600,brute force-implementation,shevchen,Java 6,110,43315200
+397634,77,1303227317,1217,A,1600,brute force-implementation,mdldml,Java 6,90,43315200
+397623,77,1303227309,1209,A,1600,brute force-implementation,Jonick,Java 6,110,43315200
+397604,77,1303227292,1192,A,1600,brute force-implementation,lordklotski,Java 6,130,43315200
+397518,77,1303227206,1106,A,1600,brute force-implementation,SergeyLazarev,Java 6,90,43315200
+397440,77,1303227133,1033,B,1800,math-probabilities,OgieKako,Java 6,200,43417600
+397434,77,1303227127,1027,A,1600,brute force-implementation,SpookyCookie,Java 6,130,43315200
+397406,77,1303227104,1004,A,1600,brute force-implementation,uwi,Java 6,110,43315200
+397294,77,1303226997,897,A,1600,brute force-implementation,hydrastuff,Java 6,90,43315200
+397254,77,1303226967,867,A,1600,brute force-implementation,Egor,Java 6,80,43315200
+397249,77,1303226965,865,A,1600,brute force-implementation,S.Yesipenko,Java 6,90,43315200
+397234,77,1303226933,833,A,1600,brute force-implementation,Sergey.Bankevich,Java 6,130,43315200
+397217,77,1303226921,821,A,1600,brute force-implementation,ktuan,Java 6,80,43315200
+397203,77,1303226906,806,A,1600,brute force-implementation,yaro,Java 6,90,43315200
+397140,77,1303226835,735,A,1600,brute force-implementation,ivan.popelyshev,Java 6,90,43315200
+397087,77,1303226785,685,A,1600,brute force-implementation,alexey.enkov,Java 6,90,43315200

@@ -1,0 +1,281 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57555401,128,1563823547,2147483647,A,1500,dfs and similar,adeepgarg13,Java 8,218,0
+57476923,128,1563748696,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Ahmed_Diab,Java 8,810,60006400
+57359481,128,1563607100,2147483647,A,1500,dfs and similar,thisbeit,Java 8,248,0
+57105368,128,1563203239,2147483647,A,1500,dfs and similar,o.radwan,Java 8,248,0
+56753137,128,1562676300,2147483647,C,2100,combinatorics-dp,nkko.l,Java 8,140,4300800
+56169979,128,1561651365,2147483647,C,2100,combinatorics-dp,mennafadali,Java 8,140,4915200
+54507103,128,1558586943,2147483647,C,2100,combinatorics-dp,dalt,Java 8,1606,0
+52658917,128,1555101962,2147483647,A,1500,dfs and similar,manubhai8876,Java 8,248,0
+49940344,128,1550222379,2147483647,D,2000,constructive algorithms-implementation,xodiac,Java 8,280,0
+49918524,128,1550165662,2147483647,C,2100,combinatorics-dp,xodiac,Java 8,156,0
+49918494,128,1550165617,2147483647,C,2100,combinatorics-dp,xodiac,Java 8,156,0
+48320463,128,1547369960,2147483647,C,2100,combinatorics-dp,spar5h,Java 8,109,0
+48168536,128,1547094451,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Ahmad,Java 8,404,5632000
+47530332,128,1545849199,2147483647,A,1500,dfs and similar,msagimbekov,Java 8,218,0
+47524383,128,1545836409,2147483647,A,1500,dfs and similar,kunal725725,Java 8,248,0
+46571036,128,1543902418,2147483647,C,2100,combinatorics-dp,ankurdua15,Java 8,124,0
+46531398,128,1543816034,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,BiIIy,Java 8,434,46694400
+44362661,128,1539616510,2147483647,A,1500,dfs and similar,S_Mostafa_A,Java 8,218,0
+43660637,128,1538420899,2147483647,C,2100,combinatorics-dp,qpalzmwoskxn,Java 8,140,4608000
+42900125,128,1537035824,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,KulikAlex,Java 8,342,0
+42899610,128,1537034472,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,KulikAlex,Java 8,340,0
+42550040,128,1536233491,2147483647,C,2100,combinatorics-dp,aabdelzaher,Java 8,202,16281600
+41530673,128,1534083547,2147483647,C,2100,combinatorics-dp,zeyad_khattab,Java 8,186,38809600
+40525885,128,1531945844,2147483647,A,1500,dfs and similar,mustafa11,Java 8,310,0
+40115868,128,1531146920,2147483647,C,2100,combinatorics-dp,Nesrin,Java 8,171,4403200
+39527045,128,1529697873,2147483647,A,1500,dfs and similar,KulikAlex,Java 8,280,0
+39280297,128,1529129976,2147483647,C,2100,combinatorics-dp,rahulDugar,Java 8,124,0
+39199286,128,1528829105,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,dipankar12,Java 8,1778,43110400
+39144767,128,1528716806,2147483647,D,2000,constructive algorithms-implementation,bluesky111,Java 8,312,2048000
+39044545,128,1528457819,2147483647,C,2100,combinatorics-dp,Hoda_Hisham,Java 8,124,0
+39015545,128,1528366257,2147483647,D,2000,constructive algorithms-implementation,Slamur,Java 8,310,2355200
+38975026,128,1528218880,2147483647,C,2100,combinatorics-dp,mariem_kandil,Java 8,124,20377600
+38823569,128,1527845140,2147483647,C,2100,combinatorics-dp,Med0b1011,Java 8,202,60620800
+38795667,128,1527757430,2147483647,D,2000,constructive algorithms-implementation,rahulDugar,Java 8,466,21299200
+36726219,128,1522340109,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,nm21,Java 8,934,131174400
+35914935,128,1520155775,2147483647,A,1500,dfs and similar,ViciousCoder,Java 8,248,20684800
+34085515,128,1515666226,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,aminul,Java 8,530,28569600
+31920816,128,1509452748,2147483647,C,2100,combinatorics-dp,Imaginary,Java 8,124,17100800
+31833371,128,1509188937,2147483647,C,2100,combinatorics-dp,admiral_1995,Java 8,124,4608000
+31540321,128,1508517763,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,tomdmitriev,Java 8,530,72396800
+30926325,128,1506895655,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,RP_9,Java 8,498,8499200
+29512596,128,1502910900,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,AJ_Coder,Java 8,1994,43008000
+29374756,128,1502533388,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,AJ_Coder,Java 8,1714,65740800
+28372159,128,1499527391,2147483647,A,1500,dfs and similar,mostafalabib65,Java 8,310,21299200
+28323972,128,1499337486,2147483647,A,1500,dfs and similar,mahmoudg0,Java 8,404,20889600
+27015157,128,1494512325,2147483647,A,1500,dfs and similar,kunalk,Java 8,248,0
+26994758,128,1494415717,2147483647,C,2100,combinatorics-dp,RP_9,Java 8,171,16998400
+26637058,128,1493026943,2147483647,C,2100,combinatorics-dp,Kammola,Java 8,124,20582400
+25330099,128,1488921977,2147483647,A,1500,dfs and similar,pitfall,Java 8,218,20582400
+24608917,128,1486903947,2147483647,C,2100,combinatorics-dp,Ahmad_Elsagheer,Java 8,155,20582400
+24584459,128,1486799006,2147483647,C,2100,combinatorics-dp,Aaron_1996,Java 8,202,59699200
+20151310,128,1472121299,2147483647,A,1500,dfs and similar,Corvus,Java 8,248,20480000
+17288710,128,1460459395,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,mikcorer,Java 8,592,4608000
+17017276,128,1459245329,2147483647,A,1500,dfs and similar,yrjie,Java 7,248,39321600
+16137997,128,1455782225,2147483647,D,2000,constructive algorithms-implementation,alibaba,Java 8,466,0
+13284006,128,1443459420,2147483647,A,1500,dfs and similar,alculquicondor,Java 8,340,0
+13222400,128,1443200034,2147483647,A,1500,dfs and similar,abhishek125,Java 7,156,0
+12144832,128,1437470194,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,alibaba,Java 8,280,0
+12135979,128,1437419003,2147483647,A,1500,dfs and similar,sweiss,Java 8,248,0
+12035503,128,1436842594,2147483647,D,2000,constructive algorithms-implementation,131121,Java 7,310,0
+12030943,128,1436801458,2147483647,C,2100,combinatorics-dp,131121,Java 7,78,0
+11958183,128,1436261263,2147483647,A,1500,dfs and similar,131121,Java 7,156,0
+11628114,128,1434605686,2147483647,A,1500,dfs and similar,BadDuck,Java 7,186,0
+11566094,128,1434189230,2147483647,A,1500,dfs and similar,poikniok,Java 8,218,0
+11566080,128,1434189171,2147483647,A,1500,dfs and similar,poikniok,Java 8,218,0
+11258349,128,1432499753,2147483647,A,1500,dfs and similar,hsnprsd,Java 8,280,0
+11141619,128,1432022705,2147483647,A,1500,dfs and similar,Sumeet.Varma,Java 7,154,0
+11068385,128,1431334329,2147483647,A,1500,dfs and similar,Rayn,Java 7,248,0
+11015400,128,1430933310,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,A.Elahi,Java 8,248,0
+10538705,128,1427867815,2147483647,D,2000,constructive algorithms-implementation,A.Elahi,Java 8,342,0
+10538443,128,1427863540,2147483647,D,2000,constructive algorithms-implementation,A.Elahi,Java 8,248,0
+10017367,128,1424857183,2147483647,D,2000,constructive algorithms-implementation,emo,Java 7,186,0
+9496776,128,1421877393,2147483647,A,1500,dfs and similar,stacy992,Java 7,216,0
+9496771,128,1421877253,2147483647,A,1500,dfs and similar,stacy992,Java 7,248,0
+9448790,128,1421484073,2147483647,D,2000,constructive algorithms-implementation,vjudge1,Java 8,592,0
+9288812,128,1419745069,2147483647,C,2100,combinatorics-dp,vjudge3,Java 8,186,49561600
+9284311,128,1419685761,2147483647,C,2100,combinatorics-dp,AStepanov,Java 8,140,0
+9219826,128,1419204017,4517,D,2000,constructive algorithms-implementation,AlexFetisov,Java 8,342,0
+9219711,128,1419202212,2712,C,2100,combinatorics-dp,AlexFetisov,Java 8,1949,0
+9219649,128,1419201148,1648,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,AlexFetisov,Java 8,374,26521600
+9219584,128,1419200289,789,A,1500,dfs and similar,AlexFetisov,Java 8,248,0
+8905662,128,1417444532,2147483647,A,1500,dfs and similar,upsolving,Java 7,218,0
+8542520,128,1415073706,2147483647,A,1500,dfs and similar,Andimeo,Java 7,186,0
+8132223,128,1412695398,2147483647,A,1500,dfs and similar,di_halt,Java 7,186,0
+8107279,128,1412607268,2147483647,A,1500,dfs and similar,egor.zhdan,Java 8,280,0
+7804228,128,1410810043,2147483647,D,2000,constructive algorithms-implementation,gleiz,Java 7,466,102400
+7496020,128,1408313163,2147483647,C,2100,combinatorics-dp,SurenNihalani,Java 7,109,14233600
+7348568,128,1407202846,2147483647,C,2100,combinatorics-dp,maged918,Java 7,93,14233600
+7295658,128,1406760019,2147483647,C,2100,combinatorics-dp,bufferedreader,Java 6,140,13926400
+7287633,128,1406661995,2147483647,C,2100,combinatorics-dp,miguelmaurizio,Java 7,124,14028800
+6908097,128,1403119400,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,miguelmaurizio,Java 8,530,2355200
+6370751,128,1397604645,2147483647,A,1500,dfs and similar,ykcland,Java 7,154,102400
+6370706,128,1397603317,2147483647,A,1500,dfs and similar,ykcland,Java 7,280,102400
+5034825,128,1383987157,2147483647,C,2100,combinatorics-dp,alibaba,Java 6,1996,614400
+5033259,128,1383965508,2147483647,A,1500,dfs and similar,alibaba,Java 6,186,0
+4326769,128,1377209145,2147483647,C,2100,combinatorics-dp,DoublePointer,Java 7,218,13721600
+4235422,128,1375762244,2147483647,A,1500,dfs and similar,DoublePointer,Java 7,156,0
+4203726,128,1375180384,2147483647,A,1500,dfs and similar,trunghieu11,Java 7,186,0
+4077159,128,1373917960,2147483647,A,1500,dfs and similar,mkirsche,Java 6,93,2252800
+4036312,128,1373231426,2147483647,A,1500,dfs and similar,MOSJAVA,Java 7,109,102400
+4034028,128,1373188771,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,slycelote,Java 6,406,307200
+4033426,128,1373178961,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,slycelote,Java 6,500,409600
+3968223,128,1372356737,2147483647,A,1500,dfs and similar,sfmunera,Java 7,78,0
+3967937,128,1372351231,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Azat_Yusupov,Java 7,125,307200
+3967370,128,1372340215,2147483647,D,2000,constructive algorithms-implementation,Azat_Yusupov,Java 7,156,307200
+3497379,128,1365526969,2147483647,C,2100,combinatorics-dp,santjuan,Java 6,125,102400
+3495307,128,1365487842,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,santjuan,Java 6,171,307200
+3495011,128,1365476359,2147483647,A,1500,dfs and similar,DiegoAE,Java 6,109,0
+3494944,128,1365472173,2147483647,A,1500,dfs and similar,santjuan,Java 6,124,2355200
+3085731,128,1360397915,2147483647,A,1500,dfs and similar,yuki2006,Java 6,125,0
+2858778,128,1356887268,2147483647,C,2100,combinatorics-dp,Mostafa.Ali,Java 6,124,0
+2822857,128,1356363598,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,mostafa_fahim,Java 7,234,204800
+2272991,128,1349093886,2147483647,C,2100,combinatorics-dp,trunghieu11,Java 7,109,0
+2272739,128,1349087219,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,trunghieu11,Java 7,140,0
+2272721,128,1349086835,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,trunghieu11,Java 7,140,0
+2228853,128,1348301653,2147483647,A,1500,dfs and similar,arukuka,Java 6,156,44032000
+2049667,128,1345967316,2147483647,E,2900,geometry-math,Soldat,Java 6,2690,44236800
+2032798,128,1345314416,2147483647,C,2100,combinatorics-dp,uwi,Java 6,110,43212800
+2000515,128,1344702375,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,hydrastuff,Java 6,190,51302400
+1922331,128,1342981976,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Ahmed.Ibrahem,Java 6,170,43520000
+1920444,128,1342884377,2147483647,C,2100,combinatorics-dp,vjudge2,Java 6,160,43417600
+1919537,128,1342860512,2147483647,A,1500,dfs and similar,Azat_Yusupov,Java 6,140,43417600
+1919528,128,1342860455,2147483647,C,2100,combinatorics-dp,Azat_Yusupov,Java 6,140,43315200
+1686824,128,1336934267,2147483647,C,2100,combinatorics-dp,Galkowsky,Java 6,130,43212800
+1666736,128,1336317000,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Di735,Java 7,250,70451200
+1664885,128,1336241724,2147483647,A,1500,dfs and similar,Galkowsky,Java 6,110,43212800
+1570234,128,1334742087,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Di735,Java 7,700,122675200
+1570232,128,1334742006,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Di735,Java 7,250,70451200
+1215779,128,1329906741,2147483647,A,1500,dfs and similar,hak7a3,Java 6,110,45056000
+1159633,128,1328792418,2147483647,C,2100,combinatorics-dp,mostafa_fahim,Java 6,110,57753600
+1159032,128,1328774010,2147483647,A,1500,dfs and similar,peking2,Java 6,160,43110400
+1156370,128,1328637943,2147483647,C,2100,combinatorics-dp,Ahmed.Ibrahem,Java 6,1560,43212800
+1155749,128,1328618871,2147483647,D,2000,constructive algorithms-implementation,mostafa_fahim,Java 6,390,43212800
+1114662,128,1327411844,2147483647,A,1500,dfs and similar,Ahmed.Ibrahem,Java 6,330,90316800
+1029913,128,1326301972,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Di735,Java 6,700,120627200
+1028598,128,1326224465,2147483647,C,2100,combinatorics-dp,ycid,Java 6,170,98304000
+1016210,128,1325941825,2147483647,D,2000,constructive algorithms-implementation,Di735,Java 6,140,43212800
+1016169,128,1325939645,2147483647,C,2100,combinatorics-dp,Di735,Java 6,130,43008000
+986027,128,1324837663,2147483647,A,1500,dfs and similar,ahmad_mamdouh,Java 6,90,43212800
+967863,128,1324285460,2147483647,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,islam-al-aarag,Java 6,800,43315200
+952835,128,1323693954,2356554,A,1500,dfs and similar,FattyPenguin,Java 6,170,43008000
+949304,128,1323510412,2173012,D,2000,constructive algorithms-implementation,islam-al-aarag,Java 6,440,43315200
+936894,128,1323420955,2083555,A,1500,dfs and similar,merdin,Java 6,140,35328000
+936874,128,1323420111,2082711,A,1500,dfs and similar,devilofaboy,Java 6,110,35123200
+936424,128,1323399467,2062067,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,stevenkplus,Java 6,310,39219200
+936233,128,1323375828,2038428,A,1500,dfs and similar,ravelo1991,Java 6,110,35123200
+934121,128,1323251880,1914480,A,1500,dfs and similar,nativea,Java 6,110,35225600
+933805,128,1323218390,1880990,D,2000,constructive algorithms-implementation,stevenkplus,Java 6,190,35225600
+933685,128,1323203318,1865918,A,1500,dfs and similar,mostafa_fahim,Java 6,140,36147200
+930509,128,1323056200,1718800,C,2100,combinatorics-dp,islam-al-aarag,Java 6,170,57856000
+913888,128,1322811543,1474143,A,1500,dfs and similar,mukku,Java 6,140,35328000
+912442,128,1322725701,1388301,C,2100,combinatorics-dp,ronaflx,Java 6,160,35328000
+909276,128,1322500926,1163526,C,2100,combinatorics-dp,stevenkplus,Java 6,160,35328000
+909258,128,1322500481,1163081,C,2100,combinatorics-dp,ilovepink,Java 6,140,35328000
+908653,128,1322482534,1145134,A,1500,dfs and similar,tux1986,Java 6,130,35225600
+908407,128,1322471905,1134505,A,1500,dfs and similar,Sinner,Java 6,110,35225600
+905918,128,1322309227,971827,C,2100,combinatorics-dp,luyi0619,Java 6,250,98304000
+905861,128,1322307892,970492,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,luyi0619,Java 6,390,43315200
+905859,128,1322307836,970436,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,luyi0619,Java 6,390,43315200
+904051,128,1322257474,920074,D,2000,constructive algorithms-implementation,annaalkh,Java 6,440,43212800
+891353,128,1322233051,895651,A,1500,dfs and similar,uwi,Java 6,110,43212800
+890681,128,1322209416,872016,A,1500,dfs and similar,boyfox,Java 6,200,35328000
+890246,128,1322180944,843544,A,1500,dfs and similar,spark_coder,Java 6,110,43110400
+889013,128,1322129578,792178,A,1500,dfs and similar,edwinlunando,Java 6,160,43212800
+888740,128,1322117596,780196,A,1500,dfs and similar,Andreos,Java 6,140,43212800
+888198,128,1322075129,737729,A,1500,dfs and similar,userlond,Java 6,110,43212800
+888170,128,1322072547,735147,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,dusty.and.rusty,Java 6,250,43417600
+886443,128,1321990205,652805,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,dusty.and.rusty,Java 6,270,43417600
+886142,128,1321977511,640111,D,2000,constructive algorithms-implementation,wangyongliang,Java 6,530,43315200
+886051,128,1321974346,636946,A,1500,dfs and similar,Wahba,Java 6,130,43110400
+885608,128,1321959221,621821,D,2000,constructive algorithms-implementation,uwi,Java 6,160,35225600
+885542,128,1321955556,618156,A,1500,dfs and similar,tanzaku,Java 6,140,35328000
+885502,128,1321338568,1168,A,1500,dfs and similar,OgieKako,Java 6,170,35430400
+885498,128,1321338383,983,A,1500,dfs and similar,OgieKako,Java 6,160,35430400
+885497,128,1321338242,842,A,1500,dfs and similar,OgieKako,Java 6,140,35328000
+885401,128,1321338402,1002,A,1500,dfs and similar,tanzaku,Java 6,130,35328000
+885400,128,1321338358,958,A,1500,dfs and similar,tanzaku,Java 6,140,35328000
+881680,128,1321805291,467891,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,SharpBlade,Java 6,390,43212800
+880544,128,1321793725,456325,C,2100,combinatorics-dp,partizan22,Java 6,160,43110400
+879842,128,1321742191,404791,A,1500,dfs and similar,kiko91_7,Java 6,130,43110400
+878085,128,1321341540,4140,C,2100,combinatorics-dp,Kornacker,Java 6,170,43110400
+878047,128,1321338909,1509,A,1500,dfs and similar,Kornacker,Java 6,140,43110400
+877543,128,1321624930,287530,D,2000,constructive algorithms-implementation,pele,Java 6,550,43315200
+876157,128,1321544146,206746,D,2000,constructive algorithms-implementation,hapund,Java 6,450,35430400
+876000,128,1321540847,203447,C,2100,combinatorics-dp,mmaxio,Java 6,130,35225600
+875513,128,1321522816,185416,C,2100,combinatorics-dp,pele,Java 6,140,35328000
+875490,128,1321521930,184530,A,1500,dfs and similar,Nox,Java 6,110,35225600
+875403,128,1321518580,181180,C,2100,combinatorics-dp,Nox,Java 6,170,35225600
+875356,128,1321517337,179937,A,1500,dfs and similar,fahimpatel,Java 6,160,35328000
+875207,128,1321509599,172199,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,pele,Java 6,190,43315200
+875162,128,1321507031,169631,A,1500,dfs and similar,Navigabimus,Java 6,140,43110400
+875155,128,1321506783,169383,C,2100,combinatorics-dp,Navigabimus,Java 6,1890,43110400
+874922,128,1321482027,144627,A,1500,dfs and similar,islam-al-aarag,Java 6,110,43110400
+874235,128,1321457574,120174,A,1500,dfs and similar,wangyongliang,Java 6,140,43110400
+874226,128,1321457510,120110,C,2100,combinatorics-dp,wangyongliang,Java 6,200,43110400
+874219,128,1321457423,120023,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,wangyongliang,Java 6,280,43315200
+873864,128,1321342245,4845,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Jokser,Java 6,190,35532800
+873729,128,1321338244,844,A,1500,dfs and similar,Jokser,Java 6,130,35328000
+873584,128,1321340419,3019,A,1500,dfs and similar,pele,Java 6,630,94412800
+873210,128,1321426157,88757,C,2100,combinatorics-dp,AlexanderBolshakov,Java 6,130,35225600
+873201,128,1321425798,88398,D,2000,constructive algorithms-implementation,AlexanderBolshakov,Java 6,190,35328000
+873042,128,1321419844,82444,A,1500,dfs and similar,boyfox,Java 6,1380,43212800
+873017,128,1321418405,81005,A,1500,dfs and similar,Di735,Java 6,110,43110400
+872971,128,1321415710,78310,D,2000,constructive algorithms-implementation,torrentlord,Java 6,590,43212800
+872915,128,1321412700,75300,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,torrentlord,Java 6,200,43315200
+872899,128,1321411897,74497,C,2100,combinatorics-dp,torrentlord,Java 6,170,43110400
+872897,128,1321411868,74468,A,1500,dfs and similar,torrentlord,Java 6,130,43110400
+872744,128,1321402300,64900,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Berestinsky,Java 6,1440,65740800
+872743,128,1321402227,64827,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Berestinsky,Java 6,1360,68915200
+872571,128,1321392186,54786,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Izot_NNSTU,Java 6,330,43315200
+872548,128,1321391406,54006,A,1500,dfs and similar,Izot_NNSTU,Java 6,250,54886400
+872544,128,1321391302,53902,C,2100,combinatorics-dp,Izot_NNSTU,Java 6,1810,43110400
+872515,128,1321389831,52431,C,2100,combinatorics-dp,jsannemo,Java 6,220,98406400
+872448,128,1321387713,50313,A,1500,dfs and similar,nickbuelich,Java 6,190,43110400
+872418,128,1321386664,49264,C,2100,combinatorics-dp,SharpBlade,Java 6,140,43110400
+872380,128,1321385077,47677,A,1500,dfs and similar,michael_tan,Java 6,140,43110400
+871683,128,1321362949,25549,C,2100,combinatorics-dp,Omar.Darwish,Java 6,110,43110400
+871633,128,1321361343,23943,C,2100,combinatorics-dp,tsukuno,Java 6,340,35328000
+871527,128,1321358409,21009,D,2000,constructive algorithms-implementation,partizan22,Java 6,420,35328000
+871479,128,1321357415,20015,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Omar.Darwish,Java 6,470,35532800
+871055,128,1321351641,14241,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,chronotable,Java 6,200,39731200
+870910,128,1321350046,12646,A,1500,dfs and similar,Akbarshox,Java 6,280,43110400
+870900,128,1321349986,12586,A,1500,dfs and similar,pius_88,Java 6,130,43110400
+870891,128,1321349911,12511,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,tsukuno,Java 6,170,47206400
+870862,128,1321349636,12236,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Thomas_Ahle,Java 6,420,43315200
+870843,128,1321349530,12130,D,2000,constructive algorithms-implementation,chronotable,Java 6,230,43417600
+870806,128,1321349294,11894,D,2000,constructive algorithms-implementation,Berestinsky,Java 6,170,43212800
+870797,128,1321349221,11821,D,2000,constructive algorithms-implementation,tsukuno,Java 6,440,43212800
+870756,128,1321348941,11541,A,1500,dfs and similar,SharpBlade,Java 6,230,43008000
+870663,128,1321348354,10954,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Dumpty,Java 6,360,60723200
+870626,128,1321348149,10749,E,2900,geometry-math,tomek,Java 6,3230,43110400
+870589,128,1321347983,10583,C,2100,combinatorics-dp,pius_88,Java 6,140,43110400
+870587,128,1321347979,10579,C,2100,combinatorics-dp,tsukuno,Java 6,1880,43110400
+870562,128,1321347883,10483,C,2100,combinatorics-dp,shavkat,Java 6,140,43110400
+870399,128,1321347272,9872,D,2000,constructive algorithms-implementation,TheRaven,Java 6,720,43315200
+870386,128,1321347236,9836,A,1500,dfs and similar,yarrr,Java 6,130,43110400
+870306,128,1321346999,9599,A,1500,dfs and similar,_jte_,Java 6,170,35328000
+870216,128,1321346811,9411,C,2100,combinatorics-dp,AlexanderBolshakov,Java 6,390,178176000
+869550,128,1321343919,6519,D,2000,constructive algorithms-implementation,naonao,Java 6,440,43212800
+869500,128,1321343838,6438,C,2100,combinatorics-dp,lala,Java 6,140,43110400
+869411,128,1321343713,6313,A,1500,dfs and similar,SergeyLazarev,Java 6,110,43110400
+869052,128,1321343151,5751,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,I-juice,Java 6,800,79769600
+868950,128,1321342963,5563,C,2100,combinatorics-dp,Berestinsky,Java 6,140,43110400
+868919,128,1321342918,5518,D,2000,constructive algorithms-implementation,bjin,Java 6,230,43315200
+868895,128,1321342867,5467,C,2100,combinatorics-dp,SergeyLazarev,Java 6,160,35225600
+868794,128,1321342685,5285,D,2000,constructive algorithms-implementation,Abra,Java 6,530,43622400
+868726,128,1321342578,5178,D,2000,constructive algorithms-implementation,mmaxio,Java 6,200,43110400
+868405,128,1321342071,4671,C,2100,combinatorics-dp,TheRaven,Java 6,190,57651200
+868268,128,1321341862,4462,A,1500,dfs and similar,unicef,Java 6,110,43110400
+868260,128,1321341852,4452,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,tomek,Java 6,270,43315200
+868161,128,1321341703,4303,A,1500,dfs and similar,naonao,Java 6,130,43110400
+868004,128,1321341493,4093,D,2000,constructive algorithms-implementation,sas4eka,Java 6,170,43110400
+867957,128,1321341427,4027,C,2100,combinatorics-dp,I-juice,Java 6,200,49459200
+867857,128,1321341289,3889,D,2000,constructive algorithms-implementation,SergeyLazarev,Java 6,250,43110400
+867819,128,1321341219,3819,A,1500,dfs and similar,Dumpty,Java 6,110,43212800
+867059,128,1321340145,2745,C,2100,combinatorics-dp,tomek,Java 6,110,43110400
+866977,128,1321340031,2631,B,2200,brute force-constructive algorithms-hashing-implementation-string suffix structures-strings,Egor,Java 6,250,43212800
+866904,128,1321339928,2528,A,1500,dfs and similar,Abra,Java 6,110,43110400
+866881,128,1321339896,2496,A,1500,dfs and similar,Berestinsky,Java 6,110,43008000
+866780,128,1321339758,2358,A,1500,dfs and similar,sas4eka,Java 6,140,43110400
+866729,128,1321339694,2294,D,2000,constructive algorithms-implementation,I-juice,Java 6,310,43110400
+866688,128,1321339649,2249,A,1500,dfs and similar,PolarNick,Java 6,110,43008000
+866627,128,1321339549,2149,C,2100,combinatorics-dp,unicef,Java 6,140,43110400
+866601,128,1321339508,2108,A,1500,dfs and similar,tomek,Java 6,130,43008000
+866566,128,1321339467,2067,C,2100,combinatorics-dp,xiaowuc1,Java 6,170,43110400
+866538,128,1321339432,2032,A,1500,dfs and similar,chronotable,Java 6,130,43110400
+866396,128,1321339246,1846,D,2000,constructive algorithms-implementation,Egor,Java 6,220,43110400
+866304,128,1321339145,1745,A,1500,dfs and similar,TheRaven,Java 6,130,43110400
+866271,128,1321339119,1719,A,1500,dfs and similar,AlexanderBolshakov,Java 6,130,43110400
+866257,128,1321339111,1711,A,1500,dfs and similar,dusty.and.rusty,Java 6,140,43110400
+866208,128,1321339083,1683,A,1500,dfs and similar,tsukuno,Java 6,140,43110400
+866108,128,1321338863,1463,C,2100,combinatorics-dp,Egor,Java 6,140,43110400
+866048,128,1321338801,1401,A,1500,dfs and similar,shavkat,Java 6,140,43110400
+865673,128,1321338436,1036,A,1500,dfs and similar,mmaxio,Java 6,130,43008000
+865518,128,1321338277,877,D,2000,constructive algorithms-implementation,tomek,Java 6,250,43110400
+865504,128,1321338260,860,A,1500,dfs and similar,bjin,Java 6,110,43212800
+865477,128,1321338237,837,A,1500,dfs and similar,I-juice,Java 6,130,43008000
+865440,128,1321338187,787,A,1500,dfs and similar,Egor,Java 6,130,43008000
+865225,128,1321337942,542,D,2000,constructive algorithms-implementation,unicef,Java 6,220,43110400
+865162,128,1321337894,494,A,1500,dfs and similar,xiaowuc1,Java 6,130,43008000

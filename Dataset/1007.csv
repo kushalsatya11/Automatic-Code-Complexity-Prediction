@@ -1,0 +1,178 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57578869,1007,1563869302,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,chenqiuyuan233,Java 8,280,0,OK
+56995983,1007,1563056150,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,david_varela,Java 8,265,0,OK
+56857672,1007,1562873359,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Harbin,Java 8,156,0,OK
+56849074,1007,1562856742,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,qingwen,Java 8,296,0,OK
+56808099,1007,1562770030,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,beykus,Java 8,296,0,OK
+56747867,1007,1562668676,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,natalia18,Java 8,265,0,OK
+56059381,1007,1561522070,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,aahnn,Java 8,342,0,OK
+56040117,1007,1561470952,2147483647,C,2800,binary search-interactive,Scut82,Java 8,155,0,OK
+55999968,1007,1561379593,2147483647,C,2800,binary search-interactive,Scut82,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+54265797,1007,1558072375,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,goalboy,Java 8,265,0,OK
+52681381,1007,1555158959,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,amitt_yadav_,Java 8,124,0,OK
+51471526,1007,1552978156,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,boltUsain,Java 8,140,0,OK
+51050052,1007,1552077134,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,tsumit023,Java 8,124,0,OK
+50821594,1007,1551793584,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,satyajiit,Java 8,452,0,OK
+50577025,1007,1551292740,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,chaudhary__jr,Java 8,280,0,OK
+48585305,1007,1547925117,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Silver_Lining,Java 8,265,0,OK
+47785425,1007,1546251954,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Bazz,Java 8,1185,0,OK
+47785189,1007,1546251468,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Bazz,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+47448218,1007,1545637810,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,KharYusuf,Java 8,280,0,OK
+46573499,1007,1543908090,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,omelette,Java 8,140,0,OK
+46272436,1007,1543309699,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,2150882,Java 8,280,0,OK
+46178767,1007,1543077391,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,sanju98,Java 8,156,0,OK
+45786022,1007,1542332566,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,PrakharJain,Java 8,249,0,OK
+45689926,1007,1542139741,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,m1_k3,Java 8,233,819200,OK
+45689306,1007,1542138802,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,m1_k3,Java 8,265,1740800,OK
+45541039,1007,1541878015,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,stolis,Java 8,295,0,OK
+44389948,1007,1539676850,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,FlyingMantis,Java 8,233,0,OK
+42876436,1007,1536974679,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Scut82,Java 8,389,0,OK
+42770419,1007,1536678684,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,oGhost,Java 8,343,0,OK
+42770228,1007,1536678391,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,oGhost,Java 8,342,0,OK
+42767377,1007,1536673794,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,tspt89,Java 8,389,5529600,OK
+42766873,1007,1536672990,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,389,5529600,OK
+42766766,1007,1536672812,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,A01731591,Java 8,1388,0,OK
+42765245,1007,1536670486,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,390,5632000,OK
+42764703,1007,1536669572,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,AntonioDF,Java 8,1388,0,OK
+42764547,1007,1536669279,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,420,0,OK
+42764520,1007,1536669217,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,AntonioDF,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42764405,1007,1536668947,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,AntonioDF,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42764152,1007,1536668531,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,AntonioDF,Java 8,2000,259379200,TIME_LIMIT_EXCEEDED
+42757477,1007,1536653922,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,342,0,OK
+42757054,1007,1536652758,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,342,0,OK
+42756962,1007,1536652470,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,327,0,OK
+42756870,1007,1536652226,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,327,0,OK
+42756321,1007,1536650735,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Juan_R,Java 8,358,0,OK
+42755621,1007,1536648553,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42755559,1007,1536648375,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42755372,1007,1536647724,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42754251,1007,1536643517,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42753534,1007,1536641317,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Alejandro2971,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42753137,1007,1536639969,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,389,0,OK
+42752072,1007,1536635816,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,JorgeEmilioNavarro,Java 8,358,0,OK
+42752026,1007,1536635655,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,RamonV,Java 8,358,0,OK
+42752006,1007,1536635589,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,MiguelSilva_R,Java 8,373,0,OK
+42751251,1007,1536632781,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,RamonV,Java 8,2000,716800,TIME_LIMIT_EXCEEDED
+42751159,1007,1536632320,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,RamonV,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42750951,1007,1536631231,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,LauMol,Java 8,343,0,OK
+42750908,1007,1536630974,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,LauMol,Java 8,358,0,OK
+42750428,1007,1536628028,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,AlanAlbert,Java 8,327,0,OK
+42748057,1007,1536614352,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,2000,716800,TIME_LIMIT_EXCEEDED
+42747993,1007,1536614143,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42747925,1007,1536613866,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42741340,1007,1536596869,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Carlos_Villalobos,Java 8,280,0,OK
+42741110,1007,1536596344,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Carlos_Villalobos,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42740940,1007,1536596026,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Carlos_Villalobos,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42739589,1007,1536593423,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,MmoProgramador,Java 8,358,0,OK
+42739454,1007,1536593150,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,MmoProgramador,Java 8,2000,307200,TIME_LIMIT_EXCEEDED
+42739314,1007,1536592849,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,MmoProgramador,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42738873,1007,1536592092,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,MmoProgramador,Java 8,2000,307200,TIME_LIMIT_EXCEEDED
+42720192,1007,1536535946,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Roberto_Betancourt,Java 8,358,0,OK
+42719529,1007,1536531914,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Roberto_Betancourt,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42719394,1007,1536531322,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Roberto_Betancourt,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42716369,1007,1536521347,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,MmoProgramador,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42713413,1007,1536514495,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,MmoProgramador,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+42694149,1007,1536470899,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,ashcodish,Java 8,389,0,OK
+42686058,1007,1536435160,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,JuanMelendres,Java 8,343,0,OK
+42677833,1007,1536417632,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,lonelydreamer,Java 8,343,0,OK
+42639381,1007,1536336510,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prueba_LD,Java 8,390,0,OK
+42514673,1007,1536169008,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,rominalm,Java 8,389,0,OK
+42467996,1007,1536080298,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,rominalm,Java 8,421,0,OK
+42013106,1007,1535081501,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,xoszm,Java 8,171,0,OK
+41949092,1007,1534888826,626,A,1300,combinatorics-data structures-math-sortings-two pointers,Suzukaze,Java 8,186,0,OK
+41865984,1007,1534696888,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,olya.zhuravleva,Java 8,343,0,OK
+41445868,1007,1533944859,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,1000100101,Java 8,390,0,OK
+41431996,1007,1533906417,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,shahnilay103,Java 8,343,0,OK
+41428704,1007,1533899300,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,mistoj,Java 8,186,0,OK
+41240559,1007,1533463238,6038,B,2400,bitmasks-brute force-combinatorics-math-number theory,wizardleen,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+41238955,1007,1533459559,2359,A,1300,combinatorics-data structures-math-sortings-two pointers,wizardleen,Java 8,390,0,OK
+41238676,1007,1533458990,1790,A,1300,combinatorics-data structures-math-sortings-two pointers,wizardleen,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+41238655,1007,1533458932,1732,A,1300,combinatorics-data structures-math-sortings-two pointers,wizardleen,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+41238505,1007,1533458534,1334,A,1300,combinatorics-data structures-math-sortings-two pointers,wizardleen,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+41114379,1007,1533197877,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,OzzyFrost,Java 8,514,0,OK
+40904835,1007,1532838819,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Incepti0n,Java 8,311,0,OK
+40904812,1007,1532838723,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,Incepti0n,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40890074,1007,1532791191,2991,A,1300,combinatorics-data structures-math-sortings-two pointers,siddharthp538,Java 8,327,0,OK
+40780647,1007,1532612047,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,_mahin_agrawal_,Java 8,186,0,OK
+40719183,1007,1532472358,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,undercovergod,Java 8,327,0,OK
+40718801,1007,1532470446,2147483647,C,2800,binary search-interactive,eldarado,Java 8,218,0,OK
+40668608,1007,1532345036,2147483647,C,2800,binary search-interactive,SrapZark,Java 8,327,0,OK
+40649005,1007,1532285540,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,rninimario,Java 8,421,0,OK
+40571567,1007,1532075286,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,xelwood,Java 8,280,6963200,OK
+40568818,1007,1532070024,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,di_halt,Java 8,342,0,OK
+40501198,1007,1531894719,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,tri,Java 8,296,0,OK
+40477930,1007,1531831509,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,_bacali,Java 8,327,6758400,OK
+40460437,1007,1531798302,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,anduturacila6,Java 8,343,0,OK
+40444758,1007,1531758763,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,ramimourani36,Java 8,295,0,OK
+40356655,1007,1531599802,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,iamyashh,Java 8,529,0,OK
+40349187,1007,1531586385,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,BeardAspirant,Java 8,343,0,OK
+40349137,1007,1531586199,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,BeardAspirant,Java 8,405,0,OK
+40308863,1007,1531552099,2147483647,C,2800,binary search-interactive,wflms20110333,Java 8,186,0,OK
+40305379,1007,1531545945,2147483647,C,2800,binary search-interactive,sirknightingfail,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40305275,1007,1531545734,2147483647,C,2800,binary search-interactive,sirknightingfail,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40305037,1007,1531545223,2147483647,C,2800,binary search-interactive,sirknightingfail,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40304653,1007,1531544448,2147483647,C,2800,binary search-interactive,sirknightingfail,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40304312,1007,1531543493,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,prodipdatta7,Java 8,327,0,OK
+40304015,1007,1531542616,2147483647,C,2800,binary search-interactive,Tom--CCS,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40303695,1007,1531541587,2147483647,C,2800,binary search-interactive,Tom--CCS,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40303436,1007,1531540771,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,King8611,Java 8,156,0,OK
+40303433,1007,1531540758,2147483647,C,2800,binary search-interactive,sirknightingfail,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40303405,1007,1531540694,2147483647,C,2800,binary search-interactive,Tom--CCS,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40303190,1007,1531540016,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,King8611,Java 8,202,0,OK
+40302906,1007,1531539360,2147483647,C,2800,binary search-interactive,sirknightingfail,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40302313,1007,1531537572,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,1996,76083200,OK
+40302261,1007,1531537395,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,2000,76185600,TIME_LIMIT_EXCEEDED
+40302151,1007,1531537085,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,2000,76083200,TIME_LIMIT_EXCEEDED
+40301329,1007,1531534673,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,2000,76185600,TIME_LIMIT_EXCEEDED
+40301223,1007,1531534364,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,2000,76492800,TIME_LIMIT_EXCEEDED
+40301106,1007,1531534021,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,2000,76390400,TIME_LIMIT_EXCEEDED
+40298407,1007,1531522639,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,Lewin,Java 8,2000,31027200,TIME_LIMIT_EXCEEDED
+40298374,1007,1531522395,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,Lewin,Java 8,2000,30924800,TIME_LIMIT_EXCEEDED
+40296660,1007,1531514713,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,pj21,Java 8,139,0,OK
+40295900,1007,1531512540,2147483647,A,1300,combinatorics-data structures-math-sortings-two pointers,kunal725725,Java 8,233,4198400,OK
+40294575,1007,1531509805,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,uwi,Java 8,545,16793600,OK
+40294366,1007,1531509467,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,uwi,Java 8,530,16896000,OK
+40294128,1007,1531509122,2147483647,B,2400,bitmasks-brute force-combinatorics-math-number theory,uwi,Java 8,639,0,OK
+40292046,1007,1531500189,7689,C,2800,binary search-interactive,Tom--CCS,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40291902,1007,1531500137,7637,C,2800,binary search-interactive,Tom--CCS,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40291641,1007,1531500039,7539,C,2800,binary search-interactive,Tom--CCS,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40290976,1007,1531499735,7235,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,2000,76390400,TIME_LIMIT_EXCEEDED
+40290969,1007,1531499733,7233,B,2400,bitmasks-brute force-combinatorics-math-number theory,Wavator,Java 8,358,0,OK
+40290882,1007,1531499692,7192,C,2800,binary search-interactive,Tom--CCS,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40290333,1007,1531499448,6948,C,2800,binary search-interactive,iakovlev.zakhar,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40290064,1007,1531499325,6825,C,2800,binary search-interactive,iakovlev.zakhar,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40289918,1007,1531499264,6764,C,2800,binary search-interactive,iakovlev.zakhar,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40288680,1007,1531498708,6208,C,2800,binary search-interactive,kessido,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40288596,1007,1531498671,6171,B,2400,bitmasks-brute force-combinatorics-math-number theory,sirknightingfail,Java 8,2000,76185600,TIME_LIMIT_EXCEEDED
+40288501,1007,1531498624,6124,B,2400,bitmasks-brute force-combinatorics-math-number theory,Egor,Java 8,233,0,OK
+40288245,1007,1531498493,5993,B,2400,bitmasks-brute force-combinatorics-math-number theory,Slamur,Java 8,2000,4505600,TIME_LIMIT_EXCEEDED
+40287538,1007,1531498163,5663,B,2400,bitmasks-brute force-combinatorics-math-number theory,vovacomua,Java 8,623,8499200,OK
+40286876,1007,1531497841,5341,B,2400,bitmasks-brute force-combinatorics-math-number theory,Slamur,Java 8,2000,4505600,TIME_LIMIT_EXCEEDED
+40286192,1007,1531497553,5053,B,2400,bitmasks-brute force-combinatorics-math-number theory,Lewin,Java 8,2000,30720000,TIME_LIMIT_EXCEEDED
+40284647,1007,1531496917,4417,B,2400,bitmasks-brute force-combinatorics-math-number theory,Slamur,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40283907,1007,1531496643,4143,C,2800,binary search-interactive,kessido,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40283492,1007,1531496490,3990,C,2800,binary search-interactive,Egor,Java 8,343,0,OK
+40283388,1007,1531496454,3954,C,2800,binary search-interactive,kessido,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+40276823,1007,1531494499,1999,B,2400,bitmasks-brute force-combinatorics-math-number theory,mmaxio,Java 8,623,0,OK
+40272726,1007,1531493736,1236,A,1300,combinatorics-data structures-math-sortings-two pointers,kessido,Java 8,155,0,OK
+40269307,1007,1531493273,773,A,1300,combinatorics-data structures-math-sortings-two pointers,DicksOut4Harambe,Java 8,592,0,OK
+40268831,1007,1531493215,715,A,1300,combinatorics-data structures-math-sortings-two pointers,iakovlev.zakhar,Java 8,187,0,OK
+40268544,1007,1531493185,685,A,1300,combinatorics-data structures-math-sortings-two pointers,hiromi_ayase,Java 8,170,0,OK
+40268482,1007,1531493177,677,A,1300,combinatorics-data structures-math-sortings-two pointers,Jeel_Vaishnav,Java 8,155,0,OK
+40268026,1007,1531493132,632,A,1300,combinatorics-data structures-math-sortings-two pointers,dalt,Java 8,171,0,OK
+40267880,1007,1531493118,618,A,1300,combinatorics-data structures-math-sortings-two pointers,SaveVMK,Java 8,405,0,OK
+40267641,1007,1531493091,591,A,1300,combinatorics-data structures-math-sortings-two pointers,rahulDugar,Java 8,373,204800,OK
+40266919,1007,1531493017,517,A,1300,combinatorics-data structures-math-sortings-two pointers,Tom--CCS,Java 8,327,0,OK
+40266780,1007,1531493000,500,A,1300,combinatorics-data structures-math-sortings-two pointers,tanzaku,Java 8,140,0,OK
+40266379,1007,1531492944,444,A,1300,combinatorics-data structures-math-sortings-two pointers,wphsucf,Java 8,202,0,OK
+40266363,1007,1531492942,442,A,1300,combinatorics-data structures-math-sortings-two pointers,uwi,Java 8,155,0,OK
+40266260,1007,1531492934,434,A,1300,combinatorics-data structures-math-sortings-two pointers,AkshajK,Java 8,202,0,OK
+40266172,1007,1531492924,424,A,1300,combinatorics-data structures-math-sortings-two pointers,Lewin,Java 8,156,0,OK
+40265937,1007,1531492897,397,A,1300,combinatorics-data structures-math-sortings-two pointers,slex,Java 8,343,0,OK
+40265929,1007,1531492896,396,A,1300,combinatorics-data structures-math-sortings-two pointers,vovacomua,Java 8,342,0,OK
+40265913,1007,1531492894,394,A,1300,combinatorics-data structures-math-sortings-two pointers,4mda4mda,Java 8,171,0,OK
+40265873,1007,1531492890,390,A,1300,combinatorics-data structures-math-sortings-two pointers,AuroraGarden,Java 8,374,23552000,OK
+40265819,1007,1531492884,384,A,1300,combinatorics-data structures-math-sortings-two pointers,mmaxio,Java 8,156,0,OK
+40265656,1007,1531492865,365,A,1300,combinatorics-data structures-math-sortings-two pointers,sirknightingfail,Java 8,171,0,OK
+40265285,1007,1531492819,319,A,1300,combinatorics-data structures-math-sortings-two pointers,Slamur,Java 8,202,0,OK
+40265160,1007,1531492801,301,A,1300,combinatorics-data structures-math-sortings-two pointers,Egor,Java 8,249,0,OK

@@ -1,0 +1,803 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57877794,1054,1564294883,2147483647,D,1900,greedy-implementation,Sasuke-u,Java 8,265,11878400,OK
+57761341,1054,1564078088,1928,C,1400,constructive algorithms-implementation,MagentaCobra,Java 8,124,0,OK
+57760492,1054,1564076951,791,A,800,implementation,MagentaCobra,Java 8,124,0,OK
+57760179,1054,1564076522,362,B,1100,implementation,MagentaCobra,Java 8,140,2048000,OK
+57298238,1054,1563482737,2147483647,D,1900,greedy-implementation,RVG,Java 8,686,9420800,OK
+56854239,1054,1562865908,2147483647,B,1100,implementation,Dejokz,Java 8,139,2048000,OK
+56181049,1054,1561678678,2147483647,B,1100,implementation,TheSawan,Java 8,139,7168000,OK
+54844961,1054,1559222743,2147483647,A,800,implementation,Ikari_stream,Java 8,124,0,OK
+54815731,1054,1559159089,2147483647,A,800,implementation,vaibhavmittal5,Java 8,139,0,OK
+54753977,1054,1559052568,2147483647,A,800,implementation,hctep,Java 8,140,0,OK
+54222595,1054,1557980877,2147483647,C,1400,constructive algorithms-implementation,jebaited,Java 8,140,0,OK
+53870755,1054,1557305134,2147483647,A,800,implementation,Ler4ik,Java 8,140,0,OK
+53719077,1054,1556916761,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,514,79257600,OK
+53719028,1054,1556916627,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,498,79155200,OK
+53718973,1054,1556916490,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,77414400,TIME_LIMIT_EXCEEDED
+53718920,1054,1556916331,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,77516800,TIME_LIMIT_EXCEEDED
+53718872,1054,1556916199,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,514,79257600,OK
+53718620,1054,1556915560,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,530,80691200,OK
+53718327,1054,1556914885,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,79564800,TIME_LIMIT_EXCEEDED
+53718161,1054,1556914459,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,29184000,TIME_LIMIT_EXCEEDED
+53718104,1054,1556914332,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,27136000,TIME_LIMIT_EXCEEDED
+53717943,1054,1556913968,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,26214400,TIME_LIMIT_EXCEEDED
+53717564,1054,1556913122,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,26521600,TIME_LIMIT_EXCEEDED
+53717324,1054,1556912612,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,27340800,TIME_LIMIT_EXCEEDED
+53717254,1054,1556912460,2147483647,E,2400,constructive algorithms-implementation-math,cplayer,Java 8,1000,27340800,TIME_LIMIT_EXCEEDED
+53606067,1054,1556706419,2147483647,B,1100,implementation,nurdtechie98,Java 8,233,0,OK
+53605568,1054,1556705419,2147483647,A,800,implementation,nurdtechie98,Java 8,140,0,OK
+52469743,1054,1554659310,2147483647,A,800,implementation,pranjaln_,Java 8,155,0,OK
+51400543,1054,1552806368,2147483647,A,800,implementation,Yukimoto,Java 8,109,0,OK
+51361330,1054,1552721219,2147483647,A,800,implementation,kissscreen,Java 8,124,0,OK
+50644358,1054,1551453167,2147483647,C,1400,constructive algorithms-implementation,_ZZOL_,Java 8,171,0,OK
+50643896,1054,1551452679,2147483647,B,1100,implementation,_ZZOL_,Java 8,249,0,OK
+50640104,1054,1551447278,2147483647,A,800,implementation,_ZZOL_,Java 8,140,0,OK
+50296138,1054,1550781630,2147483647,B,1100,implementation,-f00-,Java 8,140,2048000,OK
+50295393,1054,1550779401,2147483647,A,800,implementation,-f00-,Java 8,109,0,OK
+49905759,1054,1550145167,2147483647,A,800,implementation,KaungKhantThar,Java 8,140,0,OK
+49194331,1054,1548841208,2147483647,D,1900,greedy-implementation,AJ47,Java 8,389,27852800,OK
+48538134,1054,1547824670,2147483647,B,1100,implementation,jheel4,Java 8,280,0,OK
+48522502,1054,1547795696,2147483647,A,800,implementation,abhinavsharma629,Java 8,140,0,OK
+48465673,1054,1547658415,2147483647,A,800,implementation,manikasharma09,Java 8,140,0,OK
+48172596,1054,1547106005,2147483647,B,1100,implementation,I.A.K.O.V,Java 8,140,2048000,OK
+48029481,1054,1546774119,2147483647,A,800,implementation,ayushkesarwani1000,Java 8,140,0,OK
+47977069,1054,1546706673,2147483647,A,800,implementation,grindthecode,Java 8,140,0,OK
+47494651,1054,1545747464,2147483647,A,800,implementation,GlorD,Java 8,140,0,OK
+47396855,1054,1545565611,2147483647,A,800,implementation,CharlesDai,Java 8,109,0,OK
+47378477,1054,1545505401,2147483647,B,1100,implementation,Anonymous9,Java 8,233,0,OK
+47262737,1054,1545224607,2147483647,C,1400,constructive algorithms-implementation,abhi2601,Java 8,124,0,OK
+47258151,1054,1545218118,2147483647,B,1100,implementation,abhi2601,Java 8,140,0,OK
+47256665,1054,1545216208,2147483647,A,800,implementation,abhi2601,Java 8,124,0,OK
+47244332,1054,1545194437,2147483647,A,800,implementation,zxzxzx0119,Java 8,139,0,OK
+47240985,1054,1545183466,2147483647,A,800,implementation,Mohamed_Saad62,Java 8,140,0,OK
+47240841,1054,1545182850,2147483647,A,800,implementation,Mohamed_Saad62,Java 8,140,0,OK
+46790788,1054,1544343532,2147483647,A,800,implementation,ghangh,Java 8,140,0,OK
+46771701,1054,1544289666,8766,B,1100,implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46771621,1054,1544289497,8597,B,1100,implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46771528,1054,1544289322,8422,B,1100,implementation,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46767968,1054,1544282479,1579,A,800,implementation,Mackenzie,Java 8,139,0,OK
+46507018,1054,1543750660,2147483647,A,800,implementation,poikniok,Java 8,109,0,OK
+46372409,1054,1543509272,2147483647,A,800,implementation,anoosha187,Java 8,140,0,OK
+46345627,1054,1543427882,2147483647,B,1100,implementation,stolis,Java 8,234,0,OK
+46275624,1054,1543317659,2147483647,A,800,implementation,masuod_ml,Java 8,140,0,OK
+46116956,1054,1542982957,2147483647,A,800,implementation,Krukrukruzhka,Java 8,140,0,OK
+45982129,1054,1542678026,2147483647,B,1100,implementation,GiantTornado,Java 8,140,0,OK
+45980833,1054,1542668951,2147483647,E,2400,constructive algorithms-implementation-math,baobab,Java 8,467,32358400,OK
+45803040,1054,1542378153,2147483647,A,800,implementation,yuttapichai.ke,Java 8,139,0,OK
+45794032,1054,1542359726,2147483647,A,800,implementation,MJA,Java 8,139,0,OK
+45793243,1054,1542357858,2147483647,A,800,implementation,Jesa,Java 8,140,0,OK
+45687408,1054,1542136262,2147483647,A,800,implementation,bolon98,Java 8,140,0,OK
+45683435,1054,1542127040,2147483647,B,1100,implementation,ruakonzuize1211,Java 8,265,0,OK
+45668636,1054,1542100359,2147483647,C,1400,constructive algorithms-implementation,rania10,Java 8,171,0,OK
+45668077,1054,1542099228,2147483647,A,800,implementation,Sayonara0617,Java 8,155,0,OK
+45623051,1054,1542038498,2147483647,A,800,implementation,HeyDear,Java 8,140,0,OK
+45579962,1054,1541991709,2147483647,A,800,implementation,singvivc,Java 8,109,0,OK
+45561809,1054,1541938193,2147483647,B,1100,implementation,mkkashef,Java 8,265,0,OK
+45560016,1054,1541934229,2147483647,A,800,implementation,mkkashef,Java 8,140,0,OK
+45485551,1054,1541783022,2147483647,B,1100,implementation,Lanirina,Java 8,264,0,OK
+45482533,1054,1541777606,2147483647,A,800,implementation,Lanirina,Java 8,155,0,OK
+45425549,1054,1541622584,2147483647,A,800,implementation,DavidVictor2004,Java 8,139,0,OK
+45401457,1054,1541580482,2147483647,A,800,implementation,Alderon,Java 8,140,0,OK
+45390887,1054,1541538909,2147483647,B,1100,implementation,vieta,Java 8,248,0,OK
+45312320,1054,1541395490,2147483647,A,800,implementation,vieta,Java 8,140,0,OK
+45268930,1054,1541316639,2147483647,C,1400,constructive algorithms-implementation,xyz_000,Java 8,170,0,OK
+45256364,1054,1541275533,2147483647,C,1400,constructive algorithms-implementation,YousseF_Diaa,Java 8,186,0,OK
+45217983,1054,1541185509,2147483647,A,800,implementation,stolis,Java 8,140,0,OK
+45213383,1054,1541176108,2147483647,B,1100,implementation,YousseF_Diaa,Java 8,233,0,OK
+45212176,1054,1541173467,2147483647,A,800,implementation,YousseF_Diaa,Java 8,140,0,OK
+45122756,1054,1540965570,2147483647,B,1100,implementation,humblenerd,Java 8,155,5324800,OK
+45121761,1054,1540962734,2147483647,A,800,implementation,humblenerd,Java 8,109,0,OK
+45075695,1054,1540857470,2147483647,A,800,implementation,I.A.K.O.V,Java 8,109,0,OK
+45030939,1054,1540785017,2147483647,H,3400,chinese remainder theorem-fft-math-number theory,hoangvta,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44976732,1054,1540706594,2147483647,C,1400,constructive algorithms-implementation,animeshkotka500,Java 8,171,0,OK
+44968099,1054,1540673289,2147483647,A,800,implementation,animeshkotka500,Java 8,140,0,OK
+44961211,1054,1540658118,2147483647,C,1400,constructive algorithms-implementation,Digwener,Java 8,124,0,OK
+44954499,1054,1540647336,2147483647,E,2400,constructive algorithms-implementation-math,Ahmad,Java 8,483,67993600,OK
+44954325,1054,1540647039,2147483647,B,1100,implementation,Digwener,Java 8,171,0,OK
+44954303,1054,1540647010,2147483647,E,2400,constructive algorithms-implementation-math,Ahmad,Java 8,483,68096000,OK
+44953966,1054,1540646579,2147483647,A,800,implementation,Digwener,Java 8,124,0,OK
+44928062,1054,1540589076,2147483647,A,800,implementation,GiantTornado,Java 8,109,0,OK
+44889573,1054,1540519755,2147483647,C,1400,constructive algorithms-implementation,sonusingh.nitaa,Java 8,171,0,OK
+44839405,1054,1540469678,2147483647,A,800,implementation,Anonymous9,Java 8,140,0,OK
+44827932,1054,1540451284,2147483647,B,1100,implementation,Jay_13,Java 8,124,0,OK
+44827526,1054,1540450522,2147483647,A,800,implementation,Jay_13,Java 8,109,0,OK
+44771798,1054,1540384924,2147483647,C,1400,constructive algorithms-implementation,di_halt,Java 8,171,0,OK
+44770190,1054,1540382414,2147483647,B,1100,implementation,di_halt,Java 8,139,0,OK
+44769779,1054,1540381715,2147483647,A,800,implementation,di_halt,Java 8,124,0,OK
+44746544,1054,1540314682,2147483647,B,1100,implementation,MikeFaraday,Java 8,265,0,OK
+44746048,1054,1540313800,2147483647,A,800,implementation,MikeFaraday,Java 8,139,0,OK
+44725338,1054,1540280876,2147483647,A,800,implementation,Maduin,Java 8,155,0,OK
+44718129,1054,1540254370,2147483647,A,800,implementation,codefield,Java 8,139,0,OK
+44718114,1054,1540254317,2147483647,A,800,implementation,codefield,Java 8,140,0,OK
+44718053,1054,1540254015,2147483647,A,800,implementation,codefield,Java 8,140,0,OK
+44718014,1054,1540253843,2147483647,A,800,implementation,codefield,Java 8,109,0,OK
+44706167,1054,1540227199,2147483647,C,1400,constructive algorithms-implementation,Tarun,Java 8,155,0,OK
+44700257,1054,1540218769,2147483647,C,1400,constructive algorithms-implementation,satyamkmr326,Java 8,171,0,OK
+44668581,1054,1540150376,2147483647,C,1400,constructive algorithms-implementation,alibaba,Java 8,233,0,OK
+44666772,1054,1540146185,2147483647,A,800,implementation,RichardBot7000,Java 8,140,0,OK
+44666511,1054,1540145614,2147483647,C,1400,constructive algorithms-implementation,mug,Java 8,156,0,OK
+44665461,1054,1540143494,2147483647,C,1400,constructive algorithms-implementation,swayamraina,Java 8,187,0,OK
+44663930,1054,1540140415,2147483647,B,1100,implementation,swapnil9090,Java 8,249,0,OK
+44652441,1054,1540122763,2147483647,C,1400,constructive algorithms-implementation,noob__coder,Java 8,156,0,OK
+44648740,1054,1540117266,2147483647,B,1100,implementation,noob__coder,Java 8,124,0,OK
+44623566,1054,1540108376,2147483647,C,1400,constructive algorithms-implementation,aman28rwt,Java 8,109,0,OK
+44622074,1054,1540105241,2147483647,A,800,implementation,noob__coder,Java 8,109,0,OK
+44613060,1054,1540071031,2147483647,E,2400,constructive algorithms-implementation-math,scoobydoo,Java 8,327,22425600,OK
+44612282,1054,1540068497,2147483647,D,1900,greedy-implementation,art.licis,Java 8,638,10649600,OK
+44611556,1054,1540066535,2147483647,E,2400,constructive algorithms-implementation-math,Conceal,Java 8,389,33996800,OK
+44611315,1054,1540065858,2147483647,C,1400,constructive algorithms-implementation,MasterCraft,Java 8,171,0,OK
+44607067,1054,1540056414,2147483647,D,1900,greedy-implementation,Conceal,Java 8,264,17100800,OK
+44606723,1054,1540055725,2147483647,A,800,implementation,ITERATOR111,Java 8,140,0,OK
+44606590,1054,1540055463,2147483647,D,1900,greedy-implementation,Conceal,Java 8,280,16998400,OK
+44606221,1054,1540054712,2147483647,B,1100,implementation,ITERATOR111,Java 8,249,0,OK
+44600219,1054,1540044077,2147483647,A,800,implementation,BluSky,Java 8,124,0,OK
+44598990,1054,1540042162,2147483647,D,1900,greedy-implementation,wery0,Java 8,248,8601600,OK
+44597586,1054,1540040364,2147483647,D,1900,greedy-implementation,wery0,Java 8,389,15360000,OK
+44597519,1054,1540040308,2147483647,B,1100,implementation,Icerzack,Java 8,249,0,OK
+44597226,1054,1540040009,2147483647,B,1100,implementation,Icerzack,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44595155,1054,1540037911,2147483647,A,800,implementation,Icerzack,Java 8,124,0,OK
+44591294,1054,1540033757,2147483647,C,1400,constructive algorithms-implementation,mirak94,Java 8,139,0,OK
+44583155,1054,1540025785,2147483647,H,3400,chinese remainder theorem-fft-math-number theory,MeryKitty,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44582975,1054,1540025667,2147483647,B,1100,implementation,satyamkmr326,Java 8,249,0,OK
+44582474,1054,1540025300,2147483647,C,1400,constructive algorithms-implementation,SevenDeadlySins,Java 8,140,0,OK
+44582207,1054,1540025122,2147483647,B,1100,implementation,satyamkmr326,Java 8,311,0,OK
+44573731,1054,1540015552,2147483647,A,800,implementation,nOObiecoder,Java 8,140,0,OK
+44573046,1054,1540014436,2147483647,D,1900,greedy-implementation,Slamur,Java 8,248,15052800,OK
+44572826,1054,1540014058,2147483647,D,1900,greedy-implementation,aman_jag,Java 8,405,33587200,OK
+44569205,1054,1540006719,2147483647,A,800,implementation,gaurav12,Java 8,140,0,OK
+44568416,1054,1540004151,2147483647,D,1900,greedy-implementation,Jeel_Vaishnav,Java 8,374,30310400,OK
+44568286,1054,1540003744,2147483647,A,800,implementation,c2chen1994,Java 8,140,0,OK
+44567959,1054,1540002756,2147483647,D,1900,greedy-implementation,c2chen1994,Java 8,498,10752000,OK
+44566639,1054,1539997078,2147483647,A,800,implementation,vktennis,Java 8,139,0,OK
+44563362,1054,1539982044,2147483647,B,1100,implementation,Russhun,Java 8,234,0,OK
+44562596,1054,1539980643,2147483647,D,1900,greedy-implementation,benpr99,Java 8,249,11366400,OK
+44561691,1054,1539978979,979,B,1100,implementation,ISSAM_LAKOUAM,Java 8,264,0,OK
+44561457,1054,1539978550,550,A,800,implementation,ISSAM_LAKOUAM,Java 8,124,0,OK
+44561370,1054,1539978398,2147483647,B,1100,implementation,MasterCraft,Java 8,265,0,OK
+44560438,1054,1539976862,2147483647,B,1100,implementation,Mostafa_Murad,Java 8,155,0,OK
+44558356,1054,1539973596,696,A,800,implementation,jjbrown17,Java 8,140,0,OK
+44557710,1054,1539972711,2147483647,A,800,implementation,MasterCraft,Java 8,140,0,OK
+44557073,1054,1539971552,2147483647,B,1100,implementation,Ahmed_Anwar,Java 8,139,0,OK
+44556529,1054,1539970461,2147483647,A,800,implementation,Ahmed_Anwar,Java 8,109,0,OK
+44556508,1054,1539970429,2147483647,A,800,implementation,Mostafa_Murad,Java 8,140,0,OK
+44552951,1054,1539964913,2147483647,E,2400,constructive algorithms-implementation-math,andrei.bogdanpuiu1999,Java 8,514,27955200,OK
+44551175,1054,1539962535,2147483647,B,1100,implementation,ravi416,Java 8,265,0,OK
+44550651,1054,1539961914,2147483647,E,2400,constructive algorithms-implementation-math,Svyat,Java 8,311,35328000,OK
+44550118,1054,1539961204,2147483647,D,1900,greedy-implementation,KulikAlex,Java 8,265,15564800,OK
+44549917,1054,1539960918,2147483647,A,800,implementation,vinit_pandey,Java 8,139,0,OK
+44548344,1054,1539958885,2147483647,C,1400,constructive algorithms-implementation,koder118,Java 8,171,0,OK
+44547854,1054,1539958307,2147483647,D,1900,greedy-implementation,wadissimo,Java 8,265,14540800,OK
+44546901,1054,1539957005,2147483647,E,2400,constructive algorithms-implementation-math,andrei.bogdanpuiu1999,Java 8,1000,26931200,TIME_LIMIT_EXCEEDED
+44545561,1054,1539955159,2147483647,B,1100,implementation,anmolsngh576,Java 8,139,2048000,OK
+44544755,1054,1539954111,2147483647,D,1900,greedy-implementation,Suhaill,Java 8,295,8396800,OK
+44544088,1054,1539953160,2147483647,C,1400,constructive algorithms-implementation,im_mukul,Java 8,171,0,OK
+44543510,1054,1539952372,4972,C,1400,constructive algorithms-implementation,darshankdarji,Java 8,109,0,OK
+44543401,1054,1539952231,2147483647,C,1400,constructive algorithms-implementation,c2chen1994,Java 8,187,0,OK
+44543104,1054,1539951798,2147483647,C,1400,constructive algorithms-implementation,c2chen1994,Java 8,171,0,OK
+44542845,1054,1539951443,2147483647,C,1400,constructive algorithms-implementation,groboshik,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44541641,1054,1539949560,2160,B,1100,implementation,darshankdarji,Java 8,124,0,OK
+44541107,1054,1539948745,1345,A,800,implementation,darshankdarji,Java 8,124,0,OK
+44540647,1054,1539948009,2147483647,A,800,implementation,zoro25,Java 8,140,0,OK
+44539280,1054,1539945526,406,A,800,implementation,Mohd.,Java 8,124,0,OK
+44538847,1054,1539944722,2147483647,E,2400,constructive algorithms-implementation-math,fnch,Java 8,296,48230400,OK
+44538559,1054,1539944103,2147483647,B,1100,implementation,Hazard10,Java 8,140,1945600,OK
+44538548,1054,1539944079,2147483647,A,800,implementation,Hazard10,Java 8,186,0,OK
+44538418,1054,1539943863,2147483647,B,1100,implementation,jain.charitra24,Java 8,296,0,OK
+44538165,1054,1539943405,2147483647,B,1100,implementation,hardik_vijay,Java 8,264,0,OK
+44538160,1054,1539943375,2147483647,B,1100,implementation,makarov442,Java 8,140,1945600,OK
+44537881,1054,1539942833,2147483647,C,1400,constructive algorithms-implementation,Artem533,Java 8,171,0,OK
+44537797,1054,1539942686,2147483647,H,3400,chinese remainder theorem-fft-math-number theory,VVan228,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44537734,1054,1539942558,2147483647,C,1400,constructive algorithms-implementation,Vyshu,Java 8,124,0,OK
+44537492,1054,1539942081,2147483647,A,800,implementation,hardik_vijay,Java 8,140,0,OK
+44537410,1054,1539941929,2147483647,C,1400,constructive algorithms-implementation,Aniket144,Java 8,156,0,OK
+44537339,1054,1539941766,2147483647,C,1400,constructive algorithms-implementation,c2chen1994,Java 8,233,0,OK
+44537028,1054,1539941222,2147483647,D,1900,greedy-implementation,Shaykhutdinov-T-I,Java 8,280,15564800,OK
+44536981,1054,1539941123,2147483647,C,1400,constructive algorithms-implementation,c2chen1994,Java 8,218,0,OK
+44536943,1054,1539941062,2147483647,A,800,implementation,jain.charitra24,Java 8,140,0,OK
+44536907,1054,1539940989,2147483647,C,1400,constructive algorithms-implementation,c2chen1994,Java 8,218,0,OK
+44536572,1054,1539940365,2147483647,C,1400,constructive algorithms-implementation,reborn.chris,Java 8,171,0,OK
+44536387,1054,1539940032,2147483647,D,1900,greedy-implementation,aminul,Java 8,295,8396800,OK
+44536336,1054,1539939934,2147483647,D,1900,greedy-implementation,cplayer,Java 8,265,16076800,OK
+44535829,1054,1539939110,2147483647,C,1400,constructive algorithms-implementation,atharvat77,Java 8,156,0,OK
+44535813,1054,1539939079,2147483647,B,1100,implementation,im_mukul,Java 8,265,0,OK
+44535562,1054,1539938684,2147483647,B,1100,implementation,reborn.chris,Java 8,140,0,OK
+44535129,1054,1539938027,2147483647,A,800,implementation,reborn.chris,Java 8,124,0,OK
+44532975,1054,1539934102,8302,D,1900,greedy-implementation,Codeforce_123,Java 8,249,10035200,OK
+44532968,1054,1539934094,2147483647,E,2400,constructive algorithms-implementation-math,Jeel_Vaishnav,Java 8,311,11571200,OK
+44532898,1054,1539933981,8181,D,1900,greedy-implementation,Codeforce_123,Java 8,218,10035200,OK
+44531785,1054,1539931946,2147483647,G,2900,constructive algorithms-greedy-math,Lewin,Java 8,1638,37683200,OK
+44531752,1054,1539931881,2147483647,C,1400,constructive algorithms-implementation,mannshah27,Java 8,156,0,OK
+44530879,1054,1539930425,2147483647,B,1100,implementation,hadiLotfy,Java 8,171,5427200,OK
+44530779,1054,1539930216,8915,A,800,implementation,Anios,Java 8,109,0,OK
+44530703,1054,1539930085,2147483647,B,1100,implementation,mohdafzal330,Java 8,140,1945600,OK
+44530562,1054,1539929835,1635,A,800,implementation,Ni_Whale_a,Java 8,140,0,OK
+44530457,1054,1539929574,3774,C,1400,constructive algorithms-implementation,Codeforce_123,Java 8,139,0,OK
+44530336,1054,1539929322,2147483647,A,800,implementation,himanshu_1012,Java 8,124,0,OK
+44530167,1054,1539928986,2147483647,D,1900,greedy-implementation,Srinivasa_Ramanujan,Java 8,233,12185600,OK
+44529926,1054,1539928427,2147483647,A,800,implementation,mohdafzal330,Java 8,124,0,OK
+44529678,1054,1539927901,2101,B,1100,implementation,Codeforce_123,Java 8,202,0,OK
+44529561,1054,1539927623,2147483647,C,1400,constructive algorithms-implementation,sooraj10,Java 8,140,0,OK
+44529306,1054,1539926985,1185,A,800,implementation,Codeforce_123,Java 8,109,0,OK
+44529252,1054,1539926867,2147483647,C,1400,constructive algorithms-implementation,aman_jag,Java 8,670,0,OK
+44528752,1054,1539925642,2147483647,B,1100,implementation,happygirlzt,Java 8,124,2048000,OK
+44528639,1054,1539925364,2147483647,B,1100,implementation,coderbond007,Java 8,124,0,OK
+44528619,1054,1539925284,2147483647,B,1100,implementation,Code_AViCii,Java 8,249,0,OK
+44528578,1054,1539925188,2147483647,B,1100,implementation,BaaaaaaanTedGuYYYYYYY,Java 8,140,2048000,OK
+44528490,1054,1539924970,2147483647,D,1900,greedy-implementation,aman28rwt,Java 8,264,9728000,OK
+44528363,1054,1539924652,2147483647,E,2400,constructive algorithms-implementation-math,andrei.bogdanpuiu1999,Java 8,1000,23654400,TIME_LIMIT_EXCEEDED
+44528325,1054,1539924573,2147483647,B,1100,implementation,Aniket144,Java 8,249,0,OK
+44528238,1054,1539924324,2147483647,B,1100,implementation,c2chen1994,Java 8,265,0,OK
+44528205,1054,1539924231,2147483647,E,2400,constructive algorithms-implementation-math,andrei.bogdanpuiu1999,Java 8,1000,7577600,TIME_LIMIT_EXCEEDED
+44528183,1054,1539924147,2147483647,A,800,implementation,Code_AViCii,Java 8,124,0,OK
+44528170,1054,1539924087,2147483647,A,800,implementation,Aniket144,Java 8,140,0,OK
+44528034,1054,1539923660,2147483647,E,2400,constructive algorithms-implementation-math,andrei.bogdanpuiu1999,Java 8,1000,18944000,TIME_LIMIT_EXCEEDED
+44527851,1054,1539923064,2147483647,B,1100,implementation,atharvat77,Java 8,248,0,OK
+44527833,1054,1539923000,2147483647,D,1900,greedy-implementation,Psp_98,Java 8,233,10649600,OK
+44527591,1054,1539922369,2147483647,C,1400,constructive algorithms-implementation,chandan5284,Java 8,124,0,OK
+44527466,1054,1539921936,2147483647,D,1900,greedy-implementation,flyman3046,Java 8,342,33280000,OK
+44527409,1054,1539921760,2147483647,B,1100,implementation,atharvat77,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44526563,1054,1539918672,2147483647,C,1400,constructive algorithms-implementation,aman_jag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44526539,1054,1539918599,2147483647,C,1400,constructive algorithms-implementation,aman_jag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44526515,1054,1539918520,2147483647,A,800,implementation,rishabh101,Java 8,124,0,OK
+44526364,1054,1539917984,2147483647,C,1400,constructive algorithms-implementation,aman_jag,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44526309,1054,1539917761,2147483647,C,1400,constructive algorithms-implementation,dsh_bc,Java 8,140,0,OK
+44525824,1054,1539915627,2147483647,D,1900,greedy-implementation,BaZ_,Java 8,217,8704000,OK
+44525813,1054,1539915589,2147483647,A,800,implementation,raj455,Java 8,140,0,OK
+44525140,1054,1539912368,2147483647,B,1100,implementation,neko_nyaa,Java 8,233,0,OK
+44524384,1054,1539908489,2147483647,D,1900,greedy-implementation,andrei.bogdanpuiu1999,Java 8,842,22323200,OK
+44523511,1054,1539904067,2147483647,C,1400,constructive algorithms-implementation,Mazen_Tarek,Java 8,124,0,OK
+44523038,1054,1539902047,2147483647,C,1400,constructive algorithms-implementation,doomsfear,Java 8,155,0,OK
+44522960,1054,1539901926,2147483647,D,1900,greedy-implementation,msagimbekov,Java 8,389,28160000,OK
+44522917,1054,1539901795,2147483647,D,1900,greedy-implementation,msagimbekov,Java 8,389,28160000,OK
+44522878,1054,1539901667,2147483647,D,1900,greedy-implementation,ViciousCoder,Java 8,264,10547200,OK
+44522699,1054,1539901107,2147483647,A,800,implementation,Anonymous,Java 8,139,0,OK
+44522602,1054,1539900834,2147483647,B,1100,implementation,Anonymous,Java 8,295,0,OK
+44522472,1054,1539900517,2147483647,D,1900,greedy-implementation,baobab,Java 8,327,8499200,OK
+44522429,1054,1539900392,2147483647,C,1400,constructive algorithms-implementation,Anonymous,Java 8,202,0,OK
+44522318,1054,1539900106,2147483647,C,1400,constructive algorithms-implementation,Rohan088,Java 8,140,0,OK
+44522149,1054,1539899657,2147483647,A,800,implementation,enricogi,Java 8,156,0,OK
+44522134,1054,1539899618,2147483647,E,2400,constructive algorithms-implementation-math,mmaxio,Java 8,343,11366400,OK
+44521923,1054,1539899248,2147483647,F,2600,flows-graph matchings,mmaxio,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44521905,1054,1539899224,2147483647,C,1400,constructive algorithms-implementation,msagimbekov,Java 8,171,0,OK
+44521904,1054,1539899223,2147483647,D,1900,greedy-implementation,aminul,Java 8,280,8396800,OK
+44521864,1054,1539899155,2147483647,F,2600,flows-graph matchings,mmaxio,Java 8,374,0,OK
+44519525,1054,1539889425,8925,C,1400,constructive algorithms-implementation,amrtri003,Java 8,171,0,OK
+44519519,1054,1539889425,8925,H,3400,chinese remainder theorem-fft-math-number theory,ShvartzAleksandr,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44519314,1054,1539889334,8834,E,2400,constructive algorithms-implementation-math,iakovlev.zakhar,Java 8,404,27545600,OK
+44519305,1054,1539889329,8829,C,1400,constructive algorithms-implementation,st_25,Java 8,155,0,OK
+44519285,1054,1539889321,8821,F,2600,flows-graph matchings,abacabadabacaba,Java 8,187,0,OK
+44519276,1054,1539889318,8818,C,1400,constructive algorithms-implementation,Amer,Java 8,171,0,OK
+44519245,1054,1539889300,8800,C,1400,constructive algorithms-implementation,hiromi_ayase,Java 8,140,0,OK
+44519215,1054,1539889284,8784,A,800,implementation,harshhx17,Java 8,124,0,OK
+44519138,1054,1539889238,8738,F,2600,flows-graph matchings,uwi,Java 8,140,16793600,OK
+44519019,1054,1539889168,8668,C,1400,constructive algorithms-implementation,im_mukul,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44518922,1054,1539889107,8607,B,1100,implementation,raj455,Java 8,249,0,OK
+44518849,1054,1539889057,8557,G,2900,constructive algorithms-greedy-math,Lewin,Java 8,1700,38400000,OK
+44518751,1054,1539888989,8489,D,1900,greedy-implementation,bhavyashah9873,Java 8,530,22630400,OK
+44518683,1054,1539888936,8436,A,800,implementation,nirenamid,Java 8,155,0,OK
+44518642,1054,1539888911,8411,B,1100,implementation,thetansquared,Java 8,171,5427200,OK
+44518442,1054,1539888767,8267,A,800,implementation,lkm,Java 8,140,0,OK
+44518371,1054,1539888717,8217,D,1900,greedy-implementation,scoobydoo,Java 8,295,11980800,OK
+44518307,1054,1539888670,8170,E,2400,constructive algorithms-implementation-math,kessido,Java 8,249,23040000,OK
+44518285,1054,1539888654,8154,A,800,implementation,eeshwarasai,Java 8,109,0,OK
+44518199,1054,1539888596,8096,E,2400,constructive algorithms-implementation-math,Egor,Java 8,467,20787200,OK
+44518140,1054,1539888538,8038,C,1400,constructive algorithms-implementation,RehamNaguib,Java 8,171,0,OK
+44518133,1054,1539888533,8033,C,1400,constructive algorithms-implementation,im_mukul,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44518005,1054,1539888443,7943,E,2400,constructive algorithms-implementation-math,Egor,Java 8,1000,20275200,TIME_LIMIT_EXCEEDED
+44517930,1054,1539888390,7890,G,2900,constructive algorithms-greedy-math,Lewin,Java 8,2000,38400000,TIME_LIMIT_EXCEEDED
+44517835,1054,1539888324,7824,D,1900,greedy-implementation,dusty.and.rusty,Java 8,779,20684800,OK
+44517810,1054,1539888306,7806,C,1400,constructive algorithms-implementation,singhrajat,Java 8,140,0,OK
+44517732,1054,1539888248,7748,E,2400,constructive algorithms-implementation-math,mmaxio,Java 8,358,11366400,OK
+44517726,1054,1539888245,7745,D,1900,greedy-implementation,ankur7,Java 8,249,10035200,OK
+44517685,1054,1539888209,7709,C,1400,constructive algorithms-implementation,lehar1999,Java 8,171,0,OK
+44517614,1054,1539888163,7663,G,2900,constructive algorithms-greedy-math,Lewin,Java 8,2000,38297600,TIME_LIMIT_EXCEEDED
+44517545,1054,1539888110,7610,C,1400,constructive algorithms-implementation,WisdenCoder,Java 8,140,0,OK
+44517482,1054,1539888057,7557,B,1100,implementation,nizamfarhaan,Java 8,265,0,OK
+44517348,1054,1539887955,7455,C,1400,constructive algorithms-implementation,Hapsidra,Java 8,140,0,OK
+44517230,1054,1539887875,7375,D,1900,greedy-implementation,hiromi_ayase,Java 8,389,33382400,OK
+44517158,1054,1539887826,7326,G,2900,constructive algorithms-greedy-math,Lewin,Java 8,2000,40038400,TIME_LIMIT_EXCEEDED
+44517049,1054,1539887749,7249,C,1400,constructive algorithms-implementation,ekaanshkhosla,Java 8,171,0,OK
+44517036,1054,1539887733,7233,G,2900,constructive algorithms-greedy-math,Lewin,Java 8,2000,31948800,TIME_LIMIT_EXCEEDED
+44517026,1054,1539887727,7227,B,1100,implementation,lkm,Java 8,249,0,OK
+44516960,1054,1539887679,7179,D,1900,greedy-implementation,chandan5284,Java 8,233,10547200,OK
+44516745,1054,1539887521,7021,C,1400,constructive algorithms-implementation,shreya_jain,Java 8,140,0,OK
+44516560,1054,1539887381,6881,G,2900,constructive algorithms-greedy-math,Lewin,Java 8,2000,33792000,TIME_LIMIT_EXCEEDED
+44516489,1054,1539887331,6831,A,800,implementation,Breakout,Java 8,139,0,OK
+44516364,1054,1539887243,6743,C,1400,constructive algorithms-implementation,amanchik,Java 8,139,0,OK
+44516123,1054,1539887105,6605,F,2600,flows-graph matchings,mmaxio,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44516081,1054,1539887082,6582,C,1400,constructive algorithms-implementation,PumbaOmsk,Java 8,217,0,OK
+44516061,1054,1539887073,6573,H,3400,chinese remainder theorem-fft-math-number theory,effie.m,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44515937,1054,1539886996,6496,C,1400,constructive algorithms-implementation,yuShaf,Java 8,155,0,OK
+44515913,1054,1539886984,6484,E,2400,constructive algorithms-implementation-math,abacabadabacaba,Java 8,233,5632000,OK
+44515837,1054,1539886938,6438,A,800,implementation,akshay2301,Java 8,140,0,OK
+44515827,1054,1539886933,6433,A,800,implementation,im_mukul,Java 8,140,0,OK
+44515819,1054,1539886927,6427,H,3400,chinese remainder theorem-fft-math-number theory,osho_agyeya,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44515719,1054,1539886861,6361,A,800,implementation,PumbaOmsk,Java 8,140,0,OK
+44515698,1054,1539886849,6349,A,800,implementation,Guru_Randhawa,Java 8,140,0,OK
+44515645,1054,1539886815,6315,H,3400,chinese remainder theorem-fft-math-number theory,osho_agyeya,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44515620,1054,1539886801,6301,A,800,implementation,nizamfarhaan,Java 8,140,0,OK
+44515603,1054,1539886791,6291,B,1100,implementation,Umangpatel,Java 8,265,0,OK
+44515501,1054,1539886738,6238,C,1400,constructive algorithms-implementation,yuShaf,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44515384,1054,1539886662,6162,D,1900,greedy-implementation,spar5h,Java 8,327,14745600,OK
+44515381,1054,1539886659,6159,D,1900,greedy-implementation,xodiac,Java 8,296,15564800,OK
+44515352,1054,1539886636,6136,B,1100,implementation,habibulka,Java 8,155,0,OK
+44515217,1054,1539886554,6054,B,1100,implementation,RehamNaguib,Java 8,265,0,OK
+44515137,1054,1539886504,6004,B,1100,implementation,SchrodZzz,Java 8,280,0,OK
+44515121,1054,1539886494,5994,C,1400,constructive algorithms-implementation,amrtri003,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44515105,1054,1539886484,5984,A,800,implementation,meher12,Java 8,140,0,OK
+44515002,1054,1539886424,5924,A,800,implementation,Virouse,Java 8,140,0,OK
+44514994,1054,1539886422,5922,C,1400,constructive algorithms-implementation,shedelok,Java 8,171,0,OK
+44514993,1054,1539886421,5921,C,1400,constructive algorithms-implementation,shubhch32,Java 8,171,0,OK
+44514949,1054,1539886397,5897,C,1400,constructive algorithms-implementation,NorthernMystic,Java 8,171,0,OK
+44514799,1054,1539886308,5808,C,1400,constructive algorithms-implementation,DropKeBaadNirma,Java 8,124,0,OK
+44514782,1054,1539886297,5797,B,1100,implementation,groboshik,Java 8,311,0,OK
+44514640,1054,1539886208,5708,C,1400,constructive algorithms-implementation,wadissimo,Java 8,140,0,OK
+44514627,1054,1539886197,5697,A,800,implementation,mammedbrk,Java 8,155,0,OK
+44514592,1054,1539886181,5681,D,1900,greedy-implementation,alexyz,Java 8,249,17715200,OK
+44514563,1054,1539886163,5663,A,800,implementation,swayamraina,Java 8,124,0,OK
+44514561,1054,1539886159,5659,B,1100,implementation,gaurav12,Java 8,265,0,OK
+44514441,1054,1539886103,5603,B,1100,implementation,daniilzimin4,Java 8,264,0,OK
+44514440,1054,1539886103,5603,B,1100,implementation,VValeriyK,Java 8,234,0,OK
+44514413,1054,1539886087,5587,A,800,implementation,VladDotH,Java 8,140,0,OK
+44514306,1054,1539886020,5520,C,1400,constructive algorithms-implementation,Empire,Java 8,139,0,OK
+44514286,1054,1539886011,5511,C,1400,constructive algorithms-implementation,Psp_98,Java 8,139,0,OK
+44514187,1054,1539885952,5452,C,1400,constructive algorithms-implementation,ViciousCoder,Java 8,140,0,OK
+44514125,1054,1539885919,5419,C,1400,constructive algorithms-implementation,Empire,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44514086,1054,1539885901,5401,B,1100,implementation,Kliver98,Java 8,156,5324800,OK
+44514060,1054,1539885890,5390,D,1900,greedy-implementation,ankurdua15,Java 8,249,11468800,OK
+44513986,1054,1539885853,5353,C,1400,constructive algorithms-implementation,flyman3046,Java 8,139,0,OK
+44513971,1054,1539885845,5345,A,800,implementation,mohamed_fathy,Java 8,124,0,OK
+44513970,1054,1539885845,5345,D,1900,greedy-implementation,indy256,Java 8,202,0,OK
+44513951,1054,1539885833,5333,C,1400,constructive algorithms-implementation,harshhx17,Java 8,155,0,OK
+44513942,1054,1539885831,5331,D,1900,greedy-implementation,Jeel_Vaishnav,Java 8,249,12288000,OK
+44513915,1054,1539885813,5312,B,1100,implementation,st_25,Java 8,155,5427200,OK
+44513821,1054,1539885765,5265,B,1100,implementation,mukhan.m,Java 8,124,2048000,OK
+44513817,1054,1539885762,5262,B,1100,implementation,Vandit_Shihora,Java 8,249,0,OK
+44513808,1054,1539885758,5258,F,2600,flows-graph matchings,Lewin,Java 8,296,6348800,OK
+44513807,1054,1539885758,5258,D,1900,greedy-implementation,R_WeaVer,Java 8,514,11059200,OK
+44513735,1054,1539885713,5213,H,3400,chinese remainder theorem-fft-math-number theory,effie.m,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44513504,1054,1539885596,5096,E,2400,constructive algorithms-implementation-math,uwi,Java 8,311,35225600,OK
+44513453,1054,1539885573,5073,A,800,implementation,Bhavana1,Java 8,140,0,OK
+44513440,1054,1539885561,5061,C,1400,constructive algorithms-implementation,Empire,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44513430,1054,1539885556,5056,B,1100,implementation,MubtasimShahriar,Java 8,280,0,OK
+44513392,1054,1539885528,5028,A,800,implementation,vayunandhan,Java 8,140,0,OK
+44513385,1054,1539885525,5025,A,800,implementation,Mohitpatel,Java 8,140,0,OK
+44513160,1054,1539885395,4895,D,1900,greedy-implementation,fnch,Java 8,280,3276800,OK
+44513154,1054,1539885391,4891,C,1400,constructive algorithms-implementation,masterbios,Java 8,140,0,OK
+44513152,1054,1539885389,4889,D,1900,greedy-implementation,PrakharJain,Java 8,404,16179200,OK
+44513051,1054,1539885335,4835,B,1100,implementation,shedelok,Java 8,249,0,OK
+44512831,1054,1539885228,4728,A,800,implementation,hiromi_ayase,Java 8,124,0,OK
+44512806,1054,1539885212,4712,A,800,implementation,AlmadelX,Java 8,140,0,OK
+44512697,1054,1539885162,4662,D,1900,greedy-implementation,HardikDobariya,Java 8,249,8704000,OK
+44512623,1054,1539885111,4611,B,1100,implementation,BitShot,Java 8,170,5120000,OK
+44512585,1054,1539885088,4588,D,1900,greedy-implementation,SecondThread,Java 8,280,11366400,OK
+44512541,1054,1539885065,4565,B,1100,implementation,Fixthegame,Java 8,280,0,OK
+44512514,1054,1539885052,4552,C,1400,constructive algorithms-implementation,bhautik_77,Java 8,139,0,OK
+44512460,1054,1539885028,4528,D,1900,greedy-implementation,4mda4mda,Java 8,623,18022400,OK
+44512455,1054,1539885026,4526,H,3400,chinese remainder theorem-fft-math-number theory,effie.m,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44512362,1054,1539884967,4466,A,800,implementation,meetpatel01,Java 8,140,0,OK
+44512299,1054,1539884931,4431,A,800,implementation,st_25,Java 8,109,0,OK
+44512249,1054,1539884907,4407,B,1100,implementation,nesdi,Java 8,155,0,OK
+44512228,1054,1539884895,4395,C,1400,constructive algorithms-implementation,xodiac,Java 8,124,0,OK
+44512207,1054,1539884882,4382,C,1400,constructive algorithms-implementation,RDmitriyS,Java 8,171,0,OK
+44512179,1054,1539884869,4369,C,1400,constructive algorithms-implementation,NRGsama,Java 8,140,0,OK
+44512174,1054,1539884868,4368,D,1900,greedy-implementation,yarrr,Java 8,280,16691200,OK
+44512165,1054,1539884862,4362,C,1400,constructive algorithms-implementation,Bult-Zst,Java 8,171,0,OK
+44512139,1054,1539884849,4349,B,1100,implementation,TuranS,Java 8,265,0,OK
+44512049,1054,1539884811,4311,C,1400,constructive algorithms-implementation,Empire,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44512045,1054,1539884810,4310,B,1100,implementation,ShvartzAleksandr,Java 8,265,0,OK
+44511993,1054,1539884786,4286,B,1100,implementation,AhmedAbdou,Java 8,311,0,OK
+44511883,1054,1539884731,4231,C,1400,constructive algorithms-implementation,onishgarg101,Java 8,140,0,OK
+44511870,1054,1539884727,4227,C,1400,constructive algorithms-implementation,niteshgowda,Java 8,170,0,OK
+44511794,1054,1539884689,4189,C,1400,constructive algorithms-implementation,golions,Java 8,124,0,OK
+44511637,1054,1539884614,4114,A,800,implementation,shedelok,Java 8,140,0,OK
+44511571,1054,1539884589,4089,C,1400,constructive algorithms-implementation,shreyas_21,Java 8,171,0,OK
+44511566,1054,1539884585,4085,H,3400,chinese remainder theorem-fft-math-number theory,effie.m,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44511484,1054,1539884540,4040,C,1400,constructive algorithms-implementation,Empire,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44511446,1054,1539884526,4026,C,1400,constructive algorithms-implementation,baobab,Java 8,124,0,OK
+44511418,1054,1539884511,4011,B,1100,implementation,doomsfear,Java 8,187,0,OK
+44511414,1054,1539884510,4010,C,1400,constructive algorithms-implementation,Egor,Java 8,139,0,OK
+44511391,1054,1539884498,3998,C,1400,constructive algorithms-implementation,ika,Java 8,124,0,OK
+44511376,1054,1539884492,3992,B,1100,implementation,hardik44,Java 8,140,1945600,OK
+44511346,1054,1539884478,3978,C,1400,constructive algorithms-implementation,redwings,Java 8,171,0,OK
+44511308,1054,1539884457,3957,D,1900,greedy-implementation,hulk_man,Java 8,280,11776000,OK
+44511199,1054,1539884414,3914,D,1900,greedy-implementation,Slamur,Java 8,280,18124800,OK
+44511106,1054,1539884377,3877,B,1100,implementation,Fixthegame,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44511090,1054,1539884370,3870,C,1400,constructive algorithms-implementation,KulikAlex,Java 8,139,0,OK
+44511074,1054,1539884364,3864,C,1400,constructive algorithms-implementation,scoobydoo,Java 8,139,0,OK
+44511065,1054,1539884359,3859,C,1400,constructive algorithms-implementation,tusharjape007,Java 8,124,0,OK
+44511012,1054,1539884335,3835,B,1100,implementation,koder118,Java 8,265,0,OK
+44510980,1054,1539884320,3820,C,1400,constructive algorithms-implementation,aitch_nu,Java 8,171,0,OK
+44510933,1054,1539884302,3802,C,1400,constructive algorithms-implementation,Empire,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44510917,1054,1539884296,3796,B,1100,implementation,Mooncrater,Java 8,170,5427200,OK
+44510863,1054,1539884274,3774,B,1100,implementation,groboshik,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44510703,1054,1539884195,3695,B,1100,implementation,TuranS,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44510648,1054,1539884177,3677,H,3400,chinese remainder theorem-fft-math-number theory,vayunandhan,Java 8,4000,0,TIME_LIMIT_EXCEEDED
+44510644,1054,1539884175,3675,B,1100,implementation,swayamraina,Java 8,155,5427200,OK
+44510618,1054,1539884165,3665,C,1400,constructive algorithms-implementation,Empire,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44510598,1054,1539884156,3655,C,1400,constructive algorithms-implementation,aman110599,Java 8,124,0,OK
+44510541,1054,1539884132,3632,C,1400,constructive algorithms-implementation,pj21,Java 8,124,0,OK
+44510474,1054,1539884108,3608,B,1100,implementation,sonusingh.nitaa,Java 8,265,0,OK
+44510433,1054,1539884092,3592,D,1900,greedy-implementation,kessido,Java 8,265,17305600,OK
+44510413,1054,1539884085,3585,A,800,implementation,FTB_lag,Java 8,155,0,OK
+44510206,1054,1539883989,3489,C,1400,constructive algorithms-implementation,wflms20110333,Java 8,171,0,OK
+44510165,1054,1539883973,3473,B,1100,implementation,ELMaestro,Java 8,265,0,OK
+44510164,1054,1539883973,3473,B,1100,implementation,ViceCity,Java 8,249,0,OK
+44510161,1054,1539883972,3472,B,1100,implementation,dsh_bc,Java 8,140,0,OK
+44510158,1054,1539883970,3470,E,2400,constructive algorithms-implementation-math,Lewin,Java 8,358,19660800,OK
+44510111,1054,1539883953,3453,B,1100,implementation,woodruffr4,Java 8,295,0,OK
+44510079,1054,1539883940,3440,D,1900,greedy-implementation,iakovlev.zakhar,Java 8,280,16896000,OK
+44510016,1054,1539883909,3409,C,1400,constructive algorithms-implementation,fnch,Java 8,202,0,OK
+44510001,1054,1539883902,3402,A,800,implementation,pulock_123,Java 8,155,0,OK
+44509998,1054,1539883900,3400,C,1400,constructive algorithms-implementation,Empire,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44509993,1054,1539883899,3399,C,1400,constructive algorithms-implementation,GiGlema,Java 8,171,0,OK
+44509957,1054,1539883884,3384,B,1100,implementation,Fixthegame,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44509956,1054,1539883884,3384,B,1100,implementation,mdazmat9,Java 8,170,2048000,OK
+44509952,1054,1539883883,3383,C,1400,constructive algorithms-implementation,indy256,Java 8,124,0,OK
+44509910,1054,1539883865,3365,B,1100,implementation,Itwazonce,Java 8,155,0,OK
+44509866,1054,1539883848,3348,B,1100,implementation,oo00oo00,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44509796,1054,1539883817,3317,B,1100,implementation,dyominov,Java 8,156,2048000,OK
+44509762,1054,1539883803,3303,C,1400,constructive algorithms-implementation,Jeel_Vaishnav,Java 8,296,24985600,OK
+44509701,1054,1539883775,3275,B,1100,implementation,fatnassiahmed,Java 8,202,5222400,OK
+44509698,1054,1539883774,3274,A,800,implementation,anmolsngh576,Java 8,124,0,OK
+44509678,1054,1539883766,3266,B,1100,implementation,oo00oo00,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44509670,1054,1539883762,3262,C,1400,constructive algorithms-implementation,ankurdua15,Java 8,139,0,OK
+44509631,1054,1539883746,3246,B,1100,implementation,aTan,Java 8,140,2048000,OK
+44509613,1054,1539883736,3236,C,1400,constructive algorithms-implementation,gamezovladislav,Java 8,140,0,OK
+44509555,1054,1539883714,3214,D,1900,greedy-implementation,Ahmad,Java 8,296,10956800,OK
+44509501,1054,1539883690,3190,B,1100,implementation,FedeBell94,Java 8,264,0,OK
+44509461,1054,1539883676,3176,C,1400,constructive algorithms-implementation,xwchen,Java 8,186,0,OK
+44509206,1054,1539883584,3084,B,1100,implementation,clark96,Java 8,327,7065600,OK
+44509203,1054,1539883582,3082,B,1100,implementation,G.kishan,Java 8,280,0,OK
+44509202,1054,1539883581,3081,A,800,implementation,mohitgupta943,Java 8,140,0,OK
+44509126,1054,1539883552,3052,C,1400,constructive algorithms-implementation,Itwazonce,Java 8,140,0,OK
+44508960,1054,1539883483,2983,C,1400,constructive algorithms-implementation,new_start1,Java 8,124,0,OK
+44508957,1054,1539883481,2981,B,1100,implementation,naman11396,Java 8,280,0,OK
+44508956,1054,1539883480,2980,B,1100,implementation,Bult-Zst,Java 8,249,0,OK
+44508940,1054,1539883475,2975,D,1900,greedy-implementation,abacabadabacaba,Java 8,187,9216000,OK
+44508883,1054,1539883454,2954,B,1100,implementation,mdazmat9,Java 8,1000,258764800,TIME_LIMIT_EXCEEDED
+44508809,1054,1539883425,2925,B,1100,implementation,NorthernMystic,Java 8,233,0,OK
+44508687,1054,1539883369,2869,B,1100,implementation,mohamed_fathy,Java 8,155,0,OK
+44508672,1054,1539883364,2864,B,1100,implementation,mannshah27,Java 8,327,4096000,OK
+44508605,1054,1539883337,2837,B,1100,implementation,Artem533,Java 8,265,0,OK
+44508558,1054,1539883322,2822,D,1900,greedy-implementation,Suzukaze,Java 8,405,40448000,OK
+44508543,1054,1539883316,2816,C,1400,constructive algorithms-implementation,bhavyashah9873,Java 8,951,5222400,OK
+44508521,1054,1539883305,2805,C,1400,constructive algorithms-implementation,alexyz,Java 8,124,0,OK
+44508518,1054,1539883304,2804,C,1400,constructive algorithms-implementation,alper,Java 8,249,0,OK
+44508509,1054,1539883302,2802,B,1100,implementation,shahdhairya678,Java 8,265,0,OK
+44508461,1054,1539883287,2787,A,800,implementation,amir7777,Java 8,124,0,OK
+44508408,1054,1539883267,2767,B,1100,implementation,Shuvi179,Java 8,249,0,OK
+44508372,1054,1539883255,2755,B,1100,implementation,ekaanshkhosla,Java 8,265,0,OK
+44508306,1054,1539883231,2731,C,1400,constructive algorithms-implementation,BaZ_,Java 8,139,0,OK
+44508276,1054,1539883222,2722,A,800,implementation,sonusingh.nitaa,Java 8,140,0,OK
+44508083,1054,1539883156,2656,C,1400,constructive algorithms-implementation,kamalkishor1991,Java 8,139,0,OK
+44508048,1054,1539883144,2644,B,1100,implementation,AnanthDhruva,Java 8,389,7987200,OK
+44508002,1054,1539883128,2628,A,800,implementation,BaaaaaaanTedGuYYYYYYY,Java 8,124,0,OK
+44507943,1054,1539883110,2610,C,1400,constructive algorithms-implementation,art.licis,Java 8,171,0,OK
+44507917,1054,1539883101,2601,B,1100,implementation,BiggestPrime,Java 8,202,0,OK
+44507761,1054,1539883052,2552,B,1100,implementation,naman11396,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44507682,1054,1539883031,2530,B,1100,implementation,DropKeBaadNirma,Java 8,155,2867200,OK
+44507680,1054,1539883029,2529,A,800,implementation,koder118,Java 8,140,0,OK
+44507679,1054,1539883029,2529,B,1100,implementation,tbrknt,Java 8,264,0,OK
+44507651,1054,1539883021,2521,B,1100,implementation,osho_agyeya,Java 8,280,0,OK
+44507580,1054,1539882996,2496,A,800,implementation,MGLadumor,Java 8,140,0,OK
+44507571,1054,1539882991,2491,C,1400,constructive algorithms-implementation,benpr99,Java 8,170,0,OK
+44507534,1054,1539882982,2482,A,800,implementation,nesdi,Java 8,124,0,OK
+44507448,1054,1539882961,2461,B,1100,implementation,bdomokos,Java 8,280,0,OK
+44507382,1054,1539882939,2439,A,800,implementation,mansur9449,Java 8,140,0,OK
+44507334,1054,1539882923,2423,C,1400,constructive algorithms-implementation,4mda4mda,Java 8,140,0,OK
+44507303,1054,1539882914,2414,C,1400,constructive algorithms-implementation,abacabadabacaba,Java 8,124,0,OK
+44507229,1054,1539882894,2394,A,800,implementation,doomsfear,Java 8,124,0,OK
+44507167,1054,1539882873,2373,C,1400,constructive algorithms-implementation,Snapman,Java 8,171,0,OK
+44506950,1054,1539882812,2312,A,800,implementation,Kliver98,Java 8,140,0,OK
+44506764,1054,1539882748,2248,B,1100,implementation,Hapsidra,Java 8,140,0,OK
+44506726,1054,1539882737,2237,B,1100,implementation,ratn41,Java 8,155,5120000,OK
+44506695,1054,1539882724,2224,B,1100,implementation,Amer,Java 8,249,0,OK
+44506652,1054,1539882713,2213,B,1100,implementation,chandan5284,Java 8,124,0,OK
+44506645,1054,1539882711,2211,B,1100,implementation,Bult-Zst,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44506574,1054,1539882690,2190,D,1900,greedy-implementation,Egor,Java 8,249,10137600,OK
+44506557,1054,1539882687,2187,B,1100,implementation,amir7777,Java 8,124,0,OK
+44506470,1054,1539882660,2160,B,1100,implementation,1Vampire1,Java 8,249,0,OK
+44506430,1054,1539882647,2147,C,1400,constructive algorithms-implementation,serafimkoo,Java 8,171,0,OK
+44506338,1054,1539882623,2123,C,1400,constructive algorithms-implementation,ShowStopper728,Java 8,265,50585600,OK
+44506251,1054,1539882596,2096,B,1100,implementation,rohan03,Java 8,140,0,OK
+44506203,1054,1539882581,2081,B,1100,implementation,redwings,Java 8,264,0,OK
+44506171,1054,1539882573,2073,C,1400,constructive algorithms-implementation,aminul,Java 8,124,0,OK
+44506105,1054,1539882553,2053,B,1100,implementation,RitRage,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+44505929,1054,1539882497,1997,B,1100,implementation,RDmitriyS,Java 8,265,0,OK
+44505886,1054,1539882487,1987,B,1100,implementation,lansergecs,Java 8,139,2048000,OK
+44505801,1054,1539882460,1960,C,1400,constructive algorithms-implementation,kessido,Java 8,124,0,OK
+44505769,1054,1539882451,1950,B,1100,implementation,jnasridinov,Java 8,264,0,OK
+44505703,1054,1539882434,1934,D,1900,greedy-implementation,uwi,Java 8,155,2355200,OK
+44505670,1054,1539882427,1927,B,1100,implementation,Rohan088,Java 8,202,5427200,OK
+44505582,1054,1539882404,1904,B,1100,implementation,shubhammitt,Java 8,265,0,OK
+44505520,1054,1539882382,1882,B,1100,implementation,aman_jag,Java 8,156,5427200,OK
+44505446,1054,1539882362,1862,B,1100,implementation,masterbios,Java 8,140,2048000,OK
+44505392,1054,1539882350,1850,A,800,implementation,lehar1999,Java 8,140,0,OK
+44505363,1054,1539882343,1843,A,800,implementation,last-phoenix,Java 8,140,0,OK
+44505357,1054,1539882341,1841,B,1100,implementation,onocha1,Java 8,327,0,OK
+44505214,1054,1539882296,1796,A,800,implementation,daniilzimin4,Java 8,170,0,OK
+44505183,1054,1539882287,1787,A,800,implementation,joney_000,Java 8,109,0,OK
+44505135,1054,1539882274,1774,A,800,implementation,BadEn0ugh,Java 8,124,0,OK
+44505081,1054,1539882262,1762,C,1400,constructive algorithms-implementation,hulk_man,Java 8,139,0,OK
+44505065,1054,1539882258,1758,B,1100,implementation,alper,Java 8,264,0,OK
+44505055,1054,1539882253,1753,B,1100,implementation,Mazen_Tarek,Java 8,155,1945600,OK
+44505041,1054,1539882249,1749,B,1100,implementation,onishgarg101,Java 8,140,0,OK
+44504899,1054,1539882213,1713,A,800,implementation,tbrknt,Java 8,140,0,OK
+44504869,1054,1539882207,1707,C,1400,constructive algorithms-implementation,wery0,Java 8,139,0,OK
+44504832,1054,1539882198,1698,B,1100,implementation,sooraj10,Java 8,140,0,OK
+44504792,1054,1539882189,1689,A,800,implementation,BitShot,Java 8,124,0,OK
+44504784,1054,1539882187,1687,B,1100,implementation,amrtri003,Java 8,249,0,OK
+44504696,1054,1539882164,1664,D,1900,greedy-implementation,Lewin,Java 8,233,10547200,OK
+44504690,1054,1539882162,1662,C,1400,constructive algorithms-implementation,Slamur,Java 8,139,0,OK
+44504682,1054,1539882160,1660,C,1400,constructive algorithms-implementation,R_WeaVer,Java 8,171,0,OK
+44504665,1054,1539882157,1657,A,800,implementation,seedorf,Java 8,140,0,OK
+44504660,1054,1539882156,1656,A,800,implementation,aTan,Java 8,109,0,OK
+44504593,1054,1539882137,1637,C,1400,constructive algorithms-implementation,andrei.bogdanpuiu1999,Java 8,171,0,OK
+44504578,1054,1539882132,1632,B,1100,implementation,NRGsama,Java 8,155,6246400,OK
+44504545,1054,1539882122,1622,A,800,implementation,pankaj.goyal207,Java 8,124,0,OK
+44504479,1054,1539882109,1609,B,1100,implementation,singhrajat,Java 8,140,2048000,OK
+44504441,1054,1539882099,1599,A,800,implementation,lansergecs,Java 8,124,0,OK
+44504434,1054,1539882096,1596,B,1100,implementation,scoobydoo,Java 8,140,2048000,OK
+44504366,1054,1539882082,1582,A,800,implementation,VValeriyK,Java 8,140,0,OK
+44504315,1054,1539882068,1568,B,1100,implementation,joney_000,Java 8,140,0,OK
+44504211,1054,1539882044,1544,A,800,implementation,WisdenCoder,Java 8,109,0,OK
+44504175,1054,1539882030,1530,C,1400,constructive algorithms-implementation,iakovlev.zakhar,Java 8,155,0,OK
+44504125,1054,1539882016,1516,C,1400,constructive algorithms-implementation,spar5h,Java 8,124,0,OK
+44504089,1054,1539882009,1509,C,1400,constructive algorithms-implementation,yarrr,Java 8,140,0,OK
+44504038,1054,1539881998,1498,B,1100,implementation,yuShaf,Java 8,139,0,OK
+44504002,1054,1539881990,1490,A,800,implementation,samasnabith,Java 8,140,0,OK
+44503985,1054,1539881987,1487,C,1400,constructive algorithms-implementation,Svyat,Java 8,171,0,OK
+44503910,1054,1539881973,1473,B,1100,implementation,shubhch32,Java 8,265,0,OK
+44503900,1054,1539881972,1472,B,1100,implementation,Maaddy,Java 8,170,5222400,OK
+44503812,1054,1539881942,1442,C,1400,constructive algorithms-implementation,coderbond007,Java 8,124,0,OK
+44503805,1054,1539881941,1441,A,800,implementation,pioterM,Java 8,155,0,OK
+44503795,1054,1539881939,1439,B,1100,implementation,romit17,Java 8,124,0,OK
+44503770,1054,1539881934,1434,B,1100,implementation,amanchik,Java 8,140,0,OK
+44503718,1054,1539881924,1424,B,1100,implementation,art.licis,Java 8,248,0,OK
+44503671,1054,1539881915,1415,C,1400,constructive algorithms-implementation,dusty.and.rusty,Java 8,218,0,OK
+44503629,1054,1539881906,1406,A,800,implementation,NorthernMystic,Java 8,155,0,OK
+44503624,1054,1539881905,1405,A,800,implementation,ELMaestro,Java 8,140,0,OK
+44503572,1054,1539881895,1395,A,800,implementation,as_7,Java 8,124,0,OK
+44503491,1054,1539881883,1383,A,800,implementation,bdomokos,Java 8,155,0,OK
+44503486,1054,1539881880,1380,C,1400,constructive algorithms-implementation,Ahmad,Java 8,139,0,OK
+44503430,1054,1539881868,1368,A,800,implementation,vidyut_1,Java 8,124,0,OK
+44503429,1054,1539881868,1368,A,800,implementation,Sandy_Hacktivist,Java 8,155,0,OK
+44503398,1054,1539881862,1362,B,1100,implementation,noobied,Java 8,156,0,OK
+44503392,1054,1539881860,1360,B,1100,implementation,bhautik_77,Java 8,140,0,OK
+44503384,1054,1539881859,1359,C,1400,constructive algorithms-implementation,Shaykhutdinov-T-I,Java 8,124,0,OK
+44503305,1054,1539881846,1346,A,800,implementation,fatnassiahmed,Java 8,124,0,OK
+44503237,1054,1539881832,1332,A,800,implementation,FedeBell94,Java 8,140,0,OK
+44503234,1054,1539881832,1332,B,1100,implementation,Aabhas99,Java 8,249,0,OK
+44503219,1054,1539881828,1328,A,800,implementation,Fixthegame,Java 8,139,0,OK
+44503216,1054,1539881828,1328,A,800,implementation,Umangpatel,Java 8,155,0,OK
+44503215,1054,1539881828,1328,B,1100,implementation,kiril,Java 8,264,0,OK
+44503205,1054,1539881826,1326,A,800,implementation,MubtasimShahriar,Java 8,140,0,OK
+44503160,1054,1539881816,1316,B,1100,implementation,aitch_nu,Java 8,249,0,OK
+44503150,1054,1539881812,1312,A,800,implementation,oo00oo00,Java 8,155,0,OK
+44503149,1054,1539881811,1311,D,1900,greedy-implementation,mmaxio,Java 8,264,11776000,OK
+44503078,1054,1539881795,1295,B,1100,implementation,GiGlema,Java 8,249,0,OK
+44502967,1054,1539881771,1271,A,800,implementation,AnanthDhruva,Java 8,202,0,OK
+44502910,1054,1539881761,1261,C,1400,constructive algorithms-implementation,Suzukaze,Java 8,139,0,OK
+44502892,1054,1539881758,1258,B,1100,implementation,ariana9898,Java 8,140,2048000,OK
+44502852,1054,1539881752,1252,A,800,implementation,redwings,Java 8,139,0,OK
+44502823,1054,1539881747,1247,B,1100,implementation,Psp_98,Java 8,389,0,OK
+44502776,1054,1539881740,1240,A,800,implementation,SchrodZzz,Java 8,140,0,OK
+44502753,1054,1539881734,1234,A,800,implementation,gamezovladislav,Java 8,124,0,OK
+44502711,1054,1539881723,1223,B,1100,implementation,xodiac,Java 8,139,0,OK
+44502670,1054,1539881714,1214,B,1100,implementation,msagimbekov,Java 8,218,6041600,OK
+44502633,1054,1539881704,1204,A,800,implementation,Nelepin,Java 8,140,0,OK
+44502602,1054,1539881699,1199,B,1100,implementation,Empire,Java 8,171,3788800,OK
+44502591,1054,1539881697,1197,A,800,implementation,clark96,Java 8,140,0,OK
+44502548,1054,1539881690,1190,B,1100,implementation,shreya_jain,Java 8,155,2048000,OK
+44502544,1054,1539881690,1190,B,1100,implementation,SevenDeadlySins,Java 8,187,3379200,OK
+44502541,1054,1539881689,1189,B,1100,implementation,KulikAlex,Java 8,155,2048000,OK
+44502533,1054,1539881688,1188,B,1100,implementation,kessido,Java 8,155,1945600,OK
+44502524,1054,1539881686,1186,A,800,implementation,dsh_bc,Java 8,124,0,OK
+44502488,1054,1539881679,1179,B,1100,implementation,youngstupidman,Java 8,249,0,OK
+44502470,1054,1539881675,1175,A,800,implementation,Amer,Java 8,155,0,OK
+44502455,1054,1539881674,1174,A,800,implementation,chandan5284,Java 8,124,0,OK
+44502430,1054,1539881670,1170,B,1100,implementation,shreyas_21,Java 8,249,0,OK
+44502399,1054,1539881662,1162,B,1100,implementation,golions,Java 8,140,0,OK
+44502303,1054,1539881647,1147,A,800,implementation,ViceCity,Java 8,140,0,OK
+44502289,1054,1539881642,1142,B,1100,implementation,ankur7,Java 8,140,0,OK
+44502229,1054,1539881632,1132,B,1100,implementation,aman110599,Java 8,156,2048000,OK
+44502207,1054,1539881628,1128,B,1100,implementation,harshhx17,Java 8,140,2048000,OK
+44502205,1054,1539881628,1128,B,1100,implementation,flyman3046,Java 8,140,2048000,OK
+44502177,1054,1539881623,1123,A,800,implementation,alper,Java 8,140,0,OK
+44502123,1054,1539881615,1115,B,1100,implementation,mirak94,Java 8,155,5324800,OK
+44502119,1054,1539881615,1115,B,1100,implementation,DV_,Java 8,249,0,OK
+44502102,1054,1539881612,1112,A,800,implementation,Mooncrater,Java 8,109,0,OK
+44502083,1054,1539881608,1108,A,800,implementation,TuranS,Java 8,155,0,OK
+44502004,1054,1539881596,1096,B,1100,implementation,ramez,Java 8,140,2048000,OK
+44501993,1054,1539881594,1094,A,800,implementation,Vandit_Shihora,Java 8,155,0,OK
+44501958,1054,1539881589,1089,B,1100,implementation,otori1337,Java 8,140,0,OK
+44501899,1054,1539881578,1078,B,1100,implementation,vidyut_1,Java 8,124,0,OK
+44501828,1054,1539881567,1067,B,1100,implementation,xwchen,Java 8,280,0,OK
+44501742,1054,1539881555,1055,A,800,implementation,groboshik,Java 8,140,0,OK
+44501672,1054,1539881543,1043,A,800,implementation,shubhammitt,Java 8,140,0,OK
+44501631,1054,1539881534,1034,B,1100,implementation,gamezovladislav,Java 8,140,1945600,OK
+44501628,1054,1539881534,1034,C,1400,constructive algorithms-implementation,Lewin,Java 8,124,0,OK
+44501616,1054,1539881532,1032,C,1400,constructive algorithms-implementation,SecondThread,Java 8,140,0,OK
+44501580,1054,1539881527,1027,A,800,implementation,makarov442,Java 8,124,0,OK
+44501433,1054,1539881498,998,A,800,implementation,amirmohamadkarimi,Java 8,140,0,OK
+44501376,1054,1539881486,986,B,1100,implementation,kamalkishor1991,Java 8,140,0,OK
+44501370,1054,1539881485,985,B,1100,implementation,WisdenCoder,Java 8,155,1945600,OK
+44501315,1054,1539881476,976,B,1100,implementation,tusharjape007,Java 8,124,0,OK
+44501268,1054,1539881468,968,B,1100,implementation,ika,Java 8,140,2252800,OK
+44501197,1054,1539881458,958,A,800,implementation,happygirlzt,Java 8,124,0,OK
+44501157,1054,1539881451,951,B,1100,implementation,new_start1,Java 8,124,0,OK
+44501116,1054,1539881445,945,A,800,implementation,hadiLotfy,Java 8,140,0,OK
+44501057,1054,1539881436,936,B,1100,implementation,aminul,Java 8,124,0,OK
+44501038,1054,1539881434,934,A,800,implementation,Shuvi179,Java 8,140,0,OK
+44501029,1054,1539881431,931,A,800,implementation,ratn41,Java 8,140,0,OK
+44501021,1054,1539881430,930,B,1100,implementation,Svyat,Java 8,140,1945600,OK
+44500998,1054,1539881426,926,B,1100,implementation,baobab,Java 8,124,0,OK
+44500988,1054,1539881425,925,A,800,implementation,sooraj10,Java 8,124,0,OK
+44500956,1054,1539881420,920,B,1100,implementation,HardikDobariya,Java 8,140,0,OK
+44500943,1054,1539881419,919,B,1100,implementation,TheZachMan,Java 8,248,0,OK
+44500932,1054,1539881418,918,A,800,implementation,niteshgowda,Java 8,155,0,OK
+44500923,1054,1539881415,915,B,1100,implementation,wadissimo,Java 8,155,0,OK
+44500896,1054,1539881410,910,A,800,implementation,effie.m,Java 8,140,0,OK
+44500887,1054,1539881409,909,A,800,implementation,shahdhairya678,Java 8,140,0,OK
+44500821,1054,1539881399,899,B,1100,implementation,alexyz,Java 8,140,2048000,OK
+44500789,1054,1539881394,894,B,1100,implementation,Snapman,Java 8,265,0,OK
+44500771,1054,1539881389,889,A,800,implementation,masterbios,Java 8,124,0,OK
+44500769,1054,1539881389,889,A,800,implementation,scoobydoo,Java 8,124,0,OK
+44500703,1054,1539881381,881,A,800,implementation,VVan228,Java 8,140,0,OK
+44500701,1054,1539881381,881,A,800,implementation,Empire,Java 8,109,0,OK
+44500697,1054,1539881381,881,B,1100,implementation,indy256,Java 8,124,0,OK
+44500659,1054,1539881376,876,A,800,implementation,BiggestPrime,Java 8,124,0,OK
+44500615,1054,1539881368,868,A,800,implementation,NRGsama,Java 8,140,0,OK
+44500586,1054,1539881364,864,C,1400,constructive algorithms-implementation,uwi,Java 8,124,0,OK
+44500547,1054,1539881358,858,A,800,implementation,rohan17,Java 8,140,0,OK
+44500535,1054,1539881352,852,A,800,implementation,G.kishan,Java 8,140,0,OK
+44500500,1054,1539881345,845,C,1400,constructive algorithms-implementation,mmaxio,Java 8,139,0,OK
+44500449,1054,1539881336,836,A,800,implementation,mukhan.m,Java 8,124,0,OK
+44500445,1054,1539881336,836,A,800,implementation,nextcoder,Java 8,124,0,OK
+44500395,1054,1539881328,828,A,800,implementation,AndreyP_1,Java 8,155,0,OK
+44500375,1054,1539881324,824,A,800,implementation,GiGlema,Java 8,155,0,OK
+44500364,1054,1539881322,822,B,1100,implementation,hulk_man,Java 8,140,0,OK
+44500360,1054,1539881321,821,A,800,implementation,rohan03,Java 8,124,0,OK
+44500349,1054,1539881320,820,B,1100,implementation,benpr99,Java 8,265,0,OK
+44500302,1054,1539881313,813,A,800,implementation,hardik44,Java 8,124,0,OK
+44500281,1054,1539881310,810,A,800,implementation,jnasridinov,Java 8,155,0,OK
+44500246,1054,1539881306,806,B,1100,implementation,ViciousCoder,Java 8,124,0,OK
+44500209,1054,1539881300,800,B,1100,implementation,R_WeaVer,Java 8,265,0,OK
+44500202,1054,1539881300,800,A,800,implementation,amrtri003,Java 8,156,0,OK
+44500170,1054,1539881296,796,A,800,implementation,Bult-Zst,Java 8,140,0,OK
+44500159,1054,1539881294,794,A,800,implementation,atharvat77,Java 8,155,0,OK
+44500134,1054,1539881292,792,A,800,implementation,bhautik_77,Java 8,139,0,OK
+44500130,1054,1539881292,792,A,800,implementation,RehamNaguib,Java 8,140,0,OK
+44500113,1054,1539881291,791,B,1100,implementation,dusty.and.rusty,Java 8,280,7065600,OK
+44500110,1054,1539881291,791,B,1100,implementation,ShowStopper728,Java 8,124,0,OK
+44500105,1054,1539881285,785,B,1100,implementation,PumbaOmsk,Java 8,327,7065600,OK
+44500098,1054,1539881284,784,B,1100,implementation,BaZ_,Java 8,140,0,OK
+44500036,1054,1539881274,774,A,800,implementation,1Vampire1,Java 8,155,0,OK
+44500029,1054,1539881273,773,B,1100,implementation,fnch,Java 8,140,0,OK
+44499992,1054,1539881269,769,A,800,implementation,onishgarg101,Java 8,124,0,OK
+44499979,1054,1539881267,767,B,1100,implementation,4mda4mda,Java 8,155,2048000,OK
+44499974,1054,1539881267,767,A,800,implementation,friendlyfred,Java 8,155,0,OK
+44499807,1054,1539881242,742,B,1100,implementation,iakovlev.zakhar,Java 8,187,2969600,OK
+44499778,1054,1539881238,738,A,800,implementation,Slamur,Java 8,124,0,OK
+44499743,1054,1539881233,733,B,1100,implementation,yarrr,Java 8,140,0,OK
+44499734,1054,1539881232,732,A,800,implementation,xodiac,Java 8,109,0,OK
+44499715,1054,1539881229,728,B,1100,implementation,Shaykhutdinov-T-I,Java 8,155,0,OK
+44499703,1054,1539881227,727,A,800,implementation,dyominov,Java 8,109,0,OK
+44499685,1054,1539881224,724,A,800,implementation,antonio17,Java 8,140,0,OK
+44499662,1054,1539881222,722,B,1100,implementation,serafimkoo,Java 8,202,6246400,OK
+44499655,1054,1539881221,721,A,800,implementation,woodruffr4,Java 8,140,0,OK
+44499633,1054,1539881217,717,B,1100,implementation,hiromi_ayase,Java 8,140,2252800,OK
+44499605,1054,1539881213,713,A,800,implementation,Hapsidra,Java 8,155,0,OK
+44499604,1054,1539881213,713,B,1100,implementation,PrakharJain,Java 8,139,0,OK
+44499565,1054,1539881208,708,A,800,implementation,amanchik,Java 8,124,0,OK
+44499455,1054,1539881192,692,B,1100,implementation,ankurdua15,Java 8,155,2048000,OK
+44499410,1054,1539881186,686,B,1100,implementation,bhavyashah9873,Java 8,311,0,OK
+44499367,1054,1539881181,681,B,1100,implementation,andrei.bogdanpuiu1999,Java 8,265,0,OK
+44499307,1054,1539881173,673,A,800,implementation,Svyat,Java 8,124,0,OK
+44499304,1054,1539881173,673,A,800,implementation,mdazmat9,Java 8,124,0,OK
+44499246,1054,1539881166,666,A,800,implementation,ariana9898,Java 8,124,0,OK
+44499217,1054,1539881163,663,A,800,implementation,aman110599,Java 8,124,0,OK
+44499192,1054,1539881160,660,A,800,implementation,humble_fool07,Java 8,124,0,OK
+44499165,1054,1539881157,657,B,1100,implementation,spar5h,Java 8,140,0,OK
+44499160,1054,1539881157,657,A,800,implementation,yuShaf,Java 8,124,0,OK
+44499122,1054,1539881152,652,A,800,implementation,ekaanshkhosla,Java 8,155,0,OK
+44499111,1054,1539881151,651,A,800,implementation,Aabhas99,Java 8,140,0,OK
+44499097,1054,1539881149,649,A,800,implementation,KulikAlex,Java 8,124,0,OK
+44499085,1054,1539881148,648,B,1100,implementation,aman28rwt,Java 8,139,0,OK
+44499066,1054,1539881146,646,A,800,implementation,ShvartzAleksandr,Java 8,140,0,OK
+44499004,1054,1539881137,637,A,800,implementation,otori1337,Java 8,124,0,OK
+44498997,1054,1539881136,636,A,800,implementation,Uynait,Java 8,124,0,OK
+44498953,1054,1539881131,631,A,800,implementation,romit17,Java 8,124,0,OK
+44498945,1054,1539881130,630,A,800,implementation,AhmedAbdou,Java 8,140,0,OK
+44498928,1054,1539881128,628,B,1100,implementation,Suzukaze,Java 8,155,3379200,OK
+44498918,1054,1539881127,627,A,800,implementation,ViciousCoder,Java 8,109,0,OK
+44498889,1054,1539881123,623,A,800,implementation,yarrr,Java 8,140,0,OK
+44498871,1054,1539881119,619,A,800,implementation,niharikaDtu,Java 8,140,0,OK
+44498854,1054,1539881116,616,B,1100,implementation,Ahmad,Java 8,202,5427200,OK
+44498816,1054,1539881111,611,A,800,implementation,xwchen,Java 8,140,0,OK
+44498752,1054,1539881103,603,A,800,implementation,ankur7,Java 8,124,0,OK
+44498657,1054,1539881090,590,A,800,implementation,shreyas_21,Java 8,140,0,OK
+44498625,1054,1539881085,585,A,800,implementation,shubhch32,Java 8,140,0,OK
+44498577,1054,1539881080,580,B,1100,implementation,sturdyplum,Java 8,140,0,OK
+44498569,1054,1539881079,579,A,800,implementation,DropKeBaadNirma,Java 8,124,0,OK
+44498549,1054,1539881076,576,B,1100,implementation,Slamur,Java 8,140,2355200,OK
+44498516,1054,1539881073,573,B,1100,implementation,wery0,Java 8,124,0,OK
+44498481,1054,1539881069,569,A,800,implementation,noobied,Java 8,124,0,OK
+44498470,1054,1539881067,567,A,800,implementation,aitch_nu,Java 8,140,0,OK
+44498445,1054,1539881063,563,A,800,implementation,soechka,Java 8,140,0,OK
+44498418,1054,1539881060,560,A,800,implementation,golions,Java 8,124,0,OK
+44498388,1054,1539881054,554,A,800,implementation,alexyz,Java 8,124,0,OK
+44498387,1054,1539881054,554,A,800,implementation,youngstupidman,Java 8,140,0,OK
+44498311,1054,1539881045,545,A,800,implementation,iakovlev.zakhar,Java 8,109,0,OK
+44498289,1054,1539881042,542,A,800,implementation,Mazen_Tarek,Java 8,109,0,OK
+44498273,1054,1539881040,540,A,800,implementation,mannshah27,Java 8,109,0,OK
+44498257,1054,1539881038,538,A,800,implementation,Lewin,Java 8,124,0,OK
+44498256,1054,1539881038,538,A,800,implementation,RDmitriyS,Java 8,140,0,OK
+44498194,1054,1539881029,529,A,800,implementation,DV_,Java 8,155,0,OK
+44498180,1054,1539881028,528,B,1100,implementation,abacabadabacaba,Java 8,140,0,OK
+44498138,1054,1539881023,523,A,800,implementation,ika,Java 8,109,0,OK
+44498094,1054,1539881017,517,A,800,implementation,kamalkishor1991,Java 8,124,0,OK
+44498001,1054,1539881004,504,A,800,implementation,shreya_jain,Java 8,124,0,OK
+44497978,1054,1539881001,501,A,800,implementation,ChiefShoe,Java 8,124,0,OK
+44497930,1054,1539880996,496,A,800,implementation,hulk_man,Java 8,124,0,OK
+44497888,1054,1539880991,491,A,800,implementation,mirak94,Java 8,139,0,OK
+44497877,1054,1539880991,491,B,1100,implementation,SecondThread,Java 8,140,2048000,OK
+44497858,1054,1539880988,488,A,800,implementation,Artem533,Java 8,140,0,OK
+44497843,1054,1539880986,486,A,800,implementation,kiril,Java 8,155,0,OK
+44497817,1054,1539880983,483,A,800,implementation,msagimbekov,Java 8,171,0,OK
+44497809,1054,1539880981,481,A,800,implementation,4mda4mda,Java 8,124,0,OK
+44497778,1054,1539880978,478,A,800,implementation,aman_jag,Java 8,109,0,OK
+44497750,1054,1539880974,474,A,800,implementation,ramez,Java 8,124,0,OK
+44497716,1054,1539880970,470,A,800,implementation,art.licis,Java 8,140,0,OK
+44497701,1054,1539880968,468,A,800,implementation,coderbond007,Java 8,124,0,OK
+44497655,1054,1539880963,463,A,800,implementation,flyman3046,Java 8,109,0,OK
+44497611,1054,1539880958,458,B,1100,implementation,mmaxio,Java 8,124,0,OK
+44497594,1054,1539880956,456,A,800,implementation,indy256,Java 8,124,0,OK
+44497534,1054,1539880948,448,A,800,implementation,tusharjape007,Java 8,124,0,OK
+44497533,1054,1539880948,448,B,1100,implementation,Jeel_Vaishnav,Java 8,124,0,OK
+44497513,1054,1539880946,446,A,800,implementation,BaZ_,Java 8,124,0,OK
+44497508,1054,1539880946,446,A,800,implementation,singhrajat,Java 8,124,0,OK
+44497493,1054,1539880945,445,A,800,implementation,baobab,Java 8,124,0,OK
+44497489,1054,1539880945,445,B,1100,implementation,wflms20110333,Java 8,140,0,OK
+44497417,1054,1539880937,437,A,800,implementation,aminul,Java 8,109,0,OK
+44497370,1054,1539880934,434,B,1100,implementation,ChiefShoe,Java 8,140,0,OK
+44497361,1054,1539880933,433,B,1100,implementation,uwi,Java 8,124,0,OK
+44497303,1054,1539880923,422,A,800,implementation,Psp_98,Java 8,109,0,OK
+44497241,1054,1539880916,416,A,800,implementation,onocha1,Java 8,140,0,OK
+44497210,1054,1539880912,412,A,800,implementation,habibulka,Java 8,124,0,OK
+44497191,1054,1539880910,410,A,800,implementation,R_WeaVer,Java 8,140,0,OK
+44497101,1054,1539880901,401,A,800,implementation,ankurdua15,Java 8,124,0,OK
+44497097,1054,1539880901,401,A,800,implementation,HardikDobariya,Java 8,124,0,OK
+44496979,1054,1539880888,388,A,800,implementation,fnch,Java 8,124,0,OK
+44496972,1054,1539880887,387,A,800,implementation,wadissimo,Java 8,140,0,OK
+44496948,1054,1539880886,386,A,800,implementation,spar5h,Java 8,140,0,OK
+44496884,1054,1539880877,377,A,800,implementation,dusty.and.rusty,Java 8,202,0,OK
+44496879,1054,1539880876,376,A,800,implementation,new_start1,Java 8,124,0,OK
+44496862,1054,1539880875,375,A,800,implementation,Itwazonce,Java 8,109,0,OK
+44496843,1054,1539880873,373,A,800,implementation,SavchukAM,Java 8,155,0,OK
+44496833,1054,1539880872,372,A,800,implementation,aman28rwt,Java 8,124,0,OK
+44496800,1054,1539880868,368,A,800,implementation,SevenDeadlySins,Java 8,124,0,OK
+44496784,1054,1539880865,365,A,800,implementation,PrakharJain,Java 8,124,0,OK
+44496760,1054,1539880861,361,A,800,implementation,sturdyplum,Java 8,124,0,OK
+44496732,1054,1539880857,357,A,800,implementation,kessido,Java 8,124,0,OK
+44496553,1054,1539880835,335,B,1100,implementation,Egor,Java 8,155,0,OK
+44496530,1054,1539880833,333,A,800,implementation,pi37,Java 8,139,0,OK
+44496449,1054,1539880820,320,A,800,implementation,ShowStopper728,Java 8,124,0,OK
+44496413,1054,1539880817,317,A,800,implementation,Snapman,Java 8,155,0,OK
+44496407,1054,1539880817,317,A,800,implementation,bhavyashah9873,Java 8,124,0,OK
+44496306,1054,1539880801,301,A,800,implementation,benpr99,Java 8,140,0,OK
+44496284,1054,1539880797,297,A,800,implementation,Shaykhutdinov-T-I,Java 8,124,0,OK
+44496252,1054,1539880794,294,A,800,implementation,SecondThread,Java 8,124,0,OK
+44496244,1054,1539880791,291,A,800,implementation,abacabadabacaba,Java 8,140,0,OK
+44496175,1054,1539880782,282,A,800,implementation,wery0,Java 8,124,0,OK
+44496144,1054,1539880779,279,A,800,implementation,Ahmad,Java 8,124,0,OK
+44496019,1054,1539880761,261,A,800,implementation,mmaxio,Java 8,109,0,OK
+44495916,1054,1539880743,243,A,800,implementation,uwi,Java 8,124,0,OK
+44495897,1054,1539880740,240,A,800,implementation,Suzukaze,Java 8,109,0,OK
+44495810,1054,1539880724,224,A,800,implementation,andrei.bogdanpuiu1999,Java 8,155,0,OK
+44495806,1054,1539880723,223,A,800,implementation,serafimkoo,Java 8,140,0,OK
+44495759,1054,1539880714,214,A,800,implementation,Jeel_Vaishnav,Java 8,124,0,OK
+44495736,1054,1539880709,209,A,800,implementation,Egor,Java 8,124,0,OK
+44495668,1054,1539880688,188,A,800,implementation,wflms20110333,Java 8,109,0,OK
+44495586,1054,1539880647,147,B,1100,implementation,Lewin,Java 8,139,0,OK

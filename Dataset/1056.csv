@@ -1,0 +1,741 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes,verdict
+57941891,1056,1564404748,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,hasan5788,Java 8,217,26726400,OK
+57940947,1056,1564403657,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,hasan5788,Java 8,1000,30003200,TIME_LIMIT_EXCEEDED
+57429834,1056,1563666885,2147483647,A,1000,implementation,jimtm,Java 8,124,0,OK
+57429729,1056,1563666362,2147483647,A,1000,implementation,jma-moon,Java 8,109,0,OK
+57429498,1056,1563665368,2147483647,A,1000,implementation,marant15,Java 8,139,0,OK
+57429323,1056,1563664610,2147483647,A,1000,implementation,A.Teo,Java 8,109,0,OK
+57429301,1056,1563664537,2147483647,A,1000,implementation,ImNoob,Java 8,155,0,OK
+57429282,1056,1563664458,2147483647,A,1000,implementation,LLL.A,Java 8,109,0,OK
+57157551,1056,1563297806,266,A,1000,implementation,Gundaswami,Java 8,108,0,OK
+56825608,1056,1562817681,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,FluffyPotato,Java 8,218,17715200,OK
+56777700,1056,1562730717,2147483647,B,1600,math-number theory,achang007,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+55984233,1056,1561339901,2147483647,A,1000,implementation,hctep,Java 8,171,0,OK
+55947476,1056,1561237244,2147483647,A,1000,implementation,bashar99,Java 8,109,0,OK
+55511276,1056,1560380638,2147483647,B,1600,math-number theory,puzink,Java 8,140,4608000,OK
+55472067,1056,1560281287,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kareem_fathy,Java 8,841,15872000,OK
+55472023,1056,1560281192,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kareem_fathy,Java 8,826,15974400,OK
+55297564,1056,1559990002,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,himanshubhardwaj169,Java 8,249,24780800,OK
+55297477,1056,1559989896,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,himanshubhardwaj169,Java 8,265,24883200,OK
+54547580,1056,1558681698,2147483647,A,1000,implementation,bencebosko,Java 8,124,0,OK
+54410843,1056,1558345068,2147483647,B,1600,math-number theory,hasan5788,Java 8,124,0,OK
+54410807,1056,1558344981,2147483647,B,1600,math-number theory,hasan5788,Java 8,108,0,OK
+53977092,1056,1557550757,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Sasuke-u,Java 8,233,49152000,OK
+53897011,1056,1557384170,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Punit_sharma,Java 8,233,35532800,OK
+53288282,1056,1556203329,2147483647,A,1000,implementation,keiku,Java 8,155,0,OK
+53282578,1056,1556195811,2147483647,A,1000,implementation,Qnass1996,Java 8,155,0,OK
+52585761,1056,1554939815,2147483647,E,2100,brute force-data structures-hashing-strings,Jetch,Java 8,3000,1228800,TIME_LIMIT_EXCEEDED
+52585610,1056,1554938993,2147483647,E,2100,brute force-data structures-hashing-strings,Jetch,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+52521949,1056,1554801345,2147483647,A,1000,implementation,dtrifonov32,Java 8,155,0,OK
+52319592,1056,1554404155,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,nagabhushan,Java 8,686,26931200,OK
+51551591,1056,1553044339,2147483647,B,1600,math-number theory,trungdunghoang92,Java 8,140,0,OK
+51431728,1056,1552872105,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,c0lin,Java 8,312,77619200,OK
+51431654,1056,1552871705,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,c0lin,Java 8,1000,77516800,TIME_LIMIT_EXCEEDED
+51431455,1056,1552870441,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,c0lin,Java 8,1000,77516800,TIME_LIMIT_EXCEEDED
+51431375,1056,1552870000,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,c0lin,Java 8,1000,56320000,TIME_LIMIT_EXCEEDED
+51345445,1056,1552673521,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,vjvjain0,Java 8,264,62771200,OK
+51071195,1056,1552117418,2147483647,A,1000,implementation,darshan287,Java 8,109,0,OK
+50811747,1056,1551777134,2147483647,A,1000,implementation,kissscreen,Java 8,109,0,OK
+50266274,1056,1550723556,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,vjudge5,Java 8,592,0,OK
+50265035,1056,1550722221,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,vjudge2,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50264886,1056,1550721742,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,vjudge2,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+50264251,1056,1550719463,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,vjudge3,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+49995782,1056,1550328776,2147483647,A,1000,implementation,CharlesDai,Java 8,109,0,OK
+49941955,1056,1550225286,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,poketred12,Java 8,155,0,OK
+49740535,1056,1549824741,2147483647,B,1600,math-number theory,Ziklon,Java 8,109,0,OK
+49482641,1056,1549328837,2147483647,A,1000,implementation,grindthecode,Java 8,170,0,OK
+49469541,1056,1549297927,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,mikkk,Java 8,202,18124800,OK
+49306861,1056,1549001363,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,satya26,Java 8,358,37888000,OK
+49245368,1056,1548937563,2147483647,A,1000,implementation,WeedWizard,Java 8,155,0,OK
+48800629,1056,1548252970,2147483647,E,2100,brute force-data structures-hashing-strings,Sarah_Abdelkhalek,Java 8,343,48128000,OK
+48715622,1056,1548155078,2147483647,B,1600,math-number theory,Tarun,Java 8,109,0,OK
+48608981,1056,1547986222,2147483647,A,1000,implementation,abhinavsharma629,Java 8,155,0,OK
+48458904,1056,1547646350,2147483647,A,1000,implementation,manikasharma09,Java 8,140,0,OK
+48394526,1056,1547485182,2147483647,A,1000,implementation,samez,Java 8,124,0,OK
+48387162,1056,1547473061,2147483647,E,2100,brute force-data structures-hashing-strings,wadissimo,Java 8,202,19148800,OK
+48386366,1056,1547471808,2147483647,E,2100,brute force-data structures-hashing-strings,wadissimo,Java 8,217,19148800,OK
+48358497,1056,1547401810,2147483647,E,2100,brute force-data structures-hashing-strings,wadissimo,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+48099562,1056,1546975425,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,arvind_rvs,Java 8,639,34406400,OK
+48072348,1056,1546912546,2147483647,A,1000,implementation,I.A.K.O.V,Java 8,109,0,OK
+47853601,1056,1546457504,2147483647,A,1000,implementation,Why_Need_Name,Java 8,171,0,OK
+47851356,1056,1546452041,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,sameep17264,Java 8,296,68300800,OK
+47834961,1056,1546421849,2147483647,A,1000,implementation,Kavi.Prajapati,Java 8,109,0,OK
+47834380,1056,1546420397,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Mooncrater,Java 8,483,0,OK
+47811189,1056,1546341984,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,raceldog,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+47807155,1056,1546330693,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Mooncrater,Java 8,1000,24780800,TIME_LIMIT_EXCEEDED
+47704270,1056,1546110076,2147483647,A,1000,implementation,sooraj10,Java 8,124,0,OK
+47704254,1056,1546110039,2147483647,B,1600,math-number theory,sooraj10,Java 8,124,0,OK
+47703582,1056,1546108170,270,A,1000,implementation,dhoni072,Java 8,124,0,OK
+47700944,1056,1546101526,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,polyakoff,Java 8,202,13209600,OK
+47676710,1056,1546076101,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,bhautik_77,Java 8,187,26009600,OK
+47624166,1056,1546006535,2147483647,C,1700,greedy-implementation-interactive-sortings,typedef_2000,Java 8,171,0,OK
+47606471,1056,1545974133,2147483647,A,1000,implementation,shubhammitt,Java 8,140,0,OK
+47383287,1056,1545526232,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Mohammad_Af,Java 8,748,52224000,OK
+47383247,1056,1545525911,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Mohammad_Af,Java 8,686,51916800,OK
+47366943,1056,1545480086,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,james222424,Java 8,186,29491200,OK
+47332594,1056,1545399461,2147483647,F,2400,binary search-dp-math,xodiac,Java 8,296,0,OK
+47316257,1056,1545364476,2147483647,B,1600,math-number theory,abhi2601,Java 8,93,0,OK
+47280847,1056,1545265865,2147483647,B,1600,math-number theory,Mohamed_Saad62,Java 8,140,0,OK
+47277679,1056,1545251429,2147483647,C,1700,greedy-implementation-interactive-sortings,kusomushi,Java 8,234,0,OK
+47265552,1056,1545228619,2147483647,A,1000,implementation,abhi2601,Java 8,109,0,OK
+47232778,1056,1545159294,2147483647,E,2100,brute force-data structures-hashing-strings,xodiac,Java 8,218,26624000,OK
+47230378,1056,1545155508,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,xodiac,Java 8,280,72908800,OK
+47230365,1056,1545155490,2147483647,C,1700,greedy-implementation-interactive-sortings,xodiac,Java 8,171,0,OK
+47230353,1056,1545155470,2147483647,B,1600,math-number theory,xodiac,Java 8,93,0,OK
+47230336,1056,1545155443,2147483647,A,1000,implementation,xodiac,Java 8,109,0,OK
+47013640,1056,1544809733,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kunal725725,Java 8,561,28262400,OK
+47008853,1056,1544800920,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kunal725725,Java 8,1000,1126400,TIME_LIMIT_EXCEEDED
+46915403,1056,1544558176,2147483647,B,1600,math-number theory,MadChicken,Java 8,124,0,OK
+46825931,1056,1544379706,2147483647,B,1600,math-number theory,Maaddy,Java 8,124,0,OK
+46779358,1056,1544313141,2147483647,A,1000,implementation,ghangh,Java 8,124,0,OK
+46767614,1056,1544281824,2147483647,E,2100,brute force-data structures-hashing-strings,spar5h,Java 8,545,47718400,OK
+46723122,1056,1544190826,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Hoda_Hisham,Java 8,202,24780800,OK
+46721458,1056,1544188827,2147483647,A,1000,implementation,Hoda_Hisham,Java 8,109,0,OK
+46706335,1056,1544167406,2147483647,B,1600,math-number theory,BaaaaaaanTedGuYYYYYYY,Java 8,109,0,OK
+46702978,1056,1544158029,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,moinul.shaon,Java 8,280,53350400,OK
+46702528,1056,1544156322,2147483647,B,1600,math-number theory,moinul.shaon,Java 8,124,4300800,OK
+46690824,1056,1544113706,2147483647,A,1000,implementation,blackrise,Java 8,140,0,OK
+46690325,1056,1544112580,580,A,1000,implementation,hoperr,Java 8,124,0,OK
+46670375,1056,1544076842,2147483647,A,1000,implementation,vamsikonakandla123,Java 8,139,0,OK
+46654600,1056,1544024379,2147483647,A,1000,implementation,Hemose,Java 8,108,0,OK
+46582417,1056,1543923995,2147483647,B,1600,math-number theory,kusomushi,Java 8,109,0,OK
+46581106,1056,1543922251,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kusomushi,Java 8,156,1536000,OK
+46549351,1056,1543855985,2147483647,A,1000,implementation,sn1pejkeee,Java 8,155,0,OK
+46467585,1056,1543726286,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,viratK,Java 8,872,0,OK
+46463431,1056,1543704281,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,4915200,TIME_LIMIT_EXCEEDED
+46463394,1056,1543704099,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,4915200,TIME_LIMIT_EXCEEDED
+46463313,1056,1543703598,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,4915200,TIME_LIMIT_EXCEEDED
+46461748,1056,1543697438,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,5324800,TIME_LIMIT_EXCEEDED
+46461685,1056,1543697200,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,5529600,TIME_LIMIT_EXCEEDED
+46461566,1056,1543696831,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,5734400,TIME_LIMIT_EXCEEDED
+46460811,1056,1543694529,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,5427200,TIME_LIMIT_EXCEEDED
+46460735,1056,1543694305,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,4812800,TIME_LIMIT_EXCEEDED
+46460582,1056,1543693798,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,4812800,TIME_LIMIT_EXCEEDED
+46460352,1056,1543693042,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46460009,1056,1543692193,2147483647,E,2100,brute force-data structures-hashing-strings,Washoum,Java 8,3000,4403200,TIME_LIMIT_EXCEEDED
+46451314,1056,1543678009,3109,A,1000,implementation,Hamkor,Java 8,155,0,OK
+46451135,1056,1543677595,2147483647,E,2100,brute force-data structures-hashing-strings,ISSAM_LAKOUAM,Java 8,327,47718400,OK
+46440873,1056,1543665115,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,AJ47,Java 8,202,17920000,OK
+46436371,1056,1543656087,2147483647,E,2100,brute force-data structures-hashing-strings,Omar_Morsi,Java 8,3000,614400,TIME_LIMIT_EXCEEDED
+46436198,1056,1543655731,2147483647,C,1700,greedy-implementation-interactive-sortings,AJ47,Java 8,186,0,OK
+46435554,1056,1543654289,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Omar_Morsi,Java 8,249,49152000,OK
+46407973,1056,1543592124,2147483647,B,1600,math-number theory,AJ47,Java 8,109,0,OK
+46403916,1056,1543585082,2147483647,F,2400,binary search-dp-math,PrakharJain,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46403776,1056,1543584849,2147483647,F,2400,binary search-dp-math,PrakharJain,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46373559,1056,1543511566,2147483647,E,2100,brute force-data structures-hashing-strings,IDzekh,Java 8,233,14950400,OK
+46373439,1056,1543511332,2147483647,E,2100,brute force-data structures-hashing-strings,IDzekh,Java 8,3000,7270400,TIME_LIMIT_EXCEEDED
+46361871,1056,1543491211,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,genro,Java 8,920,0,OK
+46351428,1056,1543443182,2147483647,E,2100,brute force-data structures-hashing-strings,flyman3046,Java 8,233,14745600,OK
+46309490,1056,1543407708,2147483647,C,1700,greedy-implementation-interactive-sortings,Andres1,Java 8,171,0,OK
+46308094,1056,1543405194,2147483647,E,2100,brute force-data structures-hashing-strings,Suhaill,Java 8,280,42700800,OK
+46307513,1056,1543404131,2147483647,B,1600,math-number theory,aabdelzaher,Java 8,109,0,OK
+46307396,1056,1543403862,2147483647,B,1600,math-number theory,aabdelzaher,Java 8,124,0,OK
+46306698,1056,1543402469,2147483647,A,1000,implementation,aabdelzaher,Java 8,140,0,OK
+46304651,1056,1543396850,2147483647,B,1600,math-number theory,Nieb_Hasan_077,Java 8,155,0,OK
+46300811,1056,1543390690,3190,B,1600,math-number theory,holyfuck,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46300389,1056,1543389488,1988,A,1000,implementation,holyfuck,Java 8,140,0,OK
+46299177,1056,1543385820,2147483647,B,1600,math-number theory,kubusgol,Java 8,109,0,OK
+46297647,1056,1543380699,2147483647,C,1700,greedy-implementation-interactive-sortings,Ziax,Java 8,249,0,OK
+46297347,1056,1543379209,2147483647,E,2100,brute force-data structures-hashing-strings,MasterCraft,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46295187,1056,1543367443,2147483647,B,1600,math-number theory,vktennis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46295182,1056,1543367391,2147483647,B,1600,math-number theory,vktennis,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46293707,1056,1543357918,2147483647,E,2100,brute force-data structures-hashing-strings,PrakharJain,Java 8,217,19251200,OK
+46293365,1056,1543356262,2147483647,B,1600,math-number theory,Andres1,Java 8,124,0,OK
+46293279,1056,1543355813,2147483647,E,2100,brute force-data structures-hashing-strings,Oopsimbad,Java 8,249,15360000,OK
+46291155,1056,1543348171,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,alibaba,Java 8,265,29286400,OK
+46290965,1056,1543347634,2147483647,A,1000,implementation,matratze,Java 8,156,0,OK
+46289377,1056,1543343412,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,unicorn20141,Java 8,608,70246400,OK
+46287698,1056,1543339305,4005,B,1600,math-number theory,hrustim25,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46287627,1056,1543339106,2147483647,E,2100,brute force-data structures-hashing-strings,polyakoff,Java 8,685,53657600,OK
+46286967,1056,1543337489,2147483647,C,1700,greedy-implementation-interactive-sortings,unicorn20141,Java 8,186,0,OK
+46286466,1056,1543336420,1120,A,1000,implementation,hrustim25,Java 8,124,0,OK
+46285796,1056,1543334854,2147483647,B,1600,math-number theory,unicorn20141,Java 8,109,0,OK
+46285219,1056,1543333492,2147483647,B,1600,math-number theory,yorky,Java 8,109,0,OK
+46285199,1056,1543333455,2147483647,A,1000,implementation,unicorn20141,Java 8,124,0,OK
+46285074,1056,1543333148,2147483647,B,1600,math-number theory,yorky,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46284962,1056,1543332883,2147483647,B,1600,math-number theory,yorky,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46284916,1056,1543332799,2147483647,B,1600,math-number theory,MikeFaraday,Java 8,109,0,OK
+46283561,1056,1543329765,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,wadissimo,Java 8,233,17408000,OK
+46283152,1056,1543328955,2147483647,B,1600,math-number theory,Mohamed_Saad62,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46281006,1056,1543324942,2147483647,C,1700,greedy-implementation-interactive-sortings,YahiaBadr,Java 8,202,0,OK
+46280477,1056,1543323977,2147483647,C,1700,greedy-implementation-interactive-sortings,kessido,Java 8,233,0,OK
+46278385,1056,1543320410,2147483647,A,1000,implementation,BaaaaaaanTedGuYYYYYYY,Java 8,124,0,OK
+46278143,1056,1543319974,2147483647,A,1000,implementation,vahid.gh,Java 8,140,0,OK
+46277454,1056,1543318657,2147483647,A,1000,implementation,sviyer,Java 8,140,0,OK
+46273449,1056,1543312342,2147483647,A,1000,implementation,Khanel,Java 8,139,0,OK
+46273376,1056,1543312138,2147483647,B,1600,math-number theory,andrei.bogdanpuiu1999,Java 8,140,0,OK
+46272733,1056,1543310419,2147483647,A,1000,implementation,andrei.bogdanpuiu1999,Java 8,140,0,OK
+46272227,1056,1543309206,2147483647,C,1700,greedy-implementation-interactive-sortings,poikniok,Java 8,202,0,OK
+46271886,1056,1543308445,2147483647,A,1000,implementation,vahid.gh,Java 8,140,0,OK
+46271573,1056,1543307732,2147483647,A,1000,implementation,2152751,Java 8,140,0,OK
+46271476,1056,1543307480,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,poikniok,Java 8,233,14540800,OK
+46271140,1056,1543306530,2147483647,B,1600,math-number theory,poikniok,Java 8,124,0,OK
+46270765,1056,1543305338,2147483647,C,1700,greedy-implementation-interactive-sortings,Sarah_Abdelkhalek,Java 8,233,0,OK
+46270684,1056,1543305119,2147483647,A,1000,implementation,poikniok,Java 8,155,0,OK
+46270049,1056,1543303358,637,A,1000,implementation,DeadPigCreateDaNiuBright,Java 8,109,0,OK
+46269707,1056,1543302231,2147483647,B,1600,math-number theory,Sarah_Abdelkhalek,Java 8,155,0,OK
+46269567,1056,1543301650,2147483647,B,1600,math-number theory,yagatipavani123,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46268870,1056,1543299442,2147483647,A,1000,implementation,Sarah_Abdelkhalek,Java 8,155,0,OK
+46265949,1056,1543286858,2147483647,B,1600,math-number theory,AnanthDhruva,Java 8,202,0,OK
+46265117,1056,1543281984,2147483647,H,3100,data structures-strings,mmaxio,Java 8,264,40857600,OK
+46264931,1056,1543280831,2147483647,H,3100,data structures-strings,mmaxio,Java 8,1000,147865600,TIME_LIMIT_EXCEEDED
+46264925,1056,1543280756,2147483647,H,3100,data structures-strings,mmaxio,Java 8,1000,204697600,TIME_LIMIT_EXCEEDED
+46264914,1056,1543280690,2147483647,H,3100,data structures-strings,mmaxio,Java 8,1000,204697600,TIME_LIMIT_EXCEEDED
+46264783,1056,1543279932,2147483647,G,2800,brute force-data structures-graphs,kessido,Java 8,295,0,OK
+46264722,1056,1543279575,2147483647,G,2800,brute force-data structures-graphs,kessido,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46264701,1056,1543279483,2147483647,H,3100,data structures-strings,mmaxio,Java 8,1000,225792000,TIME_LIMIT_EXCEEDED
+46264693,1056,1543279451,2147483647,H,3100,data structures-strings,mmaxio,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46264592,1056,1543278830,2147483647,H,3100,data structures-strings,mmaxio,Java 8,1000,218828800,TIME_LIMIT_EXCEEDED
+46264586,1056,1543278802,2147483647,H,3100,data structures-strings,mmaxio,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46264147,1056,1543276068,2147483647,G,2800,brute force-data structures-graphs,kessido,Java 8,2000,207564800,TIME_LIMIT_EXCEEDED
+46263853,1056,1543273877,2147483647,C,1700,greedy-implementation-interactive-sortings,kessido,Java 8,234,0,OK
+46263810,1056,1543273627,2147483647,A,1000,implementation,enricogi,Java 8,140,0,OK
+46263693,1056,1543273006,2147483647,C,1700,greedy-implementation-interactive-sortings,kessido,Java 8,233,0,OK
+46263414,1056,1543271430,2147483647,F,2400,binary search-dp-math,kessido,Java 8,327,0,OK
+46263310,1056,1543270974,2147483647,B,1600,math-number theory,MasterCraft,Java 8,124,0,OK
+46263264,1056,1543270761,2147483647,F,2400,binary search-dp-math,kessido,Java 8,265,0,OK
+46263245,1056,1543270654,2147483647,F,2400,binary search-dp-math,kessido,Java 8,265,0,OK
+46263224,1056,1543270524,2147483647,F,2400,binary search-dp-math,kessido,Java 8,592,0,OK
+46263179,1056,1543270305,2147483647,B,1600,math-number theory,asparsa2,Java 8,124,0,OK
+46263108,1056,1543269997,2147483647,F,2400,binary search-dp-math,kessido,Java 8,654,0,OK
+46263079,1056,1543269825,2147483647,F,2400,binary search-dp-math,kessido,Java 8,670,0,OK
+46262994,1056,1543269421,2147483647,A,1000,implementation,asparsa2,Java 8,140,0,OK
+46262928,1056,1543269146,2147483647,F,2400,binary search-dp-math,kessido,Java 8,701,0,OK
+46262866,1056,1543268920,2147483647,F,2400,binary search-dp-math,kessido,Java 8,1060,0,OK
+46262281,1056,1543266773,2147483647,A,1000,implementation,TWO_POINTER,Java 8,109,0,OK
+46262046,1056,1543265937,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,NatInTheHat,Java 8,670,15462400,OK
+46261630,1056,1543264385,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,catforce,Java 8,202,0,OK
+46261217,1056,1543263060,2147483647,A,1000,implementation,MohammedBasioni,Java 8,140,0,OK
+46261087,1056,1543262588,2147483647,A,1000,implementation,stolis,Java 8,140,0,OK
+46260309,1056,1543260540,2147483647,E,2100,brute force-data structures-hashing-strings,AuroraGarden,Java 8,1294,34611200,OK
+46260288,1056,1543260489,2147483647,E,2100,brute force-data structures-hashing-strings,AuroraGarden,Java 8,1840,34713600,OK
+46260211,1056,1543260315,2147483647,E,2100,brute force-data structures-hashing-strings,AuroraGarden,Java 8,1996,34713600,OK
+46259726,1056,1543259044,2147483647,E,2100,brute force-data structures-hashing-strings,zeyad_khattab,Java 8,218,18841600,OK
+46257955,1056,1543255275,2147483647,A,1000,implementation,hardik_vijay,Java 8,155,0,OK
+46257798,1056,1543254868,2147483647,A,1000,implementation,whyo,Java 8,155,0,OK
+46257575,1056,1543254323,2147483647,E,2100,brute force-data structures-hashing-strings,zeyad_khattab,Java 8,3000,716800,TIME_LIMIT_EXCEEDED
+46257105,1056,1543253169,7029,E,2100,brute force-data structures-hashing-strings,Kharouba,Java 8,296,47206400,OK
+46256668,1056,1543252235,2147483647,A,1000,implementation,MoeAdel,Java 8,109,0,OK
+46256609,1056,1543252073,2147483647,E,2100,brute force-data structures-hashing-strings,polyakoff,Java 8,3000,409600,TIME_LIMIT_EXCEEDED
+46256283,1056,1543251341,2147483647,A,1000,implementation,AnanthDhruva,Java 8,171,0,OK
+46255880,1056,1543250468,4328,C,1700,greedy-implementation-interactive-sortings,Kharouba,Java 8,202,0,OK
+46255398,1056,1543249414,2147483647,C,1700,greedy-implementation-interactive-sortings,alibaba,Java 8,249,0,OK
+46255390,1056,1543249387,2147483647,C,1700,greedy-implementation-interactive-sortings,wadissimo,Java 8,187,0,OK
+46255217,1056,1543249071,2931,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Kharouba,Java 8,265,15564800,OK
+46255063,1056,1543248730,2147483647,E,2100,brute force-data structures-hashing-strings,kessido,Java 8,202,9318400,OK
+46254987,1056,1543248583,2147483647,E,2100,brute force-data structures-hashing-strings,kessido,Java 8,202,17100800,OK
+46254949,1056,1543248494,2147483647,E,2100,brute force-data structures-hashing-strings,kessido,Java 8,202,17100800,OK
+46254569,1056,1543247668,1528,B,1600,math-number theory,Kharouba,Java 8,108,0,OK
+46254413,1056,1543247317,2147483647,B,1600,math-number theory,polyakoff,Java 8,140,0,OK
+46254385,1056,1543247259,2147483647,A,1000,implementation,kdblue,Java 8,155,0,OK
+46253874,1056,1543246338,198,A,1000,implementation,Kharouba,Java 8,140,0,OK
+46253320,1056,1543245421,2147483647,A,1000,implementation,mib.2ojmp8,Java 8,170,0,OK
+46252079,1056,1543243152,2147483647,A,1000,implementation,Ahmad-Abusbeih,Java 8,124,0,OK
+46251110,1056,1543241528,2147483647,B,1600,math-number theory,avijit_agarwal,Java 8,109,0,OK
+46250170,1056,1543240013,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kessido,Java 8,171,4096000,OK
+46249953,1056,1543239672,2147483647,A,1000,implementation,AJ47,Java 8,124,0,OK
+46249882,1056,1543239515,2147483647,A,1000,implementation,mohdafzal330,Java 8,124,0,OK
+46249798,1056,1543239373,2147483647,B,1600,math-number theory,kessido,Java 8,109,0,OK
+46249675,1056,1543239176,2147483647,A,1000,implementation,kessido,Java 8,124,0,OK
+46248793,1056,1543237336,2147483647,B,1600,math-number theory,wadissimo,Java 8,109,0,OK
+46248419,1056,1543236586,2147483647,C,1700,greedy-implementation-interactive-sortings,dmitriy0712,Java 8,202,0,OK
+46248039,1056,1543235818,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,jenish9599,Java 8,233,27340800,OK
+46247906,1056,1543235512,2147483647,A,1000,implementation,mhridoy,Java 8,109,0,OK
+46246382,1056,1543232308,2147483647,A,1000,implementation,abhisam_95,Java 8,155,0,OK
+46246319,1056,1543232170,2147483647,A,1000,implementation,abhisam_95,Java 8,155,0,OK
+46244884,1056,1543229192,2147483647,A,1000,implementation,AbhijeetKns,Java 8,109,0,OK
+46244051,1056,1543227143,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,yellowjian,Java 8,234,23552000,OK
+46243101,1056,1543224538,2147483647,A,1000,implementation,wadissimo,Java 8,124,0,OK
+46242597,1056,1543223227,2147483647,B,1600,math-number theory,ShowStopper728,Java 8,124,0,OK
+46242488,1056,1543222996,2147483647,B,1600,math-number theory,yellowjian,Java 8,124,0,OK
+46241287,1056,1543219818,2147483647,A,1000,implementation,yellowjian,Java 8,109,0,OK
+46241200,1056,1543219573,2147483647,E,2100,brute force-data structures-hashing-strings,habibulka,Java 8,233,20070400,OK
+46240665,1056,1543218063,2147483647,B,1600,math-number theory,jwk,Java 8,124,0,OK
+46240041,1056,1543216460,2147483647,E,2100,brute force-data structures-hashing-strings,habibulka,Java 8,3000,20172800,TIME_LIMIT_EXCEEDED
+46239669,1056,1543215336,2147483647,E,2100,brute force-data structures-hashing-strings,PrakharJain,Java 8,218,19251200,OK
+46239655,1056,1543215285,2147483647,B,1600,math-number theory,jwk,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46239373,1056,1543214432,2147483647,E,2100,brute force-data structures-hashing-strings,Taran_1407,Java 8,1185,20889600,OK
+46239248,1056,1543213994,2147483647,A,1000,implementation,jwk,Java 8,156,0,OK
+46238391,1056,1543211265,2147483647,E,2100,brute force-data structures-hashing-strings,aman28rwt,Java 8,264,19763200,OK
+46238384,1056,1543211241,2147483647,E,2100,brute force-data structures-hashing-strings,aman28rwt,Java 8,342,43315200,OK
+46238183,1056,1543210563,2147483647,A,1000,implementation,ay2306,Java 8,171,0,OK
+46237804,1056,1543208921,2147483647,C,1700,greedy-implementation-interactive-sortings,avijit_agarwal,Java 8,171,0,OK
+46237789,1056,1543208825,2147483647,A,1000,implementation,aman28rwt,Java 8,155,0,OK
+46237770,1056,1543208764,2147483647,G,2800,brute force-data structures-graphs,benpr99,Java 8,311,0,OK
+46237729,1056,1543208633,2147483647,C,1700,greedy-implementation-interactive-sortings,llamaoo7,Java 8,234,0,OK
+46237692,1056,1543208480,2147483647,B,1600,math-number theory,aman28rwt,Java 8,124,0,OK
+46237634,1056,1543208240,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Oopsimbad,Java 8,171,0,OK
+46237530,1056,1543207869,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,aman28rwt,Java 8,140,4812800,OK
+46237525,1056,1543207840,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,aman28rwt,Java 8,155,4710400,OK
+46237210,1056,1543206389,2147483647,C,1700,greedy-implementation-interactive-sortings,Oopsimbad,Java 8,187,0,OK
+46236859,1056,1543204856,2147483647,B,1600,math-number theory,llamaoo7,Java 8,140,0,OK
+46236813,1056,1543204637,2147483647,B,1600,math-number theory,Oopsimbad,Java 8,109,0,OK
+46236597,1056,1543203636,2147483647,A,1000,implementation,Oopsimbad,Java 8,109,0,OK
+46236559,1056,1543203475,2147483647,A,1000,implementation,llamaoo7,Java 8,139,0,OK
+46236160,1056,1543201499,2147483647,E,2100,brute force-data structures-hashing-strings,dusty.and.rusty,Java 8,327,36147200,OK
+46236145,1056,1543201422,2147483647,E,2100,brute force-data structures-hashing-strings,dusty.and.rusty,Java 8,499,101171200,OK
+46236114,1056,1543201261,2147483647,C,1700,greedy-implementation-interactive-sortings,benpr99,Java 8,187,0,OK
+46235661,1056,1543199111,2147483647,E,2100,brute force-data structures-hashing-strings,bvd,Java 8,592,115916800,OK
+46235474,1056,1543198184,2147483647,E,2100,brute force-data structures-hashing-strings,bvd,Java 8,3000,115609600,TIME_LIMIT_EXCEEDED
+46235316,1056,1543197314,2147483647,F,2400,binary search-dp-math,kessido,Java 8,1045,0,OK
+46235311,1056,1543197286,2147483647,E,2100,brute force-data structures-hashing-strings,bvd,Java 8,3000,109158400,TIME_LIMIT_EXCEEDED
+46235252,1056,1543196885,2147483647,F,2400,binary search-dp-math,kessido,Java 8,2000,156057600,TIME_LIMIT_EXCEEDED
+46235217,1056,1543196731,2147483647,F,2400,binary search-dp-math,kessido,Java 8,2000,156057600,TIME_LIMIT_EXCEEDED
+46235080,1056,1543195889,2147483647,E,2100,brute force-data structures-hashing-strings,bvd,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46234524,1056,1543192700,2147483647,E,2100,brute force-data structures-hashing-strings,kessido,Java 8,265,36249600,OK
+46234410,1056,1543192105,2147483647,E,2100,brute force-data structures-hashing-strings,kessido,Java 8,3000,8704000,TIME_LIMIT_EXCEEDED
+46234322,1056,1543191611,2147483647,A,1000,implementation,dwoolley3,Java 8,109,0,OK
+46234167,1056,1543190762,2147483647,E,2100,brute force-data structures-hashing-strings,kessido,Java 8,3000,4812800,TIME_LIMIT_EXCEEDED
+46233810,1056,1543188594,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kessido,Java 8,186,11980800,OK
+46233688,1056,1543187941,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,brettfazio,Java 8,405,78028800,OK
+46233590,1056,1543187462,2147483647,B,1600,math-number theory,kessido,Java 8,109,0,OK
+46233240,1056,1543185952,2147483647,A,1000,implementation,kessido,Java 8,124,0,OK
+46233143,1056,1543185495,2147483647,A,1000,implementation,kessido,Java 8,124,0,OK
+46232683,1056,1543183520,2147483647,B,1600,math-number theory,Mackenzie,Java 8,109,0,OK
+46232523,1056,1543182949,2147483647,G,2800,brute force-data structures-graphs,lucasr,Java 8,140,0,OK
+46232455,1056,1543182668,2147483647,B,1600,math-number theory,codeforcessup,Java 8,124,0,OK
+46232139,1056,1543181650,2147483647,A,1000,implementation,jzy_204,Java 8,139,0,OK
+46232081,1056,1543181530,2147483647,B,1600,math-number theory,YahiaBadr,Java 8,108,0,OK
+46232005,1056,1543181329,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,TheKaibosh,Java 8,1000,13926400,TIME_LIMIT_EXCEEDED
+46231912,1056,1543181059,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,TheKaibosh,Java 8,1000,13926400,TIME_LIMIT_EXCEEDED
+46231279,1056,1543179428,2147483647,A,1000,implementation,zekigurbuz,Java 8,139,0,OK
+46231262,1056,1543179398,2147483647,B,1600,math-number theory,deep319,Java 8,139,0,OK
+46231180,1056,1543179201,2147483647,E,2100,brute force-data structures-hashing-strings,aminul,Java 8,264,42803200,OK
+46231133,1056,1543179125,2147483647,C,1700,greedy-implementation-interactive-sortings,rishz,Java 8,187,0,OK
+46231094,1056,1543179063,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,thisSideAnonymous,Java 8,187,14540800,OK
+46231009,1056,1543178896,2147483647,E,2100,brute force-data structures-hashing-strings,aminul,Java 8,638,96665600,OK
+46230949,1056,1543178765,2147483647,A,1000,implementation,rmartin,Java 8,171,0,OK
+46230867,1056,1543178565,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,jenish9599,Java 8,1000,27443200,TIME_LIMIT_EXCEEDED
+46230861,1056,1543178550,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,thisSideAnonymous,Java 8,1000,7475200,TIME_LIMIT_EXCEEDED
+46230767,1056,1543178346,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,YahiaBadr,Java 8,249,53350400,OK
+46230761,1056,1543178326,2147483647,B,1600,math-number theory,BiIIy,Java 8,124,0,OK
+46230693,1056,1543178206,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,GiGlema,Java 8,233,8396800,OK
+46230591,1056,1543177999,2147483647,A,1000,implementation,zidan241,Java 8,93,0,OK
+46230503,1056,1543177827,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Lewin,Java 8,124,0,OK
+46230424,1056,1543177716,2147483647,B,1600,math-number theory,PrakharJain,Java 8,109,0,OK
+46230351,1056,1543177592,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,thisSideAnonymous,Java 8,1000,8294400,TIME_LIMIT_EXCEEDED
+46230334,1056,1543177556,2147483647,A,1000,implementation,Abdelfattah_Mohamed,Java 8,155,0,OK
+46230287,1056,1543177483,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,thisSideAnonymous,Java 8,1000,17612800,TIME_LIMIT_EXCEEDED
+46230185,1056,1543177288,2147483647,A,1000,implementation,Ahmed_Diab,Java 8,140,0,OK
+46230118,1056,1543177165,2147483647,E,2100,brute force-data structures-hashing-strings,megaspazz,Java 8,3000,8601600,TIME_LIMIT_EXCEEDED
+46230020,1056,1543177025,2147483647,B,1600,math-number theory,Ahmed_Diab,Java 8,155,0,OK
+46229994,1056,1543176983,2147483647,E,2100,brute force-data structures-hashing-strings,nchn27,Java 8,3000,39014400,TIME_LIMIT_EXCEEDED
+46229983,1056,1543176970,2147483647,E,2100,brute force-data structures-hashing-strings,fetetriste,Java 8,233,16998400,OK
+46229923,1056,1543176892,2147483647,F,2400,binary search-dp-math,fetetriste,Java 8,374,0,OK
+46229881,1056,1543176841,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Ahmed_Diab,Java 8,296,61440000,OK
+46229860,1056,1543176807,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,intrepidcoder,Java 8,218,21401600,OK
+46229814,1056,1543176751,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,michael.egorov,Java 8,982,31334400,OK
+46229771,1056,1543176700,2147483647,F,2400,binary search-dp-math,fetetriste,Java 8,389,0,OK
+46229770,1056,1543176698,2147483647,E,2100,brute force-data structures-hashing-strings,megaspazz,Java 8,3000,8499200,TIME_LIMIT_EXCEEDED
+46229736,1056,1543176640,2147483647,F,2400,binary search-dp-math,fetetriste,Java 8,374,0,OK
+46229692,1056,1543176579,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,thisSideAnonymous,Java 8,1000,8089600,TIME_LIMIT_EXCEEDED
+46229490,1056,1543176337,2147483647,A,1000,implementation,jjluczyn,Java 8,109,0,OK
+46229467,1056,1543176308,2147483647,B,1600,math-number theory,ViciousCoder,Java 8,108,0,OK
+46229453,1056,1543176289,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,233,14745600,OK
+46229452,1056,1543176285,2147483647,B,1600,math-number theory,agarus,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46229416,1056,1543176240,2147483647,E,2100,brute force-data structures-hashing-strings,BaZ_,Java 8,841,27033600,OK
+46229367,1056,1543176199,2147483647,E,2100,brute force-data structures-hashing-strings,megaspazz,Java 8,3000,8089600,TIME_LIMIT_EXCEEDED
+46229348,1056,1543176166,2147483647,A,1000,implementation,ViciousCoder,Java 8,109,0,OK
+46229311,1056,1543176124,2147483647,C,1700,greedy-implementation-interactive-sortings,ViciousCoder,Java 8,202,0,OK
+46229274,1056,1543176079,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,ViciousCoder,Java 8,249,58982400,OK
+46229268,1056,1543176078,2147483647,C,1700,greedy-implementation-interactive-sortings,msagimbekov,Java 8,265,0,OK
+46229249,1056,1543176056,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,msagimbekov,Java 8,248,15974400,OK
+46229190,1056,1543175983,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,SevenDeadlySins,Java 8,842,102400,OK
+46229187,1056,1543175981,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,mennafadali,Java 8,233,49152000,OK
+46229176,1056,1543175962,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,mmaxio,Java 8,124,0,OK
+46229075,1056,1543175863,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,60928000,TIME_LIMIT_EXCEEDED
+46229052,1056,1543175843,2147483647,E,2100,brute force-data structures-hashing-strings,intrepidcoder,Java 8,701,14848000,OK
+46229046,1056,1543175841,2147483647,E,2100,brute force-data structures-hashing-strings,SecondThread,Java 8,498,62976000,OK
+46228968,1056,1543175784,2147483647,C,1700,greedy-implementation-interactive-sortings,avijit_agarwal,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46228930,1056,1543175751,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,ShowStopper728,Java 8,202,20172800,OK
+46228887,1056,1543175723,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Lewin,Java 8,140,0,OK
+46228886,1056,1543175720,2147483647,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,cmplx-xyttmt,Java 8,514,0,OK
+46228871,1056,1543175711,2147483647,C,1700,greedy-implementation-interactive-sortings,Lewin,Java 8,171,0,OK
+46228816,1056,1543175678,2147483647,E,2100,brute force-data structures-hashing-strings,aminul,Java 8,280,43110400,OK
+46228776,1056,1543175652,2147483647,A,1000,implementation,motawfik,Java 8,109,0,OK
+46227908,1056,1543172695,8995,B,1600,math-number theory,brettfazio,Java 8,139,0,OK
+46227802,1056,1543172673,8973,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Darko,Java 8,249,20275200,OK
+46227789,1056,1543172671,8971,E,2100,brute force-data structures-hashing-strings,megaspazz,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46227726,1056,1543172656,8956,A,1000,implementation,agarus,Java 8,109,0,OK
+46227708,1056,1543172651,8951,E,2100,brute force-data structures-hashing-strings,megaspazz,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46227596,1056,1543172613,8913,E,2100,brute force-data structures-hashing-strings,beroul,Java 8,3000,75059200,TIME_LIMIT_EXCEEDED
+46227561,1056,1543172595,8895,E,2100,brute force-data structures-hashing-strings,SecondThread,Java 8,3000,35020800,TIME_LIMIT_EXCEEDED
+46227489,1056,1543172567,8867,E,2100,brute force-data structures-hashing-strings,sarthakmanna,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46227484,1056,1543172563,8863,B,1600,math-number theory,helllo,Java 8,109,0,OK
+46227428,1056,1543172545,8845,E,2100,brute force-data structures-hashing-strings,nchn27,Java 8,3000,39014400,TIME_LIMIT_EXCEEDED
+46227411,1056,1543172538,8838,B,1600,math-number theory,enricogi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46227291,1056,1543172488,8788,E,2100,brute force-data structures-hashing-strings,SecondThread,Java 8,3000,69324800,TIME_LIMIT_EXCEEDED
+46227285,1056,1543172486,8786,B,1600,math-number theory,AbhijeetKns,Java 8,1000,237875200,TIME_LIMIT_EXCEEDED
+46227241,1056,1543172473,8773,F,2400,binary search-dp-math,Yugioh,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46227230,1056,1543172468,8768,C,1700,greedy-implementation-interactive-sortings,bdomokos,Java 8,265,0,OK
+46227129,1056,1543172424,8724,E,2100,brute force-data structures-hashing-strings,nchn27,Java 8,3000,38912000,TIME_LIMIT_EXCEEDED
+46227079,1056,1543172406,8706,B,1600,math-number theory,deep319,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46227072,1056,1543172403,8703,F,2400,binary search-dp-math,Yugioh,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46227057,1056,1543172398,8698,B,1600,math-number theory,codeforcessup,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46226919,1056,1543172323,8623,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,tastymath75025,Java 8,436,72806400,OK
+46226912,1056,1543172320,8620,E,2100,brute force-data structures-hashing-strings,megaspazz,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46226849,1056,1543172282,8582,E,2100,brute force-data structures-hashing-strings,abacabadabacaba,Java 8,358,18841600,OK
+46226807,1056,1543172268,8568,E,2100,brute force-data structures-hashing-strings,beroul,Java 8,3000,74956800,TIME_LIMIT_EXCEEDED
+46226770,1056,1543172249,8549,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,joney_000,Java 8,233,13209600,OK
+46226690,1056,1543172210,8510,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kshitiz1007,Java 8,592,19558400,OK
+46226651,1056,1543172183,8483,E,2100,brute force-data structures-hashing-strings,beroul,Java 8,3000,139264000,TIME_LIMIT_EXCEEDED
+46226579,1056,1543172144,8444,C,1700,greedy-implementation-interactive-sortings,PrakharJain,Java 8,265,0,OK
+46226557,1056,1543172135,8435,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Darko,Java 8,1000,56012800,TIME_LIMIT_EXCEEDED
+46226526,1056,1543172118,8418,C,1700,greedy-implementation-interactive-sortings,stelmah,Java 8,312,0,OK
+46226500,1056,1543172106,8406,C,1700,greedy-implementation-interactive-sortings,BitchLasagna,Java 8,171,0,OK
+46226353,1056,1543172027,8327,B,1600,math-number theory,LAKOUAM_IMAD,Java 8,140,0,OK
+46226332,1056,1543172017,8317,B,1600,math-number theory,yorky,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46226212,1056,1543171958,8258,E,2100,brute force-data structures-hashing-strings,beroul,Java 8,3000,139264000,TIME_LIMIT_EXCEEDED
+46226174,1056,1543171937,8237,C,1700,greedy-implementation-interactive-sortings,bvd,Java 8,249,0,OK
+46226054,1056,1543171864,8164,C,1700,greedy-implementation-interactive-sortings,serafimkoo,Java 8,233,0,OK
+46226006,1056,1543171839,8139,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,sarthakmanna,Java 8,187,16691200,OK
+46226005,1056,1543171838,8138,E,2100,brute force-data structures-hashing-strings,khokharnikunj8,Java 8,1591,43315200,OK
+46225812,1056,1543171727,8027,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,its_ulure,Java 8,249,51507200,OK
+46225763,1056,1543171700,8000,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Vladimirr.Petrunko,Java 8,732,20787200,OK
+46225689,1056,1543171659,7959,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,YahiaBadr,Java 8,1000,268390400,TIME_LIMIT_EXCEEDED
+46225590,1056,1543171596,7896,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,49152000,TIME_LIMIT_EXCEEDED
+46225548,1056,1543171570,7870,B,1600,math-number theory,AuroraGarden,Java 8,124,0,OK
+46225495,1056,1543171538,7838,G,2800,brute force-data structures-graphs,mmaxio,Java 8,139,0,OK
+46225479,1056,1543171532,7832,B,1600,math-number theory,ileo,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46225417,1056,1543171500,7800,B,1600,math-number theory,enricogi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46225323,1056,1543171446,7746,E,2100,brute force-data structures-hashing-strings,beroul,Java 8,3000,19456000,TIME_LIMIT_EXCEEDED
+46225203,1056,1543171368,7668,C,1700,greedy-implementation-interactive-sortings,catforce,Java 8,218,0,OK
+46225192,1056,1543171360,7660,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,harshhx17,Java 8,202,28569600,OK
+46225007,1056,1543171242,7542,E,2100,brute force-data structures-hashing-strings,zeyad_khattab,Java 8,3000,716800,TIME_LIMIT_EXCEEDED
+46224990,1056,1543171231,7531,C,1700,greedy-implementation-interactive-sortings,TechSupport,Java 8,202,0,OK
+46224970,1056,1543171217,7517,B,1600,math-number theory,AbhijeetKns,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46224924,1056,1543171192,7492,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,benpr99,Java 8,233,24268800,OK
+46224908,1056,1543171184,7484,F,2400,binary search-dp-math,iakovlev.zakhar,Java 8,374,0,OK
+46224896,1056,1543171176,7476,G,2800,brute force-data structures-graphs,abacabadabacaba,Java 8,1715,26521600,OK
+46224672,1056,1543171034,7334,B,1600,math-number theory,kiril,Java 8,155,0,OK
+46224654,1056,1543171021,7321,B,1600,math-number theory,VikramSaurabh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46224633,1056,1543171010,7310,C,1700,greedy-implementation-interactive-sortings,Darko,Java 8,265,0,OK
+46224615,1056,1543170999,7299,E,2100,brute force-data structures-hashing-strings,AkshajK,Java 8,1388,6656000,OK
+46224481,1056,1543170914,7214,A,1000,implementation,Jefferson_Rodrigues7,Java 8,140,0,OK
+46224376,1056,1543170852,7152,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,gnad,Java 8,576,30310400,OK
+46224359,1056,1543170839,7139,C,1700,greedy-implementation-interactive-sortings,flyman3046,Java 8,218,0,OK
+46224231,1056,1543170771,7071,B,1600,math-number theory,codeforcessup,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46224108,1056,1543170690,6990,C,1700,greedy-implementation-interactive-sortings,golions,Java 8,202,0,OK
+46224040,1056,1543170655,6955,B,1600,math-number theory,enricogi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46224025,1056,1543170647,6947,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,nchn27,Java 8,342,63590400,OK
+46224024,1056,1543170646,6946,C,1700,greedy-implementation-interactive-sortings,rmartin,Java 8,264,0,OK
+46223939,1056,1543170593,6893,B,1600,math-number theory,VikramSaurabh,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46223710,1056,1543170458,6758,A,1000,implementation,deep319,Java 8,155,0,OK
+46223659,1056,1543170433,6733,E,2100,brute force-data structures-hashing-strings,AkshajK,Java 8,3000,6656000,TIME_LIMIT_EXCEEDED
+46223593,1056,1543170395,6695,C,1700,greedy-implementation-interactive-sortings,jjluczyn,Java 8,265,0,OK
+46223471,1056,1543170316,6616,E,2100,brute force-data structures-hashing-strings,AuroraGarden,Java 8,1996,34611200,OK
+46223429,1056,1543170283,6583,B,1600,math-number theory,megasoch,Java 8,140,0,OK
+46223399,1056,1543170266,6566,E,2100,brute force-data structures-hashing-strings,beroul,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46223271,1056,1543170193,6493,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Taran_1407,Java 8,186,0,OK
+46223251,1056,1543170181,6481,E,2100,brute force-data structures-hashing-strings,SecondThread,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46223208,1056,1543170159,6458,B,1600,math-number theory,goyalakash1997,Java 8,156,0,OK
+46223136,1056,1543170122,6422,A,1000,implementation,AbhijeetKns,Java 8,171,0,OK
+46223115,1056,1543170105,6405,B,1600,math-number theory,bhavyashah9823,Java 8,124,0,OK
+46223103,1056,1543170099,6399,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,48640000,TIME_LIMIT_EXCEEDED
+46223037,1056,1543170064,6364,B,1600,math-number theory,enricogi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46223000,1056,1543170048,6348,E,2100,brute force-data structures-hashing-strings,beroul,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46222999,1056,1543170048,6348,E,2100,brute force-data structures-hashing-strings,megaspazz,Java 8,3000,19251200,TIME_LIMIT_EXCEEDED
+46222995,1056,1543170046,6346,E,2100,brute force-data structures-hashing-strings,SecondThread,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46222928,1056,1543170012,6312,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,48640000,TIME_LIMIT_EXCEEDED
+46222894,1056,1543169997,6297,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Alex_Gal,Java 8,187,17100800,OK
+46222809,1056,1543169949,6249,F,2400,binary search-dp-math,ilyakor,Java 8,248,0,OK
+46222728,1056,1543169905,6205,G,2800,brute force-data structures-graphs,Lewin,Java 8,202,0,OK
+46222636,1056,1543169852,6151,A,1000,implementation,int_n,Java 8,140,0,OK
+46222625,1056,1543169845,6145,C,1700,greedy-implementation-interactive-sortings,Taran_1407,Java 8,280,0,OK
+46222563,1056,1543169807,6107,B,1600,math-number theory,Mahakarma,Java 8,139,0,OK
+46222549,1056,1543169799,6099,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,48435200,TIME_LIMIT_EXCEEDED
+46222530,1056,1543169788,6087,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,bloodseeker98,Java 8,1000,17612800,TIME_LIMIT_EXCEEDED
+46222411,1056,1543169712,6012,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Alex_Gal,Java 8,1000,204800,TIME_LIMIT_EXCEEDED
+46222382,1056,1543169691,5990,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,dusty.and.rusty,Java 8,295,14540800,OK
+46222320,1056,1543169647,5947,C,1700,greedy-implementation-interactive-sortings,reborn.chris,Java 8,249,0,OK
+46222281,1056,1543169620,5920,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,48640000,TIME_LIMIT_EXCEEDED
+46222215,1056,1543169572,5872,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,LAKOUAM_IMAD,Java 8,327,28467200,OK
+46222214,1056,1543169571,5871,F,2400,binary search-dp-math,uwi,Java 8,733,0,OK
+46222089,1056,1543169508,5808,E,2100,brute force-data structures-hashing-strings,AuroraGarden,Java 8,3000,50585600,TIME_LIMIT_EXCEEDED
+46221998,1056,1543169440,5740,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,49049600,TIME_LIMIT_EXCEEDED
+46221860,1056,1543169364,5664,C,1700,greedy-implementation-interactive-sortings,kyrylhol,Java 8,265,0,OK
+46221812,1056,1543169333,5633,B,1600,math-number theory,enricogi,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46221782,1056,1543169317,5617,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,thisSideAnonymous,Java 8,1000,17612800,TIME_LIMIT_EXCEEDED
+46221768,1056,1543169310,5610,C,1700,greedy-implementation-interactive-sortings,intrepidcoder,Java 8,233,0,OK
+46221754,1056,1543169300,5600,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,PrakharJain,Java 8,280,23449600,OK
+46221725,1056,1543169285,5585,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,kubusgol,Java 8,265,17612800,OK
+46221692,1056,1543169270,5570,G,2800,brute force-data structures-graphs,Lewin,Java 8,2000,0,TIME_LIMIT_EXCEEDED
+46221678,1056,1543169262,5562,C,1700,greedy-implementation-interactive-sortings,khokharnikunj8,Java 8,186,0,OK
+46221643,1056,1543169245,5545,F,2400,binary search-dp-math,mmaxio,Java 8,358,0,OK
+46221626,1056,1543169237,5537,B,1600,math-number theory,Mackenzie,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46221619,1056,1543169230,5530,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,bhavyashah9823,Java 8,249,51712000,OK
+46221471,1056,1543169149,5449,B,1600,math-number theory,ileo,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46221394,1056,1543169110,5409,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,mstang,Java 8,1000,22425600,TIME_LIMIT_EXCEEDED
+46221350,1056,1543169087,5387,B,1600,math-number theory,MylnikovNikolay,Java 8,124,0,OK
+46221311,1056,1543169064,5364,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,habibulka,Java 8,202,14336000,OK
+46221272,1056,1543169040,5340,E,2100,brute force-data structures-hashing-strings,Yugioh,Java 8,3000,0,TIME_LIMIT_EXCEEDED
+46221271,1056,1543169039,5339,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Smurf1,Java 8,1000,50688000,TIME_LIMIT_EXCEEDED
+46221161,1056,1543168977,5277,C,1700,greedy-implementation-interactive-sortings,spar5h,Java 8,202,0,OK
+46220983,1056,1543168871,5171,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,shreyas_21,Java 8,748,47206400,OK
+46220955,1056,1543168853,5153,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,beroul,Java 8,218,16998400,OK
+46220896,1056,1543168818,5118,A,1000,implementation,bloodseeker98,Java 8,140,0,OK
+46220834,1056,1543168788,5088,C,1700,greedy-implementation-interactive-sortings,aminul,Java 8,170,0,OK
+46220604,1056,1543168668,4968,B,1600,math-number theory,michael.egorov,Java 8,109,0,OK
+46220580,1056,1543168657,4956,B,1600,math-number theory,kshitiz1007,Java 8,140,4710400,OK
+46220496,1056,1543168601,4901,B,1600,math-number theory,DartPelmen,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46220486,1056,1543168597,4897,B,1600,math-number theory,benpr99,Java 8,109,0,OK
+46220386,1056,1543168545,4845,B,1600,math-number theory,Vladimirr.Petrunko,Java 8,170,0,OK
+46220351,1056,1543168525,4825,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,mstang,Java 8,1000,46694400,TIME_LIMIT_EXCEEDED
+46220246,1056,1543168466,4766,A,1000,implementation,tpie17,Java 8,390,0,OK
+46220236,1056,1543168459,4759,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,bvd,Java 8,311,40345600,OK
+46220203,1056,1543168444,4744,C,1700,greedy-implementation-interactive-sortings,15ucs145,Java 8,202,0,OK
+46220191,1056,1543168437,4737,E,2100,brute force-data structures-hashing-strings,shagiev,Java 8,3000,5529600,TIME_LIMIT_EXCEEDED
+46220132,1056,1543168406,4706,F,2400,binary search-dp-math,Lewin,Java 8,717,0,OK
+46219918,1056,1543168280,4580,B,1600,math-number theory,int_n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46219760,1056,1543168183,4483,B,1600,math-number theory,jdurie,Java 8,140,0,OK
+46219731,1056,1543168170,4470,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,qlf9,Java 8,577,62873600,OK
+46219619,1056,1543168105,4405,B,1600,math-number theory,goyalakash1997,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46219557,1056,1543168073,4373,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Ahmed_Abdou,Java 8,530,17100800,OK
+46219500,1056,1543168038,4338,C,1700,greedy-implementation-interactive-sortings,IDzekh,Java 8,187,0,OK
+46219437,1056,1543167999,4299,B,1600,math-number theory,avijit_agarwal,Java 8,124,0,OK
+46219372,1056,1543167959,4259,A,1000,implementation,sara_11,Java 8,140,0,OK
+46219357,1056,1543167949,4249,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Nesrin,Java 8,249,17408000,OK
+46219322,1056,1543167931,4231,B,1600,math-number theory,prat.bphc,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46219308,1056,1543167923,4223,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,lucasr,Java 8,202,12390400,OK
+46219211,1056,1543167876,4176,B,1600,math-number theory,_R_peggy,Java 8,139,0,OK
+46219170,1056,1543167852,4152,A,1000,implementation,qwerty2k,Java 8,171,0,OK
+46219115,1056,1543167821,4121,B,1600,math-number theory,avdeev1van,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46219110,1056,1543167819,4119,A,1000,implementation,Funtikov,Java 8,155,0,OK
+46219096,1056,1543167811,4111,B,1600,math-number theory,Alex_Gal,Java 8,108,0,OK
+46219077,1056,1543167801,4101,B,1600,math-number theory,serafimkoo,Java 8,124,0,OK
+46219018,1056,1543167771,4071,C,1700,greedy-implementation-interactive-sortings,SecondThread,Java 8,249,0,OK
+46218984,1056,1543167749,4049,B,1600,math-number theory,avdeev1van,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46218957,1056,1543167736,4036,C,1700,greedy-implementation-interactive-sortings,sarthakmanna,Java 8,187,0,OK
+46218906,1056,1543167704,4004,B,1600,math-number theory,Taran_1407,Java 8,155,0,OK
+46218901,1056,1543167703,4003,C,1700,greedy-implementation-interactive-sortings,habibulka,Java 8,202,0,OK
+46218900,1056,1543167702,4002,C,1700,greedy-implementation-interactive-sortings,nchn27,Java 8,249,0,OK
+46218685,1056,1543167595,3895,A,1000,implementation,Kazak1337,Java 8,171,0,OK
+46218671,1056,1543167589,3889,A,1000,implementation,dipta10,Java 8,233,0,OK
+46218653,1056,1543167583,3883,B,1600,math-number theory,bdomokos,Java 8,155,0,OK
+46218634,1056,1543167572,3872,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,spar5h,Java 8,217,13516800,OK
+46218581,1056,1543167544,3844,B,1600,math-number theory,goldcode8,Java 8,124,0,OK
+46218473,1056,1543167487,3787,B,1600,math-number theory,YahiaBadr,Java 8,108,0,OK
+46218364,1056,1543167423,3723,E,2100,brute force-data structures-hashing-strings,uwi,Java 8,529,137932800,OK
+46218346,1056,1543167414,3714,B,1600,math-number theory,avdeev1van,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46218334,1056,1543167408,3708,B,1600,math-number theory,khokharnikunj8,Java 8,109,0,OK
+46218256,1056,1543167375,3675,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,aminul,Java 8,248,60211200,OK
+46218249,1056,1543167371,3671,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,megaspazz,Java 8,202,13312000,OK
+46218199,1056,1543167341,3641,B,1600,math-number theory,DartPelmen,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46218093,1056,1543167297,3597,B,1600,math-number theory,rmartin,Java 8,155,0,OK
+46218042,1056,1543167263,3563,B,1600,math-number theory,_R_peggy,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46217963,1056,1543167215,3515,C,1700,greedy-implementation-interactive-sortings,Smurf1,Java 8,249,0,OK
+46217961,1056,1543167213,3513,B,1600,math-number theory,sreznick,Java 8,140,0,OK
+46217898,1056,1543167183,3483,C,1700,greedy-implementation-interactive-sortings,zeyad_khattab,Java 8,202,0,OK
+46217752,1056,1543167118,3418,A,1000,implementation,mdadil2019,Java 8,155,0,OK
+46217738,1056,1543167112,3412,B,1600,math-number theory,int_n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46217719,1056,1543167100,3400,E,2100,brute force-data structures-hashing-strings,ilyakor,Java 8,514,34713600,OK
+46217718,1056,1543167099,3399,B,1600,math-number theory,jzy_204,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46217716,1056,1543167099,3399,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,AkshajK,Java 8,233,26316800,OK
+46217622,1056,1543167055,3355,C,1700,greedy-implementation-interactive-sortings,dusty.and.rusty,Java 8,295,0,OK
+46217519,1056,1543167009,3309,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,AuroraGarden,Java 8,249,48640000,OK
+46217454,1056,1543166976,3276,B,1600,math-number theory,jenish9599,Java 8,108,0,OK
+46217444,1056,1543166968,3268,C,1700,greedy-implementation-interactive-sortings,BaZ_,Java 8,186,0,OK
+46217409,1056,1543166947,3247,A,1000,implementation,MCHaixin,Java 8,140,0,OK
+46217290,1056,1543166891,3191,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,flyman3046,Java 8,280,68608000,OK
+46217274,1056,1543166888,3188,C,1700,greedy-implementation-interactive-sortings,beroul,Java 8,202,0,OK
+46217246,1056,1543166880,3180,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,golions,Java 8,202,17715200,OK
+46217210,1056,1543166864,3164,E,2100,brute force-data structures-hashing-strings,mmaxio,Java 8,358,19865600,OK
+46217191,1056,1543166855,3155,B,1600,math-number theory,cmplx-xyttmt,Java 8,140,0,OK
+46217128,1056,1543166824,3124,C,1700,greedy-implementation-interactive-sortings,Yugioh,Java 8,202,0,OK
+46217126,1056,1543166823,3123,A,1000,implementation,MubtasimShahriar,Java 8,140,0,OK
+46217094,1056,1543166803,3103,C,1700,greedy-implementation-interactive-sortings,gnad,Java 8,218,0,OK
+46217015,1056,1543166758,3058,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,SecondThread,Java 8,311,49459200,OK
+46216998,1056,1543166751,3051,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,khokharnikunj8,Java 8,171,4505600,OK
+46216975,1056,1543166742,3042,B,1600,math-number theory,shreyas_21,Java 8,155,0,OK
+46216967,1056,1543166739,3039,B,1600,math-number theory,spar5h,Java 8,140,0,OK
+46216804,1056,1543166659,2959,C,1700,greedy-implementation-interactive-sortings,megaspazz,Java 8,202,0,OK
+46216722,1056,1543166609,2909,B,1600,math-number theory,yorky,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46216685,1056,1543166597,2897,B,1600,math-number theory,jjluczyn,Java 8,140,0,OK
+46216658,1056,1543166585,2885,B,1600,math-number theory,catforce,Java 8,124,0,OK
+46216647,1056,1543166582,2882,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,fetetriste,Java 8,218,0,OK
+46216600,1056,1543166560,2860,B,1600,math-number theory,aminul,Java 8,139,0,OK
+46216537,1056,1543166527,2827,B,1600,math-number theory,avdeev1van,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46216461,1056,1543166488,2788,B,1600,math-number theory,Nesrin,Java 8,140,0,OK
+46216407,1056,1543166460,2760,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,iakovlev.zakhar,Java 8,327,80281600,OK
+46216264,1056,1543166388,2688,B,1600,math-number theory,Darko,Java 8,155,0,OK
+46216254,1056,1543166383,2683,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,uwi,Java 8,156,0,OK
+46216216,1056,1543166360,2660,C,1700,greedy-implementation-interactive-sortings,LAKOUAM_IMAD,Java 8,249,0,OK
+46216151,1056,1543166320,2620,B,1600,math-number theory,YahiaBadr,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46216139,1056,1543166314,2614,A,1000,implementation,thisSideAnonymous,Java 8,155,0,OK
+46216124,1056,1543166305,2605,E,2100,brute force-data structures-hashing-strings,Lewin,Java 8,280,47206400,OK
+46216070,1056,1543166269,2569,A,1000,implementation,Mackenzie,Java 8,124,0,OK
+46215889,1056,1543166176,2476,C,1700,greedy-implementation-interactive-sortings,Vladimirr.Petrunko,Java 8,249,0,OK
+46215861,1056,1543166163,2463,A,1000,implementation,TheKaibosh,Java 8,155,0,OK
+46215805,1056,1543166139,2439,C,1700,greedy-implementation-interactive-sortings,lucasr,Java 8,217,0,OK
+46215779,1056,1543166128,2428,A,1000,implementation,nirenamid,Java 8,171,0,OK
+46215707,1056,1543166092,2392,B,1600,math-number theory,mennafadali,Java 8,124,0,OK
+46215682,1056,1543166083,2383,B,1600,math-number theory,I_LOVE_UNDEFINED,Java 8,109,0,OK
+46215634,1056,1543166064,2364,B,1600,math-number theory,intrepidcoder,Java 8,124,0,OK
+46215609,1056,1543166052,2352,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,IDzekh,Java 8,233,16793600,OK
+46215520,1056,1543166004,2304,A,1000,implementation,avdeev1van,Java 8,202,0,OK
+46215490,1056,1543165984,2284,C,1700,greedy-implementation-interactive-sortings,iakovlev.zakhar,Java 8,218,0,OK
+46215489,1056,1543165984,2284,B,1600,math-number theory,rohan03,Java 8,109,0,OK
+46215139,1056,1543165816,2116,A,1000,implementation,nesdi,Java 8,109,0,OK
+46215113,1056,1543165802,2102,B,1600,math-number theory,kyrylhol,Java 8,124,0,OK
+46215104,1056,1543165799,2099,B,1600,math-number theory,SevenDeadlySins,Java 8,124,4505600,OK
+46215064,1056,1543165786,2086,A,1000,implementation,An7hus,Java 8,155,0,OK
+46215024,1056,1543165766,2066,B,1600,math-number theory,anmolsngh576,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46214982,1056,1543165740,2040,B,1600,math-number theory,benpr99,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46214891,1056,1543165703,2003,C,1700,greedy-implementation-interactive-sortings,uwi,Java 8,233,0,OK
+46214801,1056,1543165657,1957,A,1000,implementation,Mohamed_Saad62,Java 8,171,0,OK
+46214650,1056,1543165583,1883,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,zeyad_khattab,Java 8,264,49868800,OK
+46214584,1056,1543165548,1848,B,1600,math-number theory,Alderon,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46214576,1056,1543165545,1845,B,1600,math-number theory,habibulka,Java 8,108,0,OK
+46214564,1056,1543165539,1839,C,1700,greedy-implementation-interactive-sortings,abacabadabacaba,Java 8,218,0,OK
+46214481,1056,1543165494,1794,B,1600,math-number theory,msagimbekov,Java 8,186,0,OK
+46214398,1056,1543165457,1757,B,1600,math-number theory,An7hus,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46214373,1056,1543165443,1743,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,Yugioh,Java 8,186,14336000,OK
+46214369,1056,1543165442,1742,A,1000,implementation,goyalakash1997,Java 8,155,0,OK
+46214238,1056,1543165381,1681,B,1600,math-number theory,cravuri,Java 8,155,0,OK
+46214215,1056,1543165374,1674,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,BaZ_,Java 8,171,13414400,OK
+46214100,1056,1543165317,1617,A,1000,implementation,serafimkoo,Java 8,124,0,OK
+46214071,1056,1543165307,1606,C,1700,greedy-implementation-interactive-sortings,fetetriste,Java 8,218,0,OK
+46214046,1056,1543165297,1597,B,1600,math-number theory,flyman3046,Java 8,124,0,OK
+46214038,1056,1543165295,1595,A,1000,implementation,AnanthDhruva,Java 8,202,0,OK
+46213933,1056,1543165241,1541,D,1600,constructive algorithms-dfs and similar-dp-graphs-greedy-sortings-trees,ilyakor,Java 8,140,0,OK
+46213858,1056,1543165196,1496,A,1000,implementation,EugenioToshiAmato,Java 8,170,0,OK
+46213843,1056,1543165189,1489,C,1700,greedy-implementation-interactive-sortings,mmaxio,Java 8,171,0,OK
+46213772,1056,1543165147,1447,A,1000,implementation,ileo,Java 8,171,0,OK
+46213747,1056,1543165135,1435,B,1600,math-number theory,bvd,Java 8,124,0,OK
+46213710,1056,1543165113,1413,A,1000,implementation,sarahfarag125,Java 8,109,0,OK
+46213500,1056,1543165021,1321,A,1000,implementation,shagiev,Java 8,171,0,OK
+46213496,1056,1543165019,1319,B,1600,math-number theory,zeyad_khattab,Java 8,124,0,OK
+46213487,1056,1543165015,1315,B,1600,math-number theory,dusty.and.rusty,Java 8,171,0,OK
+46213445,1056,1543164987,1287,C,1700,greedy-implementation-interactive-sortings,ilyakor,Java 8,186,0,OK
+46213405,1056,1543164969,1269,B,1600,math-number theory,reborn.chris,Java 8,139,0,OK
+46213402,1056,1543164967,1267,A,1000,implementation,michael.egorov,Java 8,124,0,OK
+46213373,1056,1543164949,1249,A,1000,implementation,humblenerd,Java 8,109,0,OK
+46213325,1056,1543164930,1230,A,1000,implementation,DartPelmen,Java 8,156,0,OK
+46213287,1056,1543164908,1208,A,1000,implementation,yorky,Java 8,108,0,OK
+46213248,1056,1543164891,1191,B,1600,math-number theory,IDzekh,Java 8,108,0,OK
+46213213,1056,1543164878,1178,A,1000,implementation,anony9906,Java 8,124,0,OK
+46213197,1056,1543164868,1168,B,1600,math-number theory,nchn27,Java 8,124,0,OK
+46213127,1056,1543164833,1133,A,1000,implementation,jkulanko,Java 8,155,0,OK
+46213005,1056,1543164771,1071,B,1600,math-number theory,BaZ_,Java 8,124,0,OK
+46212886,1056,1543164717,1017,A,1000,implementation,Ziax,Java 8,155,0,OK
+46212869,1056,1543164711,1011,B,1600,math-number theory,int_n,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46212849,1056,1543164702,1002,B,1600,math-number theory,SecondThread,Java 8,139,0,OK
+46212816,1056,1543164684,984,B,1600,math-number theory,Yugioh,Java 8,124,0,OK
+46212784,1056,1543164673,973,A,1000,implementation,prabhat236218,Java 8,139,38195200,OK
+46212767,1056,1543164667,967,A,1000,implementation,brettfazio,Java 8,155,0,OK
+46212766,1056,1543164666,966,B,1600,math-number theory,beroul,Java 8,109,0,OK
+46212728,1056,1543164647,947,B,1600,math-number theory,lucasr,Java 8,124,0,OK
+46212701,1056,1543164636,936,A,1000,implementation,allen_richi,Java 8,124,0,OK
+46212683,1056,1543164627,927,B,1600,math-number theory,GiGlema,Java 8,140,0,OK
+46212681,1056,1543164626,926,A,1000,implementation,sark_01,Java 8,124,0,OK
+46212677,1056,1543164626,926,A,1000,implementation,bdomokos,Java 8,202,0,OK
+46212568,1056,1543164580,880,A,1000,implementation,Maves,Java 8,155,0,OK
+46212538,1056,1543164570,870,A,1000,implementation,kiril,Java 8,187,0,OK
+46212511,1056,1543164558,858,B,1600,math-number theory,Smurf1,Java 8,140,0,OK
+46212505,1056,1543164555,855,B,1600,math-number theory,fetetriste,Java 8,140,0,OK
+46212481,1056,1543164548,848,A,1000,implementation,arcus,Java 8,155,0,OK
+46212390,1056,1543164510,810,B,1600,math-number theory,gnad,Java 8,124,0,OK
+46212384,1056,1543164505,805,A,1000,implementation,mohan_bera,Java 8,155,0,OK
+46212360,1056,1543164497,797,A,1000,implementation,spandey05,Java 8,156,0,OK
+46212298,1056,1543164470,770,A,1000,implementation,megasoch,Java 8,170,0,OK
+46212251,1056,1543164454,754,A,1000,implementation,SchrodZzz,Java 8,109,0,OK
+46212249,1056,1543164453,753,A,1000,implementation,rizqycf27,Java 8,124,0,OK
+46212233,1056,1543164444,744,A,1000,implementation,codeforcessup,Java 8,139,0,OK
+46212194,1056,1543164430,730,B,1600,math-number theory,AkshajK,Java 8,124,0,OK
+46212168,1056,1543164424,724,A,1000,implementation,fc-lib_xyz,Java 8,171,0,OK
+46212149,1056,1543164418,718,B,1600,math-number theory,uwi,Java 8,124,0,OK
+46212147,1056,1543164418,718,A,1000,implementation,LAKOUAM_IMAD,Java 8,140,0,OK
+46212133,1056,1543164413,713,A,1000,implementation,kr.pooja.rai,Java 8,140,0,OK
+46212115,1056,1543164408,708,A,1000,implementation,avijit_agarwal,Java 8,124,0,OK
+46212112,1056,1543164407,707,A,1000,implementation,lansergecs,Java 8,124,0,OK
+46212020,1056,1543164374,674,B,1600,math-number theory,iakovlev.zakhar,Java 8,124,0,OK
+46211977,1056,1543164361,661,B,1600,math-number theory,TechSupport,Java 8,124,0,OK
+46211965,1056,1543164358,658,A,1000,implementation,Zlobber,Java 8,124,0,OK
+46211958,1056,1543164356,656,B,1600,math-number theory,abacabadabacaba,Java 8,109,0,OK
+46211944,1056,1543164352,652,A,1000,implementation,anmolsngh576,Java 8,171,0,OK
+46211919,1056,1543164344,644,A,1000,implementation,goldcode8,Java 8,124,0,OK
+46211901,1056,1543164339,639,A,1000,implementation,Isa,Java 8,155,0,OK
+46211900,1056,1543164338,638,A,1000,implementation,vatsalsonigara,Java 8,155,0,OK
+46211894,1056,1543164337,637,A,1000,implementation,golions,Java 8,108,0,OK
+46211853,1056,1543164327,627,A,1000,implementation,cmplx-xyttmt,Java 8,124,0,OK
+46211852,1056,1543164327,627,A,1000,implementation,habibulka,Java 8,109,0,OK
+46211837,1056,1543164321,621,A,1000,implementation,rishz,Java 8,109,0,OK
+46211809,1056,1543164312,612,A,1000,implementation,Ahmed_Abdou,Java 8,124,0,OK
+46211748,1056,1543164291,591,A,1000,implementation,kyrylhol,Java 8,124,0,OK
+46211722,1056,1543164285,585,A,1000,implementation,Mahakarma,Java 8,124,0,OK
+46211720,1056,1543164284,584,A,1000,implementation,kshitiz1007,Java 8,156,0,OK
+46211712,1056,1543164281,581,A,1000,implementation,joney_000,Java 8,124,0,OK
+46211684,1056,1543164274,574,B,1600,math-number theory,mmaxio,Java 8,109,0,OK
+46211566,1056,1543164246,546,A,1000,implementation,MovingBit,Java 8,171,0,OK
+46211510,1056,1543164232,532,A,1000,implementation,dmitriy0712,Java 8,109,0,OK
+46211496,1056,1543164229,529,A,1000,implementation,_R_peggy,Java 8,139,0,OK
+46211491,1056,1543164228,528,A,1000,implementation,Alex_Gal,Java 8,140,0,OK
+46211486,1056,1543164227,527,B,1600,math-number theory,TechSupport,Java 8,1000,0,TIME_LIMIT_EXCEEDED
+46211456,1056,1543164218,518,A,1000,implementation,Java,Java 8,109,0,OK
+46211450,1056,1543164217,517,A,1000,implementation,Oulet,Java 8,124,0,OK
+46211348,1056,1543164192,492,A,1000,implementation,bittu10,Java 8,155,0,OK
+46211344,1056,1543164191,491,A,1000,implementation,benpr99,Java 8,155,0,OK
+46211323,1056,1543164187,487,A,1000,implementation,S010M,Java 8,124,0,OK
+46211297,1056,1543164180,480,A,1000,implementation,intrepidcoder,Java 8,124,0,OK
+46211265,1056,1543164172,472,A,1000,implementation,Artem533,Java 8,155,0,OK
+46211255,1056,1543164170,470,A,1000,implementation,shreyas_21,Java 8,140,0,OK
+46211243,1056,1543164167,467,A,1000,implementation,catforce,Java 8,109,0,OK
+46211242,1056,1543164167,467,B,1600,math-number theory,Lewin,Java 8,124,0,OK
+46211241,1056,1543164167,467,A,1000,implementation,khokharnikunj8,Java 8,124,0,OK
+46211212,1056,1543164161,461,A,1000,implementation,polyakoff,Java 8,140,0,OK
+46211211,1056,1543164161,461,A,1000,implementation,noob__coder,Java 8,156,0,OK
+46211182,1056,1543164156,456,A,1000,implementation,mennafadali,Java 8,124,0,OK
+46211146,1056,1543164146,446,A,1000,implementation,Darko,Java 8,155,0,OK
+46211127,1056,1543164142,442,B,1600,math-number theory,ilyakor,Java 8,124,0,OK
+46211089,1056,1543164134,434,A,1000,implementation,qlf9,Java 8,124,0,OK
+46210989,1056,1543164112,412,A,1000,implementation,stelmah,Java 8,155,0,OK
+46210986,1056,1543164111,411,A,1000,implementation,MikeFaraday,Java 8,124,0,OK
+46210972,1056,1543164109,409,A,1000,implementation,Smurf1,Java 8,155,0,OK
+46210954,1056,1543164107,407,A,1000,implementation,shahdhairya678,Java 8,155,0,OK
+46210932,1056,1543164103,403,A,1000,implementation,bhavyashah9823,Java 8,109,0,OK
+46210930,1056,1543164102,402,A,1000,implementation,IDzekh,Java 8,124,0,OK
+46210832,1056,1543164082,382,A,1000,implementation,sachin32,Java 8,155,0,OK
+46210782,1056,1543164074,374,A,1000,implementation,lucasr,Java 8,109,0,OK
+46210750,1056,1543164069,369,A,1000,implementation,bvd,Java 8,109,0,OK
+46210742,1056,1543164067,367,A,1000,implementation,helllo,Java 8,124,0,OK
+46210716,1056,1543164063,363,A,1000,implementation,SevenDeadlySins,Java 8,124,0,OK
+46210708,1056,1543164061,361,A,1000,implementation,jenish9599,Java 8,109,0,OK
+46210703,1056,1543164060,360,A,1000,implementation,dusty.and.rusty,Java 8,187,0,OK
+46210656,1056,1543164053,353,A,1000,implementation,nchn27,Java 8,139,0,OK
+46210654,1056,1543164052,352,A,1000,implementation,Vladimirr.Petrunko,Java 8,155,0,OK
+46210651,1056,1543164052,352,A,1000,implementation,reborn.chris,Java 8,124,0,OK
+46210625,1056,1543164048,348,A,1000,implementation,its_ulure,Java 8,140,0,OK
+46210580,1056,1543164040,340,A,1000,implementation,AkshajK,Java 8,124,0,OK
+46210575,1056,1543164040,340,A,1000,implementation,cravuri,Java 8,156,0,OK
+46210536,1056,1543164033,333,A,1000,implementation,jdurie,Java 8,155,0,OK
+46210523,1056,1543164031,331,A,1000,implementation,kubusgol,Java 8,170,0,OK
+46210485,1056,1543164025,325,A,1000,implementation,msagimbekov,Java 8,170,0,OK
+46210470,1056,1543164023,323,A,1000,implementation,aminul,Java 8,109,0,OK
+46210452,1056,1543164021,321,A,1000,implementation,beroul,Java 8,109,0,OK
+46210353,1056,1543164006,306,A,1000,implementation,flyman3046,Java 8,124,0,OK
+46210341,1056,1543164004,304,A,1000,implementation,BNL,Java 8,109,0,OK
+46210321,1056,1543164002,302,A,1000,implementation,spar5h,Java 8,109,0,OK
+46210298,1056,1543164000,300,A,1000,implementation,MylnikovNikolay,Java 8,124,0,OK
+46210274,1056,1543163996,296,A,1000,implementation,Nesrin,Java 8,124,0,OK
+46210267,1056,1543163995,295,A,1000,implementation,uwi,Java 8,124,0,OK
+46210260,1056,1543163994,294,A,1000,implementation,I_LOVE_UNDEFINED,Java 8,109,0,OK
+46210253,1056,1543163993,293,A,1000,implementation,GiGlema,Java 8,155,0,OK
+46210233,1056,1543163990,290,A,1000,implementation,rohan03,Java 8,124,0,OK
+46210147,1056,1543163976,276,A,1000,implementation,PrakharJain,Java 8,124,0,OK
+46210063,1056,1543163965,265,A,1000,implementation,abacabadabacaba,Java 8,109,0,OK
+46210025,1056,1543163958,258,A,1000,implementation,TechSupport,Java 8,124,0,OK
+46209996,1056,1543163953,253,A,1000,implementation,BitchLasagna,Java 8,140,0,OK
+46209990,1056,1543163953,253,A,1000,implementation,Taran_1407,Java 8,139,0,OK
+46209989,1056,1543163953,253,A,1000,implementation,BaZ_,Java 8,140,0,OK
+46209956,1056,1543163947,247,A,1000,implementation,fetetriste,Java 8,124,0,OK
+46209930,1056,1543163942,242,A,1000,implementation,zeyad_khattab,Java 8,124,0,OK
+46209928,1056,1543163942,242,A,1000,implementation,iakovlev.zakhar,Java 8,109,0,OK
+46209875,1056,1543163931,231,A,1000,implementation,YahiaBadr,Java 8,124,0,OK
+46209866,1056,1543163930,230,A,1000,implementation,mmaxio,Java 8,108,0,OK
+46209816,1056,1543163921,221,A,1000,implementation,Yugioh,Java 8,109,0,OK
+46209779,1056,1543163911,211,A,1000,implementation,ShowStopper728,Java 8,124,0,OK
+46209731,1056,1543163898,198,A,1000,implementation,gnad,Java 8,124,0,OK
+46209726,1056,1543163897,197,A,1000,implementation,SecondThread,Java 8,124,0,OK
+46209696,1056,1543163886,186,A,1000,implementation,AuroraGarden,Java 8,109,0,OK
+46209694,1056,1543163885,185,A,1000,implementation,ilyakor,Java 8,109,0,OK
+46209582,1056,1543163837,137,A,1000,implementation,Lewin,Java 8,124,0,OK

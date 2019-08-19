@@ -1,0 +1,1436 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57841020,5,1564219122,2147483647,A,1200,implementation,peter_jerry_ye,Java 8,218,3686400
+57596885,5,1563891395,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,TianZuiXing,Java 8,622,44544000
+56623766,5,1562417753,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,acr_13,Java 8,622,37580800
+56548375,5,1562315864,2147483647,A,1200,implementation,Darshan4450,Java 8,186,3276800
+56184466,5,1561692449,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mankadnandan,Java 8,466,18124800
+56076624,5,1561554474,2147483647,A,1200,implementation,tobitherobot,Java 8,218,3686400
+56016359,5,1561412034,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dexter_1205,Java 8,684,29900800
+55645203,5,1560686682,2147483647,B,1400,implementation-strings,Omar_Tarek,Java 8,186,3379200
+55642973,5,1560684588,2147483647,A,1200,implementation,Omar_Tarek,Java 8,186,3276800
+55571786,5,1560540105,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,prateekvr1,Java 8,716,214220800
+55532859,5,1560436513,2147483647,A,1200,implementation,Khater,Java 8,154,3276800
+55476378,5,1560298656,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Khater,Java 8,654,33587200
+55456843,5,1560263603,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mabubeih,Java 8,436,28467200
+55438594,5,1560258831,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Hemose,Java 8,466,28467200
+55383746,5,1560125829,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,samer_ghaly,Java 8,280,0
+55234519,5,1559893157,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Hemose,Java 8,436,28569600
+55103672,5,1559689536,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,nullptr2,Java 8,434,28569600
+54816357,5,1559160928,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,lifeiteng,Java 8,560,29184000
+54807152,5,1559141254,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ronaldocr7,Java 8,436,7270400
+54409918,5,1558343175,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Newtear,Java 8,434,7270400
+54406108,5,1558333496,2147483647,B,1400,implementation-strings,izhari,Java 8,216,3481600
+54393471,5,1558289041,2147483647,D,2100,implementation-math,brandon71901,Java 8,186,3174400
+54332039,5,1558160682,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ayush981999,Java 8,530,3276800
+54225288,5,1557986297,2147483647,A,1200,implementation,pd_1710,Java 8,216,3686400
+53933697,5,1557432131,2147483647,A,1200,implementation,pankaj182,Java 8,184,3276800
+52910250,5,1555509225,2147483647,A,1200,implementation,WuZei,Java 8,218,3686400
+52909676,5,1555508591,2147483647,B,1400,implementation-strings,WuZei,Java 8,310,3788800
+52534305,5,1554821489,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,pragatimishra.015,Java 8,716,86118400
+52270324,5,1554296144,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,adeepgarg13,Java 8,716,25190400
+52270185,5,1554296007,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,adeepgarg13,Java 8,748,25190400
+52270084,5,1554295841,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,adeepgarg13,Java 8,780,25292800
+51860692,5,1553605367,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,piyushasutkar,Java 8,404,26521600
+51424391,5,1552846964,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shanmukh111,Java 8,436,17408000
+51372160,5,1552739265,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vaibhavpulastya,Java 8,280,0
+51153914,5,1552296666,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sonusingh.nitaa,Java 8,466,20582400
+51047244,5,1552072401,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sumit3,Java 8,280,2662400
+50789057,5,1551710798,2147483647,A,1200,implementation,trungdunghoang92,Java 8,186,3686400
+50657824,5,1551472467,2147483647,A,1200,implementation,parthsingh287,Java 8,218,3686400
+50640348,5,1551447647,2147483647,E,2400,data structures,hongquanntct,Java 8,2712,170291200
+50405241,5,1550953222,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,aaaditya,Java 8,592,53452800
+50249782,5,1550680816,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shlok,Java 8,716,20684800
+50057384,5,1550401344,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mehuld,Java 8,748,34304000
+50048953,5,1550387814,2147483647,A,1200,implementation,D.K.B,Java 8,218,3686400
+49881817,5,1550082820,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ayushbhatnagar,Java 8,716,20684800
+49783094,5,1549909396,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ayushbhatnagar,Java 8,686,23244800
+49671747,5,1549732792,2147483647,B,1400,implementation-strings,Atharvar,Java 8,996,3788800
+49642270,5,1549668693,2147483647,A,1200,implementation,Atharvar,Java 8,218,3686400
+49362708,5,1549114612,2147483647,B,1400,implementation-strings,sabehahshaik,Java 8,156,3584000
+49011149,5,1548520565,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Vishal_dhanani,Java 8,624,43520000
+48718748,5,1548160539,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,akash6019,Java 8,622,36044800
+48717517,5,1548158474,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,meiniak,Java 8,560,36044800
+48553531,5,1547869442,2147483647,E,2400,data structures,Mandir_Wahi_Banayenge,Java 8,1746,83148800
+48553523,5,1547869410,2147483647,D,2100,implementation-math,Mandir_Wahi_Banayenge,Java 8,186,3174400
+48553517,5,1547869395,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Mandir_Wahi_Banayenge,Java 8,280,10752000
+48553511,5,1547869372,2147483647,B,1400,implementation-strings,Mandir_Wahi_Banayenge,Java 8,186,3379200
+48553492,5,1547869317,2147483647,A,1200,implementation,Mandir_Wahi_Banayenge,Java 8,156,3276800
+48284586,5,1547286095,2147483647,A,1200,implementation,I.A.K.O.V,Java 8,186,3276800
+47970048,5,1546697391,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kira24,Java 8,1092,15974400
+47298177,5,1545310795,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,_oshhh_,Java 8,498,28569600
+47096092,5,1544948994,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,blackrise,Java 8,528,29593600
+47085147,5,1544923500,2147483647,A,1200,implementation,chriscode_8,Java 8,186,3686400
+47083175,5,1544910537,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mishraabhi007,Java 8,622,34099200
+46932859,5,1544617745,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kitttu,Java 8,872,8601600
+46199300,5,1543141369,2147483647,A,1200,implementation,Keti13,Java 8,248,3686400
+46148734,5,1543045611,2147483647,A,1200,implementation,Antony_w,Java 8,218,3584000
+46051230,5,1542872148,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,abhishek2175,Java 8,716,40857600
+45843049,5,1542392059,2147483647,A,1200,implementation,mh.moravveji,Java 8,218,3686400
+45441877,5,1541676851,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ritik027,Java 8,436,28569600
+45204736,5,1541160394,2147483647,A,1200,implementation,vjudge3,Java 8,218,3584000
+44948986,5,1540638646,2147483647,B,1400,implementation-strings,WDker,Java 8,280,3788800
+44948927,5,1540638555,2147483647,A,1200,implementation,WDker,Java 8,216,3686400
+44895100,5,1540534427,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ravi_dtu,Java 8,466,28467200
+44837583,5,1540467242,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,lambooze,Java 8,530,28467200
+44820256,5,1540431181,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,brandon71901,Java 8,404,0
+44755038,5,1540338149,2147483647,B,1400,implementation-strings,brandon71901,Java 8,716,3379200
+44719832,5,1540266388,2147483647,A,1200,implementation,brandon71901,Java 8,186,3481600
+44666869,5,1540146369,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,wispum,Java 8,902,8806400
+44612343,5,1540068647,2147483647,A,1200,implementation,Jarik,Java 8,218,3686400
+44566165,5,1539994057,2147483647,A,1200,implementation,udscbt,Java 8,218,3686400
+44555174,5,1539968172,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,P98,Java 8,560,25190400
+43982885,5,1538973569,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,serpico_tish,Java 8,592,28672000
+43714650,5,1538548293,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mirak94,Java 8,310,0
+43582716,5,1538244814,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,TWO_POINTER,Java 8,496,21094400
+43567676,5,1538221261,2147483647,B,1400,implementation-strings,41ex.bondarev,Java 8,372,3993600
+43565166,5,1538218003,2147483647,A,1200,implementation,41ex.bondarev,Java 8,310,3584000
+43557228,5,1538204032,2147483647,A,1200,implementation,foreverlearner,Java 8,310,3686400
+43438954,5,1537947954,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shabywoks,Java 8,466,4198400
+43232379,5,1537594492,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,GreatWhite,Java 8,468,27443200
+43090707,5,1537382722,2147483647,B,1400,implementation-strings,sancho20021,Java 8,434,3686400
+42908169,5,1537073794,1594,B,1400,implementation-strings,GreatWhite,Java 8,310,3379200
+42908022,5,1537073105,905,A,1200,implementation,GreatWhite,Java 8,310,3584000
+42741605,5,1536597481,2147483647,B,1400,implementation-strings,prjasti,Java 8,278,3481600
+42293129,5,1535671967,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,S010M,Java 8,840,5836800
+42245470,5,1535554938,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,LeMotherfuckerEAbdel69,Java 8,466,42086400
+42144206,5,1535356246,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kalsekar.atharva7,Java 8,840,20992000
+42090717,5,1535202406,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,xelwood,Java 8,778,26828800
+42086360,5,1535194852,4552,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,74zadua,Java 8,342,0
+42085251,5,1535192602,2301,A,1200,implementation,74zadua,Java 8,248,3379200
+41962092,5,1534932170,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rohittt,Java 8,934,41472000
+41907039,5,1534777939,2147483647,A,1200,implementation,namnh997,Java 8,280,3584000
+41878239,5,1534719008,2147483647,A,1200,implementation,Mohamed_Alekhsasy,Java 8,280,3584000
+41866410,5,1534698725,2147483647,A,1200,implementation,Airung,Java 8,310,3686400
+41751040,5,1534584974,2147483647,A,1200,implementation,suppio,Java 8,280,3174400
+41620663,5,1534333890,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,BaZ_,Java 8,310,3174400
+41607821,5,1534306662,2147483647,A,1200,implementation,vjudge1,Java 8,280,3686400
+41607304,5,1534304827,2147483647,A,1200,implementation,vjudge5,Java 8,310,3584000
+41605488,5,1534298272,2147483647,A,1200,implementation,vjudge4,Java 8,278,3686400
+41512899,5,1534045309,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Thinker150485,Java 8,842,42803200
+41412136,5,1533850073,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ViciousCoder,Java 8,530,28672000
+41403103,5,1533826385,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge1,Java 8,652,31539200
+41401071,5,1533822141,2147483647,A,1200,implementation,amribrahim333,Java 8,248,3276800
+41190298,5,1533321932,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sourabh_02,Java 8,1154,33075200
+41072368,5,1533094664,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sumitsabhnani,Java 8,872,5632000
+41067400,5,1533066344,2147483647,A,1200,implementation,prjasti,Java 8,310,3686400
+40925611,5,1532887645,2147483647,D,2100,implementation-math,armking,Java 8,342,3584000
+40818709,5,1532639394,2147483647,B,1400,implementation-strings,Naman_123,Java 8,280,3584000
+40749657,5,1532537537,2147483647,B,1400,implementation-strings,armking,Java 8,622,3686400
+40748129,5,1532534143,2147483647,A,1200,implementation,armking,Java 8,312,3686400
+40694295,5,1532416753,2147483647,A,1200,implementation,Asher_S,Java 8,342,3686400
+40690332,5,1532410325,2147483647,E,2400,data structures,Asher_S,Java 8,3556,14848000
+40395844,5,1531717634,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,himanshubhardwaj169,Java 8,1370,54681600
+40232520,5,1531399955,2147483647,A,1200,implementation,Naman_123,Java 8,310,3584000
+40043323,5,1530907902,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sahillearner,Java 8,654,20889600
+39974990,5,1530771951,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kandimalla758,Java 8,810,8396800
+39903311,5,1530629834,2147483647,A,1200,implementation,AbdullahNasr,Java 8,310,3686400
+39886016,5,1530601902,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,pc9795,Java 8,808,27545600
+39870686,5,1530540624,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,piyushasutkar,Java 8,622,23552000
+39870259,5,1530539586,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,siddharthpogul1999,Java 8,466,27340800
+39632976,5,1529877069,2147483647,B,1400,implementation-strings,S010M,Java 8,280,3276800
+39512773,5,1529662239,2147483647,A,1200,implementation,ViciousCoder,Java 8,310,3584000
+39456989,5,1529572939,2147483647,A,1200,implementation,adibbatous,Java 8,342,3584000
+39442426,5,1529515083,2147483647,A,1200,implementation,Radwan_,Java 8,310,3584000
+39436697,5,1529500177,2147483647,A,1200,implementation,sancho20021,Java 8,310,3584000
+39146718,5,1528721036,2147483647,B,1400,implementation-strings,adibbatous,Java 8,652,3788800
+39143954,5,1528715121,2147483647,A,1200,implementation,adibbatous,Java 8,310,3584000
+39143451,5,1528713910,2147483647,A,1200,implementation,adibbatous,Java 8,340,3584000
+39076361,5,1528569389,2147483647,B,1400,implementation-strings,KulikAlex,Java 8,278,3276800
+39074782,5,1528563759,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,yan_sette,Java 8,622,3276800
+39065489,5,1528537067,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,hongquanntct,Java 8,716,73523200
+39032074,5,1528408022,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,yan_sette,Java 8,654,7168000
+38996229,5,1528292354,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Vaibhav96,Java 8,342,10752000
+38825709,5,1527851245,2147483647,D,2100,implementation-math,ShashankGoel.IITD,Java 8,312,26316800
+38624499,5,1527314477,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Mazen_Tarek,Java 8,1464,136908800
+38624447,5,1527314337,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Mazen_Tarek,Java 8,1466,136908800
+38604097,5,1527237613,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,skywalker212,Java 8,778,37580800
+38567711,5,1527092884,2147483647,B,1400,implementation-strings,ShashankGoel.IITD,Java 8,934,3686400
+38457627,5,1526815732,2147483647,D,2100,implementation-math,ankurdua15,Java 8,310,0
+38454848,5,1526810397,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ankurdua15,Java 8,530,44851200
+37429830,5,1524042124,2147483647,B,1400,implementation-strings,vjudge2,Java 8,310,26009600
+37137292,5,1523342586,2147483647,A,1200,implementation,Y-R,Java 8,310,26112000
+37110473,5,1523226681,2147483647,A,1200,implementation,Hasib_Ullah,Java 8,248,26009600
+37029635,5,1523040940,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,KulikAlex,Java 8,498,51404800
+36872252,5,1522655743,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,TheRedLegend,Java 8,310,33075200
+36706920,5,1522284897,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dynamicprograming,Java 8,560,80998400
+36703303,5,1522267336,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,pppepito86,Java 8,964,71987200
+36461965,5,1521656346,2147483647,A,1200,implementation,Mazen_Tarek,Java 8,248,26009600
+36346889,5,1521273955,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jvikas87,Java 8,280,25600000
+36334635,5,1521226163,2147483647,B,1400,implementation-strings,ashcodish,Java 8,248,20377600
+36071863,5,1520514633,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,AhmedGhazaly,Java 8,466,59084800
+35953604,5,1520210931,2147483647,A,1200,implementation,maratonando,Java 8,310,26112000
+35947014,5,1520189404,2147483647,A,1200,implementation,maratonando,Java 8,310,26112000
+35946253,5,1520188008,2147483647,A,1200,implementation,maratonando2,Java 8,312,26112000
+35930335,5,1520178490,2147483647,A,1200,implementation,anto777,Java 8,310,26112000
+35907120,5,1520139892,2147483647,A,1200,implementation,maratonando,Java 8,280,26112000
+35907090,5,1520139708,2147483647,A,1200,implementation,birojuice,Java 8,312,26112000
+35903144,5,1520117150,2147483647,A,1200,implementation,maratonando,Java 8,310,26112000
+35903138,5,1520117128,2147483647,A,1200,implementation,acrc2,Java 8,310,26112000
+35901402,5,1520108754,2147483647,A,1200,implementation,maratonando,Java 8,310,26112000
+35894682,5,1520094417,2147483647,A,1200,implementation,fbma,Java 8,280,26112000
+35886566,5,1520084983,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,spar5h,Java 8,530,51609600
+35885891,5,1520084253,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,spar5h,Java 8,560,51712000
+35866112,5,1520041159,2147483647,A,1200,implementation,maratonando3,Java 8,280,26112000
+35864704,5,1520033383,2147483647,A,1200,implementation,maratonando2,Java 8,280,26112000
+35849574,5,1520011161,2147483647,A,1200,implementation,maratonando2,Java 8,310,26112000
+35832170,5,1519985538,2147483647,A,1200,implementation,maratonando,Java 8,310,26112000
+35823949,5,1519960144,2147483647,A,1200,implementation,maratonando3,Java 8,310,26112000
+35823875,5,1519959695,2147483647,A,1200,implementation,maratonando2,Java 8,310,26112000
+35823480,5,1519957427,2147483647,A,1200,implementation,maratonando3,Java 8,310,26112000
+35823199,5,1519955900,2147483647,A,1200,implementation,maratonando,Java 8,280,26112000
+35822664,5,1519953079,2147483647,A,1200,implementation,maratonando2,Java 8,310,26112000
+35822655,5,1519953046,2147483647,A,1200,implementation,maratonando3,Java 8,310,26112000
+35821482,5,1519946356,2147483647,A,1200,implementation,maratonando2,Java 8,310,26112000
+35802055,5,1519880380,2147483647,A,1200,implementation,maratonando2,Java 8,312,26112000
+35801587,5,1519877918,2147483647,A,1200,implementation,maratonando3,Java 8,280,26112000
+35800876,5,1519874246,2147483647,A,1200,implementation,maratonando,Java 8,280,26112000
+35800871,5,1519874226,2147483647,A,1200,implementation,maratonando3,Java 8,280,26112000
+35800844,5,1519874094,2147483647,A,1200,implementation,Modulation,Java 8,310,26112000
+35800652,5,1519873050,2147483647,A,1200,implementation,maratonando,Java 8,310,26112000
+35800051,5,1519870162,2147483647,A,1200,implementation,maratonando3,Java 8,312,20684800
+35799663,5,1519868170,2147483647,A,1200,implementation,jfon,Java 8,310,26112000
+35799224,5,1519865699,2147483647,A,1200,implementation,maratonando3,Java 8,280,26112000
+35797534,5,1519855458,2147483647,A,1200,implementation,maratonando3,Java 8,310,26112000
+35797115,5,1519853417,2147483647,A,1200,implementation,arthurwkm,Java 8,280,20684800
+35796763,5,1519851952,2147483647,A,1200,implementation,maratonando2,Java 8,310,26112000
+35796732,5,1519851873,2147483647,A,1200,implementation,maratonando,Java 8,280,26112000
+35796543,5,1519851250,2147483647,A,1200,implementation,maratonando,Java 8,280,26112000
+35794264,5,1519844292,2147483647,A,1200,implementation,maratonando2,Java 8,280,26112000
+35790547,5,1519834061,2147483647,A,1200,implementation,maratonando,Java 8,280,26112000
+35789459,5,1519831564,2147483647,A,1200,implementation,maratonando2,Java 8,280,26112000
+35787117,5,1519826736,2147483647,A,1200,implementation,maratonando,Java 8,312,26112000
+35787098,5,1519826699,2147483647,A,1200,implementation,alpsilva,Java 8,280,20684800
+35783513,5,1519819726,2147483647,A,1200,implementation,maratonando,Java 8,312,26112000
+35782638,5,1519817631,2147483647,A,1200,implementation,rap2,Java 8,280,26112000
+35782621,5,1519817614,2147483647,A,1200,implementation,omar21,Java 8,310,26112000
+35778992,5,1519807826,2147483647,A,1200,implementation,maratonando2,Java 8,280,26112000
+35776276,5,1519772756,2147483647,A,1200,implementation,maratonando,Java 8,342,26112000
+35776257,5,1519772659,2147483647,A,1200,implementation,galvespontes22,Java 8,310,26112000
+35775959,5,1519769686,2147483647,A,1200,implementation,galvespontes22,Java 8,312,26112000
+35773198,5,1519759450,2147483647,A,1200,implementation,maratonando2,Java 8,312,26112000
+35773132,5,1519759213,2147483647,A,1200,implementation,cvinicius,Java 8,310,26112000
+35742531,5,1519671432,2147483647,E,2400,data structures,SevenDeadlySins,Java 8,1214,159232000
+35674145,5,1519551057,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Codeforce_123,Java 8,778,43520000
+35671260,5,1519544053,3853,B,1400,implementation-strings,Codeforce_123,Java 8,372,26214400
+35670347,5,1519541444,1244,A,1200,implementation,Codeforce_123,Java 8,310,26112000
+35651415,5,1519487441,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,havaib,Java 8,280,33075200
+35645189,5,1519477816,2147483647,B,1400,implementation-strings,SevenDeadlySins,Java 8,654,20377600
+35601714,5,1519401119,2147483647,D,2100,implementation-math,SevenDeadlySins,Java 8,310,26112000
+35590442,5,1519370820,2147483647,B,1400,implementation-strings,nbohdan999,Java 8,434,26112000
+35584967,5,1519339495,2147483647,A,1200,implementation,nbohdan999,Java 8,310,26112000
+35551604,5,1519225601,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Abhinav9297,Java 8,560,28057600
+35545506,5,1519212830,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,prashantpiyush,Java 8,746,32460800
+35465509,5,1519029528,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,adhess,Java 8,560,42803200
+35425580,5,1518886968,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,SevenDeadlySins,Java 8,716,58777600
+35292849,5,1518700309,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Maaddy,Java 8,716,34611200
+35269718,5,1518626400,2147483647,A,1200,implementation,SevenDeadlySins,Java 8,280,26112000
+35269045,5,1518625359,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,lehar_11,Java 8,934,65638400
+35267634,5,1518623363,2147483647,A,1200,implementation,lehar_11,Java 8,248,26009600
+35197051,5,1518519590,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mona_hashem,Java 8,436,50176000
+35196576,5,1518518364,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,_bacali,Java 8,1090,28364800
+35188707,5,1518470479,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mennafadali,Java 8,466,51404800
+35138504,5,1518300406,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Hoda_Hisham,Java 8,498,40140800
+35135991,5,1518292092,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mariem_kandil,Java 8,466,46284800
+34875833,5,1517603522,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,noobspotted,Java 8,468,51404800
+34642728,5,1517169554,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,A.Shams,Java 8,466,51302400
+34608002,5,1517062112,2147483647,D,2100,implementation-math,Ahmad_Elsagheer,Java 8,310,26112000
+34586781,5,1516995661,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,prabhat236218,Java 8,466,99225600
+34573668,5,1516965996,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,bystr1k,Java 8,1246,60723200
+34567668,5,1516950317,2147483647,A,1200,implementation,bystr1k,Java 8,280,20684800
+34519116,5,1516802382,2147483647,A,1200,implementation,Anonymous,Java 8,310,26112000
+34436560,5,1516606030,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,20180115,Java 8,498,51507200
+34430992,5,1516592216,2147483647,B,1400,implementation-strings,20180115,Java 8,592,26112000
+34429421,5,1516587323,2147483647,A,1200,implementation,20180115,Java 8,248,26009600
+34224170,5,1516112129,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Meet.Sinojia,Java 8,686,97177600
+34103609,5,1515752224,2147483647,D,2100,implementation-math,Zer0Point,Java 8,310,20582400
+34068410,5,1515586643,2147483647,A,1200,implementation,harpreetmehra,Java 8,310,20684800
+34068153,5,1515585774,2147483647,A,1200,implementation,rairay,Java 8,280,20684800
+33989915,5,1515353665,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,coderbond007,Java 8,280,20787200
+33989881,5,1515353526,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,coderbond007,Java 8,280,20787200
+33989843,5,1515353361,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,coderbond007,Java 8,530,43315200
+33982494,5,1515327622,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,coderbond007,Java 8,436,41574400
+33813056,5,1514648669,2147483647,A,1200,implementation,Already,Java 8,248,26009600
+33761951,5,1514557125,2147483647,B,1400,implementation-strings,CharlesDai,Java 8,248,26009600
+33758055,5,1514546287,2147483647,A,1200,implementation,CharlesDai,Java 8,248,20275200
+33672830,5,1514389819,2147483647,D,2100,implementation-math,shreyansh97,Java 8,280,26009600
+33594114,5,1514121648,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sagarika12,Java 8,468,50176000
+33477812,5,1513855576,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,parth_15,Java 8,498,51404800
+33477594,5,1513855090,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,parth_15,Java 8,498,51404800
+33477548,5,1513854982,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,parth_15,Java 8,498,51404800
+33254826,5,1513313679,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,flyman3046,Java 8,934,60108800
+33145446,5,1513057603,2147483647,A,1200,implementation,Badwiso,Java 8,310,20582400
+33088585,5,1512963241,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,FruitLoop,Java 8,810,55091200
+32955542,5,1512498342,2147483647,D,2100,implementation-math,tomdmitriev,Java 8,248,20275200
+32564454,5,1511401113,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,totallynotan,Java 8,872,42905600
+32564302,5,1511399897,2147483647,B,1400,implementation-strings,totallynotan,Java 8,374,3584000
+32564142,5,1511398574,2147483647,A,1200,implementation,totallynotan,Java 8,248,3481600
+32367808,5,1510882742,2147483647,A,1200,implementation,noobspotted,Java 8,310,0
+32206587,5,1510350193,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ivan_t_b,Java 8,1090,45875200
+32127416,5,1510077610,2147483647,E,2400,data structures,Abhi99,Java 8,2026,83353600
+32127392,5,1510077525,2147483647,D,2100,implementation-math,Abhi99,Java 8,310,3379200
+32126538,5,1510074988,2147483647,A,1200,implementation,Codeforce_123,Java 8,310,3481600
+32122110,5,1510065546,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Abhi99,Java 8,310,11059200
+32122080,5,1510065497,2147483647,B,1400,implementation-strings,Abhi99,Java 8,310,3379200
+32098126,5,1509977976,2147483647,A,1200,implementation,DavidVictor2004,Java 8,310,3481600
+31978034,5,1509622760,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rv.rahul,Java 8,934,40652800
+31867449,5,1509282418,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,cykablyat007,Java 8,436,24064000
+31862681,5,1509271217,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,yashwanthbetha,Java 8,592,41062400
+31860028,5,1509265023,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jay321,Java 8,530,18124800
+31707981,5,1508933080,2147483647,A,1200,implementation,.no.name.,Java 8,248,3686400
+31626628,5,1508757937,2147483647,A,1200,implementation,PARTITION,Java 8,248,26112000
+31553779,5,1508567799,2147483647,A,1200,implementation,I_Love_evoL_I,Java 8,248,26009600
+31367604,5,1508075564,2147483647,A,1200,implementation,ashcodish,Java 8,248,3686400
+31149074,5,1507478663,2147483647,B,1400,implementation-strings,oznakn,Java 8,904,3686400
+31148439,5,1507477219,2147483647,A,1200,implementation,oznakn,Java 8,280,3584000
+31138677,5,1507454399,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,choudhary,Java 8,466,36761600
+30861086,5,1506764484,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rishus23,Java 8,310,7065600
+30800115,5,1506590801,2147483647,B,1400,implementation-strings,bare,Java 8,278,3481600
+30774249,5,1506509053,2147483647,A,1200,implementation,bare,Java 8,280,3584000
+30356093,5,1505446131,2147483647,A,1200,implementation,katemamba,Java 8,342,3584000
+30262401,5,1505121774,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Slamur,Java 8,468,32460800
+30262106,5,1505120681,2147483647,A,1200,implementation,M.Bahaa,Java 8,280,3686400
+30261285,5,1505117543,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,IDzekh,Java 8,436,30515200
+30254229,5,1505070504,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Slamur,Java 8,1560,181248000
+30254106,5,1505070056,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Slamur,Java 8,1558,239104000
+30083047,5,1504553337,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,zodiacleo,Java 8,498,30208000
+30078180,5,1504543654,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,zodiacleo,Java 8,466,42188800
+30020754,5,1504386800,2147483647,A,1200,implementation,MQstafa,Java 8,280,3686400
+30011655,5,1504351831,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,flydzt,Java 8,592,7270400
+30007904,5,1504344844,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,WutongDeath,Java 8,654,3379200
+30007716,5,1504344282,2147483647,D,2100,implementation-math,WutongDeath,Java 8,280,3686400
+29953398,5,1504191811,2147483647,B,1400,implementation-strings,WutongDeath,Java 8,310,3788800
+29946942,5,1504189783,2147483647,A,1200,implementation,WutongDeath,Java 8,248,3584000
+29706967,5,1503491168,2147483647,A,1200,implementation,praveenkulkarni,Java 8,280,3891200
+29614224,5,1503210557,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge3,Java 8,436,3276800
+29613800,5,1503208653,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge1,Java 8,404,7372800
+29553295,5,1503059816,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge3,Java 8,466,0
+29552099,5,1503055067,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge1,Java 8,748,29286400
+29546040,5,1503043108,2147483647,A,1200,implementation,captainTurtle,Java 8,312,3584000
+29544295,5,1503036786,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,coderWu,Java 8,468,0
+29544244,5,1503036659,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge5,Java 8,468,0
+29544203,5,1503036497,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge2,Java 8,498,3481600
+29532398,5,1502993398,2147483647,A,1200,implementation,Omegaxis213,Java 8,248,3481600
+29477747,5,1502789183,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge5,Java 8,748,51814400
+29477708,5,1502789019,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge2,Java 8,778,51814400
+29471136,5,1502762800,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge5,Java 8,966,184115200
+29460906,5,1502723297,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge2,Java 8,716,67174400
+29293685,5,1502225853,2147483647,A,1200,implementation,white.lion,Java 8,280,20172800
+29159856,5,1501773685,2147483647,A,1200,implementation,lambooze,Java 8,216,20172800
+29157938,5,1501771038,2147483647,A,1200,implementation,FerraryRamiro,Java 8,248,20582400
+29152894,5,1501756323,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,bhishma,Java 8,404,55910400
+29133206,5,1501684655,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Ahmed.Shawky,Java 8,934,79155200
+29029835,5,1501461093,2147483647,A,1200,implementation,Dwu123,Java 8,342,20172800
+28973611,5,1501342980,2147483647,A,1200,implementation,davidonsy,Java 8,280,20582400
+28716255,5,1500535949,2147483647,D,2100,implementation-math,dedo,Java 8,280,20684800
+28559922,5,1500081895,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dedo,Java 8,842,64409600
+28530461,5,1499978878,2147483647,B,1400,implementation-strings,dedo,Java 8,374,26214400
+28494276,5,1499931659,2147483647,B,1400,implementation-strings,dedo,Java 8,404,26214400
+28426888,5,1499778397,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,tomdmitriev,Java 8,716,100556800
+28379767,5,1499570949,2147483647,E,2400,data structures,youtarou,Java 8,840,100454400
+28347168,5,1499422172,2147483647,A,1200,implementation,katooshka,Java 8,218,26009600
+28103782,5,1498596501,2147483647,A,1200,implementation,Owwee,Java 8,218,26009600
+28016016,5,1498367394,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Maulik_Patel,Java 8,654,45465600
+27936288,5,1498015675,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Hoda_Hisham,Java 8,716,40448000
+27930310,5,1497982531,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Ahmed_Anwar,Java 8,342,20684800
+27910012,5,1497893908,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Mohamed_KHLY,Java 8,872,19456000
+27900600,5,1497863451,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,aabdelzaher,Java 8,622,48640000
+27883913,5,1497786866,2147483647,B,1400,implementation-strings,ashubeckham,Java 8,374,3686400
+27883305,5,1497784618,2147483647,A,1200,implementation,ashubeckham,Java 8,186,3174400
+27877392,5,1497765054,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Minaa,Java 8,434,21299200
+27873516,5,1497747776,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,OmarRadwan,Java 8,654,25395200
+27873469,5,1497747379,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,OmarRadwan,Java 8,622,25395200
+27845990,5,1497703390,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,AhmedSoliman,Java 8,280,0
+27835637,5,1497662071,2147483647,D,2100,implementation-math,youtarou,Java 8,310,3584000
+27831785,5,1497639586,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,catchup,Java 8,466,56422400
+27824169,5,1497614118,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Kammola,Java 8,716,5734400
+27746373,5,1497312620,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,huangzr,Java 8,466,3379200
+27706825,5,1497100162,2147483647,A,1200,implementation,copychef,Java 8,248,3584000
+27413263,5,1495975831,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,youtarou,Java 8,810,0
+27413118,5,1495975398,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,youtarou,Java 8,872,3584000
+27413044,5,1495975170,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,youtarou,Java 8,872,3584000
+27306051,5,1495560037,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vasste,Java 8,872,58572800
+27258433,5,1495341511,2147483647,A,1200,implementation,youtarou,Java 8,278,3584000
+27058100,5,1494604787,2147483647,B,1400,implementation-strings,vasste,Java 8,372,3686400
+27007658,5,1494486548,2147483647,B,1400,implementation-strings,venky1001,Java 8,278,3584000
+26992878,5,1494407774,2147483647,A,1200,implementation,venky1001,Java 8,280,3584000
+26990778,5,1494397712,2147483647,D,2100,implementation-math,ashwin9686,Java 8,310,3584000
+26989207,5,1494387418,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ashwin9686,Java 8,466,27648000
+26956782,5,1494247345,2147483647,B,1400,implementation-strings,ashwin9686,Java 8,248,3584000
+26952288,5,1494229067,467,A,1200,implementation,ashwin9686,Java 8,248,3686400
+26820719,5,1493822416,2147483647,A,1200,implementation,vasste,Java 8,248,26112000
+26483464,5,1492545653,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,_bacali,Java 8,998,28262400
+26480865,5,1492535411,2147483647,A,1200,implementation,lifeiteng,Java 8,248,26214400
+26377646,5,1492254380,2147483647,A,1200,implementation,abhi9810,Java 8,248,26214400
+26377002,5,1492252257,2147483647,B,1400,implementation-strings,ribak,Java 8,340,26214400
+26362291,5,1492187431,2147483647,A,1200,implementation,ribak,Java 8,248,26214400
+26176878,5,1491502100,2147483647,A,1200,implementation,pvtuan10,Java 8,248,26112000
+26140730,5,1491389710,2147483647,A,1200,implementation,peanpee,Java 8,248,26214400
+25553348,5,1489677641,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Omar_Morsi,Java 8,528,46080000
+25456065,5,1489415377,2147483647,A,1200,implementation,AhmedSoliman,Java 8,218,25804800
+25454908,5,1489412201,2147483647,A,1200,implementation,OmarRadwan,Java 8,186,25804800
+25454884,5,1489412154,2147483647,A,1200,implementation,OmarRadwan,Java 8,280,25804800
+25451667,5,1489402252,2147483647,A,1200,implementation,Kammola,Java 8,218,26112000
+25446886,5,1489381010,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,aya_cool,Java 8,468,51200000
+25364029,5,1489075234,2147483647,A,1200,implementation,vjudge2,Java 8,310,26112000
+25238129,5,1488705200,2147483647,A,1200,implementation,techoscar,Java 8,278,26214400
+25237247,5,1488703250,2147483647,A,1200,implementation,techoscar,Java 8,248,26214400
+24808417,5,1487529253,553,A,1200,implementation,charan_med,Java 8,310,26214400
+24688387,5,1487143587,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,postyreal,Java 8,560,51200000
+24472505,5,1486400290,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,postyreal,Java 8,498,51200000
+24444337,5,1486265818,2147483647,B,1400,implementation-strings,Mahakarma,Java 8,248,26112000
+24444042,5,1486262819,2147483647,A,1200,implementation,Mahakarma,Java 8,248,26112000
+24432322,5,1486212621,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vshchukin,Java 8,842,62566400
+24224244,5,1485604977,2147483647,A,1200,implementation,aabdelzaher,Java 8,310,26214400
+24224205,5,1485604864,2147483647,A,1200,implementation,aabdelzaher,Java 8,280,26009600
+24112566,5,1485351259,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kocko,Java 8,654,52838400
+24077927,5,1485195712,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Kishan_25,Java 8,716,25907200
+24046425,5,1485112860,2147483647,D,2100,implementation-math,Rinsler,Java 8,310,26112000
+24032903,5,1485097704,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Rinsler,Java 8,434,53145600
+24019321,5,1485031824,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shubham981,Java 8,592,65536000
+24001241,5,1484966596,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,MDL,Java 8,778,43827200
+24000363,5,1484958605,2147483647,B,1400,implementation-strings,MDL,Java 8,404,26214400
+23883443,5,1484575637,2147483647,B,1400,implementation-strings,MohammadAmjad,Java 8,312,26316800
+23794945,5,1484349223,2147483647,B,1400,implementation-strings,slicedclementines,Java 8,842,26112000
+23792606,5,1484335941,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Kharouba,Java 8,496,58982400
+23632453,5,1483811370,2147483647,A,1200,implementation,Yahima,Java 8,310,26214400
+23561082,5,1483641751,2147483647,B,1400,implementation-strings,BumBumOpOp,Java 8,218,26316800
+23559135,5,1483635158,2147483647,A,1200,implementation,BumBumOpOp,Java 8,280,26214400
+23529557,5,1483512789,2147483647,A,1200,implementation,rizqyfaishal272,Java 8,248,26112000
+23469501,5,1483188222,2147483647,A,1200,implementation,Desha7,Java 8,278,26112000
+23469247,5,1483187258,2147483647,A,1200,implementation,Desha7,Java 8,310,26112000
+23391828,5,1482995160,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,fancita,Java 8,498,57651200
+23020533,5,1481848850,2147483647,A,1200,implementation,yp0413150313,Java 8,310,3686400
+22997445,5,1481778379,2147483647,A,1200,implementation,yp0413150313,Java 8,248,3584000
+22714994,5,1480952895,2147483647,A,1200,implementation,lamborcreamy,Java 8,278,3584000
+22685160,5,1480798284,2147483647,A,1200,implementation,chrisxu3,Java 8,216,3686400
+22256895,5,1479268104,2147483647,A,1200,implementation,Zahisho,Java 8,186,3481600
+22256641,5,1479267024,2147483647,A,1200,implementation,jeoj,Java 8,248,3584000
+22205071,5,1479115941,2147483647,E,2400,data structures,codingnerd,Java 8,2152,126156800
+22198918,5,1479065819,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,codingnerd,Java 8,1028,97484800
+21770410,5,1477397404,2147483647,A,1200,implementation,rishabh1403,Java 8,218,3584000
+21472818,5,1476599248,2147483647,A,1200,implementation,harish.sharma,Java 8,186,25804800
+21465328,5,1476557287,2147483647,A,1200,implementation,kuzAnatoliy,Java 8,218,26112000
+21328380,5,1476057257,2147483647,E,2400,data structures,awasd,Java 8,2836,56627200
+21319381,5,1476019232,2147483647,E,2400,data structures,awasd,Java 8,2652,37580800
+20955172,5,1475005084,2147483647,D,2100,implementation-math,coolmaksat,Java 8,216,3481600
+20779725,5,1474386301,2147483647,B,1400,implementation-strings,hamzaBas,Java 8,810,3584000
+20777674,5,1474380025,2147483647,A,1200,implementation,hamzaBas,Java 8,248,3481600
+20672432,5,1474084685,2147483647,D,2100,implementation-math,lehar,Java 8,218,3686400
+20671948,5,1474081828,2147483647,B,1400,implementation-strings,lehar,Java 8,216,3584000
+20671852,5,1474081229,2147483647,A,1200,implementation,lehar,Java 8,218,3584000
+20611134,5,1473847953,2147483647,A,1200,implementation,Qazaqstan,Java 8,248,3584000
+20539683,5,1473625440,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,pitfall,Java 8,310,2969600
+20453720,5,1473321892,2147483647,A,1200,implementation,Omar_Morsi,Java 8,218,3481600
+20357025,5,1472893869,2147483647,A,1200,implementation,KimoKomo,Java 8,248,3584000
+20334294,5,1472787696,2147483647,A,1200,implementation,MohammadAmjad,Java 8,186,3481600
+20333183,5,1472779677,2147483647,B,1400,implementation-strings,Yazeed96,Java 8,310,4300800
+20332764,5,1472775680,2147483647,A,1200,implementation,Yazeed96,Java 8,248,3584000
+20304246,5,1472650169,2147483647,A,1200,implementation,Derino,Java 8,218,3584000
+20273300,5,1472545149,2147483647,A,1200,implementation,Ymnik,Java 8,218,3584000
+20090990,5,1471972697,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,nagabhushan,Java 8,280,20582400
+19972081,5,1471645117,2147483647,B,1400,implementation-strings,mariem_kandil,Java 8,902,26009600
+19936331,5,1471470669,2147483647,A,1200,implementation,pitfall,Java 8,186,26624000
+19923099,5,1471423842,2147483647,A,1200,implementation,Nyamjantsan,Java 8,218,26112000
+19874021,5,1471199186,2147483647,B,1400,implementation-strings,pitfall,Java 8,218,26009600
+19858807,5,1471124377,2147483647,B,1400,implementation-strings,OzOMBIE,Java 8,310,26214400
+19856279,5,1471112808,2147483647,A,1200,implementation,OzOMBIE,Java 8,218,26112000
+19519790,5,1469890289,2147483647,A,1200,implementation,ivan_mazepa,Java 8,280,3584000
+19427632,5,1469556277,5677,A,1200,implementation,demonKing,Java 8,184,3481600
+19426923,5,1469553055,2455,B,1400,implementation-strings,demonKing,Java 8,218,3686400
+19386861,5,1469376433,2147483647,A,1200,implementation,Silumgar,Java 8,186,3481600
+19336992,5,1469207811,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Ahmad_Elsagheer,Java 8,436,23552000
+19327590,5,1469202813,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Ahmad_Elsagheer,Java 8,1028,158412800
+19323730,5,1469189996,2147483647,B,1400,implementation-strings,Ahmad_Elsagheer,Java 8,216,3379200
+19222830,5,1468895934,2147483647,B,1400,implementation-strings,youssseeef,Java 8,248,3584000
+19161495,5,1468614713,2147483647,B,1400,implementation-strings,motivation_error,Java 8,280,3686400
+19143488,5,1468561142,2147483647,E,2400,data structures,kafy83,Java 8,872,99737600
+18834589,5,1467349084,2147483647,B,1400,implementation-strings,inSaneSyntax,Java 7,902,0
+18834292,5,1467346779,2147483647,A,1200,implementation,inSaneSyntax,Java 7,248,0
+18827874,5,1467306023,2147483647,A,1200,implementation,LeMotherfuckerEAbdel69,Java 8,216,3584000
+18781313,5,1467195644,2147483647,A,1200,implementation,harsh11298,Java 7,310,0
+18774946,5,1467155719,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,MedoN11,Java 7,590,29286400
+18722921,5,1466873426,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,arrrhh,Java 8,498,53555200
+18649759,5,1466613226,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,i_Love_Jaiman,Java 8,842,37376000
+18275251,5,1465243553,2147483647,A,1200,implementation,nameless_sh,Java 8,278,26214400
+18266793,5,1465199243,2147483647,B,1400,implementation-strings,gw111zz,Java 7,654,39014400
+18188914,5,1464799600,2147483647,A,1200,implementation,gw111zz,Java 7,248,39014400
+18167528,5,1464693586,2147483647,B,1400,implementation-strings,obourgain,Java 8,310,26316800
+18167227,5,1464692176,2147483647,A,1200,implementation,obourgain,Java 8,218,26009600
+18156251,5,1464608203,2147483647,A,1200,implementation,aaditya_thakkar,Java 8,248,26214400
+18044624,5,1464011881,2147483647,E,2400,data structures,DukeOfYork,Java 7,434,55193600
+18043261,5,1464005574,2147483647,D,2100,implementation-math,DukeOfYork,Java 7,218,38604800
+18010106,5,1463772682,5182,A,1200,implementation,empirico91,Java 8,186,26112000
+18009742,5,1463770702,3202,B,1400,implementation-strings,empirico91,Java 8,434,26419200
+17986742,5,1463638964,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,asurana28,Java 8,1246,26214400
+17978342,5,1463569710,2147483647,B,1400,implementation-strings,asurana28,Java 8,342,26316800
+17978188,5,1463569011,2147483647,A,1200,implementation,danuwfna,Java 8,184,26112000
+17977396,5,1463565403,2147483647,A,1200,implementation,asurana28,Java 8,218,26214400
+17825018,5,1462826582,2147483647,A,1200,implementation,Fatemeh,Java 8,186,26112000
+17764552,5,1462549649,1949,A,1200,implementation,ilkhom98,Java 8,248,26214400
+17704089,5,1462336034,2147483647,A,1200,implementation,wonkyoung711,Java 7,218,39014400
+17694557,5,1462245567,2147483647,A,1200,implementation,chrisyhsun,Java 8,218,26214400
+17687529,5,1462183848,2147483647,D,2100,implementation-math,mr.bjerre,Java 8,248,26214400
+17557851,5,1461873072,2147483647,B,1400,implementation-strings,mr.bjerre,Java 8,374,26316800
+17557418,5,1461870260,2147483647,A,1200,implementation,mr.bjerre,Java 8,216,26112000
+17556807,5,1461866702,2147483647,A,1200,implementation,buzaubakov.raman,Java 7,248,38912000
+17508123,5,1461585332,2147483647,A,1200,implementation,reinstall,Java 8,186,26112000
+17472744,5,1461433216,2147483647,A,1200,implementation,OWSA,Java 7,248,39014400
+17166907,5,1459838228,2147483647,E,2400,data structures,alibaba,Java 7,2714,212172800
+17166900,5,1459838173,2147483647,E,2400,data structures,alibaba,Java 8,3962,251801600
+17166869,5,1459837951,2147483647,E,2400,data structures,alibaba,Java 7,3056,193024000
+16719019,5,1457976523,2147483647,B,1400,implementation-strings,jwozniak,Java 8,342,3788800
+16707669,5,1457929080,2147483647,A,1200,implementation,jwozniak,Java 8,218,3686400
+16581019,5,1457349979,2147483647,A,1200,implementation,neroargos,Java 7,280,0
+16534582,5,1457183713,2147483647,A,1200,implementation,roben_76,Java 8,278,0
+16310335,5,1456323609,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Nirmit,Java 7,466,49561600
+16292552,5,1456231982,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Zer0Point,Java 7,466,40345600
+16274573,5,1456135227,2147483647,D,2100,implementation-math,alibaba,Java 8,248,0
+16264006,5,1456071467,2147483647,A,1200,implementation,MovingBit,Java 7,218,0
+16139297,5,1455789652,2147483647,A,1200,implementation,LjupcoT,Java 8,280,0
+16067815,5,1455697844,2147483647,A,1200,implementation,dikshant001,Java 8,248,0
+16024268,5,1455484456,2147483647,B,1400,implementation-strings,Zer0Point,Java 7,248,0
+15990706,5,1455384272,2147483647,A,1200,implementation,deepraiya17,Java 7,248,0
+15985825,5,1455360572,2147483647,A,1200,implementation,islam_said,Java 8,248,0
+15891696,5,1454914747,2147483647,A,1200,implementation,kavsub,Java 7,248,0
+15850819,5,1454800055,2147483647,A,1200,implementation,KenIsBetter,Java 8,248,0
+15469132,5,1453383698,2147483647,B,1400,implementation-strings,kocko,Java 8,310,0
+15468471,5,1453380770,2147483647,A,1200,implementation,kocko,Java 8,310,0
+15220427,5,1452138008,2147483647,A,1200,implementation,safarisoul,Java 8,310,0
+14963539,5,1450931345,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,poikniok,Java 8,1184,38809600
+14960647,5,1450904755,2147483647,E,2400,data structures,xiaowuc1,Java 7,872,92467200
+14925142,5,1450787841,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vanloi999,Java 7,842,21504000
+14837790,5,1450287941,2147483647,A,1200,implementation,vanloi999,Java 7,218,0
+14677524,5,1449416860,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,zhangyu19900418,Java 8,684,33484800
+14621678,5,1449069453,2147483647,A,1200,implementation,NetBug,Java 8,248,0
+14204818,5,1447275877,2077,A,1200,implementation,karel,Java 8,248,0
+14191852,5,1447212721,2147483647,B,1400,implementation-strings,perillasy,Java 8,278,0
+14166744,5,1447055539,2147483647,B,1400,implementation-strings,.counter,Java 7,248,9216000
+14165216,5,1447048606,2147483647,A,1200,implementation,.counter,Java 7,248,0
+14125921,5,1446907408,2147483647,A,1200,implementation,2357,Java 7,218,0
+14116542,5,1446871591,2147483647,A,1200,implementation,Green_Hand,Java 7,218,0
+14116297,5,1446869863,2147483647,B,1400,implementation-strings,Green_Hand,Java 7,310,0
+14050271,5,1446600324,2147483647,A,1200,implementation,perillasy,Java 8,248,0
+14032876,5,1446492008,2147483647,B,1400,implementation-strings,_just4fun_,Java 8,218,0
+14032375,5,1446489595,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,_just4fun_,Java 8,404,23859200
+14029379,5,1446476991,2147483647,A,1200,implementation,_just4fun_,Java 8,218,0
+14010893,5,1446393404,2147483647,A,1200,implementation,slicedclementines,Java 7,248,0
+13861824,5,1445807496,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,av_life,Java 8,622,37478400
+13714477,5,1445178725,2147483647,B,1400,implementation-strings,lovestory2411,Java 7,216,0
+13713630,5,1445175930,2147483647,A,1200,implementation,lovestory2411,Java 7,216,0
+13672762,5,1445039317,2147483647,B,1400,implementation-strings,TWO_POINTER,Java 8,404,0
+13671639,5,1445027681,2147483647,A,1200,implementation,TWO_POINTER,Java 8,280,0
+13360265,5,1443879770,2147483647,A,1200,implementation,dedo,Java 8,278,0
+13359869,5,1443877922,2147483647,A,1200,implementation,Guppy,Java 8,280,0
+13216596,5,1443176103,3003,A,1200,implementation,aarush22,Java 8,218,0
+13174505,5,1442958532,2147483647,A,1200,implementation,waledsaleh,Java 7,156,0
+12983851,5,1442148140,2147483647,A,1200,implementation,eslambahgat,Java 8,218,0
+12976524,5,1442081775,2147483647,A,1200,implementation,eslammb,Java 8,218,0
+12908331,5,1441796741,2147483647,A,1200,implementation,Trasier,Java 7,156,0
+12845564,5,1441400320,2147483647,A,1200,implementation,Ahmad_Elsagheer,Java 8,218,0
+12838660,5,1441357009,2147483647,A,1200,implementation,idapro,Java 8,218,0
+12667902,5,1440302933,2147483647,A,1200,implementation,aaeds,Java 8,278,0
+12640982,5,1440240069,2147483647,B,1400,implementation-strings,cool_handle_much_wow,Java 8,404,0
+12608010,5,1440010008,2147483647,A,1200,implementation,vjudge1,Java 8,280,0
+12607996,5,1440009965,2147483647,A,1200,implementation,aminul,Java 8,280,0
+12607880,5,1440009520,2147483647,A,1200,implementation,aminul,Java 8,280,0
+12565472,5,1439750681,2147483647,B,1400,implementation-strings,nikishchetinin,Java 7,248,0
+12564619,5,1439747522,2147483647,A,1200,implementation,nikishchetinin,Java 7,186,0
+12431508,5,1439175991,2147483647,B,1400,implementation-strings,lajjyboy,Java 7,186,0
+12431062,5,1439171825,2147483647,A,1200,implementation,lajjyboy,Java 7,186,0
+12424573,5,1439116118,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Abkreno94,Java 7,684,50176000
+12338042,5,1438690347,2147483647,A,1200,implementation,Eran,Java 8,218,0
+12331175,5,1438640654,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,JesseJames,Java 8,466,36454400
+12330831,5,1438635967,2147483647,A,1200,implementation,JesseJames,Java 8,218,0
+12329844,5,1438627409,2147483647,B,1400,implementation-strings,YoussefYN,Java 8,248,0
+12243996,5,1438022869,2147483647,A,1200,implementation,.tx,Java 8,218,0
+12070621,5,1436959844,2147483647,A,1200,implementation,Sanjoy,Java 8,280,0
+12070521,5,1436959357,2147483647,A,1200,implementation,Sanjoy,Java 8,466,0
+12018275,5,1436700863,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sweiss,Java 8,1934,220876800
+11852022,5,1435676210,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,killgame,Java 7,654,29388800
+11707247,5,1434966256,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Slayer_29,Java 8,248,0
+11707083,5,1434965292,2147483647,D,2100,implementation-math,Slayer_29,Java 8,280,0
+11695396,5,1434884710,2147483647,E,2400,data structures,Slayer_29,Java 8,872,91648000
+11608552,5,1434466200,2147483647,A,1200,implementation,dinhphuc10cdt2,Java 7,186,0
+11513512,5,1433870374,2147483647,B,1400,implementation-strings,IrhamMA,Java 7,592,0
+11494224,5,1433742463,2147483647,A,1200,implementation,chessnuts,Java 8,218,0
+11452226,5,1433537422,2147483647,B,1400,implementation-strings,cool_handle_much_wow,Java 8,404,0
+11408244,5,1433382251,2147483647,B,1400,implementation-strings,jxk,Java 7,342,0
+11382151,5,1433182055,2147483647,A,1200,implementation,IrhamMA,Java 7,154,0
+11381315,5,1433176280,2147483647,A,1200,implementation,piatrovich,Java 7,186,0
+11241396,5,1432400458,2147483647,A,1200,implementation,cool_handle_much_wow,Java 8,278,0
+11177653,5,1432125839,2147483647,A,1200,implementation,aakashkhatri,Java 7,154,0
+11175733,5,1432114361,2147483647,D,2100,implementation-math,mkirsche,Java 7,156,0
+11175219,5,1432111601,2147483647,E,2400,data structures,mkirsche,Java 7,810,92160000
+11102024,5,1431633628,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Sumeet.Varma,Java 7,498,32665600
+11094418,5,1431572066,2147483647,A,1200,implementation,Phicar,Java 7,156,0
+11094401,5,1431571756,2147483647,A,1200,implementation,Steve9502,Java 7,248,0
+11067130,5,1431316419,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,lydxlx,Java 8,530,45670400
+11020442,5,1431000420,2147483647,A,1200,implementation,Porya,Java 7,186,0
+10977786,5,1430596114,2147483647,B,1400,implementation-strings,sweiss,Java 8,278,28569600
+10977702,5,1430595327,2147483647,A,1200,implementation,sweiss,Java 8,248,28364800
+10857735,5,1429960848,2147483647,A,1200,implementation,vjudge2,Java 7,156,47411200
+10834998,5,1429791740,2147483647,A,1200,implementation,votick,Java 8,248,28364800
+10804292,5,1429568706,2147483647,E,2400,data structures,ProjectYoung,Java 8,3244,29184000
+10800794,5,1429547700,2147483647,E,2400,data structures,dspstanky,Java 7,934,161177600
+10742526,5,1429196223,2147483647,D,2100,implementation-math,dspstanky,Java 7,156,0
+10687372,5,1428874829,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ProjectYoung,Java 8,560,0
+10686740,5,1428869896,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ProjectYoung,Java 8,590,0
+10648610,5,1428671152,2147483647,A,1200,implementation,hypo_code,Java 8,280,0
+10642464,5,1428599705,2147483647,E,2400,data structures,shortyfin,Java 8,842,86630400
+10641634,5,1428593971,2147483647,E,2400,data structures,msaldivar,Java 8,1402,113049600
+10636221,5,1428549506,2147483647,E,2400,data structures,mdelga15,Java 8,1184,146739200
+10634929,5,1428529270,2147483647,E,2400,data structures,suin3g,Java 8,1872,124006400
+10616743,5,1428357213,2147483647,E,2400,data structures,usu_edwardsCam,Java 8,1278,146022400
+10606967,5,1428272015,2147483647,E,2400,data structures,he_19,Java 8,374,12595200
+10596408,5,1428197843,2147483647,E,2400,data structures,cpt_fwiffo,Java 8,902,86528000
+10568893,5,1428116039,2147483647,E,2400,data structures,naiyt,Java 8,872,91545600
+10565050,5,1428101221,2147483647,E,2400,data structures,hapunajwej,Java 8,1184,124006400
+10548765,5,1427961852,2147483647,B,1400,implementation-strings,hypo_code,Java 8,280,0
+10536061,5,1427826926,2147483647,D,2100,implementation-math,msaldivar,Java 8,280,0
+10472027,5,1427392730,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shortyfin,Java 8,248,0
+10458961,5,1427385418,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rylaur,Java 8,466,49152000
+10455734,5,1427362687,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,usu_edwardsCam,Java 8,404,24883200
+10454732,5,1427354785,2147483647,A,1200,implementation,jigwan,Java 8,342,0
+10454474,5,1427351655,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,scottias,Java 8,1028,40038400
+10454383,5,1427350665,2147483647,A,1200,implementation,scottias,Java 8,248,0
+10454259,5,1427349070,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jdes,Java 7,684,24473600
+10454161,5,1427347870,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,DarkMatter70,Java 8,434,39116800
+10453993,5,1427344785,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dsprufus,Java 8,280,7680000
+10453815,5,1427341570,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,suin3g,Java 7,936,125849600
+10453772,5,1427341132,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,viqer,Java 8,248,0
+10453754,5,1427340887,2147483647,A,1200,implementation,jdes,Java 7,186,0
+10453657,5,1427339122,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,tbadams13,Java 8,560,39731200
+10453624,5,1427338638,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rustyfetty,Java 8,466,32460800
+10453612,5,1427338361,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jrthom18,Java 8,248,0
+10453399,5,1427334394,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,skateight,Java 8,280,0
+10453235,5,1427330477,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,corrosive_e,Java 7,404,28876800
+10453216,5,1427329947,2147483647,A,1200,implementation,rylaur,Java 8,280,0
+10453169,5,1427329015,2147483647,A,1200,implementation,corrosive_e,Java 7,156,0
+10453117,5,1427327744,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jtg111,Java 8,248,0
+10452900,5,1427323626,2147483647,A,1200,implementation,rustyfetty,Java 8,218,0
+10452794,5,1427322270,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,naiyt,Java 8,436,36761600
+10452514,5,1427318613,2147483647,A,1200,implementation,DarkMatter70,Java 8,218,0
+10451726,5,1427311718,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,caden311,Java 7,966,99737600
+10451590,5,1427310844,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,caden311,Java 7,966,99737600
+10451157,5,1427307450,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Owmen,Java 8,404,36864000
+10450147,5,1427299995,2147483647,A,1200,implementation,suin3g,Java 7,154,0
+10428798,5,1427255711,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,thundercloud89,Java 8,1028,110899200
+10428795,5,1427255657,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,manncito,Java 8,280,0
+10428753,5,1427254784,2147483647,A,1200,implementation,jrthom18,Java 8,248,0
+10428652,5,1427252846,2147483647,A,1200,implementation,viqer,Java 8,218,0
+10428591,5,1427251432,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,makeyouparrish,Java 8,280,0
+10428582,5,1427251222,2147483647,A,1200,implementation,thenameipicked,Java 8,218,0
+10428570,5,1427251018,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,musicman783,Java 8,374,0
+10428301,5,1427245425,2147483647,A,1200,implementation,Owmen,Java 8,218,0
+10428207,5,1427243687,2147483647,A,1200,implementation,jbottel,Java 7,248,0
+10428204,5,1427243619,2147483647,A,1200,implementation,musicman783,Java 8,342,0
+10428028,5,1427240815,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,abbas88,Java 8,340,0
+10427848,5,1427238262,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kingjames,Java 8,248,0
+10427567,5,1427234560,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,zacneubert,Java 8,434,38604800
+10427475,5,1427233635,2147483647,A,1200,implementation,naiyt,Java 8,218,0
+10427390,5,1427232804,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,cpt_fwiffo,Java 8,278,0
+10427147,5,1427230461,2147483647,A,1200,implementation,cpt_fwiffo,Java 8,218,0
+10426783,5,1427227763,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sjdp,Java 7,186,0
+10426746,5,1427227528,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,magnum50,Java 8,342,9420800
+10426153,5,1427222905,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dspstanky,Java 7,186,0
+10426039,5,1427222086,2147483647,A,1200,implementation,jtg111,Java 8,218,0
+10425220,5,1427216685,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kal_3l,Java 7,216,0
+10425106,5,1427216045,2147483647,A,1200,implementation,chauffy,Java 8,218,0
+10425062,5,1427215718,2147483647,A,1200,implementation,dspstanky,Java 7,156,0
+10423322,5,1427204153,2147483647,A,1200,implementation,mcgeld,Java 8,218,0
+10419564,5,1427177041,2147483647,A,1200,implementation,kingjames,Java 8,248,0
+10419394,5,1427174699,2147483647,A,1200,implementation,kal_3l,Java 7,154,0
+10419160,5,1427171147,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sea_dog,Java 8,280,0
+10418577,5,1427162199,2147483647,A,1200,implementation,makeyouparrish,Java 8,218,0
+10418348,5,1427157897,2147483647,A,1200,implementation,manncito,Java 8,216,0
+10418292,5,1427156631,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rehpotsirhc,Java 8,404,39526400
+10418216,5,1427155235,2147483647,A,1200,implementation,sheri74,Java 8,218,0
+10418126,5,1427153633,2147483647,A,1200,implementation,magnum50,Java 8,218,0
+10414771,5,1427147515,2147483647,A,1200,implementation,Hoser,Java 7,154,0
+10414766,5,1427147451,2147483647,A,1200,implementation,sea_dog,Java 8,248,0
+10414522,5,1427144920,2147483647,A,1200,implementation,a00938472,Java 8,218,0
+10414049,5,1427140580,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,msaldivar,Java 8,404,24985600
+10413540,5,1427136163,2147483647,A,1200,implementation,msaldivar,Java 8,218,0
+10413178,5,1427133334,2147483647,A,1200,implementation,zacneubert,Java 8,278,0
+10412775,5,1427130548,2147483647,A,1200,implementation,dsprufus,Java 8,218,0
+10408649,5,1427104689,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Silverdoe,Java 8,434,36864000
+10406345,5,1427081764,2147483647,A,1200,implementation,skateight,Java 8,248,0
+10406234,5,1427080036,2147483647,A,1200,implementation,abbas88,Java 8,218,0
+10405284,5,1427065179,2147483647,A,1200,implementation,tbadams13,Java 8,218,0
+10396649,5,1427017864,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mdelga15,Java 8,372,9318400
+10394895,5,1427011412,2147483647,A,1200,implementation,Silverdoe,Java 8,218,0
+10394853,5,1427011298,2147483647,A,1200,implementation,Silverdoe,Java 8,218,0
+10393020,5,1427004504,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,bobbytables,Java 8,278,0
+10392341,5,1427000785,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,erdromian,Java 8,278,0
+10391701,5,1426997118,2147483647,A,1200,implementation,bobbytables,Java 8,280,0
+10391040,5,1426989871,2147483647,A,1200,implementation,erdromian,Java 8,248,0
+10390026,5,1426977536,2147483647,A,1200,implementation,shortyfin,Java 8,218,0
+10374100,5,1426917052,2147483647,A,1200,implementation,mdelga15,Java 8,248,0
+10372668,5,1426896369,2147483647,A,1200,implementation,rehpotsirhc,Java 8,248,0
+10372333,5,1426890511,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,codecrack47,Java 8,778,32358400
+10371257,5,1426880552,2147483647,A,1200,implementation,caden311,Java 8,218,0
+10368740,5,1426867362,2147483647,A,1200,implementation,he_19,Java 8,248,0
+10363769,5,1426837929,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,hapunajwej,Java 8,436,42496000
+10363457,5,1426835321,2147483647,A,1200,implementation,b.lashen,Java 7,186,0
+10361492,5,1426806639,2147483647,A,1200,implementation,usu_edwardsCam,Java 8,248,0
+10361438,5,1426805828,2147483647,A,1200,implementation,codecrack47,Java 8,248,0
+10361007,5,1426800420,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mystik3eb,Java 8,248,0
+10360614,5,1426796877,2147483647,A,1200,implementation,sjdp,Java 7,154,0
+10358510,5,1426792242,2147483647,B,1400,implementation-strings,iamvish,Java 7,186,0
+10355350,5,1426790454,2147483647,A,1200,implementation,hapunajwej,Java 8,218,0
+10353854,5,1426789885,2147483647,A,1200,implementation,thundercloud89,Java 8,248,0
+10352331,5,1426789233,2147483647,A,1200,implementation,mystik3eb,Java 8,248,0
+10351516,5,1426784611,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,he_19,Java 8,374,9830400
+10305503,5,1426541955,2147483647,A,1200,implementation,Solitaire96,Java 8,280,0
+10237715,5,1426081870,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,turmoil,Java 8,280,0
+10141180,5,1425450338,2147483647,A,1200,implementation,youtarou,Java 8,342,0
+10136410,5,1425406406,2147483647,A,1200,implementation,rghazaliii,Java 8,280,0
+10098467,5,1425226254,2147483647,A,1200,implementation,navs4me,Java 7,154,0
+10096168,5,1425214170,2147483647,A,1200,implementation,Aya.moneim,Java 7,156,0
+10032284,5,1424954941,2147483647,B,1400,implementation-strings,hapunajwej,Java 8,434,0
+10028856,5,1424933249,2147483647,B,1400,implementation-strings,suin3g,Java 7,186,0
+10028752,5,1424932636,2147483647,B,1400,implementation-strings,sea_dog,Java 8,248,0
+10028091,5,1424927426,2147483647,B,1400,implementation-strings,scottias,Java 8,404,0
+10028007,5,1424926676,2147483647,B,1400,implementation-strings,tbadams13,Java 8,966,0
+10027634,5,1424923173,2147483647,B,1400,implementation-strings,nickyg,Java 7,248,0
+10027437,5,1424920173,2147483647,B,1400,implementation-strings,DarkMatter70,Java 8,654,0
+10027318,5,1424918744,2147483647,B,1400,implementation-strings,usu_edwardsCam,Java 8,248,0
+10026795,5,1424910101,2147483647,B,1400,implementation-strings,jatemdefleet,Java 7,216,0
+10025707,5,1424899292,2147483647,B,1400,implementation-strings,rehpotsirhc,Java 8,248,0
+10023395,5,1424885799,2147483647,B,1400,implementation-strings,jtg111,Java 8,278,0
+10016600,5,1424853569,2147483647,B,1400,implementation-strings,jbottel,Java 7,186,0
+10015522,5,1424849261,2147483647,B,1400,implementation-strings,msaldivar,Java 8,248,0
+10014703,5,1424845211,2147483647,B,1400,implementation-strings,Sessamekesh,Java 8,280,0
+10014152,5,1424842198,2147483647,B,1400,implementation-strings,skateight,Java 8,280,0
+10013229,5,1424837296,2147483647,B,1400,implementation-strings,kingjames,Java 8,280,0
+10012669,5,1424833927,2147483647,B,1400,implementation-strings,musicman783,Java 8,280,0
+10012576,5,1424833451,2147483647,B,1400,implementation-strings,corrosive_e,Java 7,310,0
+10012075,5,1424830936,2147483647,B,1400,implementation-strings,manncito,Java 8,310,0
+10010990,5,1424821694,2147483647,B,1400,implementation-strings,naiyt,Java 7,216,0
+10010321,5,1424816374,2147483647,B,1400,implementation-strings,chauffy,Java 8,310,0
+10009001,5,1424809876,2147483647,B,1400,implementation-strings,magnum50,Java 8,996,0
+10008659,5,1424808803,2147483647,B,1400,implementation-strings,Owmen,Java 8,530,0
+10002167,5,1424802590,2147483647,B,1400,implementation-strings,Silverdoe,Java 8,466,0
+10001924,5,1424802462,2147483647,B,1400,implementation-strings,Silverdoe,Java 8,404,0
+9991968,5,1424798199,2147483647,B,1400,implementation-strings,dspstanky,Java 7,186,0
+9981969,5,1424791700,2147483647,B,1400,implementation-strings,sjdp,Java 7,964,0
+9977321,5,1424758989,2147483647,B,1400,implementation-strings,dsprufus,Java 8,248,0
+9977114,5,1424757008,2147483647,B,1400,implementation-strings,jigwan,Java 8,340,0
+9976475,5,1424753553,2147483647,B,1400,implementation-strings,lolcatz,Java 8,248,0
+9976441,5,1424753264,2147483647,B,1400,implementation-strings,Hoser,Java 7,186,0
+9975759,5,1424746301,2147483647,B,1400,implementation-strings,makeyouparrish,Java 8,312,0
+9975636,5,1424744896,2147483647,B,1400,implementation-strings,rustyfetty,Java 8,312,0
+9975158,5,1424735941,2147483647,B,1400,implementation-strings,deckeresq,Java 8,342,0
+9975144,5,1424735849,2147483647,B,1400,implementation-strings,mdelga15,Java 8,278,0
+9974920,5,1424733694,2147483647,B,1400,implementation-strings,codecrack47,Java 8,248,0
+9974862,5,1424733036,2147483647,E,2400,data structures,zzkzkkzzkz,Java 8,1154,112947200
+9973821,5,1424724155,2147483647,B,1400,implementation-strings,shortyfin,Java 8,278,0
+9972724,5,1424717051,2147483647,B,1400,implementation-strings,mcgeld,Java 8,780,0
+9966053,5,1424673210,2147483647,B,1400,implementation-strings,kal_3l,Java 7,248,0
+9965526,5,1424667880,2147483647,B,1400,implementation-strings,jrthom18,Java 8,248,0
+9964181,5,1424647159,2147483647,B,1400,implementation-strings,he_19,Java 8,278,0
+9964154,5,1424646935,2147483647,B,1400,implementation-strings,he_19,Java 8,248,0
+9964023,5,1424645218,2147483647,B,1400,implementation-strings,zacneubert,Java 8,372,0
+9963441,5,1424639327,2147483647,B,1400,implementation-strings,abbas88,Java 8,248,0
+9963169,5,1424637111,2147483647,B,1400,implementation-strings,sellout1,Java 7,310,0
+9962603,5,1424632172,2147483647,B,1400,implementation-strings,knelson,Java 8,248,0
+9957448,5,1424592709,2147483647,B,1400,implementation-strings,erdromian,Java 8,248,0
+9952617,5,1424551626,2147483647,B,1400,implementation-strings,sheri74,Java 8,310,0
+9952575,5,1424551367,2147483647,B,1400,implementation-strings,cpt_fwiffo,Java 8,248,0
+9944147,5,1424482396,2147483647,B,1400,implementation-strings,arubberducky,Java 8,278,0
+9943994,5,1424479060,2147483647,B,1400,implementation-strings,bobbytables,Java 8,404,0
+9943949,5,1424478086,2147483647,B,1400,implementation-strings,a00938472,Java 8,374,0
+9943623,5,1424474437,2147483647,B,1400,implementation-strings,mystik3eb,Java 8,248,0
+9940802,5,1424455739,2147483647,B,1400,implementation-strings,caden311,Java 8,280,0
+9940786,5,1424455643,2147483647,B,1400,implementation-strings,thundercloud89,Java 8,280,0
+9933981,5,1424410689,2147483647,D,2100,implementation-math,zzkzkkzzkz,Java 8,280,0
+9932580,5,1424388933,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,YoussefYN,Java 8,436,30822400
+9930895,5,1424376029,2147483647,B,1400,implementation-strings,thenameipicked,Java 8,342,0
+9920342,5,1424296224,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,zzkzkkzzkz,Java 8,280,0
+9919902,5,1424293403,2147483647,B,1400,implementation-strings,zzkzkkzzkz,Java 8,248,0
+9919358,5,1424290265,2147483647,A,1200,implementation,zzkzkkzzkz,Java 8,218,0
+9912327,5,1424251392,2147483647,D,2100,implementation-math,andreic,Java 8,280,0
+9911709,5,1424247719,2147483647,B,1400,implementation-strings,andreic,Java 8,998,0
+9911334,5,1424244781,2147483647,A,1200,implementation,andreic,Java 8,218,0
+9879820,5,1424162222,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,andreic,Java 8,590,0
+9743812,5,1423303831,2147483647,A,1200,implementation,thabetx,Java 8,278,0
+9739633,5,1423250982,2147483647,E,2400,data structures,Dukkha,Java 8,810,91545600
+9733949,5,1423202585,2147483647,D,2100,implementation-math,Dukkha,Java 8,310,0
+9733633,5,1423199045,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Dukkha,Java 8,248,0
+9733354,5,1423195183,2147483647,B,1400,implementation-strings,Dukkha,Java 8,248,0
+9733197,5,1423193340,2147483647,A,1200,implementation,Dukkha,Java 8,218,0
+9722683,5,1423100705,2147483647,A,1200,implementation,MAPeacock86,Java 7,186,0
+9722681,5,1423100659,2147483647,A,1200,implementation,MAPeacock86,Java 7,154,0
+9632746,5,1422646342,2147483647,B,1400,implementation-strings,Suchith_JN,Java 8,372,0
+9631955,5,1422643206,2147483647,A,1200,implementation,Suchith_JN,Java 8,248,0
+9513668,5,1422019694,2147483647,A,1200,implementation,aboodmanna,Java 8,280,0
+9444676,5,1421423295,2147483647,A,1200,implementation,debo,Java 7,186,0
+9375801,5,1420579361,2147483647,A,1200,implementation,hauteville,Java 6,216,0
+9295116,5,1419823874,2147483647,A,1200,implementation,poikniok,Java 8,218,0
+9267753,5,1419513406,2147483647,A,1200,implementation,TranCongDuy,Java 6,186,0
+9262743,5,1419472677,2147483647,D,2100,implementation-math,AnishS,Java 7,186,0
+9262688,5,1419471639,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,AnishS,Java 7,936,32972800
+9262677,5,1419471338,2147483647,A,1200,implementation,AnishS,Java 7,186,0
+9208827,5,1419095234,2147483647,A,1200,implementation,yak,Java 8,218,0
+9161704,5,1418821225,2147483647,A,1200,implementation,ashutosh907,Java 6,186,0
+9080585,5,1418295504,2147483647,A,1200,implementation,Guppy,Java 7,216,0
+9004878,5,1417902297,2147483647,A,1200,implementation,lumenio,Java 8,280,0
+8905157,5,1417440275,2147483647,A,1200,implementation,Abkreno94,Java 7,186,0
+8892080,5,1417276473,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,timbanaveen,Java 7,686,50176000
+8867007,5,1417074426,2147483647,B,1400,implementation-strings,codermayukh,Java 8,560,921600
+8863549,5,1417029111,2147483647,A,1200,implementation,codermayukh,Java 8,280,0
+8690370,5,1415943582,2147483647,E,2400,data structures,Sherry0425,Java 6,3712,4198400
+8677512,5,1415851663,2147483647,D,2100,implementation-math,Sherry0425,Java 6,216,0
+8676632,5,1415835401,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Sherry0425,Java 6,716,21811200
+8667137,5,1415764836,2147483647,B,1400,implementation-strings,Sherry0425,Java 6,312,512000
+8666268,5,1415755684,2147483647,A,1200,implementation,Sherry0425,Java 6,186,0
+8591731,5,1415284041,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Andimeo,Java 7,372,41779200
+8496047,5,1414750888,2147483647,B,1400,implementation-strings,shishu94,Java 6,186,307200
+8495627,5,1414748262,2147483647,E,2400,data structures,shishu94,Java 6,2744,101888000
+8495573,5,1414747958,2147483647,E,2400,data structures,shishu94,Java 6,2806,101990400
+8495517,5,1414747447,2147483647,E,2400,data structures,shishu94,Java 6,2932,109056000
+8486648,5,1414677857,2147483647,A,1200,implementation,shishu94,Java 6,154,0
+8477110,5,1414657691,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shishu94,Java 6,498,102400
+8135373,5,1412727975,2147483647,A,1200,implementation,N1amr,Java 7,156,0
+8062390,5,1412275185,2147483647,A,1200,implementation,whocom,Java 7,216,0
+8017934,5,1411940475,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rdiachenko,Java 7,498,48537600
+7913366,5,1411408419,2147483647,B,1400,implementation-strings,Azimboy,Java 8,592,614400
+7798113,5,1410746466,2147483647,E,2400,data structures,darrensun,Java 7,810,92672000
+7794876,5,1410703735,2147483647,D,2100,implementation-math,darrensun,Java 7,156,0
+7794216,5,1410698977,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,darrensun,Java 7,310,15052800
+7794093,5,1410698113,2147483647,B,1400,implementation-strings,darrensun,Java 7,248,0
+7734363,5,1410348606,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,AL_DEEB,Java 6,374,49868800
+7727757,5,1410263163,2147483647,B,1400,implementation-strings,AL_DEEB,Java 6,342,102400
+7726957,5,1410255355,2147483647,A,1200,implementation,AL_DEEB,Java 6,156,0
+7686257,5,1409899453,2147483647,A,1200,implementation,darrensun,Java 7,154,0
+7678909,5,1409807530,2147483647,A,1200,implementation,stevegregg,Java 6,186,0
+7670867,5,1409698591,2147483647,A,1200,implementation,HassanRezk,Java 8,280,0
+7499239,5,1408352315,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,maitony,Java 6,964,42188800
+7499184,5,1408352008,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,maitony,Java 6,966,42188800
+7499146,5,1408351713,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,maitony,Java 6,996,42188800
+7498861,5,1408348127,2147483647,A,1200,implementation,vadja,Java 7,186,0
+7498224,5,1408343758,2147483647,B,1400,implementation-strings,maitony,Java 6,340,204800
+7498001,5,1408342155,2147483647,A,1200,implementation,maitony,Java 6,216,0
+7450891,5,1408088227,2147483647,A,1200,implementation,vasu_didi,Java 6,186,0
+7428250,5,1407768852,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,URSU,Java 6,310,8806400
+7428125,5,1407767830,2147483647,A,1200,implementation,URSU,Java 6,154,0
+7427714,5,1407764710,4330,B,1400,implementation-strings,URSU,Java 6,310,102400
+7345938,5,1407163799,2147483647,A,1200,implementation,dualcore,Java 8,374,102400
+7326532,5,1406968875,2147483647,A,1200,implementation,wrestler,Java 8,342,102400
+7307827,5,1406899961,2147483647,A,1200,implementation,owenomar,Java 7,156,0
+7307814,5,1406899865,2147483647,A,1200,implementation,owenomar,Java 7,186,0
+7281259,5,1406590451,2147483647,A,1200,implementation,Alacrite,Java 7,154,0
+7278323,5,1406555000,2147483647,A,1200,implementation,Mefodii,Java 8,310,102400
+7254969,5,1406440008,2147483647,A,1200,implementation,nachovalde,Java 7,186,0
+7227615,5,1406219861,2147483647,A,1200,implementation,lapl4rt,Java 8,342,102400
+7217548,5,1406214163,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,monsterspy,Java 7,342,36249600
+7100311,5,1405339423,2147483647,D,2100,implementation-math,Phobophobia,Java 7,216,0
+7096533,5,1405308366,2147483647,B,1400,implementation-strings,Phobophobia,Java 7,498,204800
+7096304,5,1405306494,2147483647,A,1200,implementation,Phobophobia,Java 7,186,0
+7053847,5,1404917739,2147483647,A,1200,implementation,Ahmadjon,Java 7,186,0
+7034356,5,1404667871,2147483647,D,2100,implementation-math,owenomar,Java 7,218,102400
+6994719,5,1404267150,2147483647,A,1200,implementation,csflily,Java 6,186,0
+6992561,5,1404225499,2147483647,A,1200,implementation,owenomar,Java 7,156,0
+6990764,5,1404205365,2147483647,A,1200,implementation,ihkus,Java 7,186,0
+6980441,5,1404047235,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ZEEP,Java 7,528,46080000
+6980429,5,1404047047,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ZEEP,Java 7,530,45977600
+6979518,5,1404036418,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ZEEP,Java 7,498,46387200
+6858290,5,1402394126,2147483647,A,1200,implementation,Azimboy,Java 7,216,0
+6857762,5,1402385302,2147483647,B,1400,implementation-strings,zwl9,Java 6,280,102400
+6853518,5,1402308387,2147483647,B,1400,implementation-strings,Diva,Java 6,684,102400
+6853129,5,1402303795,2147483647,B,1400,implementation-strings,zwl9,Java 6,216,0
+6825596,5,1402045744,2147483647,A,1200,implementation,zwl9,Java 6,404,0
+6729070,5,1401286457,2147483647,D,2100,implementation-math,Pimpom,Java 8,310,0
+6726744,5,1401275819,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Pimpom,Java 8,404,0
+6724327,5,1401241904,2147483647,B,1400,implementation-strings,Pimpom,Java 8,372,1536000
+6724074,5,1401236061,2147483647,A,1200,implementation,Pimpom,Java 8,310,0
+6717402,5,1401128039,2147483647,A,1200,implementation,ihs,Java 7,186,0
+6649629,5,1400402896,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,judge,Java 7,498,4300800
+6649614,5,1400402760,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,judge,Java 7,1090,89497600
+6649609,5,1400402706,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,xiaoguanghan,Java 7,1184,89497600
+6641919,5,1400324021,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Junior94,Java 7,342,37888000
+6638026,5,1400257062,2862,B,1400,implementation-strings,Junior94,Java 7,154,307200
+6637838,5,1400254722,522,A,1200,implementation,Junior94,Java 7,154,0
+6633011,5,1400188103,2147483647,B,1400,implementation-strings,NoCakeNoCode,Java 7,310,102400
+6616973,5,1400092286,2147483647,B,1400,implementation-strings,peter.bykov,Java 7,342,102400
+6611649,5,1400008367,2147483647,A,1200,implementation,peter.bykov,Java 7,156,0
+6573421,5,1399566223,2147483647,E,2400,data structures,ProjectYoung,Java 7,3494,4198400
+6573414,5,1399566104,2147483647,E,2400,data structures,ProjectYoung,Java 7,3430,4198400
+6572599,5,1399556470,2147483647,E,2400,data structures,ProjectYoung,Java 7,3368,102400
+6552324,5,1399282263,2147483647,D,2100,implementation-math,ProjectYoung,Java 7,186,0
+6550758,5,1399279349,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ProjectYoung,Java 7,654,29491200
+6548091,5,1399276140,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ProjectYoung,Java 7,934,27136000
+6546854,5,1399245698,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ProjectYoung,Java 7,1994,84787200
+6544867,5,1399212395,2147483647,B,1400,implementation-strings,ProjectYoung,Java 7,278,102400
+6544862,5,1399212363,2147483647,B,1400,implementation-strings,ProjectYoung,Java 7,310,102400
+6544736,5,1399211216,2147483647,A,1200,implementation,ProjectYoung,Java 7,156,0
+6537746,5,1399110619,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shashank201101193,Java 6,374,49868800
+6522639,5,1399041314,2147483647,A,1200,implementation,bolbol,Java 7,156,0
+6522560,5,1399040286,2147483647,A,1200,implementation,bolbol,Java 7,154,0
+6519239,5,1398983079,2147483647,A,1200,implementation,zahraawahshh,Java 6,184,0
+6519127,5,1398979304,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ykcland,Java 7,404,33075200
+6447620,5,1398182799,2147483647,A,1200,implementation,frankycrm,Java 7,186,0
+6447510,5,1398181566,2147483647,A,1200,implementation,frankycrm,Java 7,156,0
+6447463,5,1398181200,2147483647,A,1200,implementation,frankycrm,Java 7,156,0
+6358975,5,1397504010,2147483647,D,2100,implementation-math,slycelote,Java 7,186,0
+6296781,5,1396890545,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sroyal,Java 7,904,33484800
+6296392,5,1396886474,2147483647,B,1400,implementation-strings,sroyal,Java 7,840,102400
+6295890,5,1396882058,2147483647,A,1200,implementation,ShadowX21,Java 7,124,0
+6164443,5,1395971867,2147483647,E,2400,data structures,Cricycle,Java 7,1028,185856000
+6127715,5,1395609475,2147483647,D,2100,implementation-math,Cricycle,Java 7,186,0
+6127684,5,1395608868,2147483647,D,2100,implementation-math,Cricycle,Java 7,186,0
+6127135,5,1395600241,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Cricycle,Java 7,374,4198400
+6122091,5,1395550052,2147483647,B,1400,implementation-strings,Cricycle,Java 7,248,102400
+6122007,5,1395549038,2147483647,A,1200,implementation,Cricycle,Java 7,184,0
+6063427,5,1395175830,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,fillets,Java 7,342,29388800
+6063420,5,1395175781,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,fillets,Java 7,374,29388800
+6011165,5,1394731376,2147483647,A,1200,implementation,the_fighter,Java 6,124,0
+6002387,5,1394622108,2147483647,E,2400,data structures,DooIt,Java 6,716,88473600
+6001601,5,1394614235,2147483647,D,2100,implementation-math,DooIt,Java 6,154,0
+6001388,5,1394611998,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,DooIt,Java 6,590,35123200
+6001383,5,1394636628,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,DooIt,Java 6,622,35123200
+6001018,5,1394607990,2147483647,B,1400,implementation-strings,DooIt,Java 6,218,204800
+6001014,5,1394607969,2147483647,A,1200,implementation,DooIt,Java 6,156,0
+5972476,5,1394425150,2147483647,A,1200,implementation,turingcomplete,Java 7,154,0
+5965743,5,1394326681,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,lamnguyen.rs,Java 7,684,29696000
+5965680,5,1394325140,2147483647,B,1400,implementation-strings,lamnguyen.rs,Java 7,280,102400
+5965612,5,1394323469,2147483647,A,1200,implementation,lamnguyen.rs,Java 7,154,0
+5959112,5,1394220491,2147483647,E,2400,data structures,larvaboy,Java 7,748,88576000
+5959088,5,1394220203,2147483647,E,2400,data structures,larvaboy,Java 7,3368,4300800
+5954089,5,1394148991,2147483647,D,2100,implementation-math,larvaboy,Java 7,186,204800
+5954079,5,1394148745,2147483647,D,2100,implementation-math,larvaboy,Java 7,186,204800
+5953814,5,1394143056,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,larvaboy,Java 7,280,35225600
+5953736,5,1394141030,2147483647,B,1400,implementation-strings,larvaboy,Java 7,216,0
+5953267,5,1394133858,2147483647,A,1200,implementation,larvaboy,Java 7,156,0
+5952837,5,1394128509,2147483647,A,1200,implementation,jakabfia,Java 7,154,0
+5918956,5,1393900081,2147483647,A,1200,implementation,haowch,Java 6,184,0
+5910229,5,1391690097,2147483647,A,1200,implementation,jackwong,Java 7,154,0
+5857378,5,1391180289,2147483647,A,1200,implementation,Assim91,Java 7,186,204800
+5856933,5,1391176493,2147483647,A,1200,implementation,NoCakeNoCode,Java 7,186,0
+5855123,5,1391159393,2147483647,A,1200,implementation,VeraK,Java 7,124,0
+5809291,5,1390686769,2147483647,B,1400,implementation-strings,zhangyu19900418,Java 6,248,307200
+5809272,5,1390686420,2147483647,B,1400,implementation-strings,zhangyu19900418,Java 6,654,307200
+5809031,5,1390682831,2147483647,A,1200,implementation,zhangyu19900418,Java 6,154,0
+5805647,5,1390650708,3708,A,1200,implementation,avs,Java 7,154,0
+5775292,5,1390462164,2147483647,B,1400,implementation-strings,arctic1k,Java 7,654,307200
+5774855,5,1390457220,2147483647,A,1200,implementation,arctic1k,Java 7,154,102400
+5666227,5,1389540839,2147483647,D,2100,implementation-math,sergey.zamyslov,Java 7,186,204800
+5657994,5,1389432173,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,sergey.zamyslov,Java 7,468,4300800
+5655615,5,1389365306,2147483647,B,1400,implementation-strings,sergey.zamyslov,Java 7,218,102400
+5655107,5,1389363735,2147483647,A,1200,implementation,sergey.zamyslov,Java 7,156,0
+5630101,5,1389052278,2147483647,B,1400,implementation-strings,alkhateeb,Java 6,342,307200
+5615191,5,1388830651,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,abbyy,Java 7,624,29491200
+5615138,5,1388830031,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,abbyy,Java 7,624,29593600
+5615109,5,1388829630,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,abbyy,Java 7,624,29491200
+5570062,5,1388417286,2147483647,A,1200,implementation,tomash_em,Java 7,124,0
+5546318,5,1388302180,2147483647,A,1200,implementation,Diegox,Java 6,156,0
+5486156,5,1387619271,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,porepore1984,Java 7,280,30515200
+5482896,5,1387570735,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,upsolving,Java 7,280,15564800
+5457784,5,1387320951,2147483647,B,1400,implementation-strings,porepore1984,Java 7,530,102400
+5451070,5,1387208340,2147483647,A,1200,implementation,Anastasia93,Java 7,186,0
+5442485,5,1387072936,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,miguelmaurizio,Java 7,342,50073600
+5438268,5,1387013796,2147483647,A,1200,implementation,porepore1984,Java 7,156,0
+5379975,5,1386479540,2147483647,A,1200,implementation,Stickman,Java 7,124,0
+5322942,5,1385913902,2147483647,B,1400,implementation-strings,sammina,Java 6,186,307200
+5322215,5,1385905800,2147483647,A,1200,implementation,sammina,Java 6,156,0
+5320313,5,1385889193,2147483647,B,1400,implementation-strings,upsolving,Java 7,156,0
+5182788,5,1385017278,2147483647,B,1400,implementation-strings,vvenkai,Java 7,156,102400
+4890401,5,1382721982,2147483647,A,1200,implementation,DeathMoon,Java 7,156,0
+4889595,5,1382721286,2147483647,B,1400,implementation-strings,DeathMoon,Java 7,248,204800
+4874995,5,1382682815,2147483647,D,2100,implementation-math,pablyxa,Java 7,124,0
+4857432,5,1382599676,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,pablyxa,Java 7,156,0
+4811820,5,1381993005,2147483647,A,1200,implementation,vjudge3,Java 7,156,0
+4811816,5,1381992936,2147483647,A,1200,implementation,howdoyoudo,Java 7,156,0
+4707694,5,1381228957,2147483647,A,1200,implementation,tomdmitriev,Java 7,186,102400
+4678058,5,1380955722,2147483647,B,1400,implementation-strings,cupcup,Java 7,624,102400
+4677807,5,1380953703,2147483647,A,1200,implementation,cupcup,Java 7,186,0
+4570322,5,1380237210,2147483647,B,1400,implementation-strings,pepradere,Java 6,156,204800
+4561905,5,1380125723,2147483647,A,1200,implementation,pepradere,Java 6,156,0
+4542044,5,1379938596,2147483647,B,1400,implementation-strings,mr_caos,Java 7,248,102400
+4541007,5,1379928598,2147483647,A,1200,implementation,mr_caos,Java 7,218,0
+4533184,5,1379789481,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,alibaba,Java 6,374,52531200
+4508573,5,1379664737,2147483647,B,1400,implementation-strings,alibaba,Java 6,248,307200
+4508417,5,1379663222,2147483647,A,1200,implementation,alibaba,Java 6,186,0
+4484129,5,1379345729,2147483647,D,2100,implementation-math,schtomi97,Java 7,186,102400
+4480430,5,1379284729,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,0p9o8i,Java 7,842,99942400
+4458207,5,1379167951,2147483647,A,1200,implementation,shufel,Java 7,186,0
+4433806,5,1378683694,2147483647,A,1200,implementation,vvenkai,Java 7,156,0
+4403298,5,1378250275,2147483647,A,1200,implementation,Togrul-BSU,Java 7,156,0
+4402018,5,1378222110,2147483647,A,1200,implementation,Sokolov,Java 7,156,0
+4400919,5,1378207413,2147483647,A,1200,implementation,singhvib,Java 7,156,0
+4368374,5,1377830728,2147483647,A,1200,implementation,eos2102,Java 7,156,0
+4362097,5,1377697346,2147483647,A,1200,implementation,Akzhol,Java 6,218,0
+4330531,5,1377298618,2147483647,D,2100,implementation-math,Zyflair,Java 7,186,0
+4330382,5,1377291460,2147483647,A,1200,implementation,Safrout,Java 7,156,0
+4330179,5,1377284885,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Zyflair,Java 7,280,37580800
+4325060,5,1377190666,2147483647,B,1400,implementation-strings,Zyflair,Java 7,186,0
+4321366,5,1377113281,2147483647,A,1200,implementation,Zyflair,Java 7,156,0
+4312828,5,1376924465,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,edorundo,Java 7,218,0
+4312671,5,1376921556,2147483647,B,1400,implementation-strings,edorundo,Java 7,280,307200
+4312563,5,1376919766,2147483647,A,1200,implementation,edorundo,Java 7,186,0
+4309656,5,1376848538,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ajin,Java 7,716,58572800
+4299918,5,1376687071,2147483647,A,1200,implementation,travm12,Java 7,186,0
+4275301,5,1376444007,2147483647,A,1200,implementation,santjuan,Java 7,156,0
+4258508,5,1376085636,2147483647,B,1400,implementation-strings,ssohn,Java 7,186,0
+4258469,5,1376084343,2147483647,A,1200,implementation,ssohn,Java 7,156,0
+4206910,5,1375240412,2147483647,A,1200,implementation,_jairsaidds_,Java 7,186,0
+4159755,5,1374712371,2147483647,A,1200,implementation,ohemmali,Java 7,109,0
+4137235,5,1374521024,2147483647,B,1400,implementation-strings,Pshenichnoe,Java 7,140,0
+4052434,5,1373580984,2147483647,B,1400,implementation-strings,moscoquera,Java 6,968,307200
+4052407,5,1373579602,2147483647,B,1400,implementation-strings,andr3s2,Java 7,125,0
+4040062,5,1373309637,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mkirsche,Java 6,328,52531200
+4032079,5,1373133765,2147483647,A,1200,implementation,HAPKOMAH,Java 7,109,102400
+4003439,5,1372775010,2147483647,A,1200,implementation,aradhya_makkar,Java 7,109,102400
+3957389,5,1372117611,2147483647,B,1400,implementation-strings,mkirsche,Java 6,187,307200
+3933909,5,1371851485,2147483647,A,1200,implementation,akashm,Java 6,93,2355200
+3928600,5,1371728603,2147483647,A,1200,implementation,sonhuytran,Java 7,78,0
+3916071,5,1371617229,1629,B,1400,implementation-strings,Kazim,Java 7,125,102400
+3916056,5,1371616599,999,A,1200,implementation,Kazim,Java 7,93,0
+3817001,5,1370208835,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Hyppocrat,Java 6,140,102400
+3806856,5,1370001231,2147483647,A,1200,implementation,rancho,Java 7,93,0
+3806736,5,1369999597,2147483647,B,1400,implementation-strings,rancho,Java 7,390,102400
+3793925,5,1369910424,2147483647,B,1400,implementation-strings,CurbStomp,Java 7,906,307200
+3793076,5,1369891440,2147483647,B,1400,implementation-strings,pvpcrusader,Java 7,968,204800
+3792952,5,1369887813,2147483647,A,1200,implementation,pvpcrusader,Java 7,93,102400
+3765550,5,1369406811,2147483647,A,1200,implementation,MiroO,Java 6,109,0
+3752193,5,1369117092,2147483647,A,1200,implementation,hyggyh,Java 7,93,102400
+3745986,5,1368978965,2147483647,E,2400,data structures,Xnewfolder,Java 6,3125,16384000
+3726929,5,1368705582,2147483647,A,1200,implementation,0p9o8i,Java 7,109,102400
+3697162,5,1368122698,2147483647,D,2100,implementation-math,Tifuera,Java 7,109,204800
+3696614,5,1368112214,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Tifuera,Java 7,406,25804800
+3695905,5,1368098079,2147483647,B,1400,implementation-strings,Tifuera,Java 7,218,102400
+3695821,5,1368096960,2147483647,A,1200,implementation,Tifuera,Java 7,93,0
+3654625,5,1367325978,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,bnuvjudge3,Java 6,421,60416000
+3645330,5,1367103564,2147483647,A,1200,implementation,moatazshawky,Java 7,93,0
+3414067,5,1364446327,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,tyuan73,Java 6,234,2355200
+3411430,5,1364382707,2147483647,A,1200,implementation,CurbStomp,Java 7,109,0
+3411422,5,1364382562,2147483647,A,1200,implementation,CurbStomp,Java 7,109,0
+3378717,5,1363937047,2147483647,B,1400,implementation-strings,mingotlik,Java 7,828,512000
+3378542,5,1363934541,2147483647,A,1200,implementation,mingotlik,Java 7,93,0
+3326062,5,1363441764,2147483647,E,2400,data structures,bendyna.ivan,Java 6,1281,92672000
+3325418,5,1363433230,6670,D,2100,implementation-math,bendyna.ivan,Java 6,93,0
+3325160,5,1363430513,3953,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,bendyna.ivan,Java 6,359,31846400
+3325010,5,1363428292,1732,B,1400,implementation-strings,bendyna.ivan,Java 6,218,307200
+3324926,5,1363427316,756,A,1200,implementation,bendyna.ivan,Java 6,93,0
+3315762,5,1363257952,2147483647,B,1400,implementation-strings,sachingoel0101,Java 6,140,307200
+3311481,5,1363203405,2147483647,D,2100,implementation-math,hs484,Java 6,109,0
+3291409,5,1363022552,2147483647,A,1200,implementation,sachingoel0101,Java 6,93,0
+3234085,5,1362310488,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vjudge3,Java 6,140,0
+3234071,5,1362310281,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,zyz,Java 6,156,0
+3201793,5,1361954737,2147483647,B,1400,implementation-strings,su_58,Java 6,140,204800
+3200619,5,1361911884,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,aichemzee,Java 6,343,36044800
+3173751,5,1361557955,2147483647,B,1400,implementation-strings,kaktycc,Java 6,203,307200
+3142215,5,1361167590,2147483647,B,1400,implementation-strings,xnike,Java 7,218,102400
+3142167,5,1361165411,2147483647,A,1200,implementation,xnike,Java 7,93,0
+3139209,5,1361100000,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,z7oka,Java 6,421,29593600
+3070051,5,1359969060,2147483647,A,1200,implementation,Spacejoker,Java 6,93,0
+3041246,5,1359645263,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mahmoudhanafi,Java 6,281,39526400
+2984379,5,1358867598,2147483647,A,1200,implementation,mkirsche,Java 6,93,0
+2900611,5,1357768723,2147483647,A,1200,implementation,prichuda,Java 7,78,0
+2881670,5,1357603000,2147483647,B,1400,implementation-strings,newasmar,Java 6,171,2457600
+2881010,5,1357575715,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,newasmar,Java 6,343,12697600
+2874053,5,1357321959,2147483647,B,1400,implementation-strings,MiroO,Java 6,250,307200
+2870296,5,1357239511,6511,A,1200,implementation,sukhovy,Java 7,93,0
+2865633,5,1357112695,2147483647,B,1400,implementation-strings,z7oka,Java 6,187,307200
+2863827,5,1357049669,2147483647,A,1200,implementation,karan173,Java 6,93,102400
+2861425,5,1356964775,2147483647,B,1400,implementation-strings,phoenix24,Java 6,156,307200
+2832376,5,1356600677,2147483647,A,1200,implementation,CrawniX,Java 7,78,0
+2827334,5,1356476910,2147483647,B,1400,implementation-strings,ocelopilli,Java 7,93,0
+2826462,5,1356454399,2147483647,A,1200,implementation,ocelopilli,Java 7,93,0
+2789963,5,1355817058,4558,D,2100,implementation-math,hama-du,Java 6,109,0
+2789833,5,1355814547,2047,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,hama-du,Java 6,312,29491200
+2789803,5,1355813554,1054,B,1400,implementation-strings,hama-du,Java 6,140,2457600
+2789768,5,1355812891,391,A,1200,implementation,hama-du,Java 6,78,2252800
+2717291,5,1354903031,2147483647,B,1400,implementation-strings,alexyz,Java 7,125,0
+2717232,5,1354902186,2147483647,A,1200,implementation,alexyz,Java 7,140,0
+2692992,5,1354597312,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,THE_QUEEN_IN_THE_NORTH,Java 6,468,21606400
+2692989,5,1354597224,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,THE_QUEEN_IN_THE_NORTH,Java 7,437,21708800
+2692987,5,1354597190,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,THE_QUEEN_IN_THE_NORTH,Java 6,453,21606400
+2692986,5,1354597131,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,THE_QUEEN_IN_THE_NORTH,Java 6,421,21606400
+2562742,5,1352978003,2147483647,A,1200,implementation,TUITUF_Bahrom,Java 6,109,0
+2552780,5,1352811087,3387,A,1200,implementation,peace_to_world,Java 6,109,0
+2552715,5,1352810072,2372,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,peace_to_world,Java 6,140,0
+2551477,5,1352803741,2147483647,A,1200,implementation,N0D1R,Java 6,109,0
+2542840,5,1352709774,2147483647,D,2100,implementation-math,Azat_Yusupov,Java 6,93,0
+2513756,5,1352191087,2147483647,A,1200,implementation,su_58,Java 7,109,0
+2513306,5,1352180207,2147483647,B,1400,implementation-strings,SaiL,Java 6,187,307200
+2513282,5,1352179111,2147483647,B,1400,implementation-strings,SaiL,Java 6,921,307200
+2382444,5,1350545332,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,yano0oyan,Java 6,125,0
+2359822,5,1350270657,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mingotlik,Java 6,515,29491200
+2251338,5,1348606948,2147483647,B,1400,implementation-strings,asantosm,Java 6,906,409600
+2251210,5,1348601721,2147483647,A,1200,implementation,asantosm,Java 6,109,0
+2235126,5,1348411973,2147483647,B,1400,implementation-strings,aman.ag,Java 6,828,307200
+2225537,5,1348209327,2147483647,B,1400,implementation-strings,vjudge5,Java 6,187,44339200
+2225479,5,1348208418,2147483647,A,1200,implementation,vjudge5,Java 6,109,44032000
+2207583,5,1347943557,1857,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,otero1991,Java 6,440,86425600
+2145124,5,1347382775,2147483647,A,1200,implementation,tryagainlater,Java 6,110,43212800
+2145118,5,1347382737,2147483647,B,1400,implementation-strings,tryagainlater,Java 6,170,43520000
+2105699,5,1347178169,2147483647,A,1200,implementation,vjudge2,Java 6,130,43315200
+2099859,5,1346932276,2147483647,A,1200,implementation,lemonsuper,Java 7,110,45158400
+2099055,5,1346915481,2147483647,B,1400,implementation-strings,wcp1231,Java 6,190,45158400
+2098997,5,1346913817,2147483647,A,1200,implementation,wcp1231,Java 6,110,45056000
+2022798,5,1345237960,2147483647,B,1400,implementation-strings,di_halt,Java 6,730,43520000
+2006161,5,1344952503,2147483647,B,1400,implementation-strings,goodsky,Java 7,940,45260800
+1999609,5,1344676545,2147483647,B,1400,implementation-strings,akashm,Java 6,940,43622400
+1999349,5,1344670976,2147483647,D,2100,implementation-math,vjudge4,Java 6,160,43417600
+1998667,5,1344650941,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,wackloner,Java 6,340,84684800
+1998631,5,1344648247,2147483647,D,2100,implementation-math,wackloner,Java 6,130,43212800
+1994259,5,1344483153,2147483647,A,1200,implementation,jetzer,Java 6,140,43315200
+1988166,5,1344279346,2147483647,A,1200,implementation,ankitsablok19091989,Java 6,140,43315200
+1972975,5,1343981459,2147483647,B,1400,implementation-strings,wackloner,Java 6,980,43622400
+1944030,5,1343375321,2147483647,A,1200,implementation,di_halt,Java 6,160,43315200
+1942223,5,1343317126,2147483647,A,1200,implementation,deus,Java 6,110,43212800
+1940437,5,1343263400,2147483647,E,2400,data structures,qwerty787788,Java 7,840,154419200
+1876887,5,1341772857,2147483647,B,1400,implementation-strings,PERNEKHAN,Java 6,220,43520000
+1875110,5,1341732704,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,rockstartiwari,Java 6,390,78336000
+1861548,5,1341353194,2147483647,E,2400,data structures,mmaxio,Java 7,770,137728000
+1848781,5,1341228229,2147483647,A,1200,implementation,c.utkarsh777,Java 7,170,45056000
+1847824,5,1341157862,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mmaxio,Java 7,250,60620800
+1847079,5,1341106237,2147483647,D,2100,implementation-math,mmaxio,Java 7,130,44953600
+1847075,5,1341106026,2147483647,D,2100,implementation-math,mmaxio,Java 7,130,44953600
+1847047,5,1341100657,2147483647,B,1400,implementation-strings,mmaxio,Java 7,170,45056000
+1847042,5,1341100117,2147483647,A,1200,implementation,mmaxio,Java 7,130,44953600
+1845879,5,1341049316,2147483647,D,2100,implementation-math,Eulerdora,Java 6,110,43212800
+1845314,5,1341031669,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Eulerdora,Java 6,170,43315200
+1838541,5,1340980690,2147483647,B,1400,implementation-strings,Eulerdora,Java 6,980,43622400
+1838448,5,1340978016,2147483647,A,1200,implementation,Eulerdora,Java 6,160,43315200
+1804932,5,1339775643,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jiangzhijie,Java 7,230,54272000
+1804917,5,1339774476,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jiangzhijie,Java 7,310,92876800
+1733492,5,1338186095,2147483647,B,1400,implementation-strings,fxpo,Java 6,200,43520000
+1723007,5,1338073658,2147483647,A,1200,implementation,fxpo,Java 6,110,43212800
+1706800,5,1337543606,2147483647,E,2400,data structures,nevets,Java 6,1760,135884800
+1702125,5,1337361098,2147483647,A,1200,implementation,jonosuke,Java 7,110,44953600
+1701992,5,1337357957,2147483647,A,1200,implementation,jonosuke,Java 6,90,43212800
+1652022,5,1336126378,2147483647,D,2100,implementation-math,carber,Java 6,130,45260800
+1651952,5,1336123307,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,carber,Java 6,250,45260800
+1651867,5,1336119187,2147483647,B,1400,implementation-strings,carber,Java 6,170,45260800
+1651854,5,1336118599,2147483647,A,1200,implementation,carber,Java 6,110,45260800
+1617806,5,1335168555,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,jnasridinov,Java 6,420,85299200
+1568059,5,1334732899,2147483647,B,1400,implementation-strings,jnasridinov,Java 6,980,43622400
+1567992,5,1334727420,2147483647,A,1200,implementation,jnasridinov,Java 6,80,43212800
+1567990,5,1334727115,2147483647,A,1200,implementation,jnasridinov,Java 6,90,43212800
+1567988,5,1334727059,2147483647,A,1200,implementation,jnasridinov,Java 6,80,43212800
+1567986,5,1334726987,2147483647,A,1200,implementation,jnasridinov,Java 6,90,43212800
+1567982,5,1334726823,2147483647,A,1200,implementation,jnasridinov,Java 6,90,43212800
+1567963,5,1334725889,2147483647,A,1200,implementation,jnasridinov,Java 6,80,43212800
+1444740,5,1333141964,2147483647,E,2400,data structures,wigor,Java 7,2670,250060800
+1388230,5,1332467307,2147483647,B,1400,implementation-strings,mdd,Java 6,670,43520000
+1388130,5,1332462593,2147483647,A,1200,implementation,mdd,Java 6,90,43212800
+1388128,5,1332462461,2147483647,A,1200,implementation,mdd,Java 6,110,43212800
+1386141,5,1332394900,2147483647,A,1200,implementation,dmeng,Java 6,90,43212800
+1376562,5,1332086084,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,SharpBlade,Java 6,140,43315200
+1358880,5,1331813514,2147483647,A,1200,implementation,s-peter,Java 6,80,43110400
+1328151,5,1331318998,2147483647,A,1200,implementation,MaxKashirin,Java 6,110,43212800
+1242572,5,1330478552,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,peking2,Java 6,410,72601600
+1240553,5,1330401756,2147483647,A,1200,implementation,273,Java 6,90,45056000
+1238324,5,1330324695,2147483647,B,1400,implementation-strings,peking2,Java 6,800,45056000
+1237862,5,1330289632,2147483647,A,1200,implementation,peking2,Java 6,110,44953600
+1236890,5,1330262944,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,todo,Java 6,330,45056000
+1233322,5,1330157833,2147483647,E,2400,data structures,Slamur,Java 6,700,138137600
+1220612,5,1330069705,2147483647,A,1200,implementation,tis,Java 6,90,44851200
+1220079,5,1330026374,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Slamur,Java 6,230,79052800
+1205116,5,1329721266,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ollzhas,Java 6,250,45056000
+1157301,5,1328691840,2147483647,A,1200,implementation,zulkan,Java 6,80,43212800
+1157231,5,1328689180,2147483647,A,1200,implementation,chenbinghui1,Java 6,80,43008000
+1151905,5,1328473203,2147483647,D,2100,implementation-math,islam-al-aarag,Java 6,110,43110400
+1124871,5,1327820874,2147483647,A,1200,implementation,jcomputer000,Java 6,110,43110400
+1119203,5,1327592559,2147483647,A,1200,implementation,Venom,Java 6,90,43110400
+1117361,5,1327509857,2147483647,A,1200,implementation,Rex-myFriendForever,Java 6,130,43110400
+1100055,5,1327164044,2147483647,B,1400,implementation-strings,bohuss,Java 6,910,43417600
+1099875,5,1327162591,2147483647,A,1200,implementation,bohuss,Java 6,80,43110400
+1046969,5,1326652802,6302,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Azat_Yusupov,Java 6,310,63078400
+1046947,5,1326651196,4696,B,1400,implementation-strings,Azat_Yusupov,Java 6,340,43417600
+1046895,5,1326647118,618,A,1200,implementation,Azat_Yusupov,Java 6,90,43212800
+1030798,5,1326360631,2147483647,B,1400,implementation-strings,afrocentrix,Java 6,630,43520000
+1030739,5,1326358411,2147483647,A,1200,implementation,afrocentrix,Java 6,90,43110400
+1028256,5,1326206534,2147483647,B,1400,implementation-strings,todo,Java 6,170,43417600
+1028219,5,1326205719,2147483647,A,1200,implementation,todo,Java 6,90,43110400
+993640,5,1325409111,2147483647,A,1200,implementation,keep.deep,Java 6,90,43110400
+993551,5,1325397420,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,lolotp,Java 6,340,43110400
+992342,5,1325268507,2147483647,A,1200,implementation,upsolving,Java 6,110,43212800
+990727,5,1325156113,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Nox,Java 6,110,43212800
+989285,5,1325049652,2147483647,B,1400,implementation-strings,ilovepink,Java 6,230,43417600
+973495,5,1324672898,2147483647,A,1200,implementation,ilovepink,Java 6,90,43212800
+971225,5,1324532308,2147483647,B,1400,implementation-strings,Navigabimus,Java 6,190,43520000
+971217,5,1324531098,2147483647,A,1200,implementation,Navigabimus,Java 6,90,43212800
+970602,5,1324474450,2147483647,A,1200,implementation,Betlista,Java 6,80,43110400
+968011,5,1324296317,2147483647,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,tsukuno,Java 6,250,43212800
+936108,5,1323367958,54267158,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,mostafa_fahim,Java 6,420,64716800
+933951,5,1323241520,54140720,A,1200,implementation,stevenkplus,Java 6,130,35328000
+932632,5,1323157954,54057154,A,1200,implementation,snguyen,Java 6,130,35328000
+929990,5,1323021522,53920722,A,1200,implementation,pasha,Java 6,110,43110400
+907281,5,1322350283,53249483,B,1400,implementation-strings,stevenkplus,Java 6,250,43315200
+903561,5,1322247399,53146599,A,1200,implementation,AbdelrahmanAsal,Java 6,130,43110400
+883308,5,1321829510,52728710,A,1200,implementation,Anya,Java 6,90,43110400
+883305,5,1321829019,52728219,A,1200,implementation,Fefer_Ivan,Java 6,130,43110400
+878779,5,1321692869,52592069,A,1200,implementation,SharpBlade,Java 6,130,43008000
+876820,5,1321592699,52491899,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Akbarshox,Java 6,330,75878400
+876809,5,1321592262,52491462,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Azat_Yusupov,Java 6,360,92672000
+855460,5,1320924267,51823467,B,1400,implementation-strings,userlond,Java 6,140,43212800
+838212,5,1320595746,51494946,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kiko91_7,Java 6,690,77824000
+838207,5,1320595670,51494870,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kiko91_7,Java 6,770,71065600
+838200,5,1320595178,51494378,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kiko91_7,Java 6,780,69324800
+838191,5,1320595008,51494208,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,kiko91_7,Java 6,750,69427200
+836992,5,1269106414,5614,D,2100,implementation-math,yarrr,Java 6,110,43110400
+836951,5,1269104269,3469,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,yarrr,Java 6,170,43212800
+836889,5,1320514240,51413440,B,1400,implementation-strings,Izot_NNSTU,Java 6,230,43417600
+836883,5,1269101561,761,B,1400,implementation-strings,yarrr,Java 6,230,43417600
+836867,5,1269101097,297,A,1200,implementation,yarrr,Java 6,130,43110400
+833044,5,1320357170,51256370,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,abstractwhiz,Java 6,330,52019200
+823911,5,1320185540,51084740,A,1200,implementation,abstractwhiz,Java 6,140,43212800
+819719,5,1319985366,50884566,A,1200,implementation,Sinner,Java 6,130,35328000
+809028,5,1319741096,50640296,A,1200,implementation,CodeFreak,Java 6,110,43008000
+786322,5,1319104784,50003984,B,1400,implementation-strings,zerotoday,Java 6,170,43417600
+785849,5,1319087940,49987140,A,1200,implementation,zerotoday,Java 6,90,43110400
+765522,5,1318612817,49512017,A,1200,implementation,wackloner,Java 6,130,35328000
+757295,5,1318449725,49348925,A,1200,implementation,Izot_NNSTU,Java 6,140,35328000
+737849,5,1317788214,48687414,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,nerve,Java 6,310,82227200
+710614,5,1316599310,47498510,A,1200,implementation,sedov.mikhail,Java 6,110,35225600
+706429,5,1316257796,47156996,A,1200,implementation,mishka,Java 6,110,35328000
+706056,5,1316243638,47142838,A,1200,implementation,Okihita,Java 6,140,35328000
+685825,5,1315565701,46464901,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,zybest,Java 6,450,56934400
+672798,5,1315418925,46318125,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,islam-al-aarag,Java 6,360,84787200
+665200,5,1315062533,45961733,B,1400,implementation-strings,zybest,Java 6,250,35532800
+664843,5,1315061153,45960353,B,1400,implementation-strings,zybest,Java 6,230,35532800
+656692,5,1315026113,45925313,A,1200,implementation,zybest,Java 6,90,35020800
+652973,5,1314741475,45640675,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,xiaowuc1,Java 6,360,90521600
+640180,5,1314461290,45360490,A,1200,implementation,userlond,Java 6,90,34918400
+613625,5,1313568327,44467527,B,1400,implementation-strings,nickbuelich,Java 6,220,35430400
+612649,5,1313477364,44376564,A,1200,implementation,boost,Java 6,90,35123200
+612641,5,1313476689,44375889,A,1200,implementation,boost,Java 6,90,35123200
+611924,5,1313403736,44302936,B,1400,implementation-strings,Ahmed_Salama,Java 6,170,35328000
+611414,5,1313357412,44256612,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,DoublePointer,Java 6,470,56832000
+609957,5,1313275220,44174420,B,1400,implementation-strings,Dunaril,Java 6,250,35430400
+604680,5,1313216763,44115963,A,1200,implementation,skl0123,Java 6,130,35225600
+603786,5,1313139945,44039145,A,1200,implementation,Ahmed_Salama,Java 6,90,35123200
+603156,5,1313087318,43986518,B,1400,implementation-strings,_Sergey_,Java 6,170,44748800
+603127,5,1313086005,43985205,A,1200,implementation,_Sergey_,Java 6,80,44748800
+603077,5,1313083044,43982244,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,tux1986,Java 6,170,44748800
+602586,5,1313061610,43960810,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,JoKe,Java 6,360,44748800
+602283,5,1313038029,43937229,A,1200,implementation,ISDemidoff,Java 6,90,44748800
+601689,5,1312974143,43873343,B,1400,implementation-strings,JoKe,Java 6,250,44851200
+599497,5,1312833700,43732900,A,1200,implementation,donald_d,Java 6,110,44748800
+597289,5,1312740931,43640131,A,1200,implementation,Dunaril,Java 6,130,43110400
+576387,5,1312302879,43202079,B,1400,implementation-strings,flash36,Java 6,270,43417600
+575977,5,1312283543,43182743,D,2100,implementation-math,gen,Java 6,140,43212800
+575404,5,1312242839,43142039,A,1200,implementation,XKnight,Java 6,90,43110400
+574883,5,1312204276,43103476,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,gen,Java 6,380,43212800
+574846,5,1312202901,43102101,B,1400,implementation-strings,gen,Java 6,230,43315200
+574814,5,1312201279,43100479,A,1200,implementation,gen,Java 6,110,43110400
+565848,5,1311643899,42543099,B,1400,implementation-strings,islam-al-aarag,Java 6,200,43008000
+564074,5,1311528716,42427916,B,1400,implementation-strings,kiko91_7,Java 6,190,43110400
+563193,5,1311466280,42365480,A,1200,implementation,islam-al-aarag,Java 6,90,43008000
+550745,5,1311016341,41915541,B,1400,implementation-strings,Nox,Java 6,170,43212800
+549915,5,1310958820,41858020,B,1400,implementation-strings,bairdarmaev,Java 6,270,43212800
+548984,5,1310864131,41763331,B,1400,implementation-strings,spark_coder,Java 6,160,43315200
+548114,5,1310786594,41685794,A,1200,implementation,spark_coder,Java 6,80,43008000
+548110,5,1310786258,41685458,A,1200,implementation,islamhamdi,Java 6,90,43008000
+544117,5,1310547954,41447154,B,1400,implementation-strings,dalex,Java 6,170,43622400
+543938,5,1310536761,41435961,A,1200,implementation,Nox,Java 6,90,43008000
+541739,5,1310371862,41271062,B,1400,implementation-strings,altais,Java 6,270,43315200
+531041,5,1310081391,40980591,A,1200,implementation,kiko91_7,Java 6,110,43008000
+530239,5,1309992648,40891848,A,1200,implementation,nickbuelich,Java 6,130,43110400
+530099,5,1309977451,40876651,A,1200,implementation,Nick,Java 6,90,43008000
+530089,5,1309976930,40876130,A,1200,implementation,Nick,Java 6,90,43008000
+528090,5,1309793149,40692349,B,1400,implementation-strings,Sammarize,Java 6,220,43110400
+524211,5,1309507808,40407008,A,1200,implementation,altais,Java 6,110,35123200
+514721,5,1309445230,40344430,A,1200,implementation,sroyal,Java 6,90,43110400
+496524,5,1308339241,39238441,D,2100,implementation-math,Slamur,Java 6,90,43008000
+488001,5,1308122531,39021731,E,2400,data structures,SkyFire,Java 6,3690,231731200
+482266,5,1307482943,38382143,A,1200,implementation,lam,Java 6,90,43315200
+474364,5,1307001813,37901013,A,1200,implementation,eipie,Java 6,110,43315200
+470650,5,1306434623,37333823,E,2400,data structures,niyaznigmatul,Java 6,630,135987200
+470629,5,1306433027,37332227,D,2100,implementation-math,niyaznigmatul,Java 6,90,43315200
+468884,5,1306208140,37107340,B,1400,implementation-strings,DoublePointer,Java 6,170,35430400
+468865,5,1306206026,37105226,A,1200,implementation,DoublePointer,Java 6,110,35328000
+468841,5,1306202643,37101843,A,1200,implementation,Larx,Java 6,90,35020800
+453947,5,1305326378,36225578,B,1400,implementation-strings,o948,Java 6,190,43417600
+444587,5,1305054654,35953854,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,uwi,Java 6,280,43417600
+443505,5,1304926181,35825381,A,1200,implementation,flash36,Java 6,80,43315200
+443468,5,1304919534,35818734,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,tehqin,Java 6,480,63488000
+443457,5,1304918189,35817389,B,1400,implementation-strings,tehqin,Java 6,500,43417600
+443450,5,1304917249,35816449,A,1200,implementation,tehqin,Java 6,90,43315200
+423204,5,1304438563,35337763,B,1400,implementation-strings,uwi,Java 6,220,43417600
+423195,5,1304437998,35337198,A,1200,implementation,uwi,Java 6,90,43315200
+421744,5,1304305244,35204444,D,2100,implementation-math,Satayev,Java 6,110,43315200
+421702,5,1304299429,35198629,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Satayev,Java 6,140,43315200
+421692,5,1304297964,35197164,B,1400,implementation-strings,Satayev,Java 6,130,43417600
+421688,5,1304296852,35196052,A,1200,implementation,Satayev,Java 6,90,43315200
+421684,5,1304295484,35194684,A,1200,implementation,Respect2D,Java 6,90,43315200
+394710,5,1303029008,33928208,B,1400,implementation-strings,pioneer,Java 6,170,43417600
+378484,5,1302595427,33494627,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,hirosegolf,Java 6,270,43315200
+377103,5,1302448686,33347886,A,1200,implementation,casstle,Java 6,90,43417600
+372685,5,1302420349,33319549,A,1200,implementation,elrodeo,Java 6,90,43417600
+370642,5,1302043399,32942599,A,1200,implementation,SkorKNURE,Java 6,80,43315200
+369961,5,1301924976,32824176,A,1200,implementation,Petruchcho,Java 6,90,43417600
+368689,5,1301661849,32561049,E,2400,data structures,segrey,Java 6,1470,142336000
+354853,5,1301151358,32050558,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,segrey,Java 6,110,43315200
+354751,5,1301144697,32043897,B,1400,implementation-strings,segrey,Java 6,160,43315200
+354733,5,1301143993,32043193,B,1400,implementation-strings,Slamur,Java 6,170,43417600
+343140,5,1300475155,31374355,D,2100,implementation-math,segrey,Java 6,90,43315200
+340183,5,1300463463,31362663,A,1200,implementation,segrey,Java 6,80,43315200
+337917,5,1300201123,31100323,B,1400,implementation-strings,marque,Java 6,660,43520000
+334782,5,1300040067,30939267,A,1200,implementation,pioneer,Java 6,80,43315200
+331157,5,1299870676,30769876,A,1200,implementation,Slamur,Java 6,80,43417600
+330349,5,1299781562,30680762,E,2400,data structures,pifych,Java 6,2300,157286400
+328062,5,1299554014,30453214,A,1200,implementation,Sammarize,Java 6,110,43315200
+314416,5,1299103148,30002348,D,2100,implementation-math,pifych,Java 6,130,43315200
+313808,5,1299019574,29918774,B,1400,implementation-strings,pifych,Java 6,170,43417600
+309127,5,1298848348,29747548,A,1200,implementation,pifych,Java 6,110,43315200
+293062,5,1298240171,29139371,A,1200,implementation,Wahba,Java 6,80,43315200
+293060,5,1298240084,29139284,A,1200,implementation,Wahba,Java 6,110,43315200
+285501,5,1297781340,28680540,A,1200,implementation,ahmad_mamdouh,Java 6,80,43315200
+261533,5,1295954051,26853251,B,1400,implementation-strings,Nenash,Java 6,170,43315200
+261517,5,1295952603,26851803,A,1200,implementation,Nenash,Java 6,90,43315200
+260039,5,1295738958,26638158,B,1400,implementation-strings,I-juice,Java 6,160,43417600
+259033,5,1295655343,26554543,A,1200,implementation,Respect2D,Java 6,110,43417600
+248827,5,1294982500,25881700,A,1200,implementation,Abekenza,Java 6,110,43315200
+248656,5,1294949188,25848388,B,1400,implementation-strings,Abra,Java 6,270,65638400
+243426,5,1294613370,25512570,A,1200,implementation,edem.kwadzo,Java 6,90,43417600
+242120,5,1294492535,25391735,A,1200,implementation,dalex,Java 6,90,43315200
+241691,5,1294435882,25335082,B,1400,implementation-strings,nise_nabe,Java 6,200,43417600
+241678,5,1294434679,25333879,A,1200,implementation,nise_nabe,Java 6,110,43315200
+25737,5,1292584428,23483628,A,1200,implementation,marque,Java 6,110,43315200
+25707,5,1290885208,21784408,A,1200,implementation,caustique,Java 6,110,43315200
+25691,5,1290739482,21638682,D,2100,implementation-math,OleGG,Java 6,110,43315200
+25690,5,1290737549,21636749,B,1400,implementation-strings,OleGG,Java 6,230,43417600
+25686,5,1290736150,21635350,A,1200,implementation,OleGG,Java 6,90,43315200
+25585,5,1288287299,19186499,A,1200,implementation,Abra,Java 6,90,43315200
+25536,5,1286435823,17335023,A,1200,implementation,logN,Java 6,90,43315200
+25535,5,1286424523,17323723,D,2100,implementation-math,dr.madis,Java 6,90,43315200
+25532,5,1286366841,17266041,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dr.madis,Java 6,330,43315200
+25530,5,1286364462,17263662,B,1400,implementation-strings,msagimbekov,Java 6,220,43417600
+25528,5,1286361749,17260949,B,1400,implementation-strings,dr.madis,Java 6,200,43417600
+25520,5,1286359269,17258469,A,1200,implementation,dr.madis,Java 6,80,43315200
+25518,5,1286301552,17200752,A,1200,implementation,msagimbekov,Java 6,90,43315200
+25141,5,1275038332,5937532,A,1200,implementation,rahulsharma21,Java 6,80,42188800
+25125,5,1274294310,5193510,E,2400,data structures,SkyFire,Java 6,2610,132812800
+25110,5,1273649764,4548964,B,1400,implementation-strings,satoshii,Java 6,190,33894400
+25107,5,1273649199,4548399,A,1200,implementation,satoshii,Java 6,90,33792000
+24919,5,1270356769,1255969,D,2100,implementation-math,S.Yesipenko,Java 6,80,30822400
+24912,5,1270268501,1167701,E,2400,data structures,izbyshev,Java 6,670,111206400
+24834,5,1269921756,820956,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,TomConerly,Java 6,1810,206131200
+24833,5,1269920895,820095,B,1400,implementation-strings,TomConerly,Java 6,810,30822400
+24832,5,1269920427,819627,A,1200,implementation,TomConerly,Java 6,80,30822400
+24808,5,1269724862,624062,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,alelux,Java 6,360,39833600
+24789,5,1269673171,572371,B,1400,implementation-strings,danmana,Java 6,110,30720000
+24783,5,1269671082,570282,A,1200,implementation,danmana,Java 6,60,30720000
+24760,5,1269632277,531477,D,2100,implementation-math,vot,Java 6,60,30720000
+24658,5,1269514034,413234,A,1200,implementation,izhari,Java 6,80,30720000
+24638,5,1269449263,348463,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Katran,Java 6,640,66969600
+24536,5,1269337019,236219,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,makagonov,Java 6,160,36044800
+24529,5,1269310356,209556,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,anhdt,Java 6,1810,247603200
+24518,5,1269278552,177752,B,1400,implementation-strings,VC15,Java 6,200,30617600
+24516,5,1269274076,173276,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,knightry,Java 6,110,33894400
+24515,5,1269273475,172675,E,2400,data structures,yiuyuho,Java 6,1160,124006400
+24513,5,1269273112,172312,E,2400,data structures,yiuyuho,Java 6,3550,80281600
+24503,5,1269269434,168634,A,1200,implementation,khaled.hady,Java 6,60,30617600
+24383,5,1269200617,99817,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,VC15,Java 6,340,39014400
+24266,5,1269166717,65917,E,2400,data structures,dimozzz,Java 6,1080,174182400
+24243,5,1269162751,61951,B,1400,implementation-strings,tirmen,Java 6,230,29900800
+24239,5,1269161509,60709,A,1200,implementation,tirmen,Java 6,80,29900800
+24221,5,1269156525,55725,A,1200,implementation,kazu.yamazaki,Java 6,60,30003200
+24209,5,1269155582,54782,A,1200,implementation,kazu.yamazaki,Java 6,50,30003200
+24146,5,1269139556,38756,B,1400,implementation-strings,artie,Java 6,110,33280000
+24142,5,1269138202,37402,A,1200,implementation,artie,Java 6,60,30003200
+24036,5,1269116228,15428,D,2100,implementation-math,Vasya.V,Java 6,60,30003200
+23980,5,1269112596,11796,D,2100,implementation-math,yiuyuho,Java 6,80,30003200
+23975,5,1269112344,11544,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Jonick,Java 6,170,31334400
+23956,5,1269111843,11043,E,2400,data structures,ivan.popelyshev,Java 6,720,67993600
+23835,5,1269108895,8095,A,1200,implementation,hydrastuff,Java 6,50,30003200
+23834,5,1269108895,8095,A,1200,implementation,hydrastuff,Java 6,60,30003200
+23781,5,1269108379,7579,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,hydrastuff,Java 6,440,86835200
+23776,5,1269108352,7552,B,1400,implementation-strings,hydrastuff,Java 6,230,29900800
+23765,5,1269108295,7495,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Vasya.V,Java 6,130,35328000
+23645,5,1269107577,6777,D,2100,implementation-math,Shafer,Java 6,80,30003200
+23596,5,1269107350,6550,A,1200,implementation,PanZverski,Java 6,50,30003200
+23577,5,1269107263,6463,D,2100,implementation-math,dAnton,Java 6,80,30003200
+23570,5,1269107211,6411,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,lolotp,Java 6,340,36454400
+23552,5,1269107124,6324,D,2100,implementation-math,Egor,Java 6,60,30003200
+23471,5,1269106732,5932,D,2100,implementation-math,Efgen,Java 6,60,30003200
+23342,5,1269106181,5381,B,1400,implementation-strings,kazu.yamazaki,Java 6,890,30003200
+23290,5,1269105940,5140,D,2100,implementation-math,izbyshev,Java 6,60,30003200
+23276,5,1269105844,5044,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,shindo,Java 6,310,54886400
+23275,5,1269105838,5038,B,1400,implementation-strings,LiverD,Java 6,190,30003200
+23188,5,1269105494,4694,B,1400,implementation-strings,mohamed.gaber,Java 6,450,30003200
+23172,5,1269105400,4600,D,2100,implementation-math,ivan.popelyshev,Java 6,60,30003200
+23103,5,1269105148,4348,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,S.Yesipenko,Java 6,130,35328000
+23102,5,1269105140,4340,D,2100,implementation-math,wata,Java 6,60,30003200
+23050,5,1269104913,4113,E,2400,data structures,winger,Java 6,920,103116800
+23020,5,1269104804,4004,E,2400,data structures,Petr,Java 6,1750,107724800
+22963,5,1269104611,3811,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Sergey.Bankevich,Java 6,130,35328000
+22895,5,1269104385,3585,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dAnton,Java 6,360,44544000
+22878,5,1269104322,3522,D,2100,implementation-math,knightry,Java 6,80,30003200
+22800,5,1269104015,3215,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,niyaznigmatul,Java 6,1010,54476800
+22783,5,1269103958,3158,B,1400,implementation-strings,makagonov,Java 6,110,30003200
+22770,5,1269103915,3115,A,1200,implementation,acvbruno,Java 6,60,30003200
+22723,5,1269103688,2888,B,1400,implementation-strings,Shafer,Java 6,200,30003200
+22713,5,1269103653,2853,B,1400,implementation-strings,Katran,Java 6,230,30003200
+22702,5,1269103624,2824,B,1400,implementation-strings,Melamori,Java 6,140,30003200
+22654,5,1269103451,2651,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Efgen,Java 6,300,56115200
+22642,5,1269103426,2626,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,winger,Java 6,340,63283200
+22556,5,1269103154,2354,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,dimozzz,Java 6,130,39321600
+22510,5,1269102990,2190,B,1400,implementation-strings,alelux,Java 6,480,30003200
+22501,5,1269102965,2165,D,2100,implementation-math,Petr,Java 6,60,30003200
+22495,5,1269102951,2151,B,1400,implementation-strings,SyFy,Java 6,250,30003200
+22468,5,1269102868,2068,B,1400,implementation-strings,dev_il,Java 6,190,30003200
+22465,5,1269102858,2058,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,yiuyuho,Java 6,230,35532800
+22408,5,1269102734,1934,B,1400,implementation-strings,Sergey.Bankevich,Java 6,80,32153600
+22389,5,1269102696,1896,D,2100,implementation-math,winger,Java 6,60,30003200
+22378,5,1269102662,1862,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,wata,Java 6,140,36044800
+22364,5,1269102630,1830,A,1200,implementation,Melamori,Java 6,60,30003200
+22309,5,1269102499,1699,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,vot,Java 6,360,65638400
+22256,5,1269102360,1560,B,1400,implementation-strings,anhdt,Java 6,160,30003200
+22246,5,1269102329,1529,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,ivan.popelyshev,Java 6,90,31334400
+22239,5,1269102312,1512,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,izbyshev,Java 6,130,35430400
+22217,5,1269102282,1482,B,1400,implementation-strings,altsyp,Java 6,170,30003200
+22191,5,1269102226,1426,B,1400,implementation-strings,winterflame,Java 6,170,30003200
+22168,5,1269102167,1367,A,1200,implementation,niyaznigmatul,Java 6,60,30003200
+22159,5,1269102154,1354,B,1400,implementation-strings,Vasya.V,Java 6,160,30003200
+22138,5,1269102117,1317,A,1200,implementation,makagonov,Java 6,60,30003200
+22095,5,1269102025,1225,A,1200,implementation,LiverD,Java 6,60,30003200
+22094,5,1269102025,1225,A,1200,implementation,lolotp,Java 6,80,30003200
+22087,5,1269102016,1216,B,1400,implementation-strings,niyaznigmatul,Java 6,110,30003200
+22073,5,1269101993,1193,B,1400,implementation-strings,yiuyuho,Java 6,200,32358400
+22064,5,1269101981,1181,C,1900,constructive algorithms-data structures-dp-greedy-sortings-strings,Petr,Java 6,160,42496000
+22048,5,1269101940,1140,A,1200,implementation,Katran,Java 6,50,30003200
+22001,5,1269101830,1030,B,1400,implementation-strings,dimozzz,Java 6,170,30003200
+21996,5,1269101817,1017,B,1400,implementation-strings,S.Yesipenko,Java 6,170,30003200
+21976,5,1269101780,980,A,1200,implementation,Hadi_Asiaie,Java 6,60,30003200
+21971,5,1269101768,968,B,1400,implementation-strings,Efgen,Java 6,170,30003200
+21945,5,1269101707,907,B,1400,implementation-strings,ivan.popelyshev,Java 6,90,30003200
+21931,5,1269101683,883,B,1400,implementation-strings,knightry,Java 6,160,30003200
+21907,5,1269101632,832,B,1400,implementation-strings,wata,Java 6,130,30003200
+21884,5,1269101595,795,B,1400,implementation-strings,shindo,Java 6,200,30003200
+21881,5,1269101590,790,A,1200,implementation,Sergey.Bankevich,Java 6,60,30003200
+21871,5,1269101577,777,A,1200,implementation,alelux,Java 6,60,30003200
+21857,5,1269101550,750,A,1200,implementation,dev_il,Java 6,80,30003200
+21848,5,1269101528,728,A,1200,implementation,dAnton,Java 6,60,30003200
+21845,5,1269101523,723,B,1400,implementation-strings,vot,Java 6,160,30003200
+21839,5,1269101509,709,A,1200,implementation,SyFy,Java 6,60,30003200
+21836,5,1269101505,705,B,1400,implementation-strings,xiaowuc1,Java 6,130,30003200
+21835,5,1269101505,705,B,1400,implementation-strings,izbyshev,Java 6,160,30003200
+21833,5,1269101499,699,A,1200,implementation,mohamed.gaber,Java 6,60,30003200
+21825,5,1269101485,685,A,1200,implementation,anhdt,Java 6,60,30003200
+21814,5,1269101462,662,A,1200,implementation,Shafer,Java 6,60,30003200
+21794,5,1269101430,630,B,1400,implementation-strings,Petr,Java 6,140,30003200
+21789,5,1269101405,605,B,1400,implementation-strings,mikhailOK,Java 6,140,30003200
+21780,5,1269101387,587,A,1200,implementation,winger,Java 6,60,30003200
+21777,5,1269101382,582,A,1200,implementation,winterflame,Java 6,60,30003200
+21761,5,1269101337,537,A,1200,implementation,altsyp,Java 6,60,30003200
+21750,5,1269101310,510,A,1200,implementation,S.Yesipenko,Java 6,60,29900800
+21738,5,1269101287,487,A,1200,implementation,dimozzz,Java 6,50,29900800
+21706,5,1269101229,429,A,1200,implementation,rdomj,Java 6,60,30003200
+21697,5,1269101197,397,A,1200,implementation,knightry,Java 6,80,30003200
+21696,5,1269101197,397,A,1200,implementation,Vasya.V,Java 6,60,30003200
+21691,5,1269101191,391,A,1200,implementation,wata,Java 6,50,30003200
+21680,5,1269101175,375,A,1200,implementation,shindo,Java 6,60,30003200
+21675,5,1269101159,359,B,1400,implementation-strings,winger,Java 6,140,30003200
+21674,5,1269101159,359,A,1200,implementation,ivan.popelyshev,Java 6,50,30003200
+21673,5,1269101155,355,A,1200,implementation,yiuyuho,Java 6,80,30003200
+21661,5,1269101131,331,A,1200,implementation,izbyshev,Java 6,60,30003200
+21656,5,1269101108,308,A,1200,implementation,vot,Java 6,60,30003200
+21645,5,1269101064,264,A,1200,implementation,mikhailOK,Java 6,60,30003200
+21644,5,1269101059,259,A,1200,implementation,Efgen,Java 6,60,30003200
+21641,5,1269101043,243,A,1200,implementation,Petr,Java 6,60,30003200
+21631,5,1269100950,150,A,1200,implementation,xiaowuc1,Java 6,50,30003200

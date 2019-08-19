@@ -1,0 +1,619 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+55872827,126,1561131758,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,dmitrievanthony,Java 8,498,3174400
+55865794,126,1561118719,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,echikawa,Java 8,528,19353600
+55853982,126,1561096874,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,gaidash,Java 8,278,2867200
+55713123,126,1560856768,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vinay_pundir,Java 8,404,3276800
+55512832,126,1560390831,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mennafadali,Java 8,1372,57036800
+55412123,126,1560200145,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Whiplash99,Java 8,1870,18841600
+55397052,126,1560168921,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Naman_123,Java 8,746,61440000
+55323778,126,1560062501,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaolin2,Java 8,436,11161600
+55323748,126,1560062451,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaolin2,Java 8,436,11161600
+55241700,126,1559906604,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,abhi2601,Java 8,280,3174400
+54957736,126,1559438742,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,alphacarrot,Java 8,278,2764800
+54957430,126,1559437645,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,alphacarrot,Java 8,528,65331200
+54912790,126,1559390653,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,KharYusuf,Java 8,248,0
+54869041,126,1559289967,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nxphuc,Java 8,436,3276800
+54860582,126,1559265089,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaolin3,Java 8,436,11161600
+54860576,126,1559265049,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaolin2,Java 8,436,7168000
+54860570,126,1559265018,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaolin2,Java 8,436,7270400
+54807004,126,1559140996,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaolin3,Java 8,436,7270400
+54805001,126,1559137146,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Vaibhav96,Java 8,404,3276800
+54778460,126,1559071953,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,simenl,Java 8,560,55910400
+54264730,126,1558069606,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,amolpratap007,Java 8,404,3276800
+54081186,126,1557803810,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaolin3,Java 8,436,11161600
+53216516,126,1556096879,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,woidjoe,Java 8,966,35737600
+52923898,126,1555528833,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,iamSourav,Java 8,404,3276800
+52826256,126,1555422662,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mufaddalnaya,Java 8,342,0
+52511062,126,1554764845,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Suzukaze,Java 8,280,2867200
+52510904,126,1554764039,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Suzukaze,Java 8,310,2867200
+51772587,126,1553368612,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,guptautkarsh028,Java 8,340,0
+51763409,126,1553352269,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xwchen,Java 8,248,2252800
+51678673,126,1553254946,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jst_forfun,Java 8,498,2969600
+51486563,126,1553003242,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge5,Java 8,528,6963200
+51486368,126,1553002951,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge2,Java 8,530,6963200
+51386818,126,1552763754,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge5,Java 8,436,3276800
+51280453,126,1552533398,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,benpr99,Java 8,342,2867200
+51104837,126,1552166628,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,gcarrillo2,Java 8,280,2867200
+50694318,126,1551547073,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,bazinga84,Java 8,312,0
+50629496,126,1551428206,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,musiceni,Java 8,622,21401600
+50355562,126,1550917541,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,zulkan,Java 8,1964,106905600
+50355074,126,1550917445,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,zulkan,Java 8,1872,106905600
+50139016,126,1550521537,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Meryeme_mej,Java 8,684,49868800
+49687628,126,1549787649,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AWCXV,Java 8,372,11673600
+49504490,126,1549385530,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,arvind_rvs,Java 8,528,3174400
+48602783,126,1547975398,2147483647,A,1900,binary search-brute force-math,Tarun,Java 8,1528,137932800
+48473264,126,1547681327,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,BiIIy,Java 8,1028,57139200
+48397326,126,1547490463,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,saurabh0611,Java 8,342,1228800
+48080243,126,1546931817,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Bibhuti,Java 8,248,0
+48080110,126,1546931456,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Bibhuti,Java 8,278,0
+47862949,126,1546501020,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AJ47,Java 8,280,0
+47800570,126,1546294181,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jenish9599,Java 8,342,4812800
+47704203,126,1546109885,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,manubhai8876,Java 8,404,3174400
+47279113,126,1545255999,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sarthakmanna,Java 8,280,3686400
+47278609,126,1545254076,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sarthakmanna,Java 8,310,3686400
+47278514,126,1545253793,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sarthakmanna,Java 8,280,3686400
+47273106,126,1545241498,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,wanderer163,Java 8,312,0
+46514375,126,1543763296,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Verdusk,Java 8,404,3174400
+46295194,126,1543367486,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Ahmed_Diab,Java 8,560,42496000
+45247280,126,1541255707,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,lekeyef,Java 8,498,3174400
+45094403,126,1540897903,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,housni,Java 8,310,4300800
+45037083,126,1540801165,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sasuke4981,Java 8,404,3174400
+44907281,126,1540555439,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,housni,Java 8,248,4300800
+44907169,126,1540555271,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,housni,Java 8,686,73830400
+44907020,126,1540555010,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,housni,Java 8,934,76492800
+44881166,126,1540494714,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Charlizard,Java 8,466,3174400
+44361955,126,1539615488,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,coderbond007,Java 8,404,42496000
+44359995,126,1539612581,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Srinivasa_Ramanujan,Java 8,280,2867200
+43478456,126,1538025128,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,dalek_cos,Java 8,498,3379200
+43478191,126,1538024312,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,viczaz,Java 8,528,3379200
+43475914,126,1538018230,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AlfonsoRVR,Java 8,498,3379200
+43475433,126,1538016986,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,DiegoMA,Java 8,496,3379200
+43474030,126,1538011771,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,brandonreyes,Java 8,684,7270400
+43473548,126,1538010151,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ilegorreta,Java 8,716,36249600
+43472765,126,1538006888,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,yoplo15,Java 8,716,36249600
+43472488,126,1538005796,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AMadBaby,Java 8,716,36249600
+43471470,126,1538001428,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,A01652592,Java 8,748,36352000
+43469525,126,1537994833,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jomair,Java 8,498,5324800
+43468491,126,1537992459,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jomair,Java 8,498,5427200
+43467759,126,1537990883,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jonsnow7,Java 8,342,2867200
+43467014,126,1537989397,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jnisac,Java 8,466,3379200
+43465673,126,1537987433,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,luis1808,Java 8,716,36352000
+43465578,126,1537987278,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,luis1808,Java 8,686,36352000
+43462651,126,1537983254,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,DiegoZ,Java 8,748,36352000
+43462286,126,1537982840,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,rodominguez,Java 8,468,7372800
+42873026,126,1536957129,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,KulikAlex,Java 8,310,0
+42813298,126,1536790060,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ShowStopper728,Java 8,466,307200
+42745266,126,1536604995,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Nesrin,Java 8,1310,66150400
+42318581,126,1535742596,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AQT,Java 8,312,0
+42068850,126,1535146817,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ViciousCoder,Java 8,342,0
+41525902,126,1534074946,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,andreasw,Java 8,340,2867200
+41503083,126,1534012010,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mu.shakhawat.hossain,Java 8,310,0
+41281376,126,1533573560,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,java_geek,Java 8,342,3686400
+41252453,126,1533489192,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,java_geek,Java 8,904,18944000
+41226836,126,1533415259,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,K_B_C_S,Java 8,310,0
+41226343,126,1533413714,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,K_B_C_S,Java 8,342,0
+40816014,126,1532633710,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,cmplx-xyttmt,Java 8,342,18329600
+40719198,126,1532472538,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Hoda_Hisham,Java 8,310,2867200
+40635789,126,1532263667,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,wrong_lemma,Java 8,342,0
+40244905,126,1531437278,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,khokharnikunj8,Java 8,312,3072000
+40051997,126,1530941902,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,IDzekh,Java 8,342,2867200
+39944397,126,1530686318,2147483647,A,1900,binary search-brute force-math,ViciousCoder,Java 8,1058,42496000
+39780448,126,1530301362,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,prashantpiyush,Java 8,342,3686400
+39681505,126,1530031951,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,TuanKyou,Java 8,342,2969600
+39676449,126,1530018916,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,spar5h,Java 8,434,3072000
+39674828,126,1530014682,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,rahulkhairwar,Java 8,374,3993600
+39534465,126,1529737681,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tsumit023,Java 8,310,0
+39525737,126,1529693836,2147483647,A,1900,binary search-brute force-math,KulikAlex,Java 8,686,0
+39456111,126,1529570812,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ankurdua15,Java 8,622,67481600
+39413680,126,1529418123,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,748,236544000
+39411924,126,1529414001,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,javierfuentesm,Java 8,654,27136000
+39052709,126,1528482213,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,748,236544000
+39052680,126,1528482129,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,778,236544000
+38948089,126,1528123657,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,622,70758400
+38947880,126,1528123196,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,654,70758400
+38935891,126,1528093153,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,kanak893,Java 8,342,25497600
+38889638,126,1527941032,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,dipankar12,Java 8,340,25497600
+38701062,126,1527529377,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,hongquanntct,Java 8,342,0
+38569410,126,1527098105,2147483647,A,1900,binary search-brute force-math,Md_Ibrahim_Khan,Java 8,342,0
+37509371,126,1524302070,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,thesparkboy,Java 8,342,25702400
+37246387,126,1523530998,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,blockingthesky,Java 8,1216,99225600
+37223913,126,1523451393,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,1308,76697600
+37223708,126,1523451049,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,1372,76697600
+37223449,126,1523450637,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,illmondo,Java 8,1776,77721600
+37005534,126,1522953503,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,rahulDugar,Java 8,1808,26624000
+36339696,126,1521252753,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,I_love_AuroraGarden,Java 8,1838,89497600
+36216783,126,1520839116,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge4,Java 8,528,26112000
+36216752,126,1520839020,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge2,Java 8,498,26009600
+36216716,126,1520838891,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,praxis,Java 8,498,26009600
+36176769,126,1520710064,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,prabhat236218,Java 8,342,99020800
+36026004,126,1520363172,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,travm12,Java 8,312,20787200
+35448959,126,1518965072,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,chuongk,Java 8,280,37068800
+35445815,126,1518957470,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,abagana,Java 8,466,33689600
+35444572,126,1518954143,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,abagana,Java 8,436,33689600
+35375851,126,1518812404,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sy.2.hussain,Java 8,280,20787200
+35082096,126,1518162655,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Askar_168,Java 8,466,30105600
+35041025,126,1518055796,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Bibizhan,Java 8,686,53760000
+35040982,126,1518055656,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Bibizhan,Java 8,684,58982400
+34952029,126,1517854505,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Mary_Undomiel,Java 8,686,58982400
+34929269,126,1517770342,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Asselek,Java 8,466,26828800
+34900139,126,1517677319,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ARAKELYAN,Java 8,652,27750400
+34893572,126,1517658813,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Assylay,Java 8,466,30003200
+34887180,126,1517645534,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jakha926,Java 8,686,29900800
+34887166,126,1517645515,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,alikhan.izbergenov,Java 8,654,53760000
+34886521,126,1517644237,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,BEKAIDAR,Java 8,1058,96563200
+34886443,126,1517644045,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,t.nurasyl,Java 8,684,43827200
+34886218,126,1517643515,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Danagul_Zholdykhairova,Java 8,684,58982400
+34886011,126,1517643053,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,t.nurasyl,Java 8,654,43827200
+34885712,126,1517642347,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,t.nurasyl,Java 8,686,43827200
+34885335,126,1517641333,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,BEKAIDAR,Java 8,1060,96563200
+34884759,126,1517640012,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,BEKAIDAR,Java 8,1090,96460800
+34884677,126,1517639810,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,didi55,Java 8,684,43827200
+34884530,126,1517639444,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,didi55,Java 8,654,43827200
+34884038,126,1517638436,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,aktilek,Java 8,686,58982400
+34884034,126,1517638419,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Olzhaa,Java 8,686,43827200
+34883870,126,1517638057,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AnuarYespenbet,Java 8,466,30105600
+34883729,126,1517637728,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Bibizhan,Java 8,654,58982400
+34883059,126,1517635909,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nureke13,Java 8,686,43827200
+34881735,126,1517630723,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,aiz_kuandykova,Java 8,654,58982400
+34876118,126,1517604566,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Aizada_Kuandykova,Java 8,654,58982400
+34875659,126,1517602942,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,chaki_fenix,Java 8,684,58982400
+34875550,126,1517602641,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,GreenRabbit5454,Java 8,686,29900800
+34870920,126,1517591798,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Zhanat,Java 8,686,29900800
+34866247,126,1517588751,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ShokubasovAmir,Java 8,686,29900800
+34854607,126,1517585116,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nureke13,Java 8,716,43827200
+34835841,126,1517571557,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,LeMotherfuckerEAbdel69,Java 8,404,29798400
+34835621,126,1517571038,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,IsIt0.5Rated,Java 8,404,29798400
+34833241,126,1517564475,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nureke13,Java 8,748,58982400
+34718913,126,1517338493,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,beriksarman,Java 8,684,58982400
+34716263,126,1517331467,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,animuds,Java 8,654,58982400
+34605080,126,1517055585,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,avolide,Java 8,654,53760000
+34599087,126,1517041332,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Aiba01,Java 8,624,29900800
+34598433,126,1517039770,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,kairatulyzharas,Java 8,466,26009600
+34598129,126,1517039047,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nazym.akhmetova98,Java 8,654,30003200
+34597928,126,1517038595,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,SARSENOV,Java 8,684,58982400
+34597167,126,1517036624,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Timur_Kurmanov_IS,Java 8,622,29900800
+34597029,126,1517036288,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Timur_Kurmanov_IS,Java 8,624,29900800
+34596612,126,1517035382,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tolkhyn,Java 8,466,26009600
+34596208,126,1517034483,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,FullHD,Java 8,622,29900800
+34596065,126,1517034091,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,YelnarMurat,Java 8,624,29900800
+34596027,126,1517034004,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,zhubanova_diana,Java 8,684,29900800
+34595961,126,1517033869,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tair_03,Java 8,466,26009600
+34595796,126,1517033590,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,FullHD,Java 8,622,29900800
+34595539,126,1517032892,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,YelnarMurat,Java 8,622,29900800
+34595185,126,1517031979,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nazym.akhmetova98,Java 8,654,29900800
+34595049,126,1517031631,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nazym.akhmetova98,Java 8,654,29900800
+34594516,126,1517030195,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Bolatzhan.Talgar,Java 8,684,58982400
+34594278,126,1517029494,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,160103026,Java 8,622,29900800
+34594027,126,1517028648,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,utegenf,Java 8,684,58982400
+34593934,126,1517028375,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,kamillu,Java 8,622,29900800
+34593735,126,1517027747,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,LauraAskarbekova,Java 8,716,58982400
+34593232,126,1517025713,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,LauraAskarbekova,Java 8,684,58982400
+34592600,126,1517022923,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,inzh,Java 8,684,26009600
+34590341,126,1517012513,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,baytoor,Java 8,686,29900800
+34586932,126,1516996139,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Temirkhan1998,Java 8,686,58982400
+34586422,126,1516994777,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,zarinasauranbay,Java 8,340,41676800
+34586236,126,1516994227,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nugmanoff,Java 8,684,58982400
+34581634,126,1516983669,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,gauharomarova,Java 8,340,41676800
+34575890,126,1516971063,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,160103020,Java 8,686,29900800
+34574577,126,1516968169,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Raguel,Java 8,436,26009600
+34560180,126,1516923558,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MaxHeap,Java 8,998,58265600
+34554297,126,1516902767,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,kimkaimara,Java 8,684,53657600
+34538793,126,1516865300,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,iBaskati,Java 8,996,131993600
+34516988,126,1516798199,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,LeMotherfuckerEAbdel69,Java 8,374,29798400
+34501633,126,1516761583,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MaxHeap,Java 8,624,88576000
+34501236,126,1516760361,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MaxHeap,Java 8,748,101171200
+34458963,126,1516649093,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,assali,Java 8,1058,91852800
+34260598,126,1516217851,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Fynn,Java 8,592,26009600
+33974901,126,1515289705,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,SecondThread,Java 8,312,21401600
+33458165,126,1513780066,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge4,Java 8,280,20787200
+33458159,126,1513780047,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,bihai,Java 8,310,20787200
+33457673,126,1513778978,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge2,Java 8,280,20787200
+33210008,126,1513161666,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Overlord_hhz,Java 8,592,49766400
+33145018,126,1513056011,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,r2d2_21,Java 8,716,58982400
+32976503,126,1512565594,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge5,Java 8,280,20787200
+32763608,126,1511918851,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,wphsucf,Java 8,310,25600000
+32636636,126,1511584617,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Ahmad,Java 8,1216,164659200
+32486931,126,1511139463,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,maratonando,Java 8,654,58982400
+32293655,126,1510603628,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,parth_15,Java 8,280,0
+31851253,126,1509225816,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,yashwanthbetha,Java 8,310,3584000
+31847784,126,1509215283,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,aminul,Java 8,590,7065600
+31437774,126,1508212961,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,maratonando,Java 8,310,41574400
+31377720,126,1508101672,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,gergocsegzi,Java 8,652,25702400
+31320675,126,1508005177,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Hoda_Hisham,Java 8,280,2867200
+31210155,126,1507708450,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nishtha2217,Java 8,466,3379200
+31050328,126,1507254002,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Mouhssine,Java 8,684,73830400
+31049771,126,1507251521,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Mouhssine,Java 8,810,96563200
+30480494,126,1505755419,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,prakhar28,Java 8,342,21094400
+30359579,126,1505464277,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,rpthegreat,Java 8,342,0
+30192772,126,1504832808,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,deepshine,Java 8,342,3686400
+30192696,126,1504832203,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,flydzt,Java 8,310,0
+29710089,126,1503498920,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tomdmitriev,Java 8,310,0
+29338348,126,1502397922,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Minaa,Java 8,310,25600000
+29034076,126,1501472177,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Seven,Java 8,374,20684800
+29025116,126,1501441713,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Seven,Java 8,310,25190400
+28813588,126,1500869035,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,maratonando,Java 8,904,69120000
+28813579,126,1500868991,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,richie2,Java 8,902,69120000
+28644934,126,1500311274,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,eladdad,Java 8,686,89702400
+28408203,126,1499692742,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,keyurchaudhary1998,Java 8,248,32972800
+28256238,126,1499087253,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Kharouba,Java 8,280,26419200
+28065107,126,1498513082,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,appurva21,Java 8,312,27648000
+28065093,126,1498512971,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,appurva21,Java 8,342,27648000
+27982141,126,1498212336,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,coderbond007,Java 8,312,25600000
+27961941,126,1498124920,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,bhishma,Java 8,280,21708800
+27953617,126,1498083799,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mishagam,Java 8,624,57036800
+27761489,126,1497379563,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,kkg,Java 8,622,3276800
+27695514,126,1497037095,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,catchup,Java 8,280,2969600
+27454072,126,1496170305,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,pratikayastha_98,Java 8,592,7270400
+27425045,126,1496043533,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Don_1234,Java 8,374,89395200
+27421098,126,1496016616,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,homoeconomicus,Java 8,280,2662400
+27367644,126,1495863852,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Maulik_Patel,Java 8,342,0
+27356139,126,1495804235,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MDL,Java 8,280,0
+27346195,126,1495753524,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,catchup,Java 8,248,2969600
+27326440,126,1495660788,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,BiggestPrime,Java 8,684,31129600
+27310533,126,1495571790,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,BiggestPrime,Java 8,654,36249600
+27011889,126,1494504791,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge2,Java 8,560,7065600
+26977829,126,1494345212,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,U_Square,Java 8,310,3072000
+26920589,126,1494150543,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Kammola,Java 8,280,5017600
+26660489,126,1493124044,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,OmarRadwan,Java 8,374,25395200
+26649452,126,1493069914,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,luc4sdreyer,Java 8,310,29491200
+26241984,126,1491758469,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,fahimfarhan,Java 8,716,29798400
+26168987,126,1491480230,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,GooZy,Java 8,528,26624000
+26158967,126,1491427988,2147483647,A,1900,binary search-brute force-math,kunalk,Java 8,278,20377600
+25632607,126,1489886934,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,bluesky111,Java 8,280,29798400
+25093398,126,1488260755,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,aabdelzaher,Java 8,1496,92057600
+24822892,126,1487596656,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,BelkaVest,Java 8,310,20684800
+24819640,126,1487586055,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,latentcoder,Java 8,374,20684800
+24618872,126,1486945678,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,safarisoul,Java 8,310,25600000
+24341709,126,1485948123,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mariem_kandil,Java 8,560,37785600
+24233859,126,1485632666,2147483647,D,2200,dp-math,RP_9,Java 8,452,20684800
+24187886,126,1485523615,2147483647,D,2200,dp-math,Hardik.decoder,Java 8,389,20889600
+24105249,126,1485325043,2147483647,D,2200,dp-math,Sagar_Savaliya,Java 8,639,20889600
+24035510,126,1485107797,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MDL,Java 8,342,25497600
+24035453,126,1485107612,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MDL,Java 8,872,96051200
+23795795,126,1484357562,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,rahulnexus,Java 8,374,25702400
+23795691,126,1484356767,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,rahulnexus,Java 8,342,25600000
+23479310,126,1483254031,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Omar_Morsi,Java 8,342,33792000
+23478614,126,1483249556,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Omar_Morsi,Java 8,342,33689600
+23375934,126,1482922822,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,shahsaurabh0605,Java 8,342,32051200
+22652306,126,1480657868,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ejjhaynes,Java 8,404,3379200
+22633827,126,1480557332,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nginther,Java 8,466,3379200
+22376289,126,1479702625,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jaydeep,Java 8,934,89702400
+22065936,126,1478387899,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,peluche,Java 8,716,3276800
+21818600,126,1477564353,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,TheRedLegend,Java 8,528,10342400
+20805374,126,1474488173,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,I_Need_Alex_R_Coleman,Java 8,1778,57548800
+20805371,126,1474488147,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,I_Need_Alex_R_Coleman,Java 8,374,2867200
+20798805,126,1474470434,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,alexrcoleman,Java 8,592,7168000
+20348360,126,1472848265,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Noureldin_Khaled,Java 8,1994,77107200
+20340963,126,1472821031,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,softmax,Java 8,404,3174400
+19921424,126,1471417776,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,kocko,Java 8,280,25600000
+19599020,126,1470232299,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,suggi_d_luffy,Java 8,498,7372800
+19580012,126,1470143788,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AJ_Coder,Java 7,1092,123289600
+18908153,126,1467757443,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Corvus,Java 8,280,0
+18638903,126,1466559666,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,wistful23,Java 8,310,3379200
+18415759,126,1465831748,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,frktry,Java 7,278,43724800
+18378625,126,1465665537,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Wand,Java 8,342,25600000
+17076234,126,1459435880,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mordva,Java 8,560,25702400
+16706843,126,1457919470,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,flyman3046,Java 8,310,0
+16706063,126,1457910212,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MGriisser,Java 8,498,3379200
+16658923,126,1457723747,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,love11mishra,Java 8,280,2867200
+16609021,126,1457474206,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MJYGV,Java 8,280,2867200
+16596239,126,1457418145,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,spaul100,Java 8,280,0
+16558261,126,1457298831,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,dhrumil140396,Java 8,310,0
+16555733,126,1457286098,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Imaginary,Java 8,374,0
+16337505,126,1456432845,2147483647,A,1900,binary search-brute force-math,ATailouloute,Java 8,1714,0
+16337491,126,1456432778,2147483647,A,1900,binary search-brute force-math,ATailouloute,Java 8,1682,0
+16312292,126,1456330307,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ATailouloute,Java 8,1714,77107200
+16312181,126,1456329981,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ATailouloute,Java 8,1778,77107200
+16044177,126,1455589870,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tera,Java 7,248,0
+15418901,126,1453062014,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge1,Java 8,1496,62361600
+15415909,126,1453041687,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ahqmrf,Java 7,686,75468800
+14212021,126,1447326413,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Ahmad_Elsagheer,Java 8,280,0
+13800569,126,1445559278,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,slowe,Java 7,342,0
+13718069,126,1445193930,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,p1p13,Java 8,280,0
+13321699,126,1443641387,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Nirmit,Java 8,280,0
+13290847,126,1443498759,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,darsh,Java 8,310,614400
+13139618,126,1442921210,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,av_life,Java 8,654,0
+13139101,126,1442919016,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,av_life,Java 8,592,0
+13107095,126,1442692441,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,pitfall,Java 7,280,0
+12990296,126,1442180930,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,robert_nabil20022002,Java 8,280,0
+12669966,126,1440316106,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge5,Java 7,248,10137600
+12668823,126,1440310258,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge5,Java 7,372,9011200
+12461788,126,1439271485,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vjudge1,Java 7,372,9011200
+12243279,126,1438017668,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,analog,Java 8,280,0
+12243272,126,1438017620,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,analog,Java 7,186,0
+12129370,126,1437390454,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sievmi,Java 8,404,15769600
+12129364,126,1437390428,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sievmi,Java 8,404,15769600
+12129354,126,1437390359,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sievmi,Java 8,498,15769600
+11818299,126,1435484778,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,lydxlx,Java 8,686,33484800
+11760770,126,1435237133,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sweiss,Java 8,372,0
+11687960,126,1434844426,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,maitony,Java 7,218,0
+11657704,126,1434661877,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Sumeet.Varma,Java 7,216,0
+11609920,126,1434473903,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nellex,Java 8,654,26624000
+11409813,126,1433397947,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,poikniok,Java 8,686,27852800
+11409701,126,1433397253,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,poikniok,Java 8,842,15769600
+11409536,126,1433395964,2147483647,A,1900,binary search-brute force-math,poikniok,Java 8,1184,0
+11373409,126,1433133288,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Lyserg.Z,Java 8,340,15667200
+11274436,126,1432622788,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Luqman,Java 8,372,0
+11111800,126,1431727140,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,cc4000,Java 7,342,60620800
+11111484,126,1431723392,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,cc4000,Java 7,372,37273600
+11085093,126,1431488889,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,joshkirstein,Java 7,374,0
+10919839,126,1430229942,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Junior94,Java 8,310,28569600
+10845941,126,1429871868,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,DeJw,Java 8,280,28569600
+10793887,126,1429504019,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,I_Love_Hanh_Trinh,Java 8,686,45568000
+10782774,126,1429454603,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sayuan,Java 8,340,34406400
+10751881,126,1429279945,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Amerisma,Java 8,372,17612800
+10727461,126,1429082017,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,LuuNhatPhi,Java 7,218,0
+10705794,126,1429026403,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Mariam_94,Java 8,248,0
+10658299,126,1428761052,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Badry,Java 7,248,8294400
+10615854,126,1428348376,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,fillets,Java 7,218,0
+10555470,126,1428011335,2147483647,A,1900,binary search-brute force-math,fnch,Java 8,934,0
+10536393,126,1427829693,2147483647,C,2200,constructive algorithms-greedy,A.Elahi,Java 8,374,0
+10534168,126,1427812627,2147483647,C,2200,constructive algorithms-greedy,A.Elahi,Java 8,1246,43315200
+10295532,126,1426468311,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,popotiger,Java 8,280,0
+10282740,126,1426400011,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,popotiger,Java 8,280,0
+10281367,126,1426387217,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,popotiger,Java 8,342,7680000
+10281334,126,1426386674,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,popotiger,Java 7,248,8396800
+10237340,126,1426080298,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,devilofaboy,Java 7,498,0
+9949062,126,1424528027,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Badry,Java 7,218,8294400
+9949021,126,1424527753,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Atef258,Java 7,218,8294400
+9372931,126,1420551163,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,XIAOAGE,Java 8,622,5120000
+9343105,126,1420168679,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Diegox,Java 8,342,0
+9077939,126,1418273205,4785,D,2200,dp-math,AlexFetisov,Java 7,872,143872000
+9077825,126,1418271045,2625,C,2200,constructive algorithms-greedy,AlexFetisov,Java 8,466,0
+9077799,126,1418270324,1903,B,1800,binary search-dp-hashing-string suffix structures-strings,AlexFetisov,Java 8,280,0
+9077788,126,1418270015,1595,A,1900,binary search-brute force-math,AlexFetisov,Java 8,810,0
+8343516,126,1413904341,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,404Error,Java 8,590,204800
+8343498,126,1413904234,2147483647,A,1900,binary search-brute force-math,404Error,Java 8,1464,0
+8343491,126,1413904190,2147483647,A,1900,binary search-brute force-math,404Error,Java 7,1902,0
+8343485,126,1413904178,2147483647,A,1900,binary search-brute force-math,404Error,Java 6,1902,0
+8336062,126,1413848722,2147483647,A,1900,binary search-brute force-math,404Error,Java 7,1964,0
+8335573,126,1413840396,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,404Error,Java 7,310,0
+8021574,126,1411973802,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,dheeraj1995,Java 7,312,0
+7844641,126,1411066663,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sroyal,Java 7,1558,53862400
+7822451,126,1411011516,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sroyal,Java 7,1526,53862400
+7803594,126,1410803573,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sroyal,Java 7,1528,53862400
+7684088,126,1409855695,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,j1gsaw,Java 7,248,0
+7608239,126,1409166606,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,asheshvidyut,Java 7,248,0
+7501066,126,1408366459,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Mamdou7,Java 7,342,39424000
+7496923,126,1408330775,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ctunoku,Java 7,966,89497600
+7428296,126,1407769222,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,upsolving,Java 7,216,0
+7428111,126,1407767691,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,upsolving,Java 7,218,0
+7371364,126,1407440598,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,myduomilia,Java 7,218,0
+7210475,126,1406129867,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,monsterspy,Java 7,342,0
+7097393,126,1405317860,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AlexFetisov,Java 8,468,102400
+6897612,126,1402895709,2147483647,A,1900,binary search-brute force-math,alibaba,Java 7,218,0
+6690271,126,1400897756,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,OKA_1010,Java 7,218,8806400
+6655637,126,1400496785,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,SurenNihalani,Java 8,872,716800
+6651337,126,1400425781,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ELMaestro,Java 7,342,0
+6645288,126,1400348112,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,k790alex,Java 7,186,0
+6627897,126,1400171878,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,zulkan,Java 7,436,0
+6611868,126,1400013239,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tsheasha,Java 6,186,0
+6580066,126,1399677371,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,KarimElSheikh,Java 7,216,0
+6578558,126,1399649868,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Safrout,Java 7,186,0
+6135381,126,1395735840,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,rearmlkp,Java 7,248,0
+5493055,126,1387725417,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,alibaba,Java 6,186,307200
+5489760,126,1387676670,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,0p9o8i,Java 7,342,2048000
+5362097,126,1386352002,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,sandeepandey,Java 7,342,69017600
+5338716,126,1386017160,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,salmaneldash,Java 6,186,204800
+5311203,126,1385800146,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Safrout,Java 7,186,0
+5146352,126,1384828007,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,edorundo,Java 7,312,0
+5022889,126,1383829828,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Vlad3d,Java 7,218,3891200
+4996719,126,1383699710,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mbassem91,Java 7,186,0
+4993568,126,1383657987,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Safrout,Java 7,156,0
+4529024,126,1379755562,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,hama-du,Java 7,218,29081600
+4528972,126,1379755222,2147483647,C,2200,constructive algorithms-greedy,hama-du,Java 7,342,4198400
+4528846,126,1379754432,2147483647,D,2200,dp-math,hama-du,Java 7,998,102400
+4479234,126,1379266450,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tryagainlater,Java 6,342,204800
+4367239,126,1377798501,2147483647,A,1900,binary search-brute force-math,DoublePointer,Java 7,716,0
+4301493,126,1376719105,2147483647,A,1900,binary search-brute force-math,nickbuelich,Java 7,404,0
+4207066,126,1375244209,2147483647,A,1900,binary search-brute force-math,trunghieu11,Java 7,560,0
+4069703,126,1373806295,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,kyacout,Java 7,140,0
+4069696,126,1373806156,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Mostafa.Gabriel,Java 7,140,0
+4069558,126,1373804463,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,MohamedAmin,Java 7,125,0
+4065681,126,1373752768,2147483647,A,1900,binary search-brute force-math,edorundo,Java 7,203,102400
+4036175,126,1373227448,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,slycelote,Java 6,218,204800
+4003588,126,1372777051,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,lovefly1983,Java 7,468,61644800
+3997803,126,1372628814,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,cyon,Java 6,187,2355200
+3792445,126,1369866076,2147483647,C,2200,constructive algorithms-greedy,Ahmed_Salama,Java 7,265,0
+3476271,126,1365159813,2147483647,A,1900,binary search-brute force-math,miladini,Java 6,1015,2457600
+3420360,126,1364582785,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Omar.Darwish,Java 6,156,204800
+3405986,126,1364251415,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xenoslash,Java 7,140,0
+3315625,126,1363256552,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ahmedmtm,Java 6,375,204800
+3253028,126,1362473543,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,-101-,Java 7,203,307200
+3253012,126,1362473275,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,-101-,Java 7,218,15667200
+3237435,126,1362394916,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,zulkan,Java 6,296,2150400
+2858709,126,1356886331,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ahmad_mamdouh,Java 6,156,204800
+2820923,126,1356324104,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,xiaowuc1,Java 6,265,52428800
+2804104,126,1356102177,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Mostafa.Ali,Java 6,281,38707200
+2717882,126,1354914926,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,yasser_adel,Java 7,609,27443200
+2696662,126,1354705327,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,amin-55,Java 6,1734,307200
+2687440,126,1354473977,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,fpref,Java 6,843,109568000
+2669561,126,1354034631,2147483647,A,1900,binary search-brute force-math,Spellbound,Java 6,406,61952000
+2639502,126,1353808334,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,di_halt,Java 7,171,0
+2639486,126,1353807848,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,di_halt,Java 7,187,28876800
+2610949,126,1353510319,2147483647,D,2200,dp-math,m.radwan,Java 6,1750,307200
+2609023,126,1353483909,2147483647,D,2200,dp-math,Ahmed_Salama,Java 6,1093,409600
+2435444,126,1351201406,2147483647,A,1900,binary search-brute force-math,Kornacker,Java 6,125,0
+2435388,126,1351199131,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Kornacker,Java 6,234,17100800
+2435100,126,1351192120,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,zamzam,Java 6,1000,81510400
+2290462,126,1349164409,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,trunghieu11,Java 7,250,0
+2227216,126,1348238988,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,ravelo1991,Java 6,1546,44236800
+2108530,126,1347276934,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,raedselim,Java 6,170,43417600
+2047332,126,1345840891,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,OSt,Java 6,390,43520000
+2017319,126,1345046885,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,jiangzhijie,Java 7,390,103731200
+2001002,126,1344723538,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Korobov,Java 6,220,43520000
+2000754,126,1344708852,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mkirsche,Java 6,1640,43622400
+1913523,126,1342774930,2147483647,A,1900,binary search-brute force-math,Azat_Yusupov,Java 6,200,43315200
+1913520,126,1342774876,2147483647,C,2200,constructive algorithms-greedy,Azat_Yusupov,Java 6,390,43315200
+1869713,126,1341582797,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Ahmed.Ibrahem,Java 6,190,43520000
+1846229,126,1341061367,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Ahmed.Ibrahem,Java 6,200,43520000
+1741620,126,1338305607,1767,A,1900,binary search-brute force-math,YX201314,Java 6,390,43110400
+1686948,126,1336941171,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,vans239,Java 7,530,59084800
+1679558,126,1336676175,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mialerxd,Java 6,840,152780800
+1671787,126,1336632316,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,AlexanderBolshakov,Java 6,770,166195200
+1671003,126,1336572516,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Amarchuk,Java 7,380,45056000
+1649311,126,1335963699,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Polaris,Java 6,280,43417600
+1642816,126,1335639275,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,hornswf,Java 6,140,43417600
+1497106,126,1333867976,2147483647,D,2200,dp-math,ktuan,Java 6,1080,43520000
+1291673,126,1330966989,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Andreos,Java 6,1470,45056000
+1242419,126,1330465212,2147483647,D,2200,dp-math,Sabelan,Java 6,1310,45465600
+1237892,126,1330291729,2147483647,D,2200,dp-math,Navigabimus,Java 6,1730,45056000
+1235669,126,1330225950,2147483647,D,2200,dp-math,sbatten,Java 6,1340,45158400
+1232992,126,1330152132,2147483647,D,2200,dp-math,Sabelan,Java 6,1330,45465600
+1218792,126,1329984982,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,Ahmed_Salama,Java 6,1510,44953600
+1183407,126,1329365610,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tehqin,Java 6,280,43417600
+1183400,126,1329364937,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,DoublePointer,Java 6,170,43417600
+1183396,126,1329364255,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,DoublePointer,Java 6,160,43315200
+1183393,126,1329363851,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,DoublePointer,Java 6,140,43417600
+1183371,126,1329362458,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tehqin,Java 6,280,43417600
+1183360,126,1329362121,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tehqin,Java 6,300,43417600
+1183349,126,1329361762,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,tehqin,Java 6,300,43417600
+1158811,126,1328768177,2147483647,C,2200,constructive algorithms-greedy,K_operafan,Java 6,580,57856000
+1157786,126,1328709858,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,wackloner,Java 6,310,95539200
+1157662,126,1328706731,2147483647,A,1900,binary search-brute force-math,wackloner,Java 6,130,43008000
+1129302,126,1328036840,2147483647,C,2200,constructive algorithms-greedy,islam-al-aarag,Java 6,220,58368000
+1124034,126,1327763843,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,marikuna,Java 6,160,43315200
+1124018,126,1327763635,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,marikuna,Java 6,140,43315200
+1123854,126,1327759551,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,nmacho,Java 6,270,43315200
+1123778,126,1327757401,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,llaki,Java 6,310,102297600
+1110736,126,1327248076,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,lazzrov,Java 6,280,43520000
+1016472,126,1325954716,2147483647,D,2200,dp-math,Navigabimus,Java 6,1940,43417600
+994587,126,1325490816,2147483647,A,1900,binary search-brute force-math,mostafa_fahim,Java 6,750,43212800
+987070,126,1324905924,2147483647,C,2200,constructive algorithms-greedy,anhdt,Java 6,250,43212800
+968092,126,1324302058,2147483647,B,1800,binary search-dp-hashing-string suffix structures-strings,mostafa_fahim,Java 6,280,43417600
+947438,126,1323467604,2609604,B,1800,binary search-dp-hashing-string suffix structures-strings,ravelo1991,Java 6,1480,43520000
+906073,126,1322312633,1454633,B,1800,binary search-dp-hashing-string suffix structures-strings,S.Yesipenko,Java 6,200,57139200
+890863,126,1322216855,1358855,E,3100,brute force-flows,uwi,Java 6,2910,36147200
+889856,126,1322155778,1297778,A,1900,binary search-brute force-math,RodionGork,Java 6,140,43212800
+886055,126,1321974547,1116547,C,2200,constructive algorithms-greedy,pele,Java 6,520,43315200
+885369,126,1321946592,1088592,D,2200,dp-math,pele,Java 6,1140,35532800
+885362,126,1321946023,1088023,D,2200,dp-math,pele,Java 6,1280,35532800
+885354,126,1321945699,1087699,D,2200,dp-math,pele,Java 6,1530,35635200
+885344,126,1321945268,1087268,D,2200,dp-math,pele,Java 6,1550,35532800
+885339,126,1321945114,1087114,D,2200,dp-math,pele,Java 6,1450,35635200
+885335,126,1321944819,1086819,D,2200,dp-math,pele,Java 6,1610,35635200
+884590,126,1321895882,1037882,A,1900,binary search-brute force-math,pele,Java 6,170,43110400
+884136,126,1321874777,1016777,B,1800,binary search-dp-hashing-string suffix structures-strings,pele,Java 6,1720,35430400
+884128,126,1321874358,1016358,B,1800,binary search-dp-hashing-string suffix structures-strings,_jte_,Java 6,280,67276800
+883737,126,1321858049,1000049,D,2200,dp-math,wangyongliang,Java 6,1140,43417600
+880734,126,1321800992,942992,A,1900,binary search-brute force-math,wangyongliang,Java 6,1260,43110400
+880731,126,1321800914,942914,B,1800,binary search-dp-hashing-string suffix structures-strings,wangyongliang,Java 6,340,72089600
+880728,126,1321800857,942857,C,2200,constructive algorithms-greedy,wangyongliang,Java 6,610,70758400
+879890,126,1321750840,892840,A,1900,binary search-brute force-math,islam-al-aarag,Java 6,220,43110400
+879282,126,1321713731,855731,B,1800,binary search-dp-hashing-string suffix structures-strings,SharpBlade,Java 6,250,43315200
+878723,126,1321690662,832662,C,2200,constructive algorithms-greedy,tanzaku,Java 6,560,43212800
+877287,126,1321616818,758818,B,1800,binary search-dp-hashing-string suffix structures-strings,islam-al-aarag,Java 6,160,43212800
+876607,126,1321565755,707755,B,1800,binary search-dp-hashing-string suffix structures-strings,lilica,Java 6,390,72089600
+874931,126,1321482491,624491,D,2200,dp-math,torrentlord,Java 6,1470,43315200
+874911,126,1321481628,623628,D,2200,dp-math,torrentlord,Java 6,1940,43315200
+874783,126,1321472096,614096,C,2200,constructive algorithms-greedy,torrentlord,Java 6,610,43212800
+874693,126,1321468894,610894,A,1900,binary search-brute force-math,torrentlord,Java 6,840,43110400
+874255,126,1321457911,599911,D,2200,dp-math,zhymaoiing,Java 6,690,43315200
+864483,126,1321334133,476133,B,1800,binary search-dp-hashing-string suffix structures-strings,zhymaoiing,Java 6,310,43315200
+864449,126,1320860362,2362,A,1900,binary search-brute force-math,TheRaven,Java 6,220,43110400
+864432,126,1321331353,473353,A,1900,binary search-brute force-math,zhymaoiing,Java 6,280,43110400
+864371,126,1321328433,470433,B,1800,binary search-dp-hashing-string suffix structures-strings,AlexanderBolshakov,Java 6,1000,87961600
+863743,126,1320864226,6226,D,2200,dp-math,I-juice,Java 6,660,43315200
+863624,126,1320860473,2473,C,2200,constructive algorithms-greedy,I-juice,Java 6,330,43008000
+863574,126,1320859442,1442,B,1800,binary search-dp-hashing-string suffix structures-strings,I-juice,Java 6,280,57139200
+863550,126,1320858631,631,A,1900,binary search-brute force-math,I-juice,Java 6,170,43110400
+862893,126,1321257589,399589,D,2200,dp-math,acl,Java 6,1200,35532800
+862886,126,1321257389,399389,D,2200,dp-math,acl,Java 6,1200,35532800
+862020,126,1321199960,341960,B,1800,binary search-dp-hashing-string suffix structures-strings,Azat_Yusupov,Java 6,280,43315200
+861871,126,1321192853,334853,B,1800,binary search-dp-hashing-string suffix structures-strings,Omar.Darwish,Java 6,200,43315200
+860480,126,1321113083,255083,A,1900,binary search-brute force-math,Hadi_Asiaie,Java 6,190,43008000
+860430,126,1321110341,252341,B,1800,binary search-dp-hashing-string suffix structures-strings,otero1991,Java 6,200,43315200
+859741,126,1321084442,226442,C,2200,constructive algorithms-greedy,Kornacker,Java 6,220,43110400
+859637,126,1321079717,221717,B,1800,binary search-dp-hashing-string suffix structures-strings,anhdt,Java 6,360,95539200
+859635,126,1321079572,221572,B,1800,binary search-dp-hashing-string suffix structures-strings,anhdt,Java 6,360,95539200
+859514,126,1321075442,217442,A,1900,binary search-brute force-math,michael_tan,Java 6,270,43110400
+859333,126,1321064742,206742,B,1800,binary search-dp-hashing-string suffix structures-strings,anhdt,Java 6,200,43315200
+859203,126,1321049334,191334,A,1900,binary search-brute force-math,Ahmed_Gad,Java 6,1950,43212800
+859020,126,1321040149,182149,C,2200,constructive algorithms-greedy,r13,Java 6,470,43520000
+858812,126,1320860280,2280,C,2200,constructive algorithms-greedy,chavit,Java 6,250,43110400
+858324,126,1320865049,7049,B,1800,binary search-dp-hashing-string suffix structures-strings,Kornacker,Java 6,450,57446400
+858222,126,1321019523,161523,B,1800,binary search-dp-hashing-string suffix structures-strings,anhdt,Java 6,170,43212800
+858161,126,1320861218,3218,A,1900,binary search-brute force-math,Kornacker,Java 6,200,43110400
+857903,126,1321011997,153997,C,2200,constructive algorithms-greedy,Di735,Java 6,310,35328000
+857901,126,1321011992,153992,B,1800,binary search-dp-hashing-string suffix structures-strings,Di735,Java 6,190,35430400
+857900,126,1321011986,153986,A,1900,binary search-brute force-math,Di735,Java 6,170,35225600
+857899,126,1321011923,153923,D,2200,dp-math,Di735,Java 6,1450,35532800
+857797,126,1320862419,4419,C,2200,constructive algorithms-greedy,Di735,Java 6,310,35328000
+857748,126,1320860866,2866,B,1800,binary search-dp-hashing-string suffix structures-strings,Di735,Java 6,190,35430400
+857702,126,1320859354,1354,A,1900,binary search-brute force-math,Di735,Java 6,170,35225600
+856863,126,1320956680,98680,A,1900,binary search-brute force-math,psucoder,Java 6,1250,43110400
+856793,126,1320954340,96340,B,1800,binary search-dp-hashing-string suffix structures-strings,psucoder,Java 6,200,43212800
+856687,126,1320951147,93147,A,1900,binary search-brute force-math,Toks,Java 6,190,43110400
+856209,126,1320940486,82486,A,1900,binary search-brute force-math,nodirbek,Java 6,330,35328000
+856173,126,1320939593,81593,A,1900,binary search-brute force-math,nodirbek,Java 6,200,35328000
+855787,126,1320930838,72838,B,1800,binary search-dp-hashing-string suffix structures-strings,Thomas_Ahle,Java 6,390,35328000
+855763,126,1320930142,72142,A,1900,binary search-brute force-math,wiye.cheng,Java 6,190,35328000
+855657,126,1320927859,69859,D,2200,dp-math,trickShuffle,Java 6,1030,35532800
+855304,126,1320921229,63229,B,1800,binary search-dp-hashing-string suffix structures-strings,Sinner,Java 6,270,43315200
+855283,126,1320921011,63011,B,1800,binary search-dp-hashing-string suffix structures-strings,Sinner,Java 6,270,43315200
+854796,126,1320861942,3942,C,2200,constructive algorithms-greedy,ika,Java 6,270,43315200
+854733,126,1320860691,2691,B,1800,binary search-dp-hashing-string suffix structures-strings,ika,Java 6,230,57241600
+854718,126,1320909556,51556,A,1900,binary search-brute force-math,ryanaaa,Java 6,160,43110400
+854678,126,1320859547,1547,A,1900,binary search-brute force-math,ika,Java 6,160,43212800
+854331,126,1320899719,41719,A,1900,binary search-brute force-math,Sinner,Java 6,250,43110400
+853550,126,1320876572,18572,A,1900,binary search-brute force-math,Ahmed.Ibrahem,Java 6,200,43110400
+853536,126,1320876302,18302,B,1800,binary search-dp-hashing-string suffix structures-strings,Shlakoblock,Java 6,530,108032000
+853272,126,1320873002,15002,A,1900,binary search-brute force-math,cyon,Java 6,1890,43110400
+853224,126,1320872507,14507,A,1900,binary search-brute force-math,Izot_NNSTU,Java 6,270,43110400
+853198,126,1320871739,13739,D,2200,dp-math,fetetriste,Java 6,1910,43520000
+853171,126,1320871520,13520,A,1900,binary search-brute force-math,kiko91_7,Java 6,230,43110400
+853096,126,1320871071,13071,A,1900,binary search-brute force-math,Navigabimus,Java 6,770,43110400
+853061,126,1320870896,12896,B,1800,binary search-dp-hashing-string suffix structures-strings,S.Yesipenko,Java 6,230,57139200
+853024,126,1320870731,12731,B,1800,binary search-dp-hashing-string suffix structures-strings,shavkat,Java 6,250,43315200
+852959,126,1320870457,12457,C,2200,constructive algorithms-greedy,fetetriste,Java 6,270,46489600
+852939,126,1320870411,12411,A,1900,binary search-brute force-math,fetetriste,Java 6,220,43212800
+852900,126,1320870288,12288,A,1900,binary search-brute force-math,S.Yesipenko,Java 6,1140,43212800
+852889,126,1320870248,12248,C,2200,constructive algorithms-greedy,S.Yesipenko,Java 6,340,96870400
+852874,126,1320870214,12214,A,1900,binary search-brute force-math,AlexErofeev,Java 6,230,43417600
+852849,126,1320870144,12144,A,1900,binary search-brute force-math,kiko91_7,Java 6,360,43110400
+852800,126,1320870014,12014,A,1900,binary search-brute force-math,shavkat,Java 6,590,43212800
+852790,126,1320869991,11991,A,1900,binary search-brute force-math,Shlakoblock,Java 6,160,43315200
+852747,126,1320869900,11900,B,1800,binary search-dp-hashing-string suffix structures-strings,Abra,Java 6,170,43315200
+852745,126,1320869891,11891,B,1800,binary search-dp-hashing-string suffix structures-strings,SergeyLazarev,Java 6,770,160870400
+852735,126,1320869869,11869,A,1900,binary search-brute force-math,Darko,Java 6,970,43110400
+852562,126,1320869530,11530,A,1900,binary search-brute force-math,dalex,Java 6,640,43724800
+852363,126,1320869261,11261,C,2200,constructive algorithms-greedy,SergeyLazarev,Java 6,410,107520000
+852316,126,1320869100,11100,B,1800,binary search-dp-hashing-string suffix structures-strings,dalex,Java 6,420,97792000
+852303,126,1320869071,11071,B,1800,binary search-dp-hashing-string suffix structures-strings,dalex,Java 6,380,97792000
+852299,126,1320869053,11053,A,1900,binary search-brute force-math,Ahmed_Salama,Java 6,1340,43110400
+852026,126,1320865112,7112,A,1900,binary search-brute force-math,anhdt,Java 6,720,43110400
+851806,126,1320864983,6983,B,1800,binary search-dp-hashing-string suffix structures-strings,fetetriste,Java 6,450,57651200
+850863,126,1320864239,6239,B,1800,binary search-dp-hashing-string suffix structures-strings,Hadi_Asiaie,Java 6,230,51302400
+850579,126,1320864001,6001,B,1800,binary search-dp-hashing-string suffix structures-strings,AlexErofeev,Java 6,980,153088000
+850525,126,1320863938,5938,A,1900,binary search-brute force-math,uwi,Java 6,140,43008000
+849919,126,1320863411,5411,D,2200,dp-math,uwi,Java 6,880,43315200
+849711,126,1320863198,5198,D,2200,dp-math,alexey.enkov,Java 6,480,43520000
+849206,126,1320862695,4695,A,1900,binary search-brute force-math,AlexanderBolshakov,Java 6,220,43110400
+848657,126,1320862161,4161,C,2200,constructive algorithms-greedy,uwi,Java 6,360,43110400
+848401,126,1320861890,3890,A,1900,binary search-brute force-math,unicef,Java 6,140,43110400
+848294,126,1320861780,3780,B,1800,binary search-dp-hashing-string suffix structures-strings,yaro,Java 6,940,49664000
+848247,126,1320861727,3727,C,2200,constructive algorithms-greedy,OgieKako,Java 6,410,43008000
+848184,126,1320861675,3675,A,1900,binary search-brute force-math,ivan.popelyshev,Java 6,160,43110400
+848144,126,1320861624,3624,B,1800,binary search-dp-hashing-string suffix structures-strings,Jokser,Java 6,1890,108851200
+847987,126,1320861479,3479,B,1800,binary search-dp-hashing-string suffix structures-strings,uwi,Java 6,300,71884800
+847838,126,1320861327,3327,B,1800,binary search-dp-hashing-string suffix structures-strings,mastersobg,Java 6,280,43315200
+847806,126,1320861304,3304,C,2200,constructive algorithms-greedy,Aksenov239,Java 6,270,43008000
+847503,126,1320861022,3022,C,2200,constructive algorithms-greedy,unicef,Java 6,230,43008000
+847372,126,1320860908,2908,B,1800,binary search-dp-hashing-string suffix structures-strings,Nox,Java 6,840,96768000
+847302,126,1320860825,2825,C,2200,constructive algorithms-greedy,alexey.enkov,Java 6,330,49356800
+847297,126,1320860817,2817,D,2200,dp-math,ivan.popelyshev,Java 6,890,43417600
+847256,126,1320860779,2779,B,1800,binary search-dp-hashing-string suffix structures-strings,shevchen,Java 6,270,43008000
+846994,126,1320860532,2532,B,1800,binary search-dp-hashing-string suffix structures-strings,OgieKako,Java 6,1010,64614400
+846883,126,1320860433,2433,B,1800,binary search-dp-hashing-string suffix structures-strings,Aksenov239,Java 6,250,43315200
+846847,126,1320860401,2401,D,2200,dp-math,Egor,Java 6,360,43315200
+846668,126,1320860246,2246,B,1800,binary search-dp-hashing-string suffix structures-strings,alexey.enkov,Java 6,780,102092800
+846452,126,1320860056,2056,A,1900,binary search-brute force-math,Sammarize,Java 6,140,43110400
+846327,126,1320859925,1925,C,2200,constructive algorithms-greedy,ivan.popelyshev,Java 6,530,84684800
+846252,126,1320859854,1854,D,2200,dp-math,unicef,Java 6,440,43008000
+846076,126,1320859708,1708,B,1800,binary search-dp-hashing-string suffix structures-strings,dalex,Java 6,390,97792000
+845938,126,1320859597,1597,C,2200,constructive algorithms-greedy,Egor,Java 6,250,43110400
+845201,126,1320859105,1105,A,1900,binary search-brute force-math,OgieKako,Java 6,190,43110400
+845158,126,1320859078,1078,B,1800,binary search-dp-hashing-string suffix structures-strings,ivan.popelyshev,Java 6,230,47206400
+844944,126,1320858963,963,B,1800,binary search-dp-hashing-string suffix structures-strings,Egor,Java 6,220,43315200
+844359,126,1320858663,663,A,1900,binary search-brute force-math,Egor,Java 6,410,43110400
+844355,126,1320858659,659,B,1800,binary search-dp-hashing-string suffix structures-strings,unicef,Java 6,230,47206400

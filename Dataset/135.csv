@@ -1,0 +1,361 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+57126178,135,1563251668,2147483647,B,1600,brute force-geometry-math,santoo1234,Java 8,342,0
+55957452,135,1561276399,2147483647,C,2000,constructive algorithms-games-greedy,spar5h,Java 8,248,0
+54359239,135,1558207675,2147483647,A,1400,greedy-implementation-sortings,bodziozet,Java 8,1184,0
+51859429,135,1553603516,2147483647,A,1400,greedy-implementation-sortings,yaminote,Java 8,310,0
+51435081,135,1552887748,2147483647,A,1400,greedy-implementation-sortings,Verdusk,Java 8,312,0
+46638992,135,1543998681,2147483647,A,1400,greedy-implementation-sortings,yomnaa,Java 8,310,0
+42477542,135,1536108864,2147483647,A,1400,greedy-implementation-sortings,S010M,Java 8,404,0
+42354392,135,1535874305,2147483647,A,1400,greedy-implementation-sortings,Phi_HaUI,Java 8,1340,0
+41650841,135,1534419838,2147483647,A,1400,greedy-implementation-sortings,zephyr_23,Java 8,998,0
+41264245,135,1533534879,2147483647,B,1600,brute force-geometry-math,parth_15,Java 8,310,0
+39943048,135,1530682307,2147483647,A,1400,greedy-implementation-sortings,ViciousCoder,Java 8,310,0
+39817165,135,1530436995,2147483647,A,1400,greedy-implementation-sortings,prashantpiyush,Java 8,342,0
+39799387,135,1530365778,2147483647,A,1400,greedy-implementation-sortings,dipankar12,Java 8,342,0
+39541670,135,1529757781,2147483647,C,2000,constructive algorithms-games-greedy,rahulDugar,Java 8,280,0
+39535840,135,1529741801,2147483647,A,1400,greedy-implementation-sortings,KulikAlex,Java 8,530,0
+39245098,135,1528982060,2147483647,B,1600,brute force-geometry-math,bluesky111,Java 8,310,0
+39228285,135,1528932616,2147483647,A,1400,greedy-implementation-sortings,bluesky111,Java 8,374,0
+39215630,135,1528891496,2147483647,C,2000,constructive algorithms-games-greedy,bluesky111,Java 8,280,0
+37350220,135,1523786756,2147483647,A,1400,greedy-implementation-sortings,thestormykid,Java 8,342,20889600
+37350193,135,1523786655,2147483647,A,1400,greedy-implementation-sortings,unbeatables,Java 8,342,20889600
+37297925,135,1523653176,2147483647,A,1400,greedy-implementation-sortings,Hashim,Java 8,340,20889600
+37259437,135,1523562196,2147483647,A,1400,greedy-implementation-sortings,thesparkboy,Java 8,342,20889600
+36463032,135,1521659950,2147483647,C,2000,constructive algorithms-games-greedy,Noureldin,Java 8,342,21504000
+34931071,135,1517777415,2147483647,A,1400,greedy-implementation-sortings,CharlesDai,Java 8,342,22118400
+34327642,135,1516385415,2147483647,A,1400,greedy-implementation-sortings,wrong_lemma,Java 8,310,20889600
+34258866,135,1516211608,2147483647,A,1400,greedy-implementation-sortings,parth_15,Java 8,342,20889600
+33681855,135,1514394734,2147483647,C,2000,constructive algorithms-games-greedy,ahoho,Java 8,342,21094400
+33658433,135,1514329394,2147483647,B,1600,brute force-geometry-math,flyman3046,Java 8,310,20684800
+33387143,135,1513616639,2147483647,A,1400,greedy-implementation-sortings,WisdenCoder,Java 8,842,20889600
+33209855,135,1513161266,2147483647,A,1400,greedy-implementation-sortings,ashcodish,Java 8,1184,21401600
+33013572,135,1512704889,2147483647,A,1400,greedy-implementation-sortings,flyman3046,Java 8,372,20889600
+32136422,135,1510137028,2147483647,B,1600,brute force-geometry-math,Omar_Morsi,Java 8,280,0
+31982819,135,1509631957,2147483647,A,1400,greedy-implementation-sortings,ShafinKhadem,Java 8,310,0
+31968975,135,1509601940,2147483647,C,2000,constructive algorithms-games-greedy,__N__,Java 8,310,0
+31704415,135,1508924810,2147483647,A,1400,greedy-implementation-sortings,MQstafa,Java 8,1216,0
+31122987,135,1507395219,2147483647,A,1400,greedy-implementation-sortings,sjain281297,Java 8,310,0
+28347701,135,1499424528,2147483647,A,1400,greedy-implementation-sortings,adityagupta1089,Java 8,374,20889600
+27956974,135,1498105943,2147483647,A,1400,greedy-implementation-sortings,xodiac,Java 8,372,21196800
+27711982,135,1497133165,2147483647,A,1400,greedy-implementation-sortings,demonsbane,Java 8,374,5427200
+26791032,135,1493665646,2147483647,C,2000,constructive algorithms-games-greedy,Kammola,Java 8,280,20582400
+26670517,135,1493151839,2147483647,B,1600,brute force-geometry-math,pitfall,Java 8,248,20582400
+26066069,135,1491087275,2147483647,A,1400,greedy-implementation-sortings,shuliqi,Java 8,1248,21196800
+25711342,135,1490186655,2147483647,A,1400,greedy-implementation-sortings,venky1001,Java 8,372,20787200
+25711231,135,1490186434,2147483647,A,1400,greedy-implementation-sortings,ashwin9686,Java 8,342,20889600
+25529334,135,1489602494,2147483647,A,1400,greedy-implementation-sortings,Amore_coder,Java 8,934,20889600
+25140812,135,1488434432,2147483647,B,1600,brute force-geometry-math,jwozniak,Java 8,280,20992000
+25140752,135,1488434096,2147483647,B,1600,brute force-geometry-math,jwozniak,Java 8,280,21094400
+24639946,135,1487034206,2147483647,A,1400,greedy-implementation-sortings,di_halt,Java 8,436,21504000
+24562098,135,1486700919,2147483647,B,1600,brute force-geometry-math,di_halt,Java 8,342,20582400
+24284149,135,1485848716,2147483647,A,1400,greedy-implementation-sortings,OneClickAC,Java 8,404,20787200
+23524789,135,1483479494,2147483647,A,1400,greedy-implementation-sortings,Ahmad,Java 8,468,21913600
+23406104,135,1483039321,2147483647,A,1400,greedy-implementation-sortings,Omar_Morsi,Java 8,434,20684800
+22824658,135,1481251148,2147483647,A,1400,greedy-implementation-sortings,eightnoteight,Java 8,372,0
+22016072,135,1478185914,2147483647,B,1600,brute force-geometry-math,Petruchcho,Java 8,374,0
+22015145,135,1478183381,2147483647,A,1400,greedy-implementation-sortings,Sehnsucht,Java 8,436,0
+22013992,135,1478180814,2147483647,C,2000,constructive algorithms-games-greedy,Sehnsucht,Java 8,498,204800
+21876510,135,1477759062,2147483647,A,1400,greedy-implementation-sortings,HimachalLad,Java 8,342,0
+21876453,135,1477758921,2147483647,A,1400,greedy-implementation-sortings,HimachalLad,Java 8,310,0
+21779956,135,1477422860,2147483647,A,1400,greedy-implementation-sortings,pitfall,Java 8,404,0
+21656130,135,1477105485,2147483647,A,1400,greedy-implementation-sortings,safarisoul,Java 8,372,0
+21418219,135,1476432492,2147483647,A,1400,greedy-implementation-sortings,anuj64,Java 8,280,21094400
+21418163,135,1476432278,2147483647,A,1400,greedy-implementation-sortings,anuj64,Java 8,436,21401600
+21418150,135,1476432201,2147483647,A,1400,greedy-implementation-sortings,anuj64,Java 8,310,21094400
+21418109,135,1476432050,2147483647,A,1400,greedy-implementation-sortings,anuj64,Java 8,374,21094400
+21418087,135,1476431942,2147483647,A,1400,greedy-implementation-sortings,anuj64,Java 8,560,21196800
+21252322,135,1475825792,2147483647,A,1400,greedy-implementation-sortings,shahsaurabh0605,Java 8,372,21094400
+20680169,135,1474110265,2147483647,A,1400,greedy-implementation-sortings,Hartha,Java 8,778,0
+19596823,135,1470225161,2147483647,A,1400,greedy-implementation-sortings,kuldeeppatel,Java 7,278,0
+19200455,135,1468815333,2147483647,A,1400,greedy-implementation-sortings,wonkyoung711,Java 7,1434,0
+17261130,135,1460274057,2147483647,A,1400,greedy-implementation-sortings,chrisyhsun,Java 8,1246,0
+17012028,135,1459209807,2147483647,C,2000,constructive algorithms-games-greedy,kon0x,Java 8,248,20889600
+16934170,135,1458924828,2147483647,C,2000,constructive algorithms-games-greedy,Sumeet.Varma,Java 8,278,20480000
+16023146,135,1455478242,2147483647,B,1600,brute force-geometry-math,Mohamed_AboBakr,Java 8,312,0
+15771271,135,1454511383,2147483647,A,1400,greedy-implementation-sortings,JohnnyJi,Java 8,312,0
+14928586,135,1450805434,2147483647,A,1400,greedy-implementation-sortings,vcfl,Java 8,1152,0
+14904684,135,1450644798,2147483647,A,1400,greedy-implementation-sortings,Ahmad_Elsagheer,Java 8,342,0
+14904663,135,1450644639,2147483647,A,1400,greedy-implementation-sortings,Ahmad_Elsagheer,Java 8,404,0
+14904650,135,1450644571,2147483647,A,1400,greedy-implementation-sortings,Ahmad_Elsagheer,Java 8,904,0
+14904619,135,1450644394,2147483647,A,1400,greedy-implementation-sortings,Ahmad_Elsagheer,Java 8,748,0
+14771576,135,1449921685,2147483647,A,1400,greedy-implementation-sortings,AJ_Coder,Java 7,716,0
+14100257,135,1446792551,2147483647,C,2000,constructive algorithms-games-greedy,KaatheStalker,Java 8,310,0
+14090562,135,1446732854,2147483647,C,2000,constructive algorithms-games-greedy,PalmZE,Java 8,280,0
+13806905,135,1445598144,2147483647,A,1400,greedy-implementation-sortings,snrahul,Java 7,248,0
+13606660,135,1444825387,2147483647,A,1400,greedy-implementation-sortings,atomota,Java 8,1402,0
+12906011,135,1441780750,2147483647,A,1400,greedy-implementation-sortings,Trasier,Java 7,248,0
+12787263,135,1441017757,2147483647,B,1600,brute force-geometry-math,sweiss,Java 8,248,0
+12592988,135,1439923960,2147483647,E,2800,combinatorics,mz_observer,Java 8,312,0
+12592946,135,1439923695,2147483647,E,2800,combinatorics,mz_observer,Java 8,951,0
+12550953,135,1439660779,2147483647,C,2000,constructive algorithms-games-greedy,alibaba,Java 7,156,0
+12295098,135,1438365561,2147483647,A,1400,greedy-implementation-sortings,2468,Java 8,342,0
+12244077,135,1438023453,2147483647,A,1400,greedy-implementation-sortings,.tx,Java 8,342,0
+12125708,135,1437372345,2147483647,A,1400,greedy-implementation-sortings,bharanikrishna7,Java 8,624,0
+12124511,135,1437360527,2147483647,A,1400,greedy-implementation-sortings,00h00h00h,Java 8,310,0
+12110597,135,1437252795,2147483647,A,1400,greedy-implementation-sortings,TWO_POINTER,Java 8,1184,0
+11770474,135,1435310120,2147483647,A,1400,greedy-implementation-sortings,nguyenmanhphuc,Java 7,622,0
+11574912,135,1434235939,2147483647,B,1600,brute force-geometry-math,tempTest1,Java 7,186,0
+11573781,135,1434227294,2147483647,A,1400,greedy-implementation-sortings,Abkreno94,Java 8,342,716800
+11332887,135,1432816743,2147483647,A,1400,greedy-implementation-sortings,turmoil,Java 8,342,0
+11274153,135,1432620720,2147483647,A,1400,greedy-implementation-sortings,Amr_Hassan,Java 7,280,0
+11140838,135,1432016355,2147483647,B,1600,brute force-geometry-math,poikniok,Java 8,248,0
+11140673,135,1432014669,2147483647,B,1600,brute force-geometry-math,poikniok,Java 8,248,0
+10990640,135,1430683087,2147483647,A,1400,greedy-implementation-sortings,sweiss,Java 8,372,0
+10958673,135,1430450766,2147483647,B,1600,brute force-geometry-math,xiaowuc1,Java 7,186,47718400
+10546494,135,1427929088,2147483647,D,2400,brute force-dfs and similar-implementation,A.Elahi,Java 8,810,33177600
+10510045,135,1427590114,2147483647,A,1400,greedy-implementation-sortings,Badry,Java 7,1122,0
+10429422,135,1427265289,2147483647,B,1600,brute force-geometry-math,Phicar,Java 7,248,0
+10427717,135,1427236315,2147483647,A,1400,greedy-implementation-sortings,Phicar,Java 7,310,2150400
+10427712,135,1427236270,2147483647,A,1400,greedy-implementation-sortings,Steve9502,Java 7,310,2150400
+9958503,135,1424601674,2147483647,B,1600,brute force-geometry-math,YakutovDmitriy,Java 8,248,0
+9924923,135,1424345018,2147483647,A,1400,greedy-implementation-sortings,Eran,Java 8,654,0
+9773500,135,1423416360,2147483647,A,1400,greedy-implementation-sortings,AStepanov,Java 8,342,0
+9452825,135,1421532302,2147483647,A,1400,greedy-implementation-sortings,AIDOS,Java 7,310,0
+9441855,135,1421400512,2147483647,B,1600,brute force-geometry-math,upsolving,Java 7,186,0
+9390242,135,1420786600,2147483647,A,1400,greedy-implementation-sortings,AbdelrahmanAsal,Java 6,872,0
+9390239,135,1420786587,2147483647,A,1400,greedy-implementation-sortings,AbdelrahmanAsal,Java 6,904,0
+9369898,135,1420524249,2147483647,D,2400,brute force-dfs and similar-implementation,AlexFetisov,Java 8,434,29798400
+9369634,135,1420519085,3425,C,2000,constructive algorithms-games-greedy,AlexFetisov,Java 8,280,0
+9369549,135,1420516669,1009,B,1600,brute force-geometry-math,AlexFetisov,Java 8,312,0
+9369516,135,1420516021,361,A,1400,greedy-implementation-sortings,AlexFetisov,Java 8,342,0
+9262661,135,1419470958,2147483647,A,1400,greedy-implementation-sortings,poikniok,Java 8,342,0
+9262646,135,1419470793,2147483647,A,1400,greedy-implementation-sortings,poikniok,Java 8,342,0
+9184361,135,1418892398,2147483647,A,1400,greedy-implementation-sortings,M_W,Java 7,1590,0
+8990355,135,1417779973,2147483647,A,1400,greedy-implementation-sortings,robert_nabil20022002,Java 7,966,2764800
+8474717,135,1414623416,2147483647,A,1400,greedy-implementation-sortings,tomash_em,Java 7,342,4915200
+8460073,135,1414518346,2147483647,B,1600,brute force-geometry-math,alibaba,Java 8,498,2560000
+8081376,135,1412464448,2147483647,B,1600,brute force-geometry-math,miguelmaurizio,Java 7,154,0
+8069411,135,1412346734,2147483647,A,1400,greedy-implementation-sortings,NoCakeNoCode,Java 7,1152,512000
+7604950,135,1409140907,2147483647,A,1400,greedy-implementation-sortings,KaVaBUnGO,Java 6,280,307200
+7425885,135,1407751730,2147483647,A,1400,greedy-implementation-sortings,jcomputer000,Java 7,1216,307200
+7304511,135,1406872730,2147483647,A,1400,greedy-implementation-sortings,upsolving,Java 7,278,307200
+7303898,135,1406866163,2147483647,A,1400,greedy-implementation-sortings,stevegregg,Java 6,654,307200
+6986276,135,1404133843,2147483647,A,1400,greedy-implementation-sortings,ihkus,Java 7,248,204800
+6986246,135,1404133476,2147483647,A,1400,greedy-implementation-sortings,owenomar,Java 7,1090,409600
+6984944,135,1404119987,2147483647,B,1600,brute force-geometry-math,sousnake,Java 7,156,0
+6969765,135,1403873496,2147483647,A,1400,greedy-implementation-sortings,Satayev,Java 8,1902,3788800
+6912772,135,1403185075,2147483647,A,1400,greedy-implementation-sortings,tomdmitriev,Java 8,810,2252800
+6519998,135,1399002462,2147483647,B,1600,brute force-geometry-math,0p9o8i,Java 7,156,102400
+5893507,135,1391503629,2147483647,A,1400,greedy-implementation-sortings,bananaprince,Java 7,278,307200
+5607895,135,1388715525,2147483647,A,1400,greedy-implementation-sortings,0p9o8i,Java 7,218,204800
+5206783,135,1385280931,2147483647,A,1400,greedy-implementation-sortings,rearmlkp,Java 7,280,102400
+5163783,135,1384882777,2147483647,A,1400,greedy-implementation-sortings,alibaba,Java 6,530,1843200
+4359164,135,1377645337,2147483647,B,1600,brute force-geometry-math,vvenkai,Java 7,156,0
+4323645,135,1377169354,2147483647,A,1400,greedy-implementation-sortings,Sokolov,Java 7,280,204800
+4322164,135,1377137513,2147483647,B,1600,brute force-geometry-math,DiegoAE,Java 6,156,0
+4322075,135,1377135425,2147483647,B,1600,brute force-geometry-math,santjuan,Java 7,156,0
+4322006,135,1377134418,2147483647,B,1600,brute force-geometry-math,mkirsche,Java 6,248,409600
+4321680,135,1377120194,2147483647,B,1600,brute force-geometry-math,santjuan,Java 7,186,0
+4235550,135,1375767189,2147483647,B,1600,brute force-geometry-math,DoublePointer,Java 7,218,102400
+4098233,135,1374138637,2147483647,A,1400,greedy-implementation-sortings,DoublePointer,Java 6,280,2764800
+3850329,135,1370775624,2147483647,A,1400,greedy-implementation-sortings,0p9o8i,Java 7,562,409600
+3820183,135,1370305414,2147483647,B,1600,brute force-geometry-math,Footman,Java 7,171,204800
+3817532,135,1370232698,2147483647,A,1400,greedy-implementation-sortings,prantor,Java 7,546,512000
+3812007,135,1370104286,2147483647,A,1400,greedy-implementation-sortings,Pshenichnoe,Java 7,203,307200
+3168308,135,1361462907,2147483647,A,1400,greedy-implementation-sortings,mkirsche,Java 6,703,409600
+2622962,135,1353530308,2147483647,A,1400,greedy-implementation-sortings,dieHardCoder,Java 7,609,409600
+2562197,135,1352969585,2147483647,C,2000,constructive algorithms-games-greedy,Azat_Yusupov,Java 6,109,307200
+2474704,135,1351694262,2147483647,A,1400,greedy-implementation-sortings,Bambam,Java 7,265,409600
+2474689,135,1351694027,2147483647,A,1400,greedy-implementation-sortings,Bambam,Java 7,265,409600
+2435491,135,1351203509,2147483647,C,2000,constructive algorithms-games-greedy,Kornacker,Java 6,93,0
+2435460,135,1351202213,2147483647,A,1400,greedy-implementation-sortings,Kornacker,Java 6,265,409600
+2269631,135,1348936367,2147483647,A,1400,greedy-implementation-sortings,Maddy,Java 7,593,409600
+2269600,135,1348935587,2147483647,A,1400,greedy-implementation-sortings,Maddy,Java 7,671,409600
+2269357,135,1348930070,2147483647,A,1400,greedy-implementation-sortings,Bambam,Java 7,421,512000
+2096166,135,1346806640,2147483647,A,1400,greedy-implementation-sortings,Lindsey,Java 6,720,45465600
+1986032,135,1344273011,2147483647,A,1400,greedy-implementation-sortings,ivmsg,Java 7,690,45568000
+1965762,135,1343756051,2147483647,E,2800,combinatorics,ysyshtc,Java 6,3480,111923200
+1936977,135,1343153535,2147483647,A,1400,greedy-implementation-sortings,kanhabhu,Java 7,640,45465600
+1934436,135,1343106191,2147483647,A,1400,greedy-implementation-sortings,vjudge1,Java 6,690,43724800
+1812905,135,1340315732,2147483647,A,1400,greedy-implementation-sortings,c.utkarsh777,Java 6,880,43724800
+1812903,135,1340315371,2147483647,A,1400,greedy-implementation-sortings,c.utkarsh777,Java 7,800,45670400
+1802574,135,1339682305,2147483647,A,1400,greedy-implementation-sortings,rockstartiwari,Java 6,390,43520000
+1650012,135,1335994066,2147483647,A,1400,greedy-implementation-sortings,nickbuelich,Java 6,360,43520000
+1370758,135,1331935214,2147483647,A,1400,greedy-implementation-sortings,goodsky,Java 6,640,43622400
+1156792,135,1328660741,2147483647,A,1400,greedy-implementation-sortings,peking2,Java 6,660,43520000
+1131230,135,1328117197,2147483647,C,2000,constructive algorithms-games-greedy,mostafa_fahim,Java 6,130,43212800
+1112790,135,1327331726,2147483647,A,1400,greedy-implementation-sortings,golyj_na_stole,Java 6,200,43520000
+1071059,135,1326783911,2147483647,A,1400,greedy-implementation-sortings,S.Yesipenko,Java 6,190,43520000
+1051701,135,1326716539,2147483647,B,1600,brute force-geometry-math,nativea,Java 6,80,43008000
+1027876,135,1326189309,2147483647,A,1400,greedy-implementation-sortings,PushistikTima,Java 6,630,43622400
+997780,135,1325667085,2147483647,A,1400,greedy-implementation-sortings,altais,Java 6,220,43417600
+991518,135,1325218186,2147483647,A,1400,greedy-implementation-sortings,ilovepink,Java 6,660,43520000
+991257,135,1325187745,2147483647,B,1600,brute force-geometry-math,mostafa_fahim,Java 6,110,43315200
+987202,135,1324911475,2147483647,B,1600,brute force-geometry-math,hama-du,Java 6,110,43110400
+987200,135,1324911456,2147483647,A,1400,greedy-implementation-sortings,hama-du,Java 6,380,43520000
+974097,135,1324722552,2147483647,A,1400,greedy-implementation-sortings,jaaro,Java 6,630,43520000
+972824,135,1324632735,2147483647,A,1400,greedy-implementation-sortings,malcolm,Java 6,590,43724800
+972808,135,1324631800,2147483647,A,1400,greedy-implementation-sortings,malcolm,Java 6,550,43622400
+972806,135,1324631725,2147483647,A,1400,greedy-implementation-sortings,malcolm,Java 6,580,43622400
+972805,135,1324631640,2147483647,A,1400,greedy-implementation-sortings,malcolm,Java 6,550,43622400
+971698,135,1324564323,2147483647,B,1600,brute force-geometry-math,Ahmed.Ibrahem,Java 6,190,43315200
+971696,135,1324564301,2147483647,A,1400,greedy-implementation-sortings,Ahmed.Ibrahem,Java 6,520,43520000
+971679,135,1324563438,2147483647,B,1600,brute force-geometry-math,Azat_Yusupov,Java 6,130,43212800
+971678,135,1324563371,2147483647,A,1400,greedy-implementation-sortings,Azat_Yusupov,Java 6,250,43417600
+970637,135,1324476532,2147483647,B,1600,brute force-geometry-math,aura,Java 6,110,43212800
+965013,135,1324105768,2147483647,A,1400,greedy-implementation-sortings,xiaowuc1,Java 6,380,43622400
+963524,135,1324044125,2147483647,C,2000,constructive algorithms-games-greedy,Ahmed_Salama,Java 6,90,43110400
+963154,135,1324037971,2147483647,A,1400,greedy-implementation-sortings,Jamolbek,Java 6,660,43520000
+962999,135,1324035490,2147483647,A,1400,greedy-implementation-sortings,Payam,Java 6,610,43622400
+957260,135,1324012429,2147483647,B,1600,brute force-geometry-math,darkl0rd,Java 6,110,43212800
+957213,135,1324008461,2147483647,A,1400,greedy-implementation-sortings,darkl0rd,Java 6,720,43520000
+957059,135,1323982361,2147483647,A,1400,greedy-implementation-sortings,Ahmed_Gad,Java 6,630,43520000
+956997,135,1323977336,2147483647,B,1600,brute force-geometry-math,Ahmed_Gad,Java 6,110,43110400
+956828,135,1323970009,2147483647,A,1400,greedy-implementation-sortings,iksuy,Java 6,230,43315200
+956474,135,1323954604,2147483647,A,1400,greedy-implementation-sortings,OthoMilo,Java 6,670,43622400
+956247,135,1323940187,2147483647,D,2400,brute force-dfs and similar-implementation,zhymaoiing,Java 6,420,62566400
+956242,135,1323939820,2147483647,A,1400,greedy-implementation-sortings,Andreos,Java 6,670,43520000
+955482,135,1323885718,2147483647,A,1400,greedy-implementation-sortings,rayevg,Java 6,230,43520000
+955172,135,1323871607,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2750,140185600
+955163,135,1323871370,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2780,140288000
+955159,135,1323871251,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2650,140083200
+955156,135,1323871187,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2810,140083200
+955140,135,1323870777,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2590,140288000
+955107,135,1323869690,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1720,129126400
+955106,135,1323869605,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1750,129126400
+955097,135,1323869175,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1720,137011200
+955095,135,1323869146,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1690,129126400
+955092,135,1323869109,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1760,137011200
+955091,135,1323869080,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1630,129126400
+955090,135,1323869041,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1690,137113600
+955088,135,1323868955,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1760,129126400
+955083,135,1323868715,2147483647,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1940,137113600
+954992,135,1323858049,414949,A,1400,greedy-implementation-sortings,cyon,Java 6,780,43520000
+954640,135,1323443204,104,A,1400,greedy-implementation-sortings,Skater,Java 6,690,43520000
+954536,135,1323809123,366023,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1640,137113600
+954528,135,1323808598,365498,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1630,129228800
+954526,135,1323808532,365432,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2970,130252800
+954522,135,1323808470,365370,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2950,138035200
+954521,135,1323808447,365347,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2950,137523200
+954501,135,1323806704,363604,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,2940,138240000
+954496,135,1323806652,363552,D,2400,brute force-dfs and similar-implementation,dusty.and.rusty,Java 6,1660,137113600
+954083,135,1323786194,343094,A,1400,greedy-implementation-sortings,wackloner,Java 6,450,43520000
+954080,135,1323786175,343075,B,1600,brute force-geometry-math,wackloner,Java 6,140,43008000
+953670,135,1323761950,318850,C,2000,constructive algorithms-games-greedy,chronotable,Java 6,110,43110400
+953483,135,1323747051,303951,E,2800,combinatorics,uwi,Java 6,2030,66662400
+952918,135,1323698567,255467,B,1600,brute force-geometry-math,ahmad_mamdouh,Java 6,130,43008000
+952917,135,1323698558,255458,A,1400,greedy-implementation-sortings,ahmad_mamdouh,Java 6,410,43622400
+952733,135,1323689102,246002,E,2800,combinatorics,FattyPenguin,Java 6,3090,43212800
+952655,135,1323684999,241899,B,1600,brute force-geometry-math,chronotable,Java 6,140,43212800
+952592,135,1323680142,237042,A,1400,greedy-implementation-sortings,boost,Java 6,690,43520000
+952140,135,1323639457,196357,A,1400,greedy-implementation-sortings,Venom,Java 6,420,43622400
+952005,135,1323630296,187196,B,1600,brute force-geometry-math,Izot_NNSTU,Java 6,550,43417600
+952001,135,1323630163,187063,A,1400,greedy-implementation-sortings,Izot_NNSTU,Java 6,500,43520000
+951926,135,1323624799,181699,C,2000,constructive algorithms-games-greedy,islam-al-aarag,Java 6,130,43110400
+951797,135,1323616539,173439,C,2000,constructive algorithms-games-greedy,Alex_by,Java 6,140,43110400
+951699,135,1323612373,169273,A,1400,greedy-implementation-sortings,Alex_by,Java 6,500,43520000
+951550,135,1323606554,163454,A,1400,greedy-implementation-sortings,chronotable,Java 6,440,43520000
+951045,135,1323584493,141393,D,2400,brute force-dfs and similar-implementation,AlexDmitriev,Java 6,580,105267200
+950914,135,1323580002,136902,A,1400,greedy-implementation-sortings,wiye.cheng,Java 6,800,43622400
+950752,135,1323564756,121656,A,1400,greedy-implementation-sortings,islam-al-aarag,Java 6,440,43520000
+949369,135,1323512499,69399,D,2400,brute force-dfs and similar-implementation,uwi,Java 6,1310,222412800
+949364,135,1323512281,69181,D,2400,brute force-dfs and similar-implementation,uwi,Java 6,1230,203776000
+949140,135,1323506867,63767,D,2400,brute force-dfs and similar-implementation,Egor,Java 6,450,99532800
+948975,135,1323502790,59690,C,2000,constructive algorithms-games-greedy,stevenkplus,Java 6,130,43110400
+948918,135,1323501708,58608,A,1400,greedy-implementation-sortings,stevenkplus,Java 6,440,43417600
+948845,135,1323500748,57648,B,1600,brute force-geometry-math,stevenkplus,Java 6,140,43212800
+948771,135,1323498941,55841,B,1600,brute force-geometry-math,Sinner,Java 6,130,43212800
+948326,135,1323488636,45536,A,1400,greedy-implementation-sortings,mukku,Java 6,670,43622400
+948249,135,1323487048,43948,B,1600,brute force-geometry-math,Di735,Java 6,140,43212800
+948230,135,1323486644,43544,D,2400,brute force-dfs and similar-implementation,Di735,Java 6,360,107212800
+948226,135,1323486605,43505,D,2400,brute force-dfs and similar-implementation,Di735,Java 6,360,99532800
+948123,135,1323484931,41831,A,1400,greedy-implementation-sortings,tux1986,Java 6,420,43520000
+947931,135,1323479397,36297,A,1400,greedy-implementation-sortings,nin_ten,Java 6,920,43724800
+947820,135,1323476399,33299,D,2400,brute force-dfs and similar-implementation,YuukaKazami,Java 6,770,134451200
+947761,135,1323474668,31568,D,2400,brute force-dfs and similar-implementation,mmaxio,Java 6,270,99123200
+947751,135,1323474372,31272,D,2400,brute force-dfs and similar-implementation,yaro,Java 6,480,103628800
+947662,135,1323471542,28442,D,2400,brute force-dfs and similar-implementation,torrentlord,Java 6,2390,143155200
+947633,135,1323470680,27580,D,2400,brute force-dfs and similar-implementation,ivan.popelyshev,Java 6,610,97280000
+947496,135,1323468324,25224,A,1400,greedy-implementation-sortings,ravelo1991,Java 6,390,43622400
+947404,135,1323466950,23850,A,1400,greedy-implementation-sortings,Nox,Java 6,270,43520000
+947324,135,1323466221,23121,C,2000,constructive algorithms-games-greedy,Hadi_Asiaie,Java 6,130,43315200
+947290,135,1323465958,22858,D,2400,brute force-dfs and similar-implementation,tanzaku,Java 6,590,58675200
+947283,135,1323465903,22803,B,1600,brute force-geometry-math,Jokser,Java 6,130,43212800
+947163,135,1323465060,21960,D,2400,brute force-dfs and similar-implementation,Berestinsky,Java 6,1390,167628800
+947111,135,1323464361,21261,A,1400,greedy-implementation-sortings,Sinner,Java 6,220,43520000
+946794,135,1323450187,7087,E,2800,combinatorics,ivan.popelyshev,Java 6,3730,59494400
+946279,135,1323449766,6666,C,2000,constructive algorithms-games-greedy,Kornacker,Java 6,170,43315200
+946154,135,1323449649,6549,A,1400,greedy-implementation-sortings,sayuan,Java 6,470,43622400
+946125,135,1323449622,6522,C,2000,constructive algorithms-games-greedy,AlexErofeev,Java 6,420,53452800
+945811,135,1323449286,6186,C,2000,constructive algorithms-games-greedy,sayuan,Java 6,200,43315200
+945713,135,1323449188,6088,B,1600,brute force-geometry-math,PolarNick,Java 6,130,43212800
+945676,135,1323449145,6045,C,2000,constructive algorithms-games-greedy,shavkat,Java 6,190,43315200
+945654,135,1323449120,6020,A,1400,greedy-implementation-sortings,Abra,Java 6,300,43520000
+945448,135,1323448881,5781,C,2000,constructive algorithms-games-greedy,bjin,Java 6,130,43417600
+945347,135,1323448776,5676,C,2000,constructive algorithms-games-greedy,piotr.kukla,Java 6,140,43315200
+945342,135,1323448773,5673,B,1600,brute force-geometry-math,Kornacker,Java 6,170,43315200
+945208,135,1323448640,5540,C,2000,constructive algorithms-games-greedy,S.Yesipenko,Java 6,140,43315200
+945168,135,1323448597,5497,C,2000,constructive algorithms-games-greedy,tanzaku,Java 6,250,43315200
+944788,135,1323448170,5070,A,1400,greedy-implementation-sortings,nanikaka,Java 6,1200,43622400
+944648,135,1323448018,4918,C,2000,constructive algorithms-games-greedy,tsukuno,Java 6,220,43212800
+944599,135,1323447982,4882,C,2000,constructive algorithms-games-greedy,Jokser,Java 6,200,43417600
+944522,135,1323447896,4796,C,2000,constructive algorithms-games-greedy,yarrr,Java 6,160,43315200
+944425,135,1323447795,4695,C,2000,constructive algorithms-games-greedy,dusty.and.rusty,Java 6,140,43212800
+944373,135,1323447746,4646,C,2000,constructive algorithms-games-greedy,ArtemKadeev,Java 6,140,43417600
+944337,135,1323447715,4615,C,2000,constructive algorithms-games-greedy,TheRaven,Java 6,200,43212800
+944211,135,1323447574,4474,B,1600,brute force-geometry-math,nanikaka,Java 6,1970,43315200
+944127,135,1323447492,4392,B,1600,brute force-geometry-math,yaro,Java 6,170,43212800
+943887,135,1323447252,4152,C,2000,constructive algorithms-games-greedy,kreep,Java 6,130,43315200
+943882,135,1323447246,4146,C,2000,constructive algorithms-games-greedy,uwi,Java 6,130,43212800
+943673,135,1323447046,3946,C,2000,constructive algorithms-games-greedy,SergeyLazarev,Java 6,130,43315200
+943222,135,1323446613,3513,C,2000,constructive algorithms-games-greedy,YuukaKazami,Java 6,220,43315200
+943158,135,1323446564,3464,B,1600,brute force-geometry-math,piotr.kukla,Java 6,220,43315200
+942966,135,1323446387,3287,C,2000,constructive algorithms-games-greedy,torrentlord,Java 6,160,43315200
+942734,135,1323446179,3079,C,2000,constructive algorithms-games-greedy,mmaxio,Java 6,130,43315200
+942619,135,1323446091,2991,B,1600,brute force-geometry-math,Slamur,Java 6,170,43724800
+942534,135,1323446019,2919,C,2000,constructive algorithms-games-greedy,Di735,Java 6,130,43315200
+942364,135,1323445872,2772,C,2000,constructive algorithms-games-greedy,ivan.popelyshev,Java 6,160,43417600
+942340,135,1323445857,2757,B,1600,brute force-geometry-math,dusty.and.rusty,Java 6,220,43315200
+942281,135,1323445802,2702,B,1600,brute force-geometry-math,Hadi_Asiaie,Java 6,190,43212800
+942235,135,1323445768,2668,C,2000,constructive algorithms-games-greedy,shevchen,Java 6,130,43315200
+942050,135,1323445637,2537,B,1600,brute force-geometry-math,TheRaven,Java 6,190,43315200
+941983,135,1323445584,2484,B,1600,brute force-geometry-math,sayuan,Java 6,220,43315200
+941856,135,1323445486,2386,B,1600,brute force-geometry-math,AlexErofeev,Java 6,160,43315200
+941588,135,1323445306,2206,B,1600,brute force-geometry-math,Ahmed_Salama,Java 6,200,43315200
+941568,135,1323445292,2192,C,2000,constructive algorithms-games-greedy,Egor,Java 6,130,43212800
+941554,135,1323445280,2180,B,1600,brute force-geometry-math,ArtemKadeev,Java 6,160,43315200
+941525,135,1323445261,2161,B,1600,brute force-geometry-math,tanzaku,Java 6,220,43315200
+941392,135,1323445174,2074,C,2000,constructive algorithms-games-greedy,yaro,Java 6,110,43212800
+941285,135,1323445120,2020,B,1600,brute force-geometry-math,Abra,Java 6,160,43315200
+941278,135,1323445117,2017,B,1600,brute force-geometry-math,S.Yesipenko,Java 6,140,43212800
+941160,135,1323445042,1942,B,1600,brute force-geometry-math,SergeyLazarev,Java 6,190,43212800
+941128,135,1323445018,1918,B,1600,brute force-geometry-math,islam-al-aarag,Java 6,220,43315200
+940974,135,1323444923,1823,B,1600,brute force-geometry-math,yarrr,Java 6,160,43212800
+940935,135,1323444906,1806,B,1600,brute force-geometry-math,mmaxio,Java 6,190,43212800
+940816,135,1323444837,1737,B,1600,brute force-geometry-math,kreep,Java 6,160,43417600
+940802,135,1323444831,1731,B,1600,brute force-geometry-math,torrentlord,Java 6,220,43315200
+940783,135,1323444818,1718,B,1600,brute force-geometry-math,Jokser,Java 6,160,43315200
+940399,135,1323444601,1501,A,1400,greedy-implementation-sortings,Hadi_Asiaie,Java 6,230,43520000
+940167,135,1323444464,1364,A,1400,greedy-implementation-sortings,TheRaven,Java 6,670,43622400
+940144,135,1323444452,1352,B,1600,brute force-geometry-math,ivan.popelyshev,Java 6,160,43315200
+939975,135,1323444343,1243,B,1600,brute force-geometry-math,YuukaKazami,Java 6,130,43212800
+939715,135,1323444176,1076,B,1600,brute force-geometry-math,uwi,Java 6,170,43212800
+939495,135,1323444041,941,A,1400,greedy-implementation-sortings,AlexErofeev,Java 6,230,43622400
+939447,135,1323444011,911,A,1400,greedy-implementation-sortings,Berestinsky,Java 6,220,43520000
+939293,135,1323443928,828,A,1400,greedy-implementation-sortings,piotr.kukla,Java 6,520,43622400
+939246,135,1323443899,799,A,1400,greedy-implementation-sortings,tsukuno,Java 6,690,43724800
+939232,135,1323443888,788,A,1400,greedy-implementation-sortings,PolarNick,Java 6,410,43622400
+939195,135,1323443862,762,A,1400,greedy-implementation-sortings,Kornacker,Java 6,660,43622400
+939068,135,1323443786,686,A,1400,greedy-implementation-sortings,Slamur,Java 6,280,44032000
+939049,135,1323443775,675,A,1400,greedy-implementation-sortings,dusty.and.rusty,Java 6,410,43622400
+938998,135,1323443745,645,A,1400,greedy-implementation-sortings,m.radwan,Java 6,640,43622400
+938829,135,1323443661,561,A,1400,greedy-implementation-sortings,SergeyLazarev,Java 6,220,43622400
+938747,135,1323443626,526,A,1400,greedy-implementation-sortings,ArtemKadeev,Java 6,310,43622400
+938743,135,1323443624,524,A,1400,greedy-implementation-sortings,AlexanderBolshakov,Java 6,580,43417600
+938691,135,1323443599,499,A,1400,greedy-implementation-sortings,Ahmed_Salama,Java 6,1000,43724800
+938656,135,1323443586,486,A,1400,greedy-implementation-sortings,torrentlord,Java 6,750,43622400
+938622,135,1323443572,472,A,1400,greedy-implementation-sortings,shavkat,Java 6,770,43622400
+938620,135,1323443571,471,A,1400,greedy-implementation-sortings,Egor,Java 6,270,43520000
+938577,135,1323443559,459,A,1400,greedy-implementation-sortings,VArtem,Java 6,280,43520000
+938531,135,1323443541,441,A,1400,greedy-implementation-sortings,yaro,Java 6,360,43622400
+938482,135,1323443527,427,A,1400,greedy-implementation-sortings,ivan.popelyshev,Java 6,280,43520000
+938398,135,1323443493,393,A,1400,greedy-implementation-sortings,ant.ermilov,Java 6,360,43520000
+938302,135,1323443465,365,A,1400,greedy-implementation-sortings,YuukaKazami,Java 6,280,43520000
+938207,135,1323443442,342,A,1400,greedy-implementation-sortings,uwi,Java 6,270,43417600
+938153,135,1323443428,328,A,1400,greedy-implementation-sortings,Jokser,Java 6,360,43622400
+938087,135,1323443414,314,A,1400,greedy-implementation-sortings,tanzaku,Java 6,810,43622400
+937997,135,1323443388,288,A,1400,greedy-implementation-sortings,Di735,Java 6,340,43520000
+937962,135,1323443380,280,A,1400,greedy-implementation-sortings,mmaxio,Java 6,330,43520000
+937870,135,1323443355,255,A,1400,greedy-implementation-sortings,shevchen,Java 6,220,43520000
+937819,135,1323443339,239,A,1400,greedy-implementation-sortings,yarrr,Java 6,200,43417600
+937658,135,1323443286,186,A,1400,greedy-implementation-sortings,kreep,Java 6,390,43520000

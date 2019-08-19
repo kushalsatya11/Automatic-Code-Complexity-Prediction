@@ -1,0 +1,312 @@
+id,contestId,creationTimeSeconds,relativeTimeSeconds,problemIndex,problemRating,tags,authorhandle,programmingLanguage,timeConsumedMillis,memoryConsumedBytes
+55989124,57,1561357957,2147483647,C,1900,combinatorics-math,mennafadali,Java 8,498,0
+54985504,57,1559489229,2147483647,C,1900,combinatorics-math,youmna1,Java 8,530,0
+54591311,57,1558773996,2147483647,A,1400,dfs and similar-greedy-implementation,El-Bishoy,Java 8,218,0
+54296903,57,1558108313,2147483647,A,1400,dfs and similar-greedy-implementation,lebaur,Java 8,248,0
+52805269,57,1555385610,2147483647,B,1600,implementation,jlewis6,Java 8,404,0
+51948568,57,1553797606,2147483647,A,1400,dfs and similar-greedy-implementation,manubhai8876,Java 8,218,0
+51905920,57,1553700686,2147483647,A,1400,dfs and similar-greedy-implementation,manubhai8876,Java 8,248,0
+51560522,57,1553067999,2147483647,C,1900,combinatorics-math,zeyad_khattab,Java 8,248,0
+51467086,57,1552963695,2147483647,C,1900,combinatorics-math,Unlucky1267,Java 8,310,0
+51465244,57,1552955184,2147483647,A,1400,dfs and similar-greedy-implementation,Skysoldier,Java 8,280,0
+51464607,57,1552951287,2147483647,A,1400,dfs and similar-greedy-implementation,Unlucky1267,Java 8,280,0
+49467073,57,1549294325,2147483647,E,2900,math-shortest paths,namratha_253,Java 8,278,0
+48788238,57,1548237690,2147483647,A,1400,dfs and similar-greedy-implementation,wanderer163,Java 8,280,0
+47466790,57,1545676814,2147483647,C,1900,combinatorics-math,Kharouba,Java 8,560,0
+47191958,57,1545136843,2147483647,A,1400,dfs and similar-greedy-implementation,kunal725725,Java 8,218,0
+44548499,57,1539959078,2147483647,C,1900,combinatorics-math,random_graph,Java 8,280,0
+43743618,57,1538593929,2147483647,C,1900,combinatorics-math,Anonymous,Java 8,404,6451200
+43741273,57,1538589710,2147483647,A,1400,dfs and similar-greedy-implementation,Anonymous,Java 8,310,0
+43291009,57,1537699735,2147483647,C,1900,combinatorics-math,Nesrin,Java 8,278,0
+41309841,57,1533654958,2147483647,B,1600,implementation,omar.elbaroudy,Java 8,404,0
+39088474,57,1528623795,2147483647,A,1400,dfs and similar-greedy-implementation,mona_hashem,Java 8,248,0
+39056241,57,1528499017,2147483647,B,1600,implementation,zeyad_khattab,Java 8,434,0
+38841714,57,1527865385,2147483647,A,1400,dfs and similar-greedy-implementation,Nesrin,Java 8,278,20275200
+38779134,57,1527696350,2147483647,A,1400,dfs and similar-greedy-implementation,Hoda_Hisham,Java 8,248,20275200
+38348464,57,1526560111,2147483647,C,1900,combinatorics-math,mariem_kandil,Java 8,312,0
+37542857,57,1524447602,2147483647,A,1400,dfs and similar-greedy-implementation,Y-R,Java 8,310,21094400
+36782745,57,1522525501,2147483647,A,1400,dfs and similar-greedy-implementation,totallynotan,Java 8,280,20684800
+36146066,57,1520675546,2147483647,C,1900,combinatorics-math,Hoda_Hisham,Java 8,248,20684800
+36078253,57,1520530269,2147483647,A,1400,dfs and similar-greedy-implementation,lehar_11,Java 8,280,20992000
+35090505,57,1518181359,2147483647,B,1600,implementation,Nesrin,Java 8,436,20684800
+35062003,57,1518099890,2147483647,A,1400,dfs and similar-greedy-implementation,kocko,Java 8,248,20684800
+31921105,57,1509453377,2147483647,C,1900,combinatorics-math,Imaginary,Java 8,468,0
+30157163,57,1504711897,2147483647,A,1400,dfs and similar-greedy-implementation,MQstafa,Java 8,248,0
+29762436,57,1503611892,2147483647,C,1900,combinatorics-math,El5dewy,Java 8,466,0
+29583390,57,1503098802,2147483647,C,1900,combinatorics-math,Hossam,Java 8,280,0
+29486176,57,1502814545,2147483647,B,1600,implementation,Hossam,Java 8,342,20684800
+29485010,57,1502810850,2147483647,A,1400,dfs and similar-greedy-implementation,Hossam,Java 8,218,20480000
+29464367,57,1502733709,2147483647,C,1900,combinatorics-math,Hossam,Java 8,592,20582400
+29464320,57,1502733580,2147483647,C,1900,combinatorics-math,Hossam,Java 8,560,20582400
+29462841,57,1502729031,2147483647,C,1900,combinatorics-math,Hossam,Java 8,622,20582400
+28723202,57,1500550271,2147483647,C,1900,combinatorics-math,Omar_Morsi,Java 8,342,20582400
+28291828,57,1499218361,2147483647,A,1400,dfs and similar-greedy-implementation,amazhang,Java 8,374,20992000
+28284820,57,1499184523,2147483647,B,1600,implementation,tomdmitriev,Java 8,340,20582400
+28284778,57,1499184361,2147483647,B,1600,implementation,tomdmitriev,Java 8,310,20582400
+25867105,57,1490684683,2147483647,A,1400,dfs and similar-greedy-implementation,john821216,Java 8,280,20889600
+25457775,57,1489421252,2147483647,C,1900,combinatorics-math,AJ_Coder,Java 8,280,20480000
+25204178,57,1488614541,2147483647,B,1600,implementation,vjudge3,Java 8,1122,21094400
+23108227,57,1482073182,2147483647,A,1400,dfs and similar-greedy-implementation,da_201501181,Java 8,310,28057600
+22038197,57,1478275532,2147483647,C,1900,combinatorics-math,F.H.N.98,Java 8,310,0
+21769606,57,1477394668,2147483647,A,1400,dfs and similar-greedy-implementation,lehar,Java 8,342,0
+20599600,57,1473799655,2147483647,B,1600,implementation,Ahmad_Elsagheer,Java 8,404,0
+20596980,57,1473792411,2147483647,C,1900,combinatorics-math,Ahmad_Elsagheer,Java 8,372,0
+20570606,57,1473782168,2147483647,A,1400,dfs and similar-greedy-implementation,Ahmad_Elsagheer,Java 8,248,0
+20216291,57,1472405832,2147483647,C,1900,combinatorics-math,stacy992,Java 8,280,0
+19943205,57,1471511871,2147483647,B,1600,implementation,Fawzia,Java 8,1184,20889600
+19943111,57,1471511450,2147483647,B,1600,implementation,hosam.yousof,Java 8,528,20480000
+19943103,57,1471511417,2147483647,B,1600,implementation,AbeerRadwan,Java 8,1184,20889600
+19943084,57,1471511324,2147483647,B,1600,implementation,Fatimah_Shams,Java 8,1184,20889600
+19943061,57,1471511256,2147483647,B,1600,implementation,TahaniQadi,Java 8,1216,20889600
+19943051,57,1471511220,2147483647,B,1600,implementation,muazzam,Java 8,1154,20889600
+19943044,57,1471511197,2147483647,B,1600,implementation,Faisal_31,Java 8,496,20480000
+19942902,57,1471510619,2147483647,B,1600,implementation,faisal_f6,Java 8,436,20480000
+19942867,57,1471510452,2147483647,B,1600,implementation,MeeDooBak,Java 8,498,20480000
+19942858,57,1471510423,2147483647,B,1600,implementation,msarhan.abc.local,Java 8,404,20480000
+17309822,57,1460608409,2147483647,A,1400,dfs and similar-greedy-implementation,kws4679,Java 7,218,0
+16506963,57,1457053705,2147483647,A,1400,dfs and similar-greedy-implementation,flyman3046,Java 8,248,0
+14858340,57,1450428703,2147483647,A,1400,dfs and similar-greedy-implementation,ian9696,Java 8,248,0
+14850159,57,1450377843,2147483647,C,1900,combinatorics-math,alibaba,Java 8,342,0
+13254866,57,1443383706,2147483647,A,1400,dfs and similar-greedy-implementation,Ahmad_tarraf,Java 7,186,0
+12884147,57,1441629031,2147483647,B,1600,implementation,hama-du,Java 8,248,0
+12883789,57,1441627092,2147483647,B,1600,implementation,hama-du,Java 8,404,0
+12883455,57,1441625129,2147483647,A,1400,dfs and similar-greedy-implementation,hama-du,Java 8,218,0
+12883225,57,1441623964,2147483647,D,2400,dp-math,hama-du,Java 8,171,0
+12880957,57,1441610298,2147483647,C,1900,combinatorics-math,hama-du,Java 8,1152,0
+11373206,57,1433129963,2147483647,C,1900,combinatorics-math,Phicar,Java 7,716,0
+11081916,57,1431465556,2147483647,A,1400,dfs and similar-greedy-implementation,poikniok,Java 8,218,0
+11073484,57,1431376546,2147483647,A,1400,dfs and similar-greedy-implementation,tarek.nawara,Java 8,218,0
+10404167,57,1427052939,2147483647,A,1400,dfs and similar-greedy-implementation,AlexFetisov,Java 8,248,0
+9965482,57,1424667255,2147483647,A,1400,dfs and similar-greedy-implementation,TranCongDuy,Java 7,186,0
+9737483,57,1423234451,2147483647,D,2400,dp-math,odorf,Java 7,280,0
+9403175,57,1420982013,2147483647,A,1400,dfs and similar-greedy-implementation,marcose18,Java 6,156,0
+9360694,57,1420382764,2147483647,C,1900,combinatorics-math,AStepanov,Java 8,310,0
+8837177,57,1416840760,2147483647,B,1600,implementation,robert_nabil20022002,Java 7,1090,102400
+8619535,57,1415504613,2147483647,C,1900,combinatorics-math,vjudge5,Java 7,436,0
+8619300,57,1415500491,2147483647,B,1600,implementation,vjudge5,Java 7,372,0
+8554518,57,1415169015,2147483647,A,1400,dfs and similar-greedy-implementation,upsolving,Java 7,154,0
+7435801,57,1407856936,2147483647,A,1400,dfs and similar-greedy-implementation,owenomar,Java 7,218,0
+7198468,57,1405988034,2147483647,C,1900,combinatorics-math,marcose18,Java 7,186,0
+6518263,57,1398967437,2147483647,C,1900,combinatorics-math,Zyflair,Java 7,528,0
+6516999,57,1398954669,2147483647,B,1600,implementation,Zyflair,Java 7,184,0
+6164259,57,1395965131,2147483647,A,1400,dfs and similar-greedy-implementation,Zyflair,Java 7,156,0
+5963536,57,1394290702,2147483647,A,1400,dfs and similar-greedy-implementation,taipan,Java 6,154,0
+5864806,57,1391281597,2147483647,A,1400,dfs and similar-greedy-implementation,ELMaestro,Java 7,156,204800
+5656397,57,1389375094,2147483647,B,1600,implementation,Ahed-Alrashaida,Java 7,1122,204800
+5290600,57,1385686115,2147483647,A,1400,dfs and similar-greedy-implementation,Gochi,Java 7,156,102400
+5290579,57,1385685443,2147483647,A,1400,dfs and similar-greedy-implementation,Gochi,Java 7,124,0
+5091474,57,1384363547,2147483647,B,1600,implementation,alibaba,Java 6,436,2150400
+4781036,57,1381723928,2147483647,A,1400,dfs and similar-greedy-implementation,alibaba,Java 6,156,0
+4408271,57,1378368622,2147483647,A,1400,dfs and similar-greedy-implementation,sorin,Java 6,156,0
+4282388,57,1376575939,2147483647,A,1400,dfs and similar-greedy-implementation,0p9o8i,Java 7,156,0
+4245054,57,1376007465,2147483647,A,1400,dfs and similar-greedy-implementation,santjuan,Java 7,156,0
+4245010,57,1376004788,2147483647,A,1400,dfs and similar-greedy-implementation,DiegoAE,Java 6,156,0
+4206676,57,1375236895,2147483647,B,1600,implementation,trunghieu11,Java 7,280,0
+4001589,57,1372727009,2147483647,A,1400,dfs and similar-greedy-implementation,mkirsche,Java 6,78,2252800
+3987430,57,1372456880,2147483647,A,1400,dfs and similar-greedy-implementation,MOSJAVA,Java 7,109,0
+3935541,57,1371902543,2147483647,A,1400,dfs and similar-greedy-implementation,su_58,Java 7,78,0
+3618763,57,1366852736,2147483647,B,1600,implementation,DiegoAE,Java 6,250,102400
+3618710,57,1366850773,2147483647,B,1600,implementation,santjuan,Java 6,265,0
+3428488,57,1364751574,2147483647,A,1400,dfs and similar-greedy-implementation,CurbStomp,Java 7,78,0
+3406307,57,1364266784,2147483647,C,1900,combinatorics-math,xiaowuc1,Java 6,281,0
+2848509,57,1356691367,2147483647,A,1400,dfs and similar-greedy-implementation,timerider,Java 6,93,2252800
+2831500,57,1356578333,2147483647,C,1900,combinatorics-math,mkirsche,Java 6,171,102400
+2211230,57,1348037727,3926,A,1400,dfs and similar-greedy-implementation,mingotlik,Java 6,140,43929600
+2019032,57,1345115242,5242,C,1900,combinatorics-math,Azat_Yusupov,Java 6,310,43315200
+2018967,57,1345113783,3783,B,1600,implementation,Azat_Yusupov,Java 6,220,43417600
+2018867,57,1345111196,1196,A,1400,dfs and similar-greedy-implementation,Azat_Yusupov,Java 6,140,43315200
+1861441,57,1341350545,1345,A,1400,dfs and similar-greedy-implementation,AbdelrahmanAsal,Java 6,130,43315200
+1811836,57,1340247805,2147483647,A,1400,dfs and similar-greedy-implementation,goodsky,Java 6,170,43315200
+1668947,57,1336465463,2147483647,A,1400,dfs and similar-greedy-implementation,bidzilya,Java 7,90,44851200
+1629871,57,1335458422,2147483647,E,2900,math-shortest paths,uwi,Java 6,110,43212800
+1311005,57,1331185527,2147483647,A,1400,dfs and similar-greedy-implementation,peking2,Java 6,110,43212800
+1307603,57,1331102142,2147483647,A,1400,dfs and similar-greedy-implementation,RusRip,Java 6,90,44953600
+1173009,57,1328985546,2147483647,A,1400,dfs and similar-greedy-implementation,zulkan,Java 6,80,43110400
+987498,57,1324925369,2147483647,A,1400,dfs and similar-greedy-implementation,ilovepink,Java 6,90,43212800
+956752,57,1323966787,2147483647,C,1900,combinatorics-math,mostafa_fahim,Java 6,230,43212800
+954766,57,1323841224,27870024,A,1400,dfs and similar-greedy-implementation,stevenkplus,Java 6,130,43110400
+933630,57,1323200590,27229390,B,1600,implementation,mostafa_fahim,Java 6,970,35328000
+932447,57,1323154006,27182806,C,1900,combinatorics-math,ronaflx,Java 6,140,35328000
+930057,57,1323023637,27052437,A,1400,dfs and similar-greedy-implementation,userlond,Java 6,110,43110400
+911292,57,1322644927,26673727,A,1400,dfs and similar-greedy-implementation,wackloner,Java 6,110,35225600
+888339,57,1322088477,26117277,B,1600,implementation,xiaowuc1,Java 6,280,43212800
+873645,57,1321439727,25468527,C,1900,combinatorics-math,Azat_Yusupov,Java 6,280,43110400
+821954,57,1320066847,24095647,A,1400,dfs and similar-greedy-implementation,Sinner,Java 6,130,35225600
+795735,57,1319569747,23598547,C,1900,combinatorics-math,travm12,Java 6,500,43212800
+792786,57,1319433541,23462341,A,1400,dfs and similar-greedy-implementation,Izot_NNSTU,Java 6,130,43212800
+709556,57,1316521430,20550230,B,1600,implementation,kiko91_7,Java 6,1060,35328000
+689414,57,1315738233,19767033,B,1600,implementation,Dunaril,Java 6,920,35430400
+668597,57,1315188106,19216906,B,1600,implementation,mkirsche,Java 6,1010,35430400
+611683,57,1313384918,17413718,A,1400,dfs and similar-greedy-implementation,nickbuelich,Java 6,110,35225600
+597906,57,1312787832,16816632,A,1400,dfs and similar-greedy-implementation,Dunaril,Java 6,130,35225600
+588394,57,1312648731,16677531,C,1900,combinatorics-math,DoublePointer,Java 6,130,43008000
+587182,57,1312586703,16615503,C,1900,combinatorics-math,tehqin,Java 6,140,43110400
+587079,57,1312574249,16603049,B,1600,implementation,tehqin,Java 6,970,43212800
+587001,57,1312570483,16599283,A,1400,dfs and similar-greedy-implementation,tehqin,Java 6,140,43110400
+568881,57,1311898349,15927149,A,1400,dfs and similar-greedy-implementation,xiaowuc1,Java 6,110,43110400
+568814,57,1311889713,15918513,A,1400,dfs and similar-greedy-implementation,tux1986,Java 6,130,43110400
+553045,57,1311241702,15270502,B,1600,implementation,Nox,Java 6,250,43212800
+545036,57,1310632795,14661595,B,1600,implementation,altais,Java 6,270,35328000
+544980,57,1310628373,14657173,A,1400,dfs and similar-greedy-implementation,altais,Java 6,110,35020800
+542502,57,1310410367,14439167,A,1400,dfs and similar-greedy-implementation,Nox,Java 6,90,43008000
+541042,57,1310312881,14341681,A,1400,dfs and similar-greedy-implementation,kiko91_7,Java 6,110,43008000
+529723,57,1309950158,13978958,B,1600,implementation,vjudge4,Java 6,940,35328000
+529717,57,1309949440,13978240,C,1900,combinatorics-math,vjudge2,Java 6,280,35225600
+529709,57,1309948766,13977566,A,1400,dfs and similar-greedy-implementation,vjudge2,Java 6,110,35225600
+431934,57,1304528955,8557755,B,1600,implementation,islam-al-aarag,Java 6,340,43315200
+422037,57,1304334296,8363096,C,1900,combinatorics-math,islam-al-aarag,Java 6,90,43315200
+422022,57,1304333466,8362266,A,1400,dfs and similar-greedy-implementation,islam-al-aarag,Java 6,90,43315200
+422021,57,1304333464,8362264,A,1400,dfs and similar-greedy-implementation,Omar.Darwish,Java 6,80,43315200
+394186,57,1302957626,6986426,A,1400,dfs and similar-greedy-implementation,flash36,Java 6,110,43417600
+346647,57,1300651231,4680031,A,1400,dfs and similar-greedy-implementation,Leonid,Java 6,110,43315200
+337852,57,1300193992,4222792,A,1400,dfs and similar-greedy-implementation,pioneer,Java 6,90,43315200
+322817,57,1299437949,3466749,B,1600,implementation,SkyFire,Java 6,250,43315200
+322799,57,1299436927,3465727,A,1400,dfs and similar-greedy-implementation,SkyFire,Java 6,110,43315200
+286892,57,1297997789,2026589,D,2400,dp-math,05yesterday,Java 6,410,43315200
+286192,57,1297877478,1906278,A,1400,dfs and similar-greedy-implementation,Sulta,Java 6,110,43315200
+276361,57,1297014452,1043252,A,1400,dfs and similar-greedy-implementation,Mohamed.Ramzy,Java 6,110,43417600
+275375,57,1296884768,913568,A,1400,dfs and similar-greedy-implementation,littlealex,Java 6,90,43417600
+267702,57,1296370883,399683,B,1600,implementation,jonosuke,Java 6,420,43315200
+267679,57,1296364578,393378,A,1400,dfs and similar-greedy-implementation,jonosuke,Java 6,110,43417600
+267119,57,1296287429,316229,B,1600,implementation,diggin,Java 6,440,43315200
+266983,57,1296249307,278107,B,1600,implementation,yarrr,Java 6,250,43315200
+266911,57,1296240985,269785,C,1900,combinatorics-math,hydrastuff,Java 6,130,43315200
+266908,57,1296240729,269529,C,1900,combinatorics-math,hydrastuff,Java 6,140,43315200
+266907,57,1296240667,269467,C,1900,combinatorics-math,hydrastuff,Java 6,230,43315200
+266904,57,1296240450,269250,C,1900,combinatorics-math,hydrastuff,Java 6,360,43315200
+266902,57,1296240284,269084,C,1900,combinatorics-math,hydrastuff,Java 6,170,43315200
+266895,57,1296239613,268413,C,1900,combinatorics-math,hydrastuff,Java 6,770,43315200
+266887,57,1296238829,267629,B,1600,implementation,hydrastuff,Java 6,270,43315200
+266878,57,1296238079,266879,A,1400,dfs and similar-greedy-implementation,hydrastuff,Java 6,110,43315200
+266690,57,1296217398,246198,A,1400,dfs and similar-greedy-implementation,diggin,Java 6,110,43315200
+266454,57,1296160526,189326,C,1900,combinatorics-math,ahmadabdolkader,Java 6,110,43315200
+265950,57,1296086161,114961,C,1900,combinatorics-math,Sammarize,Java 6,280,43315200
+265935,57,1296084631,113431,B,1600,implementation,Sammarize,Java 6,270,43315200
+265932,57,1296083436,112236,A,1400,dfs and similar-greedy-implementation,Sammarize,Java 6,90,43315200
+265930,57,1296082743,111543,C,1900,combinatorics-math,Ahmed_Salama,Java 6,440,43315200
+265890,57,1296075453,104253,C,1900,combinatorics-math,Rania_Salama,Java 6,520,43315200
+265859,57,1296073169,101969,B,1600,implementation,yaro,Java 6,250,43315200
+265852,57,1296072642,101442,C,1900,combinatorics-math,pius_88,Java 6,480,43315200
+265833,57,1296069902,98702,B,1600,implementation,Abra,Java 6,910,43315200
+265765,57,1296064273,93073,D,2400,dp-math,yaro,Java 6,190,43315200
+265676,57,1296055908,84708,B,1600,implementation,Ahmed_Salama,Java 6,470,43315200
+265434,57,1296038438,67238,A,1400,dfs and similar-greedy-implementation,spongebob,Java 6,110,43315200
+265382,57,1296031198,59998,B,1600,implementation,Di735,Java 6,310,43315200
+265339,57,1296026351,55151,A,1400,dfs and similar-greedy-implementation,Di735,Java 6,90,43315200
+265334,57,1296025925,54725,D,2400,dp-math,boski.jr,Java 6,380,43417600
+265151,57,1295995691,24491,B,1600,implementation,elklarva,Java 6,940,43315200
+265102,57,1295991514,20314,B,1600,implementation,matklad,Java 6,950,43315200
+265089,57,1295990269,19069,A,1400,dfs and similar-greedy-implementation,Ahmed_Salama,Java 6,90,43315200
+265016,57,1295985893,14693,B,1600,implementation,billionerdv,Java 6,310,43315200
+264912,57,1295982468,11268,B,1600,implementation,nise_nabe,Java 6,980,43315200
+264895,57,1295982150,10950,A,1400,dfs and similar-greedy-implementation,Abra,Java 6,90,43315200
+264892,57,1295981983,10783,C,1900,combinatorics-math,Rasifiel,Java 6,190,43315200
+264872,57,1295981602,10402,D,2400,dp-math,OgieKako,Java 6,220,43315200
+264847,57,1295981209,10009,A,1400,dfs and similar-greedy-implementation,Rania_Salama,Java 6,80,43315200
+264842,57,1295981124,9924,D,2400,dp-math,uwi,Java 6,230,43315200
+264799,57,1295980476,9276,C,1900,combinatorics-math,master_j,Java 6,500,43315200
+264796,57,1295980455,9255,C,1900,combinatorics-math,Shlakoblock,Java 6,450,43315200
+264792,57,1295980420,9220,A,1400,dfs and similar-greedy-implementation,Shlakoblock,Java 6,90,43315200
+264761,57,1295980109,8909,D,2400,dp-math,SpookyCookie,Java 6,270,43417600
+264756,57,1295980036,8836,A,1400,dfs and similar-greedy-implementation,nise_nabe,Java 6,130,43315200
+264730,57,1295979846,8646,A,1400,dfs and similar-greedy-implementation,pius_88,Java 6,90,43315200
+264683,57,1295979634,8434,B,1600,implementation,Slamur,Java 6,700,43315200
+264682,57,1295979632,8432,A,1400,dfs and similar-greedy-implementation,master_j,Java 6,90,43315200
+264672,57,1295979581,8381,C,1900,combinatorics-math,wistful23,Java 6,110,43315200
+264669,57,1295979573,8373,A,1400,dfs and similar-greedy-implementation,elklarva,Java 6,90,43315200
+264508,57,1295978108,6908,D,2400,dp-math,OgieKako,Java 6,340,43315200
+264440,57,1295977918,6718,B,1600,implementation,piotr.kukla,Java 6,310,43315200
+264372,57,1295977690,6490,D,2400,dp-math,rudradevbasak,Java 6,250,43315200
+264305,57,1295977407,6207,C,1900,combinatorics-math,juver,Java 6,500,43315200
+264206,57,1295976988,5788,C,1900,combinatorics-math,S.Yesipenko,Java 6,440,43315200
+264150,57,1295976736,5536,B,1600,implementation,fahimpatel,Java 6,1050,43315200
+264102,57,1295976552,5352,D,2400,dp-math,ivan.popelyshev,Java 6,190,43315200
+263987,57,1295976162,4962,B,1600,implementation,pius_88,Java 6,230,43315200
+263973,57,1295976113,4913,C,1900,combinatorics-math,pyshnograev,Java 6,220,34816000
+263927,57,1295975974,4774,A,1400,dfs and similar-greedy-implementation,vfix,Java 6,90,43315200
+263830,57,1295975615,4415,C,1900,combinatorics-math,boski.jr,Java 6,170,43315200
+263802,57,1295975500,4300,B,1600,implementation,Rania_Salama,Java 6,1010,35430400
+263772,57,1295975400,4200,C,1900,combinatorics-math,wjomlex,Java 6,110,43315200
+263766,57,1295975391,4191,C,1900,combinatorics-math,amrSamir,Java 6,520,43315200
+263718,57,1295975256,4056,C,1900,combinatorics-math,it4.kp,Java 6,500,43315200
+263709,57,1295975213,4013,C,1900,combinatorics-math,Ignorance,Java 6,130,43315200
+263653,57,1295975064,3864,C,1900,combinatorics-math,burdakovd,Java 6,90,43315200
+263621,57,1295974955,3755,B,1600,implementation,sayuan,Java 6,1050,43315200
+263615,57,1295974943,3743,B,1600,implementation,Spacejoker,Java 6,630,43315200
+263603,57,1295974921,3721,C,1900,combinatorics-math,I-juice,Java 6,470,43315200
+263598,57,1295974907,3707,A,1400,dfs and similar-greedy-implementation,yaro,Java 6,90,43315200
+263571,57,1295974793,3593,C,1900,combinatorics-math,mjmjmtl,Java 6,130,43315200
+263525,57,1295974636,3436,B,1600,implementation,DoublePointer,Java 6,940,43315200
+263510,57,1295974604,3404,B,1600,implementation,wistful23,Java 6,280,43315200
+263484,57,1295974548,3348,C,1900,combinatorics-math,uwi,Java 6,130,43315200
+263463,57,1295974493,3293,D,2400,dp-math,Egor,Java 6,170,43315200
+263416,57,1295974388,3188,A,1400,dfs and similar-greedy-implementation,billionerdv,Java 6,110,43315200
+263353,57,1295974198,2998,C,1900,combinatorics-math,Nenash,Java 6,90,43315200
+263308,57,1295974091,2891,B,1600,implementation,msagimbekov,Java 6,780,43417600
+263286,57,1295974041,2841,B,1600,implementation,timmy,Java 6,340,43315200
+263284,57,1295974036,2836,B,1600,implementation,S.Yesipenko,Java 6,330,43315200
+263268,57,1295973987,2787,A,1400,dfs and similar-greedy-implementation,Mohannad,Java 6,90,43315200
+263261,57,1295973967,2767,C,1900,combinatorics-math,Hadi_Asiaie,Java 6,90,43315200
+263239,57,1295973923,2723,A,1400,dfs and similar-greedy-implementation,fahimpatel,Java 6,140,43315200
+263174,57,1295973736,2536,C,1900,combinatorics-math,Rei,Java 6,110,43315200
+263152,57,1295973693,2493,B,1600,implementation,dalex,Java 6,300,43315200
+263089,57,1295973576,2376,B,1600,implementation,uwi,Java 6,610,43315200
+263052,57,1295973483,2283,A,1400,dfs and similar-greedy-implementation,MirOn,Java 6,90,43315200
+263043,57,1295973470,2270,B,1600,implementation,Shlakoblock,Java 6,270,43315200
+263038,57,1295973460,2260,C,1900,combinatorics-math,OgieKako,Java 6,250,43315200
+263025,57,1295973435,2235,C,1900,combinatorics-math,SpookyCookie,Java 6,90,43315200
+263012,57,1295973415,2215,C,1900,combinatorics-math,niyaznigmatul,Java 6,200,43315200
+262978,57,1295973355,2155,B,1600,implementation,pyshnograev,Java 6,280,43315200
+262935,57,1295973276,2076,C,1900,combinatorics-math,MaxBuzz,Java 6,450,43315200
+262872,57,1295973164,1964,B,1600,implementation,lordklotski,Java 6,270,43315200
+262863,57,1295973122,1922,A,1400,dfs and similar-greedy-implementation,marque,Java 6,110,43315200
+262832,57,1295973063,1863,B,1600,implementation,burdakovd,Java 6,220,43315200
+262829,57,1295973059,1859,B,1600,implementation,boski.jr,Java 6,940,43315200
+262764,57,1295972959,1759,A,1400,dfs and similar-greedy-implementation,uwi,Java 6,110,43315200
+262737,57,1295972912,1712,B,1600,implementation,it4.kp,Java 6,280,43315200
+262726,57,1295972902,1702,A,1400,dfs and similar-greedy-implementation,ahmedkotb,Java 6,130,43315200
+262719,57,1295972892,1692,C,1900,combinatorics-math,ivan.popelyshev,Java 6,90,43315200
+262699,57,1295972856,1656,A,1400,dfs and similar-greedy-implementation,sayuan,Java 6,110,43315200
+262684,57,1295972841,1641,B,1600,implementation,SergeyLazarev,Java 6,250,43315200
+262618,57,1295972744,1544,A,1400,dfs and similar-greedy-implementation,pyshnograev,Java 6,80,43315200
+262615,57,1295972739,1539,B,1600,implementation,wjomlex,Java 6,1000,43315200
+262609,57,1295972725,1525,B,1600,implementation,Nenash,Java 6,230,43315200
+262594,57,1295972694,1494,B,1600,implementation,zibada,Java 6,270,43315200
+262589,57,1295972682,1482,A,1400,dfs and similar-greedy-implementation,Katran,Java 6,90,43315200
+262564,57,1295972637,1437,A,1400,dfs and similar-greedy-implementation,aksonov,Java 6,90,43315200
+262512,57,1295972574,1374,C,1900,combinatorics-math,mmaxio,Java 6,360,43315200
+262500,57,1295972560,1360,B,1600,implementation,OgieKako,Java 6,220,43315200
+262493,57,1295972552,1352,A,1400,dfs and similar-greedy-implementation,dalex,Java 6,90,43315200
+262489,57,1295972549,1349,C,1900,combinatorics-math,Egor,Java 6,90,43315200
+262451,57,1295972485,1285,C,1900,combinatorics-math,yaro,Java 6,450,43315200
+262387,57,1295972388,1188,B,1600,implementation,SpookyCookie,Java 6,270,43315200
+262352,57,1295972332,1132,A,1400,dfs and similar-greedy-implementation,Slamur,Java 6,90,43315200
+262344,57,1295972326,1126,A,1400,dfs and similar-greedy-implementation,timmy,Java 6,110,43315200
+262334,57,1295972312,1112,B,1600,implementation,Rasifiel,Java 6,330,43315200
+262326,57,1295972305,1105,A,1400,dfs and similar-greedy-implementation,it4.kp,Java 6,90,43315200
+262325,57,1295972305,1105,A,1400,dfs and similar-greedy-implementation,S.Yesipenko,Java 6,110,43315200
+262323,57,1295972300,1100,A,1400,dfs and similar-greedy-implementation,msagimbekov,Java 6,110,43315200
+262296,57,1295972261,1061,B,1600,implementation,Rei,Java 6,230,43315200
+262233,57,1295972153,953,B,1600,implementation,niyaznigmatul,Java 6,250,43315200
+262214,57,1295972114,914,B,1600,implementation,Egor,Java 6,190,43315200
+262198,57,1295972091,891,B,1600,implementation,MaxBuzz,Java 6,250,43315200
+262162,57,1295972051,851,A,1400,dfs and similar-greedy-implementation,burdakovd,Java 6,90,43315200
+262116,57,1295971976,776,A,1400,dfs and similar-greedy-implementation,boski.jr,Java 6,130,43315200
+262085,57,1295971919,719,B,1600,implementation,ivan.popelyshev,Java 6,310,43315200
+262065,57,1295971890,690,A,1400,dfs and similar-greedy-implementation,piotr.kukla,Java 6,90,43315200
+262056,57,1295971882,682,A,1400,dfs and similar-greedy-implementation,SergeyLazarev,Java 6,90,43315200
+262039,57,1295971856,656,A,1400,dfs and similar-greedy-implementation,OgieKako,Java 6,110,43315200
+262027,57,1295971836,636,A,1400,dfs and similar-greedy-implementation,wjomlex,Java 6,110,43315200
+262007,57,1295971800,600,A,1400,dfs and similar-greedy-implementation,SpookyCookie,Java 6,90,43315200
+262006,57,1295971799,599,A,1400,dfs and similar-greedy-implementation,Ignorance,Java 6,110,43315200
+262004,57,1295971796,596,A,1400,dfs and similar-greedy-implementation,Rasifiel,Java 6,90,43315200
+261987,57,1295971762,562,A,1400,dfs and similar-greedy-implementation,Spacejoker,Java 6,90,43315200
+261983,57,1295971754,554,B,1600,implementation,mmaxio,Java 6,270,43315200
+261980,57,1295971747,547,A,1400,dfs and similar-greedy-implementation,Nenash,Java 6,80,43315200
+261974,57,1295971733,533,A,1400,dfs and similar-greedy-implementation,Egor,Java 6,80,43315200
+261947,57,1295971684,484,A,1400,dfs and similar-greedy-implementation,DoublePointer,Java 6,110,43315200
+261945,57,1295971678,478,A,1400,dfs and similar-greedy-implementation,Rei,Java 6,110,43315200
+261923,57,1295971644,444,A,1400,dfs and similar-greedy-implementation,wistful23,Java 6,90,43315200
+261918,57,1295971631,431,A,1400,dfs and similar-greedy-implementation,niyaznigmatul,Java 6,90,43315200
+261892,57,1295971558,358,A,1400,dfs and similar-greedy-implementation,ivan.popelyshev,Java 6,90,43315200
+261869,57,1295971470,270,A,1400,dfs and similar-greedy-implementation,mmaxio,Java 6,90,43315200
