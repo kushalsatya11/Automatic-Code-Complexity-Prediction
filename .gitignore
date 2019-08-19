@@ -1,0 +1,11 @@
+ASTExtractor/src/test/resources/project-dir.txt
+ASTExtractor/bin/
+ASTExtractor/target/
+*.class
+*.jar
+ASTExtractor/.project
+ASTExtractor/.settings/
+ASTExtractor/.classpath
+*.DS_Store
+ASTExtractor/.idea/
+*.iml
